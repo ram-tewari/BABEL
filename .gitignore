@@ -90,19 +90,59 @@ data/render/*
 # Config files with sensitive data
 config/job_status.json
 
-# Temporary scripts
-fix_*.py
-test_*.py
-diagnose_*.py
-regenerate_*.py
-rerender_*.py
-update_*.py
-verify_*.py
-manage_*.py
-rename_*.py
-write_*.py
-run_*.py
+# Temporary scripts (root level only, not in babel/)
+/*.py
+!/babel_api_server.py
+!/babel_server.py
+
+# Exclude test files in root
+/test_*.py
+/test_*.json
 
 # Response files
 *_response*.txt
 *_response*.json
+
+# Session and task documentation (keep only core docs)
+/*_COMPLETE.md
+/*_SUMMARY.md
+/*_STATUS.md
+/*_GUIDE.md
+/*_RESULTS.md
+/*_VERIFICATION.md
+/*_IMPLEMENTATION*.md
+/*_INTEGRATION*.md
+/*_FIX*.md
+/*_UPDATE*.md
+/TASK_*.md
+/PHASE_*.md
+/SESSION_*.md
+/CHAPTER_*.md
+/CHARACTER_*.md
+/BLOCK_*.md
+/PROMPT_*.md
+/AGENTIC_*.md
+/ARCHITECTURE_*.md
+/BACKEND_*.md
+/BATCH_*.md
+/CLI_*.md
+/CRITICAL_*.md
+/DEVIATIONS_*.md
+/FASTAPI_*.md
+/FINAL_*.md
+/FIXES_*.md
+/GROQ_*.md
+/JSON_*.md
+/LOCAL_*.md
+/METADATA_*.md
+/NEXT_*.md
+/OLLAMA_*.md
+/QUOTA_*.md
+/READING_*.md
+/READY_*.md
+/TEMPLATE_*.md
+/THOUGHT_*.md
+/UI_*.md
+/WORKFLOW_*.md
+!/README.md
+!/CHANGELOG.md

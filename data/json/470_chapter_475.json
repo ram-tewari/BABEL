@@ -55,8 +55,10 @@
       "content": "As Uriel's golden halo spread, the Celestial Galaxy Wheel was born."
     },
     {
-      "type": "action",
-      "content": "The Celestial Galaxy Wheel."
+      "type": "narration",
+      "content": "The Celestial Galaxy Wheel.",
+      "corrected": true,
+      "correction_id": 62
     },
     {
       "type": "action",
