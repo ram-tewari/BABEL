@@ -1,0 +1,940 @@
+{
+  "blocks": [
+    {
+      "type": "system_notification",
+      "content": "Chapter 306: Master of the Avatars (4)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Royal Guard",
+      "content": "But Your Majesty, this place is dangerous."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "King",
+      "content": "That is also for me to judge. The royal guard's duty is to protect the king. Is that not so?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Royal Guard",
+      "content": "I understand. Then please move to a slightly safer location."
+    },
+    {
+      "type": "action",
+      "content": "As Orkamp moved past Bosun and took a position on the south side of the grand hall."
+    },
+    {
+      "type": "narrator",
+      "content": "The nobles were infuriated. Since the king wasn't evacuating, they had no choice but to stay put as well."
+    },
+    {
+      "type": "action",
+      "content": "As the nobles gathered around Orkamp, their personal bodyguards followed closely behind."
+    },
+    {
+      "type": "narrator",
+      "content": "Regardless of their level, magic is a phenomenon that can erase a person's life in an instant. Since Bosun had decided to step in, the nobles had no intention of lending their shields to anyone else."
+    },
+    {
+      "type": "narrator",
+      "content": "Even so, it was a four-on-one battle. The senior members of the magic department, including a certified 4th-level magician, were on a different level of combat power compared to Zion."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bosun",
+      "content": "Seeing you cause such a ruckus, it seems the first prince candidate won't amount to much. After living in the palace for a few days, do you think everything belongs to you?",
+      "tone": "mocking"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I wouldn't take this place even if it were given to me. Bosun, was it? In other countries, you'd be polishing the shoes of great magicians. You've got it easy here, farming.",
+      "tone": "insolent"
+    },
+    {
+      "type": "action",
+      "content": "Bosun laughed in disbelief."
+    },
+    {
+      "type": "narrator",
+      "content": "He never expected to hear such insolence from a junior. More than anything, he felt extreme anger at having his specialty, plant magic, dismissed as mere farming."
+    },
+    {
+      "type": "narrator",
+      "content": "Of course, plant magic isn't specialized for combat. While combat magicians train one element, like ice or fire, to the extreme, plant magicians study various elements to change fertilizer composition or cultivation methods, enhancing agricultural productivity. In a sense, it's the furthest from combat. But a certified 4th-level magician would have at least one specialty to subdue an opponent, regardless of their field."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bosun",
+      "content": "You are too arrogant for your age. Well then, let me evaluate your skills this time.",
+      "tone": "stern"
+    },
+    {
+      "type": "action",
+      "content": "Bosun reached into his pocket and took out dozens of seeds, spreading them on his palm. Each was different in color, shape, and size."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bosun",
+      "content": "This is my specialty, 'A Handful of Seeds.' It's a comprehensive gift set of asexual plants I've improved. They're all mixed, so I don't know what will come out.",
+      "tone": "explanatory"
+    },
+    {
+      "type": "action",
+      "content": "Bosun scattered the seeds with a wave of his arm."
+    },
+    {
+      "type": "action",
+      "content": "As he expanded his Spirit Zone, the seeds sprouted in mid-air and quickly grew into plants, each revealing its unique characteristics."
+    },
+    {
+      "type": "action",
+      "content": "Three seeds of the Kawankra were the first to mature. The flowers were light green spheres that opened to reveal sharp teeth. The roots grew and grabbed Shirone's arms and legs, opening their jaws to attack."
+    },
+    {
+      "type": "sfx",
+      "content": "Kieeeek!"
+    },
+    {
+      "type": "action",
+      "content": "As Shirone exploded a short-range beam, the Kawankra flowers burst with a pop."
+    },
+    {
+      "type": "narrator",
+      "content": "Despite their ferocity, the durability of plants was lacking."
+    },
+    {
+      "type": "action",
+      "content": "But the other seeds settled and threatened Shirone with their unique traits."
+    },
+    {
+      "type": "action",
+      "content": "The giant plants formed a jungle on the north side of the grand hall."
+    },
+    {
+      "type": "narrator",
+      "content": "Bosun had improved a total of 87 plant species, so 'A Handful of Seeds' contained at least 30 different types."
+    },
+    {
+      "type": "action",
+      "content": "The scene around Shirone resembled a small ecosystem."
+    },
+    {
+      "type": "action",
+      "content": "The roots of the Kokora tree, known as the killer vine, climbed the walls and covered the ceiling. The Orto fungus spread spores that caused hallucinations, and the killer flowers on spring-like stems at the ceiling corners spewed acidic mucus."
+    },
+    {
+      "type": "action",
+      "content": "Shirone looked around with interest."
+    },
+    {
+      "type": "monologue",
+      "speaker": "Shirone",
+      "content": "To think human magic had advanced this far while he was trapped in the sealing formation. He could understand why the angels were so desperate for the final war."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Did you improve these yourself?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bosun",
+      "content": "That's not worth answering."
+    },
+    {
+      "type": "action",
+      "content": "As the killer plants attacked, Shirone evaded with teleportation. But the plants were everywhere."
+    },
+    {
+      "type": "action",
+      "content": "Bosun skillfully cornered Shirone. As the trees extended their branches, the space to evade gradually shrank."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bosun",
+      "content": "What do you think of a farmer's magic?",
+      "tone": "mocking"
+    },
+    {
+      "type": "narrator",
+      "content": "The sight of the trees moving their branches like living creatures was grotesque. But it was infused with excellent insights from nature."
+    },
+    {
+      "type": "narrator",
+      "content": "Plants have no muscles. The only way they can move is through 'growth.' Bosun's passive magic, 'Growth Acceleration,' speeds up plant growth by up to 100,000 times. That's why plants in the growth acceleration zone moved like animals. But this also meant the plants had short lifespans. The Kawankra, which normally lives about ten years, stops growing and becomes inactive after 40 minutes under growth acceleration. Of course, a Kokora tree, with an average lifespan of 1,200 years, could remain active for over 20 hours. But the average activity time for plants in 'A Handful of Seeds' was only about two hours, making long-term battles impossible. While growth acceleration creates activity, detailed movements are possible with the active magic 'Elemental Combination.' By injecting various elements into plants, specific instincts are triggered, including photosynthesis. It's similar to how humans exhibit meaningful behaviors in response to different hormones. Growth acceleration and elemental combination are called the heart and brain of plant magic for this reason."
+    },
+    {
+      "type": "action",
+      "content": "Bosun skillfully combined the two magics to fiercely corner Shirone."
+    },
+    {
+      "type": "action",
+      "content": "Flowers shot acidic mucus, and thorny vines moved like whips."
+    },
+    {
+      "type": "action",
+      "content": "As the plants grew, the space became increasingly saturated."
+    },
+    {
+      "type": "action",
+      "content": "When the vines intertwined three-dimensionally, leaving no room to evade, Shirone stopped teleporting."
+    },
+    {
+      "type": "action",
+      "content": "Vines descending from the ceiling wrapped around his limbs."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bosun",
+      "content": "Now I'll give you my evaluation. You fail.",
+      "tone": "triumphant"
+    },
+    {
+      "type": "narrator",
+      "content": "Though he said this, Bosun was boiling inside. In an environment without soil, the power of a plant magician is reduced. But it was still the prowess of a certified 4th-level magician. To come this far against an amateur was a complete loss of face in front of his subordinates."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bosun",
+      "content": "What's going on? Did you have an epiphany?",
+      "tone": "confused"
+    },
+    {
+      "type": "narrator",
+      "content": "A person can't change this much in just an hour. While personality can change with madness, the level of magic itself was different."
+    },
+    {
+      "type": "action",
+      "content": "Shirone pulled at the vines wrapped around his wrist. It was impossible to break them with a magician's body. Instead, the thorns scratched him, drawing blood."
+    },
+    {
+      "type": "action",
+      "content": "Bosun snorted."
+    },
+    {
+      "type": "narrator",
+      "content": "The plant prison was one of his most prideful magics. Its binding power was unmatched, and the wounds from the thorns paralyzed the nerves."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bosun",
+      "content": "Give up. Only a scale magician can escape this prison. If you surrender, I'll grant you a painless death.",
+      "tone": "threatening"
+    },
+    {
+      "type": "action",
+      "content": "Shirone blinked as he looked at Bosun. Then, with a look of realization, he spoke."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ah, scale magic.",
+      "tone": "realization"
+    },
+    {
+      "type": "action",
+      "content": "Shirone looked up at the prison's ceiling."
+    },
+    {
+      "type": "action",
+      "content": "The vines, bulging like tendons, formed walls like petrified lava. With such entanglement, the durability would be considerable."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "But that was fine."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Such a good method?",
+      "tone": "mocking"
+    },
+    {
+      "type": "action",
+      "content": "With a smirk at Bosun, Shirone immediately created a sphere of light before him."
+    },
+    {
+      "type": "action",
+      "content": "As he activated Immortal Function, the photon cannon's photon density increased dozens of times."
+    },
+    {
+      "type": "sfx",
+      "content": "Raaaargh!"
+    },
+    {
+      "type": "action",
+      "content": "All the nerves running through Shirone's body stood on end. The capillaries in his eyes burst, causing him to cry blood."
+    },
+    {
+      "type": "narrator",
+      "content": "Yet he didn't lose consciousness, thanks to the power of the Unbreakable Diamond. Shirone realized what he possessed and what he could do with it."
+    },
+    {
+      "type": "monologue",
+      "speaker": "Shirone",
+      "content": "He expanded his mind to the brink of the Unbreakable Diamond's elasticity. It didn't matter if it tore. If he could unleash this much power, he could play around, even at the cost of his life."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ekkashi",
+      "content": "Sir, we need to finish him now.",
+      "tone": "urgent"
+    },
+    {
+      "type": "action",
+      "content": "Seeing the photon cannon compressing immense kinetic energy, Ekkashi spoke. Bosun had no objections."
+    },
+    {
+      "type": "action",
+      "content": "Using elemental combination magic, he made the plants ravenous, and numerous carnivorous species emerged from the branches, baring their teeth at Shirone."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Shirone!",
+      "tone": "distraught"
+    },
+    {
+      "type": "action",
+      "content": "As the grand hall doors opened, Amy and Reina entered."
+    },
+    {
+      "type": "action",
+      "content": "They saw Shirone trapped in the dense forest. He looked worse than when they saw him in the food storage."
+    },
+    {
+      "type": "action",
+      "content": "His nervous system was protruding from his skin."
+    },
+    {
+      "type": "narrator",
+      "content": "It meant his brain was receiving an overwhelming amount of information, unbearable for a human. In this state, even if Shirone's personality returned, it was doubtful he could live a normal life."
+    },
+    {
+      "type": "sfx",
+      "content": "Raaaargh!"
+    },
+    {
+      "type": "action",
+      "content": "Shirone focused all the mental power drawn by Immortal Function on the God Particle."
+    },
+    {
+      "type": "action",
+      "content": "As the photon's mass increased, the photon cannon began to blur. The immense mass generated gravity, pulling in the photons."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Shirone! No!",
+      "tone": "desperate"
+    },
+    {
+      "type": "narrator",
+      "content": "The photon compression, incomparable to Shining Impact, sent chills down Amy's spine. She heard the hallucination of Shirone's mind being torn apart. The human mind is fluid but extremely vulnerable to sudden shocks. If Shirone exceeded his limits, he might never return to his senses."
+    },
+    {
+      "type": "action",
+      "content": "Numerous carnivorous species descended the trees like snakes, opening their jaws towards Shirone's flesh. At the same time, the photon cannon's light disappeared."
+    },
+    {
+      "type": "action",
+      "content": "With a pop, a black sphere the size of a human head was born. The mass was so extremely compressed that light couldn't escape and was sucked in."
+    },
+    {
+      "type": "narrator",
+      "content": "It was the dark sphere, the counterpart of the photon cannon."
+    },
+    {
+      "type": "sfx",
+      "content": "Kieeeek!"
+    },
+    {
+      "type": "action",
+      "content": "The small gravity field created by the dark sphere had a radius of one meter. The stems of the carnivorous species trapped in the gravity field snapped, and they were sucked into the dark sphere like water droplets through a straw."
+    },
+    {
+      "type": "action",
+      "content": "Next, the vines holding Shirone's limbs began to bend with a creaking sound."
+    },
+    {
+      "type": "action",
+      "content": "The vines struggled to resist but eventually snapped and were sucked into the dark sphere. Consequently, all the plants connected to the vines were torn from the walls and swirled around like a vortex."
+    },
+    {
+      "type": "sfx",
+      "content": "Crack! Crack!"
+    },
+    {
+      "type": "action",
+      "content": "The fibers broke, burst, and compressed in sequence, eventually being swallowed by the darkness of the dark sphere."
+    },
+    {
+      "type": "action",
+      "content": "Bosun watched in dismay."
+    },
+    {
+      "type": "narrator",
+      "content": "His specialty, 'A Handful of Seeds,' was completely destroyed. The only force that can trap light is gravity, and it requires an immense concentration of gravity."
+    },
+    {
+      "type": "thought",
+      "speaker": "Bosun",
+      "content": "Scale magic..."
+    },
+    {
+      "type": "narrator",
+      "content": "Shirone is an Unlocker, not a Scale Magician. However, by drastically enhancing gravity, he created changes in space similar to those made by Scale Magicians. Bosun thought that perhaps all Unlockers could be Scale Magicians."
+    },
+    {
+      "type": "action",
+      "content": "When the dark sphere disappeared, the forest that had taken root in the north of the grand hall was completely gone. Only some moss remained in the corners of the ceiling, and a few surviving flowers dripped acidic mucus before falling to the floor."
+    },
+    {
+      "type": "action",
+      "content": "Bosun turned his stiff neck to look at Shirone. Despite crying tears of blood, Shirone was smiling."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "How about my scale magic? Pretty easy, right?",
+      "tone": "mocking"
+    },
+    {
+      "type": "action",
+      "content": "As he spoke, a bucketful of blood poured from Shirone's mouth. Amy screamed."
+    },
+    {
+      "type": "action",
+      "content": "Even so, Shirone laughed like a madman."
+    },
+    {
+      "type": "monologue",
+      "speaker": "Shirone",
+      "content": "It's fine. I can still think. As long as I can fight, it's okay. My insides are still burning."
+    },
+    {
+      "type": "action",
+      "content": "Bosun trembled at his fingertips."
+    },
+    {
+      "type": "narrator",
+      "content": "Unable to contain his crushed pride. No matter how much of an Unlocker he was, this was too much. Due to the gravity-specialized magic, he couldn't launch an attack. But in terms of defense, it was unparalleled."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ekkashi",
+      "content": "I'll handle this."
+    },
+    {
+      "type": "action",
+      "content": "Ekkashi stepped forward with a cold expression."
+    },
+    {
+      "type": "narrator",
+      "content": "There are two main ways to stand out in combat magic: inventing a groundbreaking spell that shocks the world or being exceptionally skilled in combat. Ekkashi belonged to the latter category. Though small in stature, his combat sense was renowned throughout the kingdom."
+    },
+    {
+      "type": "system_notification",
+      "content": "Chapter 307: Master of the Avatars (5)"
+    },
+    {
+      "type": "action",
+      "content": "Without even thinking of wiping the blood off his lips, Shirone turned to Ekkashi."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Who are you? Are you stepping up, you little brat?",
+      "tone": "provocative"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ekkashi",
+      "content": "Bosun is the person I respect the most. You'd better shut your mouth.",
+      "tone": "cold"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Then you must die too. Bosun is one of the people I hate the most in this world.",
+      "tone": "hateful"
+    },
+    {
+      "type": "action",
+      "content": "As a combat magician, Ekkashi wasn't swayed by the provocation. Holding a short baton from inside his robe, he extended it in front of him and spoke in a cold voice."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ekkashi",
+      "content": "Lance of Magic, Freeze.",
+      "tone": "incantation"
+    },
+    {
+      "type": "action",
+      "content": "As he opened his palm, the baton didn't fall but spun in place. Like it was affected by centrifugal force, the ends extended, transforming into a lance longer than his height."
+    },
+    {
+      "type": "action",
+      "content": "Ekkashi grabbed the lance with both hands and swung it. A cold wind reached Shirone."
+    },
+    {
+      "type": "action",
+      "content": "After displaying a dazzling spear technique, Ekkashi took a final stance, aiming the lance. Ice shards fell from the blade with a cracking sound."
+    },
+    {
+      "type": "narrator",
+      "content": "Ekkashi specialized in ice magic, particularly in magical spear techniques, making him a typical combat magician. The magical weapon Freeze was a highly coveted and expensive weapon among ice magicians. It had a base magic amplification of 128%, with an additional 146% amplification for ice magic. Moreover, the blade of the lance had a special magic amplification of 280%, making it an incredibly powerful weapon. Thus, when Ekkashi cast ice magic on Freeze's blade, it could achieve a magic amplification of 554%."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Quite an impressive item for something made by humans."
+    },
+    {
+      "type": "action",
+      "content": "Shirone kept a close eye on the ice continuously falling from Freeze's blade."
+    },
+    {
+      "type": "narrator",
+      "content": "The ability to freeze the air was something only an authority in ice magic like Shina could achieve. Even with the power of a magical weapon, Ekkashi's combat prowess couldn't be underestimated."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ekkashi",
+      "content": "Blizzard Blade.",
+      "tone": "incantation"
+    },
+    {
+      "type": "action",
+      "content": "Ekkashi muttered in a cold tone and closed the distance with teleportation."
+    },
+    {
+      "type": "action",
+      "content": "As Freeze swiftly cut through the space, the air along the blade's path froze. A long line of ice formed like a rope, then shattered into pieces."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ekkashi",
+      "content": "It's disgraceful to use this on an amateur, but...",
+      "tone": "condescending"
+    },
+    {
+      "type": "action",
+      "content": "Ekkashi thrust the lance at the shortest distance."
+    },
+    {
+      "type": "action",
+      "content": "As Shirone cast a beam, Freeze's blade pierced through it, causing a shockwave."
+    },
+    {
+      "type": "action",
+      "content": "Both Shirone and Ekkashi retreated simultaneously. Then, they both sprang towards each other again."
+    },
+    {
+      "type": "narrator",
+      "content": "A close-quarters battle ensued, where a single mistake could be fatal."
+    },
+    {
+      "type": "action",
+      "content": "Seeing Ekkashi approach, Shirone slammed a photon cannon into the ground. The impact was strong enough to shake the floor, but Ekkashi had already leaped into the air."
+    },
+    {
+      "type": "action",
+      "content": "Suspended in mid-air, Ekkashi grabbed the end of Freeze's handle with one hand and spun, swinging the lance."
+    },
+    {
+      "type": "action",
+      "content": "A ring-shaped ice tube formed along the lance's trajectory. A spot of red blood marked one point."
+    },
+    {
+      "type": "action",
+      "content": "Shirone's back, bent over, was thinly sliced, and frozen blood burst from the wound."
+    },
+    {
+      "type": "sfx",
+      "content": "Raaaargh!"
+    },
+    {
+      "type": "action",
+      "content": "Shirone pushed off the ground, escaping Ekkashi's attack range. But he couldn't hold out for long and collapsed."
+    },
+    {
+      "type": "narrator",
+      "content": "The terror of Freeze lay in turning even minor wounds into fatal injuries. The pain in his back felt like it was on fire, and his consciousness began to fade."
+    },
+    {
+      "type": "action",
+      "content": "Ekkashi stood with the lance behind him, observing his prey's condition."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ekkashi",
+      "content": "Your movements are decent. But you're still inexperienced. Be content with becoming the fertilizer for my greatest legend.",
+      "tone": "condescending"
+    },
+    {
+      "type": "action",
+      "content": "As Shirone, with burning eyes, tried to respond, something rolled towards his feet."
+    },
+    {
+      "type": "action",
+      "content": "It was a fresh truffle."
+    },
+    {
+      "type": "narrator",
+      "content": "The dessert served at his parents' meal. The one that hid a lethal dose of poison beneath its sweet chocolate exterior."
+    },
+    {
+      "type": "action",
+      "content": "Shirone turned his head with a soulless expression. Bosun, who had kicked the chocolate, stood there with a mocking smile."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bosun",
+      "content": "How about it? Want to taste it now? It's really delicious.",
+      "tone": "cruel"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "...I've changed my mind.",
+      "tone": "cold"
+    },
+    {
+      "type": "action",
+      "content": "Shirone's face twisted like a demon's."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "All of you, die.",
+      "tone": "furious"
+    },
+    {
+      "type": "action",
+      "content": "Dozens of laser beams shot out from Shirone's body. There was no need for targeting. The beams indiscriminately scorched the walls, causing explosions wherever they touched. The grand hall shook."
+    },
+    {
+      "type": "action",
+      "content": "The nobles were thrown into chaos."
+    },
+    {
+      "type": "narrator",
+      "content": "They had thought they only needed to worry about Bosun's faction, but Shirone's indiscriminate attack made them realize this place wasn't safe."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Noble",
+      "content": "Damn it! What are you doing? Kill that bastard now!",
+      "tone": "frantic"
+    },
+    {
+      "type": "action",
+      "content": "Personal bodyguards charged at Shirone. Dozens of swordsmen drew their blades and rushed in, while Bosun's subordinates unleashed concentrated attacks with their respective specialties."
+    },
+    {
+      "type": "action",
+      "content": "Shirone, standing hunched over, cast a beam."
+    },
+    {
+      "type": "action",
+      "content": "As the infinite unit's heartbeat resonated, pure energy, invisible to the naked eye, filled the space."
+    },
+    {
+      "type": "action",
+      "content": "The floor beneath Shirone crumbled like a cookie, forming a deep hemispherical depression. The wind pushed by the light barrier sent people flying against the walls."
+    },
+    {
+      "type": "action",
+      "content": "But those present were more than capable. Though the initial surprise attack failed, they quickly regrouped and charged at Shirone again."
+    },
+    {
+      "type": "action",
+      "content": "Leading the charge was Ekkashi with Freeze."
+    },
+    {
+      "type": "action",
+      "content": "The wind, torn by the lance, froze into a blizzard and spread behind him. Shirone countered with a photon cannon, but Ekkashi swiftly circled around and seized Shirone's blind spot."
+    },
+    {
+      "type": "thought",
+      "speaker": "Ekkashi",
+      "content": "This ends now."
+    },
+    {
+      "type": "action",
+      "content": "As Ekkashi swung Freeze, a red flash appeared before his eyes."
+    },
+    {
+      "type": "sfx",
+      "content": "Ugh!"
+    },
+    {
+      "type": "action",
+      "content": "A thin laser grazed Ekkashi's nose as he leaned back."
+    },
+    {
+      "type": "action",
+      "content": "Losing his balance, he fell on his back, staring in disbelief at Freeze."
+    },
+    {
+      "type": "action",
+      "content": "The blade had been cut off, and the severed edge glowed red like molten lava."
+    },
+    {
+      "type": "thought",
+      "speaker": "Ekkashi",
+      "content": "Damn it, what kind of magic is this!"
+    },
+    {
+      "type": "narrator",
+      "content": "A light that could cut through metal. How much power did it take to achieve such a feat?"
+    },
+    {
+      "type": "narrator",
+      "content": "The guards, observing the situation, finally realized they had misjudged from the start. From the beginning, Shirone had considered everyone here his enemy. In a place filled with the highest-ranking nobles, their combat power was inherently limited. It was a classic guerrilla warfare scenario."
+    },
+    {
+      "type": "action",
+      "content": "A guard, thinking this far, cautiously asked."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Guard",
+      "content": "Deputy Commander, shouldn't we activate the magic control device...?",
+      "tone": "cautious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Deputy Commander",
+      "content": "Why are you asking, you fool? Get over there and activate it now!",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "content": "Shirone watched the guard run off and then turned his gaze indifferently."
+    },
+    {
+      "type": "monologue",
+      "speaker": "Shirone",
+      "content": "There wasn't much time left to fight anyway. Half of his consciousness was already in the afterlife. He couldn't tell if his legs were moving or if his limbs were already torn apart and he was hallucinating."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "I'll kill them all..."
+    },
+    {
+      "type": "narrator",
+      "content": "Only killing intent and rage remained."
+    },
+    {
+      "type": "monologue",
+      "speaker": "Shirone",
+      "content": "If he could kill everyone here, he wouldn't mind dying now. If he could quell the rage tearing his insides apart, nothing else mattered."
+    },
+    {
+      "type": "sfx",
+      "content": "Ugh!"
+    },
+    {
+      "type": "action",
+      "content": "Shirone, standing in the center of the grand hall, bent over and vomited blood."
+    },
+    {
+      "type": "narrator",
+      "content": "Even the durability of the Unbreakable Diamond had reached its limit. The process of his mind collapsing was filthier than any feeling. Immortal Function theoretically drew infinite mental power, but the human body had its limits. This was the end."
+    },
+    {
+      "type": "action",
+      "content": "As Shirone's movements ceased, everyone stopped as if on cue. In the silence, debris fell from the ceiling."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Noble",
+      "content": "Is it over?",
+      "tone": "uncertain"
+    },
+    {
+      "type": "action",
+      "content": "Those who had fought Shirone looked as if they had been trapped in a room with a ghost. Their eyes were sunken, and their faces glistened with sweat."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Noble",
+      "content": "Kill him! What are you waiting for? Kill him now!",
+      "tone": "frantic"
+    },
+    {
+      "type": "action",
+      "content": "The swordsmen, regaining their senses, hurriedly adjusted their stances and charged at Shirone. Dozens of swords aimed at every part of Shirone's staggering body."
+    },
+    {
+      "type": "action",
+      "content": "Shirone quietly awaited the end. Realizing it had come, he softly muttered."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Halo.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "content": "With a pop, light exploded, and a halo formed."
+    },
+    {
+      "type": "action",
+      "content": "The halo, like an angel's, appeared above his head, forming a perfect circle without any creation process. The shocked swordsmen dropped their weapons and clutched their heads."
+    },
+    {
+      "type": "narrator",
+      "content": "The nobles weren't shocked by the halo's shape. But in a different sense, their minds went blank. Having witnessed the power that destroyed the coliseum earlier that day, it didn't feel real. Then they finally realized. If Ataraxia was cast here, the palace would be obliterated without a trace. It was the true end. The accumulation speed of Ataraxia was more than ten times faster than the demonstration at the coliseum. The super magic amplification array, completing its concept in an instant, emitted a brilliant light, awaiting the end. None of the nobles thought of running. Even if they were weak in combat, they had used their brains to rise to this position. None were foolish enough to misjudge reality. No matter how fast they ran, they couldn't outrun Shirone's photon cannon. If even one person stepped out the door, that would be the end of Kazra."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Shirone...",
+      "tone": "distraught"
+    },
+    {
+      "type": "action",
+      "content": "Amy covered her mouth and burst into tears."
+    },
+    {
+      "type": "action",
+      "content": "Shirone's staggering figure was unbearable to watch. Blood flowed from his burst veins, and his once dark pupils were now red like blood-filled pools."
+    },
+    {
+      "type": "action",
+      "content": "Having reached the end of his life, Shirone was actually crying. Hot tears of blood streamed endlessly down his cheeks, contorted like a crying child."
+    },
+    {
+      "type": "action",
+      "content": "With a choked voice, he spoke."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You... you bullied me first.",
+      "tone": "agonized"
+    },
+    {
+      "type": "action",
+      "content": "Amy couldn't bear to watch and collapsed."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You tried to kill me. I did nothing wrong, but you tried to kill my mom, dad, and my friends!",
+      "tone": "anguished"
+    },
+    {
+      "type": "narrator",
+      "content": "No one responded to Shirone's anguished cry. It seemed like they were reflecting on their wrongs, but in reality, everyone was thinking about how to escape this situation. Especially Bosun, whose mind was racing faster than anyone else's."
+    },
+    {
+      "type": "monologue",
+      "speaker": "Bosun",
+      "content": "He had underestimated Shirone. No, that didn't make sense. He had assessed him accurately. If anger alone could elevate one's level, everyone would be a great magician. What on earth had happened to him?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Bosun",
+      "content": "Even if the garrison arrives now, it's too late. Where did we go wrong? Have we really lost? No, it doesn't make sense for a kingdom to fall to just one person. It can't be. It mustn't be."
+    },
+    {
+      "type": "action",
+      "content": "Bosun moved cautiously. When Shirone glared at him with red eyes, he immediately stopped."
+    },
+    {
+      "type": "narrator",
+      "content": "Shirone was currently insane and holding a doomsday bomb. Negotiation was the only way to survive."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bosun",
+      "content": "Alright, I understand. Let's talk. First, I apologize for tormenting you. We'll compensate you in some way. So, please, get rid of the halo...",
+      "tone": "pleading"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Kneel.",
+      "tone": "commanding"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Everyone kneel. No one moves. There's something you must hear before the end.",
+      "tone": "ominous"
+    },
+    {
+      "type": "action",
+      "content": "Bosun blinked and then, without hesitation, knelt down."
+    },
+    {
+      "type": "narrator",
+      "content": "With the kingdom's fate at stake, there was no room for emotions."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bosun",
+      "content": "Alright, is this satisfactory?",
+      "tone": "submissive"
+    },
+    {
+      "type": "action",
+      "content": "Shirone glared at the nobles behind Bosun."
+    },
+    {
+      "type": "action",
+      "content": "At Bosun's signal, they began to kneel one by one."
+    },
+    {
+      "type": "action",
+      "content": "Even Amy and Reina knelt."
+    },
+    {
+      "type": "narrator",
+      "content": "Shirone had seized control with a strategy of mutual destruction. If he appeared to have allies, someone would inevitably try to exploit that weakness. But Orkamp and Eliza thought differently. Shirone had toppled the Teraje faction. He would become a proud son of the kingdom and lead Kazra in the future."
+    },
+    {
+      "type": "action",
+      "content": "Eliza, with a look of overwhelming emotion, approached Shirone."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eliza",
+      "content": "My son, you saved the kingdom. Well done. Come here. Your mother is so proud of you...",
+      "tone": "emotional"
+    },
+    {
+      "type": "action",
+      "content": "A photon cannon shot towards Eliza's head."
+    },
+    {
+      "type": "action",
+      "content": "A royal guard, kneeling, leaped like a beast and shielded her, falling to the ground. The heavy mass struck the wall, creating a clean hemispherical dent. If it had hit a person, their head would have been blown off."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eliza",
+      "content": "Sh-Shirone...",
+      "tone": "terrified"
+    },
+    {
+      "type": "action",
+      "content": "Eliza, terrified, trembled with a pale face."
+    },
+    {
+      "type": "narrator",
+      "content": "The afterimage of the photon cannon still lingered on her retinas."
+    }
+  ],
+  "source_hash": "ebca35c6a080a2d17f37871a1b802da72ff13ae05d09bc7c957f07db2ce1cb6c",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T03:52:09.149522Z"
+}

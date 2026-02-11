@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\google\ai\generativelanguage_v1beta\services\retriever_service\client.py
+# hypothesis_version: 6.148.8
+
+['.googleapis.com', '.mtls.googleapis.com', '_credentials', 'always', 'api_key', 'async', 'auto', 'chunk.name', 'corpora/{corpus}', 'corpus.name', 'credentials', 'credentialsInfo', 'credentialsType', 'document.name', 'false', 'folders/{folder}', 'get_cred_info', 'googleapis.com', 'grpc', 'grpc_asyncio', 'name', 'never', 'parent', 'projects/{project}', 'rest', 'serviceName', 'true', 'universeDomain', 'universe_domain']

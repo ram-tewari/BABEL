@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\ruamel\yaml\scalarint.py
+# hypothesis_version: 6.148.8
+
+['BinaryInt', 'DecimalInt', 'HexCapsInt', 'HexInt', 'OctalInt', 'ScalarInt', 'anchor', 'underscore', 'width']

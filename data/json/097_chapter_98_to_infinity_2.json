@@ -1,0 +1,127 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Akein looked displeased.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Akein",
+      "content": "Hmph. You praising me? Even a stray dog would laugh.",
+      "tone": "displeased"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Are you sure about this? Even if your mental energy is restored, it's just your brain's illusion. If you push further, I can't guarantee your life.",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "There's no free lunch in magic. The mental energy restored by Abyss Memory came with the risk of brain death—an equivalent exchange.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Akein",
+      "content": "So? You're still trying to stop me?",
+      "tone": "defiant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "If you leave now, we can end this here. Perhaps it's your last chance. Everyone is still unharmed, so I can offer this. But if you cling to your obsession, you'll pay the price.",
+      "tone": "cautious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Akein",
+      "content": "Kukuku. Your tongue is as sharp as ever. Pretending to consider me, but you only care about yourself. Do you think your past will be buried if I leave? It's too late. Everyone here, and the students affected by Abyss Nova, will remember. You can no longer remain as headmaster.",
+      "tone": "sneering"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone looked at the students who had lost their memories. Once the magic wore off, they would remember everything that happened here. Even if the battle ended safely, it would be a disaster.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Akein",
+      "content": "Kekeke! Finally grasping the situation? How about I just kill everyone here? I might even help cover it up.",
+      "tone": "maniacal"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheas smirked slightly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Now you're joking.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Akein",
+      "content": "Then what about coming with me? I'm offering you the last chance. Shouldn't we fulfill Erina's legacy? Look. At what I've achieved. The magical bio-construct Harvest!",
+      "tone": "persistent"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone and the others turned to where Akein pointed. Harvest lay crumpled on the ground like a rag.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Akein",
+      "content": "...Well, it's a bit worse for wear. But the experiment succeeded. With your help, we can achieve even greater results. That's what Erina truly wanted.",
+      "tone": "proud"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Hearing Erina's name, Alpheas's eyes turned cold.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Master. Please come to your senses.",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Akein finally revealed his killing intent. Their petty exchange was meaningless. This was an irreconcilable feud from the start.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Akein",
+      "content": "Do you really think you can beat me? Headmaster? Don't make me laugh. Playing smart while making foolish decisions—some things never change, Alpheas.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The dark energy in the air coalesced into a fist again. In response, Alpheas slowly raised both hands, preparing to cast his own magic.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Akein",
+      "content": "No, this is right. One foolish decision is enough.",
+      "tone": null
+    }
+  ],
+  "source_hash": "3d008857d409505befc97b71bb765afd8dd7e03191c37a599d4102af8c1f1265",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T08:01:13.663126+00:00"
+}

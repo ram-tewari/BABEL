@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\pydantic\type_adapter.py
+# hypothesis_version: 6.148.8
+
+['$defs', 'P', 'R', 'T', 'TypeAdapter', 'TypeAdapterT', '__dict__', '__name__', '__pydantic_config__', '__slots__', 'defer_build', 'description', 'error', 'json', 'none', 'off', 'on', 'python', 'title', 'trailing-strings', 'typing', 'validation', 'warn']

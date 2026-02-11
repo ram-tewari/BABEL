@@ -1,0 +1,660 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "The students' reactions were varied. Especially Class Three, who didn't even understand what had happened."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Evaluation Teacher",
+      "content": "Shirone wins. Shirone gets 3 points. Dorothy gets 0 points.",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "content": "Despite the evaluation teacher's firm tone, Dorothy just nodded and returned to her seat, seemingly accepting the result."
+    },
+    {
+      "type": "thought",
+      "speaker": "Dorothy",
+      "content": "She knew there weren't many in the senior class who could match Shirone in interpersonal combat. This was the conclusion Dorothy had reached after watching Shirone's duel with Dante six months ago."
+    },
+    {
+      "type": "thought",
+      "speaker": "Dorothy",
+      "content": "Even if she gave it her all, she might last 10 minutes, but it would be foolish to sacrifice more for just 1 point."
+    },
+    {
+      "type": "thought",
+      "speaker": "Dorothy",
+      "content": "Manipulation-type magicians, especially those like Dorothy who manipulate physical objects, lose 80% of their power if their manipulated object is damaged."
+    },
+    {
+      "type": "thought",
+      "speaker": "Dorothy",
+      "content": "I can't spend a week repairing my doll."
+    },
+    {
+      "type": "action",
+      "content": "If she fought Shirone, who fired photons with mass relentlessly, her doll would end up as scrap metal after 10 minutes."
+    },
+    {
+      "type": "thought",
+      "speaker": "Dorothy",
+      "content": "Since there would be another interpersonal combat next week, the decision she made now was the best one."
+    },
+    {
+      "type": "action",
+      "content": "Shirone came down from the training ground in a daze. He had won 3 points but was still bewildered."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "What happened? How did it go?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Well, you see...",
+      "tone": "hesitant"
+    },
+    {
+      "type": "action",
+      "content": "Shirone explained Dorothy's proposal before the match."
+    },
+    {
+      "type": "action",
+      "content": "His friends were equally astonished. They hadn't considered that such a method could be used to gain points."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "When do I face Dorothy?",
+      "tone": "eager"
+    },
+    {
+      "type": "action",
+      "content": "Iruki smacked Nade on the back of the head."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Ouch! Why did you hit me? I was just joking...",
+      "tone": "hurt"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "I sensed 10% sincerity. Anyway, Dorothy won't use the same strategy again. She probably made that decision based on Shirone's personality and his relationship with Amy.",
+      "tone": "analytical"
+    },
+    {
+      "type": "action",
+      "content": "Shirone looked back at Dorothy. She was still sitting alone with an unreadable expression."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It felt like she was trying to use the information from the Courage of Truth. That's why I refused. She must have guessed my nature.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "I thought she was clueless, but she's quite calculating. The same goes for the other students. Their true colors show in real situations.",
+      "tone": "impressed"
+    },
+    {
+      "type": "action",
+      "content": "Nade rubbed the back of his head, looking upset."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Isn't she just weird? I don't get it. You're not defending her because she confessed to you, are you?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Enough nonsense. Just know that from Class Two onwards, they're quite cunning. We need to be on guard too.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "It sounds like you're defending her...",
+      "tone": "accusing"
+    },
+    {
+      "type": "action",
+      "content": "Iruki changed the subject."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Anyway, you're up next. Your opponent is Fermi. Do you have any strategy in mind?",
+      "tone": "encouraging"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Well, I'll just do what I usually do. If something comes up, I'll adjust.",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "You don't need to overdo it. It's only the first week. Besides, Fermi will likely take the lead this year too. In other words, today's points aren't that crucial for you.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "thought",
+      "speaker": "Nade",
+      "content": "If Fermi ended up being the top of the senior class, it wouldn't matter much whether Nade won or lost."
+    },
+    {
+      "type": "thought",
+      "speaker": "Nade",
+      "content": "But Nade thought differently."
+    },
+    {
+      "type": "action",
+      "content": "He didn't intend to take any evaluation lightly, especially against someone expected to be Shirone and Iruki's toughest opponent."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "I know. But if I can draw out Fermi's skills, it'll be easier for you to strategize when you face him. I'll aim to win, but even if it's a draw, I'll at least gauge his capabilities.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "content": "Another match ended in the second training ground, and the evaluation teacher called out Nade and Fermi's names."
+    },
+    {
+      "type": "action",
+      "content": "Nade gave a thumbs-up and headed to the training ground."
+    },
+    {
+      "type": "action",
+      "content": "When he reached the center, Fermi leisurely walked over, admiring the scenery as if he were a salaryman taking a stroll after lunch."
+    },
+    {
+      "type": "action",
+      "content": "Feeling disrespected, Nade glared at Fermi with cold eyes."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Wow, those eyes are fierce. Let's take it easy, it's the first day, junior.",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "content": "Nade didn't even snort."
+    },
+    {
+      "type": "thought",
+      "speaker": "Nade",
+      "content": "Regardless of the collusion in the graduation exam, he had a score to settle with Fermi."
+    },
+    {
+      "type": "thought",
+      "speaker": "Nade",
+      "content": "Last year, Shirone had been trapped in a time-space maze and fell into a near-death state."
+    },
+    {
+      "type": "thought",
+      "speaker": "Nade",
+      "content": "Fermi had led the student council in acknowledging Shirone's death and proceeding with funeral arrangements."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Do you know how much you pissed me off? Your leisure ends now.",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "content": "The two exchanged glances and stepped back. Fermi turned first, followed by Nade."
+    },
+    {
+      "type": "action",
+      "content": "As they loosened their limbs in their respective positions, the scoreboard lights changed from green to yellow to red."
+    },
+    {
+      "type": "action",
+      "content": "As soon as the second training ground system activated, Nade charged forward with electricity crackling in his hands."
+    },
+    {
+      "type": "thought",
+      "speaker": "Nade",
+      "content": "I'll uncover everything about you in these 10 minutes!"
+    },
+    {
+      "type": "action",
+      "content": "Three minutes later."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Evaluation Teacher",
+      "content": "Fermi wins! 3 points for Fermi. Nade gets 0 points.",
+      "tone": "firm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Whew, that was close.",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "content": "Despite his words, there wasn't a drop of sweat on his face as he left the training ground."
+    },
+    {
+      "type": "action",
+      "content": "Nade was kneeling in the center of the second training ground like a puppet with its strings cut."
+    },
+    {
+      "type": "action",
+      "content": "Thanks to the 80% synchronization rate, he hadn't lost consciousness, but the psychological shock seemed significant."
+    },
+    {
+      "type": "action",
+      "content": "Nade's eyes were vacant as he stared at the ground."
+    },
+    {
+      "type": "action",
+      "content": "Seeing no sign of movement, Shirone and Iruki hurried over."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hey, Nade, are you okay? Snap out of it.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "He's completely out of it. Let's just take him away.",
+      "tone": "practical"
+    },
+    {
+      "type": "action",
+      "content": "The two grabbed Nade's arms and dragged him out of the training ground like a sack of potatoes."
+    },
+    {
+      "type": "action",
+      "content": "As the students burst into laughter, Amy sighed and shook her head."
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Oh, those fools..."
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Though it was a ridiculous sight, she understood Nade's feelings."
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "The fight had seemed intense, but Fermi's mental strength gauge hadn't dropped below 90%. It meant he had barely taken any effective hits."
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "In fact, Fermi had driven Nade to a groggy state using only the 36 standard spells, without any special major magic."
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Like clothes getting soaked in a drizzle, Nade couldn't even pinpoint what had hit him."
+    },
+    {
+      "type": "action",
+      "content": "Shirone shook Nade worriedly."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Nade, snap out of it. Are you okay?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Of course, I'm fine. Did you think I'd be down from this?",
+      "tone": "defensive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "What happened? You said you'd last 10 minutes.",
+      "tone": "disappointed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Didn't you respond too poorly? You should have pushed a bit more. You could have landed some effective hits.",
+      "tone": "disappointed"
+    },
+    {
+      "type": "action",
+      "content": "Nade turned his head without answering. He stared intently at Fermi's back as he walked to the other side of the training ground."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Shirone, be careful.",
+      "tone": "cautionary"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Huh?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "That guy... he's really strong.",
+      "tone": "impressed"
+    },
+    {
+      "type": "action",
+      "content": "It seemed like he had let his guard down."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Of course, he is. He beat you.",
+      "tone": "teasing"
+    },
+    {
+      "type": "thought",
+      "speaker": "Nade",
+      "content": "I'm serious! Do you think I just lost?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Alright. Anyway, don't worry too much about one loss. You won't face the same opponent twice. Just forget about it and do well in tomorrow's evaluation.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "thought",
+      "speaker": "Iruki",
+      "content": "He also felt that Nade could have been more aggressive in the fight."
+    },
+    {
+      "type": "thought",
+      "speaker": "Iruki",
+      "content": "But Nade... didn't do that."
+    },
+    {
+      "type": "thought",
+      "speaker": "Iruki",
+      "content": "Strange. He's calling someone strong."
+    },
+    {
+      "type": "thought",
+      "speaker": "Iruki",
+      "content": "It was the first time in six years of knowing him that he had heard Nade say that."
+    },
+    {
+      "type": "thought",
+      "speaker": "Iruki",
+      "content": "But if Nade said so, it was worth being cautious. He had an animal-like instinct for battles."
+    },
+    {
+      "type": "thought",
+      "speaker": "Iruki",
+      "content": "I didn't sense it. Is it beyond my cognitive range?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Iruki",
+      "content": "If Fermi could thoroughly hide his skills in front of the entire senior class, that was the only explanation."
+    },
+    {
+      "type": "thought",
+      "speaker": "Iruki",
+      "content": "In any case, Shirone, who didn't know Nade's past, was just heartbroken over his friend's defeat."
+    },
+    {
+      "type": "thought",
+      "speaker": "Iruki",
+      "content": "Thinking that Nade's loss shouldn't affect Iruki's performance, he quickly changed the atmosphere."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Iruki, don't let your guard down. Binder hasn't stood out, but unexpected threats often come from such people.",
+      "tone": "cautionary"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "I never let my guard down. I'll finish it in 3 minutes.",
+      "tone": "confident"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "That's letting your guard down..."
+    },
+    {
+      "type": "action",
+      "content": "Shirone's thoughts didn't reach Iruki, who had already left."
+    },
+    {
+      "type": "action",
+      "content": "Iruki faced Binder in the center of the second training ground."
+    },
+    {
+      "type": "action",
+      "content": "True to his dislike for pretense, he briefly made eye contact and then turned away."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Binder",
+      "content": "It's an honor to meet you, Iruki.",
+      "tone": "sarcastic"
+    },
+    {
+      "type": "action",
+      "content": "Binder spoke to Iruki's back."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Binder",
+      "content": "You're the son of Merkodine Albino, the head of Yongroe.",
+      "tone": "accusing"
+    },
+    {
+      "type": "action",
+      "content": "Binder pointed to himself."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Binder",
+      "content": "Do you know my advanced class theory score? 100 points. It's one of the highest in Alpheus Magic School's history. And no one can break my record. Why? Because it's 100 points.",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "So, what's your point?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Binder",
+      "content": "I'm going to join Yongroe. No, I'll become the head of Yongroe someday.",
+      "tone": "ambitious"
+    },
+    {
+      "type": "action",
+      "content": "The head of Yongroe had been held by the Merkodine family for 300 years."
+    },
+    {
+      "type": "action",
+      "content": "The family had also designated Iruki as the next head of Yongroe."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Binder",
+      "content": "Listen well, Iruki. The kingdom's greatest intellect won't be you, but me, Binder.",
+      "tone": "accusing"
+    },
+    {
+      "type": "action",
+      "content": "Lost in thought, Iruki strode forward."
+    },
+    {
+      "type": "action",
+      "content": "Binder, who had been full of confidence, flinched and stepped back as Iruki approached without warning."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Binder",
+      "content": "W-what? The duel starts after the second training ground activates...",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Please.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Binder",
+      "content": "...What?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Please do it. I've heard it since I was born, and I'm sick of it. You take down my father and become the head of Yongroe. I'll cheer for you. Good luck.",
+      "tone": "sarcastic"
+    },
+    {
+      "type": "action",
+      "content": "Binder stared blankly at Iruki's back as he walked away after saying that."
+    },
+    {
+      "type": "thought",
+      "speaker": "Binder",
+      "content": "What? You've heard it since you were born? Sick of it? Do you even know how many scholars have shed blood and sweat just to get close to the gates of Yongroe?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Binder",
+      "content": "Binder's fists trembled."
+    },
+    {
+      "type": "thought",
+      "speaker": "Binder",
+      "content": "He didn't want to reveal his full power from the first week, but it was different with Iruki. He intended to crush his future rival completely."
+    },
+    {
+      "type": "action",
+      "content": "As soon as the second training ground activated, Binder teleported to close the distance."
+    },
+    {
+      "type": "action",
+      "content": "With a perfect score in the theory exam, his specialty allowed him to execute all basic magic with near-perfect precision."
+    },
+    {
+      "type": "action",
+      "content": "Fireballs, wind cutters, and ice spears flew in alternation."
+    },
+    {
+      "type": "action",
+      "content": "Iruki, overwhelmed by the relentless attack, distanced himself and activated the Bomblet Barrier."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Binder",
+      "content": "Hmph! I've already analyzed that!",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "content": "Binder extended his finger and fired a barrage of air guns, a basic press-type spell."
+    },
+    {
+      "type": "action",
+      "content": "Though chilling to Shirone, it was much weaker than Gaold's version."
+    },
+    {
+      "type": "action",
+      "content": "However, its accuracy was quite high."
+    },
+    {
+      "type": "action",
+      "content": "As the spells pierced through the dense arrangement of the Bomblet Barrier, Iruki teleported into the air."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Binder",
+      "content": "I knew you'd do that!",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "content": "A blazing fireball formed between his palms."
+    },
+    {
+      "type": "thought",
+      "speaker": "Binder",
+      "content": "Did you think just having a perfect specialty would be enough? There's a limit to underestimating people!"
+    },
+    {
+      "type": "action",
+      "content": "Flames of the Flame Strike spell ignited in Binder's hands."
+    },
+    {
+      "type": "action",
+      "content": "It was a level difficult to execute without specializing in fire magic, but Binder's perfect specialty easily surpassed basic fusion magic."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Binder",
+      "content": "This ends now!",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "content": "Confident, Binder extended his hands in a magical action, casting his desperate spell."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Huh?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "content": "But the fireball, which should have shot out like an arrow, fizzled out right in front of him."
+    },
+    {
+      "type": "thought",
+      "speaker": "Binder",
+      "content": "No way... Cancellation?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Binder",
+      "content": "A chill ran down the back of his neck."
+    }
+  ],
+  "source_hash": "9447d407ffb8be0265cb7cef7e21cb7b22d0d099bc4e0e9b27b57325adbfcf9e",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T05:28:55.786774Z"
+}

@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\google\ai\generativelanguage_v1beta\types\retriever_service.py
+# hypothesis_version: 6.148.8
+
+['CreateChunkRequest', 'CreateCorpusRequest', 'DeleteChunkRequest', 'DeleteCorpusRequest', 'GetChunkRequest', 'GetCorpusRequest', 'GetDocumentRequest', 'ListChunksRequest', 'ListChunksResponse', 'ListCorporaRequest', 'ListCorporaResponse', 'ListDocumentsRequest', 'QueryCorpusRequest', 'QueryCorpusResponse', 'QueryDocumentRequest', 'RelevantChunk', 'UpdateChunkRequest', 'UpdateCorpusRequest']

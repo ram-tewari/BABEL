@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\prompt_toolkit\key_binding\bindings\auto_suggest.py
+# hypothesis_version: 6.148.8
+
+['([^\\s/]+(?:\\s+|/))', 'c-e', 'c-f', 'escape', 'f', 'right']

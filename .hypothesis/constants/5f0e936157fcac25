@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\google\api_core\client_logging.py
+# hypothesis_version: 6.148.8
+
+['DEBUG', 'credentialsInfo', 'credentialsType', 'google', 'httpRequest', 'httpResponse', 'message', 'metadata', 'name', 'request', 'response', 'retryAttempt', 'rpcName', 'serviceName', 'severity', 'timestamp', 'universeDomain']

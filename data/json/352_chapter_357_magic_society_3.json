@@ -1,0 +1,650 @@
+{
+  "blocks": [
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "This situation isn't as rare as I thought. What should I do? Should I go?"
+    },
+    {
+      "type": "action",
+      "content": "A terrorist attack on civilians was a serious crime, and the kingdom would respond immediately."
+    },
+    {
+      "type": "narrator",
+      "content": "There wouldn't be much he could do at the scene, but ignoring it and returning to the Association didn't sit well with him."
+    },
+    {
+      "type": "action",
+      "content": "A second wave of people fleeing the scene rushed towards the main street."
+    },
+    {
+      "type": "action",
+      "content": "As they passed by, Shirone could hear more details about the situation."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's the Black Revolutionaries! They're holding hostages in Gold City!",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Damn it. Of all people, it had to be those crazy bastards.",
+      "tone": "frustrated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What are the anti-terrorism units doing? Haven't they been contacted yet?",
+      "tone": "inquisitive"
+    },
+    {
+      "type": "action",
+      "content": "There was plenty of noise, but no one was heading towards Gold Tower."
+    },
+    {
+      "type": "narrator",
+      "content": "That was natural and as it should be. There was nothing ordinary people could do against terrorists, so it was better to leave it to the experts."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "What should I do?"
+    },
+    {
+      "type": "action",
+      "content": "As a magic school student, he wasn't a professional. But he wasn't so inexperienced that he would just stand by while people were dying."
+    },
+    {
+      "type": "action",
+      "content": "Amidst the people standing on the sidewalk watching the smoke, he heard someone say"
+    },
+    {
+      "type": "narrator",
+      "content": "Shirone's resolve began to solidify."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "I should at least go and assess the situation."
+    },
+    {
+      "type": "action",
+      "content": "He could protect himself, so it was better to go."
+    },
+    {
+      "type": "narrator",
+      "content": "As someone who was at the scene, he could provide initial response, and even as a student, he had enough combat experience."
+    },
+    {
+      "type": "action",
+      "content": "Having made his decision, Shirone ran towards the rising smoke."
+    },
+    {
+      "type": "action",
+      "content": "People on the sidewalk shouted at him as he ran against the flow of traffic."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Citizen",
+      "content": "Hey, kid! Don't go that way! It's a terrorist zone!",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "content": "Shirone stopped."
+    },
+    {
+      "type": "narrator",
+      "content": "But it wasn't because of the citizen's warning."
+    },
+    {
+      "type": "action",
+      "content": "The box he was carrying was rattling, making it hard to run fast."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He could leave it behind, but he couldn't risk losing the Association's items just to assess the situation."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Whatever!",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "content": "Shirone steeled himself and cast a teleportation spell."
+    },
+    {
+      "type": "sfx",
+      "content": "ΓÇö"
+    },
+    {
+      "type": "action",
+      "content": "Transforming into a flash of light, he shot through the air, leaving the onlookers staring wide-eyed at the sky."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Onlooker",
+      "content": "What the... He's a magician?",
+      "tone": "surprised"
+    },
+    {
+      "type": "action",
+      "content": "The terrorist attack was quickly reported to the kingdom's major institutions."
+    },
+    {
+      "type": "action",
+      "content": "The Magic Association was no exception."
+    },
+    {
+      "type": "action",
+      "content": "When news of the Black Revolutionaries bombing Gold Tower reached them, the Association moved swiftly."
+    },
+    {
+      "type": "action",
+      "content": "The kingdom's security agency sent a cooperation request, and the Association responded, offering all possible support."
+    },
+    {
+      "type": "narrator",
+      "content": "However, information wasn't directly relayed to an 8th-grade certified magician."
+    },
+    {
+      "type": "action",
+      "content": "Plu was still in the control room on the third floor, overseeing the maintenance of the magic control device."
+    },
+    {
+      "type": "narrator",
+      "content": "She did notice the commotion outside."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "What's going on? Keep working for a moment.",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "content": "Opening the control room door and stepping into the corridor, she saw the guards gathered in a corner, whispering."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Guard",
+      "content": "Ah, Chief. There's been a terrorist attack in the city by the Black Revolutionaries.",
+      "tone": "serious"
+    },
+    {
+      "type": "narrator",
+      "content": "Plu's expression darkened at the mention of the Black Revolutionaries."
+    },
+    {
+      "type": "narrator",
+      "content": "In Radum, the underbelly of Vashka, many non-human races who lost in the conquest wars lived alongside criminals."
+    },
+    {
+      "type": "narrator",
+      "content": "Due to city policies, non-humans were prohibited from economic activities, leading to widespread discontent."
+    },
+    {
+      "type": "narrator",
+      "content": "This discontent had accumulated, resulting in the formation of extremist terrorist groups like the Black Revolutionaries."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Filthy scum. What are they thinking, targeting civilians?",
+      "tone": "outraged"
+    },
+    {
+      "type": "narrator",
+      "content": "Plu wanted to rush to the scene and crush them."
+    },
+    {
+      "type": "narrator",
+      "content": "But if everyone started abusing their authority, there would be no one left at the Association."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "So, where is it this time?",
+      "tone": "inquisitive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Guard",
+      "content": "Ah, it's at Gold Tower. They really picked a target.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "What? They breached Gold Tower?",
+      "tone": "alarmed"
+    },
+    {
+      "type": "narrator",
+      "content": "Gold Tower was a foreign exchange bank where foreign currencies were traded."
+    },
+    {
+      "type": "narrator",
+      "content": "Although the kingdom's treasury held a certain amount of foreign currency, even a temporary disruption in transactions could lead to significant trade losses."
+    },
+    {
+      "type": "thought",
+      "speaker": "Plu",
+      "content": "Security there is tight. How did they get in?"
+    },
+    {
+      "type": "narrator",
+      "content": "Plu's shoulders tensed."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Guard",
+      "content": "Wait a minute! Did you say Gold Tower?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Yes. Why? Do you have a deposit there...?",
+      "tone": "inquisitive"
+    },
+    {
+      "type": "narrator",
+      "content": "Plu's mind raced."
+    },
+    {
+      "type": "narrator",
+      "content": "Gold Tower was just a block away from Akim Alchemy Shop."
+    },
+    {
+      "type": "thought",
+      "speaker": "Plu",
+      "content": "Wait, what time is it? Considering the time..."
+    },
+    {
+      "type": "narrator",
+      "content": "Even accounting for variables, he should be at the scene by now."
+    },
+    {
+      "type": "thought",
+      "speaker": "Plu",
+      "content": "Her heart began to pound."
+    },
+    {
+      "type": "narrator",
+      "content": "What scared her most was the thought of something happening to the guest who was supposed to meet Gaold."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Damn it!",
+      "tone": "frustrated"
+    },
+    {
+      "type": "action",
+      "content": "Plu abandoned her thoughts and ran down the corridor."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Guard",
+      "content": "Chief, where are you going?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "I'm going out! I'll be back soon!",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "content": "Plu bounded down the stairs."
+    },
+    {
+      "type": "action",
+      "content": "As she exited the main gate, she saw citizens anxiously looking in one direction."
+    },
+    {
+      "type": "action",
+      "content": "Spotting the faint smoke in the distance, Plu immediately cast a photon transformation spell."
+    },
+    {
+      "type": "sfx",
+      "content": "ΓÇö"
+    },
+    {
+      "type": "action",
+      "content": "Her body turned into light and shot through the sky with a roar."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Stay still! I'll kill anyone who tries anything!",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "content": "There were eight members of the Black Revolutionaries who had bombed Gold Tower."
+    },
+    {
+      "type": "action",
+      "content": "All wore black hoods and carried menacing weapons."
+    },
+    {
+      "type": "action",
+      "content": "Armed with chain scythes, double axes, flails, and longswords, they roamed the inside of Gold Tower, while the 20 hostages trembled in fear."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Terrorist",
+      "content": "You are now sacrifices for the revolution. Be prepared to give your lives to free our comrades! Those who resist will face a fate worse than death!",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Hostage",
+      "content": "Waaah! Mommy, I'm scared!",
+      "tone": "terrified"
+    },
+    {
+      "type": "action",
+      "content": "A four-year-old boy clung to his mother, crying."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mother",
+      "content": "Shh! Be quiet. Don't cry.",
+      "tone": "soothing"
+    },
+    {
+      "type": "action",
+      "content": "Despite her low, firm voice, the boy's cries didn't stop."
+    },
+    {
+      "type": "narrator",
+      "content": "Terrorists don't do these things with a sound mind."
+    },
+    {
+      "type": "narrator",
+      "content": "Already agitated, the crying child made them even more irritated."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Terrorist",
+      "content": "Stop crying! If you keep crying, I'll kill you first!",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mother",
+      "content": "Waaah! Mommy! Mommy!",
+      "tone": "terrified"
+    },
+    {
+      "type": "action",
+      "content": "The mother hugged her child tightly, bowing her head repeatedly."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mother",
+      "content": "I'm sorry! I'm sorry! I'll quiet him down. He'll stop soon.",
+      "tone": "pleading"
+    },
+    {
+      "type": "action",
+      "content": "The terrorist had no intention of waiting."
+    },
+    {
+      "type": "action",
+      "content": "All the hostages here were destined to die for the revolution."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Terrorist",
+      "content": "Shut up! Do you think the revolution is a joke?",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "content": "The terrorist kicked the child, sending the mother sprawling to the floor."
+    },
+    {
+      "type": "action",
+      "content": "The child flew several meters and collapsed."
+    },
+    {
+      "type": "action",
+      "content": "Gasping for breath, a woman quickly ran over, cradling the child and soothing him."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Woman",
+      "content": "Why are you hitting a child? He's scared, so of course he's crying!",
+      "tone": "indignant"
+    },
+    {
+      "type": "action",
+      "content": "A medium-sized terrorist with a scythe approached, swinging the chain."
+    },
+    {
+      "type": "action",
+      "content": "The woman, with her blonde hair pulled back, looked wealthy, her attire and jewelry luxurious."
+    },
+    {
+      "type": "narrator",
+      "content": "Her name was Aria."
+    },
+    {
+      "type": "narrator",
+      "content": "She was the same woman who had shared a carriage with Shirone a few days ago."
+    },
+    {
+      "type": "narrator",
+      "content": "She had come to exchange money for a diplomatic internship next week and was now trapped by the Black Revolutionaries."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Terrorist",
+      "content": "Shut up. Nothing is more important than completing the revolution.",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Woman",
+      "content": "Hmph! Revolution? You just want money, don't you? Take all the money here and leave!",
+      "tone": "defiant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Terrorist",
+      "content": "Money?",
+      "tone": "amused"
+    },
+    {
+      "type": "narrator",
+      "content": "To the Black Revolutionaries, money was like toilet paper."
+    },
+    {
+      "type": "narrator",
+      "content": "They couldn't use it for any economic activities in Vashka anyway."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Terrorist",
+      "content": "Take all the money here and leave!",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "content": "The terrorist grabbed Aria, twisting her arm behind her back."
+    },
+    {
+      "type": "action",
+      "content": "Then he used his arm holding the scythe to choke her."
+    },
+    {
+      "type": "action",
+      "content": "The sharp blade of the scythe glinted menacingly before Aria's eyes."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Terrorist",
+      "content": "Is it because you're a rich girl? You smell amazing. How about showing off your body to everyone?",
+      "tone": "lecherous"
+    },
+    {
+      "type": "action",
+      "content": "A thick, bluish tongue emerged from the darkness of the hood."
+    },
+    {
+      "type": "action",
+      "content": "It was twice as long as a human's, and the saliva reeked."
+    },
+    {
+      "type": "action",
+      "content": "Aria grimaced and turned her head away."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Terrorist",
+      "content": "Hey, we don't have time to play. The anti-terrorism unit will be here soon. Let's get started.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "content": "One of the two men from Akim Alchemy Shop said, looking outside."
+    },
+    {
+      "type": "action",
+      "content": "The terrorist, having no real interest in the woman, complied."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Terrorist",
+      "content": "Fine, let's make her the first target. She's a noble and pretty, so it'll be effective. Too bad, miss. But you've lived happily until now.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "content": "The Black Revolutionaries would stop at nothing to achieve their demands."
+    },
+    {
+      "type": "narrator",
+      "content": "They only wanted the release of their comrades."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aria",
+      "content": "Please, save me! Save me!",
+      "tone": "desperate"
+    },
+    {
+      "type": "narrator",
+      "content": "But none of the hostages stepped forward to help her."
+    },
+    {
+      "type": "action",
+      "content": "The child's mother just held her child tightly, eyes shut."
+    },
+    {
+      "type": "action",
+      "content": "The terrorist with the scythe dragged Aria outside through the broken door of Gold Tower."
+    },
+    {
+      "type": "action",
+      "content": "The streets, now deserted by fleeing citizens, were desolate."
+    },
+    {
+      "type": "action",
+      "content": "Only nearby shopkeepers watched the situation from inside their stores."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Terrorist",
+      "content": "Listen up! We are the Black Revolutionaries! Release our deputy leader, Kanimar, and our comrades imprisoned in the dungeon immediately! If you don't, we will kill one person every ten minutes! To prove our resolve, we will kill this woman right here and now!",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aria",
+      "content": "Ahh! Please save me! Help!",
+      "tone": "desperate"
+    },
+    {
+      "type": "action",
+      "content": "The shopkeepers watching turned their heads one by one, unable to meet Aria's eyes."
+    },
+    {
+      "type": "narrator",
+      "content": "The Black Revolutionaries were known to follow through on their threats."
+    },
+    {
+      "type": "narrator",
+      "content": "Unfortunately for the poor young woman, today seemed to be her last day."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Terrorist",
+      "content": "Stay still. If you want to blame someone, blame the kingdom.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "content": "The terrorist's scythe touched Aria's neck."
+    },
+    {
+      "type": "action",
+      "content": "He had no intention of killing her quickly."
+    },
+    {
+      "type": "action",
+      "content": "That wouldn't be effective."
+    },
+    {
+      "type": "action",
+      "content": "By cutting halfway through her neck, her life would slowly fade away in agony."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Terrorist",
+      "content": "Die for the revolution!",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "content": "The terrorist's voice was so sincere that it convinced Aria this was the end of her life."
+    },
+    {
+      "type": "action",
+      "content": "Her legs gave out, and she couldn't even scream."
+    },
+    {
+      "type": "action",
+      "content": "The fear of death paralyzed her mind, and her body convulsed uncontrollably."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Terrorist",
+      "content": "Wait! Wait a moment!",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "content": "Just as the terrorist was about to slash Aria's neck, someone appeared in the desolate street."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What?",
+      "tone": "concerned"
+    }
+  ],
+  "source_hash": "116a4ac76673cd3e5dfd8306f2ba15fa7f8f958366cbbd60c6bd94b07189593e",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T05:08:00.399988Z"
+}

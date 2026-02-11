@@ -1,0 +1,703 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Forced Breakthrough (1)",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "I'm aware we're being tracked by the Magic Association. Yet, how could there be no message from them at all? Had I not taught my subordinates the taste of money, our organization would have crumbled by now.",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Falcoa",
+      "content": "Cut the crap! You're not in a position to tell me what to do, are you? We're neither the Parrot Mercenaries nor a band of thieves. We're just a gang stuck on this island!",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "So... you intend to act like a hooligan to the very end?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Falcoa",
+      "content": "Hmph! I earned it! I earned it and kept the organization running! And you dare to criticize me instead of offering praise? Then what have you been doing all this time?",
+      "tone": "defensive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "You don't need to worry about that. If you're not going to follow the rules I've set, then abandon the name 'Parrot' right now.",
+      "tone": "firm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Falcoa",
+      "content": "Ha, threatening me with that? Fine, I'll abandon it! Parrot? We've been a freeman organization ever since you ran away!",
+      "tone": "defiant"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Falcoa burst out in a roar of rage.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even Marsha couldn't have expected such a reaction.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The honor of being the strongest mercenary group was not something that could be exchanged for mere money, her blood was mixed in with the Parrots as well.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "If you can't give up being a Parrot, then follow my words. I won't tell you to live a good life, but if you want something, fight for it. I can't tolerate exploiting the weak.",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Falcoa was fuming.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Falcoa",
+      "content": "He hated Marsha for using him even though she knew he couldn't leave the Parrots.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "I always get what I want. You'll be the same. Someday, you'll belong to me.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Instead of getting angry, Marsha soothed him with a gentle smile as if she was calming an unruly child.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "It's refreshing to hear that after a long time. Anyway, do your best. I don't block men coming to me, nor do I hold back those who wish to leave.",
+      "tone": "calm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Falcoa clenched his fist and glared at Marsha, his eyes blazing with fire.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He was indeed using a powerful eye technique, but Marsha's expression didn't change, showing her strong mental fortitude.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Falcoa",
+      "content": "Tch, you're as annoying as ever. I'm done here. I'm going out for a drink.",
+      "tone": "irritated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Stay put in the hideout. There's going to be a meeting with the commanders and above. And from this moment, drugs are prohibited. If I catch anyone, they'll really have to face my wrath.",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Without responding, Falcoa stormed out of the warehouse, but Marsha knew.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He would attend the meeting and wouldn't touch drugs.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The one who could lead him back to the blood-soaked battlefield had returned.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After the subordinates left, Freeman returned to being Marsha's hometown friend and greeted her anew.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "It's good to see you back safely. I was worried when I couldn't contact you.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "I couldn't contact because I was running. Don't you have any sense? Did you think I'd be caught that easily? But what's up with Falcoa? Can he even be used in this state? He was a whirlwind with a sword in his hand, even if he was mad.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "It's not just Falcoa's fault. It's us who took the battlefield away from him.",
+      "tone": "reflective"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Huh, well, it's me, actually.",
+      "tone": "nonchalant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "But it's thanks to him that we've managed to gather funds so far. I've prepared everything so we can flee to another country anytime now that you're back.",
+      "tone": "practical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha puffed up her cheeks, seemingly displeased.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "She knew how Falcoa had managed to bring in funds.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In the end, are humans bound to conform to reality? The glory of the once fearless Parrot Mercenaries was now a thing of the past.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When I left home at seventeen, it was the mercenary group I formed with my hometown friend, Freeman.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Fooled by politicians, I lost the foundation of my life, but I wanted to preserve the value of the Parrot.",
+      "tone": "reflective"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "Ah, when did we become like this?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "We've been betrayed by the state. It's inevitable if we want to survive.",
+      "tone": "resigned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "Yeah, I guess so. But Freeman, you haven't gone bad, have you?",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Freeman remained silent.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Freeman",
+      "content": "He felt no prick of conscience.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "The organization, the name Parrot, none of that matters to me. I only wish for your safety.",
+      "tone": "genuine"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha shivered, feeling creeped out.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even a dog wearing a Parrot tag would know Freeman's feelings.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "You only wish for my safety? Why on earth?",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "Because you're our leader.",
+      "tone": "obedient"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha snorted.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Hearing his answer, it seemed there was no need to worry about Freeman.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Anyway, now that I'm back, we need to reorganize.",
+      "tone": "practical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha intended to lead the organization and seek asylum in another country for a fresh start, but first, she had to clean up the mess her subordinates had made.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sob! Sob!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha turned at the sound of weeping.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Yuna was crying pitifully, unable to even think of escaping.",
+      "tone": "concerned"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Although she was spared from a terrible fate, Marsha could understand.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Just the fact of being mishandled by an unknown man was enough to wound a woman's heart deeply.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "What happened? Where did this child come from?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "One of Falcoa's men had a street solicitor brother. This is his sister.",
+      "tone": "informative"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "The madman. He's now laying hands on his subordinate's sister?",
+      "tone": "disapproving"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "Who knows? His head was shaped like money.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Is there something I don't know?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Freeman relayed the stories he heard from his subordinates, from the anecdotes between Zis and Amy to Shirone storming the palace, and how they ended up bringing Yuna here.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Ah, now that I think about it, I know this story too.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "You know? How could you know about this incident?",
+      "tone": "surprised"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "You know, I'm a genius. Life is entangled in such ways, after all.",
+      "tone": "smug"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "What happened? Tell me.",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If Marsha wouldn't say, Freeman had no intention of pressing.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "She had always stirred things up when bored, and that was her only escape in this world.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha received numerous agendas from Freeman.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "There wasn't anything particularly troubling.",
+      "tone": "nonchalant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "The funds Falcoa had gathered were more than enough for a fresh start in another country, and Freeman's troops were not lacking in combat strength.",
+      "tone": "practical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "It's all good. Well done. But should we just leave the assets as they are?",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "Are you bothered by the funds Falcoa gathered?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "It's a bit... you know? It's time for Parrot's resurgence, but starting the organization with money earned from selling drugs.",
+      "tone": "disapproving"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "That's unlike you. Money is money, after all. I don't like how it was earned either, but burying money just because of that seems childish.",
+      "tone": "practical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "I know. Anyway, let's leave this matter for the meeting later. For now...",
+      "tone": "nonchalant"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At that moment, a member burst into the room.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha and Freeman looked at him, puzzled.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Member",
+      "content": "Oh? Leader? You're back?",
+      "tone": "surprised"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "What's wrong? Got a stomachache? There's no bathroom here.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Member",
+      "content": "Leader! It's a disaster! We're under attack!",
+      "tone": "alarmed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Attack? What sudden attack? Is it the government?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Member",
+      "content": "It doesn't seem so. They're just kids, a group of four. According to the report, it seems like two mages and two swordsmen.",
+      "tone": "informative"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha knew who they were just from hearing this.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Huh, if it's that detestable brat, it's quite possible. Is there a kid named Shirone among the attackers?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Member",
+      "content": "I'm sorry. I don't know the names...",
+      "tone": "apologetic"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "Leader, wouldn't it be better to just hand over the girl? It'd be troublesome to stir up a commotion while we're trying to regroup.",
+      "tone": "practical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Hmm, handing over the girl. Wouldn't that be a bit absurd? Kidnapping her and then returning her when they come looking. Or what, you think they might actually breach this place?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "There's no chance of that. While you were away, I've fortified this place thoroughly. The magical formations and magical artifacts are strategically placed. Unless they're quite skilled, they'd die before even reaching the first barrier.",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Then there's no problem, right? Go and kill them. I'll take care of this girl. Have you lost your touch after a few years off? You're completely clueless.",
+      "tone": "teasing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As soon as Marsha spoke, Freeman immediately ordered his men to prepare for battle.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was embarrassing to show a lack of discipline in front of the leader, especially when he thought he had prepared well.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "Everyone to your training positions. This is a real combat situation.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Member",
+      "content": "Yes! I'll relay the message right now!",
+      "tone": "enthusiastic"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Freeman's men moved swiftly, gathering their arms and forming units.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It took less than 5 minutes for everyone to move to their positions.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha then sat down with a satisfied smile.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "You've worked hard, at least. I thought you'd been slacking off all this time.",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "Everyone's been waiting for today. They're working harder because you're back.",
+      "tone": "proud"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Hmph, how long do I have to baby you? It's time for you to manage on your own. What about you? Aren't you going to fight?",
+      "tone": "exasperated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "I'll stay here. Protecting your side is my duty.",
+      "tone": "loyal"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha looked up at Freeman with an incredulous expression.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "True, as an initial member of the mercenary group, he had performed bodyguard duties.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But every time, Marsha had to brush off the goosebumps on her arms.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Seriously, you're so pathetic. You think I find you impressive with this?",
+      "tone": "exasperated"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Freeman, having made up his mind, didn't seem to plan on leaving Marsha's side.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha's face turned red with anger.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She had always disliked this about him since childhood.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His inability to express emotions and his stubborn behavior had irritated her more than once.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Hey! Don't just stand there, get out! What, you think you're my husband or something?",
+      "tone": "exasperated"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sitting in her chair, Marsha lifted her leg and kicked Freeman's buttocks.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With that, as if propelled by inertia, Freeman moved.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He kept silent till the end and quietly left the warehouse.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Once everyone had gone, Marsha stretched leisurely, as if nothing had happened, and smiled freely.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The anticipation of battle was real, but she was more curious about Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone was the kind Marsha despised the most.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Those who truly embrace others' pain do not exist in this world.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Her adoptive father had also revealed his true nature in the end.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The mercy shown to an orphan was in fact the footprints of vile desires, and when Marsha realized this, she awoke.",
+      "tone": null
+    }
+  ],
+  "source_hash": "c030b00aca3b23405cb3a28a7e7f40d65580e657fe40433d653a07c11fc1e3d1",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T16:17:01.538697+00:00"
+}

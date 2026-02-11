@@ -1,0 +1,793 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Where is Shirone?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If any other student had introduced themselves like this, they would have been met boos, but Dante was an exception.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The students had no choice but to keep their mouths shut, out of pride that they already knew him enough through magazines to understand why there was no need for an introduction.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After the introductions of Savina and Closer, class began.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The mental theory teacher was Carman, a 60-year-old philosopher with an officially certificated 8-rank mage.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He had a decent reputation in Creas, but his classes were generally considered boring.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Carman",
+      "content": "Today, we will explore the algorithm for distinguishing between individuality and stubbornness. We all wish to be different from others, but simply being different is not individuality.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dante and his companions were uninterested from the start. This subject ranked around the 400th in importance at the Royal Magic Academy.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Closer",
+      "content": "This class is so dull. Who cares if it's individuality or stubbornness? You live as you are. Why are we studying mental theory at our age?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Dante wasn't interested in the lesson either. His curiosity was piqued by a student named Shirone.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "In his morning meeting with Olivia, she had given Dante the special task of defeating this Shirone.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "Since it was his specialty, Dante readily accepted.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "He didn't know who Shirone was, but until now, he must have been arrogantly holding his head high. Dante planned to ensure he couldn't even lift his head after today.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "But this is strange. Why isn't he ranked first?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "If he was someone who had been given the special order to be trampled by a second-rank archmage, he should naturally be ranked first in the advanced class.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "However, the first-ranked student was that mama's boy.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "So then who the hell is Shirone?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dante's eyes scanned the students. His gaze fixed on one boy.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was Mercodyne Iruki.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "Right, he's here too.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "When he was attending the Royal Magic Academy, there was a possibility of a rivalry between them, but it fell through when he transferred academies.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "As time passed, he became the best in the kingdom, and Iruki was not even included in the magazines, so it was safe to say that the gap had widened.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "No, in fact, he thought that all the students here were not even close to the students of the Royal Magic Academy.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The Royal Magic Academy has no class distinctions. There is only a ranking from first to last.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Those ranked 30th or higher, known as the Magic Wall, are eligible to take the graduation exam, and Dante and his group are currently ranked 31st, 32nd, and 33rd.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "Dante was confident that he would pass the graduation exam even if he took it right now.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "However, his only goal was to get first place.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Within the top 30, there was even a 32-year-old student.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even if their skills were lacking, their experience of attending academy for over 20 years cannot be ignored, so he was determined to prepare well and graduate with the best grades.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The five prestigious academies received ten graduation tickets from Magic Association each year.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With those tickets, Alpheas Magic Academy also produces ten graduates every year.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "However, Royal Magic Academy is granted the privilege of being the best academy in the kingdom by given ten more chapters to the existing ten.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Given the capital's large population and the advantage that two-thirds of the students could pass the graduation exam, it was only natural that the best mage aspirants in the kingdom flocked there.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In the end, the 30 graduating class of Alpheas Magic Academy and the top 30 students of the Royal Magic Academy were on different levels.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "For Dante, simply being assigned to Class Four with a cutoff of 30 people was a blow to his pride.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Anyway, first of all, he needed to see who the boy named Shirone was.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Hey, who is Shirone?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Girl",
+      "content": "Huh? Sh- Shirone? He's the one sitting at the very end. Why do you ask?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dante turned his head to Shirone without even responding.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Surprisingly, he was the boy sitting next to Iruki.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Also, he was one of the students Dante had initially dismissed as unlikely to be anyone special.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Hmm, he looks like he studies well. But he doesn't seem particularly strong.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Closer",
+      "content": "Kukuk, just another bookworm. This rural academy seems to be full of them. I'm already bored to death. When do we get to practical training?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Savina",
+      "content": "He may have bad fashion sense, but he's good-looking. His personality seems calm as well, which is typical of an Unlocker.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Boyle",
+      "content": "Hmph, if he's relying on Immortal Function, he should go meditate on a mountain. What are you doing at a magic academy?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Though Immortal Function was rare, it wasn't an absolute measure of magical prowess.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "This fact could be seen just by looking at the fact that among the five nationally recognized first-rank mage, only one was an Unlocker.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Carman's mental theory class was nearing its end.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Carman",
+      "content": "When you think of an idea, the more difficult it is to put that idea into practice, the more individuality you have. Also, if you can easily get others to agree with you, you can call it a belief. The problem is when the difficulty is low and you can't get others to agree with you. That's what we call stubbornness.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The students nodded and Dante dozed off.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Carman",
+      "content": "From now on, you will have to think about many things. Individuality and conviction are good. But don't fall into stubbornness. Something that others cannot do, but can gain their approval. If such a thought comes to you, it is likely the right one.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The bell signaling lunchtime rang.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The students clapped, eager for a break, and Carman left the room satisfied.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Carman",
+      "content": "Hey, guys, I'm off now.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone hurriedly packed his bag.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lunch was the only time he could meet Alpheas, so he was in a rush.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Girl",
+      "content": "Are you okay? You're not even eating?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Is it only a day or two that I'm starving? Who know, maybe the principal will buy me something delicious?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Girl",
+      "content": "Alright. Anyway, do your best.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "And I might be late, so tell the teacher for me.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "While the students prepared to head to the dining hall, Closer stretched his arms and yawned widely.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Closer",
+      "content": "Huahhh, is it over now? Damn. I just took one class and it's already so boring. How am I supposed to survive here for six months?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Still, there's practical training in the afternoon, so it might be better.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Dante, Dante. Wake up. It's lunchtime.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dante rubbed his eyes and got up from his sleep.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Huahhh, what kind of class is this, sleeping pills? Anyway, let's get started. It's only polite to introduce ourselves since we've arrived in their territory.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dante looked back at Shirone with sharp eyes, but he couldn't find him anywhere.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "What? Where did he go?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Just as Dante was about to move, Boyle and Pandora blocked his path.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Boyle",
+      "content": "Nice to meet you. I've heard of your reputation. I'm Chris Boyle.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Boyle. What rank are you?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Boyle",
+      "content": "Boyle. What rank are you?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Boyle",
+      "content": "Boyle was annoyed that the person the kingdom's greatest star cared about was Shirone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Boyle",
+      "content": "But he smiled at the thought that showing his feelings would mean losing.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Boyle",
+      "content": "Shirone just moved up this semester, so he doesn't have a rank yet. But he's definitely a promising talent. You could say he's my rival, though I'm likely to move up to the graduation class.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dante continued to stare at Boyle's still-extended hand.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "I'm sorry, but I haven't heard of you. In other words, I don't see why I should shake hands with you. Are you saying that because you're the top of the advanced class, I should bow to you?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Boyle",
+      "content": "Boyle's face flushed. While he hadn't intended it that way, a part of him had hoped for a similar reaction.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Boyle",
+      "content": "We-We're classmates. I meant let's be friends….",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Classmate? So you're saying we're equals cause we're in the same class now?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Feeling a cold chill from Dante's stare, Boyle took a step back.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Boyle",
+      "content": "What is your major?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Puhahahaha!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Closer, who burst into laughter, came closer in an instant and struck Boyle in the stomach.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Boyle's feet lifted a span off the ground before he crashed to his knees.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Boyle",
+      "content": "Academy- Academy violence is…. Ugh!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Closer's kick landed in Boyle's abdomen.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Although Closer enjoyed fighting unlike any mage, this time he felt bad about hitting him.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Seeing a seventeen-year-old make a face as if the world was ending after a single blow. They were all boring kids, as if they were from a rural village.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Just wait for now. Soon enough, everyone will be under me.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The air in the classroom grew icy.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "No one dared challenge Dante and his group after they revealed their true colors within an hour.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Savina",
+      "content": "What's with that makeup? It's so different here in the countryside. Do you work at a bar at night?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Pandora's face turned bright red.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She was known to be second to none when it came to being bold, but this was the first time she had been insulted like this.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Savina",
+      "content": "Huhu, it's better if you don't move. My hand is quite sharp.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Pandora couldn't move.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Savina's touch was gentle, but her words were not a lie. A cold chill lingered.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Savina",
+      "content": "Let's see, what should we do with this feisty one...?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Iruki, who had been watching, intervened.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Cut it out. We're not even kids.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Savina frowned and turned around.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "It's been a while, Iruki.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "What, how do you know me?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "A vein pulsed on Dante's forehead.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "They had never directly spoken before, but their rivalry had been widely discussed.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "There's no way Iruki wouldn't know that fact. He was clearly ignoring Dante intentionally.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Wahahaha! Let's not fight. It's the first day of the semester, would it good if we start it with a fight? We're going to be studying together, so we should get along. Right?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even from Dante's perspective, it wasn't beneficial to make an enemy out of Iruki.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "While he had no intention of being friendly, Iruki was from the prestigious Mercodyne Family.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Where's Shirone?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Shirone? Aha, Shirone is famous! But I'm pretty popular too. Why don't we be friends? I'm the president of the Paranormal Psychic Science Research Club...",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Closer immediately jumped out and swung his fist at Nade who tried to stall for time.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The fist narrowly missed Nade's upper body as he tilted back.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Closer",
+      "content": "Hoo, look at this kid?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Closer's eyebrows rose.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dodging by such a small margin without even blinking was a sign he was used to fighting.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "For someone who's laughing, your body's ready for combat.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Uwa, that scared me! Why'd you do that all of a sudden?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Hmph, forget it. Whatever your plan is, I have no business with a coward like you.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dante reluctantly turned to Iruki.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Hey, you know, right? Where's Shirone?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Why are you looking for Shirone?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "I was just going to say hello. His academy life is going to be tough from now on. Surely you wouldn't be like that coward and say you don't know, right? You, from the world-renowned Mercodyne Family?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Of course not. Shirone is over here.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Iruki pointed to his feet.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "What, on the first floor?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "No. Somewhere on this planet.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Leaving those words behind, Iruki and Nade left the classroom.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dante was so angry that his ears turned red.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "That bastard...",
+      "tone": null
+    }
+  ],
+  "source_hash": "a2696aa1cc048a0c6522c6d1dfd0b96b2d39a1f370930b7af73c070b5fe1dab7",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T17:27:30.127643+00:00"
+}

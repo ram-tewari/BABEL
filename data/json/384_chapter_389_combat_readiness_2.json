@@ -1,0 +1,715 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "Combat Readiness (2)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What is this feeling?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "content": "Even after the song ended, Shirone remained rooted to the spot, unable to calm her pounding heart."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Maya",
+      "content": "Hey? Shirone!",
+      "tone": "friendly"
+    },
+    {
+      "type": "action",
+      "content": "Maya, noticing her, greeted her with a bright smile."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Maya",
+      "content": "Come in. What brings you here?",
+      "tone": "welcoming"
+    },
+    {
+      "type": "action",
+      "content": "Shirone lifted her toothbrush to shake off any suspicions of having been eavesdropping."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I thought I'd wash up. I heard music, so I came to see.",
+      "tone": "casual"
+    },
+    {
+      "type": "action",
+      "content": "Not caring, Maya moved from the piano bench and gestured for her to sit."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Maya",
+      "content": "Sit here. There's no other chair. Ah, if you're busy, though...",
+      "tone": "polite"
+    },
+    {
+      "type": "action",
+      "content": "Since Shirone was battling with the top students of her graduating class, she assumed she didn't have time for idle chatter."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No, it's fine. I didn't have anywhere else to go anyway.",
+      "tone": "relieved"
+    },
+    {
+      "type": "action",
+      "content": "The piano bench was small, and Maya had a fuller figure. As their arms brushed against each other, an unfamiliar feeling passed through the contact of their skin."
+    },
+    {
+      "type": "action",
+      "content": "Her skin was soft, but slightly cold."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone, feeling awkward, spoke up first."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Haha, why didn't you tell me you sang so well? I'm not really into music, but it seems like you're way better than a professional.",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "content": "A hint of sadness flashed in Maya's eyes, and Shirone realized her mistake."
+    },
+    {
+      "type": "action",
+      "content": "With such incredible talent, there had to be a reason why Maya wasn't a professional."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ah, sorry. If it's something that hurts...",
+      "tone": "apologetic"
+    },
+    {
+      "type": "action",
+      "content": "Maya smiled and shook her head."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Maya",
+      "content": "It was like this from the start.",
+      "tone": "reflective"
+    },
+    {
+      "type": "action",
+      "content": "On the day of the Paranormal Spiritual Science Research Society's presentation, Maya had first seen Shirone speaking on the rooftop."
+    },
+    {
+      "type": "action",
+      "content": "Proving the invisible."
+    },
+    {
+      "type": "action",
+      "content": "The way she had persuaded the entire student body back then had been shocking to her."
+    },
+    {
+      "type": "action",
+      "content": "Shirone had been the brightest star in the school."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Should I... sing for you?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Maya",
+      "content": "Yes. I'd love to hear it.",
+      "tone": "enthusiastic"
+    },
+    {
+      "type": "action",
+      "content": "Maya placed her hands on the piano keys and began singing."
+    },
+    {
+      "type": "action",
+      "content": "Shirone immediately immersed herself in the music."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "She had thought it was just sound. But there was a power in her voice that moved people's hearts."
+    },
+    {
+      "type": "action",
+      "content": "For this moment, she wasn't a mage, not concerned with her graduation, her tribe's struggles, or her family's poverty."
+    },
+    {
+      "type": "action",
+      "content": "She was singing only for the happiness of those who listened."
+    },
+    {
+      "type": "action",
+      "content": "In this moment, Maya wasn't a student either."
+    },
+    {
+      "type": "action",
+      "content": "She was an artist."
+    },
+    {
+      "type": "action",
+      "content": "As the celestial song ended, a gentle afterglow lingered."
+    },
+    {
+      "type": "action",
+      "content": "Shirone held her breath, not exhaling until the last note disappeared into silence."
+    },
+    {
+      "type": "action",
+      "content": "Finally, a quiet sigh escaped from her trembling lips."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Haaa...",
+      "tone": "exhilarated"
+    },
+    {
+      "type": "action",
+      "content": "A diva. A goddess stood before her."
+    },
+    {
+      "type": "action",
+      "content": "Shirone couldn't resist the intense gaze Maya gave her."
+    },
+    {
+      "type": "action",
+      "content": "The fire of her gaze seeped into her heart."
+    },
+    {
+      "type": "action",
+      "content": "She felt she could accept anything Maya gave her."
+    },
+    {
+      "type": "action",
+      "content": "Outside the window, the setting sun was sinking."
+    },
+    {
+      "type": "action",
+      "content": "Week 8 of the Special Skill Enhancement Time had arrived."
+    },
+    {
+      "type": "narrator",
+      "content": "This was a highly competitive subject where students evaluated their proficiency in twenty different areas related to their major, with scores being distributed based on self-assessment."
+    },
+    {
+      "type": "narrator",
+      "content": "The goal was to gain an advantage in the rankings."
+    },
+    {
+      "type": "action",
+      "content": "Before the evaluation, students had to report their challenge tasks."
+    },
+    {
+      "type": "action",
+      "content": "For example, if a student decided to challenge three items up to level 7 but failed to reach that level, they would not earn any points for that week."
+    },
+    {
+      "type": "narrator",
+      "content": "Therefore, if even one point was needed, it was wise to choose a moderate difficulty."
+    },
+    {
+      "type": "narrator",
+      "content": "Conversely, if high scores were needed, it was better to take risks and increase the difficulty."
+    },
+    {
+      "type": "action",
+      "content": "Shirone sat with her friends, watching other students' special skill evaluations."
+    },
+    {
+      "type": "narrator",
+      "content": "The reason for her sharp analytical gaze was that after tomorrow, they would face off against the Screamers in a hill capture battle."
+    },
+    {
+      "type": "action",
+      "content": "Shirone's team was already decided, but the members of the Screamer team were still unknown."
+    },
+    {
+      "type": "narrator",
+      "content": "Therefore, it was best to analyze as many majors as possible today."
+    },
+    {
+      "type": "action",
+      "content": "The special skill enhancement evaluation differed from other subjects in that it involved actual magic casting, not just theory."
+    },
+    {
+      "type": "action",
+      "content": "Each area was equipped with various devices, particularly the impact test, which resembled the maze orb seen in the Kergo ruins."
+    },
+    {
+      "type": "action",
+      "content": "After seven students finished their evaluations, it was Pisho's turn."
+    },
+    {
+      "type": "action",
+      "content": "The evaluator checked the evaluation sheet and looked up."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Evaluator",
+      "content": "Pisho, what are your challenge tasks?",
+      "tone": "professional"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pisho",
+      "content": "I will challenge three items: differentiation, gigantification, and mutation. The difficulty levels are 5, 6, and 5, respectively.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "content": "Pisho, the oldest in the graduating class at twenty-five, did not stand out in evaluations but his insect magic always excited Shirone."
+    },
+    {
+      "type": "narrator",
+      "content": "Pisho has raised the difficulty by one level since last week. It's only week 8 and he's already moving into the intermediate level."
+    },
+    {
+      "type": "narrator",
+      "content": "He's twenty-five. He has at least five more years of experience in his major than others."
+    },
+    {
+      "type": "narrator",
+      "content": "He'll probably pass easily this time too."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "At this point, Shirone, there's something you must know.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Pisho is the president of the Ant Language Research Society.",
+      "tone": "informative"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ant Language Research Society? Is there such a thing?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "It's a society that operates in the shadows like ours. They analyze the pheromone language of ants to meet the queen ant. They probably intend to establish a diplomatic agreement.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "content": "After thinking for a moment, Shirone asked."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "But why do I need to know that?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Idiot! If they make an agreement with the queen ant, they'll attack the Paranormal Psychic Science Research Society. It's not just about recruiting a few ants. All the ants under the queen will become enemies!",
+      "tone": "alarmed"
+    },
+    {
+      "type": "action",
+      "content": "Shirone tried to say something but eventually turned her head without a word."
+    },
+    {
+      "type": "action",
+      "content": "Iruki continued."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Insect magic is a very niche field. It's good to observe it while we can.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Is it similar to summoning magic?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "No. Summoning perfectly mimics a specific target close to reality. Although insects can be included, it's impossible to implement hundreds of species that way.",
+      "tone": "informative"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Then how does Pisho do it?",
+      "tone": "intrigued"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "The core battery of the insect field is the egg. It's an undifferentiated functional aggregate that can evolve into various forms. They induce natural occurrence with the 'ecosystem in the mind' theory, which is insanely difficult. They have to calculate from occurrence to evolution and mutation.",
+      "tone": "technical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hmm, that sounds really difficult.",
+      "tone": "impressed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "That's why there are many scholars in the insect field. But once they become magicians, they are highly valued. Even though Pisho is still in the graduating class at twenty-five, he wouldn't lose out if he graduated now.",
+      "tone": "admiring"
+    },
+    {
+      "type": "action",
+      "content": "When Pisho signaled that he was ready, the evaluator presented the challenge tasks."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Evaluator",
+      "content": "First, differentiation. Level 5 is three hundred.",
+      "tone": "professional"
+    },
+    {
+      "type": "action",
+      "content": "Pisho adjusted the battery with the ecosystem in mind theory."
+    },
+    {
+      "type": "action",
+      "content": "By setting the food chain and predators, the egg began to differentiate into the most suitable number of individuals for survival."
+    },
+    {
+      "type": "action",
+      "content": "Grasshopper."
+    },
+    {
+      "type": "action",
+      "content": "Three hundred grasshoppers flew up from Pisho's feet, covering the sky like dark particles."
+    },
+    {
+      "type": "action",
+      "content": "The evaluator wrote down three hundred and twelve on the record sheet."
+    },
+    {
+      "type": "action",
+      "content": "Counting insects with synesthesia was not difficult."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Evaluator",
+      "content": "Level 5 passed, 1 point earned. Next, gigantification.",
+      "tone": "professional"
+    },
+    {
+      "type": "action",
+      "content": "Pisho closed his eyes and concentrated again."
+    },
+    {
+      "type": "action",
+      "content": "It took about five minutes to adjust the oxygen saturation and environment to differentiate the egg."
+    },
+    {
+      "type": "action",
+      "content": "A giant ant the size of a person was born, moving its antennae in all directions to survey the surroundings."
+    },
+    {
+      "type": "action",
+      "content": "Both female and male students grimaced in disgust."
+    },
+    {
+      "type": "action",
+      "content": "That's why Pisho was a loner."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Evaluator",
+      "content": "Surface area 2.02 square meters. Gigantification passed. 1 point earned. Next, mutation.",
+      "tone": "professional"
+    },
+    {
+      "type": "action",
+      "content": "This time, it took twenty minutes to build the battery."
+    },
+    {
+      "type": "action",
+      "content": "The result was shocking."
+    },
+    {
+      "type": "action",
+      "content": "A centipede with the protective coloration of a ladybug crawled on the ground."
+    },
+    {
+      "type": "action",
+      "content": "Its scythe-like jaws opened, spraying venom."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Evaluator",
+      "content": "One form change. One function change. Passed.",
+      "tone": "professional"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pisho",
+      "content": "Thank you.",
+      "tone": "grateful"
+    },
+    {
+      "type": "action",
+      "content": "It was an amazing demonstration and a shocking sight, but the students just hoped never to see it again."
+    },
+    {
+      "type": "action",
+      "content": "After Pisho's special skill enhancement ended, it was Maya's turn."
+    },
+    {
+      "type": "action",
+      "content": "Nade cupped his hands and shouted."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Maya, fighting!",
+      "tone": "enthusiastic"
+    },
+    {
+      "type": "action",
+      "content": "Maya smiled slightly and scratched her cheek, showing no other reaction as she entered the evaluation area."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Huh? What's wrong with her? Did something bad happen?",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "content": "Nade licked his lips in embarrassment."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What's going on? Did something happen between you two?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "content": "Shirone had no idea."
+    },
+    {
+      "type": "narrator",
+      "content": "Since the incident in the music room, Maya had been keeping her distance intentionally."
+    },
+    {
+      "type": "narrator",
+      "content": "She wasn't cold, but the warmth from before was gone."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Maybe we were too rude.",
+      "tone": "apologetic"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What do you mean? What did we do to Maya?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Even if she was insulted by the Screamers, we should have let her make the choice. Some people don't want to fight.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Ugh, what should we do? We boasted so much. Shouldn't we apologize and pretend it never happened?",
+      "tone": "embarrassed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Maya doesn't get angry over such things. And she's not angry about that.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "action",
+      "content": "If it was as Iruki said, she would have felt it when they met in the music room."
+    },
+    {
+      "type": "action",
+      "content": "But she was kinder than anyone and sang with all her heart."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Then why is she avoiding me? Why?"
+    },
+    {
+      "type": "action",
+      "content": "Maya's evaluation ended quickly."
+    },
+    {
+      "type": "action",
+      "content": "Her volume, pitch vibration, and sound were all at level 2 and she didn't pass any of them."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "None of her sound magic is above average. At this rate, she won't graduate this year either.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Graduation isn't the problem. Shouldn't we worry about the overall evaluation coming up? You said we could get high scores with Maya on our team. Did you have a strategy?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "No, I just said it off the top of my head. I couldn't say we did well to the Screamers, could I?",
+      "tone": "defensive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "What? Then...!",
+      "tone": "exasperated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Don't make a fuss. Just because I didn't think about it doesn't mean there's no solution. We can think about it now. Anyway, Maya's behavior might be due to her grades. Sound magic doesn't suit her.",
+      "tone": "calm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Maybe it's the opposite.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "What are you talking about? Did something really happen between you two?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "content": "Shirone told them about what happened in the music room."
+    },
+    {
+      "type": "action",
+      "content": "Maya's incredible singing ability and the chills that ran down her spine."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Hmm, popular songs. It's definitely a different field. Sound magic uses vocal techniques to maximize the voice.",
+      "tone": "analytical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Next up was Fermi. As he headed to the training ground, he glanced at Shirone and sneered.",
+      "tone": "disdainful"
+    },
+    {
+      "type": "action",
+      "content": "Fermi's major was in the air field and his special skill enhancement score was exactly 100 points."
+    },
+    {
+      "type": "action",
+      "content": "He had cleared all items at level 5."
+    },
+    {
+      "type": "narrator",
+      "content": "His speed was similar to the average of Class One, and it seemed unlikely he would drop to Class Two anytime soon."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Evaluator",
+      "content": "Fermi, what are your challenge tasks?",
+      "tone": "professional"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "I will master all.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "content": "The evaluator stopped writing and looked up."
+    },
+    {
+      "type": "action",
+      "content": "The students began to murmur."
+    },
+    {
+      "type": "narrator",
+      "content": "Although it wasn't unusual for Fermi to master all special skill enhancements last year, it was too early this time."
+    },
+    {
+      "type": "narrator",
+      "content": "Considering that students usually started speeding up after week 12, Fermi's pace was four weeks faster."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone's presence must have influenced him."
+    },
+    {
+      "type": "action",
+      "content": "Having defeated Fermi in the survival test and declared war, this was a strategy to crush her spirit again."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Evaluator",
+      "content": "Alright. Let's measure the first press item.",
+      "tone": "professional"
+    },
+    {
+      "type": "action",
+      "content": "Fermi extended his index and middle fingers, aiming at the device that measured impact."
+    },
+    {
+      "type": "action",
+      "content": "Compressed air gathered at his fingertips and shot out with a bang."
+    },
+    {
+      "type": "action",
+      "content": "The students' eyes turned to the scoreboard beyond the glass."
+    },
+    {
+      "type": "action",
+      "content": "1,123 press."
+    },
+    {
+      "type": "action",
+      "content": "It easily surpassed the master difficulty of 1,000 press."
+    }
+  ],
+  "source_hash": "d0484d361706e12dcde70f9ddc3710d2fcdb7cb821bb01fd36ef62a938aaf4c1",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T05:39:10.392049Z"
+}

@@ -1,0 +1,901 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The demonic species known as Magin were born from low-quality magical energy and classified as demonic beasts in hell.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Their violent nature and minimal intelligence occasionally led them to attack cities.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "In terms of reality, they're about as smart as monkeys.",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "However, the city itself possessed overwhelming military strength.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Particularly, its administrators were powerful enough to rival the armies of hell.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Laviette",
+      "content": "No need to pay attention. They'll get caught soon enough.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "According to Satan's adage, 'There are no enemies in hell,' Laviette's city gates had lax security.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "However, the city itself possessed overwhelming military strength.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "So, this is the street of magical engineering.",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Arriving at a street lined with numerous shops, Shirone entered a two-story building.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hello.",
+      "tone": "polite"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shopkeeper",
+      "content": "Welcome. This is a shop specializing in organs...",
+      "tone": "friendly"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A violet-skinned woman organizing items on a shelf turned around.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shopkeeper",
+      "content": "Hmm?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The woman, after scrutinizing Shirone's appearance, flapped her bat-like wings and flew to the counter.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shopkeeper",
+      "content": "How old are you?",
+      "tone": "inquisitive"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Recalling what he had learned from Ultima, Shirone quickly made up an answer.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "102 years old.",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shopkeeper",
+      "content": "Wow, so young! And you've made it all the way here. You must be an intellectual demon.",
+      "tone": "impressed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Where were you born?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "On the Plains of Ambition.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shopkeeper",
+      "content": "Are you an intellectual demon too?",
+      "tone": "inquisitive"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Demons inherited various traits from Satan, and intellectual demons were the most intelligent of the types.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shopkeeper",
+      "content": "Hehe! I once applied for the administrator's exam myself. Of course, I failed and ended up running this place.",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Responding indifferently, Shirone handed her a list.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'm here to buy these items. Please give me everything on this list. I'll pay in des.",
+      "tone": "polite"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Using the Grand Duke's credit card would leave a trail, so cash was preferable.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shopkeeper",
+      "content": "You seem to know what you're doing. Don't worry, none of these items are stolen goods...",
+      "tone": "friendly"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The shopkeeper's eyes gleamed as she reviewed the list.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shopkeeper",
+      "content": "You want to buy hearts? That's quite a delicate organ. Are you sure you can handle it?",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Of course, it was a complete lie.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Of course. I even placed in a competition hosted by the Fire Management Company. I'm using my prize money to buy these.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The emotions felt at the moment of death could significantly affect the functionality of a heart when used in magical applications.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She placed a large box filled with the items onto the counter with a heavy thud.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shopkeeper",
+      "content": "All together, that'll be 700,000 des. But what kind of competition gives out this much prize money?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone could have concocted a story, but by keeping it vague, he ensured she would draw her own conclusions.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "That's a secret.",
+      "tone": "mysterious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone inspected the items, checking both quantity and quality.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shopkeeper",
+      "content": "Don't tell me, did the Fire Management Company try to scout you? You must be really talented.",
+      "tone": "impressed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Well, you could say that.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You must be raking in des. Not bad—I'm trying to make a living too.",
+      "tone": "polite"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Resting her chin on her hand in contemplation, she suddenly frowned and smacked Shirone on the head.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ow! What was that for?",
+      "tone": "surprised"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shopkeeper",
+      "content": "You're way too full of yourself for someone so young. Intellectual demons should have big dreams. You should aim to pass the administrator exam and lead hell someday, not just join the Fire Management Company.",
+      "tone": "admonishing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Hugging the box tightly, Shirone pouted.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What does it matter to you?",
+      "tone": "defensive"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Worried that further arguing might expose his cover, he deliberately acted immature.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shopkeeper",
+      "content": "Ah, forget it. Who am I to say anything? I once dreamed of earning a title too—an estate bearing my name. In that sense, Laviette is amazing. Beyond the Grand Duke's aesthetics, its functionality...",
+      "tone": "wistful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Just as she seemed ready to launch into a long-winded monologue, her eyes suddenly burned with fury.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shopkeeper",
+      "content": "But Yahweh—that vile human—has shown up. You've heard about it, right?",
+      "tone": "anger"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Huh? Oh, yes, I've heard.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shopkeeper",
+      "content": "Even tearing him apart wouldn't be enough. I want to skin him alive. If I could hear that wretched human's screams, I'd do anything.",
+      "tone": "furious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone found himself at a loss for words.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Why do you hate Yahweh so much?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Huh?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shopkeeper",
+      "content": "I mean, I get that you hate him, but I don't understand why. Isn't it strange to hate someone from birth?",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "They say exceptionally brilliant intellectual demons transcend their instincts. Maybe this kid is one of those.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The prime example was Grand Duke Marguerite.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shopkeeper",
+      "content": "The reason for our hatred... I've never thought about it, but maybe it's because we love Yahweh too much.",
+      "tone": "reflective"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Caught off guard by the unexpected answer, Shirone remained silent as she continued.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shopkeeper",
+      "content": "I don't really know. But if I analyze the nature of my hatred... it feels more like betrayal.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Betrayal?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shopkeeper",
+      "content": "Yeah, like... If I were human, it would be like seeing the one you love sleep with someone else. Don't humans usually go mad in that situation?",
+      "tone": "reflective"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "This deduction was only possible for an intellectual demon.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The moment we were born, that event must have felt like a betrayal to us. That's why we want to tear him apart. We want him to suffer endlessly...",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Her expression softened momentarily before the burning hatred returned to her eyes.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shopkeeper",
+      "content": "I'll kill him! I'll rip his guts out and chew them in front of him! That bastard!",
+      "tone": "furious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Calming herself down, she handed Shirone his change.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shopkeeper",
+      "content": "Anyway, don't forget—Yahweh is our mortal enemy. You seem talented, so I hope you aim for a high-ranking position instead of settling for the Fire Management Company. You might even become a duke someday.",
+      "tone": "advising"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Thank you.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Pocketing the des, Shirone bowed politely and left the shop.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Betrayal, huh.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His steps felt heavier as he made his way toward the laboratory.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "That night, at the Laviette barracks.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The temporary tent seemed to be made by haphazardly mashing together the innards of various creatures.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In this gruesome space, seven demons sat around a round table.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Seven Generals of Laviette.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Currently holding the rank of Chief of Security, they were seasoned veterans who had been assisting the duke for a hundred million years.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Son Yu-jung",
+      "content": "We lost her. We searched the city thoroughly but couldn't find the woman. It's some kind of ability.",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Son Yu-jung was hiding within the city.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Son Yu-jung",
+      "content": "We received a report that Yahweh entered two days ago. We allowed passage, but there's no record of him leaving the castle. If he's still in the city, he might be connected to this incident.",
+      "tone": "informed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "We can't wait. Let's report to the duke and ask for full authority.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Son Yu-jung",
+      "content": "Isn't that a bit embarrassing? How do we tell him that the Seven Generals, who have conquered countless territories, couldn't catch one person?",
+      "tone": "self-conscious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If she's really Yahweh's ally, it's serious. And she's quite strong.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "According to the black box footage, her speed when she struck the castle gate exceeded Mach.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A moment of silence followed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Execution Commander Itaka",
+      "content": "...So, who will report?",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "I will.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A woman with jet-black hair so long it covered the floor like a shadow.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "And from tomorrow, we'll strengthen security. Increase the castle gate guards to more than twenty times the usual number.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Execution Commander Itaka",
+      "content": "That's your decision, but I don't like your commanding tone. We have no reason to follow your orders.",
+      "tone": "disagreeing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then you report it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The meeting ended.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The next morning.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Screeeech!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A monstrous bird specialized in high-speed flight landed nimbly in front of Laviette's castle gate.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lethe",
+      "content": "Oops.",
+      "tone": "playful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then, Lethe, the president of the Fire Management Company, jumped down.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lethe",
+      "content": "Long time no see, Laviette.",
+      "tone": "friendly"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As she pulled down her robe from her chin, a beautiful but tired face was revealed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kimara",
+      "content": "Halt! Move and we will fire!",
+      "tone": "commanding"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Demons shouted from the wall, and two armored security guards approached her.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Security Guard",
+      "content": "Who are you? Identify yourself.",
+      "tone": "authoritative"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lethe tilted her head, and the security guards' faces twisted in annoyance.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lethe",
+      "content": "Huh? Identify?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As if things weren't hard enough already.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Security Guard",
+      "content": "Which territory are you from? What's your name? State your business in Laviette!",
+      "tone": "inquisitive"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lethe squinted one eye and snapped back.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lethe",
+      "content": "Shut up! Ask one question at a time! Do you think I have ten mouths? I'm here to see the duke! What are you going to do about it?",
+      "tone": "assertive"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "What?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A security guard grabbed Lethe by the chest.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Smack!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A crisp sound rang out.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The security guard's head turned to the side.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was grounds for immediate judgment, but none of the soldiers on the wall moved.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "What just happened?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "No one knew.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was the fastest slap in the world, and it was a miracle his neck didn't break.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lethe",
+      "content": "Where do you think you're touching? I might just blow you away!",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Everyone, attack!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the demons on the wall aimed their weapons according to protocol, the castle gate split open.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Thud! Thud!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A knight in iron armor appeared with heavy steps.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kimara",
+      "content": "Stop.",
+      "tone": "commanding"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "One of the Seven Generals of Laviette, Kimara.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "True to his nickname, the Armored Knight, even his armor was born from magic.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lethe",
+      "content": "Hey, Kimara. You need to manage your men better.",
+      "tone": "advising"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The demons' hearts sank as she called the name of the security chief, who was over a hundred million years old, to his face.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kimara",
+      "content": "Um... Excuse me, but who are you?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Before an answer could come, Kimara drove a large sword into the ground and knelt on one knee.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lethe",
+      "content": "Mother of Hell!",
+      "tone": "reverent"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ah, shut up! I'm busy, what's going on? You're all scared and blocking the way.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lethe",
+      "content": "The castle gate was breached last night. We strengthened the alert, thinking it might be Yahweh's trick.",
+      "tone": "informed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Yahweh? Oh, right! Yahweh!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lethe",
+      "content": "Rian is here too, right? The ridiculously strong human with the big sword on his back.",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Huh?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kimara",
+      "content": "...I heard there was a commotion at a restaurant. He seemed to be looking for the duke, but he's been missing since yesterday.",
+      "tone": "informed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "'Yesterday. That was close.'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Relief washed over Lethe's face.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lethe",
+      "content": "The duke is in the castle, right? Lead the way. And tell Monoras that I'm here.",
+      "tone": "assertive"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A puzzled look flashed in Kimara's eyes inside his helmet.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kimara",
+      "content": "The duke will welcome you, Lady Lethe. But the chief secretary has not entered the city.",
+      "tone": "informed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lethe groaned as she stood up.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lethe",
+      "content": "What are you talking about? If Yahweh is here, Monoras must be here too.",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "My patrol range far exceeds Laviette. I can assure you the chief secretary hasn't approached within a hundred kilometers of the city.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The bundle in Lethe's hand fell with a thud.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kimara",
+      "content": "Lady Lethe?",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At that moment, Kimara clearly understood what it meant to face the wrath of an untouchable goddess.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kimara",
+      "content": "That pig!",
+      "tone": "menacing"
+    }
+  ],
+  "source_hash": "5d30c1b7bc5a106f925cb33d4212f7d19e92b2828f9b5319d7d8bf6b313df69e",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T08:26:19.992109+00:00"
+}

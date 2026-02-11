@@ -1,0 +1,739 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Kazra Kingdom (3)",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Are you really going to come? Honestly, I'm fine on my own.",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone didn't like the idea of Amy getting distracted when the graduation exam was approaching.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "No matter if she's the top candidate for graduation, you never know what might happen in a competition.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If she happens to fail, it would be partly his responsibility too.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Of course, Amy would never think that way, but from the position of wishing for her success, he wanted to dissuade her.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "It's an important matter for you. Ms. Reina will be busy taking care of the royal palace procedures, so you need someone to stay by your side and escort you. Why, don't you like me going?",
+      "tone": "persistent"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If Amy accompanied him, there couldn't be anything more reassuring from Shirone's standpoint.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "As with their journey to Galliant Island, she was an absolutely reliable ally when it came to her abilities.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "No, I mean, of course, I'd be glad…",
+      "tone": "polite"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then it's settled. That's the end of it. I owe you something, so I should repay it at times like this.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone couldn't recall what Amy owed him, but in Amy's mind, numerous incidents flashed by.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was Shirone who saved her from the cliff during the Arcane attack incident, and when she was caught by Cariel in heaven, if it wasn't for him, she wouldn't have returned safely.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Seeing that Amy was adamant about staying, Reina sighed in resignation and gave instructions to the coachman.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Let's depart.",
+      "tone": "resigned"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Of course, looking at it objectively, Amy's joining was by no means a loss.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was much better to have a friend nearby to help Shirone.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "However, Reina couldn't shake the feeling that she was already falling behind from the very start.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Reina rested her chin towards the window and pursed her lips.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "She could almost see Amy's smiling face.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The carriage was heading to the Thorn Mine located midway up the Origin Mountains where Shirone's house was.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "On the way, Reina explained the general political situation.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Thormia, Kazra, and Yakma were once a single unified empire.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But as the nobles' power grew, factional fights broke out, and finally, they separated and are now in a tripartite alliance system.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "In a sense, you could say they're relatively new countries. Kazra hasn't even been independent for a hundred years. Yakma, in particular, didn't acknowledge Kazra's independence until recently. Although a war didn't break out, it almost did. That was 18 years ago. In short, as Kazra's internal affairs became unstable, they hid the First Prince, Shirone, elsewhere.",
+      "tone": "informative"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone was somewhat comforted by the fact that at least he wasn't abandoned out of spite.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It must have been unavoidable to some extent, given that the rise and fall of the kingdom was at stake.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Of course, that didn't mean his feelings of resentment had disappeared.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "For now, since nothing was certain, he tried to suppress the emotions that were bubbling up.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "I've heard about it as well. I heard it nearly reached the point of a civil war. Yakma had even completed preparations for a military expedition. But…",
+      "tone": "interrupting"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy cut her words short.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It wasn't something she could say in front of Shirone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Yes, it was when King Orkamph IV of Kazra married the Empress Terraje of the Kashan Empire that the entire civil strife came to an end.",
+      "tone": "matter-of-fact"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone, having thoroughly read history books, knew what kind of incident it was.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "However, he didn't know it would become his own affair.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Kashan Empire was the absolute power of the continent, occupying one-third of the human realm's territory.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Also, the empire's emperor had been female for generations.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was said that Terraje, the Empress of Kashan, was so beautiful that no man could help but fall for her.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "On the other hand, she was also known to be a cold-blooded individual who wouldn't hesitate to make any sacrifice to achieve victory.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Such a woman had proposed a marriage alliance to Orkamph, the King of Kazra.",
+      "tone": "expository"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Orkamph IV probably had no other choice.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "His country was on the brink of collapse.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Besides, accepting Terraje meant securing a significant connection.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In fact, after marrying Terraje, Kazra's politics rapidly stabilized, and its finances became robust.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was an exceptional event, notable enough to be introduced in detail in history books.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Above all, Orkamph was already married, and Terraje herself was also a married woman.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Political marriages of royalty or nobility aren't a big deal, but this case should be called unusual. Terraje, or rather the rulers of Kashan, were always women, and the strategy they used most frequently to expand their influence was marriage. Besides Orkamph IV, Terraje has three more husbands, all of whom are kings of their respective countries. Terraje occasionally visits Kazra after marrying Orkamph, and each time she's there, she bears a child. Currently, she has a son and a daughter.",
+      "tone": "expository"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Does the original queen of Kazra, that is, Orkamph's Eliza, have no other children besides Shirone?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Unfortunately, no. Right after they sent their newborn child to another country during the civil war, Terraje stepped in. There was probably an agreement that Eliza shouldn't have more children because Terraje wants her own children to inherit the kingdom.",
+      "tone": "informative"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy let out a sigh.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even for royalty, using the inherent human ability of conception for politics was a chilling matter.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As a result, Shirone was the only one of the Kazra queen's bloodline.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "And below him are the half-siblings born to Terraje.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Reaching that point in her thoughts, Amy suddenly realized the source of the unease she had felt since their journey began.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Wait a minute. Then if Shirone becomes the first prince of Kazra...",
+      "tone": "realization"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Reina nodded with a serious expression, as if that was the crux of the matter.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Yes, Terraje's children would be pushed down in the line of succession. In contrast, the influence of Queen Eliza would grow stronger. The reason why a royal emissary came to the magic academy and made such a grand announcement isn't unrelated to this.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy frowned.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Come to think of it, it's already been 10 years since Kazra's internal affairs stabilized.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Therefore, if the kingdom had made even a little effort, it would have been easy to find Shirone.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In the end, it was clear that political issues were intertwined in finding Shirone only now.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even if they were his birth parents... the fact that they didn't invite him purely out of a desire to see Shirone weighed heavily on her heart.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Ugh, why is everything so complicated? I just can't understand what people of high standing are thinking.",
+      "tone": "frustrated"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Terraje becomes Orkamph's concubine, and Orkamph becomes Terraje's husband-in-waiting.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was an absurd situation, something that couldn't even be properly depicted in a family tree.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "While everyone was lost in their thoughts, the carriage moved quickly and soon entered Thorn Mine.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In the past, it was a coal mining area, and because the stalactites hanging from the cave were sharp, it was called Thorn Mine, and that has remained its proper name.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was now a closed mine, but it still smelled strangely.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But to Shirone, it was the smell of his hometown that he missed the most.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Seeing Shirone's stiff face soften a bit, Amy also inhaled the acrid air deeply.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Before getting off the carriage upon arriving at Shirone's house, Amy tidied herself up.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was her first time coming to Shirone's house.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Moreover, since she was meeting his parents, she naturally became cautious.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Of course, she wouldn't make mistakes, but the situation was a bit delicate.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Since Shirone's parents were commoners, she was worried about how to act around them.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If she showed too much courtesy, they might feel overwhelmed, but if she acted as she usually did, she might come across as arrogant.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Unlike Amy who was thinking this way, Reina opened the door and went out as soon as they arrived.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Vincent and Olena were already waiting, having finished preparing for the trip.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "While the deputy butler Temuran inspected the carriage, Reina brought Shirone to his parents.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Hello. Have you been well?",
+      "tone": "friendly"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vincent",
+      "content": "Yes, of course. Thanks to your care, we've been living comfortably.",
+      "tone": "grateful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olena",
+      "content": "Yes, of course.",
+      "tone": "polite"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Vincent and Olena greeted her as respectfully as they could.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "We'll head north by carriage and cross the border. We should arrive around midnight, so please bear with it until then. From that point onward, you'll be under the guidance of the Kazra Kingdom, so you won't have any inconveniences.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vincent",
+      "content": "Please don't worry about us. We're just sorry to trouble you because of our son.",
+      "tone": "apologetic"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Don't worry too much. Nothing is certain yet, and even if the birth parents are confirmed, Shirone won't waver. It was the same with Ogent Family, wasn't it?",
+      "tone": "reassuring"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Vincent, having his true feelings exposed, hurriedly waved his hands in denial.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vincent",
+      "content": "Worry? Not at all! This is truly a good opportunity for Shirone. Still, thank you for your concern.",
+      "tone": "forced"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At that moment, Amy's bold voice was heard from the carriage.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Hello!",
+      "tone": "bold"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As everyone's attention shifted to her, Amy's face turned bright red.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Seeing Reina and the parents chatting made her feel rushed, and she ended up interrupting at a rather awkward timing.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olena",
+      "content": "And who might this young miss be…?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Olena's eyes sparkled with curiosity, showing interest.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was the first time Shirone had brought a girl his age home.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Ah, yes. I'm Carmis Amy, a friend of Shirone. I'll be accompanying him to Kazra. Please take care of me.",
+      "tone": "polite"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Without realizing it, Amy gave a slightly awkward bow.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Her confidence that she could remain composed in any situation shattered into pieces.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Of course, this was only in Amy's mind; Vincent and Olena exchanged smiles and whispered to each other, thinking she was a nice young lady.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone, however, remained silent.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Honestly, he didn't know what face to show his parents.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He had been able to firmly reject the idea of being adopted by someone from Ogent Family, but this time, it was his biological parents.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Moreover, they were royalty, so he had no choice in the matter, making him feel as if he was committing a sin against them.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vincent",
+      "content": "Are you alright, Shirone? You must be really surprised.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'm fine. Father... I'm sorry.",
+      "tone": "apologetic"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vincent",
+      "content": "Haha! What is there to be sorry about? Just don't make any mistakes at the royal palace, and that'll be enough. Though Mr. Temuran did teach you a lot, it's quite difficult, you know.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I feel the same. But don't worry. It'll be fine since Amy is with me.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Seeing the opportunity, Amy pointed to herself with her thumb.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "That's right! I'll take care of him, so you don't need to worry about that.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olena",
+      "content": "Thank you. Now I remember your name. I heard Shirone has been receiving a lot of help from you.",
+      "tone": "grateful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "I've also received a lot of help from Shirone. Please feel free to treat me comfortably from now on.",
+      "tone": "polite"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Reina clapped her hands to draw everyone's attention.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Alright, alright. Let's depart now. Deputy Butler, please wait at the mansion. Please be ready to move as soon as we receive word from Louis.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The carriage carrying Shirone and his group set off for Kazra.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was a forced march.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Being in a bumpy carriage for over 6 hours naturally makes your whole body ache.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "With a schedule of 1 hour of travel and 5 minutes of rest, there wasn't even time to soothe the throbbing lower back.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Yet, no one complained.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "As they got closer to the border, the pain gradually disappeared and tension began to build.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "For Shirone, this was an enormous adventure.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Having heard about the complicated circumstances of the Kazra Royal Family, even knowing an escort group awaited them didn't bring peace of mind.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If Terraje's faction were to make a hasty decision, they could very well send an assassination squad.",
+      "tone": null
+    }
+  ],
+  "source_hash": "228d093f40491508072cf18319e3bcc31952c19622680b06e24620cd73a750cc",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T18:03:48.008903+00:00"
+}

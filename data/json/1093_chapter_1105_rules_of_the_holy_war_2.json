@@ -1,0 +1,736 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "Shirone's group carefully examined the characters flowing along the wall they were on."
+    },
+    {
+      "type": "action",
+      "content": "Shirone shook his head."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I don't understand."
+    },
+    {
+      "type": "action",
+      "content": "The fact that it couldn't be deciphered by the Ultima system was evidence of the outer world."
+    },
+    {
+      "type": "action",
+      "content": "It must be a script. It resembles some ancient forms I've seen,"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "It must be a script. It resembles some ancient forms I've seen,"
+    },
+    {
+      "type": "action",
+      "content": "Kanis felt along the wall."
+    },
+    {
+      "type": "action",
+      "content": "A faint current."
+    },
+    {
+      "type": "action",
+      "content": "The wall had grooves of various shapes, with electricity flowing through them."
+    },
+    {
+      "type": "action",
+      "content": "This is new. If this is a language, there are too many types of grids. I can't find any that match."
+    },
+    {
+      "type": "action",
+      "content": "Ares asked, \"What exactly does that mean?\""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "What exactly does that mean?"
+    },
+    {
+      "type": "action",
+      "content": "Language is a vessel for thought. If a civilization uses this language, their thinking must be beyond human imagination. Otherwise, this script is just a waste of space."
+    },
+    {
+      "type": "action",
+      "content": "For example, in a square grid, you can create many symbols with vertical lines, horizontal lines, right angles, etc. Those combinations alone can form a language. But the problem is that even the grids are all different. What kind of information requires such a language?"
+    },
+    {
+      "type": "action",
+      "content": "Kanis rested his chin on his hand."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanis",
+      "content": "Maybe it's a way to denote time?"
+    },
+    {
+      "type": "action",
+      "content": "Time?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "Time?"
+    },
+    {
+      "type": "action",
+      "content": "For instance, the word 'apple' remains 'apple' even after a second. But this script changes meaning with time. So, knowing the meaning of a character also tells you the time. Past, present, and future are all contained in this script."
+    },
+    {
+      "type": "action",
+      "content": "A chill ran through them."
+    },
+    {
+      "type": "action",
+      "content": "A four-dimensional language. But isn't there a way to roughly understand it? Our lives depend on it."
+    },
+    {
+      "type": "action",
+      "content": "Deciphering ancient scripts is like solving a magic square. Characters have ranks. Their power depends on how many situations they connect to. For example, 'apple' can be used in many contexts like eating, dropping, or opening. But phrases like 'wrapping an apple' or 'smoking an apple' are rarely used."
+    },
+    {
+      "type": "action",
+      "content": "Kanis pointed to the wall."
+    },
+    {
+      "type": "action",
+      "content": "If 'apple' is a noble, these characters are all kings. There's not a single identical grid. Even simple geometric shapes are all different."
+    },
+    {
+      "type": "action",
+      "content": "Glen pointed to the wall."
+    },
+    {
+      "type": "action",
+      "content": "Isn't this triangle the same as that one?"
+    },
+    {
+      "type": "action",
+      "content": "It'll be slightly different."
+    },
+    {
+      "type": "action",
+      "content": "Ares activated his red eyes."
+    },
+    {
+      "type": "action",
+      "content": "...The angles differ by 0.7 degrees. But is it really possible for none of the characters on the pyramid to overlap?"
+    },
+    {
+      "type": "action",
+      "content": "It's possible."
+    },
+    {
+      "type": "action",
+      "content": "Shirone said."
+    },
+    {
+      "type": "action",
+      "content": "It's just hard to see with the naked eye. Mathematically, you can create infinite shapes. Because…"
+    },
+    {
+      "type": "action",
+      "content": "Zulu said."
+    },
+    {
+      "type": "action",
+      "content": "Pi. Pi is endless."
+    },
+    {
+      "type": "action",
+      "content": "Yes. Within the shape of a circle, infinite shapes are contained. It's like how mages define the numbers of the law. And if these characters are the number one of the law, they can't be deciphered from the inside. You need the Ultima of the outer world."
+    },
+    {
+      "type": "action",
+      "content": "Kanis said."
+    },
+    {
+      "type": "action",
+      "content": "In conclusion, deciphering is impossible. These characters can be used in all situations. They even have meaning without context."
+    },
+    {
+      "type": "action",
+      "content": "...Angels."
+    },
+    {
+      "type": "action",
+      "content": "Huh?"
+    },
+    {
+      "type": "action",
+      "content": "Feeling the group's gaze, Shirone explained."
+    },
+    {
+      "type": "action",
+      "content": "As you know, angels are incarnations of concepts. They can apply a single concept to all situations."
+    },
+    {
+      "type": "action",
+      "content": "It's called the halo of law."
+    },
+    {
+      "type": "action",
+      "content": "So the status of angels is the same as the status of these characters. In other words, all the characters here…"
+    },
+    {
+      "type": "action",
+      "content": "Ares murmured."
+    },
+    {
+      "type": "action",
+      "content": "Are all angels?"
+    },
+    {
+      "type": "action",
+      "content": "A silence fell."
+    },
+    {
+      "type": "action",
+      "content": "The procession of characters along the wall looked like the race of angels."
+    },
+    {
+      "type": "action",
+      "content": "Phew."
+    },
+    {
+      "type": "action",
+      "content": "Ares summarized."
+    },
+    {
+      "type": "action",
+      "content": "Alright, let's say each character has the power of an angel. And these fill the massive pyramid. Why? For what purpose?"
+    },
+    {
+      "type": "action",
+      "content": "That might be…"
+    },
+    {
+      "type": "action",
+      "content": "As Shirone began to speak, something surged from Kanis's shadow."
+    },
+    {
+      "type": "action",
+      "content": "Kanis, it's a wave."
+    },
+    {
+      "type": "action",
+      "content": "In the darkness where the blue characters disappeared, something was approaching."
+    },
+    {
+      "type": "action",
+      "content": "Having experienced countless battles, they quickly prepared for combat."
+    },
+    {
+      "type": "action",
+      "content": "What… is that?"
+    },
+    {
+      "type": "action",
+      "content": "Seeing the form of the intruder, they couldn't help but feel dizzy."
+    },
+    {
+      "type": "action",
+      "content": "The naked body was human, but the head was a small pyramid."
+    },
+    {
+      "type": "action",
+      "content": "Shirone activated Miracle Stream."
+    },
+    {
+      "type": "action",
+      "content": "Who are you? Identify yourself."
+    },
+    {
+      "type": "action",
+      "content": "The pyramid man, standing where they could see each other, extended his right arm."
+    },
+    {
+      "type": "action",
+      "content": "A powerful wave surged, and the vibration-born Harvest converted it into language."
+    },
+    {
+      "type": "sfx",
+      "content": "-Arin, connect the mental channel!"
+    },
+    {
+      "type": "action",
+      "content": "As the mental magic unfolded, Shirone's group heard the pyramid man's voice."
+    },
+    {
+      "type": "action",
+      "content": "-I am human."
+    },
+    {
+      "type": "action",
+      "content": "They shuddered, instinctively choosing to fight and leaping forward."
+    },
+    {
+      "type": "action",
+      "content": "Take him down!"
+    },
+    {
+      "type": "action",
+      "content": "Simultaneously, the timeline twisted."
+    },
+    {
+      "type": "action",
+      "content": "Taha!"
+    },
+    {
+      "type": "action",
+      "content": "Swinging his dual swords, Euphrates sensed the change and stopped abruptly."
+    },
+    {
+      "type": "action",
+      "content": "What?"
+    },
+    {
+      "type": "action",
+      "content": "The group was gone."
+    },
+    {
+      "type": "action",
+      "content": "In the monotonous scenery of the pyramid, only the blue-glowing characters passed by."
+    },
+    {
+      "type": "action",
+      "content": "Hmph."
+    },
+    {
+      "type": "action",
+      "content": "He pointed his swords into the darkness on both sides."
+    },
+    {
+      "type": "action",
+      "content": "I don't know what you're up to, but you'd better come out. No one can break through my sword net."
+    },
+    {
+      "type": "action",
+      "content": "As he moved sideways for ten meters, he heard footsteps from a corner."
+    },
+    {
+      "type": "action",
+      "content": "There you are!"
+    },
+    {
+      "type": "action",
+      "content": "As Euphrates quickly turned, a young swordsman emerged from the corner."
+    },
+    {
+      "type": "action",
+      "content": "Val… Jacques?"
+    },
+    {
+      "type": "action",
+      "content": "A companion he had studied swordsmanship with in his youth."
+    },
+    {
+      "type": "action",
+      "content": "How are you here?"
+    },
+    {
+      "type": "action",
+      "content": "Unconsciously stepping forward, Euphrates quickly regained his senses and raised his sword."
+    },
+    {
+      "type": "action",
+      "content": "No, Val Jacques is dead. And this is his younger self. The one I knew…"
+    },
+    {
+      "type": "action",
+      "content": "Euphrates, you've become a great swordmaster."
+    },
+    {
+      "type": "action",
+      "content": "Ugh!"
+    },
+    {
+      "type": "action",
+      "content": "Val Jacques's smile was genuine, but Euphrates felt insulted."
+    },
+    {
+      "type": "action",
+      "content": "Eliana would be pleased."
+    },
+    {
+      "type": "action",
+      "content": "Val Jacques's wife."
+    },
+    {
+      "type": "action",
+      "content": "Also, the only woman Euphrates had ever loved."
+    },
+    {
+      "type": "action",
+      "content": "Shut up, you bastard!"
+    },
+    {
+      "type": "action",
+      "content": "With bloodshot eyes, Euphrates lunged forward, exhaling external force."
+    },
+    {
+      "type": "action",
+      "content": "Val Jacques was not where the X-shaped slash landed."
+    },
+    {
+      "type": "action",
+      "content": "Huff! Huff!"
+    },
+    {
+      "type": "action",
+      "content": "Mentally exhausted, Euphrates dropped his arms and panted heavily."
+    },
+    {
+      "type": "action",
+      "content": "What is this?"
+    },
+    {
+      "type": "action",
+      "content": "Painful memories, but so old they were hardly worth recalling."
+    },
+    {
+      "type": "action",
+      "content": "It's been over 40 years. I haven't thought about it in over a decade. So why…"
+    },
+    {
+      "type": "action",
+      "content": "Why appear now?"
+    },
+    {
+      "type": "action",
+      "content": "Canis! Canis, where are you?"
+    },
+    {
+      "type": "action",
+      "content": "Arin ran through the labyrinthine paths, calling Canis's name without pause."
+    },
+    {
+      "type": "action",
+      "content": "Everyone suddenly vanished. What's going on?"
+    },
+    {
+      "type": "action",
+      "content": "If this were an illusion, as a mental mage, Arin would have noticed immediately."
+    },
+    {
+      "type": "action",
+      "content": "This isn't magic. It's something real."
+    },
+    {
+      "type": "action",
+      "content": "She recalled the word \"Human\" that she had encountered earlier."
+    },
+    {
+      "type": "action",
+      "content": "It wasn't \"human\" but \"humanity.\" Why?"
+    },
+    {
+      "type": "action",
+      "content": "Arin came to a halt."
+    },
+    {
+      "type": "action",
+      "content": "Wandering aimlessly won't help. If I don't find a clue, we'll keep missing each other."
+    },
+    {
+      "type": "action",
+      "content": "Then, she heard it—a cry."
+    },
+    {
+      "type": "action",
+      "content": "A baby?"
+    },
+    {
+      "type": "action",
+      "content": "Turning her head, she saw a landscape she never expected."
+    },
+    {
+      "type": "action",
+      "content": "This place... Radum?"
+    },
+    {
+      "type": "action",
+      "content": "As her senses absorbed Radum, horrifying memories came flooding back."
+    },
+    {
+      "type": "action",
+      "content": "No. This can't suddenly be Radum. This is magic."
+    },
+    {
+      "type": "action",
+      "content": "She tried to shock her mind repeatedly, but the scenery before her remained unchanged."
+    },
+    {
+      "type": "action",
+      "content": "Wah! Wah!"
+    },
+    {
+      "type": "action",
+      "content": "The cries grew more real."
+    },
+    {
+      "type": "action",
+      "content": "Arin turned to see an injured woman running with labored breaths."
+    },
+    {
+      "type": "action",
+      "content": "She's losing a lot of blood. But... she's someone who has already resolved herself to die."
+    },
+    {
+      "type": "action",
+      "content": "Then came the shouts: \"Catch her! Kill her on sight!\""
+    },
+    {
+      "type": "action",
+      "content": "The soldiers ran past as though unaware of Arin's presence."
+    },
+    {
+      "type": "action",
+      "content": "Damn it! Of all places, she ran to Radum. We can't just burn it down."
+    },
+    {
+      "type": "action",
+      "content": "Panic surged in Arin's chest."
+    },
+    {
+      "type": "action",
+      "content": "Why am I feeling this? My heart…"
+    },
+    {
+      "type": "action",
+      "content": "For someone like Arin, whose strength lay in emotional control, this overwhelming sensation was unnatural."
+    },
+    {
+      "type": "action",
+      "content": "I... I can't breathe."
+    },
+    {
+      "type": "action",
+      "content": "She gasped, the suffocating dread inexplicable."
+    },
+    {
+      "type": "action",
+      "content": "Canis, hurry! Please!"
+    },
+    {
+      "type": "action",
+      "content": "Who is that woman?"
+    },
+    {
+      "type": "action",
+      "content": "Meanwhile, Canis, also experiencing Radum, was chasing the woman."
+    },
+    {
+      "type": "action",
+      "content": "He wasn't as sensitive as Arin, but his heart pounded uncontrollably."
+    },
+    {
+      "type": "action",
+      "content": "Where did she go?"
+    },
+    {
+      "type": "action",
+      "content": "He spotted her turning a corner."
+    },
+    {
+      "type": "action",
+      "content": "Radum is my hometown. I could follow her with my eyes closed."
+    },
+    {
+      "type": "action",
+      "content": "Suddenly, soldiers appeared."
+    },
+    {
+      "type": "action",
+      "content": "Damn it! She must be critically wounded, so why is she so fast?"
+    },
+    {
+      "type": "action",
+      "content": "What do we do, Captain? If she talks, we're done for."
+    },
+    {
+      "type": "action",
+      "content": "Catch her first. She's probably trying to hide the baby. Listen for crying."
+    },
+    {
+      "type": "action",
+      "content": "A baby?"
+    },
+    {
+      "type": "action",
+      "content": "The captain continued: \"It's twins, they said. One boy, one girl. Don't let them escape.\""
+    },
+    {
+      "type": "action",
+      "content": "Canis's chest tightened painfully."
+    },
+    {
+      "type": "action",
+      "content": "Twins...?"
+    },
+    {
+      "type": "action",
+      "content": "No, it couldn't be."
+    },
+    {
+      "type": "action",
+      "content": "It can't be. There's no way!"
+    },
+    {
+      "type": "action",
+      "content": "- Canis, calm down. Your heart rate is too high. You'll go into shock."
+    },
+    {
+      "type": "action",
+      "content": "No."
+    },
+    {
+      "type": "action",
+      "content": "Doubt had long festered in his mind, but he had always dismissed it."
+    },
+    {
+      "type": "action",
+      "content": "He had no memory of Radum. Yet he and Arin, both from the East, shared eerily similar backgrounds."
+    },
+    {
+      "type": "action",
+      "content": "No! There has to be another explanation."
+    },
+    {
+      "type": "action",
+      "content": "- Canis! Breathe! You're about to collapse!"
+    },
+    {
+      "type": "action",
+      "content": "Argh!"
+    },
+    {
+      "type": "action",
+      "content": "Through desperate gasps, Canis sprinted down Radum's shortcuts, pursuing the woman."
+    },
+    {
+      "type": "action",
+      "content": "She was kneeling now, exhausted."
+    },
+    {
+      "type": "action",
+      "content": "Hey, you! Who are you?"
+    },
+    {
+      "type": "action",
+      "content": "As he shouted, Canis's face went pale at the sight of her."
+    },
+    {
+      "type": "action",
+      "content": "No... No..."
+    },
+    {
+      "type": "action",
+      "content": "Nearby, Arin knelt on the ground, covering her ears."
+    },
+    {
+      "type": "action",
+      "content": "I'm sorry, my dear."
+    },
+    {
+      "type": "action",
+      "content": "The woman had laid the twin babies on the ground and was strangling one of them."
+    },
+    {
+      "type": "action",
+      "content": "Forgive me, my child."
+    },
+    {
+      "type": "action",
+      "content": "Arin knew what fate awaited women in Radum."
+    },
+    {
+      "type": "action",
+      "content": "Wah... Wah..."
+    },
+    {
+      "type": "action",
+      "content": "Dying is better than what lies ahead. Don't worry. I'll join you soon."
+    },
+    {
+      "type": "action",
+      "content": "She turned to the other infant."
+    },
+    {
+      "type": "action",
+      "content": "I'm sorry. Live for your sister. I couldn't bear it if both of you died."
+    },
+    {
+      "type": "action",
+      "content": "As the woman tightened her grip, the baby's eyes began to roll back—until suddenly, they snapped into sharp focus."
+    },
+    {
+      "type": "action",
+      "content": "The infant stared directly at her, its gaze penetrating."
+    },
+    {
+      "type": "action",
+      "content": "Ah... Ah..."
+    },
+    {
+      "type": "action",
+      "content": "The woman's face went ashen as she stumbled back in horror, screaming before fleeing the scene."
+    },
+    {
+      "type": "action",
+      "content": "Canis and Arin's eyes met across the space."
+    },
+    {
+      "type": "action",
+      "content": "Shirone, glowing faintly with the haze of Hexa's power, turned back toward the strange man with the pyramid-shaped head."
+    },
+    {
+      "type": "action",
+      "content": "What have you done?"
+    },
+    {
+      "type": "action",
+      "content": "Everyone had disappeared. Before him stood only the pyramid-headed figure."
+    },
+    {
+      "type": "action",
+      "content": "Where is everyone? Answer me. If this is hostile, I'll have no choice but to subdue you."
+    },
+    {
+      "type": "action",
+      "content": "As Miracle Stream crackled sharply, the pyramid-headed man tilted his head."
+    },
+    {
+      "type": "action",
+      "content": "Why...?"
+    },
+    {
+      "type": "action",
+      "content": "Ultima read the air's vibrations."
+    },
+    {
+      "type": "action",
+      "content": "You are unbound, aren't you?"
+    },
+    {
+      "type": "action",
+      "content": "Shirone frowned, not understanding."
+    },
+    {
+      "type": "action",
+      "content": "The man spoke again: \"Why is it that you... of all creatures...\""
+    },
+    {
+      "type": "action",
+      "content": "He paused, as if grasping for the right words: \"Have no cause?\""
+    }
+  ],
+  "source_hash": "140df80208bb128cea21e8fd890756f658fe013985250f38f753db175063eb6f",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T03:52:08.468113Z"
+}

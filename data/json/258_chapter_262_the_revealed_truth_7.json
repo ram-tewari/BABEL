@@ -1,0 +1,805 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The students who had been gossiping about Shirone whispered with pale faces.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student",
+      "content": "What in the world is going on? Why Shirone, of all people?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student",
+      "content": "I don't know. The First Prince? Of the Kazra Kingdom?",
+      "tone": "surprised"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student",
+      "content": "W- Well, come to think of it, with talent like Shirone's, it's hard to believe he's just a commoner.",
+      "tone": "skeptical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At someone's remark that hit the mark, everyone fell silent.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Now that they thought about it, it made sense.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "There's no rule that says a genius can't be born into a commoner family, but talent is often influenced by genetics.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Most of the students themselves had inherited their genius from their parents.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They finally realized a fact they had overlooked.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Just because Shirone grew up in a commoner household didn't mean his bloodline was also common.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "No, if his real parents were commoners, they wouldn't have been able to secretly hide in the deep mountains and leave their child behind.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student",
+      "content": "Hey, what do we do? The Kazra Kingdom is an ally of our kingdom, right? What if Shirone really becomes Kazra's king? What if he holds a grudge against us and harms us?",
+      "tone": "worried"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student",
+      "content": "Y- You idiot! It's not even confirmed yet! There's no need to get scared prematurely.",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student",
+      "content": "How can it not be confirmed! Do you really think the kingdom would make such a big announcement without any investigation? We haven't heard everything. Kazra must have conducted thorough investigations and only became certain after that, which is why they sent their emissary.",
+      "tone": "convinced"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "That certainly seemed likely.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was a letter from the king himself, not just anywhere else, but the kingdom. If Shirone wasn't actually the king's son, it would be a national disgrace.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "However, the fact that they made this public announcement showed that the higher-ups were more than 99 percent sure.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student",
+      "content": "I don't know! Ugh, shit! We're all doomed!",
+      "tone": "panicked"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nade looked at his friends, who wore distressed faces, and felt a sense of satisfaction.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Of course, even if Shirone becomes king, he was not the type of person to hold grudge and harm them.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "No, if he really becomes king, he wouldn't even bother thinking about them unless he was someone with a heart smaller than a grain of sand.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Still, it's human nature to be uneasy when you're on the receiving end.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even a first-rank noble is still someone who lives off the kingdom's resources.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "While there are internationally powerful transnational families, most are merely vassals of the king.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In such a situation, it was true that the students felt a pang in their heads and a heavy heart when Shirone was put in the position of becoming a royal.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ordos",
+      "content": "Answer quickly, Shirone! It is the king's command!",
+      "tone": "authoritative"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone hesitated to give an answer, Ordos shouted again.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But Shirone truly didn't know what decision he should make.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "All he had done was showdown with Dante.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "That had been reported in an article, thanks to Killain's pen, and it spread throughout the kingdom.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "That was the extent of the situation Shirone had anticipated.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Little did he know that his biological parents would come across the article and come looking for him.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Moreover, if those parents were not just nobles, but royalty, it would be strange if his mind wasn't overwhelmed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone looked around, searching for someone who could explain the current situation to him.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Most of the students looked dumbfounded, and even Nade and Iruki had no advice to offer.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "What could a friend possibly say when someone's real parents had come to claim them? This was a matter of bloodline, and more than that, it involved royalty.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheas glanced at Olivia.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He had expected Killain's article would bring about a storm, but it was much bigger than he expected.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "The Kazra Kingdom, huh? Among the potential candidates, this is the biggest catch.",
+      "tone": "impressed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "And with that, the credibility is probably high. I also thought Shirone's talent wasn't ordinary. I figured there was a chance his real parents would find him after reading the article, but to think he was royalty…",
+      "tone": "surprised"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Though they hadn't said anything to Shirone, after Killain's article was published, several noble families had discreetly inquired about Shirone's identity.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Due to the frequent arranged marriages among nobles, there are often many illegitimate children.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Most don't care about the children they abandon, but if that child has the kingdom's greatest talent, the story changes.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even if there were some discrepancies, the arrogance of nobles leads them to believe the child must be theirs.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Eek! No way! Shirone's a prince? This is just like the stories I imagined! Amy, look at this! I've got goosebumps, look!",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Seriel had already drifted off into another world.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone was a prince.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "This was a romance no book could ever replace.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Huh? Then that means…",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Amy! You're going to become a queen?",
+      "tone": "excited"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Shut up! What are you talking about?",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy, with a stern expression, silenced her.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In a situation where her mind was already in turmoil, Seriel's chatter was nothing more than noise.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It didn't matter to her whether Shirone was royalty or not. She was just worried about him, who seemed so confused about meeting his real parents.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone made eye contact with Amy.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Seeing the look on Shirone's face, as if he was about to cry, Amy gave him a sympathetic glance.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was the king's command, so there was no way to refuse.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone likely knew that too. He just wanted reassurance that he was making the right choice.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy gave him a nod.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone stared at her as if to ask again, and only after seeing Amy's smile did he finally turn to Ordos.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes, I will heed the king's call.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ordos approached Shirone as if it was only natural.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ordos",
+      "content": "The laws of the royal family are different from those of the nobles. Especially in Kazra Kingdom, the laws are strict, so you must be mindful of your behavior. After going through the leave of absence procedures at academy, bring the parents who raised you.",
+      "tone": "authoritative"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes? Right now?",
+      "tone": "nervous"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ordos",
+      "content": "What's there to explain? It's the king's command! You'd better leave as soon as possible!",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's eyes went dark.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He had never even heard of the laws of the Kazra Kingdom, and the idea of suddenly taking a leave of absence from academy and returning home felt equally suffocating.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "More than anything, he had no idea what kind of procedures awaited him once he arrived in the kingdom.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even if they wouldn't tell him, he still needed to know the basics to avoid making mistakes, right?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Um… Could I have a bit more time…?",
+      "tone": "pleading"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ordos",
+      "content": "What! You insolent fool! Are you defying the king's command?!",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone clamped his mouth shut.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "What stung the most was Ordos's attitude.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Since Ordos is an administrative officer of the kingdom, his overbearing attitude could be overlooked.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "What truly hurt Shirone was the royal decree written on the scroll.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If they were his real parents… he thought they shouldn't be summoning their abandoned child like this after 18 years.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He didn't expect an apology, but if they felt any remorse, shouldn't they at least try to make things more convenient for him?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "At the very least, for the sake of the parents who had raised him in their place.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheas poked Olivia in the side.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Could you help out again this time? At this rate, nothing's going to get done.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Hmm...",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Olivia was already considering stepping in if things got any worse.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The reason the Kazra Kingdom is stricter than Thormia is that they gained independence only 100 years ago.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Still, for someone who had come to take their own child, Ordos's attitude was excessive.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was unlikely that the royal family had ordered such behavior.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Considering that he was probably instructed to accommodate Shirone as much as possible, it was clear that Ordos's nature was simply like that from the beginning.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "His rigid personality might be beneficial for his work, but treating Shirone—who might soon become a prince—so harshly could be seen as either principled or arrogant, depending on how you viewed it.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "In that case, please give me at least a day. My parents don't know anything about this. I'll need at least a day to convince them.",
+      "tone": "pleading"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ordos' face turned red.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Of course, he was known for having a bad temper, but even in his own country, he wasn't this stubborn.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But this was Thormia, a rival country disguised as ally, and a magic academy watched over by nobles.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If he showed weakness, the Kazra Kingdom's reputation would suffer.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Though it was unfortunate for Shirone, Ordos was simply doing his duty to his kingdom.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Besides, Shirone's parents are commoners.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If they were nobles, it might be different, but the idea of taking time to bring commoners made Ordos feel insulted.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ordos",
+      "content": "Denied. The king's decree is absolute! Therefore, you must leave immediately...",
+      "tone": "authoritative"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At that moment, a voice was heard from the front gate.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Voice",
+      "content": "We have already verified the identity of Shirone's parents.",
+      "tone": "assertive"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the students turned and the crowd parted, Shirone's eyes widened.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "An unexpected person was walking toward them.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Before they could even wonder who it was, the students were captivated by her beauty.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A slender figure with a small face. Her features were sharp and clear, and her wavy, ocean-blue hair cascaded down her shoulders.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student",
+      "content": "Wow, she's beautiful. Who is she?",
+      "tone": "impressed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student",
+      "content": "Huh? I know her! She's a famous musician from the kingdom.",
+      "tone": "recognizing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone stared at her in a daze.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was Ogent Reina, Rian's older sister.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Next to her stood the deputy butler, Temuran, with a sharp gaze.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Reina met Shirone's eyes but ignored him and walked straight toward Ordos.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Hello, Mr. Ordos. I have heard of your reputation.",
+      "tone": "polite"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ordos",
+      "content": "And who might you be?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "I am Reina of the Ogent Family. I am here as the representative of the patriarch, Ogent Bischoff, and as well as the legal guardian of Shirone.",
+      "tone": "assertive"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ordos had at least heard of the Ogent Family, a well-reputed martial household.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Moreover, given her status as the proxy for the patriarch, he couldn't maintain the same cold attitude as before.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ordos",
+      "content": "Understood. In that case, let's discuss the process of handing Shirone over. First, we need to…",
+      "tone": "professional"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "First of all.",
+      "tone": "assertive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "We request a preparation period of three days. Shirone is a guest invited by the kingdom, but he has not yet been educated in Kazra's customs. The Ogent Family's head butler, Louis, left for Kazra yesterday. Discussing the entry procedures there will not be a waste of time. In the meantime, we will teach Shirone the etiquette of Kazra. Also, from now on, all matters related to Shirone can be handled by a dedicated team from Ogent Family.",
+      "tone": "assertive"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ordos was lost in thought.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Though he had attempted to swiftly secure Shirone's custody using personal methods, the appearance of a legal representative made it impossible to rely on authority alone.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "This had now become a diplomatic issue.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ordos",
+      "content": "Very well. I'll leave the matter to you then. If anything comes up, consult with my deputy, Daltos. I'll return to Kazra and relay your words to the kingdom.",
+      "tone": "professional"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Yes, see you at the royal palace.",
+      "tone": "polite"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After the customary exchange of pleasantries, Ordos climbed into the carriage.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Just as when he arrived, the knights turned in elaborate motions and escorted the carriage as it moved away.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone was left speechless by how quickly the situation had passed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then, when he saw Reina, tears welled up in his eyes.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "With Ordos berating him, Shirone had been too overwhelmed to think straight, but Reina's arrival felt like salvation.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Reina Noona….",
+      "tone": "pleading"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone called out, but Reina, still with a serious expression, was in the middle of discussing matters with Temuran.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As she pointed to some documents and gave instructions, Temuran nodded and stepped back.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Only then did Reina turn around and approach Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As she approached, her business-like expression faded, replaced by her usual beautiful smile.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "It's been a while, Shirone. How have you been?",
+      "tone": "cheerful"
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "◆ ◆ ◆",
+      "tone": null
+    }
+  ],
+  "source_hash": "2a1970162cbfe54b9608d7175cf92817a425026213e4d9aaa3f930b929688950",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T17:59:50.192752+00:00"
+}

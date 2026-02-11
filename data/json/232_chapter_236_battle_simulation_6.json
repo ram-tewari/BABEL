@@ -1,0 +1,793 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Battle Simulation (6)",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pandora",
+      "content": "What's going on? Is scent magic really useless in real combat?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Pandora shook her head.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Although there aren't many scent mages, once they become certified, they are treated favorably by the magic society.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The advantages are clear: scents are invisible, they affect everyone in the area, and their effects are unique.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "However, to students unfamiliar with the true value of scent magic, it might seem insignificant or even non-existent.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Pandora looked back at her competitors.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Boyle was training properly like a model student, while Shirone and his group, true to their troublemaker reputation, were hunting however they pleased.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "What stood out was Dante's crew.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even with Heaven's Trial available, they were just sitting outside, watching the other students hunt.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Hmph, what's this? Do they think they're on a different level? How arrogant.",
+      "tone": "smug"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dante accepted Pandora's gaze indifferently, then nodded to Closer and Savina, who were sitting behind him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Closer",
+      "content": "Hey, guys, that girl's staring at us?",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Savina",
+      "content": "Kuku, she must be nervous. I like her look, but her skills are a total dud. Haven't they taught her how to fight using scents?",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Closer",
+      "content": "They probably just told her to wait until graduation to learn the specialization. Anyway, it's annoying. That country bumpkin is glaring at us. Should we go and crush her?",
+      "tone": "aggressive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Savina",
+      "content": "Go ahead. Show them what Heaven's Trial is all about.",
+      "tone": "encouraging"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With that, Closer and Savina put on their bracelets.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The virtual landscape became a vast grassland.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As they entered, the students who had already secured their spots stopped their training to watch.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They had heard stories in magazines, but it was the first time seeing Dante's crew's skills in action.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Savina",
+      "content": "You guys, that's not how you use Heaven's Trial. If you're going to do real combat training, it needs to be at this level. Teacher Thad, could you please load Package 17?",
+      "tone": "authoritative"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Thad was just sitting in the corner killing time, yawned and transmitted information to the core.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Package 17 was known to be quite chaotic.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "However, since the sync rate was low, it didn't seem particularly dangerous.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "The sound of thunder roared.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dozens of monsters appeared, covering land, sea, and air.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Golems rose from the ground, and ulc and skeletons rushed down the hill.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The corpse-eating monstrous bird Nakhal attempted a close-range attack with its long, spear-like beak.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The students were breathless at the sight reminiscent of a battlefield.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The sheer overwhelming number of enemies left them unable even to think of a strategy.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Savina",
+      "content": "Huhu, this is more like it.",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Savina leaned back and began casting a spell.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A cold wind swirled around her, and then she vanished from sight.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Thad, who had been watching with half-closed eyes, suddenly narrowed his gaze sharply.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Huh? Is that Haste?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was a specialized magic of the air system, and had the effect of accelerating movement by using the power of the wind.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The ulcs chasing Savina swung their claws, but she had already circled behind them and unleashed a flurry of Wind Cutters.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Meanwhile, the golem approached the visible Closer, seemingly unaware that Savina had moved.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Closer",
+      "content": "Kukuk, let me show you why we're called stars.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The golem's fist came crashing down on Closer's head.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Although it was made of dirt, it weighed close to a ton, so it was a force that no mage with weak physical abilities could withstand.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "However, the impact registered as a 'block.'",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Thad",
+      "content": "Earthrise? That's also an advanced magic, isn't it?",
+      "tone": "curious"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Earthrise was a spell that drew upon the power of the earth to enhance durability.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It has the disadvantage of the caster being unable to move, but it boasts a powerful defensive ability that no other system can imitate.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Thad",
+      "content": "I see. Kingdom's stars, huh? Was the secret in their passive skills?",
+      "tone": "analytical"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If active magic focuses on phenomena, while passive magic focuses on the concept of the attribute.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The wind is fast and the earth is hard. The magic derived from these properties was Haste and Earthrise.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The advantage of passive skills was that their effects persisted even after casting, allowing them to be used simultaneously with other active spells.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "One of the most notable passive skills for mages was teleportation.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Thad",
+      "content": "It may seem like an active skill, but in reality, all it does is transform the mage into a photon state.",
+      "tone": "reflective"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "How to move while transformed into light was entirely a matter of sense, and that was why Shirone rolled around on the ground for a month when he learned how to teleport.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Closer",
+      "content": "Hohoho! Too slow! Too slow!",
+      "tone": "excited"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Savina",
+      "content": "Kukukuk! This one is too weak!",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The process of Savina inflicting fatal damage and Closer crushing the enemies with the power of the earth was repeated over and over.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In no time, the number of monsters noticeably dwindled.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Since they had learned the magic covered in the graduating class, they could quickly clear the advanced class packages.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Thad grabbed his forehead and shook his head.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Thad",
+      "content": "What in the world are they doing with passive skills? Is this the Royal Magic Academy's approach?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sienna",
+      "content": "It's likely a reflection of the capital's educational philosophy, which emphasizes individuality.",
+      "tone": "analytical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Thad",
+      "content": "Individuality is fine, but what about diversity? How can they discover their aptitude and potential without trying different types of magic? They can practice passive skills through teleportation—what's the rush?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sienna",
+      "content": "It's true that it's efficient. The downside of active skills is that you can't cast two spells simultaneously. Though Iruki's Double Spirit Zone is an exception, look at Savina, who can unleash Wind Cutters while under the effects of Haste. She's achieving far superior results compared to the other students. Canis and Arin, who trained under Arcane, are also using passive skills.",
+      "tone": "informative"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Thad",
+      "content": "But Teacher Sienna, at our academy…",
+      "tone": "disagreeing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sienna",
+      "content": "Don't get me wrong, I'm not in favor of Bashka's methods. I just want to understand why students across the nation are so enthusiastic about them.",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sienna pushed up her glasses and pointed to a corner of Heaven's Trial.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Anyway… there are also students who achieve the same results using active skills.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Thad looked back at Shirone and his group. They were dealing with Package 7, which consisted of a golem unit.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lightning Bolt, Atomic Bomb, and Photon Cannon were being used, and although there were some scenes where they were a bit haphazard due to the nature of the active skills, it was impressive to see them work together in their own way.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "What stood out most was that they didn't take themselves too seriously.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Watching them gasp for breath while still laughing uproariously made Thad question whether the words 'practicality' and 'academy' truly belonged together.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Ugh, I'm exhausted. Let's call it quits.",
+      "tone": "exasperated"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As soon as Nade finished his word, the golem's half-broken corpse began to absorb the earth and rise.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ethella, who had activated Package 7 and then left the area, had yet to return.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Of course, Ethella was an excellent teacher. But she was clearly not good with machines.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "What were they supposed to do now that she'd left with the reset function still active?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Let's take off the bracelet. That's the only way. Teacher Ethella, you're going too far.",
+      "tone": "frustrated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ethella",
+      "content": "Wait a moment. I just thought of something I want to try.",
+      "tone": "distracted"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At Shirone's words, Nade and Iruki stepped aside. They were curious about how Shirone intended to deal with the situation.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If he was going to handle the entire package alone, it seemed like his only options were to burn it with a laser or repeatedly fire a Photon Cannon.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "However, their expectations were completely off the mark.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone summoned a sphere of light, golden chains emerged from it like a stream of water.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was the Shining Chain, a technique he had mastered in Heaven.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The students' attention was focused on Shirone as they witnessed the appearance of an unheard of magic.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even Dante couldn't help but be interested this time.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Kung! Kung! Kung! Kung!",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The golem, bound by the chain, was lifted into the air and then swung around like a whip, smashing the other golems into the ground.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "No matter how big they are, their original material is earth. When pounded with the same weight, the golems were crushed into the ground without even a chance to resist.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Closer",
+      "content": "What kind of magic is that? How do you even learn something like that?",
+      "tone": "amazed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Savina",
+      "content": "It must be possible because of Immortal Function. It's truly incredible.",
+      "tone": "impressed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Closer and Savina were gnashing their teeth after being stole the spotlight by Shirone and his group.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After showcasing all their tricks to clear Package 17, they found that everyone's attention had shifted elsewhere.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even Dante was looking at Shirone.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "To be honest, as a fellow light mage, it was shocking. The property called photon was difficult to combine, but shaping it was supposed to be impossible.",
+      "tone": "curious"
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "Is it talent?",
+      "tone": "analytical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the chaos in Heaven's Trial escalated, Ethella came running in, out of breath.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Teacher…",
+      "tone": "exasperated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ethella",
+      "content": "I'm, I'm sorry. Did I keep you waiting for so long? Should I set up another package for you?",
+      "tone": "apologetic"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ethella fumbled with the master bracelet, looking flustered.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Just turn it off, please.",
+      "tone": "frustrated"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Just hearing the sound of the golem rising again made them sick.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Exhausted and worn out, Shirone and his group slumped as they exited Heaven's Trial.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dante was waiting for them at the exit.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Was that a fractal?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After a moment of thought, Shirone nodded.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "That's right. Complex shapes are impossible with photon sculpting.",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "I see. It's a clever method. Isn't that amazing?",
+      "tone": "impressed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Haha, thanks.",
+      "tone": "modest"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "But you're mistaken. There's a serious flaw in your approach.",
+      "tone": "critical"
+    },
+    {
+      "type": "thought",
+      "speaker": "Nade",
+      "content": "So far, Shirone has overcome countless hardships. There is no way his abilities, which have evolved through repeated battles, could have any shortcomings.",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "I acknowledge your prowess as an Unlocker, but the problem is that you have no other options. It seems you haven't mastered any passive skills yet, and that's a serious imbalance.",
+      "tone": "analytical"
+    },
+    {
+      "type": "thought",
+      "speaker": "Iruki",
+      "content": "He has attack magic, defense magic, sustained damage magic, and binding magic. What kind of imbalance are you talking about?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Based on his abilities, it might seem like he's well-rounded. But all his spells are costly. I don't know how much combat experience he has, but with that setup, he wouldn't last an hour in battle. Am I wrong?",
+      "tone": "critical"
+    },
+    {
+      "type": "thought",
+      "speaker": "Iruki",
+      "content": "Shirone blinked at the unexpected words. There certainly had been no battles that lasted more than an hour.",
+      "tone": "reflective"
+    },
+    {
+      "type": "thought",
+      "speaker": "Iruki",
+      "content": "I knew this too, but I chalked it up to a difference in disposition.",
+      "tone": "analytical"
+    },
+    {
+      "type": "thought",
+      "speaker": "Iruki",
+      "content": "Carnivores don't run for as long as herbivores, not because they're weaker, but because endurance is a secondary concern when you can deliver powerful force in a short amount of time.",
+      "tone": "reflective"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "So what's your point? Offense is much more advantageous than defense. We're talking about an hour here, not just 5 or 10 minutes. Most magical battles are over within that time frame.",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Of course, you can think of it that way... But, well, it's too late to turn back now. I was just sharing my thoughts. For the record, the longest time I've ever fought in a battle was 10 hours and 27 minutes.",
+      "tone": "reflective"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "A 10-hour and 27-minute battle. That was clearly an unknown territory he had never ventured into.",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "So don't rush too much. The world of magic isn't all about sprints.",
+      "tone": "advisory"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Leaving those meaningful words behind, Dante walked away.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Image Zone classes were laid-back.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Just a month ago, it had been a place to gauge the advanced class's abilities in real combat, but now, hitting targets felt much more tedious compared to hunting monsters.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even the students in Class Four were no longer as eager to rack up points as they used to be.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ethella, unable to stand it any longer, gathered the students and scolded them.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ethella",
+      "content": "Everyone, if you don't practice the Four-Way Zone, you won't be able to improve your skills. You have to faithfully hone your fundamentals to become better at hunting.",
+      "tone": "authoritative"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Isn't that a good thing? I guess we've adapted to the advanced education of the Royal Magic Academy.",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ethella",
+      "content": "Dante, you are now a student of Alpheas Magic Academy. Please refrain from making any remarks that promote regional rivalry.",
+      "tone": "stern"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Though Ethella's words were unusually harsh, they didn't have much effect.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The students still looked bored and were eagerly waiting for the next Heaven's Trial class to start.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But Shirone was different. Lately, his passion was not ignited by Heaven's Trial but by Lifting.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He had realized that the key to shortening Ataraxia's activation time might be hidden in Lifting.",
+      "tone": null
+    }
+  ],
+  "source_hash": "8d1b570f779bfd3fd88f79f38e9815f97b45b3d392b62516a17febcd7e7ee9e0",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T17:35:18.311676+00:00"
+}

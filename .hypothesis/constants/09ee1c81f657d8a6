@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\yarl\_parse.py
+# hypothesis_version: 6.148.8
+
+[65535, '#', '&', '/', '/#', '//', '/?', '/?#', '/?#@:', ':', '=', '?', '@', 'Invalid IPv6 URL', 'NFKC', '[', ']', 'v']

@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\ruamel\yaml\nodes.py
+# hypothesis_version: 6.148.8
+
+['anchor', 'comment', 'ctag', 'end_mark', 'flow_style', 'mapping', 'merge', 'scalar', 'sequence', 'start_mark', 'style', 'value']

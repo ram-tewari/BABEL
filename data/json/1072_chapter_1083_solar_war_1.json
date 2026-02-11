@@ -1,0 +1,775 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The cities surrounding the Zeta Plateau, where the Solar War was set to take place, lit up the night with endless fireworks.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Participation was open to all.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Every user of High Gear was converging on the plateau, hour by hour.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Anyone could fight.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even allies from the same nation could be designated as enemies, promising chaos.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Don't worry about the small fry.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Once the battle begins, individual desires are swept away by the collective will of the masses.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The key is the Solar Palace, especially the low-gear zone. It'll fall eventually, but the goal is to hold out as long as possible.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Ascension Guild's first squad was in a tactical meeting at an annex near the Solar Palace.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Beyond Ascension, the top five guilds of the Western Region Rankings had each secluded themselves in their own quarters.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The operator",
+      "content": "Hold out for 24 hours, and we win. This Solar War, as always, places Ascension Guild as the top-ranked Command Center. We'll deploy special task forces to defend the inner sanctuary. First task force commander will be Little Witch.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Little Witch",
+      "content": "Yes.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The Little Witch raised her hand.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The operator",
+      "content": "The eastern defense will be handled by Ogre. The west by Rubymix. Central defenses go to Taedaechun.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Taedaechun",
+      "content": "And the north?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The southern start point made it likely the northern gate would be targeted last, requiring attackers to bypass the entire Solar Palace.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The operator",
+      "content": "That's covered by the Black Devil Guild. If we deploy their entire first squad, it'll balance things out.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The Black Devil Guild ranked fourth in the Western Region.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The operator",
+      "content": "I've finalized the roster. It's balanced across the second and third squads. Their codenames are in the communications channel. Tactical decisions are up to the respective leaders.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The roster was distributed via the communication system.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The operator",
+      "content": "Meeting adjourned. Feel free to enjoy yourselves until 3 a.m. Just keep the guild channel open.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The eve-of-battle festival was one of the most anticipated events for High Gear users.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "There wasn't anything particularly unique about it, except the sheer number of participants and the excitement brewing before the Solar War.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Barriers of the heart crumbled, and the collective euphoria made indulgence effortless.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was a night of revelry and ecstasy.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the first squad of Ascension left to unwind, the Little Witch remained seated.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The operator",
+      "content": "Not going to join the festival?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Little Witch",
+      "content": "What about you? Aren't you the one everyone's waiting for?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The operator",
+      "content": "I've never been interested. Even if users are clamoring for me, my freedom in High Gear includes not participating in the festival.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The Little Witch scrutinized the operator.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Her golden bangs fell over her eyes, concealing an alabaster face devoid of expression, yet hauntingly beautiful.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The operator",
+      "content": "I see.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Little Witch",
+      "content": "For many, this false world is an outlet for their desires. But for you, it's the only reality, isn't it?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The operator",
+      "content": "I don't know about that. I just... dislike trades I didn't agree to.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Little Witch",
+      "content": "What did you talk about?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The Little Witch suddenly asked.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The operator",
+      "content": "When you went to Moon Island, you met Yahweh2, didn't you? You didn't go just to check in, so what was it?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Little Witch",
+      "content": "Nothing special. We talked, shared perspectives, found some mutual understanding. But it doesn't change anything. Yahweh2 rejected my offer, after all.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The operator",
+      "content": "Offer?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Little Witch",
+      "content": "I invited him to live with me in High Gear. He turned me down. So, I said my goodbye in my own way.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The operator",
+      "content": "We kissed.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "For a brief moment, a palpable tension emanated from the Little Witch, but it was likely a trick of the mind.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The operator",
+      "content": "Why? Does it bother you? Are you going to retaliate?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Little Witch",
+      "content": "Pfft!",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The Little Witch chuckled, her shoulders shaking.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The operator",
+      "content": "What does that even mean? It wasn't a real kiss. This place is farther removed than a dream. By that logic, what about everyone enjoying themselves at the festival right now?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Little Witch",
+      "content": "...You're right.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The operator",
+      "content": "A fake gesture of affection.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Little Witch",
+      "content": "Yahweh2 probably doesn't feel anything either. His only goal is to defeat me in a duel and pull me into reality. But that's why he can't beat me.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The operator",
+      "content": "I agree.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Woorin",
+      "content": "Shirone, unless you understand the significance of that kiss, you'll never defeat the operator.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Without that realization, neither mining the Apocalypse nor eradicating the demonic realm in reality would ever happen.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Little Witch",
+      "content": "Ultimately...",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Little Witch",
+      "content": "He'll come to me.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Solar Palace sky erupted with a brilliant fireworks display.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Flashes of light lit up the windows.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Death Princess",
+      "content": "So pretty.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Death Princess murmured, gazing out at the spectacle.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Meanwhile, Golden Wheel's first squad wrapped up their meeting.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "The key is to keep Yahweh2 alive until we reach the Solar Palace. If he respawns back at the starting point, by the time he gets back, the Eastern faction will already have collapsed. All risk management revolves around Yahweh2's survival.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Understood.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In Golden Wheel, Fermi's word was law.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Let's change the strategy.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Everyone in Golden Wheel's first squad turned, including the group by the window led by Destruction Machine707.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Why?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The fact that he seriously inquired showed even Fermi sensed something amiss.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I don't think we can beat the Operator.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A tense silence fell.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wild West",
+      "content": "Your current level is 307. That's higher than initial estimates, but still far from being a top ranker. Isn't that something we accounted for?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Of course.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "If you've got something to say, say it. If we need to adjust our strategy, now's the last chance.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "A user at the same level and with the same parts as the Operator could probably fight on equal footing. But the Operator is different. He understands the system perfectly. If my skill level is on par with his, the difference in output will decide the match.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "I already told you—your chances are less than 10%. That's your role, to make it happen.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I know. It's just...",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone recalled the Operator's kiss.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "This isn't a strategic issue. It's emotional. I strongly feel this approach won't work.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "If that's how you feel, then there's no chance of victory. So what do you suggest?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What about this?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone laid out his honest thoughts and the changes he proposed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Long live the East! Long live the East!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "The West will win! The sun will belong to us tomorrow!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amid the deafening cheers from both factions, dawn began to break.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "-10 minutes until the Solar War begins.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The notification appeared in augmented reality, and the shouts transformed into a roar.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even the ear-splitting noise outside was but a faint echo inside the Solar Palace.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kneeling alone in the throne room, the Operator waited for someone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As she reviewed the satellite feed, the scenes unfolding on the battlefield were breathtaking.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Roughly 4,000 participants were spread across the plateau.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The Operator",
+      "content": "Come to me.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "For the Operator, losing today would be as catastrophic as the world's end.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The Operator",
+      "content": "I'll utterly destroy you, Yahweh2.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Electric-blue light flickered in her eyes, hidden beneath her golden bangs.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "-5 minutes until the Solar War begins.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Outside the Solar Palace, the crowd of Western faction users fell silent.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Horse Warrior",
+      "content": "Well, well! We meet again.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Woorin",
+      "content": "The vanguard is always the most exciting.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Horse Warrior",
+      "content": "Agreed. Sitting back and defending doesn't suit me. Which area do you think will be the most intense? I'm planning to head to the western gate.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Woorin",
+      "content": "The center.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Horse Warrior",
+      "content": "The center? It'll be intense at the end, but I doubt they'll attack head-on right from the start. Would the East risk heavy losses in a direct confrontation?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Woorin",
+      "content": "I'm going to the center.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Horse Warrior",
+      "content": "Golden Wheel will scatter our forces to spread the West thin. The best way to do that is to breach the center as quickly as possible.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Woorin",
+      "content": "I'll see you soon, Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "-3 minutes until the Solar War begins.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In the Eastern camp, Shirone made a final check of his equipment.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Activate.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The weapon emerged from a compartment in his arm, automatically fitting into his hand.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Death Princess",
+      "content": "That's Air God, right?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yeah. It's a legendary-grade weapon. It ignores armor efficiency and reduces durability by 10 per shot.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Death Princess",
+      "content": "Is that enough? Even if it reduces 10 per hit, you'd still need 50 shots to destroy a part with 500 durability.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It ignores armor, though. At my level, no matter how good my secondary weapon is, it won't work against rankers.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Death Princess",
+      "content": "Reload.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The energy recharged instantly, reaching 100%.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Death Princess",
+      "content": "Do your best. It's our first time too, but we'll do everything we can to support you.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "-10 seconds until the Solar War begins.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the countdown began, all users checked the satellite feed and prepared to launch.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "— The Solar War has begun —",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As soon as the message appeared, thousands of High Gear users activated their equipment simultaneously, and the sound of engines roared across the battlefield.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The 20-kilometer distance between factions closed rapidly, with bullets flying long before the armies met.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Little Witch",
+      "content": "What's this?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Little Witch, leading her forces at the Solar Palace's front gate, noticed something unusual in the satellite feed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Little Witch",
+      "content": "They're not heading for the center.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Instead, the East mirrored the West's strategy, maintaining a balanced formation across the battlefield.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Little Witch",
+      "content": "They plan to...",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The implication was clear.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Little Witch",
+      "content": "Win the Solar War.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Electric chills ran down her spine, and her shoulders trembled.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Little Witch",
+      "content": "Heh. Heh-heh.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Little Witch",
+      "content": "A brilliant choice, Shirone.",
+      "tone": null
+    }
+  ],
+  "source_hash": "27ebc35d676dc3cfb2939bae1ece8d7e71522a23628a5f855091dd98e447a732",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T15:42:36.221157+00:00"
+}

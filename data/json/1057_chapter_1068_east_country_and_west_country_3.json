@@ -1,0 +1,805 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dawn broke over the wasteland.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Shall we get going?",
+      "tone": "casual"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the three who had enjoyed their night of fun got up, Shirone stretched as well.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It was really long.",
+      "tone": "amused"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In the world of High Gear, there's no urge to sleep. It's because they're already dreaming.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Perhaps the setting of replacing the human body with a machine fits perfectly with the undercoder.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The fun that Destroyer707 and his group enjoyed was, in a sense, a way to kill time.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Death Princess",
+      "content": "Yahweh2, are you okay? Weren't you bored? We wouldn't have minded if you joined in halfway.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Yahweh",
+      "content": "No, I was just thinking about various things. But it's strange not to sleep.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Yahweh's mind could endure a month in reality, but he didn't feel tired at all.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Strongest Codename",
+      "content": "Even if it's a dream, it uses the brain. Wouldn't you get tired if you play for too long?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Yahweh",
+      "content": "Of course. That's why we sometimes disconnect and go out. But don't worry too much. High Gear's time is completely different from reality.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Strongest Codename",
+      "content": "How different?",
+      "tone": "curious"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was natural that simultaneous events' signals wouldn't be transmitted inside High Gear.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "When Shirone dreams, the Shirone in another space doesn't see that dream.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I haven't measured it exactly, but I've heard from others that about 30 days here is equivalent to one day in reality.",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Strongest Codename",
+      "content": "30 days…",
+      "tone": "surprised"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone was amazed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "So, not even an hour has passed in reality. Is it because it's much deeper than Dreamo?",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Thinking about the meaning of the space created by humans, Shirone slung his rifle over his shoulder.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Let's go. We've leveled up enough yesterday, so it won't take long to reach Atogram.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After walking for about two hours, they saw a 5-meter-high iron wall at the end of the wasteland.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "This is the last gate of the Electronic Wasteland. If we get closer, gun barrels will come out of the wall and attack us.",
+      "tone": "cautious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Yeah. To avoid that, we need this function, Reflex Response Correction.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They had reached level 10 by hunting continuously on the way here.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone checked the functions through augmented reality.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Death Princess",
+      "content": "Reflex Response Correction (On/Off) A function activated at level 9 that analyzes external attacks and automatically evades them.",
+      "tone": "explanatory"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Right, if Reflex Response Correction were better, no one would be able to hit anything.",
+      "tone": "understanding"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Death Princess",
+      "content": "Exactly. That's why experts sometimes turn off Reflex Response Correction. They trust their own abilities. Or they quickly toggle it on and off to get only the necessary information. But at our low level, it's essential.",
+      "tone": "explanatory"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No, I'll still use it. I need to get used to the system now to apply it later.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Having made their decision, Shirone and his group started running towards the wall 500 meters away.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With level 10 output, they could jump over the 5-meter height, but the problem was the bullets.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Tat tat tat tat tat!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Hundreds of gun barrels popped out of the wall and fired at the group.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With Reflex Response Correction, Shirone's body moved quickly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Huff! Huff!",
+      "tone": "breathless"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "We have to jump as far as we can! If the probability drops below 50 percent, it gets tough!",
+      "tone": "urgency"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As they got closer to the wall, the evasion probability dropped painfully.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Leaving the barrage of bullets to the AI, Shirone calculated the distance.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Now.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Boosting High Gear's output, they all leaped simultaneously.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yahhh!",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Their shouts formed an arc, and finally, they landed beyond the wall.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The gunfire ceased, and silence fell.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Phew, we made it.",
+      "tone": "relieved"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone looked around, the AI output spatial information.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Beginning of the Royal Road.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Beyond the wall was a dense forest of coniferous trees, with a path leading towards a hill.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He looked up at the sound of birds, but they were creatures, and even strong ones at level 8.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Death Princess",
+      "content": "The Beginning of the Royal Road is where users scattered in the Electronic Wasteland gather. No matter which wall you jump over, you pass through this path.",
+      "tone": "explanatory"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Atogram is the first neutral zone you reach in High Gear. Even though it's mainly for low levels, it's surprisingly large. It's where you decide between East Country and West Country. So rankers often come to get updates or sometimes scout.",
+      "tone": "informative"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The real journey was beginning.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "West Country Guild Rank 1, Ascension.",
+      "tone": "proud"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Powerful air burst from the custom capsule, and the door clanged open.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Inside the capsule stood a beautiful woman with curly blonde hair covering her eyes.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "High Gear charging complete.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With a clank, the machine shook, and black flat shoes touched the ground.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Height: 172 centimeters, weight: classified.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If it were a human body, it wouldn't exceed 55 kilograms, a slender figure.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "User codename, Operator.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Undoubtedly the strongest hardware and software in High Gear.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She intentionally output a sound and sensually circled the room like a cat.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Operator",
+      "content": "Not bad.",
+      "tone": "pleased"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The damaged parts from the last raid had been restored.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The building used entirely by the Ascension Guild was 23 stories high, and her room was on the 22nd floor.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When she opened the door and went into the hallway, a small girl, 130 centimeters tall, was standing by the elevator.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Operator's eyes showed a codename. Little Witch.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At level 482, she was ranked 13th overall but 7th in duels.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She was a formidable opponent.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Little Witch",
+      "content": "'Uncomfortable.'",
+      "tone": "neutral"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Becoming a ranker in such a short time was unusual, but she had a unique, difficult-to-approach atmosphere.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Operator",
+      "content": "What brings you to the 22nd floor?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Little Witch",
+      "content": "Oh? You're logged in? I knocked, but it was quiet.",
+      "tone": "neutral"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Operator",
+      "content": "Since it was the guild master's exclusive floor, guild members didn't come here unless there was something special.",
+      "tone": "explanatory"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Little Witch",
+      "content": "I went out briefly to repair my unit. Did you come to find me? What's up?",
+      "tone": "neutral"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Operator",
+      "content": "No, it's just… things have been strange lately.",
+      "tone": "vague"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "This was exactly why Operator found it difficult to deal with Little Witch.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Operator",
+      "content": "Do you know someone named Yahweh?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Little Witch",
+      "content": "Yahweh?",
+      "tone": "neutral"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Little Witch, who had been checking the elevator floors, turned her head faster than usual.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Little Witch",
+      "content": "But her emotions were unreadable.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Operator",
+      "content": "Hmm. If I know, I know; if I don't, I don't. But why Yahweh? Does it have something to do with you being sentimental lately?",
+      "tone": "accusatory"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Little Witch",
+      "content": "He entered High Gear. We made a bet. If he beats me in a duel, I'll grant his wish.",
+      "tone": "neutral"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Operator",
+      "content": "Oh.",
+      "tone": "surprised"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Little Witch's face was still smiling, but Operator felt a chill.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Little Witch",
+      "content": "Why does that bother you?",
+      "tone": "neutral"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Operator",
+      "content": "I did some research, and he's much more impressive than I thought. That's fine. But he disrespected High Gear. He only wants to use me for the sake of humans in the real world.",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Little Witch",
+      "content": "Haha! You're completely blocked, aren't you?",
+      "tone": "amused"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It seemed like she was taking her side, but there was a sense of amusement.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Operator",
+      "content": "Of course, things won't go his way. He can't beat me anyway.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The elevator door opened.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Little Witch",
+      "content": "Oh, the floor.",
+      "tone": "neutral"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Little Witch pressed the button for the first floor.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Operator",
+      "content": "Of course, beating the undefeated Operator is tough. But it won't be easy. Actually, I know Yahweh a bit, and he's no ordinary guy.",
+      "tone": "accusatory"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Little Witch",
+      "content": "I know.",
+      "tone": "neutral"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "That was why Operator was in a bad mood.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Operator",
+      "content": "There was a lot of talk at yesterday's meeting. He seems to have a special sense of time. He dodged rifle bullets in bio mode. It means he's already surpassed human limits.",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Little Witch",
+      "content": "Wow, really? That's so cool.",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Operator's nose slightly wrinkled at Little Witch's exaggerated performance.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Operator",
+      "content": "The problem is he denied my world. I'll crush him. If he still doesn't understand, I'll shock his real brain if I have to…",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Little Witch",
+      "content": "Operator.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At the changed voice, Operator turned to see Little Witch staring at her with the same expression.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Little Witch",
+      "content": "I don't care what you do. I'll support you. But if you harm the real Yahweh…",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Little Witch",
+      "content": "You will die.",
+      "tone": "deadly"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The unit couldn't swallow, but Operator's mind gulped.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Operator",
+      "content": "…Okay.",
+      "tone": "resigned"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even though she avoided reality, she knew how scary the outside world was.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Operator",
+      "content": "'Little Witch. She's really strange.'",
+      "tone": "curious"
+    },
+    {
+      "type": "thought",
+      "speaker": "Operator",
+      "content": "She thought about asking the tutorial manager, but breaking the rules was out of the question.",
+      "tone": "determined"
+    },
+    {
+      "type": "thought",
+      "speaker": "Operator",
+      "content": "However, from observing her in the guild, she had a guess.",
+      "tone": "intrigued"
+    },
+    {
+      "type": "thought",
+      "speaker": "Operator",
+      "content": "'Probably the former Empress of Kashan…'",
+      "tone": "speculative"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "According to her research, Kashan was currently ruled by Emperor Gando.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Operator",
+      "content": "'She has unlimited funds. And she's incredibly knowledgeable. Most importantly… she knew the secrets of the Holy War.'",
+      "tone": "intrigued"
+    },
+    {
+      "type": "thought",
+      "speaker": "Operator",
+      "content": "'Of course, I hacked dreams to find out.'",
+      "tone": "guilty"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The most crucial evidence was that she couldn't access Little Witch's dreams by any means.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Operator",
+      "content": "'There's a chance she's not human.'",
+      "tone": "speculative"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Operator",
+      "content": "Don't worry. I'm not interested in the outside world. Or your relationship with Yahweh. I'll just crush Yahweh in High Gear.",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Little Witch",
+      "content": "Hehe, I'll look forward to it.",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Little Witch's voice softened, Operator tilted her head slightly.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Operator",
+      "content": "'It's really strange.'",
+      "tone": "curious"
+    },
+    {
+      "type": "thought",
+      "speaker": "Operator",
+      "content": "Why did she feel hundreds of emotions from a face with almost no expression?",
+      "tone": "intrigued"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Operator",
+      "content": "We're here.",
+      "tone": "casual"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The elevator arrived at the first floor.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Operator",
+      "content": "We're here.",
+      "tone": "casual"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At the final point of the Beginning of the Royal Road, Shirone took in the sight of the distant, massive city.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's really amazing.",
+      "tone": "awed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Countless skyscrapers reached the sky, and trains ran between the buildings.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "From now on, we just need to get stronger. It might get really annoying, but we'll be fine. We have Yolga's Son.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Although it was their second playthrough, Destroyer707 and his group were much more excited than the first time.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "'We're joining Golden Wheel.'",
+      "tone": "excited"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Dreaming of a hopeful future, Shirone and his group quickly ran down the hill.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Alright! Let's crush it!",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Spatial Information: Free City, Atogram.",
+      "tone": null
+    }
+  ],
+  "source_hash": "439bede5d9fa223a6848bf394e2e24a5ee9dd09d35f25d20759a023c2b613a73",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T08:56:24.087227+00:00"
+}

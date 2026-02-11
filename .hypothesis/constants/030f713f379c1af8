@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\PycharmProjects\BABEL\babel\transform\batch_processor.py
+# hypothesis_version: 6.148.8
+
+[0.5, '.json', '=', 'chapter_map.json', 'chapters', 'filename', 'index', 'r', 'source_hash', 'title', 'utf-8', 'w']

@@ -1,0 +1,565 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "Shirone, still reeling from the mental shock, lay down on the bed and fell asleep."
+    },
+    {
+      "type": "action",
+      "content": "Vincent and Olina sat on the opposite bed, while Amy sat on the floor, gazing out the window."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Phew, those were a really long four days.",
+      "tone": "relieved"
+    },
+    {
+      "type": "action",
+      "content": "Amy, enjoying the breeze, turned around."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Indeed. And I was really surprised. Orkamp wasn't his real father.",
+      "tone": "surprised"
+    },
+    {
+      "type": "action",
+      "content": "Vincent shook his head, recalling the events."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vincent",
+      "content": "I was just as shocked. When my wife went into the Grand Hall, I thought we'd be buried here.",
+      "tone": "shocked"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "So, what will you do? Will you tell Shirone the truth?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olina",
+      "content": "I've thought about it, and I think it's better not to. He'll find out eventually anyway.",
+      "tone": "resolute"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Why not? Queen Eliza even gave you an official document stating he wasn't her child. You should make it clear to Shirone that she's not his real mother.",
+      "tone": "inquisitive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olina",
+      "content": "I saw Shirone's eyes when he entered the Grand Hall. Maybe he already knew they weren't his real parents.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "He's smart and perceptive. Shirone said he had no parents other than you two. Maybe he said that assuming other real parents might show up.",
+      "tone": "analytical"
+    },
+    {
+      "type": "thought",
+      "speaker": "Olina",
+      "content": "Thinking about it, it made sense. At first, they thought his words were out of betrayal, but Shirone wasn't one to throw tantrums.",
+      "tone": "reflective"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olina",
+      "content": "He's a good kid. He spoke boldly in front of the queen, but he's really an exceptional son. I feel ashamed for dragging him into this mess.",
+      "tone": "ashamed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Don't think that way. It was unavoidable. The place and time they abandoned their child matched, and it was the only case of an abandoned child at that time.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olina",
+      "content": "Wait a minute!",
+      "tone": "excited"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "The maid who abandoned her son said she left him in the stable at the Valley of Dawn. That's why Shirone was invited to the castle as a likely candidate. But the results showed he wasn't their child.",
+      "tone": "inquisitive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Then who is Shirone?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "content": "Everyone fell silent, understanding the weight of the question."
+    },
+    {
+      "type": "action",
+      "content": "Vincent vividly recalled that night. He heard a baby's cry while sleeping and went to the stable. But there were no signs of anyone having been there."
+    },
+    {
+      "type": "thought",
+      "speaker": "Vincent",
+      "content": "What happened that night? Why couldn't they find Orkamp's child? What did Shirone realize that made him say those words to Orkamp?",
+      "tone": "puzzled"
+    },
+    {
+      "type": "action",
+      "content": "With countless answers buried deep within, Shirone remained in a deep sleep."
+    },
+    {
+      "type": "action",
+      "content": "Armin arrived in Toshka Village. He had heard on the way back that Shirone was safe."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "It should be fine. I explained everything clearly.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "He had explained to Amy why he wore a mask, so she would keep her promise.",
+      "tone": "justifying"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "Even if she didn't, there was nothing he could do. Trust was fundamental.",
+      "tone": "philosophical"
+    },
+    {
+      "type": "action",
+      "content": "Armin looked up at the house surrounded by a time barrier. It was deathly quiet."
+    },
+    {
+      "type": "action",
+      "content": "Sighing, he cast a Flicker spell and found himself inside the room."
+    },
+    {
+      "type": "action",
+      "content": "As soon as he arrived at the spot where he had cast the Stop spell, time resumed, and a vase shattered."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Keira",
+      "content": "How many days... has it been?",
+      "tone": "inquisitive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "About four days...",
+      "tone": "informative"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Keira",
+      "content": "So you went after all? Even though I told you not to?",
+      "tone": "accusatory"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "What are you talking about?",
+      "tone": "defensive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Keira",
+      "content": "Don't lie to me! Otherwise, why would you cast a time barrier?",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "I was just angry and needed time to think.",
+      "tone": "calm"
+    },
+    {
+      "type": "action",
+      "content": "Keira scoffed. Who would believe that?"
+    },
+    {
+      "type": "action",
+      "content": "But what infuriated her was that she had no way to confirm it. His confident lie meant he still held the upper hand."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Keira",
+      "content": "Fine. I'll report to the higher-ups. But first, report to me.",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "I'll say it again, I didn't go anywhere.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "action",
+      "content": "Keira ground her teeth."
+    },
+    {
+      "type": "action",
+      "content": "Armin was known for his stubbornness since joining the organization."
+    },
+    {
+      "type": "action",
+      "content": "Once he clammed up, no method could make him talk."
+    },
+    {
+      "type": "action",
+      "content": "Just then, a small red bird flew through the wall. It was a Telebird sent by the higher-ups."
+    },
+    {
+      "type": "action",
+      "content": "The level of photomancy required was extreme, and flying 78,000 kilometers to deliver information was only possible for a mage who had reached the pinnacle of information magic."
+    },
+    {
+      "type": "action",
+      "content": "A red Telebird signified a Level 1 crisis."
+    },
+    {
+      "type": "action",
+      "content": "The bird glowed red and inscribed letters in the air."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Keira",
+      "content": "This can't be. It can't be this fast...",
+      "tone": "alarmed"
+    },
+    {
+      "type": "action",
+      "content": "Armin watched the red bird vanish like a flame and walked to the window."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "I've changed my mind. Let's go back, Keira. There's something we need to report to the higher-ups.",
+      "tone": "resolute"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Keira",
+      "content": "You know something, don't you?",
+      "tone": "accusatory"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "Armin remained silent.",
+      "tone": "defensive"
+    },
+    {
+      "type": "thought",
+      "speaker": "Armin",
+      "content": "He hoped Shirone could enjoy his school days a little longer. Once everyone knew, the world would never leave him alone.",
+      "tone": "wistful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "We might meet sooner than expected, Shirone.",
+      "tone": "ominous"
+    },
+    {
+      "type": "action",
+      "content": "The Kingdom of Kazra cut off all diplomatic channels."
+    },
+    {
+      "type": "action",
+      "content": "There was no official statement. They only communicated through a hotline that the Kashan Empire had taken over governance."
+    },
+    {
+      "type": "action",
+      "content": "Allied nations were displeased, but with Teraje standing firm, they couldn't openly exert pressure."
+    },
+    {
+      "type": "action",
+      "content": "It was the power of the Triumvirate, and thus the Kingdom of Kazra faded from the world's attention."
+    },
+    {
+      "type": "action",
+      "content": "Shirone rested for a few days and returned to school."
+    },
+    {
+      "type": "action",
+      "content": "The advanced class curriculum was over, but the graduation exam, the school's biggest event, was the next day, so the atmosphere was intense."
+    },
+    {
+      "type": "action",
+      "content": "Returning to school meant he wasn't royalty, so his classmates' attitudes remained cold. But since it wasn't certain, they couldn't hurl insults like before."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "A monster was sleeping inside him.",
+      "tone": "ominous"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The feeling of a vast memory that once existed, the emptiness in his brain, was proof.",
+      "tone": "puzzled"
+    },
+    {
+      "type": "action",
+      "content": "At first, it was just a vague feeling. But as he rested, the outline emerged like a fossil being unearthed."
+    },
+    {
+      "type": "action",
+      "content": "Some memories were completely lost, but scenes that left a strong impression gradually became clearer."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "When the demon forcibly expanded his mind, the pain was unbearable.",
+      "tone": "painful"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Or was it really?",
+      "tone": "doubtful"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "In truth, he felt a bursting sense of liberation at the end of the pain.",
+      "tone": "liberated"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The acceleration through the rampage was exhilarating, like being high on drugs, and every time magic was activated, a thrilling pleasure flowed through him.",
+      "tone": "excited"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "No, that wasn't me.",
+      "tone": "denying"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "It wasn't him. It was a new being, a fusion of Shirone and the demon.",
+      "tone": "analytical"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "But following that line of thought led to the conclusion that it was still himself.",
+      "tone": "confused"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The demon still slept deep within Shirone. And the key to unlocking the seal was still in his hand.",
+      "tone": "determined"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "I mustn't open it. If I can't control myself, nothing can be mine.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "content": "Shirone went to the training ground."
+    },
+    {
+      "type": "action",
+      "content": "The regular course was over, so no students were around."
+    },
+    {
+      "type": "action",
+      "content": "After performing a water ceremony for about an hour, he calmly opened his eyes and focused on photons."
+    },
+    {
+      "type": "action",
+      "content": "Taking a magical action of holding a ball with both hands, photons formed between his palms."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The demon had expanded his mind to the brink of the Diamond Body's elasticity collapsing. It couldn't have been a calculated attempt. Without the Diamond Body, he would have been a wreck, confined to a corner.",
+      "tone": "analytical"
+    },
+    {
+      "type": "action",
+      "content": "Shirone was surprised by the different compression of photons."
+    },
+    {
+      "type": "action",
+      "content": "When preparing for the Supernatural Psychic Science Research Society's presentation, he had strengthened his Spirit Zone by rebounding his mind daily. But this time, the rebound was far more extreme."
+    },
+    {
+      "type": "action",
+      "content": "As he concentrated on the divine particles, the light source of the Photon Cannon gradually shrank, transforming into a white sphere with a clear outline."
+    },
+    {
+      "type": "action",
+      "content": "It was like looking at platinum burning in sunlight."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Further compression would exponentially increase the density, creating a spell called Dark Sphere, but it would inevitably lead to a loss of control.",
+      "tone": "cautious"
+    },
+    {
+      "type": "action",
+      "content": "Shirone pressed the photons up and down."
+    },
+    {
+      "type": "action",
+      "content": "The flattened photons flew like a disc, slicing through space and returning."
+    },
+    {
+      "type": "action",
+      "content": "He caught it, split it in two, and shaped it into shurikens."
+    },
+    {
+      "type": "action",
+      "content": "As he extended his hands, the shurikens pierced through space and returned with a reverse spin."
+    },
+    {
+      "type": "action",
+      "content": "Even after two shapings, the form didn't collapse, so Shirone split it further."
+    },
+    {
+      "type": "action",
+      "content": "He shaped eight throwing knives with crescent-shaped wings on streamlined bodies, resembling birds, and held them between his fingers."
+    },
+    {
+      "type": "action",
+      "content": "Crossing his arms in an X, he swung them, and the knives responded sensitively to the wind pressure, slashing through the air with a sound like a swarm of locusts."
+    },
+    {
+      "type": "action",
+      "content": "Anything entering the radius would be shredded instantly."
+    },
+    {
+      "type": "action",
+      "content": "Shirone gathered the slowing knives, four in each hand."
+    },
+    {
+      "type": "action",
+      "content": "The density was significantly weakened."
+    },
+    {
+      "type": "action",
+      "content": "As he combined the knives like clay, the photons exploded, scattering blade-like flashes."
+    },
+    {
+      "type": "action",
+      "content": "The sparkling fragments of light floated before his eyes like petals."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hmm...",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Thanks to controlling the photon's luminescence, he could perform detailed shaping without using fractal batteries.",
+      "tone": "grateful"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Since function comes from form, the utility of photon-based magic was incomparable to before.",
+      "tone": "impressed"
+    },
+    {
+      "type": "action",
+      "content": "But Shirone wasn't satisfied."
+    },
+    {
+      "type": "action",
+      "content": "As he pondered, he sensed someone behind him."
+    },
+    {
+      "type": "action",
+      "content": "Turning around, he saw Iruki and Neide with their jaws dropped."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Oh? When did you guys get here?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "content": "Neide was too stunned to respond."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "They had thought it was typical of Shirone to head straight to the training ground upon returning, but this was different. The magic he was using now was on a completely different level from a few days ago.",
+      "tone": "impressed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "What was that just now? A new spell you developed? What's it called?",
+      "tone": "inquisitive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It doesn't have a name. I was just experimenting with different things. I've managed to control the luminescence of photons. But using it as a weapon seems inefficient. I need to think about it more.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Photons are inherently difficult to shape, so spells involving shaping consume a lot of mental energy.",
+      "tone": "analytical"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Unless it was significantly more effective than the Photon Cannon, there was no reason to switch to an attack spell.",
+      "tone": "cautious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "So, the spell that left us dumbfounded was just a simple experiment. A piece of trash magic that you'll never look at again.",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "...No, it's not that bad.",
+      "tone": "defensive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "What happened? I heard the governance was transferred to Kashan, but what else?",
+      "tone": "curious"
+    }
+  ],
+  "source_hash": "a3473e5b5144fa033fb1f0ac7dc7821d8e91d87c0a2ba9feb08192e2eaa2e031",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T04:28:05.553041Z"
+}

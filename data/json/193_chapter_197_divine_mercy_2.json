@@ -1,0 +1,781 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Peope returned.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "Chief, I'm back.",
+      "tone": "respectful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikirin",
+      "content": "Ah, the fairy of the spiral, Peope.",
+      "tone": "neutral"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "Yes. You remember me.",
+      "tone": "polite"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikirin",
+      "content": "Of course. No other fairy has been born since you a year ago.",
+      "tone": "neutral"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Peope became sullen.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "She was the youngest of the 72 ranks of fairies.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The reason Ikirin remembered her was just that.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Fairies are female in form and cannot reproduce. In order to maintain their species, there was no choice but to wait for a new individual to be born, and Peope was the first fairy born in nearly 10 years.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikirin",
+      "content": "What happened with the fugitives? Was it Canya and Lena?",
+      "tone": "inquisitive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "Yes. They confessed and cooperated fully with the investigation.",
+      "tone": "neutral"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikirin",
+      "content": "So, what was the verdict?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "Both of them were sentenced to a one-year reduction of lifespan.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikirin",
+      "content": "One year?",
+      "tone": "disapproving"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When Ikirin showed an expression of disapproval, Peope swallowed nervously.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "She was confident in her judgment, but as a novice, she couldn't be sure if she had made the right decision.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikirin",
+      "content": "Though you are still young, you are also an enforcer of the law. Your judgment must be respected. But I want to ask you this. Was there no external pressure?",
+      "tone": "inquisitive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "No. It was my decision.",
+      "tone": "firm"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Although Shirone had threatened her life, it had not influenced her decision.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "She realized that the excessive sentence was unreasonable, so she imposed a one-year sentence.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ikirin eyed Peope suspiciously.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "A one-year reduction for escaping from Purgatory was unprecedented. For a fairy born just a year ago, the verdict was novel.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikirin",
+      "content": "Was there anything unusual? I heard that heretics followed the divine subjects in.",
+      "tone": "inquisitive"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Peope was conflicted.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Strictly speaking, those accompanying Canya were Nephilim, not heretics.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But revealing everything from start to finish could lead to misinterpretations. And that wasn't what Peope wanted.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "I did not see any heretics.",
+      "tone": "neutral"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ikirin waited for the next words.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The situation required further explanation.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "However, there was no additional comment from Peope.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sighing, Ikirin waved her away.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikirin",
+      "content": "Very well. Good job. You may go.",
+      "tone": "approving"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "Yes. Rest well, Chief.",
+      "tone": "respectful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Peope bowed her head and stepped away.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Once the door closed, Ikirin gazed into the air.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikirin",
+      "content": "What did you find?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mer",
+      "content": "Peope spoke the truth. However, it doesn't seem she told the whole story.",
+      "tone": "neutral"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "I thought so. What could have happened? She's still learning and it worries me that she's becoming so subjective from an early age.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ikirin propped her chin and lost in thought.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikirin",
+      "content": "Find out about the humans who entered Heaven with the divine subjects. If you go to Meca Command, there will be detailed records.",
+      "tone": "instructive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mer",
+      "content": "I'll leave immediately.",
+      "tone": "eager"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After answering that, Mer slipped through a hole in the ceiling.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ikirin crossed her legs and rubbed her temples.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Section 73 was known as a quiet, accident-free area. In such a place, humans who were neither heretics nor divine subjects entered.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Her intuition, honed over 3,000 years, brought to mind one heretic.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikirin",
+      "content": "Adrias Miro...",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Peope headed home with her tired body.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Having lived for a year, she should have adapted by now, but she couldn't help but stiffened every time she met Ikirin.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The pressure was especially severe when she had to make an arbitrary decision like today.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "Ha, even enforcers of the law have a hard time.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fairy Sister",
+      "content": "Whew, I thought I was going to die from nervousness.",
+      "tone": "teasing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Peope frowned at the voice coming from behind.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When she turned her head, she saw the three fairy sisters approaching with mocking smiles.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "Hello, seniors.",
+      "tone": "polite"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The three fairy sisters' expressions became even more fierce.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It wasn't that their faces had always been like that.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "For fairies born from affection, changes in their hearts are easily revealed on their faces.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Any fairy has no choice but to change like that after about 10 years of being the youngest.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fairy Sister",
+      "content": "I heard about it. You gave a one-year sentence, didn't you? You were swayed by humans, right? I know everything without even looking.",
+      "tone": "accusatory"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "No, I genuinely thought it was the right decision.",
+      "tone": "defensive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fairy Sister",
+      "content": "Oh, is that so? Then what a foolish decision it is. You've officially become a pushover. Don't expect the divine subjects to respect you from now on!",
+      "tone": "teasing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The fairy sisters covered their mouths and laughed.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Peope was angry but couldn't show it.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If she got on the bad side of her direct seniors, she would be tormented for life. And in this context, life meant at least 10,000 years.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fairy Sister",
+      "content": "Anyway, do your job properly. In the past, someone like you wouldn't have been made an enforcer. Nowadays, affection isn't born often, so you're being tolerated. Squeeze more out of the divine subjects.",
+      "tone": "advisory"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "I'm doing just that.",
+      "tone": "neutral"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fairy Sister",
+      "content": "Doing what? What do you know after just one year? Don't talk back!",
+      "tone": "accusatory"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Peope kept her mouth shut.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was absurd that they were giving her advice when they had only just passed their ten-year mark themselves, but there was no way for a one-year-old to speak out in the fairy world, which is a strictly hierarchical society.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fairy Sister",
+      "content": "Got it? You need to make them fear us. Only then will the divine subjects follow. Be careful not to let this happen again.",
+      "tone": "advisory"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the three fairy sisters gave their threats and left, Peope felt ten years older.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Perhaps that's why she felt like she could fight them now.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Of course, it was something that could only happen in her imagination.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "Whew, I'm tired. I just want to go home quickly.",
+      "tone": "exhausted"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Peope's flight wobbled as she let her limbs droop.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "◆ ◆ ◆",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The next morning.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The central plaza of Shamain's 73rd district was bustling from early morning, awaiting the Elixir of Life.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Meca Clan was checking the devices, and the Nors were verifying the magic incorporated into the spell.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the Kerugos began rehearsing with the divine subjects, Shirone clutched his aching chest.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "A rehearsal for an event where people die. How insignificant must the god of Heaven consider human life?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "This is murder. It's unacceptable.",
+      "tone": "indignant"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone finally spoke out.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was the conclusion he had reached after countless agonizing thoughts since last night.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The Elixir of Life should be stopped.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Anyone who understands that this is murder would feel the same.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone walked toward the statue.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He intended to stop the ritual before the participants died.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tess grabbed Shirone's wrist.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Shirone, wait. I'm angry too. But this is not the world we live in. There's a saying that in another country, you follow its laws.",
+      "tone": "cautionary"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I don't know who said that, but it's just a human thought. Canya's mother hasn't committed any crime. Such death for her should not happen under any circumstances.",
+      "tone": "indignant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "But what can we do? Even if we stop the Elixir of Life, Canya's mother's lifespan ends today. No matter how hard we try to save them, only we will be in danger.",
+      "tone": "cautionary"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No, it's not like that. Canya's mother might not die today.",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "What? What do you mean?",
+      "tone": "curious"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The reason why the Elixir of Life is practiced despite the suspicion of the divine subjects is because Ra control their lifespan.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The fact that they would die today compels them to follow the law.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "But Shirone said the law was wrong. If there were truly errors in the Elixir of Life, the divine subjects were being deceived. It was a blatant fraud. In that case, there was plenty of room to change the situation.",
+      "tone": "indignant"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the executor shouted, the Kerugos became busy.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Once the water started rising, there would be no second chance.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was unclear when their bodies would decompose, but drowning would come first.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Wait! The Elixir of Life is unacceptable!",
+      "tone": "indignant"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The eyes of the divine subjects were focused on Shirone.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was easy to spot him standing alone in the clearing.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "However, since they didn't understand his language, they didn't grasp his meaning.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone looked back at Arin.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He meant to interpret.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Arin had no choice but to step forward, sighing.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "She knows better than anyone else that Shirone is a cautious person.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "His decision meant he wouldn't back down under any circumstances.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Arin expanded her Spirit Zone.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "While mental mages specialize in tentacle forms, simply expanding the zone sufficed for addressing a crowd.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "The Elixir of Life is unacceptable!",
+      "tone": "indignant"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The language penetrated the minds of the divine subjects.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Since it was a similar ability to the fairies', no one was surprised.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But the meaning of his words couldn't be ignored.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The divine subjects' eyes filled with hostility.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was clearly heretical logic to consider a ritual worshipping Ra as evil.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Executor",
+      "content": "What qualifications do you have to declare this ritual unacceptable? Are you not a divine subject? Do you wish to face death without a chance of resurrection?",
+      "tone": "accusatory"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I am a Nephilim.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The area fell silent instantly.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even in the original world, Immortal Function was a realm that few could reach.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was the first time in their lives that a Nephilim appeared in Area 73.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The executioner was equally flustered.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Up to this point, he has reached this position by faithfully carrying out Ra's duties.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Being 187 years old was like a badge of honor for him.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "However, such a medal could not even be shown as a business card in front of a Nephilim.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Nephilim are descendants of angels.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Though they couldn't interfere with the law, they were inherently different from the divine subjects.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Executor",
+      "content": "Nephilim… Why do you have an aversion to the Elixir of Life? This is a law established by God.",
+      "tone": "accusatory"
+    }
+  ],
+  "source_hash": "3a2f9d8584524c91fd9229bd28b207491e32d690282fa3e4b9319ee476d05ff5",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T16:58:11.142402+00:00"
+}

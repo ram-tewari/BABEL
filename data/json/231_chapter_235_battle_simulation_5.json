@@ -1,0 +1,781 @@
+{
+  "blocks": [
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Battle Simulation (5)",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone also took note.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "No matter what job they have in the future, mages must be able to protect themselves and their colleagues.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "This was because they were entrusted with tasks that ordinary people couldn't handle.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If a mage merely sat at a desk shuffling papers, it would be far more efficient to hire a scholar.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Now, let's get started in earnest. Instead of testing with a succubus, let's call up a Dragon's Tooth Soldier this time.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As if he had been waiting for those words to come out, Thad immediately dispelled the succubus.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When he entered the code for the Dragon's Tooth Soldier, a steel-colored skeleton was projected into Heaven's Trial.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Once again, the students erupted in cheers.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The Dragon's Tooth Soldier was a magical creature forged from a dragon's fangs.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was so tough that physical attacks were almost entirely ineffective, and without a holy mage who had mastered Turn Undead, the best option was often to flee—such was its strength.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "For the demonstration, we'll invite one of the teachers.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Thad",
+      "content": "I will do it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Thad stepped forward.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Thad",
+      "content": "To be honest, he wasn't particularly eager, but he couldn't send Sienna or Ethella.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Thad",
+      "content": "The idea of watching a woman get beaten by a Dragon's Tooth Soldier was not something he wanted to entertain.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Although this is a simulation, the information it provides is based on a real Dragon's Tooth Soldier, so you can consider this a real battle.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Thad",
+      "content": "Haha! Of course, 50 percent should be fine.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In truth, it wasn't fine at all.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even for a certified 6th-rank mage, the Dragon's Tooth Soldier was a formidable monster.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even with only half the impact, he couldn't guarantee that his mind would hold up.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Then, let's see if Teacher Thad can be attacked by the Dragon's Tooth Soldier.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Dragon's Tooth Soldier approached with thumping footsteps.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Thad",
+      "content": "This is terrifying. Damn it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Thad waited with a trembling expression.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the massive skeletal figure loomed closer, lifting its ancient weapon, the students' eyes widened.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was a tremendous force.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Huh? Huuh?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Dragon's Tooth Soldier arm came crashing down at a terrifying speed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the virtual sword passed through Thad's body, the percentage gauge floating above his head dropped by 50 percent.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Thad tried hard to maintain a calm expression.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "As you can see, Teacher Thad's mental strength has been reduced by half.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "This is because being struck by the sword would result in death.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Since the synchronization rate is at 50 percent, only half of his mental power was drained.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "If the mage is judged to be dead, the hologram will penetrate.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "This is referred to as a 'Penetration.'",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Now, let me show you a defense scenario. Teacher Thad?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As expected of a seasoned teacher, Thad immediately cast his magic.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As he employed Air Skin, a layer of compressed air enveloped his body, and the percentage gauge only decreased by 1 percent.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Since mental strength is quantified, the gauge decreases not only when attacked but also when casting spells.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Now, let's take a look at the Dragon's Tooth Soldier's attack.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Dragon's Tooth Soldier raised its arm and swung its sword down.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "This time, unlike the penetration scenario, the blade stopped as if it had struck Thad's head.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The percentage gauge decreased by 1.8 percent.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Impressive.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "By spending 1 percent of his mental strength on Air Skin, Teacher Thad managed to mitigate 48.2 percent of the attack's damage.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "In a real battle, this means that despite being hit by a full-force strike from the Dragon's Tooth Soldier, his mental state remains mostly intact.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "You see how strong Teacher Thad is now, right?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "All the students answered with a loud 'Yes.'",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If an attack strong enough to reduce a 6th-rank certified mage's mental power by 1.8 percent could do that much damage, it would be fatal for the advanced students even to graze it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Thad puffed out his chest with pride.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Thad",
+      "content": "There was no need to reveal that he had rapidly deployed a complex sequence of defensive magics just before the impact.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "When the hologram doesn't pass through, it's called a 'block.'",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Penetration and block—these are the two judgments made during an attack, and they involve using anti-magic and mana control techniques to drain mental strength.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Mana control is a technique that blocks specific circuits in the brain, preventing concentration.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Spirit Zone involves the activation of the entire brain, so even if only part of the cerebral network is blocked, it becomes impossible to maintain focus.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "When one circuit is blocked, the brain immediately reroutes the information through another pathway.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "However, since the magic control device also changes the blocking path at a rate of 20 times per second, a phenomenon occurs where thinking is possible but entering Spirit Zone is impossible.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Of course, it is possible to bypass the blocking route if one can surpass the speed of 20 blocks per second and account for irregular patterns.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "However, the Teacher Association's official stance was that it was impossible for anyone other than a certified 2nd-rank archmage or higher.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Although this is indeed an impressive technique, the students weren't particularly interested in mana control.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Since it is a technology that causes mental disorders and was originally developed to be used on criminals, it was natural that it would not be of interest to anyone unless they aspire to be an engineer.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "But they couldn't help but be afraid of the word anti-magic.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Principal, about Anti-Magic…",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Yes, I understand your concerns.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It is a magic that can damage the mind.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "But don't worry, unless the synchronization rate is above 80 percent, there's no significant risk.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "This concludes the basic explanation of Heaven's Trial.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "We will alternate between Image Zone and Heaven's Trial, so please check the schedule carefully.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Class Seven will start with a 20% sync rate, increasing by 10% for each stage, with Class Four reaching 50%.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "For reference, the graduation class is currently training at 80%, and the graduation exam is at 100%.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "If you have any additional questions, feel free to ask now.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student",
+      "content": "What happens if the gauge drops to zero?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Good question.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Look at Teacher Thad's gauge.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The students' eyes turned to Thad.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Before they knew it, his gauge was completely filled.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The mental gauge reflects a mage's mental state in real-time.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It decreases when attacked or when casting magics.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Of course, it replenishes with rest.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "If it reaches 0%, the two bracelets will light up, and Heaven's Trial effect will disappear.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Any other questions?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student",
+      "content": "Uh… is that really all there is to it?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Yes, that's all.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Through Heaven's Trial practical training, you will be able to significantly increase your tactical and strategic understanding.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "And don't worry; the core feature of Heaven's Trial hasn't even been introduced yet, so there's no need to be nervous just yet.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "The true strength of Heaven's Trial lies elsewhere.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It's in the collision of living information where no patterns can be found.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "The pinnacle of Heaven's Trial training is known as 'Combat against Others.'",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "◆ ◆ ◆",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The advanced class was now divided between Image Zone and Heaven's Trial sessions.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The students, who quickly adapted to Olivia's policies, no longer felt apprehensive about Heaven's Trial.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student",
+      "content": "Hey, over there! Get it!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student",
+      "content": "No, I said we need to corner it this way!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The students of Class Seven were hunting a Tycon.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was a hairless, reddish-brown monster with a long beak and sharp claws.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It wasn't very large and had a sync rate of only 10%, making it a relatively easy target for the students to hunt.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A barrage of attack was unleashed as dozens of children cast magics into the sky.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tycon, caught in the crossfire, was struck by all manner of magics and fell to the ground.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student",
+      "content": "We got it! We got it! It was hit by an Ice Sword!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student",
+      "content": "No, you idiot! It was my Wind Cutter that took it down!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student",
+      "content": "Whatever, we got it! We defeated the monster!",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The standard tactic for hunting flying monsters was to set up a net of attacks along their path.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The students of Class Seven were learning firsthand how effective this strategy was in real combat.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone could feel the change in the students.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Since the Heaven's Trial classes began, everyone had become more dedicated to their magic training.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "This was the effect of Olivia's emphasis on practical combat.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After the junior students finished their exercises, it was Class Four's turn.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The monsters they faced were much tougher.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Ulcs he met in the Hwajeonmin Village were basic, but there were also giant scorpions called Scorpions, and harpies that used sonic magic.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The most challenging, however, were the trolls with regenerative abilities.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Despite their known vulnerability to magic, they were hardly affected by weaker attacks.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Boyle",
+      "content": "Come forth, Merces.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Boyle summoned a Merces from the Arctic Sea.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "This creature, part of the Monstera Echinodermata order, was a spherical organism about 50 centimeters in diameter with spiky cilia growing from its surface.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Though it lacked intelligence, once it latched onto a target, it would emit cold air in an attempt to recreate its natural environment.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Therefore, it is the monster of choice for summoners when freezing abilities are needed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As a creature that couldn't survive for more than a minute at room temperature, the Merces instinctively released cold air when it latched onto the troll's back, causing it to freeze.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the troll began to freeze, its regenerative abilities declined and its movements became sluggish.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The students took advantage of the gap and unleashed concentrated attacks, destroying the troll.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student",
+      "content": "We did it! We took down a troll!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Boyle",
+      "content": "Boyle, that's amazing.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Boyle",
+      "content": "To master Merces, you have to survive in an extreme cold environment for at least two months!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Boyle",
+      "content": "When did you manage to visit the Arctic?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Boyle",
+      "content": "Haha! What Arctic? I just lived in a freezer every day.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "With the introduction of Heaven's Trial, Boyle's reputation had skyrocketed.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In the previous classes, there weren't many opportunities to demonstrate the effectiveness of summoning magic, but in real combat, the extreme abilities of summoned creatures, which were beyond the reach of his peers, truly shined.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "On the other hand, Pandora, who had been ranked second in Class Four, was becoming increasingly anxious.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "She had a strong desire to stand out, but it was difficult to overwhelm monsters using scent magic alone.",
+      "tone": null
+    }
+  ],
+  "source_hash": "a0feb92bccb8504a105a4773bed18ea8c72c6f44c971c662926e692405376387",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T17:34:18.370927+00:00"
+}

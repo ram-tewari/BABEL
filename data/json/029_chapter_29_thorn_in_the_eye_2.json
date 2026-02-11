@@ -1,0 +1,901 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Etela touched her lips thoughtfully.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etela",
+      "content": "Then would you like to demonstrate in the Image Zone?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What? Now?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etela",
+      "content": "Why? Not feeling well?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No, that's not it, but...",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Etela blinked in confusion.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The enthusiastic student who had wanted to use the Image Zone from the first day of class had recently become passive in lessons.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Etela",
+      "content": "What's happening? He doesn't look good. The children seem to be antagonizing him—is that why? He's more sensitive than I thought.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Etela patted his shoulder and said:",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etela",
+      "content": "If you're not feeling well, we can do it next time. You're the only one in Class Seven who can change the Four Direction Formation, so I just wanted to see it once.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No, I'll try it. Please evaluate me.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone entered the Image Zone, insults flew at him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Class Seven students",
+      "content": "Oh? Looks like he's going to do it again? So desperate for attention.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Class Seven students",
+      "content": "Probably wants to impress his girlfriend. I mean, that's all he can do, right? He can't do any magic at all.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The senior students stopped their practice and turned to watch.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "A month had passed since he succeeded with the defensive form of the Four Direction Formation, so they were curious about how much he had grown.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Teacher, I'm starting.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etela",
+      "content": "Alright. Let's go one by one.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone demonstrated his specialty, the defensive form. A massive cube was created with a strong appearance.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Senior students",
+      "content": "Just looking at the defensive form, he's upper class level. That's almost armor level.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone deployed the Four Direction Formation in offensive form. The zone's size decreased, but numerous spikes protruded menacingly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Next was the target form. The length of the cross was considerable, but the rotation was weak for practical use.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Nevertheless, it was not an exaggeration to describe it as rapid progress.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Etela smiled with satisfaction. Soon he could be promoted early to Class Six.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone didn't stop there and attempted the departure form.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was important to fail too if he wanted to receive advice from Etela.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Predictably, he encountered obstacles. The Spirit Zone's shape would change, or even when he moved the center, the zone would burst just before departure.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Etela's eyes lit up with surprise.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "She hadn't even expected him to try, given their opposing inclinations, yet he was getting fairly close.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The children of Class Seven, who didn't even think of attempting the departure form, each breathed sighs of relief.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Class Seven students",
+      "content": "Hehehe, what's he doing? Is that supposed to be a Four Direction Formation? Just child's play.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Class Seven students",
+      "content": "Some genius he is. Not even good at one thing. How does he expect to become a wizard like this?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone felt upset.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Not a single person in Class Seven could manage the departure form. He couldn't understand the mindset of applying standards to others that they themselves couldn't meet.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As he lost his composure, his Spirit Zone wobbled.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "This only encouraged his classmates, who didn't stop badmouthing him in an effort to bring him down.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy, watching the demonstration, frowned.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "What's wrong with him? What is he doing? The formation conversion had been satisfactory, but suddenly the zone was shaking.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "What's wrong with him? What is he doing?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "The departure form is naturally difficult. He seems too concerned with the children's reactions.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "No way. He's not the type to be shaken by that. Is something really going on?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Oh my, defending him? Well, of course, he is your man after all.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy silenced Seriel with a red face and fell into thought.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Something was definitely wrong. Where was the endurance that had overcome Anti-Magic? His Spirit Zone was wobbling like a drunk person.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Is there really something I don't know about?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone struggled to suppress his emotions.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Why do they hate me so much? What did I do wrong? I just want to learn hard and do better. What's wrong with wanting to become a wizard?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His Spirit Zone began to fluctuate violently, as if about to burst at any moment.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "A Class Five student",
+      "content": "Hey, you're thinking too much.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone suddenly awoke from his thoughts.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "A Class Five student",
+      "content": "If there's something you want to do, just do it. You came here to learn magic, right?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone finally looked at his state coolly.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "What was I doing?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Having cleared his distractions, Shirone attempted the departure form.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Whether he failed or succeeded, it was fine. What mattered was taking a step forward through the attempt.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The 40-meter diameter zone slowly began to move away from its center.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "As the center distanced, the diameter decreased exponentially.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Which comes first, departure or dissolution?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "All the advanced class students stared intently at the scene.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "By the time the zone had shrunk to a diameter of 2 meters, the surface of the Spirit Zone completely detached from Shirone's body.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Class Seven students were indescribably shocked.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He had succeeded at a technique difficult even for advanced class seniors.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Spirit Zone began to rapidly orbit around Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Every moment, new information flooded in.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The massive amount of information nearly made his head explode.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When he blinked his eyes wide open, the Spirit Zone popped and disappeared.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Haa, haa.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He was out of breath despite having done nothing.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I did it. I really... succeeded with the departure form.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The upper class began to stir.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was an achievement incomparable to succeeding with the defensive form.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Not only in Class Seven but also in Class Six, no one had succeeded with the departure form.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Amy, Shirone did it! He really did it!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy was smiling too.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Regardless of her feelings, it was a talent worthy of respect as a colleague pursuing the same dream.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "His growth speed is incredible. No, it's way too fast. If he can succeed with the departure form in a month, surely...",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "A talent matching mine. Or even beyond.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Why... did I waste precious time so futilely?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After succeeding with the departure form, Shirone looked around the Class Five area for the owner of the advice.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "I wanted to thank them...",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Etela, watching Shirone receive applause, fell into thought.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Etela",
+      "content": "Everyone was stimulated by Shirone's growth.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Etela",
+      "content": "She thought of a way to further invigorate the class atmosphere.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Etela",
+      "content": "Hmm, it came earlier than expected.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Recently, Shirone had one private concern.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He didn't know how to use any magic at all.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The knowledge needed for magic wasn't something that lower class children could easily acquire.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "That's why the school only began practical magic training from Class Five.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But reality was different.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Nobles received education from birth, so even lower class students knew how to use at least one magic spell.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In contrast, Shirone's study period was only the 1 year and 6 months he spent with the Ozent family.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone's dilemma was here.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If he focused on one discipline, he might be able to use simple magic.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But he could never surpass students who had been educated from childhood if he followed the same approach.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "That's how he arrived at the strategy of studying entire fields and their derivative disciplines together.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As a result, he had to borrow so many books that these days he practically lived in the library.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Students ridiculed Shirone for this.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "They thought it was stupid to study so haphazardly when he couldn't even keep up with current classes.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "But Shirone didn't change his mind.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "With a backbone of knowledge, any discipline could be arranged according to time sequence.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "This meant the probability of forgetting content was significantly reduced.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The immediate results might be minimal. But at least 2 years. If I can study like this for 2 years, all the core knowledge in each field will connect.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "This would be the framework of knowledge.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "It meant having an entire encyclopedia of information in his head, accessible for any information.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone immersed himself in books with renewed determination.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When he regained awareness, it was well past midnight.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The only person left in the reading room was a girl from Class Six.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone nodded slightly while packing his bag, she returned a shy smile.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When he left the library, it was 2 AM.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Even if he went in now, he could only sleep for about 4 hours.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "But when he thought about how he was behind in studies compared to children from noble families, even sleep seemed wasteful.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At such times, Shirone recalled a book he had once read called 'Dialogues of Great Scholars'.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Particularly impressive was an interview with a biologist named Torkoklin.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Torkoklin",
+      "content": "Of course, I only slept 4 hours during my school days.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The author of the book",
+      "content": "Then isn't your research finding wrong? You became an outstanding scholar despite sleeping only 4 hours.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Torkoklin",
+      "content": "Haha! Teenagers are not human. They are superhumans. Sleeping or not probably makes no difference to them.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "For Shirone, who was pressed for time, these words were a great encouragement.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Right! Let's work hard. If I do my best, results will follow.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The graduation class building had its lights on.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The windows flickered, perhaps from late-night magic experiments.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "What new magic was being created in there?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's gaze was already set on the graduation class.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As lunch time was ending, Etela came looking for Siina.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "At 26 years old, they were the same age and had worked together for 4 years, but they still spoke formally to each other.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etela",
+      "content": "Teacher Siina, could you spare some time?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siina",
+      "content": "Yes. But I have a Class Seven lesson scheduled, so I won't be able to talk for long.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siina",
+      "content": "Discussing magic often took more than an hour, so Siina apologized in advance.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etela",
+      "content": "Ah, I see. I wanted to discuss something about Shirone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siina",
+      "content": "How's he doing these days? I saw his practical scores were quite high.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etela",
+      "content": "They certainly are. Last time, he even succeeded with the departure form of the Four Direction Formation.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siina",
+      "content": "Oh, I see.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Siina smiled contentedly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etela",
+      "content": "So I wanted to make a suggestion to you, Teacher Siina.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siina",
+      "content": "A suggestion?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was quite rare for Etela to make recommendations to another teacher about a student.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Expecting something dramatic, Siina blinked her eyes.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The blackboard in Class Seven's classroom was filled with chemical theory.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The students busily moved their eyes and hands, taking notes.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The lesson seemed faster than usual today.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As expected, Siina ended the class about 10 minutes early and stepped down from the podium.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siina",
+      "content": "That's all for today. Instead, I have an announcement.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The students were magnanimous.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siina",
+      "content": "An early promotion candidate has been decided. Arian Shirone, please stand up.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone was startled by the sudden announcement of early promotion.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Meanwhile, his classmates wore displeased expressions.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Early promotion wasn't particularly rare.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But the problem was that Shirone was the candidate.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siina",
+      "content": "Student Shirone will be promoted to Class Five. From tomorrow, please attend classes according to their schedule.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siina",
+      "content": "I hope all of you will also strive harder for opportunities. That is all.",
+      "tone": null
+    }
+  ],
+  "source_hash": "79c2afd1f97f447aa4898a7e4b7fe3af1b11fe324445c698795ea35984b33730",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T06:23:23.504359+00:00"
+}

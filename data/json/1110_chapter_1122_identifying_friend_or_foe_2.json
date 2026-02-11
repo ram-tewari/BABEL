@@ -1,0 +1,870 @@
+{
+  "blocks": [
+    {
+      "type": "narrator",
+      "content": "Ikael could already anticipate the situation."
+    },
+    {
+      "type": "thought",
+      "speaker": "Ikael",
+      "content": "This must hurt."
+    },
+    {
+      "type": "narrator",
+      "content": "For Wizard, Shirone was not only her sole teacher but also her only source of emotional support."
+    },
+    {
+      "type": "narrator",
+      "content": "It's been only seven years since she started experiencing the world. Yet, as a biological entity, her abilities are already exceptional."
+    },
+    {
+      "type": "narrator",
+      "content": "And yet, she was capable of love."
+    },
+    {
+      "type": "narrator",
+      "content": "Although she lacked the desires of an adult, her feelings were pure and unwavering."
+    },
+    {
+      "type": "narrator",
+      "content": "What Shirone provides her is something her parents couldn't. It was inevitable that this kind of bond would form."
+    },
+    {
+      "type": "narrator",
+      "content": "For an ordinary child, it might have been something to laugh about and move on from."
+    },
+    {
+      "type": "narrator",
+      "content": "But Wizard was no ordinary child. Soon, she would have to stain her hands with the blood of the most evil being in existence: Havitz."
+    },
+    {
+      "type": "monologue",
+      "speaker": "Ikael",
+      "content": "I hope her emotions remain unchanged. I hope that when she kills Havitz, she is in a state of purity."
+    },
+    {
+      "type": "monologue",
+      "speaker": "Ikael",
+      "content": "Like a machine."
+    },
+    {
+      "type": "monologue",
+      "speaker": "Ikael",
+      "content": "If thoughts like fighting for someone or being forced into killing seep into her mind…"
+    },
+    {
+      "type": "monologue",
+      "speaker": "Ikael",
+      "content": "They would create complications."
+    },
+    {
+      "type": "monologue",
+      "speaker": "Ikael",
+      "content": "Shirone must know this. Which means he knowingly accepted the risks."
+    },
+    {
+      "type": "narrator",
+      "content": "Shirone could have made Wizard into nothing more than a weapon to kill Havitz."
+    },
+    {
+      "type": "narrator",
+      "content": "But he wasn't ruthless. He couldn't bear to ruin a child's life."
+    },
+    {
+      "type": "narrator",
+      "content": "It was Yahweh's greatest weakness."
+    },
+    {
+      "type": "thought",
+      "speaker": "Ikael",
+      "content": "I have to help."
+    },
+    {
+      "type": "narrator",
+      "content": "As an archangel ruling over heaven, Ikael understood the cost of resolution."
+    },
+    {
+      "type": "monologue",
+      "speaker": "Ikael",
+      "content": "This isn't something he can handle alone. Sometimes… one must be cruel."
+    },
+    {
+      "type": "narrator",
+      "content": "Goffin might be angry, but Ikael couldn't watch her son bear humanity's suffering alone anymore."
+    },
+    {
+      "type": "action",
+      "content": "In the awkward silence on their way to Jive, Wizard suddenly raised her head."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "If Satan dies, will peace come to the world?"
+    },
+    {
+      "type": "action",
+      "content": "Her gaze turned toward Amy."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Well, of course."
+    },
+    {
+      "type": "action",
+      "content": "Amy replied."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "The chaos in this world is all because of Satan."
+    },
+    {
+      "type": "action",
+      "content": "Ikael listened quietly."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "But wasn't the world chaotic even before Satan came? I heard there were many wars back then too."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "You heard that from Shirone, didn't you?"
+    },
+    {
+      "type": "narrator",
+      "content": "Amy understood what Wizard was trying to say."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "Yes. Shirone said Satan was born from the human heart. Even if we kill Satan now, if humanity can't form a unified consciousness, the world won't change."
+    },
+    {
+      "type": "narrator",
+      "content": "It was Yahweh's philosophy."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "That might be true."
+    },
+    {
+      "type": "action",
+      "content": "Amy said."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "But we still have to do what we can. Wizard, you'll be the beginning of that change."
+    },
+    {
+      "type": "action",
+      "content": "Wizard let go of Amy's hand."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "If I kill Satan and peace comes to the world, will you marry Shirone?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "That's something I don't know yet. I love Shirone, but marriage is a matter of the distant future."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "And that's okay?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "What?"
+    },
+    {
+      "type": "action",
+      "content": "Wizard furrowed her brows."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "If you love someone, don't you want to be with them all the time? You seem so confident about it."
+    },
+    {
+      "type": "narrator",
+      "content": "Amy couldn't explain the trust she had built through countless battlefields with Shirone."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "You'll understand when you grow up."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "Well, I'm not sure about that. I don't have much time to grow up, after all. I have to kill Satan first to even have a future."
+    },
+    {
+      "type": "action",
+      "content": "Sensing the weight in Wizard's words, Amy turned to her, only to hear something surprising."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "If I kill Satan, if I succeed in my mission, will you promise me something? That you won't marry Shirone until I'm grown up."
+    },
+    {
+      "type": "narrator",
+      "content": "Amy, too, had once been a child. She had done impulsive things in a desperate attempt to gain love from her individualistic family."
+    },
+    {
+      "type": "narrator",
+      "content": "Shirone must be her only hope. Her certainty that no one else could be better."
+    },
+    {
+      "type": "action",
+      "content": "When Amy didn't respond, Wizard continued."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "I was just curious about what you think. Don't take it too seriously. Feelings are…"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Wizard."
+    },
+    {
+      "type": "action",
+      "content": "Amy stopped walking and crouched down, meeting Wizard's eyes, though Wizard hesitated and looked away."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "I know how much responsibility you're carrying. Your feelings for Shirone, and the fight you're waging for humanity. I'll do anything I can to help you."
+    },
+    {
+      "type": "action",
+      "content": "The child's lips quivered."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "When Satan is gone from this world, I won't marry Shirone until you've grown up."
+    },
+    {
+      "type": "narrator",
+      "content": "Rain fell in Wizard's heart."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "That's not what I meant."
+    },
+    {
+      "type": "narrator",
+      "content": "She had dreamed of a way for everyone to be happy, even though she knew it didn't exist."
+    },
+    {
+      "type": "action",
+      "content": "As tears welled up in Wizard's eyes, Amy smiled."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Let's…"
+    },
+    {
+      "type": "action",
+      "content": "At that moment, a triangular horned Mara, Ashur, appeared beside Ikael, drawing his sword."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ashur",
+      "content": "Get down!"
+    },
+    {
+      "type": "action",
+      "content": "Before he finished speaking, Ikael leaped forward."
+    },
+    {
+      "type": "sfx",
+      "content": "Boom!"
+    },
+    {
+      "type": "action",
+      "content": "A massive impact struck the earth 23 kilometers from Delta."
+    },
+    {
+      "type": "action",
+      "content": "Amidst the molten crater, Ikael's group reappeared."
+    },
+    {
+      "type": "action",
+      "content": "Amy checked on Wizard."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Are you okay?"
+    },
+    {
+      "type": "action",
+      "content": "The child, already in battle mode, was glaring at the towering archangel ahead."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "Who is that?"
+    },
+    {
+      "type": "action",
+      "content": "Amy turned to the same direction."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Uriel."
+    },
+    {
+      "type": "action",
+      "content": "The Archangel of Destruction, Uriel, rose with a powerful vibration that shook the atmosphere."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "Ikael, how long did you think you could keep running from me?"
+    },
+    {
+      "type": "action",
+      "content": "Ikael knew immediately."
+    },
+    {
+      "type": "thought",
+      "speaker": "Ikael",
+      "content": "He's resolved herself."
+    },
+    {
+      "type": "narrator",
+      "content": "And this was the one situation Ikael had least wanted to face."
+    },
+    {
+      "type": "action",
+      "content": "Ashur bowed his head."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ashur",
+      "content": "I apologize. I blocked all signals that could expose our location, but the narrowed range…"
+    },
+    {
+      "type": "narrator",
+      "content": "No matter what illusions they used, Ikael's arrival in Jive was inevitable."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "It's not your fault. I share the responsibility for failing to sense his approach."
+    },
+    {
+      "type": "narrator",
+      "content": "The fact that Uriel had penetrated even the amplification of their senses showed just how strong he was."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "Take Wizard with you. I'll hold him off here."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ashur",
+      "content": "But…"
+    },
+    {
+      "type": "action",
+      "content": "Ashur hesitated."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ashur",
+      "content": "Can she really win? Uriel has never fought Ikael with his full strength before."
+    },
+    {
+      "type": "narrator",
+      "content": "Uriel had always respected Ikael more than any other angel."
+    },
+    {
+      "type": "narrator",
+      "content": "As the source of all concepts, Ikael is a force unto herself."
+    },
+    {
+      "type": "narrator",
+      "content": "But now, Uriel, the Archangel of Destruction, had decided to break free from that respect and unleash his true power."
+    },
+    {
+      "type": "action",
+      "content": "Ikael spoke."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "This is a wound I caused. I need to speak with Uriel. Leave this to me."
+    },
+    {
+      "type": "action",
+      "content": "Ashur bowed his head before materializing beside Wizard using his signal ability."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ashur",
+      "content": "Let's go. We'll move to Jive."
+    },
+    {
+      "type": "narrator",
+      "content": "With Ikael's stealth compromised, it was only a matter of time before Satiel also discovered her location."
+    },
+    {
+      "type": "action",
+      "content": "Amy stood up."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "It seems one more will have to stay behind."
+    },
+    {
+      "type": "action",
+      "content": "As Ashur looked up, another figure in a martial uniform approached decisively."
+    },
+    {
+      "type": "action",
+      "content": "It was Uriel's second mara, Aruta."
+    },
+    {
+      "type": "narrator",
+      "content": "The sole reason for existence lies in the understanding of combat, and his mastery far surpasses that of any human."
+    },
+    {
+      "type": "action",
+      "content": "Aruta spoke."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aruta",
+      "content": "Uriel wishes to face Ikael alone. Anyone who interferes will be eliminated."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Wizard, go."
+    },
+    {
+      "type": "action",
+      "content": "Amy said, but Wizard shook her head."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "No, I'll do it. I can handle this."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "You can't win. Go."
+    },
+    {
+      "type": "narrator",
+      "content": "Wizard was strong, of course, but all her training had been designed with Havitz in mind."
+    },
+    {
+      "type": "narrator",
+      "content": "Even with her talent that surpasses experience, she picked the wrong opponent this time. This one is strong."
+    },
+    {
+      "type": "narrator",
+      "content": "When asked what kind of strength it was, it would be hard to put into words."
+    },
+    {
+      "type": "narrator",
+      "content": "If someone had trained in a single discipline for tens of thousands of years, this is the kind of aura they would emit."
+    },
+    {
+      "type": "narrator",
+      "content": "Even a 1% chance that Wizard might fail to complete her mission cannot be allowed."
+    },
+    {
+      "type": "action",
+      "content": "Wizard was stubborn."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "I can win. If I can't handle someone like this, I won't be able to kill Havitz either."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Don't talk so arrogantly."
+    },
+    {
+      "type": "narrator",
+      "content": "The only reason Wizard was unique was that she alone could break through Vanishing."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "You still have a long way to go. Focus on defeating Havitz."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "At least I'm better than you—!"
+    },
+    {
+      "type": "action",
+      "content": "As Wizard began to yell, Amy's Crimson Eye flared up, and she glared at her."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "I said go!",
+      "tone": "stern"
+    },
+    {
+      "type": "action",
+      "content": "Wizard flinched."
+    },
+    {
+      "type": "action",
+      "content": "Thunder roared in her heart, and before she could say another word, Ashur activated his Signal."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ashur",
+      "content": "Be careful."
+    },
+    {
+      "type": "action",
+      "content": "he said as his final words before Wizard disappeared."
+    },
+    {
+      "type": "action",
+      "content": "Amy exhaled deeply."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Don't even think about chasing her."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aruta",
+      "content": "Don't misunderstand."
+    },
+    {
+      "type": "action",
+      "content": "Aruta said."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aruta",
+      "content": "This is by Uriel's decision alone. We don't stoop to cowardly tactics."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Is that so?"
+    },
+    {
+      "type": "action",
+      "content": "Amy scoffed."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Big talk, coming here specifically when Shirone isn't around. Was Yahweh that frightening?",
+      "tone": "mocking"
+    },
+    {
+      "type": "action",
+      "content": "Aruta's muscles tensed."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aruta",
+      "content": "I'll say it again—"
+    },
+    {
+      "type": "narrator",
+      "content": "Uriel had said he wanted to talk with Ikael, but explaining further would only diminish their dignity."
+    },
+    {
+      "type": "action",
+      "content": "Aruta stopped speaking, lowered his stance, and brought his right fist to his side."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aruta",
+      "content": "I'll end this in an instant."
+    },
+    {
+      "type": "action",
+      "content": "In that moment, his aura transformed overwhelmingly."
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "That's it."
+    },
+    {
+      "type": "narrator",
+      "content": "It felt as if every principle necessary to subdue an opponent with a fist was converging into a single point."
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "One-hit kill."
+    },
+    {
+      "type": "narrator",
+      "content": "Failure would collapse his stance entirely, but his confidence in not failing was absolute."
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Not a good match-up."
+    },
+    {
+      "type": "narrator",
+      "content": "The Crimson Eye's ability only peaked after the second exchange, making dodging the first strike critical."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aruta",
+      "content": "Your expression doesn't look good. Are you scared?"
+    },
+    {
+      "type": "action",
+      "content": "Amy smirked, lifting the corners of her mouth."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Not at all."
+    },
+    {
+      "type": "action",
+      "content": "Flames erupted from her body, burning the air as she unleashed the energy of a warrior who would never retreat."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Come at me.",
+      "tone": "defiant"
+    },
+    {
+      "type": "narrator",
+      "content": "The battle would be over once she dodged and countered his attack, and Aruta knew it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aruta",
+      "content": "Interesting."
+    },
+    {
+      "type": "action",
+      "content": "Amy's wavering, flame-like aura seemed to follow the natural order itself."
+    },
+    {
+      "type": "narrator",
+      "content": "Both of them were aware of the simplest strategy for their confrontation, standing at a tense stalemate."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "Ikael."
+    },
+    {
+      "type": "action",
+      "content": "Uriel said, rising over the crater."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "I know I am not worthy. But Satiel will destroy humanity. She is not in a state to make sound decisions."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "I know,"
+    },
+    {
+      "type": "action",
+      "content": "Uriel said, landing on the ground and stepping closer to Ikael."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "This isn't what you wanted, was it? You abandoned the angels and heaven for the sake of a single human you loved."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "I didn't abandon them. I simply—"
+    },
+    {
+      "type": "action",
+      "content": "Before she could finish speaking, Uriel's fist slammed into Ikael's face."
+    },
+    {
+      "type": "action",
+      "content": "A thunderous roar echoed as Ikael was sent flying, carving a V-shaped fissure into the ground."
+    },
+    {
+      "type": "action",
+      "content": "Standing amidst the radial destruction, Uriel stomped the ground, creating another shockwave as he landed directly before Ikael, who knelt beneath him."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "You could have killed me."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "Even just now."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "Since the day you left, I've thought countless times about whether I should erase you completely. The origin of all angels… you."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "It seems you've made up your mind."
+    },
+    {
+      "type": "action",
+      "content": "Though Ikael still had strength, she remained on the ground, unmoving."
+    },
+    {
+      "type": "thought",
+      "speaker": "Ikael",
+      "content": "Uriel can destroy everything."
+    },
+    {
+      "type": "narrator",
+      "content": "The only reason he had been controlled until now was that Ikael was the very concept from which all angels originated."
+    },
+    {
+      "type": "thought",
+      "speaker": "Ikael",
+      "content": "It must feel like destroying part of himself."
+    },
+    {
+      "type": "narrator",
+      "content": "This was no mere clash of egos or mutual opposition. It was a single, devastating blow imbued with the intention to truly kill."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "Get up. Let's have a proper duel. Pleading like this won't change my mind."
+    },
+    {
+      "type": "action",
+      "content": "Uriel said."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "What do you want?"
+    },
+    {
+      "type": "narrator",
+      "content": "When the two of them clashed, the world would shake, but the outcome wouldn't change."
+    },
+    {
+      "type": "thought",
+      "speaker": "Ikael",
+      "content": "I can't let myself be destroyed just yet. At least not until Shirone fulfills his will."
+    },
+    {
+      "type": "action",
+      "content": "Ikael raised her head."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "If you demand an apology, I will give it. Even more than that, I will do as you wish. Just give me time. I still have work to do here."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "All I do is destroy."
+    },
+    {
+      "type": "action",
+      "content": "Uriel said, lifting his foot slowly."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "I've thought about this more than I can bear. Since the day I was born, I have thought more deeply than ever…"
+    },
+    {
+      "type": "action",
+      "content": "His expression, as cold as metal, locked onto Ikael's."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "Let's end this."
+    },
+    {
+      "type": "action",
+      "content": "The Judicial Halo, Ragnarok, activated as his foot hurtled toward Ikael's face."
+    },
+    {
+      "type": "sfx",
+      "content": "Boom!"
+    },
+    {
+      "type": "action",
+      "content": "His foot stopped just inches from her nose, but even that motion obliterated the landscape behind her."
+    },
+    {
+      "type": "narrator",
+      "content": "Had there been even a flicker of fear in her expression, he would have destroyed her face without hesitation."
+    },
+    {
+      "type": "narrator",
+      "content": "But the unwavering eyes that stared back at him, her expression, her poise, and her dignity…"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "Kariel."
+    },
+    {
+      "type": "narrator",
+      "content": "She reminded him of a mother."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "I finally understand you."
+    },
+    {
+      "type": "narrator",
+      "content": "Confronted by the unique strength only Ikael possessed, Uriel found himself conflicted once more."
+    }
+  ],
+  "source_hash": "5b950c27fb7d76495e1a824bd453c13d121fa4948fc0359fe09287d9ea043c7f",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T04:40:26.385587Z"
+}

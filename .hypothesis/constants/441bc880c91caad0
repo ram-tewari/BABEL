@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\proto\datetime_helpers.py
+# hypothesis_version: 6.148.8
+
+[1000000.0, 1000, '%Y-%m-%dT%H:%M:%S', '0', '_nanosecond', 'microsecond', 'nanos', 'nanosecond', 'no_fraction', '{}.{}Z']

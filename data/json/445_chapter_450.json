@@ -1,0 +1,624 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "Command and Control Room of the First Rebel Command."
+    },
+    {
+      "type": "action",
+      "content": "While Shirone took Kanya and Lena away, Crude briefed Gaold's group on the recent battle."
+    },
+    {
+      "type": "action",
+      "content": "The damage caused by Babel was greater than expected, resulting in the loss of 40% of immediate combat power and 53% of munitions."
+    },
+    {
+      "type": "narrator",
+      "content": "The main point of the briefing was that a full-scale war with Heaven was impossible in the current state."
+    },
+    {
+      "type": "action",
+      "content": "Although Shirone's party had successfully integrated the Second Rebel Command, their headquarters had also been decimated."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crude",
+      "content": "Soon, the production of large Tagis at the Yameng munitions factory will be completed. But we lack the personnel to carry out the operation. Even if we avoid the angels and Mara, it is impossible to approach Aravot through the fairies of the Ministry of the People and the giants of the Guard."
+    },
+    {
+      "type": "action",
+      "content": "Sein agreed."
+    },
+    {
+      "type": "narrator",
+      "content": "Neutralizing Heaven's air defense system, Aegis, was only to break through the outer wall."
+    },
+    {
+      "type": "action",
+      "content": "From then on, it depended on how long the rebels could hold out and how far Gaold could go."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crude",
+      "content": "And Shirone. To cast God's Punishment, we must at least reach the entrance of Aravot."
+    },
+    {
+      "type": "action",
+      "content": "Once mass is gathered at high altitude, it takes about 14 minutes to fall to the ground."
+    },
+    {
+      "type": "narrator",
+      "content": "Therefore, Sein had calculated the trajectory to predict the rotation cycle of 14 minutes to the center of Aravot by firing the laser almost vertically."
+    },
+    {
+      "type": "action",
+      "content": "The reason for setting a high-difficulty close-range strike was that the operation centered on rescuing Miro."
+    },
+    {
+      "type": "narrator",
+      "content": "Variables would change in real-time depending on Miro's condition."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crude",
+      "content": "Using God's Punishment prematurely would narrow the chances of rescue."
+    },
+    {
+      "type": "action",
+      "content": "I want to see the situation through to the very end, even if it means taking risks. In that sense, Shirone's infiltration requirements are crucial."
+    },
+    {
+      "type": "action",
+      "content": "As everyone was lost in thought, there was a knock on the door, and Shirone entered with Kanya and Lena, who were unaware of the situation."
+    },
+    {
+      "type": "action",
+      "content": "Crude, knowing that Shirone had gone to comfort the sisters, looked at him curiously as he entered with them."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crude",
+      "content": "What is it? Do you have something to say?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I have a suggestion. Where is Babel now?"
+    },
+    {
+      "type": "action",
+      "content": "The metal angel? It's in the Kuroi isolation facility."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Please take me there."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crude",
+      "content": "What for? The metal angel is classified as a top security level within the command facilities. I understand your grief, but we can't just open it up."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Maybe I can reactivate Babel."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crude",
+      "content": "Reactivate Babel?"
+    },
+    {
+      "type": "action",
+      "content": "Crude looked skeptical."
+    },
+    {
+      "type": "narrator",
+      "content": "Hadn't Sein said that the metal angel's system was a product of a higher-dimensional existence beyond the angelic information system?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Crude",
+      "content": "Have the sisters persuaded him?"
+    },
+    {
+      "type": "action",
+      "content": "He had clearly seen Kanya trying to destroy Babel with a sign when it stopped functioning."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crude",
+      "content": "Sorry, but that's…"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Please allow it. Shirone might be able to do it."
+    },
+    {
+      "type": "action",
+      "content": "Plu."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crude",
+      "content": "What do you mean Shirone might be able to do it?"
+    },
+    {
+      "type": "action",
+      "content": "Plu was the only one who knew that Shirone possessed the Ultima System."
+    },
+    {
+      "type": "thought",
+      "speaker": "Plu",
+      "content": "Reporting everything that happened at the Second Command was too much for the busy First Command, and the other team members needed rest."
+    },
+    {
+      "type": "thought",
+      "speaker": "Plu",
+      "content": "How should I explain this?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Plu",
+      "content": "The Ultima System was something only the person involved could understand, and revealing that Shirone had unsealed Babel was sensitive."
+    },
+    {
+      "type": "thought",
+      "speaker": "Plu",
+      "content": "Of course, she didn't think Shirone was responsible for the First Command's disaster."
+    },
+    {
+      "type": "thought",
+      "speaker": "Plu",
+      "content": "But she wasn't sure if others would think the same."
+    },
+    {
+      "type": "thought",
+      "speaker": "Plu",
+      "content": "It's best to hide what can be hidden."
+    },
+    {
+      "type": "action",
+      "content": "Shirone couldn't ignore his conscience, but Plu was a thorough magician to the core."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crude",
+      "content": "First, take Shirone to Babel. He will explain everything there."
+    },
+    {
+      "type": "action",
+      "content": "When Sein formally requested, Crude reluctantly led them to the warehouse where Babel was isolated."
+    },
+    {
+      "type": "action",
+      "content": "The guards were strict, but their eyes couldn't hide the fear."
+    },
+    {
+      "type": "action",
+      "content": "It was a being that had nearly annihilated the command."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crude",
+      "content": "So, how do you plan to reactivate this?"
+    },
+    {
+      "type": "action",
+      "content": "Babel was bowing its head as if asleep, but Shirone could already feel it the moment he entered the warehouse."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The output is the same. Only the command is gone."
+    },
+    {
+      "type": "action",
+      "content": "The flow of charges that made up Babel was clearly transmitted through the Ultima System."
+    },
+    {
+      "type": "action",
+      "content": "Feeling as if he could wake her up at any moment, Shirone approached slowly, and Crude spoke."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crude",
+      "content": "Wait, are you sure about this? If by any chance…"
+    },
+    {
+      "type": "narrator",
+      "content": "Even if Shirone reactivated Babel, if it attacked the rebels again, they wouldn't be able to avoid annihilation."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sein",
+      "content": "No need to worry. The angel's algorithm is completely broken. It's already confirmed by the Iron Wheel Eye."
+    },
+    {
+      "type": "action",
+      "content": "Even Sein didn't know how Shirone would reactivate Babel."
+    },
+    {
+      "type": "narrator",
+      "content": "He guessed that the system integrated into Babel was a groundbreaking information system that unified all signals in the world."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Connecting to Babel."
+    },
+    {
+      "type": "action",
+      "content": "Shirone closed his eyes and resonated with the Ultima System. Babel's eye panels glowed red."
+    },
+    {
+      "type": "sfx",
+      "content": "New user detected. Ultima System connected."
+    },
+    {
+      "type": "action",
+      "content": "An invisible signal expanded between Babel and Shirone, integrating their information."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "This is…"
+    },
+    {
+      "type": "action",
+      "content": "The feeling of connecting with Babel for the first time was astonishing."
+    },
+    {
+      "type": "action",
+      "content": "He could see what Babel saw."
+    },
+    {
+      "type": "sfx",
+      "content": "-Babel primitive program activated. Gaia Code Number 2 detected."
+    },
+    {
+      "type": "sfx",
+      "content": "-Absolute inviolable target. Entering algorithm setting mode."
+    },
+    {
+      "type": "action",
+      "content": "Shirone's will was converted into the unique programming language that operated Babel and began to input automatically."
+    },
+    {
+      "type": "sfx",
+      "content": "-Primary objective: Protect the rebels."
+    },
+    {
+      "type": "sfx",
+      "content": "-Secondary objective: If protecting the rebels is impossible, swiftly eliminate the enemy."
+    },
+    {
+      "type": "sfx",
+      "content": "-Tertiary objective: If eliminating the enemy is impossible, protect Kanya and Lena."
+    },
+    {
+      "type": "action",
+      "content": "If the tertiary algorithm was activated, it meant the battle situation was already dire."
+    },
+    {
+      "type": "narrator",
+      "content": "It was a program containing Shirone's sense of responsibility for the grief of the two sisters who lost their father."
+    },
+    {
+      "type": "action",
+      "content": "The algorithm proceeded to the fourth and fifth stages, becoming more complex."
+    },
+    {
+      "type": "sfx",
+      "content": "The ability for humans and machines to resonate as one signal was a technology far beyond telepathy."
+    },
+    {
+      "type": "sfx",
+      "content": "-Shirone algorithm applied. Babel program activated."
+    },
+    {
+      "type": "action",
+      "content": "As Babel, who had been kneeling, stood up with an engine sound, the guards aimed their arcs simultaneously."
+    },
+    {
+      "type": "action",
+      "content": "Even Crude, knowing Babel's overwhelming intimidation, swallowed and took a step back."
+    },
+    {
+      "type": "action",
+      "content": "Babel, making clanking footsteps, walked straight to Shirone and knelt on one knee, showing respect to Gaia Code Number 2."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Babel",
+      "content": "Babel. I will follow Shirone's orders."
+    },
+    {
+      "type": "action",
+      "content": "Babel's voice, heard for the first time, was calm and clear, unimaginable for a weapon of terror."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crude",
+      "content": "How… how is this possible…"
+    },
+    {
+      "type": "action",
+      "content": "Crude was shocked as the weapon of terror that had devastated the command showed submission to Shirone."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Is this the light of Sector 73?"
+    },
+    {
+      "type": "action",
+      "content": "In any case, having Babel as an ally was the best outcome. Her powerful force could more than restore the combat power lost by the First Command."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Using Babel as a combat weapon couldn't be based on efficiency alone."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Who would want to fight alongside a machine that killed their family?"
+    },
+    {
+      "type": "action",
+      "content": "As expected, Kanya's eyes filled with murderous intent, and her fists trembled as she saw Babel stand up."
+    },
+    {
+      "type": "action",
+      "content": "A detestable machine."
+    },
+    {
+      "type": "action",
+      "content": "What was more annoying was that it was made of metal so strong that it couldn't be destroyed by human strength."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Babel, from now on, follow my orders."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Babel",
+      "content": "I will follow Shirone's orders."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "If Kanya wants, destroy yourself here."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "Shirone!"
+    },
+    {
+      "type": "action",
+      "content": "Plu shouted."
+    },
+    {
+      "type": "thought",
+      "speaker": "Plu",
+      "content": "Why destroy a powerful ancient weapon that could rival an angel?"
+    },
+    {
+      "type": "action",
+      "content": "On the other hand, Gaold smiled."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "War is a clash of everything, and in human battles, emotions are more important than tactics."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "That's just like you, Shirone."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone's approach was certainly radical."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "If Kanya destroyed Babel, it would be seen as humane or bold."
+    },
+    {
+      "type": "sfx",
+      "content": "Heh, well, war is unpredictable."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Babel",
+      "content": "If Kanya wishes, I will destroy myself."
+    },
+    {
+      "type": "action",
+      "content": "As the choice passed to Kanya, the guards who had lost their families watched her carefully."
+    },
+    {
+      "type": "thought",
+      "speaker": "Kanya",
+      "content": "I want to kill it. I want to destroy it. But…"
+    },
+    {
+      "type": "action",
+      "content": "Kanya bit her lip until it bled."
+    },
+    {
+      "type": "thought",
+      "speaker": "Kanya",
+      "content": "It was strange. She didn't feel any murderous intent from the machine that had brutally massacred the rebels."
+    },
+    {
+      "type": "thought",
+      "speaker": "Kanya",
+      "content": "There was no murderous intent from the beginning. It was just a machine viewed from a human perspective."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "When this war is over…"
+    },
+    {
+      "type": "action",
+      "content": "Kanya gritted her teeth and turned away."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "You will pay the price."
+    },
+    {
+      "type": "action",
+      "content": "As she walked away, Babel responded kindly."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Babel",
+      "content": "When the war is over, I will pay the price."
+    },
+    {
+      "type": "action",
+      "content": "Shirone couldn't sleep until late at night."
+    },
+    {
+      "type": "action",
+      "content": "It was the only choice he could make for Kanya, but he worried if he had hurt her more."
+    },
+    {
+      "type": "action",
+      "content": "At that troubled moment, Zulu knocked and entered."
+    },
+    {
+      "type": "action",
+      "content": "Were you sleeping?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No. Come in."
+    },
+    {
+      "type": "action",
+      "content": "Although they worked as a team, Zulu was still a daunting senior to Shirone."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zulu",
+      "content": "How are you feeling?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He couldn't say that his emotions hadn't influenced the decision to destroy Babel."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'm sorry. It won't happen again. I'll focus to ensure the mission isn't compromised."
+    },
+    {
+      "type": "action",
+      "content": "Shirone tried to act with clear eyes."
+    },
+    {
+      "type": "action",
+      "content": "He lacked experience compared to his teammates, but he didn't want to be a burden."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zulu",
+      "content": "Shirone, you don't have to try so hard."
+    },
+    {
+      "type": "action",
+      "content": "A warm, heavy feeling caught in Shirone's throat. His eyes reddened, and he found himself at a loss for words."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Humans are not that strong. The mind governs the body. So, what governs the mind?"
+    },
+    {
+      "type": "action",
+      "content": "As Shirone waited quietly for the answer, Zulu gently placed her hands on her chest and said."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zulu",
+      "content": "It is the heart."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "The heart…"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zulu",
+      "content": "The heart has no substance, and therefore it cannot be trained. Gaold, Sein, and Miro all possess incredible mental strength, but they also know sorrow and sometimes waver. No matter how strong one's mind is, sadness is still sadness."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The truth is, I feel so tormented. I feel responsible for Kanya's father's death and the deaths of the rebels."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zulu",
+      "content": "Accepting sorrow is natural, but holding onto it for too long will only cause harm. Now, let me teach you the secret of the Breath of Emptiness. Try this."
+    },
+    {
+      "type": "action",
+      "content": "Zulu placed her hand on Shirone's chest."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zulu",
+      "content": "The body, mind, and heart are all connected. Envelop yourself in the cycle of breathing. This will allow you to momentarily halt the activity of the heart."
+    },
+    {
+      "type": "action",
+      "content": "All living beings breathe. Focusing on breathing is a return to the basics of life."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zulu",
+      "content": "Inhale, exhale. Inhale, exhale."
+    },
+    {
+      "type": "action",
+      "content": "Life is ultimately about breathing."
+    },
+    {
+      "type": "action",
+      "content": "As Shirone focused solely on his breath, the distracting thoughts in his mind were pushed out of reality."
+    },
+    {
+      "type": "action",
+      "content": "After a minute, Zulu gently laid the now-sleeping Shirone down and spoke in a Middle Eastern language."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zulu",
+      "content": "Shirone, the human heart is a hell. When you find yourself falling into that hell, do not forget the Breath of Emptiness."
+    },
+    {
+      "type": "action",
+      "content": "With a compassionate look, Zulu stroked Shirone's forehead, then got up, turned off the light, and quietly left the room."
+    }
+  ],
+  "source_hash": "3ea666737c6213da758f1ffd2238aa51f4b60c19d9660618104980b23b3571fd",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T06:38:15.334937Z"
+}

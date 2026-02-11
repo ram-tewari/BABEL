@@ -1,0 +1,694 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "Silence."
+    },
+    {
+      "type": "narrator",
+      "content": "In the profound silence, various emotions intersected."
+    },
+    {
+      "type": "action",
+      "content": "Etella quickly composed herself and watched Horkin intently."
+    },
+    {
+      "type": "narrator",
+      "content": "It was clear he had already figured it out, and in such a situation, the question of \"how?\" was irrelevant."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Horkin",
+      "content": "Your acting was superb. If you were with Gaold, you would have known that we are the Cage team dispatched by the association."
+    },
+    {
+      "type": "narrator",
+      "content": "Long ago, when Horkin wasn't yet gray-haired, there were rumors of a genius monk emerging from the Karsis Monastery, known across the continent."
+    },
+    {
+      "type": "narrator",
+      "content": "While Karsis was renowned, it wasn't common knowledge unless one had a particular interest in the pursuit of enlightenment."
+    },
+    {
+      "type": "narrator",
+      "content": "At that time, Horkin had visited the monastery's main temple for a mission and saw a young girl undergoing a succession ceremony."
+    },
+    {
+      "type": "action",
+      "content": "I almost missed it. Good thing I haven't gone senile yet."
+    },
+    {
+      "type": "narrator",
+      "content": "It was Romi Etella."
+    },
+    {
+      "type": "narrator",
+      "content": "A teacher at Alpheas Magic School."
+    },
+    {
+      "type": "narrator",
+      "content": "What were the odds of meeting a teacher from the school Gaold graduated from in Heaven?"
+    },
+    {
+      "type": "narrator",
+      "content": "Even if it was somewhat realistic, Horkin's intuition told him that Etella was the clue they had been searching for."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Horkin",
+      "content": "Feigning ignorance was a desperate measure of the terrified? If so, a wise choice. Now, you've stalled long enough. Tell us where Gaold is."
+    },
+    {
+      "type": "action",
+      "content": "The twenty mages standing behind Horkin exuded a menacing aura, overwhelming Armin's group."
+    },
+    {
+      "type": "thought",
+      "speaker": "Armin",
+      "content": "Dangerous."
+    },
+    {
+      "type": "narrator",
+      "content": "As a mage, Armin judged that a frontal confrontation was difficult."
+    },
+    {
+      "type": "narrator",
+      "content": "His team members were incredibly strong, but so were the opponents, each one a Romi Etella or an Olifer Shina."
+    },
+    {
+      "type": "narrator",
+      "content": "While everyone watched each other's reactions, only the swordsman Kuan stepped forward."
+    },
+    {
+      "type": "action",
+      "content": "As a sword demon who had roamed the battlefield, he knew how formidable the opponents were, but a swordsman fights only to cut down the enemy before him."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kuan",
+      "content": "Do nothing. If you move even a little…"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Horkin",
+      "content": "If you move?"
+    },
+    {
+      "type": "action",
+      "content": "Kuan's body flew and spun in an instant."
+    },
+    {
+      "type": "narrator",
+      "content": "But Horkin was already gone from the spot where the strong wind blew."
+    },
+    {
+      "type": "thought",
+      "speaker": "Armin",
+      "content": "Like a rat…"
+    },
+    {
+      "type": "action",
+      "content": "Ten meters away from Kuan, a man with a weasel-like face was holding Horkin by the scruff of his neck."
+    },
+    {
+      "type": "narrator",
+      "content": "It was Stikro, a fifth-grade certified mage specializing in sonar magic."
+    },
+    {
+      "type": "action",
+      "content": "In a liquid medium, the propagation speed of sonar waves is about 1,500 meters per second."
+    },
+    {
+      "type": "action",
+      "content": "With a transmission speed exceeding Mach 4, clumsy attacks wouldn't work from the start."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Stikro",
+      "content": "You're impatient."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Horkin",
+      "content": "Do nothing means…"
+    },
+    {
+      "type": "action",
+      "content": "Kuan flew again."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Horkin",
+      "content": "Don't even wag your tongue."
+    },
+    {
+      "type": "action",
+      "content": "With Kuan's preemptive strike, all twenty-five people moved simultaneously."
+    },
+    {
+      "type": "action",
+      "content": "As each displayed their unique movements, Aroela of the Flame targeted Shina."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aroela",
+      "content": "Fire Extreme!"
+    },
+    {
+      "type": "action",
+      "content": "Dense flames dripped from above Aroela's head, forming a torrent of fire that engulfed Shina."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shina",
+      "content": "Thorny flowers bloomed, and the flames of Fire Extreme rapidly cooled as if plunged into water."
+    },
+    {
+      "type": "narrator",
+      "content": "With the sound of shattering glass, the air froze."
+    },
+    {
+      "type": "narrator",
+      "content": "Thousands of thorny flowers bloomed, and the flames of Fire Extreme rapidly cooled as if plunged into water."
+    },
+    {
+      "type": "narrator",
+      "content": "They're not an easy team."
+    },
+    {
+      "type": "action",
+      "content": "Having tested each other's capabilities, the two teams entered a full-scale battle."
+    },
+    {
+      "type": "narrator",
+      "content": "As Cage Team B fully engaged, the balance of power shifted rapidly."
+    },
+    {
+      "type": "action",
+      "content": "Team leader Rose's fragrance magic disrupted mental strength, and Mami's word magic made the ground ripple like waves."
+    },
+    {
+      "type": "narrator",
+      "content": "With all kinds of buffs, shields, healing magic, and the combat prowess of battle mages rivaling that of swordsmen, Armin's group was pushed back two kilometers from their original position."
+    },
+    {
+      "type": "action",
+      "content": "Water Dragon."
+    },
+    {
+      "type": "action",
+      "content": "A massive stream of water cast by Monglang of the water element swept in all directions."
+    },
+    {
+      "type": "action",
+      "content": "Absolute Zero."
+    },
+    {
+      "type": "action",
+      "content": "Even while dealing with Aroela, Shina cast her ultimate magic, freezing the water dragon in its form."
+    },
+    {
+      "type": "action",
+      "content": "Etella ran over it."
+    },
+    {
+      "type": "action",
+      "content": "Yin-Yang Wave Fist - Single Wall."
+    },
+    {
+      "type": "action",
+      "content": "From a distance of ten centimeters, her fist struck Monglang's side dozens of times."
+    },
+    {
+      "type": "thought",
+      "speaker": "Armin",
+      "content": "At least one must be taken down!"
+    },
+    {
+      "type": "action",
+      "content": "As she stepped forward to deliver the finishing blow, a bald man grabbed Etella's shoulder and rolled her to the ground."
+    },
+    {
+      "type": "action",
+      "content": "Pinned down tightly, the veins on the bald man's temples bulged thicker."
+    },
+    {
+      "type": "thought",
+      "speaker": "Etella",
+      "content": "Ugh! What strength…"
+    },
+    {
+      "type": "narrator",
+      "content": "Indeed, she was a bishop of the Karsis Monastery."
+    },
+    {
+      "type": "action",
+      "content": "As Etella tried to get up, the bald man pressed her down with his head and bit her neck."
+    },
+    {
+      "type": "narrator",
+      "content": "It was the ability \"Survival of the Fittest\" of the battle mage Benifis, who strengthened himself by consuming the opponent's flesh."
+    },
+    {
+      "type": "action",
+      "content": "As Benifis chewed Etella's flesh and lifted his head in ecstasy, Etella raised her upper body and headbutted him."
+    },
+    {
+      "type": "sfx",
+      "content": "Crack!"
+    },
+    {
+      "type": "action",
+      "content": "Benifis's nose broke."
+    },
+    {
+      "type": "narrator",
+      "content": "But thanks to various buffs and healing magic, his grip didn't loosen."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Benifis",
+      "content": "Now!"
+    },
+    {
+      "type": "action",
+      "content": "At Benifis's shout, Tarban extended his palms."
+    },
+    {
+      "type": "action",
+      "content": "It was the vacuum bombardment Kaiser Blast that had shattered the demon Belkir."
+    },
+    {
+      "type": "sfx",
+      "content": "Boom!"
+    },
+    {
+      "type": "action",
+      "content": "The wide area was devastated, rendering Armin's group's formation meaningless."
+    },
+    {
+      "type": "action",
+      "content": "As the thick smoke swayed in the wind, Cage Team B, having finished the battle, walked proudly."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tarban",
+      "content": "What the…?"
+    },
+    {
+      "type": "narrator",
+      "content": "There was nothing."
+    },
+    {
+      "type": "narrator",
+      "content": "There should have been corpses, but all that remained was a plain swept clean as if filleted."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tarban",
+      "content": "Who's going to explain this?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aroela",
+      "content": "It was magic. The blue-haired woman was fighting me up close. There's no reason she would suddenly disappear."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monoros",
+      "content": "If there's a possibility, it's the man with the bandages. He was an unlocker like me."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Saint Moriak",
+      "content": "What kind of unlocker magic is this? Could there be a magic in the world that makes twenty-one Cage-level experts disappear without anyone noticing?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mami",
+      "content": "They didn't disappear. It feels more like… a disconnection? Something definitely broke."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Horkin",
+      "content": "Stop."
+    },
+    {
+      "type": "narrator",
+      "content": "Everyone looked at Horkin."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Horkin",
+      "content": "Are you talking about stop magic?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Horkin",
+      "content": "Yes. I heard there's one in the Ivory Tower. A blind mage who uses stop."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Roche",
+      "content": "You can't be sure. Just because he's blind doesn't mean he's the Ivory Tower mage, and there's no guarantee what we experienced was stop."
+    },
+    {
+      "type": "narrator",
+      "content": "Horkin's words were simple, but metal mage Roche's rebuttal was reasonable."
+    },
+    {
+      "type": "narrator",
+      "content": "There were few blind people in the world, and even fewer Ivory Tower mages."
+    },
+    {
+      "type": "narrator",
+      "content": "But there was only one mage in the world who used stop magic."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Horkin",
+      "content": "Besides, why would the Ivory Tower help Gaold? Gaold fundamentally doesn't trust people. He's kept secrets for twenty years."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Saint Moriak",
+      "content": "I don't think that's necessarily true. He doesn't avoid people; he just doesn't need to mingle. To save Miro, he can ally with anyone and fight anyone."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Horkin",
+      "content": "Enough."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rose",
+      "content": "There are too many assumptions. Anyway, the opponent has stop magic or a crowd control technique of similar power. And… they are probably helping Gaold."
+    },
+    {
+      "type": "narrator",
+      "content": "Even Rose had to use conjecture."
+    },
+    {
+      "type": "narrator",
+      "content": "It was a natural reaction to the significantly increased difficulty of the mission."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Horkin",
+      "content": "The team leader means this: as long as the blind man is around, it's impossible to eliminate Gaold."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tarban",
+      "content": "So, we just sit and do nothing?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wagan",
+      "content": "Wait. There's a question we need to address first. If they are really helping Gaold, what were they doing here?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Horkin",
+      "content": "Hmm, that's true. There's no need to split the team in such a dangerous place. We're also moving very inefficiently."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Horkin",
+      "content": "Exactly. And Gaold is obsessed with Miro. If he's splitting the team, it must be a significant matter. If we trace what they were doing here, we'll eventually find Gaold."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rose",
+      "content": "Indeed… that's true."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rose",
+      "content": "Alright. We're returning to the mainland. If we can find out who Etella is working for, we can locate Gaold. But combat is the last resort. The man with the bandages must not interfere."
+    },
+    {
+      "type": "narrator",
+      "content": "No one objected."
+    },
+    {
+      "type": "narrator",
+      "content": "They weren't the type to follow orders blindly, but they agreed it was best to keep the man with the bandages as far away as possible."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rose",
+      "content": "Let's go."
+    },
+    {
+      "type": "action",
+      "content": "Twenty-one flashes soared into the sky."
+    },
+    {
+      "type": "narrator",
+      "content": "It was early evening when Shirone returned from touring the subordinate units of the Second Rebel Command."
+    },
+    {
+      "type": "narrator",
+      "content": "But the moonlight was so bright that it was easy to see around."
+    },
+    {
+      "type": "action",
+      "content": "Wow."
+    },
+    {
+      "type": "narrator",
+      "content": "Shirone looked up at the night sky, mesmerized."
+    },
+    {
+      "type": "narrator",
+      "content": "A moon ten times larger than the one he saw on his original planet hung in the sky."
+    },
+    {
+      "type": "narrator",
+      "content": "It was the day of the full moon, known to be when the law of yin was strongest in Purgatory."
+    },
+    {
+      "type": "narrator",
+      "content": "Perhaps that's why the cries of beasts in the forest near the command center didn't cease."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Foreboding. It feels like something is about to happen."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Don't worry. Angels don't patrol these days. As long as it's not an angel, we can handle it with group magic."
+    },
+    {
+      "type": "action",
+      "content": "Shirone greeted as he arrived at the command center."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'll go in first. Thank you for your hard work."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Oh, you too, team leader."
+    },
+    {
+      "type": "action",
+      "content": "Back in his quarters, Shirone collapsed onto the bed, exhausted."
+    },
+    {
+      "type": "action",
+      "content": "He wanted to lie down, but before he could do anything, the door burst open."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Shirone!"
+    },
+    {
+      "type": "action",
+      "content": "Plu entered."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Oh? Senior?"
+    },
+    {
+      "type": "action",
+      "content": "Plu, who had briefly checked outside, closed the door and sat close to Shirone."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "I have something to tell you."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Why do you look like that? Did something happen while I was away?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "I investigated the underground facilities while you were gone. And there, I found…"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Human cloning."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What? Cloning?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "I found out why Raycis collected our blood. We need to act immediately…"
+    },
+    {
+      "type": "sfx",
+      "content": "Wooooooong!"
+    },
+    {
+      "type": "action",
+      "content": "At that moment, an ominous sound wave shook the command center."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "No way…!"
+    },
+    {
+      "type": "action",
+      "content": "When Shirone and Plu stepped into the corridor, the command center was already in a state of panic."
+    },
+    {
+      "type": "action",
+      "content": "It was the vibration of an angel, a sound everyone in Purgatory had heard countless times."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikasa",
+      "content": "Hmm, so this is the place?"
+    },
+    {
+      "type": "action",
+      "content": "Outside the command center, bathed in the light of the full moon, Ikasa floated in the air, her feet together and her chin resting on her hand."
+    },
+    {
+      "type": "action",
+      "content": "It looked like a mere cliff from the outside, but Babel's search results wouldn't lie."
+    },
+    {
+      "type": "narrator",
+      "content": "No matter how well hidden in nature, human dwellings always had a distinct artificial feel."
+    },
+    {
+      "type": "narrator",
+      "content": "Babel, having scanned all of Purgatory, identified this place as the most likely location of the rebel command center."
+    },
+    {
+      "type": "narrator",
+      "content": "The probability was a staggering 83.3785%."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikasa",
+      "content": "Come out, you insignificant humans! Show yourselves!"
+    },
+    {
+      "type": "action",
+      "content": "Ikasa shouted, but the cliff remained eerily silent."
+    },
+    {
+      "type": "narrator",
+      "content": "Of course, she knew they were watching from inside."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikasa",
+      "content": "Hehe, so that's how you want to play?"
+    },
+    {
+      "type": "action",
+      "content": "Ikasa spread her arms wide, absorbing the moon's energy."
+    },
+    {
+      "type": "narrator",
+      "content": "A fallen angel's presence was far less than that of a regular angel, but on the night of the full moon, she could easily sweep away humans."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikasa",
+      "content": "Haaaa."
+    },
+    {
+      "type": "action",
+      "content": "With a cold groan, her halo expanded into a ring, and her unique intelligence began to embed itself into the halo."
+    },
+    {
+      "type": "action",
+      "content": "As the computation completed, numerous dark magic circles spun like gears in the halo."
+    },
+    {
+      "type": "thought",
+      "speaker": "Ikasa",
+      "content": "I desire."
+    },
+    {
+      "type": "action",
+      "content": "Infinite Judicial Halo - Valhalla Action."
+    },
+    {
+      "type": "sfx",
+      "content": "Thud!"
+    },
+    {
+      "type": "action",
+      "content": "With a dull sound, a fist-shaped imprint appeared on the cliff."
+    },
+    {
+      "type": "action",
+      "content": "That was the signal. The entire cliff began to be pounded relentlessly, as if a storm of punches was raining down."
+    },
+    {
+      "type": "sfx",
+      "content": "Boom! Boom! Boom!"
+    },
+    {
+      "type": "action",
+      "content": "The world seemed filled with sound."
+    },
+    {
+      "type": "action",
+      "content": "Dust rose from the cliff, and the mountain range disappeared."
+    },
+    {
+      "type": "action",
+      "content": "Norins hiding inside the command center clutched their heads and ran outside as the cliff crumbled from the ground up with a rumble."
+    },
+    {
+      "type": "thought",
+      "speaker": "Ikasa",
+      "content": "Look at these insignificant beings…"
+    },
+    {
+      "type": "narrator",
+      "content": "Ikasa's eyes were glazed."
+    },
+    {
+      "type": "narrator",
+      "content": "In the scene where her desire was being realized, a dry pleasure crawled up her spine."
+    }
+  ],
+  "source_hash": "8f03a1ada26598125add0dfde2fb6b99eb35aab694b0bcd0645d450207983a9c",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T06:27:04.603318Z"
+}

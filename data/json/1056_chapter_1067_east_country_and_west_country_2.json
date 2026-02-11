@@ -1,0 +1,781 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In High Gear, the famous female entity known as the Operator is referred to as 'the Lady' among the administrators.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The first reason is that she never loses her elegance, even in the midst of a battlefield filled with firepower…",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Number Seven",
+      "content": "The Lady is upset again.",
+      "tone": "mocking"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Don't get me wrong. You're the only oddball among the administrators who plays High Gear, so I asked. Are you okay with Yahweh2? If left alone, he might eventually topple the Operator's stronghold. Wouldn't it be better to expel him now?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Number Seven",
+      "content": "What does that have to do with anything? The reason Operator is ranked number one has nothing to do with me being an administrator.",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Number Seven chuckled.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Number Seven",
+      "content": "No, I was just worried you might get anxious. How about it? If you want, I can tweak the events a bit.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Number Seven",
+      "content": "Number Seven.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Her voice was cold.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Number Seven",
+      "content": "Don't get ahead of yourself. While twelve administrators built High Gear, I am the original designer. I cannot allow event expansions that go against the initial concept.",
+      "tone": "assertive"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "That sounds a bit annoying.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Number Seven",
+      "content": "I'll admit you're a genius, but we're here to experiment with a perfect world, not to create a playground for a lonely girl.",
+      "tone": "teasing"
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Screeeeech!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A high-pitched noise, loud enough to burst eardrums, struck the video in the administrator's meeting room.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The Operator",
+      "content": "Do you want to die? What do you know about me? Should I blow your brain up right now?",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The Operator",
+      "content": "Try it if you can.",
+      "tone": "defiant"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Number Seven! You…!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At that moment, the Lollipop mark shouted.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The Lollipop",
+      "content": "Stop! Stop it!",
+      "tone": "urgent"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Whether it would work or not, the skill to immediately block the Operator's noise attack was excellent.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The Lollipop",
+      "content": "Every time we have a meeting like this, I can't even go to school. Can't we just focus on the agenda?",
+      "tone": "exasperated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Number Seven",
+      "content": "That guy keeps pissing me off!",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "And what about you? What are you going to do if an administrator gets too close to a user? Do you know how many times I have to bug test every time I prepare an event? It's nauseating.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Number Seven",
+      "content": "Look at it technically, technically. Just log in occasionally and see if everything's running smoothly. You're a god. You don't have to hunt all day. Just max out your status and sweep everything. I don't understand your idea of a perfect world anymore. What do you want to do in High Gear?",
+      "tone": "exasperated"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The airwaves became solemn.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The Operator",
+      "content": "…I don't know.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Operator spoke.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The Operator",
+      "content": "Can a created world really be perfect? If users ignore it, it's false in the end.",
+      "tone": "reflective"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Silence flowed through the thoughts.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The Operator",
+      "content": "Yes, I ran away because I hated reality. So, I have no choice. What I want to do in High Gear is… probably just to live. My heart is here. So, for me, this place is real.",
+      "tone": "emotional"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Number Seven asked.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Number Seven",
+      "content": "Are you satisfied with that? You made it all. What if a serious bug occurs? Can you live in High Gear if it becomes a mess?",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The answer came late.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The Operator",
+      "content": "…I just said I want to live. That's all. I'm done talking. I'll leave first. I have no personal objections to the agenda. Consider it when voting.",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The High Gear mark disappeared.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Number Seven",
+      "content": "Hmph! She keeps her raid time sharp. Hey, I'm leaving too. Abstain on the agenda.",
+      "tone": "teasing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Number Seven disconnected, the Smile mark quickly proceeded with the meeting.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Smile",
+      "content": "Let's vote right away. Press 1 if you think Yahweh2 should be sanctioned, and 2 if you think there's no issue.",
+      "tone": "neutral"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Numbers appeared on the ten screens.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Smile",
+      "content": "Alright. I'll record today's meeting and lock it. See you at the next meeting.",
+      "tone": "friendly"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Yahweh2, no issue.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Electronic Wasteland.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone and his group hunted Metal Wolves with High Gear's output set to maximum.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hey! It's running away! Shoot! Shoot!",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the rifles fired, the Metal Wolf sharply changed direction.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Seeing only fragments flying from the innocent ground, Destroyer707 frowned.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Ugh, this is frustrating! Isn't it strange? Didn't we catch these easily before?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In fact, the average level of Metal Wolves was between 6 and 7, making them weak creatures.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Death Princess",
+      "content": "It's because our levels are too low. Usually, we level up to 7 in the Iron Homeland before coming out.",
+      "tone": "explanatory"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone suggested a method.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "We can't win with output alone. It's open terrain, so we can't use the geography. Let's create it ourselves.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dig a trap?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No. One person shoots to extend the Metal Wolf's path. Then, two people run in a straight line to offset the speed difference. After driving it into a narrow path, the last person finishes it off.",
+      "tone": "explaining"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Strongest Codename nodded.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Strongest Codename",
+      "content": "Good idea. If we switch roles, we can level up evenly. Once we reach level 5, we should be able to catch Metal Wolves easily.",
+      "tone": "agreeing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Following Shirone's strategy, the hunt resumed.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Screech! Screech!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the Metal Wolf spread out on the ground with a sharp mechanical sound, their levels quickly increased.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "This is great! Since our levels are so low, just catching one makes the experience gauge shoot up.",
+      "tone": "excited"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Death Princess",
+      "content": "Yeah. We'll level up in no time.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After hunting in turns, Shirone and his group all reached level 5.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's eyes sparkled.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "A new function appeared. Search radius 200 meters.",
+      "tone": "excited"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Death Princess",
+      "content": "Yes. It's an AI function activated at level 5. Now, information about users or creatures within 200 meters will appear. The same goes for codenames.",
+      "tone": "explanatory"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It doubled. It was 100 meters at first.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Death Princess",
+      "content": "Wow, how did you know? It's not even in the manual. We found out by measuring it ourselves.",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Just a mage's intuition, I guess.",
+      "tone": "joking"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The search radius is really important. Outside the search range, the AI doesn't work, so there's no auto-aim or anything. The only thing you can see is the codename, and that's within visible range. If you're 500 meters or 1 kilometer away, you can't even tell who attacked you.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Death Princess",
+      "content": "It's a useful feature for snipers. That's why Colonoscopy shot from exactly 200 meters.",
+      "tone": "explaining"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "That's basic. As the level goes up, the combat range exceeds at least 1 kilometer. Users also fly and shoot anti-personnel missiles.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I get it. As you level up, the AI's functions increase and improve. Plus, the output gets stronger, so even a one-level difference is huge.",
+      "tone": "understanding"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Death Princess",
+      "content": "Exactly. There are five main types of AI. Right now, you've activated auto-aim, recoil correction, and search radius. At levels 7 and 9, you'll unlock one more each. I'll explain as we hunt. From level 10, you'll enter the world of selective options.",
+      "tone": "explanatory"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ah, that's why it hasn't opened yet.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Honestly, it's fun. The system is designed to teach you step by step as you level up.",
+      "tone": "impressed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In that sense, the existence of the Tenmen was precarious.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Well, that's the operator's domain.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "For now, Shirone, who wanted to enjoy High Gear as a user, went back to hunting.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Catching level 10 Metal Scorpions and Metal Worms made the experience points soar. The Scorpions shot acid from their tails, and the Worms' ability to hide underground was annoying.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At level 7, the penetration correction function was activated.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Death Princess",
+      "content": "That's good.",
+      "tone": "neutral"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Death Princess explained.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Death Princess",
+      "content": "It's not a core function, but many variables arise from this penetration correction. The most important thing is that it's not about probability. Once it hits, it will penetrate the armor. So, no matter how strong the enemy is, there's a chance for a headshot.",
+      "tone": "explaining"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Death Princess",
+      "content": "Really? Then can I beat Operator?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "To get to the point, it's possible. But I think the probability is less than 0.001 percent.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Death Princess",
+      "content": "Let me explain. Aim your rifle at me.",
+      "tone": "demonstrating"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When Shirone aimed at Death Princess's forehead, an aim appeared.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A 100% symbol appeared inside the aim, and a red line circled around it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When the red line formed a perfect circle, the 100% symbol glowed gold.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ah…",
+      "tone": "impressed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Death Princess",
+      "content": "Got it? The important thing in penetration judgment is the AI's calculation time. Now, with an old helmet, the calculation took about 2 seconds, but if I had parts equipped, the time would increase significantly depending on the armor's durability. Of course, if you equip better firearms, the time will decrease.",
+      "tone": "explanatory"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I understand. So, what happens if I aim at Operator now? His durability must be the best. Wouldn't it take hours for the penetration judgment to come out?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Death Princess",
+      "content": "No. In that case, instead of 100 percent, a 'critical' judgment will appear. The rifle's power limit can't exceed the armor's durability.",
+      "tone": "explaining"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "But you said 0.001 percent.",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Death Princess",
+      "content": "That's if you equip better firearms. Anyway, Golden Wheel will support you. Do you want to fight with a rifle? And do you think Operator will wait until you activate penetration correction?",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Well…",
+      "tone": "hesitant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Death Princess",
+      "content": "But it's still a really good function. You and Operator are extreme cases, but usually, if successful, it can penetrate armor ten times stronger than the weapon's power.",
+      "tone": "impressed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "But it's that difficult.",
+      "tone": "skeptical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Death Princess",
+      "content": "Yes, it is. So, it's more important in boss creature strategies. This is called a raid. At higher difficulties, the creature's durability becomes enormous. In such cases, a 'critical' judgment is like rain in a drought. If even one critical fails, some creatures are physically impossible to defeat.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yeah, I get it.",
+      "tone": "understanding"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The hunt resumed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "From now on, the experience required to level up was so much that they had to hunt for three hours straight.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Let's stop for today. It's dark, and hunting efficiency drops. We need to conserve High Gear's power.",
+      "tone": "practical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Power drops?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Not something to worry about at this level, but just in case. Of course, at higher levels, the battery consumption is enormous.",
+      "tone": "explanatory"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Strongest Codename brought back some dry wood, which was rare in the wasteland.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Let's light a fire. We don't need a watch, but prey might come.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Using the flint they brought from the Iron Homeland, they lit a campfire, and Shirone sat by the fire.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "The heat feels real.",
+      "tone": "content"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Like a dream, perhaps.",
+      "tone": "wistful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yahweh2.",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When he looked up, Death Princess was hesitating with a slightly flushed face.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Death Princess",
+      "content": "Um… we're going to have some fun. Do you want to join us?",
+      "tone": "teasing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Understanding what she meant, Shirone looked at Destroyer707 and Strongest Codename.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "And from their calm demeanor, he felt it.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Right. This is…",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "A virtual world.",
+      "tone": "realization"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Their appearances must all be fake. Yeah, I'm probably the only one here who cares about feelings.",
+      "tone": "self-aware"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Shirone politely declined.",
+      "tone": "firm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Sorry. I'm a bit uncomfortable.",
+      "tone": "apologetic"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alright, then.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Smiling, Death Princess returned to her friends and started a silent game.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Crackle. Crackle.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the campfire's sparks flew wildly, Shirone fell into endless thought.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What is real?",
+      "tone": "philosophical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The three people sitting across were kissing, and beyond them was a vast darkness.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Where is the heart…",
+      "tone": "longing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone reached out so close that he almost got burned.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Where is it?",
+      "tone": "desperate"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The campfire was hot, and also very cold.",
+      "tone": null
+    }
+  ],
+  "source_hash": "23f8db7138c45346dc157bf5ebe3d0d350ecf87a30724cb7c335b499df9d4810",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T08:55:31.631139+00:00"
+}

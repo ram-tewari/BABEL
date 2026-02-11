@@ -1,0 +1,673 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Siena steeled herself.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone, having awakened the Immortal Function, might succumb to Overflow.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Etela believed he could overcome it, but if the worst happened, Shirone's life would be ruined.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lost in thought, Siena barely noticed when Isthas stopped.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She entered without delay.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Walking down the hallway, she flung open the iron door labeled 'Supernatural Psychic Science Research Club.'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Through the haze of smoke, the kids sat unfazed, smiling leisurely.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The sight reignited her anger.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "This was all too familiar.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The only differences were that the troublemakers she'd clashed with had all graduated—and Shirone had taken their place.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Siena",
+      "content": "'Why do students change when they join this club? Even Shirone.'",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Normally, Shirone would greet her with a bright smile, but now he maintained a perfect poker face.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was expected, but still hurt.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Neid sat with his legs crossed arrogantly, while Iruki lounged in his chair, head tilted back.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Their dismissive aura was palpable.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "No greetings for your teacher? You little….",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "We were deep in discussion. Welcome.",
+      "tone": "icy"
+    },
+    {
+      "type": "thought",
+      "speaker": "Siena",
+      "content": "'Hmph. School is school, and the club is the club, huh?'",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But their arrogance ended today.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The faculty had approved the club's dissolution, and Etela, the advisor, had agreed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "So, what brings you here, Professor? We've been keeping quiet lately.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Official notice about the club. I came to deliver it personally.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "Then come in. It's humble, but…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Neid brushed off a spot on the sofa.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "His demeanor showed no guilt.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "Thanks. How about some tea?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Would you trust tea from me? You know no one can find this place once Isthas moves.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Siena raised an eyebrow, amused.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "She knew this shabby warehouse didn't even have cold water, let alone tea.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Though their antics were irritating, their wit made it hard to dislike them.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Fair point. I suppose even I'd be wary. Let's get to it, then. I'd like you to vacate the lab within a month.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Neid's eyes bulged.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The bolt-from-the-blue demand left him speechless.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "What? Vacate? Why?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Paperwork review showed you failed to meet the minimum membership this semester. The school already cut funding. So, clean up within a month.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "Wait! Shirone joined! Three members qualify as an official club!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "But you've done zero activities. If you want to save the club, produce research results within the month. Though I doubt you can in 'supernatural psychic science.'",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "That's unfair! Clubs don't have to hold presentations!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "This is special. The lab's location in Isthas, your notorious reputation—few clubs are as inactive as yours. The one-month grace period is only because Professor Etela pleaded. Be grateful.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone was stunned.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He'd just started growing fond of the club, and now it was being disbanded.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "But there's one way to save the club.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Neid leaned forward eagerly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "How? What do we need to do?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Withdraw Shirone. Then I'll turn a blind eye until next semester.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "Whaaat?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As expected, Neid shot to his feet.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "No way! We didn't force Shirone to join—we're friends who stick together everywhere. Why tear us apart?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "If it's about my skipped classes, don't worry. We each have our own study methods.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I agree. I know the club's reputation and that Iruki and Neid aren't diligent in class. But they're doing their best in their fields. They're not wasting time. Please reconsider.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Neid hoped Siena's fondness for Shirone might sway her.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "It's no use. Shirone, this decision is also for your sake.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "For me? I'm doing my best.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Shirone, what's happening to you lately?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone's heart sank.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Neid and Iruki averted their eyes.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Siena's intuition was right.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "They knew everything.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "You're terrible. Especially you, Iruki. You knew Shirone could fall into Overflow. Why didn't you tell me?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Iruki. What's Overflow?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "It's… nothing much. Just a phenomenon when you awaken beyond your current level. I had it at eight.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Overflow can shatter your mind. Etela told me about the Immortal Function. If you miss the timing, recovery might be impossible.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone bit his lip.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He'd been having nightmares and hallucinations nightly.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Sometimes, he worried he'd lose his mind.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If this continued, there were no guarantees.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "How was it for you?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Hmm. Mine was nothing. A bit scary, though. When I told my dad, he said, 'You've always been like this. Just live with it.'",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Siena was appalled.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "That was all the comfort he'd offered his crying son?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But given who Iruki's father was, it made sense.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "His neglect had undoubtedly shaped Iruki's eccentricity.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Desperate, Neid. As a friend, what do you think?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "Hahaha. Dunno? I've never had Overflow.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Hoping their experiences would change Shirone's mind, Siena sighed.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "At least she'd impressed the danger upon him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Anyway, Shirone will withdraw. If you care about him, accept it. His mental state is the priority.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "Isn't that your judgment? I disagree.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Frustrated, Siena exhaled.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Insisting despite knowing their friend's condition wasn't friendship.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "You don't know Overflow's terror. Iruki would understand.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Nope. I'm with Neid. It's Shirone's choice. Why are you so invested?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The cold reply seemed unfriendly, but it was precisely why they were friends.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone wasn't upset—their rationality aligned.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "So you're fine if Shirone goes mad?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "No reason not to be. But I believe Shirone can overcome it. If you aim for the top in this field, it's a risk you take.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "Same here. Honestly, aren't you favoring Shirone too much? We don't mind, but he might find it burdensome.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After a pause, Neid's eyes gleamed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "Rumor has it you see Shirone as a man.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Of course, no such rumor existed.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But this was the most effective way to rattle a teacher.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Siena wasn't easily shaken—years of clashes with underground clubs had hardened her.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Suppose it's true. Then I can take Shirone now, right?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "As a teacher, she couldn't forcibly withdraw a student unless they violated rules.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The club president's consent was crucial.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "Stop forcing it. So you admit the rumor?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Think what you want. I won't back down.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "Really? Then can we date too?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "No. Never.",
+      "tone": "firm"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Siena recoiled.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Neid's jab hit home.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Siena swallowed hard.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Perhaps Iruki was right.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The darkness that had once consumed her left deeper scars than Overflow.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "This seems to be my issue.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'm fine. It's scary, but I'm more curious. What will become of me? Can I overcome it? Even if I fall into Overflow, I'd never blame you.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Siena was reminded of bittersweet memories.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The person who'd saved her from hell had said the same.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Siena. Face what's coming head-on. No matter how scary, don't look away. Closing your eyes won't make it disappear.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Go away! You don't understand!",
+      "tone": "desperate"
+    },
+    {
+      "type": "thought",
+      "speaker": "Siena",
+      "content": "'If only I'd had that courage…'",
+      "tone": null
+    }
+  ],
+  "source_hash": "a7f93a1bca60bb3723463b11672987030e7305d03e99d408e66cd55bab6df416",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T06:34:33.174753+00:00"
+}

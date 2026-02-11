@@ -1,0 +1,685 @@
+{
+  "blocks": [
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Are those bastards laughing at us now?",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Forget it. Don't turn your head. They're just drunk and messing around.",
+      "tone": "calm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tess tapped Rian's leg to calm him down.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Although brawls among mercenaries in a tavern were common, given their profession, they seldom ended well.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "They're still not reacting. Surely they can hear us. They're laughing at you, idiots.",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Look at that guy's sword. It's ridiculously big, isn't it? And the woman next to him is no joke either, though I won't say where. Pff, haha!",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian clenched his fists.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Rian",
+      "content": "He could tolerate insults directed at him, but mocking his friends was unforgivable.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then, Tess grabbed Rian's wrist.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Left to his own devices, he looked ready to flip the table at any moment.",
+      "tone": null
+    },
+    {
+      "type": "monologue",
+      "speaker": "Shirone",
+      "content": "When they had come in, there were four mercenaries at the other table: three men and one woman. It seemed one of them was an archer, and since the woman didn't appear to have a weapon, she was likely a mage.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "An archer and a mage. That's a solid group.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The mercenaries continued their jeers unabated.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "That blonde is pretending to eat now? Just turn around once, will you? I'm ready to throw a bottle. I'm in a really foul mood today, looking to see some blood.",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Oh, stop it. Is it fun to pick on kids?",
+      "tone": "scolding"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Although the woman tried to stop them, her heart wasn't in it. It seemed she preferred to enjoy the situation this way rather than outright mocking.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Hey, kids. Don't have the guts to fight? Not ashamed in front of the girls, are you? Those guys must've been bragging about how strong they are.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Hello? Can you hear me? If you can, answer me, or should I come over there myself?",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian couldn't contain his anger.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Rian",
+      "content": "He understood it was part of the strategy, but he didn't want to endure such insults.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Yet, ultimately, Rian didn't move.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His gaze met Shirone's, who looked at him with a calm expression.",
+      "tone": null
+    },
+    {
+      "type": "monologue",
+      "speaker": "Shirone",
+      "content": "Shirone...",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Bound by a knight's oath, Shirone remained silent.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "If Rian couldn't endure this level of humiliation, it would only tarnish Shirone's reputation further.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Right, this too is a test. As a squire, I joined this trip. It's a good opportunity to test myself.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Once he resolved himself, it surprisingly became bearable.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Rian",
+      "content": "Rian had another chance to contemplate the futility of words.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "— Ten minutes later —",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "In all my life, I've never seen such cowardly fools.",
+      "tone": "disgusted"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Really, you're not even a bit sympathetic? They must have been scared, being so weak.",
+      "tone": "scolding"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hey! You guys are lucky. You don't have to get hit. Live like that forever. You'll live long.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After paying for their drinks, the mercenaries left.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then, the tavern owner, who had been pretending not to notice, hurried over.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tavern owner",
+      "content": "Are you guys okay? Damn those scoundrels. Bullying innocent kids with their foul words.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Do you know those people?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tavern owner",
+      "content": "They've been coming around lately. They drink their fill and then harass those who don't want to fight, like you. I'd tell them not to come, but who knows what trouble they'd cause. Anyway, you did well to endure. Sometimes, enduring is winning.",
+      "tone": "praising"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's eyes sparkled.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "If there wasn't something in the ruins, a party with a mage wouldn't have come.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tess soothed Rian.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Good job, Rian. I was so nervous you'd cause a scene.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "It was risky. But we'll meet them again, right? That's why you endured.",
+      "tone": "resolute"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Right. Let's get going.",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone stood up, saying.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After paying for their drinks, they left the tavern.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The mercenaries were heading toward the central temple.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Instead of tailing them, Shirone and his friends chose to observe from a high vantage point.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Since an archer's Schema build often includes sensory skills, getting too close might risk detection.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "From the fourth floor of a temple building, Shirone watched the mercenaries.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Surprisingly, they were a young party, none over thirty.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The well-built swordsman seemed to be the leader. The sword at his waist was so renowned that Tess could recall the craftsman's name just by its design.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Beside him stood a man wielding a club, and behind them were a long-haired man and a woman in robes.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Two warriors, one of them a swordsman. One archer, one mage. That sums it up. Even in a tourist spot, they maintain formation. They're an experienced party. Not tailing them was the right decision.",
+      "tone": "analytical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The mercenaries walked toward a stepped altar on the east side of the central temple.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone remembered the place.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was odd because it was guarded by a native, which had struck him as peculiar.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The mercenaries approached the native, with the archer gesturing and speaking, likely in the Kergos language.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The native looked around brusquely, clearly conscious of the onlookers.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Realizing the timing was right, Shirone's group descended the stairs.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the native operated a mechanism, a rectangular fissure formed on the altar, sliding inwards.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A thick stone door moved aside, revealing a dark entrance.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Wait! We want to go in too!",
+      "tone": "insistent"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Leader",
+      "content": "What? When did you follow us?",
+      "tone": "irritated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Sir, can we come in with you?",
+      "tone": "respectful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Leader",
+      "content": "Get lost! This is a place we found! Do you even know what this is?",
+      "tone": "aggressive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Please, just...",
+      "tone": "pleading"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone pleaded again, the leader drew his sword.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Leader",
+      "content": "Do you want to die? Do you think we're easy? If you don't leave, I'll cut all your throats right here.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone didn't back down this time.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Unlike in the tavern, where he couldn't even turn his head, now he looked straight into their eyes.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The contrast only irritated the leader further.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Leader",
+      "content": "You little...!",
+      "tone": "enraged"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The native guarding the altar spoke up.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Native",
+      "content": "Are they with you?",
+      "tone": "authoritative"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The leader sheathed his sword and looked at the archer, the only one who could translate.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Leader",
+      "content": "What's he saying?",
+      "tone": "irritated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Archer",
+      "content": "He's asking if you're together.",
+      "tone": "neutral"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Leader",
+      "content": "Hmph! Together? Wait here while we deal with this.",
+      "tone": "commanding"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the archer relayed the leader's words, the native's eyes widened with anger.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was as if he had been insulted.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Native",
+      "content": "Warriors do not fight just anywhere. Those who stain this sacred altar with blood will never enter.",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Archer",
+      "content": "Maybe we should stop. He says we won't be allowed in if we fight here.",
+      "tone": "cautious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Leader",
+      "content": "Damn! Lucky brats, saving your necks twice.",
+      "tone": "irritated"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The leader, no longer interested in dealing with them, sheathed his sword and entered the altar.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The rest of his party followed him into the dark passage.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's group hesitated for a moment.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If they had entered together, there wouldn't have been any issues, but given the current situation, the piercing gaze of the native was unsettling.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Native",
+      "content": "If you wish to undergo the trial, then enter. The Eye of the Angel will watch over you.",
+      "tone": "authoritative"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "What did he say?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'm not sure. Maybe he's telling us to enjoy ourselves since we've come all this way? If he wanted to kick us out, he would have closed the door by now.",
+      "tone": "analytical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Cautiously, Shirone moved forward.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The native didn't react, so the four of them, now confident, entered the dark doorway.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In an instant, all eight of them had disappeared, unbeknownst to the other tourists.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "◆ ◆ ◆",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Upon entering the altar, Shirone first assessed the structure.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Contrary to the exterior appearance, the interior was not dark, thanks to lit torches.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A square hole led down into the ground, with stairs spiraling down along the inner wall in a right-angle spiral.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Looking down, they could already see the mercenary party, having descended two full spirals.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone quickened his pace.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "There might be a second gate, and it wouldn't be wise to distance themselves from the mercenaries.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Eventually, all eight of them formed a group and descended the staircase.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The leader was annoyed at the freeloaders who had hitched a ride on the information he had paid a hefty sum for.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "However, achieving their goal in this place was the priority, so any thoughts of confrontation were put aside for now.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Archer",
+      "content": "Are you guys out of your minds? Why are young kids like you wandering around here?",
+      "tone": "baffled"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Why are you here then?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Archer",
+      "content": "What, did you come here without knowing anything?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yeah, we don't know.",
+      "tone": "honest"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Archer",
+      "content": "The existence of a hidden door in the ruins was a well-known secret.",
+      "tone": "neutral"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "There was something beneath the ruins, but what it was remained unknown.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "This was the limit of what ordinary people interested in the ruins could speculate.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Archer",
+      "content": "Since we're here, can't you tell us? Why have you come to this place?",
+      "tone": "persistent"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Why have you come here?",
+      "tone": "focused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "To avoid broad questions that could lead to fabricated answers, Shirone targeted the core issue.",
+      "tone": null
+    }
+  ],
+  "source_hash": "d98db4dc87091b3f516f22939e7752c41c7e198e2f9b98e2e988a21a0acd3084",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T16:08:17.219358+00:00"
+}

@@ -1,0 +1,997 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ikael smiled.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "I will trust you. You will not feel any doubt.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was fortunate that Shirone was a quick-witted boy.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "That's the spirit. Now, let's begin.",
+      "tone": "encouraging"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ikael closed her eyes and cast Possession.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As her Holy Light Body penetrated Shirone's mind, his eyes widened.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "A strange feeling of two minds merging was felt as flashes of light emitted from the eyes.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "- Shirone, how are you feeling?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "H- Huh? This is….",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone, who experienced Possession for the first time, was bewildered.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He couldn't tell whether the thoughts that were coming into his head were his own or Ikael's.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "It felt like he was playing the role of two people alone, like a madman.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "- Don't be confused. I am Shirone, and Shirone is me. Just think your thoughts.",
+      "tone": "calming"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He understood the concept, but even the thoughts that came to mind felt like his own delusions, giving him chills.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Did he really need to think that? It seemed like he could think of something else if he wanted to.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "- Don't doubt! If you start doubting, everything that makes up Shirone will fall apart. Possession is a delicate magic. Just accept it.",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone decided to just believe it.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Even if the thoughts in his mind were merely delusions, he concluded they were the truth.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As his mind became more at ease, his heartbeat began to stabilize.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Despite the initial confusion, they hadn't even started the angel's magic circle yet.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "- I'm going to create Holy Light Body now. Extract your spirit outside.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone transformed his Spirit Zone into a Deviate Type.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "While an angel's halo is above the head, Shirone projected his Spirit Zone forward.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "- Is this okay?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes. No, you did well. Whatever you do, Shirone's decision is important. You must find the most efficient method yourself. Now, we will create the halo that forms the framework of the magic circle. Draw a perfect circle with light.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone waited without thinking about anything.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "- Um… Should I do it now?",
+      "tone": "hesitant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "- Yes. Do it now.",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone, who had thought that she would give some advice, was embarrassed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "However, he thought that there must be a reason for that, and expanded the light into a ring shape.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A one-meter-diameter halo appeared in front of Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At first glance, it looked quite impressive.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was a neat circle and the brightness was appropriate.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "- It's woefully inadequate. A circle this distorted cannot compute a huge amount of information.",
+      "tone": "disapproving"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As expected, Ikael's critique was heard.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When examined at a level undetectable by the human eye, it was a mess.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He couldn't find a way.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The concept of a perfect circle was just that, a concept.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "How could he implement something that didn't exist anywhere in the world?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "- A perfect circle?",
+      "tone": "curious"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone suddenly realized.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "There was one thing, the only perfect circle that existed in this world.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "- That's right, Shirone. It's the Immortal Function. That's why the Nephilim are called the descendants of angels.",
+      "tone": "explaining"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "-But if that happens….",
+      "tone": "worried"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "His existence will disappear.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Hadn't he already experienced this in Miro's space-time?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "- You have to activate Immortal Function 100%. Then, grasp it again and manifest it into form. I'll control it, but it's definitely a dangerous task. Can you do it?",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "- I'll try. Now that I've done it once, the second will be easy.",
+      "tone": "confident"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Actually, he didn't think it would be easy at all.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "But it felt like he would go crazy from the tension if he didn't say even a little nonsense.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone opened Immortal Function.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "There was no brake, no hesitation in its release.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As his mind disintegrated, it spread out infinitely.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's mind became Akashic Record.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "However, since it was already perfect in itself, no information could be obtained.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "- Shirone! Shirone! Listen to my voice! You must not let go of yourself! Etch this sensation into your mind! Pull yourself together with Indestructible Vajra!",
+      "tone": "urgent"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone pulled his mind, which had disintegrated into the smallest units, back within the boundaries of Indestructible Vajra.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "A huge ring of light swept into Shirone's mind, sweeping everything away.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "A cold, piercing sound, as if glass was being cut, erupted.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then, a perfect halo, with no margin of error, was born before Shirone's eyes.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The speed of light revolving along the halo's rail was literally the speed of light.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Although it had come out in a Deviate Type, the Spirit Zone was still the mind of a mage.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With such a thing spinning in his mind, his thoughts were paralyzed.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In short, Shirone had manifested the concept of the Immortal Function in the real world.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "- Shirone! From now on, I will engrave the archangel's unique omniscience on Shirone's halo! You must not let go of Indestructible Vajra. You have to endure to survive!",
+      "tone": "serious"
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "A red flash erupted from the front and crashed into the center of the halo.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the red ripples spread, a magic circle of the simplest operations that distinguish the difference between 1 and 0 was born.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "From there, the equations gradually grew more complex.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Colorful flashes of light, flying from unknown sources, collided with the halo like a shower of lightning, engraving the magic circle.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Numerous magic circles interlocked like gears and began to spin.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The sight of the magic circles rotating in different sizes, speeds, and directions resembled the mechanisms of a clock.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's mind was on the verge of exploding.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The first gear turned several other gears, which in turn rotated hundreds of gears.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The scale of the computation kept growing.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "At some point, Shirone gave up on trying to calculate.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He couldn't comprehend the meaning embedded in the halo.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "How can he understand what concept the 170,000 computational circuits and 4,800 magic circles are trying to reveal?",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Ughhhh!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nosebleeds flowed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He gritted his teeth and held on, but the equations, amounting to a billion lines, were endlessly scrolling upwards.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Calculating this was a task that transcended human limitations.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "- Shirone! Don't try to understand! I'm comprehending it! Accept it through the circuit of insight!",
+      "tone": "encouraging"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone realized Ikael's intentions.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "There was no need to do any calculations.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The idea was to simplify complex concepts into truths and stamp them directly onto Shirone's brain.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When the number of magic circles engraved in the halo surpassed 40,000, Shirone could experience the realm of the divine.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was nothing other than the speed of light computation.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "However, the fact that it took so long meant that the concepts contained in the light were beyond human capacity.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He still doesn't know what it is, but it was definitely something bigger than he could imagine.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "- I can't do this. Not anymore….",
+      "tone": "desperate"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Cracks began to appear in the Indestructible Vajra.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was natural since humans were forcibly accepting the omniscience contained in the beings of a higher dimension.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "This was the third hurdle that Ikael had spoken of.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "-We're almost there, Shirone! Just hold on a little longer...!",
+      "tone": "encouraging"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's backlash began to affect Ikael.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the computational progress exceeded 90%, the magic circles automatically moved toward completion.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's mind was oversaturated.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was as if a bomb someone had planted in his head was about to explode.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He could feel countless cracks forming in the Indestructible Vajra.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "His mind was breaking.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "In other words, I was going crazy.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Indeed, Shirone's mind was heading towards severe destruction.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ikael looked at it with sorrow.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even if the magic circle were completed, he wouldn't be able to withstand it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Once the information volume reached 100%, the Indestructible Vajra would explode.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At that moment, a special change occurred in Shirone's mind.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Indestructible Vajra was shattered into countless pieces beyond cracks.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If this was Shirone's current state of mind...",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even Ikael felt goosebumps at the thought.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But the results were different from what she expected.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even as the durability of the Indestructible Vajra converged to zero, the shape of the mind did not change at all.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If the Indestructible Vajra was compared to a steel ball holding water, Shirone's current state was the process of the water freezing.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When the water starts to freeze, the steel ball breaks.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But what if it's a rubber ball? The size of the ball simply increases with the volume of ice that has increased.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Thus, Shirone pulverized the durability down to the level of particles, adding flexibility.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Softness overcomes hardness.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's steel ball had shattered, but the form of the ice inside remained unchanged.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Ikael's heart swelled with warmth.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Was this the power of a human? Even though his mind had been turned to dust, and even though he must have been in tremendous mental agony, Shirone maintained his mind until the very end.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "That willpower evolved Shirone's mind to the next level.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "This was the evolved form of Indestructible Vajra, the state of Indestructible Diamond.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The frame was shattered. Only the contents remained.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Since there was nothing left to destroy, Shirone could remain unshaken in any situation.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If Indestructible Vajra is the ultimate endurance, then Indestructible Diamond without a frame is the ultimate flexibility that humans pursue.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The density of information embedded in the halo surpassed 95%.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was an enormous amount of information.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "However, the Indestructible Vajra grew in size as much as the amount of swelled.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then, it tightened again, encapsulating the angel's information.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "- Congratulations, Shirone.",
+      "tone": "proud"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ikael offered unreserved praise.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Can a human being go from one extreme to another?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone had simultaneously acquired strength and flexibility.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was an undeniable leap.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone, buried in the angel's information, couldn't think of anything.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He just focused on enduring and realized that things had gone easier than before.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Only when the angel's magic circle was completed did he finally regain consciousness.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A halo of dozens of magic circles rotating at different speeds came into view.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "There were probably hundreds of times as many magic circles operating inside.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was a truly beautiful magic circle.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The halo that Ikael cast had seamlessly transferred to Shirone's experience.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Although he could not understand the principle, he could stamp out the completed concept like a seal.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "- I did it, Ikael….",
+      "tone": "exhausted"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With those words, Shirone closed his eyes.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As his consciousness faded away, the world became dark.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone winced at the intense light.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When he opened his eyes, he saw Ikael looking down at him with a worried expression.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "Are you okay, Shirone? How are you feeling?",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone sat up.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "For some reason, he felt a little embarrassed.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He has already lost consciousness twice since meeting Ikael.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Associating with a higher-dimensional being was quite exhausting, he thought.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "How long was I unconscious this time?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "A bit longer. About 20 minutes.",
+      "tone": "apologetic"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes? Why…?",
+      "tone": "incredulous"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Surely, Ikael could have woken him up much earlier.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "You were in shock, Shirone. Even if I forced you awake, you wouldn't be able to fight in top condition. Especially since using the angel's magic circle will require all your mental strength.",
+      "tone": "explaining"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Ikael was right, but the fact that he was delaying things was still concerning.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "Don't worry. Shirone's mental power has become stronger since this incident. Plus, you've fully recovered, so you'll be able to reach the destination faster than before.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone observed the changes within him.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His body was reacting much more powerfully than when he had reached the state of Indestructible Vajra.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As his mind was drawn several times deeper than before, Shirone regained his confidence.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "If I go at full speed, I can make up for lost time.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "I wonder how Rian and Canis are doing?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "By his estimation, they should have arrived or been close to arriving.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "That meant there was still a chance to catch up.",
+      "tone": null
+    }
+  ],
+  "source_hash": "372462cd694dca706f357fea8a5c0ad1d975bcb0d61403c5e9de0eb10b892bda",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T17:13:28.421399+00:00"
+}

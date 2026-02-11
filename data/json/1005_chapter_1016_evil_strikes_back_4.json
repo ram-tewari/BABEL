@@ -1,0 +1,973 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Wizard's parents were dumbfounded.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard's father",
+      "content": "What is she saying? You shouldn't talk about dying so carelessly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The father apologized.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard's father",
+      "content": "I'm sorry. She's still a child and doesn't understand the ways of the world. She probably doesn't even know what dying means.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "I do know. It's really scary.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "As a magician of super logic, she would have already felt all the possible outcomes that could happen to her.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes, it's very scary.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "Dying might not be the end. You could break an arm or suffer something terrible. Someone could cut your body with a knife…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The mother was on the verge of tears.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard's mother",
+      "content": "Stop! Please stop!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard's mother",
+      "content": "Why are you saying such horrible things? She's only seven years old! Save the world yourself!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I will.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I don't want to send Wizard. That's why I'm trying to scare her even more. So, are you still not scared?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "No, I'm fine.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Wizard didn't hesitate.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "I might get hurt, and it might be painful. But I'll still do it. I want to keep going.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "This child really understands.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "She had never experienced it, but she understood it through insight.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You're a magician.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Wizard, smiling as if she had been praised, turned to her parents and drove the point home.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "I'm sorry, Mom. I want to follow my brother. Please let me go, okay?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The sudden change in their daughter shocked the mother.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard's mother",
+      "content": "Wi-Wizard.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Just that morning, she had been acting immaturely, causing headaches for the teachers.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Lampa's eyes narrowed.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "She was waiting. No, she might not have thought of it consciously, but deep down…",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Was she afraid?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "No one could give her the right answer. Loneliness, anxiety, fear. Those negative emotions must have manifested as a sense of superiority.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But Wizard now was different.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "All her senses are fiercely absorbing Shirone. What is this, and what must be done to become like this?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was one of the correct answers.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the parents, who realized Wizard's determination, were at a loss for words, the administrator intervened.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Administrator",
+      "content": "Ahem, please come in. Now that we've heard Wizard's determination, let's proceed with the detailed procedures…",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "There's no need for that.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "We'll give you the amount Stang wants. If there are other conditions, tell Mr. Lampa.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard's father",
+      "content": "My daughter is not an object! Even if Wizard wants it, we still oppose it!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes. I also think it's unreasonable. I just confirmed her determination, but my thoughts haven't changed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone knelt on one knee in front of Wizard.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Listen carefully, Wizard. The enemy you will face is one of the strongest humans in the world. No, he might not even be called human.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "So I can't send you right away. You will stay here for a while, and I will test you. It will be very harsh and painful. If you pass, you will become a magician like me. But if you don't pass…",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You are not ready to face the world yet. You will wait until I call you again. Can you promise that?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Although he knew Wizard's determination, the opponent was Havitz, known as the extreme villain of the era.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "As long as Satan remains, humanity has no future. If everything is going to be ruined anyway, I'd rather do it myself…",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was the only consideration he could give Wizard.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "Okay. I'll do that.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Although it took longer than usual, when the answer finally came, Shirone nodded and turned to the administrator.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Nothing is decided yet. We will stay at the magic school for a while and teach Wizard. Of course, if you want, other students can join the classes.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Administrator",
+      "content": "It was a decision to gain the consent of the Stang Kingdom, and as expected, the administrator swallowed hard.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The stars of the Ivory Tower at the school…",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Although it was disappointing not to secure the contract immediately, this much would satisfy the king.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Administrator",
+      "content": "I will report to His Majesty first. Whether he approves or not will be communicated later.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ignoring the administrator, Shirone bowed to Wizard's parents.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Please entrust Wizard to us. You are welcome to observe the classes anytime. If you still refuse afterward, I won't insist any further.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The couple looked at each other.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "They still couldn't understand Shirone's intentions, but they had only one choice.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kido was strolling through the bustling area where reconstruction was underway.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "What am I doing?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He had inadvertently entered human society, but there was no place for him here.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "She's truly evil.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Remembering the humiliation he suffered from Wuorin made him seethe, but the thought of leaving made him regretful.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "There were fun times, too. Maybe I should just give in and go back. I might regret it if I don't.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "—Because it's disgusting.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "Those words Wuorin spat out stuck in him like a dagger, igniting a fiery impulse.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "Ah, forget it! It's so annoying!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He slumped down at the edge of the cobblestone path, glaring at the construction site ahead.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Harvitz was slashing a worker's throat.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "Hmm…??",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "Maybe my dreams were too big.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "With each dance of Harvitz's blade, headless corpses twitched, spurting fountains of blood.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "It's not because I'm a goblin, but because Wuorin is an Empress. Even normal humans can't look down on her.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "With that thought, he felt lighter.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "There's no need to feel inferior. From Wuorin's perspective, humans and I are equally insignificant. At least I'm on the stronger side…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Emerging from the construction site, Harvitz indiscriminately slaughtered the passing civilians.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "Of course, that doesn't change anything. After all, she thinks of me as an animal.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "Kido sighed deeply as a severed arm of a citizen dropped in front of him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "Yeah, I'll just get some air before going back. I'm smart, I should endure it. Why isn't Shirone coming?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With a clear head, Kido stared blankly at the bloody severed arm.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "That was when it hit him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "…This is strange.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "He didn't even realize he had spoken those words.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "Huh? Strange? No, wait, it is really strange. But what's strange?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He looked up to see Harvitz approaching.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Harvitz",
+      "content": "It's been a while, goblin.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Harvitz",
+      "content": "Let's make this fun. Enjoyably fun.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Harvitz raised his sword, Kido bit into the flesh of his right hand.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Clang! The blade struck the ground.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "Ugh! Ugh!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kido leaped up, gasping for breath as he racked his brain.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "What is this…?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Harvitz still wasn't registering in his perception.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "But within the memories infused with the taste of events, a reality different from the present was unfolding.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "Ho?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With a force that could pound the ground, Harvitz slowly lifted his upper body.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Harvitz",
+      "content": "You're an interesting one, indeed.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Chomp! Chomp!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "It's getting clearer.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "And just as he caught a blurry silhouette, he pushed off the ground and retreated.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "It's Harvitz.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "It wasn't a perfect form, but there was definitely a monstrous silhouette wielding a sword.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "What to do? Should I run? But I don't even know where I am. If he's right beside me…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He acted as he thought.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "…then!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kido pulled out a spear from his back and wildly slashed around before rolling on the ground.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "It might have been a delusion.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But unlike humans, a goblin's strong survival instinct chose life over shame.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "Didn't he come closer? Or did he avoid it?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kido stuck out his tongue, tasting the air.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "…No good. The chances of Harvitz's cells floating around are low, and it's too faint to even be called a flavor.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "He had no choice but to run.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "Wait.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kido flipped backward to land and sucked blood from the wound on his right hand again.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "There. It's still there. Something terrible is watching me from a blurry shadow.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "If he could kill Harvitz here.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "If I could decapitate the man who gave Wuorin, the Empress of Kashan, the greatest humiliation of her life…",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "Poo!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kido gripped the spear with both hands.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "Relying on the taste of memories for an attack is too late. By a rough calculation, it takes about twelve steps for him to reach me, between three to four seconds.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "The imaginary second hand moved.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "Two seconds. One second.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "Ambushing while the opponent was off-guard was undoubtedly a brilliant strategy, but…",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "I can hear everything,",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Harvitz had something called 'God's frequency.'",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "Kido, who had activated the earth law 'Geomancer,' rotated on his back and turned in all directions.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "Now!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The localized gravity twisted, and Harvitz's feet stuck to the ground as if mired in a swamp.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Harvitz",
+      "content": "Hehe, what an amusing skill.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "For the first time in a long while, a dry orgasm of boredom surged in his heart as he repeated mundane murders.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "Get caught! Get caught!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kido endlessly whirled his spear towards an enemy that might or might not be there.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "As long as the Geomancer is active, he can't run far. The moment of killing is when you realize it!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The image of a spinning top made of blade afterimages approached Harvitz at a terrifying speed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "As he raised his long sword piercingly, calculating the timing, he muttered softly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "Hell.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "A time not in the laws, 0.666 seconds.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "Huh?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A black shadow that sprung from the ground enveloped Harvitz, but time did not stop.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "What?!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "As Kido shouted while rotating, a powerful impact hit his side.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "Argh!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kido, who had braced himself with the spear, slid on the ground and checked the impact point where a black robe stood.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "…Good judgment.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "The wandering six o'clock.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Assuming all actions necessary to achieve something had been taken, he obtained the result.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "What are you all?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Without answering Kido's question, the wandering six o'clock returned to the position of hell.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Harvitz",
+      "content": "Harvitz circled around those standing in their own time.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Harvitz",
+      "content": "What?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The place at four o'clock was empty.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Harvitz",
+      "content": "Where did one go?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Hell was human, and without needing an answer, God's frequency told him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Harvitz",
+      "content": "Hmm, Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the phenomenon of vanishing disappeared, Kido was finally able to confirm the fallen bodies around him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "It was a bizarre and horrific scene, but for Kido, there was a task he needed to resolve first.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "I will protect Wuorin.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "His heart's wounds hadn't healed, but he still couldn't give up on her.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "Harvitz! Listen carefully. From here, one step…",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Harvitz",
+      "content": "Okay, lead the way.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "Huh?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Harvitz tapped his head.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Harvitz",
+      "content": "You're saying you'll come out to meet me? With the voice of your heart. Yeah, you were decent for a red.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kido",
+      "content": "This woman is really…!",
+      "tone": null
+    }
+  ],
+  "source_hash": "adbcd595f4a8ae7bebbd169cc6d8ce2b57f94eb5df67a96a697eff0fd3cfd50d",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T08:07:52.340337+00:00"
+}

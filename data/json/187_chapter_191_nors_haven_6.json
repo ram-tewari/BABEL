@@ -1,0 +1,949 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even so, the reason it felt uncomfortable was because it sounded like Shirone had used her.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alice",
+      "content": "Shirone isn't that kind of person! Even if Kanya hadn't been a divine subject, he would have helped her the same way! Shirone is kind and also...!",
+      "tone": "defensive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alice",
+      "content": "I know, I know what kind of person he is. That's exactly why.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When Canis readily admitted it, Tess was left speechless.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "He must have sincerely given the White Elixir. So what I'm trying to say is this: Shirone may have acted out of goodwill, but he's not so stupid as to not have thought this far ahead in that situation. Right?",
+      "tone": "assertive"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The group couldn't refute it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If it was Shirone, there was no way he wouldn't have thought of what Canis had brought up. That meant he must have had some kind of strategy in mind.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Just then, Shirone walked over with Kanya in tow.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kanya bowed her head and spoke.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "I'm sorry for causing you all to suffer losses because of me. I won't forget this kindness.",
+      "tone": "apologetic"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy glanced at Shirone over her shoulder and silently asked.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As expected, it seemed he already knew, as he shook his head.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In life, there are times when acts of goodwill are perceived as calculations, and Shirone's current situation was one of them.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He wanted to watch a little longer because he didn't want to hurt Kanya.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Opinions were exchanged through the mental channel.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "I would speak, but a majority vote decided to leave it to Shirone.",
+      "tone": "respectful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Once the meeting ended, Amy and Kanya were fully occupied examining the fire spirit and the drone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Watching them, Shirone realized that among the female members of the party, only Arin had nothing.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "Sorry. We used up all the elixir.",
+      "tone": "apologetic"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "I don't need it. I didn't come here just to get some trivial thing like this.",
+      "tone": "assertive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "What? Say that again.",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "I don't need it. I didn't come here just to get some trivial thing like this.",
+      "tone": "assertive"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tess gritted her teeth.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "We didn't risk our lives coming here just for Purgatory or some loot. You should remember that the drone you're hugging is equipment anyone can get their hands on in Heaven.",
+      "tone": "assertive"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Canis was right.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If Purgatory was a market selling goods, Heaven was the factory producing them.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The fact that all the principles of this world originated from the laws of Heaven alone was enough to prove it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tess pouted and turned away.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At any rate, the drone was hers. No matter what fantastical items existed in Heaven, weren't they just pie in the sky if she couldn't get them?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Her mood improved again, and she stroked the drone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then, she suddenly wondered how to use it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Afraid it might break, she didn't handle it roughly, but no matter how much she shook or tapped it, there was no sign of it activating.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Kanya, how do you use this? You said it's brand new, but it won't turn on.",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "Give it here. Let me take a look.",
+      "tone": "helpful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kanya took the drone and turned it over.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then, she noticed a steel band tied around the drone's flight mechanism and made a troubled expression.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She also knew the White Elixir had been used to buy the drone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But she hadn't expected them to sell something like this.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Equipment from the Mecha tribe with an unremovable band was utterly useless.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "Um... this can't be used.",
+      "tone": "apologetic"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "What? Why? Is it broken or something?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "No, it's the opposite. This is a brand-new item fresh from the factory. See this pattern engraved on the steel band? It's called Hena. You can only use it after removing this seal, but the seal can only be undone at the factory. That's why it's unusable.",
+      "tone": "explanatory"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tess looked like she was about to cry.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "To think the item she'd paid a White Elixir for was no different from a lump of scrap metal.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Listening to the conversation, Shirone realized why the merchant had been so desperate to sell the item.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He hadn't mentioned anything about the seal.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Give it here. I'll go get a refund. Selling a defective item without explaining it is fraud!",
+      "tone": "indignant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Merchant",
+      "content": "That's right. I did commit fraud.",
+      "tone": "apologetic"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The merchant who had sold the drone walked over with Clove in tow.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His immediate admission left Amy deflated.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The group suppressed their anger and waited for the merchant's next words.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But he said nothing.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Instead, he took out three Yellow Elixirs from his pocket.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Merchant",
+      "content": "What's this?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Merchant",
+      "content": "The original price of the drone. Of course, I've deducted my profit, but no auction could sell it cheaper than this. All items from Mecha are locked. I'm sorry for not telling you the truth.",
+      "tone": "apologetic"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Arin relayed that it was the truth.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy guessed why the merchant had come clean.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "First, it was blatant fraud, and after seeing Shirone's abilities, he must have concluded that things would escalate.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In the end, he was trying to smooth things over and at least recover his original share.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "For a merchant, he wasn't very bold.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Merchant",
+      "content": "Don't look at me like that. I have no ulterior motives.",
+      "tone": "defensive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Then why are you giving it back?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Merchant",
+      "content": "As an apology. I felt miserable. I left Heaven and came to Purgatory, but I lived believing there was hope. I didn't want to abandon my pride as a merchant.",
+      "tone": "emotional"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone accepted the Yellow Elixirs as if he understood.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "It was half-truth, half-lie, but he was sick of fighting over beads.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The merchant comforted them in his own way.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Merchant",
+      "content": "Even so, it's not like I discounted it much. Usually, ten Yellow Elixirs can get you one White Elixir. That's how valuable drones are in Purgatory.",
+      "tone": "explanatory"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tess snapped back.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "What does that matter? It's still unusable.",
+      "tone": "indignant"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The merchant had nothing to say to that.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Mecha equipment wasn't his main trade, and he didn't know much about it since he'd only happened to acquire it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But Amy found a hint in the merchant's words.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "If it's valuable, doesn't that mean there's a way to unlock it?",
+      "tone": "inquisitive"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tess turned to him with a glimmer of hope.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But the merchant just shrugged as if he didn't know.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Listening to their conversation, Canis let out a sigh.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He was annoyed by their indecision when the key to the lock was right in front of them.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Should he tell them or not?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In the end, out of a shred of camaraderie, he spoke up.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "Do you really not know?",
+      "tone": "exasperated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Huh? Not know what?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "Think about how we got here. Use your heads a little.",
+      "tone": "assertive"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tess racked her memory.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They had escaped to Heaven through Gephen's Gate.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Gephen's Gate? Wait, what did we do at Gephen's Gate?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tess turned to Shirone and shouted.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Shirone! Hurry, hurry, unlock this!",
+      "tone": "urgent"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone also realized.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Gephen's Gate was also a type of ancient weapon.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Its appearance was nothing more than a stone wall, but when the Immortal Function was activated, it transformed into a dimensional gate.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Perhaps that was why it had earned the nickname 'Unlocker.'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Taking the drone, Shirone cupped it in both hands and focused.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Would it really work? He had his doubts, but he was about 80% sure it would.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When he activated the Immortal Function, the drone began to glow.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "*ting*",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The merchant's eyes widened as he watched.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A red pattern appeared along the lock known as Hena.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Though the shape was different, the phenomenon was identical to what they'd seen at Gephen's Gate.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With a *ting*, the Hena fell away, and light seeped out from the gaps in the assembly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone beamed and held up the drone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Wow, it actually worked!",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His smiling face froze.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Countless Nor were staring at them.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kanya and Rena, even Guardlak and Clove, looked shocked, as if they'd lost their minds.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He thought it was just because he'd unlocked the seal, but whispers reached his ears from somewhere.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When Arin attempted telepathy with a few people, their voices entered his mind.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nephilim.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Many words were exchanged, but the one that kept coming up was Nephilim.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the voices grew louder, Shirone grew uneasy.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He couldn't tell whether the term Nephilim was good or bad.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Arin said their emotions were a mix of awe and fear.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kanya, who met Shirone's eyes, flinched in surprise.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But remembering even that was disrespectful, she knelt.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "A subject of Ra greets the Nephilim.",
+      "tone": "respectful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone couldn't grasp how the situation had escalated like this.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then Guardlak approached.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His face was graver than when they'd been pursued by the heresy hunters.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Guardlak",
+      "content": "You all weren't castaways who fell into Purgatory. You're those who opened the gate and entered.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I don't understand. What exactly is a Nephilim?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Guardlak",
+      "content": "In this world, the only beings who can freely travel between Heaven and the Earthly Kingdom are angels. They have many duties, but one of them is to conceive those who will enlighten the kingdoms of the earth. Only virgins who have never borne children can do so, and it's called virgin conception. Nephilim are the descendants born between angels and virgins. In Heaven, Nephilim are called this: those free from the Law.",
+      "tone": "explanatory"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone recalled the priestesses the Kergo chieftain had brought to the banquet.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He'd said only virgins could bear the children of the angels' descendants.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even so, what didn't make sense was that he wasn't a Nephilim.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If he were truly a descendant of an angel, why had his mother abandoned him?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Moreover, it was absurd to call him a Nephilim just because he could use the Immortal Function.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If all the Unlockers in the world were descended from a single bloodline, scholars would have uncovered it by now.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Nephilim are free from Ra's will. But the divine subjects follow the Nephilim. Because they stand at the highest position a human can reach.",
+      "tone": "inquisitive"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone didn't like it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Just because his ancestors were great, was that a reason for the divine subjects to follow him?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Also, the Immortal Function was a state he'd achieved through challenge.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It felt ridiculous to attribute his own hard-earned achievement to his bloodline.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Enough. It's not like knowing this changes anything, right?",
+      "tone": "resigned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Guardlak",
+      "content": "That's true. This is the land of heretics, after all. By the way, why did you come to Purgatory? Are you here on an angel's mission?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes. We came to enter Heaven. We have a message to deliver.",
+      "tone": "assertive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Guardlak",
+      "content": "I thought so. But why did you come to Nor's Haven?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Well, it just sort of happened...",
+      "tone": "sheepish"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When Shirone looked back, Kanya turned her head away, her face red.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Her heart was pounding.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone wasn't a heretic or a mock human to be rejected.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He was the great Nephilim who had defeated the Horned Demon and obtained Epines for her.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Don't be so nervous. I didn't even know I was a Nephilim. Just treat me normally.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But Kanya didn't see it that way.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Those who traveled with a Nephilim couldn't be classified as heretics.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They were connected to the Nephilim, and the Nephilim was connected to the angels.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At any rate, she couldn't defy what the higher laws dictated, so Kanya decided to treat Shirone normally as he wished.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But deep down, a profound resonance still echoed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Nephilim or whatever, Shirone is Shirone.",
+      "tone": "affectionate"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She grinned and examined the drone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Just hearing it hum made her heart race.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kanya approached and held out her hand.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Give it here. I'll teach you how to use it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The drone was remote-controlled equipment that used the human brain as a control tower.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It employed a cutting-edge technology called retinal vision to transmit information directly to the user's eyes.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Depending on conditions, it could fly up to 10 kilometers from the control tower.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "To use the drone, you need to set a personal password. It uses a unique frequency, but only Mecha technicians know the原理. Anyway, to use it, press here and then like this...",
+      "tone": "explanatory"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When she touched the reset button, the hemispherical drone split into several mechanisms.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Placing it on Tess's head, it tightened with a mechanical sound and began reading her brainwaves.",
+      "tone": null
+    }
+  ],
+  "source_hash": "7cf348e0810549c3fbb9d9f5f93efec435294e020946ef96f64ef8c903f1a22e",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T16:52:31.355026+00:00"
+}

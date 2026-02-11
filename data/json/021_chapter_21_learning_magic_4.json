@@ -1,0 +1,1075 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Spirit Zone was a device that required not only countless magitechnological advancements but also an enormous amount of financial backing to create.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "However, if one could see the Spirit Zone with their own eyes, the achievement rate of the lessons would skyrocket.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was no coincidence that the Alpheas Magic Academy was one of the kingdom's top five prestigious schools.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "***",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Etra walked comfortably, unlike someone who had just entered the Spirit Zone, and continued her explanation.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etra",
+      "content": "Now, this is the basic form of the Spirit Zone. It uniformly dominates the entire space.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But in actual combat, except for special situations, there's rarely an opportunity to use the entire space.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Let me give you an example.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Etra snapped her fingers, and a target appeared 20 meters away.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etra",
+      "content": "With a sphere 10 meters in diameter, you can't apply magical effects to that target.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "You'd have to either move directly or expand the Spirit Zone. But if you change its shape, this method becomes possible.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Etra's Zone elongated toward the target. The volume remained the same, but by altering its form, she had captured the target.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etra",
+      "content": "If you change the shape of your spirit, the Spirit Zone's form changes as well. Then, like this……",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Etra extended her hand and spoke.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etra",
+      "content": "Fire.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "A burst of flame shot out and incinerated the target 20 meters away.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The first-year students' eyes widened.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Etra, who they had underestimated due to her gentle appearance, suddenly seemed awe-inspiring.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etra",
+      "content": "But this method has a fatal flaw.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At Etra's follow-up words, the freshmen looked awkward.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was embarrassing to realize that the demonstration they had just seen was actually a bad example.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etra",
+      "content": "The Zone's form can be varied in many ways. But in the heat of battle, if you have to calculate the shape every time, it would be highly inefficient.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Therefore, magicians patternize several forms.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "That is the four patterns of the Spirit Zone, known as the Four Directions Method.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's heart raced at this newly introduced concept.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etra",
+      "content": "The first of the Four Directions Method is the Defensive Type.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Etra's Spirit Zone tightened, transforming into a polyhedron with 20 triangular faces.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was a crude shape, but from a distance, it resembled a sphere.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etra",
+      "content": "The foundation of the Defensive Type is the polyhedron.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "You establish a mental framework as the skeleton.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The more frames there are, the stronger the durability, and the more allies you can protect.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etra",
+      "content": "Next is the Offensive Type.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Etra changed the form of her Spirit Zone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The spherical surface area seemed to shrink, and dozens of long spikes stretched out in all directions.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etra",
+      "content": "The Offensive Type is called the Star Shape.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It reduces the central area but extends numerous Zones outward.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It covers all directions, so there's no need to consider the target's position, and it's also useful when facing multiple enemies.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etra",
+      "content": "Next is the Target Type.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Etra's Zone transformed again.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Extending east, west, south, and north from her center, it formed a cross shape.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etra",
+      "content": "The foundation of the Target Type is the cross.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Among the basic forms of the Four Directions Method, it has the longest range.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "While its firepower is weaker than the Offensive Type, it can easily capture targets.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etra",
+      "content": "You rotate the Zone around the magician and lock onto the target.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She snapped her fingers, and targets began moving around her.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Etra followed them with sharp eyes.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etra",
+      "content": "Flank, 45 degrees. Fire.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "The rotating cross shot flames each time it caught a target.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Magic was cast simultaneously in all directions, as if she had eyes in the back of her head, with no margin for error.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etra",
+      "content": "What you must master in the Target Type is the rotation speed of the Spirit Zone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "There's an extreme form called the Linear Type, which has the maximum range, but unless you're a sniper-style magician, it's not used.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Because the magician is positioned at the end of the linear form, changing direction is extremely difficult.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etra",
+      "content": "After demonstrating three forms, Etra briefly wiped her glasses.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lastly, the Separation Type involves moving the Zone's center.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In other words, you could say you're moving your brain.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone didn't understand her words. The Zone's center was the magician's head. How could that be moved?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Etra returned to the basic form.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A moment later, the Spirit Zone began moving while maintaining its spherical shape.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After 10 seconds, the Spirit Zone completely detached from Etra's body.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone was astonished. If the Zone was the magician's spirit, what on earth was at its center now?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etra",
+      "content": "This is the Separation Type. Among the Four Directions Method, it's a special form.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If the Spirit Zone is unity with the mind, the Separation Type is unity with the object.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The farther the separation distance, the smaller the Zone becomes, and it's so difficult to master that there are specialized magicians for it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But among the Four Directions Method, it's the fastest to move and can be activated instantly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Finally, Etra demonstrated the Four Directions Method in sequence.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Zone solidified into a polyhedron, turned into a star shape, elongated into a cross, returned to a sphere, and then detached from her body, swirling rapidly around her.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Whoa……",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Class Seven students finally realized it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Mastering the continuous transformation of the Four Directions Method wasn't something achievable with just a year or two of training.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The teacher before them wasn't some clueless novice but an officially recognized 6th-rank magician.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etra",
+      "content": "From now on, you will train in this Four Directions Method.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Repeatedly practicing the four forms.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Now, let's begin class-by-class exercises.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The students received differentiated lessons based on difficulty.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone also attended Etra's class with the Class Seven students.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etra",
+      "content": "First, let's learn about the Defensive Type.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Magicians may specialize in certain areas based on their inclinations, but the Defensive Type is something everyone should polish consistently.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It allows you to maintain focus even in chaotic battles and, most importantly, grants resistance to anti-magic.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone recalled the caution he had heard the day before.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The staff hadn't answered, but the question still lingered.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Teacher, I have a question. Ah! Um, is it okay to ask?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etra",
+      "content": "Hoho, feel free to ask anything.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Surely your question isn't whether you can ask a question, right?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes. Why is anti-magic a forbidden magic?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Many magicians are legally researching anti-magic, aren't they?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etra",
+      "content": "Hmm, let's see. There are two types of anti-magic.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Magicians' anti-magic and artifacts.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes, I know.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etra",
+      "content": "Anti-magic isn't so much magic as it is a Spirit Zone with special properties.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "That's why its efficiency varies depending on the magician's spirit.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "That's the difference from artifacts.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "So, approaching it clumsily could be dangerous.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Exactly. If you cast it carelessly, accidents can happen.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Magicians who major in anti-magic train in it for their entire lives.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Most of them have ruthless personalities.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etra",
+      "content": "The school doesn't want to encourage such methods for students like you.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone nodded.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Anti-magic, which destroyed each other's spirits, wasn't a subject to be researched within the school.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etra",
+      "content": "Alright! Let's return to practicing the Four Directions Method.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Class Seven students began their individual training.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone also practiced the Defensive Type.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The trick was to first establish a mental skeleton and then connect it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After practicing for a while, Shirone felt his Spirit Zone solidify and opened his eyes wide.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Though it wasn't an Image Zone and couldn't be visually confirmed, he had clearly achieved something.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His natural inclination being the Convergent Type helped, but even accounting for that, it was an impressive result.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was the reward for six years of dedicated training in the Spirit Zone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Whoa! Look at that!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At that moment, his classmates pointed at the Image Zone and shouted.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Class Four students were taking turns training, and now Amy was putting on a dazzling show.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy was using the Target Type.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Her cross rotated 90 degrees to the right, then 270 degrees to the left, twisting at unpredictable angles while shooting flames.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Zone's length was about 20 meters, a modest level for the Target Type, but its rotational speed was unimaginable.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even as targets appeared from all directions, the number of flames shooting from the four directions was at the level of rapid fire.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After instantly annihilating 120 targets, Amy retracted her Zone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With her beautiful appearance and exceptional skills, the underclassmen looked up at her with sparkling eyes.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Is that senior Carmis Amy?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etra",
+      "content": "First-class, stunning looks, and on top of that, her skills.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If I could date a senior like that, my school life would be perfect.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Classmate",
+      "content": "Give it up.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Classmate",
+      "content": "Over 100 guys have tried to hit on her, and she hasn't given any of them the time of day.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Classmate",
+      "content": "No surprise.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Classmate",
+      "content": "The Carmis family is renowned even in the kingdom.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Hearing the Class Seven students' chatter, Shirone realized something anew.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Why had a girl from such a prestigious family been hanging out with delinquents six years ago?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone pondered this, his shoulder twitched.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy, descending from the Image Zone, was staring straight at him.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Naturally, the other students also turned their gazes toward Shirone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Classmate",
+      "content": "What? Do they know each other?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Classmate",
+      "content": "No way? He just enrolled yesterday.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Classmate",
+      "content": "Could it be she's into him? She's the type who won't even make eye contact with guys.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "To Amy, Shirone was the only one who knew about her past foolish behavior.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Of course, she hadn't exactly matured now, but since she began studying magic, she had left all her past behind.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "'This won't do. I'm about to enter my graduation year. If rumors spread here, everything could go up in smoke. What do I do now?'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy returned to her seat, but no one dared to use the Image Zone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She was undisputedly the top-ranked student in the advanced class, and anyone who stepped forward would only humiliate themselves in front of the underclassmen.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone saw this as an opportunity and approached Etra.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Teacher, if it's okay, may I give it a try?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etra",
+      "content": "Huh? In the Image Zone?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Etra tilted her head.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Why would a student who had just started learning the principles of the Four Directions Method want to use the Image Zone?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etra",
+      "content": "Wait a moment… The rule is that upperclassmen go first.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Etra waited briefly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But still, no one stepped forward to use the Image Zone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Deciding it was better to let him gain experience than let the expensive device sit idle, she agreed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etra",
+      "content": "Alright. It's good to try things in advance.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But don't summon targets. You could get hurt.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes. I thought it would help to visually see the Defensive Type's image.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Huh?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Etra asked as if she didn't understand, but Shirone didn't hear her and left his seat.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As he stepped onto the Image Zone, the upperclassmen whistled and clapped.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was less encouragement and more like they were expecting a spectacle, but Shirone ignored them and walked to the center.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy, who was drinking water, turned her gaze at the commotion.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The moment she spotted Shirone, she spat out the water she was holding.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Pfft!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Ahh, what the hell is he doing? A Class Seven student trying to show off there?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The unexpected incident turned the class into something resembling a break.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But Shirone was seriously focused.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As he entered the Spirit Zone, the sphere rapidly expanded.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The moment he saw it visually, he felt suffocated.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Overwhelmed by the image, Shirone unconsciously stopped the expansion.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The noisy students fell silent.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Zone's diameter was a full 20 meters.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Considering that Class Seven's average diameter was 13 meters, this was the arrival of a prodigious freshman.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Classmate",
+      "content": "Wow! He's got size.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Classmate",
+      "content": "Hmph. Just because it's big doesn't mean it's magic.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It's just an air bubble.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone was flustered.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The frame he had successfully created before entering the Image Zone was now bending like taffy.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Why isn't it working?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Had seeing the Spirit Zone visually disrupted his focus? That was certainly possible.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "But Shirone didn't consider himself that weak.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "There must be a fundamental issue.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Ah! I see!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In his current state, attempting the Four Directions Method would inevitably cause the Spirit Zone to collapse.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As a beginner, Shirone needed far more mental energy for shape changes than an expert.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was like trying to build a structure without enough materials.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A diameter of 20 meters couldn't support a frame as solid as steel.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "I need to maximize it.",
+      "tone": null
+    }
+  ],
+  "source_hash": "ae5e16c15ac2e168544edcc21c5c2e05fa32da0135059497700eb52cc81bb56f",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-10T10:22:31.797708"
+}

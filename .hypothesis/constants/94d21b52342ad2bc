@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\google\ai\generativelanguage_v1beta\services\permission_service\transports\rest.py
+# hypothesis_version: 6.148.8
+
+[400, 'Content-Type', 'CreatePermission', 'DeletePermission', 'GetOperation', 'GetPermission', 'ListOperations', 'ListPermissions', 'TransferOwnership', 'UpdatePermission', 'application/json', 'headers', 'httpRequest', 'httpResponse', 'https', 'metadata', 'method', 'payload', 'requestMethod', 'requestUrl', 'rest', 'rpcName', 'serviceName', 'status', 'uri', 'utf-8', '{host}{uri}']

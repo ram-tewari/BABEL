@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\PycharmProjects\BABEL\babel\render\__init__.py
+# hypothesis_version: 6.148.8
+
+['BlockRenderContext', 'ChapterRenderContext', 'Navigation', 'get_character_color', 'get_character_lane', 'get_stable_hash']

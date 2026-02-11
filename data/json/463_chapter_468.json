@@ -1,0 +1,44 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "The Second Heaven, Lakia."
+    },
+    {
+      "type": "action",
+      "content": "On the inner wall of the Hall of Corruption stood Kariel, Uriel, and Surt, the leader of the fire giants."
+    },
+    {
+      "type": "action",
+      "content": "Since the place wasn't designed for war, the inner wall was higher than the outer wall, offering a clear view of the endless plains beyond."
+    },
+    {
+      "type": "action",
+      "content": "A massive drawbridge, 1 kilometer wide and 4 kilometers long, spanned the great river crossing the plains, branching into seven paths symbolizing the seven sins, leading to all the gates of Lakia."
+    },
+    {
+      "type": "action",
+      "content": "Gaold's party would likely enter through one of these seven paths."
+    },
+    {
+      "type": "action",
+      "content": "The end of these paths was exactly 10 kilometers from this point."
+    },
+    {
+      "type": "narrator",
+      "content": "But in some ways, this calculation was meaningless."
+    },
+    {
+      "type": "narrator",
+      "content": "No one here believed Gaold would actually show up."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kariel",
+      "content": "It's still peaceful. Well, that's to be expected. How are the troops distributed?"
+    }
+  ],
+  "source_hash": "972b37887d9dc2219ccb1e2b6ebadf751995ba26161e0a39beeeb1fd90e0e5df",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T06:53:30.789959Z"
+}

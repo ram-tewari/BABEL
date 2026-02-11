@@ -1,0 +1,659 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "The Archangel Council Chamber, known as the White Hall, was a pristine, ink-like space that only archangels, born from pure concepts, could enter."
+    },
+    {
+      "type": "action",
+      "content": "One by one, the archangels appeared, causing ripples in the space."
+    },
+    {
+      "type": "action",
+      "content": "A perfect circular table rose from the floor, and seven archangels took their seats."
+    },
+    {
+      "type": "action",
+      "content": "Their wings of light and halos blended into the white surroundings, making them invisible."
+    },
+    {
+      "type": "narrator",
+      "content": "Here, they were equals, each presenting only one opinion based on their own perspective."
+    },
+    {
+      "type": "narrator",
+      "content": "The only exception was Archangel Ikael."
+    },
+    {
+      "type": "narrator",
+      "content": "But she was not present."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Raiel",
+      "content": "It's been a while since we've all gathered.",
+      "tone": "casual"
+    },
+    {
+      "type": "action",
+      "content": "He, who controlled electromagnetic forces, was a handsome figure with a slender, three-meter-tall, androgynous appearance."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Metatron",
+      "content": "One is missing. Ikael.",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "content": "He, who controlled gravity, had a voice that drew others in."
+    },
+    {
+      "type": "action",
+      "content": "At two meters tall, he was small for an angel but had broad shoulders and a strong, square jaw."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "Ikael is in penance. She cannot attend the Archangel Council.",
+      "tone": "matter-of-fact"
+    },
+    {
+      "type": "action",
+      "content": "Metiel, the Archangel of Union, frowned."
+    },
+    {
+      "type": "action",
+      "content": "With her beautiful, broad forehead and golden hair swept back, she had a pure appearance but a cold personality and sharp eyes."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Metiel",
+      "content": "That's the problem, isn't it? Archangels cannot abstain from voting. With seven, there can be no ties.",
+      "tone": "logical"
+    },
+    {
+      "type": "narrator",
+      "content": "Originally, there were eight archangels, including Ikael."
+    },
+    {
+      "type": "narrator",
+      "content": "If the council was evenly split, Ikael's decision would be the deciding factor."
+    },
+    {
+      "type": "narrator",
+      "content": "Ikael had always taken responsibility for everything."
+    },
+    {
+      "type": "narrator",
+      "content": "But with only seven present, every issue would be decided."
+    },
+    {
+      "type": "narrator",
+      "content": "It was a clean solution, but the problem was that they were in the White Hall."
+    },
+    {
+      "type": "narrator",
+      "content": "Decisions made by archangels born from pure concepts affected not only Heaven but also Purgatory and all worlds connected to Heaven."
+    },
+    {
+      "type": "narrator",
+      "content": "For all beings under the dominion of the Akashic Records, decisions made in the White Hall were akin to divine proclamations."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Satiel",
+      "content": "I agree. Operating the White Hall without Ikael is dangerous. Who will take responsibility?",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "content": "In the hierarchy of angels, Cariel and Uriel stood side by side, just as Satiel stood alongside Metiel, the Archangel of Union."
+    },
+    {
+      "type": "action",
+      "content": "Though the beauty of archangels was unparalleled, Satiel's personality was even more ruthless and cold than Metiel's."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "I will take responsibility.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "Cariel, you? Do you understand what responsibility means?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "action",
+      "content": "The most intelligent of the archangels, he knew the implications."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "Of course. I convened this council, prepared for the possibility of great destruction.",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Metatron",
+      "content": "Let's hear the issue.",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "content": "Cariel presented his prepared statement."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "There are impure movements detected in Purgatory. Yet Ra has taken no action. I believe it is time for the archangels to intervene.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Raiel",
+      "content": "Does Ikael know?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "content": "Cariel suppressed his frustration."
+    },
+    {
+      "type": "action",
+      "content": "It had always been this way."
+    },
+    {
+      "type": "action",
+      "content": "Ikael. Ikael."
+    },
+    {
+      "type": "narrator",
+      "content": "Everyone relied on Ikael."
+    },
+    {
+      "type": "narrator",
+      "content": "White Hall might have always been hers alone."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "She is no longer our leader. We don't need her opinion.",
+      "tone": "defiant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Metiel",
+      "content": "They're just humans, aren't they? Why the urgency? We can crush them whenever we want. There's no need to act on something Ra has halted.",
+      "tone": "scoffing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "Ra never forbade punishing humans. He only restricted the activities of angels.",
+      "tone": "supportive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Metatron",
+      "content": "Isn't that the same thing? Why now? Cariel, what are you thinking?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "Miro's dimension has disappeared.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "content": "The space of White Hall vibrated with the archangels' anger."
+    },
+    {
+      "type": "action",
+      "content": "Satiel, the Archangel of Disintegration, was the first to react."
+    },
+    {
+      "type": "action",
+      "content": "Miro's dimension has disappeared?"
+    },
+    {
+      "type": "action",
+      "content": "For the first time since their creation, the entire army of Heaven, led by archangels, had halted and retreated before a mere human's power."
+    },
+    {
+      "type": "action",
+      "content": "It was their greatest humiliation."
+    },
+    {
+      "type": "action",
+      "content": "Just the thought of Miro's face in their halos felt like a crack in their pride."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "We can confirm it. Currently, Miro is captured in the Great World War, with all her powers restrained.",
+      "tone": "serious"
+    },
+    {
+      "type": "sfx",
+      "content": "Screeeech!"
+    },
+    {
+      "type": "action",
+      "content": "As the six archangels simultaneously spread their halos, a deafening noise filled the space."
+    },
+    {
+      "type": "action",
+      "content": "No creature could withstand the sound, but no one at the round table paid it any mind."
+    },
+    {
+      "type": "action",
+      "content": "After confirming through their abilities, they retracted their halos."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Raiel",
+      "content": "So, what's the proposal?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "We use all our power to attack the land of humans.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "content": "Hmm."
+    },
+    {
+      "type": "action",
+      "content": "Metatron stroked his chin."
+    },
+    {
+      "type": "narrator",
+      "content": "Fairies and giants were separate independent units, but 70% of the power lay with the archangels."
+    },
+    {
+      "type": "narrator",
+      "content": "The difficulty lay in reaching a consensus among the archangels."
+    },
+    {
+      "type": "narrator",
+      "content": "A decision in the White Hall would mean that the angels and Mara they commanded could sweep away the human world."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Metatron",
+      "content": "But Ra forbade the activities of angels. What do you think about that?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "That's why we're using the White Hall. We come from Anke Ra, but we follow the original concept, not the laws of the subordinates. If the White Hall decides, even Ra cannot oppose it.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "content": "The archangels tilted their heads."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Raiel",
+      "content": "In human terms, isn't that rebellion? Only humans desire to defy higher beings.",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "content": "Uriel looked at Cariel with a meaningful expression."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "It's not defiance of Ra. It's time for archangels to make a decision.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Raiel",
+      "content": "Ymir…",
+      "tone": "concerned"
+    },
+    {
+      "type": "sfx",
+      "content": "…is not moving."
+    },
+    {
+      "type": "action",
+      "content": "All the archangels turned to one."
+    },
+    {
+      "type": "action",
+      "content": "Faiel, the Archangel of Annihilation."
+    },
+    {
+      "type": "action",
+      "content": "The most enigmatic of the archangels, he was almost human-sized at 1.7 meters, wearing a white robe with a hood covering his face."
+    },
+    {
+      "type": "action",
+      "content": "Few in the universe knew his face, and even those who had seen it couldn't define it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Metiel",
+      "content": "Ymir's law is the vanguard of war. If he hasn't moved, does that mean there will be no war?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Faiel",
+      "content": "It could mean our victory without war.",
+      "tone": "enigmatic"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Metiel",
+      "content": "Or the opposite.",
+      "tone": "skeptical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "Does it make sense for higher laws to worry about lower ones? Anyway, let's begin. If more than four agree, we annihilate the humans. We'll sweep Purgatory and destroy the land of humans.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "content": "The archangels pondered."
+    },
+    {
+      "type": "action",
+      "content": "Cariel wanted war, but angels didn't have the concept of persuasion."
+    },
+    {
+      "type": "action",
+      "content": "Their avatars were too clear, and they knew too much to be swayed by unknown variables."
+    },
+    {
+      "type": "action",
+      "content": "Each had to decide based on their own nature."
+    },
+    {
+      "type": "action",
+      "content": "As promised, Uriel raised his hand first, followed by Cariel, Metatron, and Raiel."
+    },
+    {
+      "type": "action",
+      "content": "The only one who didn't agree was Faiel."
+    },
+    {
+      "type": "narrator",
+      "content": "Despite Ikael's absence and the defiance of Anke Ra's message, most agreed, showing the archangels' unwavering pride."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "This will rid us of those tiresome humans.",
+      "tone": "smug"
+    },
+    {
+      "type": "action",
+      "content": "Cariel's halo smiled meaningfully, and Ikael's face flickered in his mind."
+    },
+    {
+      "type": "action",
+      "content": "At the top floor of Araboth, Ikael paused before the iron door and reached out."
+    },
+    {
+      "type": "sfx",
+      "content": "Thump! Thump! Thump!"
+    },
+    {
+      "type": "action",
+      "content": "Anke Ra's heartbeat echoed loudly through the door."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "Anke Ra, your servant requests an audience.",
+      "tone": "respectful"
+    },
+    {
+      "type": "action",
+      "content": "A massive body with reddish-brown, mucus-covered skin."
+    },
+    {
+      "type": "action",
+      "content": "A formless, collapsed shape, symbolizing Anke Ra's entirety."
+    },
+    {
+      "type": "action",
+      "content": "Inside the 26-ton body, all organs of a living being existed in a pre-manifest state, with nerves extending to the walls, acting like a brain."
+    },
+    {
+      "type": "action",
+      "content": "The center of the body bulged and split horizontally as if cut by a razor."
+    },
+    {
+      "type": "action",
+      "content": "The skin peeled back, revealing a giant eye that looked around like a newborn."
+    },
+    {
+      "type": "action",
+      "content": "Facing Anke Ra for the first time since her penance, Ikael took a deep breath."
+    },
+    {
+      "type": "sfx",
+      "content": "Nerves on the floor intertwined, producing a high-pitched sound that gradually stabilized into a low tone."
+    },
+    {
+      "type": "sfx",
+      "content": "Screech! Ikael, screech! Purgatory, screech!"
+    },
+    {
+      "type": "action",
+      "content": "The grating sound that seemed to tear her eardrums gradually became a low, steady voice."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "Heretics have begun to act.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "content": "Ikael prostrated herself."
+    },
+    {
+      "type": "narrator",
+      "content": "Anke Ra's first concept. That made Ikael special."
+    },
+    {
+      "type": "narrator",
+      "content": "Despite her unforgivable sin, Ra had not cast her down as a fallen angel, a testament to his resolve."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "No heretic can defy you.",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Anke Ra",
+      "content": "Someone beyond Miro's dimension has attempted change.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "content": "Ikael raised her head."
+    },
+    {
+      "type": "narrator",
+      "content": "Anke Ra was the Akashic Records."
+    },
+    {
+      "type": "narrator",
+      "content": "For someone to attempt change within his all-encompassing concept, it couldn't be an ordinary human."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "That change is guiding the present. Perhaps there will be no time to hear his answer. That is why I absolve your sin.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "content": "Ikael pondered."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "I have one question. What answer does Ra seek?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Anke Ra",
+      "content": "…not?",
+      "tone": "enigmatic"
+    },
+    {
+      "type": "action",
+      "content": "Hearing the question, Ikael's eyes softened."
+    },
+    {
+      "type": "action",
+      "content": "Memories from long ago flowed beautifully across the surface of her halo."
+    },
+    {
+      "type": "action",
+      "content": "And the face of a young boy."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "I will handle it.",
+      "tone": "determined"
+    },
+    {
+      "type": "narrator",
+      "content": "If she reclaimed her position as Archangel, she would have full authority over Heaven."
+    },
+    {
+      "type": "narrator",
+      "content": "Though her control over other archangels would be limited, she could at least prevent meaningless sacrifices."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "There is a condition.",
+      "tone": "cautious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Anke Ra",
+      "content": "A condition?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "I will erase the sin you committed.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "content": "Ikael's eyes widened."
+    },
+    {
+      "type": "narrator",
+      "content": "Erasing it from the Akashic Records meant it wouldn't just disappear from others' memories; it would vanish from her own as well."
+    },
+    {
+      "type": "narrator",
+      "content": "No one, not even Ikael herself, would remember it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "The only beauty she had left, chosen with the resolve to become a fallen angel and face great destruction, would be gone.",
+      "tone": "sad"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "There is a human in Purgatory who will bring me the answer. Can you accept this?",
+      "tone": "hopeful"
+    },
+    {
+      "type": "action",
+      "content": "Ikael's halo trembled."
+    },
+    {
+      "type": "narrator",
+      "content": "It was fear."
+    },
+    {
+      "type": "narrator",
+      "content": "The thought of losing a memory she could never forget, or thought she couldn't forget."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "'But…'",
+      "tone": "hesitant"
+    },
+    {
+      "type": "action",
+      "content": "Ikael's eyes sharpened."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "'That is why I must reclaim my position as Archangel.'",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "content": "Having made her decision, Ikael nodded."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "I accept.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "content": "Anke Ra did not ask again."
+    },
+    {
+      "type": "action",
+      "content": "His eye opened wide, and the information of the entire world rippled like waves."
+    },
+    {
+      "type": "action",
+      "content": "Ikael's halo spread into a ring, and a tiny black droplet began to emerge."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "I'm sorry.",
+      "tone": "tearful"
+    },
+    {
+      "type": "action",
+      "content": "A single tear rolled down Ikael's cheek."
+    }
+  ],
+  "source_hash": "61b324f354a904293e56fc6b070a46890b53ed549ea8c8fa47618343e683218c",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T06:47:08.520426Z"
+}

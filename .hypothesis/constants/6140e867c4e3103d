@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\stack_data\formatting.py
+# hypothesis_version: 6.148.8
+
+['   {}\n', '(...)', '-->', ':', '^', 'bg:#005080', 'monokai', '{:4} | ', '{} = {}']

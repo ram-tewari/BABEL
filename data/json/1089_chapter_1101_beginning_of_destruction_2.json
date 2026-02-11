@@ -1,0 +1,726 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "Inside the inner castle of Jive, Uorin sat in deep thought with her lips tightly sealed."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "Whistle…",
+      "tone": "calm"
+    },
+    {
+      "type": "action",
+      "content": "Havitz, leaning against her back, whistled and blew out a puff of Asker smoke."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Meirei",
+      "content": "I can hear the sound of your heart."
+    },
+    {
+      "type": "narrator",
+      "content": "It was Meirei's ability, the frequency of the gods."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Meirei",
+      "content": "When you saw Shirone, the sound you made… it was probably close to pain, wasn't it?"
+    },
+    {
+      "type": "action",
+      "content": "Uorin finally spoke."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "If you had asked me to yield, I would have."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Meirei",
+      "content": "Do you also have delusions?"
+    },
+    {
+      "type": "action",
+      "content": "Silence fell again before Havitz spoke."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "The reason I didn't kill you at first was because you said you had someone you loved. I was curious. I couldn't hear the sound of your heart back then. But now that I hear it, it seems you love in a way similar to mine."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Have you ever been in love?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "Well, if what you're doing now is love, then I do it every day. Maybe every second."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "People, you see, they have this illusion that if there's a word for something, it must exist. Love, success, failure, happiness, misery. What did they do before those words existed?"
+    },
+    {
+      "type": "action",
+      "content": "His eyes were glazed from the drug, but his emotions were much calmer than usual."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "Erase all the words in your mind. Your heart still beats, and your body still wants something. Whatever it is, you'll achieve it. As long as you don't define it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Is that what Vanishing is?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "There you go again."
+    },
+    {
+      "type": "action",
+      "content": "Havitz threw his cigarette butt at a Jive official who was watching him in horror."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "Trying to confine it with words makes it complicated. If you divide your thoughts, you can't feel the whole. It doesn't have to be love. What's important is what that feeling is."
+    },
+    {
+      "type": "action",
+      "content": "Uorin felt bitter."
+    },
+    {
+      "type": "thought",
+      "speaker": "Uorin",
+      "content": "Receiving comfort from Satan. Maybe it means I've fallen that far."
+    },
+    {
+      "type": "thought",
+      "speaker": "Uorin",
+      "content": "What did it matter?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Uorin",
+      "content": "Desperate desires are always close, while God is distant for humans."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "...Can I achieve it? If I don't define my feelings for Shirone, can I reach that something, that feeling I want?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "Of course."
+    },
+    {
+      "type": "action",
+      "content": "There was no desire Havitz hadn't achieved."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "You can definitely do it."
+    },
+    {
+      "type": "action",
+      "content": "His face, smiling up at the sky, was as pure as a child's."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "The weather is nice."
+    },
+    {
+      "type": "thought",
+      "speaker": "Uorin",
+      "content": "Today too…"
+    },
+    {
+      "type": "thought",
+      "speaker": "Uorin",
+      "content": "May everyone in this world achieve what they desire."
+    },
+    {
+      "type": "thought",
+      "speaker": "Uorin",
+      "content": "Without exception."
+    },
+    {
+      "type": "action",
+      "content": "At the fountain square visible from the Vatican, Shirone, Iruki, and Neide were deep in thought."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "How about sneaking in? If Shirone's identity is revealed, the Holy Knights will move. You know how troublesome they are."
+    },
+    {
+      "type": "action",
+      "content": "Iruki rested his chin on his hand."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Hmm. But would it be the same inside the Vatican? As far as I know, the Lami faith isn't particularly aggressive. They maintain a respectable public image."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It depends. The Lami faith's attitude towards other religions is divided into two: heresy and apostasy. If you believe in a god other than Cria, you're considered heretical and generally ignored. But I…"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'm considered apostate. A religion that calls itself God. In such cases, the Lami faith has always been aggressive in suppression. This time won't be different."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "But you've never claimed to be God, and you haven't founded a religion."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "It's about reputation. Many people already see Shirone as a messiah. If they dismiss other gods as fake, that's one thing. But if a real person is worshipped as a god…"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "It's fatal to the Lami faith. It directly contradicts their doctrine of monotheism."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "That's why the Holy Knights are so hostile to Shirone. Approaching them with the idea that it's just a different religion is dangerous."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It was certainly true."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "But! Revealing it openly isn't right either. We can't just fight here."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "How about using an alias? It has to be someone who can attract the Pope's attention."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Let's go straight."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "If we plan it, meeting Pope Constantine won't be difficult. But I can't assert my claim that way. Besides, the Pope will soon leave for the Holy War. There's something I want to confirm before that."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "Alright. Let's formally request an audience. If the Holy Knights attack, I'll be the villain."
+    },
+    {
+      "type": "action",
+      "content": "Inside the Vatican, they found the office between the Diocese Management Department and the Holy Knights Department."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Priest",
+      "content": "Excuse me."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Priest",
+      "content": "Welcome, servants of Cria. What brings you to the Holy See?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "We'd like to meet Pope Constantine. We must see him before he leaves for the Holy War."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Priest",
+      "content": "What?"
+    },
+    {
+      "type": "action",
+      "content": "The priest blinked and then scratched his head after checking their ages."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Priest",
+      "content": "Well, they are at that age."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'm Shirone."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I want to speak with Pope Constantine. Tell him Yahweh requests an audience."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Priest",
+      "content": "Y-Yahweh?"
+    },
+    {
+      "type": "action",
+      "content": "At the same time, all the priests in the office stood up and looked at Shirone."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Priest",
+      "content": "What? Yahweh?"
+    },
+    {
+      "type": "narrator",
+      "content": "Of course, he wasn't a villain."
+    },
+    {
+      "type": "narrator",
+      "content": "He wasn't a murderer or a terrorist, but some priests' eyes were not kind."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Head Priest",
+      "content": "Hmm."
+    },
+    {
+      "type": "narrator",
+      "content": "Comparing Shirone's appearance with the rumors, he bit his lip."
+    },
+    {
+      "type": "narrator",
+      "content": "It seems true."
+    },
+    {
+      "type": "narrator",
+      "content": "No one would lie about such a thing in the Vatican unless they had a death wish."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Head Priest",
+      "content": "If you are truly Yahweh, you must know what this place is. Is this a declaration of war?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I don't intend to fight. There's no reason to. I just have a message for the Pope."
+    },
+    {
+      "type": "narrator",
+      "content": "To address the Pope directly."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "How arrogant…!"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The head priest's eyes filled with anger, but Shirone didn't back down this time."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Constantine."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "I think he's a good person."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "But can anyone in the world truly distinguish between good and bad people?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Even if they could."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Could we still call them human?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "At that point, they would have transcended humanity, like Miro being the epitome of good and Havitz the epitome of evil."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Of course, Shirone was included in this."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It won't take long. Please let me meet him. I'll be attending the Holy War anyway, and I can meet the Pope there. The reason I came now is that there's an issue that needs to be addressed by the Vatican."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Priest",
+      "content": "Ahem."
+    },
+    {
+      "type": "narrator",
+      "content": "The Vatican knew more about the Holy War, so there was no room for argument."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Priest",
+      "content": "I'll inform him. But if the Pope refuses, there's nothing we can do."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Thank you."
+    },
+    {
+      "type": "action",
+      "content": "Two priests, following the head priest's orders, ran down the corridor and split left and right."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Two."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The Diocese Management Department and the Holy Knights Department."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "They won't let me go easily. But the Pope will meet me. To maintain authority at the Holy War, he must negotiate with me."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The next issue was,"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "How will the Pope answer my question? If it's a human answer, I'll accept it. But if…"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "If the answer denies humanity,"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "There will be blood."
+    },
+    {
+      "type": "action",
+      "content": "Holy Knights Department."
+    },
+    {
+      "type": "action",
+      "content": "Senior Holy Knight Seina, from the Oracle Management Department, stood in front of a mirror in her ivory armor."
+    },
+    {
+      "type": "thought",
+      "speaker": "Seina",
+      "content": "Oh God."
+    },
+    {
+      "type": "thought",
+      "speaker": "Seina",
+      "content": "Her golden bob and pure face were so beautiful that one could believe they were crafted by God."
+    },
+    {
+      "type": "thought",
+      "speaker": "Seina",
+      "content": "Punish me."
+    },
+    {
+      "type": "thought",
+      "speaker": "Seina",
+      "content": "But to her, a Holy Knight, the body was just a shell containing her faith."
+    },
+    {
+      "type": "thought",
+      "speaker": "Seina",
+      "content": "Erase the doubt within me, oh God."
+    },
+    {
+      "type": "thought",
+      "speaker": "Seina",
+      "content": "Her divine power had weakened."
+    },
+    {
+      "type": "thought",
+      "speaker": "Seina",
+      "content": "Why is this happening? Nothing has changed. Why do I doubt my life, everything I've achieved…"
+    },
+    {
+      "type": "thought",
+      "speaker": "Seina",
+      "content": "When did she start doubting?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Seina",
+      "content": "It began when she returned to the Vatican after meeting Yahweh."
+    },
+    {
+      "type": "thought",
+      "speaker": "Seina",
+      "content": "Shirone, wasn't it?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Seina",
+      "content": "When she knelt to the temptation of the abyss, Yahweh had rushed to baptize her."
+    },
+    {
+      "type": "thought",
+      "speaker": "Seina",
+      "content": "I had resolved to martyr myself. I wasn't afraid of death. But why…"
+    },
+    {
+      "type": "thought",
+      "speaker": "Seina",
+      "content": "Why did she cry?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Seina",
+      "content": "The moment Shirone's hand struck her forehead, a terrible evil was expelled."
+    },
+    {
+      "type": "thought",
+      "speaker": "Seina",
+      "content": "Maybe…"
+    },
+    {
+      "type": "thought",
+      "speaker": "Seina",
+      "content": "Maybe it wasn't just the demon that was expelled?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seina",
+      "content": "No!"
+    },
+    {
+      "type": "thought",
+      "speaker": "Seina",
+      "content": "My heart couldn't have been swayed by him. This is the price for succumbing to the abyss."
+    },
+    {
+      "type": "thought",
+      "speaker": "Seina",
+      "content": "It was easier to be a defeated victim of evil than a traitor to her faith."
+    },
+    {
+      "type": "thought",
+      "speaker": "Seina",
+      "content": "But…"
+    },
+    {
+      "type": "thought",
+      "speaker": "Seina",
+      "content": "Recalling the brilliance of the light that had overwhelmed her, she became dazed again."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Leon",
+      "content": "Seina, are you in there?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seina",
+      "content": "Ah! Yes!"
+    },
+    {
+      "type": "action",
+      "content": "Hearing the voice outside, Seina hurriedly turned, equipping her holy sword."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Leon",
+      "content": "Leon."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Leon",
+      "content": "We're on patrol duty this week, Seina. Was I too early? There's still five minutes left."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seina",
+      "content": "Oh, no. I'm sorry."
+    },
+    {
+      "type": "thought",
+      "speaker": "Seina",
+      "content": "Seina wasn't particularly unsociable, but Leon always made her uncomfortable."
+    },
+    {
+      "type": "thought",
+      "speaker": "Seina",
+      "content": "The reason was probably…"
+    },
+    {
+      "type": "thought",
+      "speaker": "Seina",
+      "content": "It's been a while since we were on patrol together. It seems Cria has answered my prayers."
+    },
+    {
+      "type": "thought",
+      "speaker": "Seina",
+      "content": "Because he was too light-hearted."
+    },
+    {
+      "type": "thought",
+      "speaker": "Seina",
+      "content": "Holy Knights are forbidden to marry. Our bodies and souls are already dedicated to God."
+    },
+    {
+      "type": "thought",
+      "speaker": "Seina",
+      "content": "Perhaps sensing her discomfort, Leon changed the subject."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Leon",
+      "content": "Since your report, the Holy Knight training program is being revived. The subordinates are complaining a lot, haha. It was really tough during our time."
+    },
+    {
+      "type": "thought",
+      "speaker": "Seina",
+      "content": "It was."
+    },
+    {
+      "type": "thought",
+      "speaker": "Seina",
+      "content": "Since childhood, Seina had undergone rigorous training to become a servant of God."
+    },
+    {
+      "type": "thought",
+      "speaker": "Seina",
+      "content": "It was certainly her pride."
+    },
+    {
+      "type": "thought",
+      "speaker": "Seina",
+      "content": "But why?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Seina",
+      "content": "Since being baptized by Yahweh, she found the entire process repulsive."
+    },
+    {
+      "type": "thought",
+      "speaker": "Seina",
+      "content": "This doubt is making me weak. Get a grip, Seina. You're a paladin."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Leon",
+      "content": "She's truly amazing."
+    },
+    {
+      "type": "thought",
+      "speaker": "Seina",
+      "content": "Holy Knights were forbidden to marry, but the doctrine wasn't imposed on laypeople."
+    },
+    {
+      "type": "thought",
+      "speaker": "Seina",
+      "content": "If I gave up my position as a Holy Knight, would Seina…"
+    },
+    {
+      "type": "thought",
+      "speaker": "Seina",
+      "content": "As he indulged in such fantasies, a priest came running down the corridor."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Priest",
+      "content": "Temi? What's wrong?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Priest",
+      "content": "Ah, Seina! Leon!"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Priest",
+      "content": "There's trouble! Right now, at the Vatican… I mean, in this holy Vatican…!"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Leon",
+      "content": "Calm down. What's going on?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Priest",
+      "content": "Yahweh is here! He boldly entered through the front gate! He wants to see the Pope!"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Leon",
+      "content": "What are you talking about?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Leon",
+      "content": "At that moment, he turned at the sound of heavy breathing behind him and his eyes widened."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Leon",
+      "content": "Seina?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seina",
+      "content": "Yahweh…"
+    },
+    {
+      "type": "thought",
+      "speaker": "Seina",
+      "content": "Unable to control her rapidly beating heart, she asked in a daze, 'He's here?'"
+    },
+    {
+      "type": "action",
+      "content": "The waves of light flickered before her eyes like an afterimage."
+    }
+  ],
+  "source_hash": "c346a3ab204394fe24567e3c444284b3e3d8e5423306b9992aa6e5f6e4d003b1",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T03:48:35.040336Z"
+}

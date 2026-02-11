@@ -1,0 +1,865 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the automatic doors opened, Shirone and his group's data were remotely transmitted to the company.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "First, let's buy a large quantity of explosive rounds…",
+      "tone": "explaining"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Destroyer707 was explaining to Shirone as they entered the shop when a commotion erupted on the second floor.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Huh?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A man in a tuxedo, accompanied by robot guides, hurriedly came down.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Manager",
+      "content": "Welcome! I'm the manager of Maron's Atogram branch!",
+      "tone": "welcoming"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He was also a robot, but so precise that he was indistinguishable from a human.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "User",
+      "content": "What's going on? It's the manager! I haven't seen him since the early days of High Gear.",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "User",
+      "content": "Yeah. Is there a discount event or something?",
+      "tone": "joking"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone stared at the manager's smiling face.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "It\"s probably because of this.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Next to the Golden Wheel guild mark, the serial number of an unlimited credit card was registered.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "We want to buy some parts and equipment. Can you prepare them quickly?",
+      "tone": "requesting"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Manager",
+      "content": "We'll do our best.",
+      "tone": "agreeing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "First, three sets of the Hundred General package, one Maron integrated unit, fourteen boxes of armor-piercing rounds for the Hundred General, and one auxiliary charging device. Please.",
+      "tone": "ordering"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The manager's eyes lit up, and all the guides in the shop scattered.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "User",
+      "content": "Buying the Hundred General set from the shop? It's three times cheaper from users.",
+      "tone": "surprised"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "User",
+      "content": "Look at the mark. It's Golden Wheel.",
+      "tone": "realizing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "User",
+      "content": "Oh, right. So, did they clean their codenames?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "User",
+      "content": "No, they must be new members. Golden Wheel has no reason to clean codenames. Those guys must be the ones Aegis took from Freedom Square.",
+      "tone": "analyzing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Before the conversation ended, the manager had neatly stacked the ordered items in front of them.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Manager",
+      "content": "Here you go. The payment…",
+      "tone": "handing over"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "I'll do it.",
+      "tone": "accepting"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As soon as he finished speaking, the credit card flashed, and a 'payment complete' sign appeared.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "It doesn\"t even show the balance. This is incredible.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "It was literally a blank check.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Realizing the scale of Golden Wheel, the pressure of time increased.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Level 100 in two days. This is crazy.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Regaining his composure, Destroyer707 urged, \"Yahweh2, you, Death Princess, and I will take the Hundred General set. Strongest Codename will take the Maron integrated unit.\"",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When they touched the boxes, an 'immediate replacement' sign appeared.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Just approve it. Selling the old parts back to the shop takes time. Immediate replacement isn't available.",
+      "tone": "explaining"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was to prevent mistakes due to judgment errors.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Soon, Shirone and his group's bodies transformed, and the Maron package parts fell off.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Let's go. We don't have time.",
+      "tone": "urging"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Without looking at the fallen parts, they left the shop, and the manager bowed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Manager",
+      "content": "Please visit us again anytime.",
+      "tone": "bidding farewell"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Users, with dazed expressions, alternated between looking at the scattered parts and the exit.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "User",
+      "content": "Why are they in such a hurry?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Mago's Base",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Listen carefully. We chose the Hundred General set because it's the most expensive and its basic weapon is a shotgun.",
+      "tone": "explaining"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Thud, thud!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Their machines were as heavy as heavy infantry armor, and their upper arms were inflated like balloons.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Weapon release.",
+      "tone": "commanding"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As their forearms opened, gun barrels emerged, and Shirone aimed forward.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "The auto-aim calculated the hit rate based on the range.",
+      "tone": "analyzing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Strongest Codename",
+      "content": "Yeah. The program changes automatically. The range is much wider, but the distance is shorter.",
+      "tone": "agreeing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Strongest Codename",
+      "content": "The power is slightly less than the bolt gun. Of course, that's calculated for a single bullet.",
+      "tone": "explaining"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Strongest Codename",
+      "content": "That's why we use armor-piercing rounds.",
+      "tone": "justifying"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His machine, having chosen the Maron integrated unit, resembled an armored transport vehicle more than a person.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Strongest Codename",
+      "content": "Real bullets are expensive, but armor-piercing rounds are high-end items. Even without penetration judgment, they can pierce most armor. Usually, you buy a 20-round magazine and use it only in emergencies. But we have fourteen boxes, or 1,680 rounds.",
+      "tone": "explaining"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Death Princess",
+      "content": "We'll lure the creatures, and Yahweh2 will take them down. Strongest Codename will keep supplying ammo. That way, we can reduce the time spent going back and forth. The problem is power…",
+      "tone": "planning"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "The auxiliary charging device is only a temporary measure. It can charge up to 10 percent. We'll use it to return after exhausting all power here. Full charge can only be done at Mid Gear.",
+      "tone": "explaining"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "That's why the Solar War was important.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Alright. I understand.",
+      "tone": "agreeing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Reaching the center of Mago's base, the forest disappeared, revealing a vast clearing.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Let's start.",
+      "tone": "commanding"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Destroyer707 thudded towards the forest's edge, raising his arm.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Spreading armor-piercing rounds like a shotgun. I imagined it, but…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Now it was reality.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Roar! Roar! Roar!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Like a repeating recorder, the Magos roared and charged.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Fire.",
+      "tone": "commanding"
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Boom!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With a deafening roar, the mechanical gorilla's body was torn like paper.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Got it! The plan worked!",
+      "tone": "triumphant"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Destroyer707's triumphant shout drew the attention of 20 users gathered in the clearing.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "User",
+      "content": "What? Did they take it down in one shot?",
+      "tone": "surprised"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Strongest Codename",
+      "content": "I'll go back to Atogram. One more trip, and we'll reach the target level.",
+      "tone": "planning"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the Maron integrated unit quickly moved away, Shirone and Death Princess joined the battle.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Bang! Bang! Bang! Bang!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "No matter where they came from, the shotgun was unavoidable, and it was instant death without a doubt.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Fast. I\"ve already leveled up.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Every time they took down a level 20 Mago, the experience gauge visibly increased.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Level 15.",
+      "tone": "reporting"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Can this work? If the required experience keeps increasing, two days will be really tight.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It needed to be more efficient.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "User",
+      "content": "Hey! Let us hunt too! How can you catch fifty creatures while others catch one?",
+      "tone": "jealous"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "User",
+      "content": "Stop it, you idiot. They're from Golden Wheel. If you mess with them, we'll all be marked for assassination.",
+      "tone": "warning"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "User",
+      "content": "Huh?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The user checked the mark next to Yahweh2 and blinked for a moment before trying to act tough.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "User",
+      "content": "Tch, so what if they're Golden Wheel? Let them mark me. I'll just clean my codename.",
+      "tone": "defiant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Sorry, we have our reasons. We'll hunt a bit more and then leave.",
+      "tone": "apologetic"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The sound of an engine approached, and Strongest Codename placed a box of armor-piercing rounds on the ground.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Strongest Codename",
+      "content": "Is the timing okay? Fourteen boxes.",
+      "tone": "confirming"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Just in time.",
+      "tone": "agreeing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With the armor-piercing rounds reloaded, Shirone and his group resumed hunting the gathered Magos.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Level 20.",
+      "tone": "reporting"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The hunt ended.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Let's head back. How much power is left?",
+      "tone": "inquiring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Two percent.",
+      "tone": "reporting"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Destroyer707 opened his chest armor and attached the auxiliary charger.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "With this, twelve percent is enough to get back to Atogram. We chose this spot on purpose. A full charge at Mid Gear will let us run ten kilometers.",
+      "tone": "explaining"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With the auxiliary batteries attached, Shirone and his group quickly left Mago's base.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "...They're gone.",
+      "tone": "commenting"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "All that remained was a box of armor-piercing rounds worth a million galaxies.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Death Princess",
+      "content": "Let's buy selective options. Turbo activates at level 20, so hunting will be faster.",
+      "tone": "suggesting"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Shirone bought communication and turbo from the electronic store.",
+      "tone": "acting"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Many selective options are linked to parts. Even if you open communication, you can't use it without communication equipment in your parts. The same goes for turbo.",
+      "tone": "explaining"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Yeah. But I can use both now?",
+      "tone": "inquiring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Of course. The Hundred General set includes that as a basic feature. But you'll need to consider it later.",
+      "tone": "explaining"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Strongest Codename",
+      "content": "You guys go with turbo. While Yahweh2 charges at Mid Gear, I'll level up too. Death Princess will handle transport.",
+      "tone": "planning"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Activating turbo, Shirone felt double the output and shot forward like a bullet.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Phew!",
+      "tone": "relieved"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He could see the power draining, but it seemed enough to reach Atogram.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Upon arriving in the city, Destroyer707 found a Mid Gear charging station and requested a rapid charge.",
+      "tone": "acting"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Death Princess",
+      "content": "Entering Mid Gear cuts off external information. It's like a reset. Usually, people disconnect while charging, but we don't have time, so let's come out immediately.",
+      "tone": "explaining"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Death Princess",
+      "content": "What do you mean by 'come out immediately'?",
+      "tone": "inquiring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Death Princess",
+      "content": "Literally. Rapid charging takes 20 minutes in High Gear, but you can skip the process. So, you go in and come out, and 20 minutes have passed.",
+      "tone": "explaining"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Shirone blinked.",
+      "tone": "surprised"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Time flows quickly? Maybe this world…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The communication cut off, and as Shirone entered the capsule, wires connected to his machine.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Would you like to skip the charging process?",
+      "tone": "inquiring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Choosing to agree, his vision went dark, and energy surged through him as if he had become electricity.",
+      "tone": "experiencing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "High Gear charging complete.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Huh?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Before he could process what had happened, the capsule opened.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Death Princess",
+      "content": "Did you sleep well?",
+      "tone": "inquiring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It felt like less than a second, so Shirone looked around.",
+      "tone": "surprised"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Twenty minutes passed?",
+      "tone": "disbelieving"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Death Princess",
+      "content": "Yes, in High Gear time. Let's go. We need to upgrade parts again.",
+      "tone": "urging"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Hehe, this is a real luxury at our level. Or should I say, a masterpiece?",
+      "tone": "joking"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They arrived at the most luxurious building in the shopping district.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Shirone checked the sign.",
+      "tone": "inquiring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Metal Genome.",
+      "tone": "reading"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Through the glass, he saw high-level users shopping.",
+      "tone": "observing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's a company with technology that covers up to level 300. It rivals Hwayoung, where the minimum part specification is level 40. The highlight is the Grim Reaper series. It covers from level 20 to 60. While it won't be the best at level 60, its specs are still impressive.",
+      "tone": "explaining"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Strongest Codename",
+      "content": "In other words, parts equipped at level 20 are still effective at level 60? That's amazing. Maron's bolt gun lost balance with just a 10-level difference.",
+      "tone": "analyzing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Strongest Codename",
+      "content": "That's why it's a masterpiece. But it's expensive. Not just expensive, but very expensive.",
+      "tone": "cautioning"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Shaking their heads, they entered, and the manager quickly approached.",
+      "tone": "acting"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Manager",
+      "content": "Welcome to Metal Genome!",
+      "tone": "welcoming"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Five minutes later, Shirone and his group had replaced all their parts with the Grim Reaper series.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "This… is really good.",
+      "tone": "impressed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The design concept was a tropical black wasp, with a sleek body, narrow waist, and functional legs.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "The output was on another level, with a durability of 7,000, and the weapon was a beam-type energy bullet.",
+      "tone": "analyzing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Strongest Codename",
+      "content": "Haha! Now you see why it's a masterpiece? Up to level 60, this is the Grim Reaper. No one can touch you.",
+      "tone": "laughing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Death Princess",
+      "content": "Even with the same energy bullets, the beam type consumes quickly. I'll keep replenishing. Let's go to the hunting ground.",
+      "tone": "planning"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Just then, Destroyer707 received a communication.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Request for support. Hostile activity in Destroy-02. It's Chaos5MinutesBefore's group.",
+      "tone": "reporting"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Got it. Wait for us.",
+      "tone": "responding"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Destroy-02 was a vast hunting ground with an average creature level of 47.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Destroyer707",
+      "content": "Those guys are party hunting.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Calculating the hunting ground's efficiency, he smiled at Shirone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Shall we test the performance?",
+      "tone": "suggesting"
+    }
+  ],
+  "source_hash": "7bd12264225316d0a1dc5f8761ac80d52640bbb966ea6b66ec6f75d7906447ce",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T09:00:46.376535+00:00"
+}

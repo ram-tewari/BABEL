@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\ruamel\yaml\comments.py
+# hypothesis_version: 6.148.8
+
+['#', '# ', ')', ',\n  end=', ', ', '.', 'C_POST', 'C_PRE', 'CommentedKeySeq', 'CommentedMap', 'CommentedOrderedMap', 'CommentedSeq', 'CommentedSet', 'TaggedScalar', '_flow_style', '_items', '_lst', '_mapping', '_od', '_ok', '_post', '_pre', '_ref', '_yaml_comment', '_yaml_format', '_yaml_line_col', '_yaml_merge', 'ca', 'comment', 'comment_attrib', 'merge_attrib', 'odict', 'ordereddict(', '{', '}']

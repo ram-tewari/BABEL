@@ -1,0 +1,677 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "Eliza's sneer froze."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olina",
+      "content": "Your Majesty, I don't know what happened that day. All I could see was the knife stuck in my blood-soaked son's stomach. I couldn't think of anything else, and I ended up committing an unforgivable rudeness to you."
+    },
+    {
+      "type": "action",
+      "content": "Eliza gripped the armrest of her chair tightly."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eliza",
+      "content": "Hmph! How shameless! Well, commoners might think you're right! All they have are their emotions! But I think differently! You almost turned your son into a parricide!",
+      "tone": "scornful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olina",
+      "content": "If it's something Shirone chose, I have to accept it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eliza",
+      "content": "Accept it? That's a very convenient way of thinking. No, it's cowardly. Shirone tried to kill me. Are you saying I don't even have the right to criticize him?",
+      "tone": "disbelieving"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olina",
+      "content": "Parents don't have that right."
+    },
+    {
+      "type": "action",
+      "content": "Eliza ground her teeth and stood up."
+    },
+    {
+      "type": "narrator",
+      "content": "She looked ready to order an execution."
+    },
+    {
+      "type": "action",
+      "content": "Olina continued speaking, her gaze lowered."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olina",
+      "content": "Parents only have the years to teach their children not to do such things."
+    },
+    {
+      "type": "narrator",
+      "content": "Eliza's mind went blank."
+    },
+    {
+      "type": "action",
+      "content": "She wanted to think of something, but her thoughts were as white as a blank sheet of paper."
+    },
+    {
+      "type": "action",
+      "content": "She sank back into her chair."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olina",
+      "content": "Your Majesty, I have been by Shirone's side for 18 years. So now, no matter what my son does, it's all my fault. Please punish me."
+    },
+    {
+      "type": "narrator",
+      "content": "Parents don't have the right to reject their children's decisions."
+    },
+    {
+      "type": "narrator",
+      "content": "But they are given countless years to ensure such decisions are never made."
+    },
+    {
+      "type": "action",
+      "content": "Tears welled up in Eliza's eyes."
+    },
+    {
+      "type": "narrator",
+      "content": "She didn't have that."
+    },
+    {
+      "type": "narrator",
+      "content": "The moment she abandoned her child, that precious time disappeared as well."
+    },
+    {
+      "type": "action",
+      "content": "The silence of the Grand Hall was broken."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Guard",
+      "content": "Your Majesty, Shirone requests an audience."
+    },
+    {
+      "type": "action",
+      "content": "Olina turned to the door in surprise."
+    },
+    {
+      "type": "narrator",
+      "content": "Orkamp had also heard that they didn't know when Shirone would regain consciousness."
+    },
+    {
+      "type": "action",
+      "content": "After a moment of thought, he gave a solemn order."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Orkamp",
+      "content": "Let him in."
+    },
+    {
+      "type": "action",
+      "content": "Shirone, looking haggard, walked in along the red carpet."
+    },
+    {
+      "type": "action",
+      "content": "Behind him were Amy, Reina, and Vincent."
+    },
+    {
+      "type": "action",
+      "content": "Vincent sighed in relief upon seeing Olina unharmed."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Orkamp",
+      "content": "So, what is it? You don't look well. If it's not urgent, we can talk after you've rested."
+    },
+    {
+      "type": "action",
+      "content": "Shirone hesitated to speak."
+    },
+    {
+      "type": "narrator",
+      "content": "Having rushed here as soon as he regained consciousness, he didn't think he could raise his voice much."
+    },
+    {
+      "type": "action",
+      "content": "He approached Orkamp as closely as possible and spoke bluntly."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I will leave the castle immediately."
+    },
+    {
+      "type": "action",
+      "content": "Amy, Reina, and his parents turned their heads in shock."
+    },
+    {
+      "type": "narrator",
+      "content": "Even when he insisted on meeting Orkamp as soon as he woke up, they hadn't expected him to announce his departure so quickly."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I realized something while I was here. From this moment on, aside from my parents who are with me, I have no other parents."
+    },
+    {
+      "type": "narrator",
+      "content": "It was a vow Shirone made for life, a declaration to sever all ties with Kazra."
+    },
+    {
+      "type": "action",
+      "content": "Orkamp, deep in thought, finally spoke."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Orkamp",
+      "content": "I permit it."
+    },
+    {
+      "type": "action",
+      "content": "This time, everyone's eyes turned to Orkamp."
+    },
+    {
+      "type": "narrator",
+      "content": "But he showed no particular emotion, as if he had already prepared for this."
+    },
+    {
+      "type": "action",
+      "content": "He simply met Shirone's gaze calmly."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Reina, please prepare the carriage. I'll go back to my room and pack."
+    },
+    {
+      "type": "action",
+      "content": "Shirone didn't look back once as he left the Grand Hall."
+    },
+    {
+      "type": "narrator",
+      "content": "It was clear how much he detested the place."
+    },
+    {
+      "type": "action",
+      "content": "Reina glanced at Eliza."
+    },
+    {
+      "type": "narrator",
+      "content": "With Orkamp's permission, she hoped to quietly resolve Olina's matter as well."
+    },
+    {
+      "type": "action",
+      "content": "As she turned to leave with the group, Eliza's cold voice stopped her."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eliza",
+      "content": "Where do you think you're going? We still have unresolved matters.",
+      "tone": "cold"
+    },
+    {
+      "type": "action",
+      "content": "Olina frowned and turned around."
+    },
+    {
+      "type": "narrator",
+      "content": "Her heart was pounding, but she didn't want to show any weakness now."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eliza",
+      "content": "The reason I called you is that I haven't decided on your punishment. I thought about executing you, but that wouldn't satisfy me. At first, I considered blinding you or cutting out your tongue."
+    },
+    {
+      "type": "action",
+      "content": "Vincent's face turned red with anger."
+    },
+    {
+      "type": "narrator",
+      "content": "If they did such a thing, he was ready to escape with Olina, even if it meant dying here."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eliza",
+      "content": "But that didn't satisfy me either. So I thought about it and came up with the perfect punishment. And that is..."
+    },
+    {
+      "type": "action",
+      "content": "Everyone held their breath, waiting for her to continue."
+    },
+    {
+      "type": "action",
+      "content": "Eliza, observing their reactions with sleepy eyes, finally spoke."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eliza",
+      "content": "Just letting you go."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "...What?",
+      "tone": "confused"
+    },
+    {
+      "type": "narrator",
+      "content": "The others were equally puzzled."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eliza",
+      "content": "If I harmed you, Shirone would always look to you. That bothered me. So I'm letting you go. I want you to live your life constantly comparing yourself to me, the queen, and feeling envy and jealousy until your dying breath."
+    },
+    {
+      "type": "action",
+      "content": "Everyone was speechless."
+    },
+    {
+      "type": "narrator",
+      "content": "It was a vicious way of thinking, regardless of the severity of the punishment."
+    },
+    {
+      "type": "action",
+      "content": "Eliza, who had been radiating murderous intent, soon looked exhausted and rummaged through her clothes."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eliza",
+      "content": "But just in case, though it's unlikely, if you managed to convince me, I thought I should give you this. And... you won."
+    },
+    {
+      "type": "action",
+      "content": "A crumpled piece of paper rolled from Eliza's hand to the floor."
+    },
+    {
+      "type": "action",
+      "content": "Olina picked it up and slowly unfolded it."
+    },
+    {
+      "type": "narrator",
+      "content": "It was the official document with the results of Orkamp and Shirone's paternity test."
+    },
+    {
+      "type": "narrator",
+      "content": "Having taught Shirone to read, she could understand most of it, except for some difficult terms."
+    },
+    {
+      "type": "action",
+      "content": "She quickly skimmed through the complex experimental details and focused on the most important result."
+    },
+    {
+      "type": "action",
+      "content": "Everyone's eyes were on the document, unable to wait any longer."
+    },
+    {
+      "type": "narrator",
+      "content": "The blood samples of Client 1 and Client 2 were dissolved in oxytamine and kept in a vacuum state for three days. No changes in color, concentration, or sediment were observed. Therefore, based on the negative oxytamine reaction, it is concluded that Client 1 (Orkamp) and Client 2 (Shirone) are not biologically related."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olina",
+      "content": "Oh my...",
+      "tone": "shocked"
+    },
+    {
+      "type": "narrator",
+      "content": "Orkamp and Shirone were not father and son. Biologically, they were complete strangers."
+    },
+    {
+      "type": "action",
+      "content": "Amy looked at Orkamp."
+    },
+    {
+      "type": "narrator",
+      "content": "She finally understood why he had been so indifferent earlier."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "How is this possible?",
+      "tone": "disbelieving"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eliza",
+      "content": "I don't know. And I don't need to. There's a zero percent chance of tampering, so don't worry. Anyway, he's not my son, so take the document. You might need it."
+    },
+    {
+      "type": "action",
+      "content": "Eliza added."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eliza",
+      "content": "Shirone doesn't know yet. Whether you tell him the truth or not is up to you. Considering your rudeness two days ago, I would prefer to remain Shirone's real mother forever, but I'll forgive you this time, thinking you did what I should have done."
+    },
+    {
+      "type": "action",
+      "content": "Olina looked up in surprise."
+    },
+    {
+      "type": "narrator",
+      "content": "Maybe it was her imagination, but it seemed like Eliza smiled for a moment."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eliza",
+      "content": "Go back now. Shirone is your son."
+    },
+    {
+      "type": "action",
+      "content": "The scene shifts to the third basement floor of Kazra Castle."
+    },
+    {
+      "type": "narrator",
+      "content": "This dungeon was where many political prisoners were taken during times of internal turmoil."
+    },
+    {
+      "type": "narrator",
+      "content": "They hadn't seen sunlight for decades and likely never would."
+    },
+    {
+      "type": "narrator",
+      "content": "Some nobles married their torturers."
+    },
+    {
+      "type": "narrator",
+      "content": "Gender didn't matter."
+    },
+    {
+      "type": "narrator",
+      "content": "It was a love that transcended the barriers of sex, a pure union between living beings, at least in their minds."
+    },
+    {
+      "type": "narrator",
+      "content": "What did it matter?"
+    },
+    {
+      "type": "narrator",
+      "content": "To them, the end of the world was the walls of the dungeon."
+    },
+    {
+      "type": "narrator",
+      "content": "And this place was a completely isolated society from the human world."
+    },
+    {
+      "type": "action",
+      "content": "Uorin walked on the dirt floor, filled with the smell of pus."
+    },
+    {
+      "type": "action",
+      "content": "Numerous underground creatures scattered as she walked."
+    },
+    {
+      "type": "narrator",
+      "content": "They were the daily food for the isolated prisoners."
+    },
+    {
+      "type": "sfx",
+      "content": "Uuuuh. Uuuuh."
+    },
+    {
+      "type": "action",
+      "content": "Strange sounds leaked from the doors installed in the walls."
+    },
+    {
+      "type": "narrator",
+      "content": "It sounded like pain, but also like pleasure."
+    },
+    {
+      "type": "narrator",
+      "content": "It sounded like crying, but somehow, it felt like they were laughing."
+    },
+    {
+      "type": "narrator",
+      "content": "The Kingdom of Kazra had neglected this place for five years."
+    },
+    {
+      "type": "narrator",
+      "content": "Now, they were useless lives, but someone might have endured the torture and held dangerous information, waiting for the right moment."
+    },
+    {
+      "type": "narrator",
+      "content": "There was no need to bring them to the surface and create trouble."
+    },
+    {
+      "type": "narrator",
+      "content": "It was best to let them rot away forever."
+    },
+    {
+      "type": "action",
+      "content": "Uorin recalled a novel her predecessor had read 80 years ago."
+    },
+    {
+      "type": "narrator",
+      "content": "The protagonist was a child born in a dungeon that had been neglected for 70 years."
+    },
+    {
+      "type": "narrator",
+      "content": "The novel depicted the dungeon as an ant society."
+    },
+    {
+      "type": "narrator",
+      "content": "Women were valued for giving birth, and male children were used as food or became slaves for life."
+    },
+    {
+      "type": "narrator",
+      "content": "The protagonist was born as Food 141."
+    },
+    {
+      "type": "narrator",
+      "content": "But with the help of the oldest man in the dungeon, he became a slave."
+    },
+    {
+      "type": "narrator",
+      "content": "The old man was a top noble 70 years ago, the only one who knew the outside world."
+    },
+    {
+      "type": "narrator",
+      "content": "Knowing his life was short, he passed all his knowledge to the protagonist."
+    },
+    {
+      "type": "narrator",
+      "content": "When the protagonist turned fifteen, a rebellion broke out in the kingdom."
+    },
+    {
+      "type": "narrator",
+      "content": "The dungeon was opened for the first time in 85 years, and the protagonist escaped to the outside world, quelled the rebellion, and became king."
+    },
+    {
+      "type": "action",
+      "content": "Uorin smiled."
+    },
+    {
+      "type": "narrator",
+      "content": "A novel is just a novel, but who knows? Maybe Zion would experience such a miracle and escape this place."
+    },
+    {
+      "type": "action",
+      "content": "When Uorin found Zion in the food storage, he was barely alive, relying on Armand's recovery program."
+    },
+    {
+      "type": "narrator",
+      "content": "He would have died if left alone."
+    },
+    {
+      "type": "narrator",
+      "content": "And perhaps, that would have been happier for him."
+    },
+    {
+      "type": "narrator",
+      "content": "Zion wouldn't know who saved him."
+    },
+    {
+      "type": "narrator",
+      "content": "Who ordered the torture as soon as he regained consciousness."
+    },
+    {
+      "type": "narrator",
+      "content": "Who threw him into the dungeon after he confessed what happened in Shirone's mind."
+    },
+    {
+      "type": "action",
+      "content": "Zion sat in a makeshift wooden cell."
+    },
+    {
+      "type": "narrator",
+      "content": "He knew how miserable the dungeon was."
+    },
+    {
+      "type": "action",
+      "content": "His eyes were swollen from crying all night, and he looked dazed, like someone who had lost his mind."
+    },
+    {
+      "type": "action",
+      "content": "Hearing footsteps, he instinctively curled up."
+    },
+    {
+      "type": "action",
+      "content": "But when he saw Uorin's face in the dim torchlight, he brightened and clung to the bars."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "Uorin! Here, here! Get me out! Where have you been? Some weird guys tortured me and threw me in here!",
+      "tone": "whining"
+    },
+    {
+      "type": "narrator",
+      "content": "Despite Zion's whining like a child asking for milk, Uorin felt no maternal affection."
+    },
+    {
+      "type": "narrator",
+      "content": "Her son's abilities didn't manifest in him."
+    },
+    {
+      "type": "narrator",
+      "content": "To her, a self-replicating being, her son was just an empty shell resembling her in appearance."
+    },
+    {
+      "type": "action",
+      "content": "Zion's face was a mess from the torture."
+    },
+    {
+      "type": "action",
+      "content": "The places where he had been hit were covered in scabs, and his eyes were bruised."
+    },
+    {
+      "type": "action",
+      "content": "His ribs were broken and wrapped in bandages."
+    },
+    {
+      "type": "narrator",
+      "content": "Despite his difficulty moving, his frantic behavior showed how terrifying the dungeon was."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "You look terrible. How did you end up like this, brother?"
+    },
+    {
+      "type": "action",
+      "content": "Zion's eyes lit up when he saw the sword Uorin was carrying."
+    },
+    {
+      "type": "narrator",
+      "content": "Even though it was sheathed, the hilt was unmistakably that of the Armand."
+    },
+    {
+      "type": "narrator",
+      "content": "It was clear she had brought it to help him escape."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "Damn it! I won't let that bastard get away with this. Shirone is still in the castle, right? No matter, I'll find him and kill him.",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "content": "Zion reached out through the bars to grab Armand."
+    },
+    {
+      "type": "action",
+      "content": "Uorin took a step back."
+    },
+    {
+      "type": "action",
+      "content": "When Zion looked at her in confusion, she smiled and showed him the prison key."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "What? I've already been released? You should have told me sooner?",
+      "tone": "surprised"
+    },
+    {
+      "type": "action",
+      "content": "As soon as the lock was opened, Zion eagerly pushed the door and stepped out of the cell."
+    },
+    {
+      "type": "action",
+      "content": "At the same time, Uorin grabbed his neck and shoved him back inside."
+    },
+    {
+      "type": "sfx",
+      "content": "Ugh...!"
+    },
+    {
+      "type": "action",
+      "content": "Zion slumped to the ground, his head hitting the wall."
+    },
+    {
+      "type": "action",
+      "content": "Uorin leaned in, still holding his neck."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Do you still not understand the situation, you pathetic human?",
+      "tone": "condescending"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "U-Uorin...! Why are you doing this...!",
+      "tone": "fearful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Do you know why I didn't kill you?"
+    },
+    {
+      "type": "narrator",
+      "content": "Zion was one of the few who had reached the first level of Shirone's deep mind."
+    },
+    {
+      "type": "narrator",
+      "content": "He had already revealed much, but he might still be useful someday."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "You must not reveal anything you have seen, heard, or experienced. If you even think of something, I will destroy your brain. If you try to do anything, I will destroy your limbs.",
+      "tone": "threatening"
+    },
+    {
+      "type": "narrator",
+      "content": "Zion realized from Uorin's cold tone that it was like hearing his mother's icy voice."
+    }
+  ],
+  "source_hash": "aad2ddf1f04b294366a994dd835fd5f446e384afd802aead495fe8aae69d9401",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T03:59:40.827131Z"
+}

@@ -1,0 +1,475 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "This time, it was Klump's turn to be surprised.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Klump",
+      "content": "His friend always had a way with people.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "They say foresight comes with mastery of magic.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Klump",
+      "content": "Nothing like that. We had a brief encounter. Though it was memorable.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheas recounted his meeting with the 12-year-old Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Klump then shared how Shirone had later joined the Ozent household.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Arian Shirone.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheas fell silent again.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Alpheas",
+      "content": "Why not accept him? This might be fate.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Klump",
+      "content": "Fate is just wordplay. Humans carve their own futures. Call anything fate if you try hard enough.",
+      "tone": "skeptical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Another dead end.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Klump",
+      "content": "But it also pained him. To see his friend hesitate over recognizing talent—he could guess the turmoil in his heart.",
+      "tone": "empathetic"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Klump",
+      "content": "Have you still not forgiven yourself?",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheas said nothing.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Klump",
+      "content": "You bent neither to noble politics nor to pressure, keeping the special admissions open for this very reason, didn't you? You've done enough. You've nurtured countless talents. It's time to forgive yourself.",
+      "tone": "encouraging"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Heh, forgiving oneself is arrogance. I'm the one who threw divine-given talent into the trash. Forgiveness isn't the goal. I just don't want another like me.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Klump",
+      "content": "Kukuk. True, you were insufferable even to me back then. The pride of the Mirhi family, a once-in-a-century genius, now a doddering old headmaster. How fleeting life is.",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With age, pain became like a child to cherish.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even Klump's harsh words couldn't dampen Alpheas's mood.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Heh! Meanwhile, you—blessed by the heavens. That talentless fool becoming a third-rank swordsman. Makes one worry for Torumia's future.",
+      "tone": "teasing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The two laughed heartily.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In the battle between talent and effort, Klump had won.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheas admired and respected his friend for it.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "In my old age, I've realized something. Genius is but an illusion. Just being slightly better at something. Can that boy truly comfort me?",
+      "tone": "reflective"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Klump",
+      "content": "You'd know better than I, wouldn't you?",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheas chuckled and walked to the window.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "So it had come to this. The talent he'd once sent away due to status barriers had circled back after five years.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Alpheas",
+      "content": "He believed fate didn't exist. Humans alone could carve their futures.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But Alpheas shuddered.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Alpheas",
+      "content": "Could it truly be... fate?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "I'll enroll Shirone.",
+      "tone": "determined"
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "***",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Spring arrived.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Flowers bloomed lushly in Vincent's cottage garden.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Six months had passed since Shirone's magic school admission was confirmed, and he spent them happily with his parents.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Since he'd be dorming at school, he wanted to do as much as possible with his family.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He accompanied his father to chop wood and returned home to enjoy delicious dinners prepared by his mother, sharing stories all the while.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Vincent told no one of Shirone's success.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Though he itched to boast to friends who had subtly looked down on his frail son, he didn't want to make enemies and trouble Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone was grateful.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His father had even refused the Ozent family's offer to secure a house in the city, solely to avoid burdening his son.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The happy days flew by, and the day finally came for Shirone to leave for magic school.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As sub-butler Temuran waited outside with a carriage, Shirone bid his parents farewell.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Father, I'll be back. I'll write often.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vincent",
+      "content": "Go, my son! Work hard! Now, a kiss!",
+      "tone": "loving"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Vincent puckered his lips, and Shirone's smile froze.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Father, I'm a bit too old for that now.",
+      "tone": "embarrassed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vincent",
+      "content": "Come on! Or I'll do it!",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ugh.",
+      "tone": "exasperated"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Vincent leaned in with his thick lips, Shirone flinched.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But instead of his lips, Vincent planted a firm kiss on his forehead and hugged him tightly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vincent",
+      "content": "Shirone, I'm proud of you.",
+      "tone": "proud"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In his father's embrace, Shirone felt the last traces of anxiety melt away.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'll be back.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With his usual farewell, he stepped out, where Temuran waited by the stables.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Let's go. I've been ordered to take you to school.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Temuran",
+      "content": "Yes, thank you.",
+      "tone": "polite"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The two were silent during the ride.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Their positions had reversed in just two years, making the atmosphere awkward.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But Shirone hadn't forgotten.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Despite head butler Louis's interference, Temuran had stood by him.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At the magic school's gates, Temuran respectfully saw Shirone off.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nobles frequented the place, so appearances mattered.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Temuran",
+      "content": "Tuition and material costs will be paid through me. Don't worry about finances—just focus on your studies.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Shirone bowed equally to Temuran.",
+      "tone": "respectful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Sub-butler, thank you truly.",
+      "tone": "grateful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Temuran",
+      "content": "I only did my duty.",
+      "tone": "modest"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "But I haven't properly thanked you yet. Because of your kindness, I could enter magic school. I won't forget this debt.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Temuran paused, then spoke.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Temuran",
+      "content": "No matter how high a commoner climbs, they remain commoners. They can't surpass nobles.",
+      "tone": "realistic"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone looked up as Temuran's eyes sharpened.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Temuran",
+      "content": "But such opportunities are rare. Many nobles will look down on you. Endure it. If you can endure to the end, there will be an end.",
+      "tone": "advising"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was advice befitting Temuran, an orphan who had risen to sub-butler.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Truth lay in simplicity.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Endure to the end, and there will be an end.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Thank you. I'll definitely become a mage.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Temuran smiled.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was the first time Shirone had seen him do so in two years.",
+      "tone": null
+    }
+  ],
+  "source_hash": "a8f48e83c5fcd646f9724830a5e0f90acec45bb24e8c4634ee0f8310b70f871c",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-10T10:22:31.781394"
+}

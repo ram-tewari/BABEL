@@ -1,0 +1,757 @@
+{
+  "blocks": [
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The Spirit Zone was an extremely sensitive mental state. Even the slightest loss of focus made it impossible to maintain.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Eventually, the students in the rear group failed to harness the omnipotence of teleportation and began to plummet.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": null,
+      "content": "Aaaaah!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": null,
+      "content": "S-save us! Please save us!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": null,
+      "content": "Wahahahaha!",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The seniors watching from the other side burst into laughter. Having already experienced the uncrossable bridge themselves, they found the floundering juniors utterly adorable.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The teachers, too, smiled as they meticulously recorded the evaluations of the eliminated students in their documents.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But the festive atmosphere was shattered in an instant.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Almost simultaneously, the teachers looked up with startled expressions. There should have been plenty of time left before the air net activated, yet the siren hadn't sounded.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": null,
+      "content": "What's going on! What happened! The control room!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": null,
+      "content": "I'll check it out!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sard activated spatial teleportation. A flash of light shot into the sky as he curved toward the control room.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": null,
+      "content": "I'll save the students first!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Siena dove off the cliff, performing teleportation at a terrifying speed.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Etella, who had been watching from the other side, also sensed something was wrong and leaped down.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": null,
+      "content": "Headmaster, what should we do? Should we halt the exam?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Alpheus let out a sigh. With two officially recognized 6th-class mages on the scene, the students would likely be safe.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "However, whether to continue the exam was another matter entirely.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "From the school's perspective, canceling the exam would be the easier option.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But doing so would unfairly disadvantage the students who had fought tooth and nail to maintain their lead.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "As long as safety was guaranteed, it was better to respect the participants' determination.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": null,
+      "content": "Let's observe for now. We can protect about 20 students easily enough. Ending it here would be a disservice to their passion, wouldn't it?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "From the abyss, Siena and Etella surged upward simultaneously, followed by the students trapped in the air net magic.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "What's happening? Something must have gone wrong.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The other students buzzed with confusion over the unexpected situation.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But Amy remained unfazed.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was unthinkable for a fatal accident to occur under the watch of a 6th-class teacher.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Moreover, the leading students showed no signs of panic.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "She would have done the same.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "With Class Five on the line, who cared about safety?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In contrast, chaos erupted among the middle-ranked group.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Seeing the teachers leap down to rescue students, they realized something was wrong.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": null,
+      "content": "The safety measures are off?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Until now, they had endured the fear because no matter how realistic the test was, it wasn't real.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But now, they were truly floating over a thousand-foot abyss.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": null,
+      "content": "Aaaaah! No!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": null,
+      "content": "Teacher! Save me! I forfeit the exam!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": null,
+      "content": "Are we going to die here?!",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The middle-ranked group began falling one after another.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "A surreal scene unfolded as teachers flashed like beams of light, rescuing the students.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Amidst this, the leading group's charge never wavered.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "They, too, knew the safety measures had failed, but they cheered instead.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": null,
+      "content": "This is our chance! The more who fail, the better.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "These were children who had been called geniuses unparalleled in the world before enrolling in the magic school.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Their competitive spirits were on a completely different level from ordinary kids.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The leading group had already advanced 270 meters—an impressive feat for Class Seven.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone still held first place.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Mark and his team alternated overtaking him, but he always reclaimed his position in the next turn.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He had chained 27 teleportations, each leap covering exactly 10 meters without the slightest error.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Focus only on the present moment. Forget the concept of chaining.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The mechanical routine Shirone had refined for this test was paying off.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Under certain conditions, humans could achieve precision surpassing machines—thanks to the unconscious drive of repetition compulsion.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Those who harnessed compulsion were terrifying.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Once they resolved to do something, they would break through barriers like machines.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Mark",
+      "content": "Damn it! He's relentless! What are the others even doing?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone's unyielding lead left no opening for his team to interfere.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Glancing sideways with a sharp glare, he locked eyes with a female teammate, who flinched.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "His silent pressure conveyed the message: it was time for the last resort.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The method was mutual destruction.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": null,
+      "content": "No. There's no choice. If I die here or live a failed life, it's the same either way.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "She pushed her concentration to its limit.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "By abandoning the goal of completing the test and focusing solely on teleportation, she could briefly take the lead.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Chaining high-speed teleportations, she cut in front of Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Simultaneously, another teammate blocked his left path.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "With his front and side blocked, she slowed down, forcing Shirone to reduce his leap distance.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": null,
+      "content": "Sorry. We've got to survive too.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A male teammate closed his eyes tightly and teleported toward Shirone.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If they collided, fatal injuries were inevitable.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": null,
+      "content": "Ugh!",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "A groan of fear escaped him, but the expected impact never came.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Opening his eyes, he saw Shirone still beside him.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": null,
+      "content": "He changed direction.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Avoiding the collision was better than mutual destruction, but the loss in distance meant victory was now out of reach.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The female and male teammates exchanged satisfied looks as they fell, and Mark seized Shirone's lead.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Damn it…!",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The disruption broke Shirone's repetition compulsion.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Gritting his teeth, he focused to regain his teleportation tempo.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": null,
+      "content": "Didn't their movements seem off just now?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": null,
+      "content": "I thought so too. Maybe they got tangled up pushing too hard? They wouldn't actually try to crash, right?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Melkoadin Iluki",
+      "content": "No, they did it on purpose.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The Class Five students turned to look.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The owner of the steely, thin voice was Melkoadin Iluki of Class Five.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Previously, he had given Shirone advice in the Image Zone.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "His gaunt frame, mismatched eyes, and uneven teeth made him stand out.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": null,
+      "content": "How can you be so sure? Without confirmation from the parties involved, it's just speculation.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Melkoadin Iluki",
+      "content": "One blocked the path while the other struck from the side. A brilliant strategy to simultaneously seal teleportation's instantaneity and spatial leap.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If Shirone had dodged, the match would've ended there.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Melkoadin Iluki",
+      "content": "Though, if it were me, I'd have calculated the motion equations and slipped through at the last second.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "His classmates turned back to the test site.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": null,
+      "content": "What a show-off.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Meanwhile, Shirone, now trailing Mark, grew increasingly anxious.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The remaining distance was 350 meters.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "By the halfway point, all participants except Shirone and Mark had been eliminated.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Mark",
+      "content": "I've won! I've won!",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The moment Mark felt certain of victory, a thrill ran through him.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "No one stood in his way, and despite nearly 40 teleportations, he felt no fatigue.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Mark",
+      "content": "Today, I'm different. I'm the one who'll pass!",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Images flashed through his mind: the fast-track promotion to Class Five, the envious faces of his peers, the humiliation of the Class Six seniors.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mark",
+      "content": "Hahaha! I'm first!",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Mark accelerated his teleportation tempo, widening the gap with Shirone.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": null,
+      "content": "Then…",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone's rhythm suddenly quickened.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The sonic booms of his teleportations echoed like drumbeats.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The students' excitement peaked.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": null,
+      "content": "Shirone's catching up! This is the climax!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": null,
+      "content": "Mark! Faster! Faster, faster, faster!",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Then, a strange change occurred in Mark's vision.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The rails of the uncrossable bridge bent geometrically, rushing toward him at incredible speed.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even a graze would mean broken bones at minimum, and losing balance would guarantee a fall.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "Warning. Warning. Activating the uncrossable bridge's mechanism. Level 10. Level 10.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The advanced-class students panicked.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": null,
+      "content": "Level 10?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The highest difficulty of the uncrossable bridge.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even the top classes of the advanced division had never seen the rails bend in such a terrifying manner.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": null,
+      "content": "What's going on! Why is the mechanism activating suddenly?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The teachers were in disarray.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Not only were the safety measures off, but the highest-level traps had been triggered.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": null,
+      "content": "What's Sard doing! He went to the control room!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": null,
+      "content": "Headmaster, what should we do? The promotion exam…",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Alpheus clicked his tongue as he watched the bent rails bear down on Shirone and Mark.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He wanted to respect the students' resolve, knowing how seriously they took the graduation exam, but Level 10 of the uncrossable bridge changed everything.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Alpheus",
+      "content": "There's no discrimination at this level. Those kids' class can't possibly pass.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "Cancel the exam and deactivate the mechanism.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As his words faded, a streak of light shot into the sky above the test site.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was Siena, heading to the control room to find Sard.",
+      "tone": null
+    }
+  ],
+  "source_hash": "b86e4cbca7661d6132e9e44ff0c77cd8617251a7104c5d882c16e34e3b39d507",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T06:26:32.600075+00:00"
+}

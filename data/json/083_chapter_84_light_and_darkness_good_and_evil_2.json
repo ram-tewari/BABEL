@@ -1,0 +1,889 @@
+{
+  "blocks": [
+    {
+      "type": "thought",
+      "speaker": "Canis",
+      "content": "My heart rate has increased by 1.7 times. Rising adrenaline levels cloud my judgment. If you're angry because of what I said, I apologize.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The consideration of the magical creature to prevent a loss in combat power calmed Canis's heart.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As long as the cold and composed Harvest was by his side, he was confident he wouldn't lose to anyone.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "=======================================",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Canis erased his distracting thoughts and glared at Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The latter's flawless appearance, as if he had never experienced hardship, made Canis's insides twist.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "Hmph. You probably think I'm the villain. But…….",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dark power blossomed from Canis's shadow.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even as it was chipped away by the illumination magic, its regeneration speed was astonishing.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "To me, you are the evil one!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the dark power surged forward, Shirone cleansed the ground with photon output.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then, he threw the photon cannon mounted on his right hand.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Harvest intercepted it, taking the hit with his body.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The photon cannon dug into his torso, sending his massive frame flying into the forest.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But instead of showing any sign of impact, Harvest wiggled his long fingers, taunting Shirone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Harvest",
+      "content": "Kukuku. Come on, come on.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Though the forest was a home ground for a dark mage, Shirone charged in without hesitation.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dozens of photons rained down from above, crisscrossing left and right.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Ratatatatat! Ratatatatat!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A hundred illumination bullets pierced through the forest canopy, lighting up the sky as if it were broad daylight.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "That guy's really gone all out.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "He must know what he's doing. If Shirone can't stop him, we'll lose this game.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Iruki slowly turned his gaze.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lucas was following Shirone into the forest.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Spotting gray smoke rising in front of him, Lucas swiftly dodged as an atomic bomb exploded with a bang.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Retreating 10 meters in an instant, he glared at Iruki with terrifying eyes.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucas",
+      "content": "You bastard…….",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Don't waste your energy. We're thinking the same thing you are. Just stay put.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucas",
+      "content": "This is absurd.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "No matter how reckless, a magic academy student daring to face a B-class criminal was unthinkable.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Lucas drew his twin swords, a watery sound echoed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The aura transmitted through his Spirit Zone was like burning firewood, creating a heat haze.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The potential for physical enhancement through Schema was limitless, but most used verified builds to avoid severe side effects from imbalance.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "An unbalanced build could ruin the body. For example, over-enhancing the nervous system would cause muscles to tear as they couldn't keep up with the speed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucas",
+      "content": "This could be dangerous…….",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Iruki checked Nade's condition.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His cold gaze at Lucas reminded Iruki of a summer five years ago.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "On a day of pouring rain, the two had clashed.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "That Nade could still smile now was nothing short of a miracle.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He would likely never show his former face again—the face resembling the person he loved most in the world, which he now hated the most.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Be careful, Nade. That guy's a Schema user.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "I know. Let's overwhelm him with firepower early on.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucas",
+      "content": "Haah. Kids these days…….",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lucas scratched his head, his figure blurring.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Simultaneously, a golden flash erupted between Nade and Iruki.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A teleportation light flickered, and the two reappeared 10 meters away from Lucas.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Iruki checked his chest—his clothes were sliced open, and blood seeped from a cut.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "You okay?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Not a fatal wound. But he's really fast.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even if magic was transcendent, a mage's body was still human.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Without magical effects, their ability to react and counter a Schema swordsman's movements was inherently limited.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But the same applied to swordsmen. The power of magic couldn't be withstood by Schema alone.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even a student-level spell could be fatal if it landed cleanly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Damn! These kids are no joke!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lucas wasn't having an easy time either.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His stamina was dropping by the second due to the Mitochondria Build's nature.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Maximizing his metabolic rate, his speed skyrocketed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Circling a wide radius in an instant, he leaped from Iruki's flank and swung his twin swords.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nade, rushing from the opposite side, extended both hands.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "An electric shock spell struck Lucas's abdomen, vibrating his body 60 times per second.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Iruki! Now!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Iruki was already prepared.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Gray smoke rose from Lucas's face as he watched the detonation reaction unfold before his eyes.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lucas tried with all his might to move, but his muscles felt charred, unresponsive.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucas",
+      "content": "Damn it! Damn it!",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "To think he'd face death against mere brats.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "No, was he really about to die? The unexpected situation made it feel surreal.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Iruki was certain it was over.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The detonation reaction had already begun—it wasn't a hasty judgment.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But suddenly, the Spirit Zone vanished.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Before he could figure out why, his legs began to numb.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Someone else's shadow had connected to his feet—undoubtedly Arin's handiwork.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucas",
+      "content": "Damn it all!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lucas mustered every ounce of strength to break free from the electric vibrations.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He then lunged at Nade, who had humiliated him.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His anger, having brushed against death, peaked as his swords gleamed with raw emotion.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucas",
+      "content": "Nade! Run!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even while stunned, Nade generated electricity in both hands.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lucas spread his twin swords for a dual strike.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the blades tore through the wind, two thick ice pillars unexpectedly erupted on either side of Nade.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Clang!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The swords embedded themselves into the ice.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lucas's pupils shook in shock.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His swordsmanship could split boulders, yet mere ice had stopped him cold.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Slowly turning, Lucas saw a familiar face—the teacher he'd thrown off the cliff earlier.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucas",
+      "content": "Ms. Siena!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nade cheered, his face brightening.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But Siena remained silent, her emotionless eyes fixed solely on Lucas.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "***",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etella",
+      "content": "Haah. Haah.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Etella, leaning against a tree trunk, looked ready to collapse at any moment.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "She had been in a 30-minute chase, yet couldn't shake Arcane completely.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Etella",
+      "content": "The poison is spreading. I can't delay treatment any longer.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sitting down, Etella tore the waist of her robe.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Black blood oozed from a wound above her navel—a cut from the Poison Cutter.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Her breathing technique slowed the poison's spread, but it was only a temporary measure.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "She needed to suck out the venom, but the wound's location made it difficult.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Etella interlaced her fingers behind her back, gripping the tree trunk.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Bending forward, her spine creaked.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Stretching her spine with her erector muscles, her hips lifted off the ground as her back arched sharply.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Twisting her body into a spiral, her lips finally touched the wound below her navel.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She forced all the toxins to the wound and sucked them out.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The moment the poison left, a searing pain overwhelmed her.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Grimacing, she spat out the black blood, which withered the grass instantly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Color returned to her face as she threw her crooked glasses aside and wrapped the torn robe around her fist.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etella",
+      "content": "Hoo. I might live now.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Her fluctuating Spirit Zone regained durability, sensing the surroundings through synesthesia.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Her eyes widened as she kicked off the ground, dodging dozens of inky hands rising like spilled ink.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arcane",
+      "content": "You've removed the poison, I see. I like you more and more.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Arcane emerged through the dark curtain.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etella",
+      "content": "It won't be easy from now on.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arcane",
+      "content": "Ready to get serious? Then I'll enjoy this without holding back.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Etella clenched her fist, the Yin-Yang Wave Fist's energy surged.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Arcane immediately noticed her change—she had completely abandoned her Spirit Zone.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Mages wield the Spirit Zone; swordsmen use Schema. But monks train both simultaneously.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "A monk's purpose isn't to climb higher but to embrace the world with the broadest heart.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arcane",
+      "content": "A pity. With talent to stand at the world's peak, why choose enlightenment? Well, it's pointless to say this to someone who doesn't even aspire to climb.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Arcane extended his hand and chanted a spell.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Against a Schema user, he had a special countermeasure.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arcane",
+      "content": "Dark Minions.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Countless spiders, each the size of a human head, crawled from the forest shadows.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Sssssssssk!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The sight alone was enough to send shivers down one's spine.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A dark golem, over 3 meters tall, rose beside Arcane.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Its face was buried in its shoulders, its limbs swollen like wrapped yarn.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Its arms were long, its legs short.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arcane",
+      "content": "Go, my minions.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The dark spiders opened the assault.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Their numbers were so overwhelming it was impossible to track individual movements.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Etella jabbed, deflecting spiders in all directions.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A straight punch sent a cluster flying with a bang.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Grrraaaah!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amid the scattering spiders, the dark golem charged.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Etella leaped like a flying squirrel as its thick arm smashed the ground.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The earth rippled like water before exploding, rivaling the eruption spell in power.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Etella paled—the archmage's mental power, fully converted into physical force, was beyond imagination.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The golem, its hands planted on the ground, turned its head.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Swinging its arms like hammers, it attacked again.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Boom! Boom! Boom! Boom!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The relentless flurry of punches forced Etella into a desperate retreat.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The dark golem was the ultimate weapon—fast, flexible, and devastating.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Knowing she couldn't retreat forever, Etella finally planted her feet and faced the golem.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Grrraaaah!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Diving into the golem's embrace, Etella drove a fist into its side.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Wham!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The massive golem staggered.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The exchange sent a shockwave back to Arcane's mind.",
+      "tone": null
+    }
+  ],
+  "source_hash": "44415df7d3d3af81d1350b19d3f34181b069354c44a599b9bb88de3516916195",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T07:51:11.631718+00:00"
+}

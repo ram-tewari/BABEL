@@ -1,0 +1,1069 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was a shock that made all the users fighting in the Solar War stop.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "The Operator…",
+      "tone": "surprised"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's hand, which had pierced her chest, was sticking out of her back.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "An unmistakable fatal wound.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ugh.",
+      "tone": "painful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As he pulled his arm out, electricity flowed through the Operator's body as she staggered forward.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Gritting her teeth and lifting her head, her machine exploded with a pop.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "She's dead.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The effect was no different from any other user, but somehow it seemed more brilliant.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In the unprecedented event in High Gear history, users even felt fear.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "What should they do now?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As no one could provide direction, Shirone turned to the East Country and shouted.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Let's go!",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As if drawn by a magnet, East Country users cheered.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "East Country soldiers",
+      "content": "We defeated the Operator! She's not invincible! Now begins the era of the East Country!",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As East Country soldiers activated their turbos, the previously balanced front line pushed back 300 meters in an instant.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Yolga's son",
+      "content": "It\"s all about momentum.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Their excitement was at its peak, and they were eager to fight immediately.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aegis",
+      "content": "Should we control them? If they push too hard, there might be delays later.",
+      "tone": "cautious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aegis",
+      "content": "Leave them. We can't control this anyway.",
+      "tone": "resigned"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "They had marked a loss on the strongest machine in High Gear.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Conversely, creating this level of momentum is something only Yahweh2 could do.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Draw East Country forces to key strategic points. Just holding those will be beneficial.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aegis",
+      "content": "Understood.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Fermi looked at Little Witch.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Are you going to continue?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Little Witch",
+      "content": "Defeating the Operator in a duel, the condition is cleared. Does Yahweh2 have anything left?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "He does.",
+      "tone": "resigned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You know what kind of guy he is.",
+      "tone": "knowing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "If it was just about achieving results, he wouldn't have left any room for the Operator.",
+      "tone": "resigned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "He won't give up until he's satisfied. So we have to keep going.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Excellent after-service. Truly a big company.",
+      "tone": "sarcastic"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "…The customer is picky.",
+      "tone": "knowing"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "From Golden Wheel's perspective, Shirone was the most troublesome customer.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Haha, but you still want to catch him.",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Without answering, Fermi activated his booster and flew up.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Let's make it interesting. The East Country will win.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As he headed to the East Country's base, Little Witch also turned towards the Solar Palace.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Little Witch",
+      "content": "Hmm.",
+      "tone": "curious"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "She was curious about the Operator's face.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Operator's Meeting Room",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The Operator's death was shocking not only to users but also to the operators.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Smile Mark",
+      "content": "…She lost?",
+      "tone": "surprised"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Messages arriving individually to operators exploded on the shared channel.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Smile Mark",
+      "content": "Ugh! That scared me. What's going on?",
+      "tone": "alarmed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Candy Cane Mark",
+      "content": "The forum is going wild. Users are posting videos of the Operator's death.",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Checking the forum, they saw videos pouring in like a waterfall.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Candy Cane Mark",
+      "content": "Title: Operator Dead! The first post already has over 7,000 views.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gear Mark",
+      "content": "That shows how shocking it is. Honestly, I didn't think the Operator would lose either.",
+      "tone": "surprised"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gear Mark",
+      "content": "About that, Yahweh2's double jump through codes at the end is strange. It's like knowing the location of the second door before even opening the first.",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gear Mark",
+      "content": "Hmm, that's not something a guest can do.",
+      "tone": "knowing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gear Mark",
+      "content": "Right. Only the homeowner knows all the door locations. This is clearly a host's authority.",
+      "tone": "resigned"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The Operator is also a host. Even in a surprise situation, it shouldn't have been unpredictable.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gear Mark",
+      "content": "Looking at the logs, there's a moment of stiffness. After all, she's human. The problem is Yahweh2. His senses have risen to a level that can no longer be called personal.",
+      "tone": "analytical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The meeting room fell silent.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Black Circle Mark",
+      "content": "Look at this.",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Black Circle Mark opened a window.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Black Circle Mark",
+      "content": "This is Yahweh2's current movement.",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "What they saw was not an image but a rush of countless codes, making it even more shocking.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Smile Mark",
+      "content": "The code…",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gear Mark",
+      "content": "As Yahweh2's code changed, the entire code was changing in real-time.",
+      "tone": "analytical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gear Mark",
+      "content": "It had a strange texture, like a convex lens moving on the screen.",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Smile Mark",
+      "content": "How is this possible? Can one user change external codes at will?",
+      "tone": "surprised"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gear Mark",
+      "content": "He's not changing them.",
+      "tone": "resigned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gear Mark",
+      "content": "It's not artificial manipulation. The code is automatically redefined to match Yahweh2's changes.",
+      "tone": "analytical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Demon Mark",
+      "content": "Because it moves with the system, the balance doesn't break?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Candy Cane Mark",
+      "content": "Yes. Yahweh2's status isn't changing drastically. It's likely the system's limit to handle Yahweh2's vibrations.",
+      "tone": "knowing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Black Circle Mark",
+      "content": "Hmm, if it's not something you can understand with your head, then it's right to see it as perfectly assimilated. Like resonance, moving together.",
+      "tone": "resigned"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In the end, High Gear is safe. It's not an error. But the host's authority has already been surpassed, and the Operator lost in the inflation. So, what do we do now?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As silence continued, someone shrieked.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Someone",
+      "content": "Where on earth is Number Seven?",
+      "tone": "alarmed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Solar Palace",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ascension Guild, holding the primary defense authority, resurrects at the Solar Palace upon death.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After 20 minutes of rapid charging, Mid Gear opened, and the Operator slowly opened her eyes.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Everything looked unfamiliar.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "The Operator",
+      "content": "Even as she reached the solar furnace where Low Gear was, she didn't open the communication channel.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "The Operator",
+      "content": "I died.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Checking the satellite video, she saw East Country forces charging towards the Solar Palace.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "The Operator",
+      "content": "It's still okay.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "The Operator",
+      "content": "With the ebb and flow, it was normal to gradually approach the Solar Palace.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kneeling quietly before Low Gear, the Operator surveyed the battlefield.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "The Operator",
+      "content": "Nothing registered in her mind.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The Operator",
+      "content": "Hah!",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She stretched out her legs and lay flat on her back, having straightened her bent knees.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "The Operator",
+      "content": "What should I do?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "The Operator",
+      "content": "She had truly died.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "The Operator",
+      "content": "Leaving aside her promise with Yahweh2, she now had no world to escape to.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "The Operator",
+      "content": "This was everything.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "The Operator",
+      "content": "She had believed that dying even once would be the end, making High Gear her reality.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "The Operator",
+      "content": "But on the other hand…",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "The Operator",
+      "content": "What's changed?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "The Operator",
+      "content": "She saw herself, having revived perfectly, thinking about various things.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The Operator",
+      "content": "Haha! Hahaha!",
+      "tone": "amused"
+    },
+    {
+      "type": "thought",
+      "speaker": "The Operator",
+      "content": "It was ridiculous.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "The Operator",
+      "content": "Yeah, I know. I know too. There's no such thing as a real world anywhere.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "The Operator",
+      "content": "She was just…",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "The Operator",
+      "content": "Afraid to throw her heart into it.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The Operator",
+      "content": "Yahweh2.",
+      "tone": "longing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She watched Yahweh2 fighting the West Country's strong users through the satellite screen.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The Operator",
+      "content": "Huh? It's Tiger?",
+      "tone": "curious"
+    },
+    {
+      "type": "thought",
+      "speaker": "The Operator",
+      "content": "The third-ranked duelist in the West Country.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "The Operator",
+      "content": "A skilled user with a cobalt-blue machine and powerful claws.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "The Operator",
+      "content": "He's pretty good.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "The Operator",
+      "content": "I once invited him to our guild…",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "The Operator",
+      "content": "Recalling that time, a massive flash from Michelangelo struck Tiger directly.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "The Operator",
+      "content": "It was a bit lacking. Michelangelo's power seems to have dropped. Has he been fighting continuously?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "The Operator",
+      "content": "As expected, Tiger, with one arm blown off, charged at Yahweh2's back.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The Operator",
+      "content": "Oh, Air God.",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The air bullet from Air God, equipped on Shirone's left arm, struck Tiger.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "The Operator",
+      "content": "Ignoring durability. A great choice. But the base damage is fixed at 10.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "The Operator",
+      "content": "Even if hit by Michelangelo, it would take hundreds of shots to destroy one piece of armor.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "The Operator",
+      "content": "Reload. He'll never run out of bullets. Wasn't the motif someone named Gaold?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "The Operator",
+      "content": "It was a vivid dream.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Yahweh2 continued to accumulate damage on Tiger's armor while jumping through codes.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "The Operator",
+      "content": "That was annoying. Of course, it won't happen twice. I was just scared then.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tiger's machine exploded.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The Operator",
+      "content": "He's really good.",
+      "tone": "impressed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The Operator",
+      "content": "Though an enemy, Yahweh2's skill had improved so much that she couldn't help but praise him aloud.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The Operator",
+      "content": "No one can catch him. Except maybe me…",
+      "tone": "longing"
+    },
+    {
+      "type": "thought",
+      "speaker": "The Operator",
+      "content": "Her voice trailed off.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "The Operator",
+      "content": "I want to do it again.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "The Operator",
+      "content": "She wanted to smell the gunpowder with countless users in the world of High Gear.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The Operator",
+      "content": "One win, one loss.",
+      "tone": "resigned"
+    },
+    {
+      "type": "thought",
+      "speaker": "The Operator",
+      "content": "Ah, I see.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sitting up abruptly, the Operator smiled and opened the communication channel.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The Operator",
+      "content": "One win, one loss.",
+      "tone": "resigned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The Operator",
+      "content": "Hey! What are you doing with the communication off? Can't you see we're losing the Solar War? What should we do?",
+      "tone": "alarmed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The Operator",
+      "content": "Oh! The boss is back! Don't get discouraged just because you died once! We just need to win the Solar War!",
+      "tone": "encouraging"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As she opened all the doors of the Solar Palace, all sorts of loud noises rushed in.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The Operator",
+      "content": "West Country first team, gather at the Solar Palace!",
+      "tone": "commanding"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The Operator",
+      "content": "We'll lure the East Country in and then take them down! That's our comeback!",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "East Country soldiers",
+      "content": "Okay! Sounds good!",
+      "tone": "excited"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aegis",
+      "content": "Quickly grasping the West Country's change, Aegis communicated with Yolga's son.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aegis",
+      "content": "They're luring us. What should we do?",
+      "tone": "cautious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Yolga's son",
+      "content": "They plan to pick off the rankers. It's a good strategy, but not as easy as it sounds.",
+      "tone": "analytical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Yolga's son",
+      "content": "Golden Wheel is full of professionals. In terms of ranker skill, we surpass the West Country.",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Yolga's son",
+      "content": "That's why the West Country was taking a gamble.",
+      "tone": "knowing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Yolga's son",
+      "content": "They're coming out strong. They must be confident they can take Yahweh2. Let's match them. Let's go in.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Yolga's son",
+      "content": "But just going along with it…",
+      "tone": "resigned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Yolga's son",
+      "content": "It's after-service.",
+      "tone": "knowing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aegis",
+      "content": "Aegis immediately nodded.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Watching the East Country's first team head to the Solar Palace, Fermi chuckled.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Fermi",
+      "content": "Is it the burning heart of a teenage girl?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Anyway.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Six hours into the Solar War. Leaving the battlefield behind, the top rankers clashed inside the Solar Palace.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The East Country had the upper hand in skill, but the West Country had the home ground advantage.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "We can't go for a long battle. The West Country's reinforcement speed is twice that of the East Country. 20 minutes or 40 minutes. If it goes beyond that, we'll fall behind in utilizing delays.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Yolga's son and Little Witch fought fiercely, the Operator charged in.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The Operator",
+      "content": "Yahweh2!",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Having already cut down 13 rankers, the Operator raised her black sword towards Shirone.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "The Operator",
+      "content": "This is the end.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "From the moment they lured the enemy into the Solar Palace, the West Country had also committed fully.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Hey, it's happening.",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With all eyes in High Gear focused, Yahweh2 and the Operator collided.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The Operator",
+      "content": "Ugh!",
+      "tone": "painful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With a head-on physical attack, Yahweh2's machine was pushed back at a terrifying speed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The shadows that broke through the wall split into two and then collided again at incredible speed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Wow.",
+      "tone": "impressed"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Host level.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Golden flashes shone, and the black magnetic field sphere deflected and spun them.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Bang! Bang! Bang! Bang!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Fist against fist, firepower against firepower, output against output, everything collided.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "The Operator",
+      "content": "She's really strong.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Yahweh2",
+      "content": "I…",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "The Operator",
+      "content": "You…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Activating Da Vinci, Shirone thrust his right arm, covered in strong armor, at terrifying speed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Lost.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Operator.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Her bangs were blown back by the wind pressure, and his fist pierced her chest with a thud.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "How is it, Yahweh2?",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Users in front of the big screen stared intently at her revealed face for the first time.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "High Gear, isn't it fun?",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes. It's really fun.",
+      "tone": "sincere"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hehe.",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Her smiling face looked much younger than expected…",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I knew it.",
+      "tone": "knowing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She looked like an ordinary girl.",
+      "tone": null
+    }
+  ],
+  "source_hash": "b00b482770aef4a1a6f4d06e951c925491357d94748f85ef3ff1ab70c204e5d3",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T15:46:12.041301+00:00"
+}

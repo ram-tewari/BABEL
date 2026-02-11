@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\proto\marshal\rules\struct.py
+# hypothesis_version: 6.148.8
+
+['Unexpected kind: %s', 'bool_value', 'kind', 'list_value', 'null_value', 'number_value', 'string_value', 'struct_value']

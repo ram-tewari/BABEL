@@ -1,0 +1,1009 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Photon Cannon.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The mass contained within the photons was minuscule, but the rapid rate of photon output created an impact force no ordinary monster could withstand.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The eyes of the Wulke chieftain burned with fury.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Having fought countless battles against humans, he knew exactly how dangerous a mage could be.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Martin",
+      "content": "That's it! They're scared now! Shirone did it!",
+      "tone": "excited"
+    },
+    {
+      "type": "thought",
+      "speaker": "Altol",
+      "content": "What they were facing wasn't just a beast—it was a monster.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even if they had reason, their savagery was nothing to scoff at.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Altol",
+      "content": "This isn't over. No matter how strong Shirone is, he's still just human. Beasts that hunt in packs don't retreat just because of one or two casualties.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Just as Altol had predicted, the Wulke chieftain had no intention of backing down.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "While the mage's power was destructive, the pack's violence wasn't intimidated by a single individual.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Grrrr, kill… him…",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Rooooar!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Wulke's monstrous roar shook the heavens and earth.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "I can do this. If I just keep my focus, I can win.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone teleported into the air and bombarded the ground with his Photon Cannon.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Flashes of light rained down like hail.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even those not directly hit by the Photon Cannon were struck by the shockwaves erupting from the ground.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Yet, the Wulke's ferocity didn't waver in the slightest.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "When gathered in numbers, they were a warlike race that even the ogres—known as the kings of the forest—would yield to.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ignoring the casualties among their own, the Wulke leaped at Shirone, slashing with their claws.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone hastily landed on the ground, only to find seven more waiting for him.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone transformed his Spirit Zone into an omnidirectional offensive form.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The moment the Spirit Zone's thorns touched the Wulke, a barrage of Photon Cannons fired.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "A blinding flash of light erupted, sending the Wulke struck by the photons flying back.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Martin",
+      "content": "Whoa, that's insane… Shirone.",
+      "tone": "amazed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The children stared in awe.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "A human fighting dozens of Wulke on equal footing? They had always thought tales of heroes were just exaggerated rumors.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But watching Shirone fight made even the wildest stories seem believable.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Haa, haa.",
+      "tone": "exhausted"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's breathing grew ragged.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Firing the Photon Cannon in rapid succession made him feel like his consciousness might slip away.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even with the mental fortitude to sustain photon output for over ten minutes, it was nearly unbearable.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Photon Cannon was fusion magic, combining light and mass.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "A mage only had one slot for a spell.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was the same principle as how humans couldn't focus on two things at once.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Someone like Iruki, who had the Servant Syndrome, could dual-cast, but barring such special cases, even the highest-ranking mages could only use one spell at a time.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Thus, mages who specialized in pure, single-attribute magic were rare in the professional world.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Most combined two, or even three, attributes to maximize the effect of a single spell.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Examples included Siena's Ice Tornado, which combined cold and wind, or Sad's Fire Sun, which fused light and flame.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Fusion magic could maximize efficiency in an instant, but it required immense mental focus.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "This is bad. I don't think I have many shots left. I doubt I can take them all down.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Wulke were nothing like street thugs.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "A beast's keen sense of smell could detect even the slightest hint of fatigue in its prey.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If he showed any sign of weakness, they'd tear him apart in an instant.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "True to form, the Wulke chieftain still bared his fangs despite losing a third of his pack.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Wulke's second wave charged, sensing Shirone's exhaustion.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Their numbers were similar to the first wave, but the feeling was entirely different compared to when Shirone was at full strength.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In desperation, Shirone fired his Photon Cannon.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "A mass of photons buried itself in the belly of the lead Wulke.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Rooooar!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The massive body was sent skidding across the ground, but unlike before, it didn't fall.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It dug its legs into the earth and held its ground.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Had my power dropped this much already?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Emboldened, the Wulke chieftain ordered a full assault.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Roar! Roar! Roar!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Wulke, sensing victory, surged forward.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "In that case…",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The only thing left for Shirone was the Immortal Function.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "But could he endure it?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "This was on a completely different level from when he had used photon output before.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Casting fusion magic—which consumed vast amounts of mental energy—in an infinite domain was uncharted territory.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "There was no telling what backlash might follow.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Grrrr!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The moment he activated the Immortal Function, pressure built in Shirone's mind.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It felt like his head might explode.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Aaaah!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone steadied himself and opened his mind.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As his sense of self loosened, an overwhelming power rushed in.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The moment his Spirit Zone filled with light, it exploded violently.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "A mass wave sent the Wulke flying, scattering golden fragments everywhere.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone, holding a sphere of light in his palm, unleashed it forward with all his might.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Photon Cannon shot out as a white flash, devastating the area.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Firing at full power without restraint, the Wulke were swept away like dust under a broom.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "But he couldn't maintain this state forever.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If infinity was an ocean, Shirone's mind was a stream.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The Immortal Function was the dam between them.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He was drilling a hole to draw seawater, but if this continued, the dam would collapse.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Different spells required different amounts of mental energy, so mages chose the most cost-effective spell for the situation.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Spells whose effects far outweighed their cost were called Overpower in magical society.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Notable examples included the time magic Stop, the invisibility magic Invisibility, the alchemy magic Injection, and the healing magic Heal of the Almighty.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "So, what about the Photon Cannon?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone considered it close to Overpower.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Its exceptional attack speed, versatility between single shots and rapid fire, and even the ability to form beams—it had everything an offensive spell needed.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But it was only efficient relative to its cost.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The Photon Cannon was inherently expensive.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "No more! I'll die if this continues!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone stopped casting the Photon Cannon.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The barrage had lasted only about three seconds, but dust filled the air, obscuring everything.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When the wind swept the dust away, the children trembled at the sight before them.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The area swept by the Photon Cannon was utterly devastated.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Wulke were embedded in the ground as if chewed up, and even those who fled were too terrified to mourn their fallen.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone realized the true power of the Photon Cannon.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Nothing remained where the light had passed.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If even the caster was awed, how much worse must it have been for the targets?",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Grrr, we… leave… Let us… go…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Wulke chieftain conveyed his submission in clumsy human speech.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Don't ever come back here. If you set foot on this mountain again, it won't end like this.",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Wulke chieftain left first.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The others followed without hesitation, disappearing into the forest.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Only after the Wulke were gone did Shirone's tension ease.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Staggering, he closed his eyes and collapsed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Altol",
+      "content": "Shirone! Shirone!",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Shh! Quiet. They might come back.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Altol's warning made the children cover their mouths.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He then checked on Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The sight of him sleeping soundly made Altol chuckle.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Altol",
+      "content": "The children of the slash-and-burn village had grown over time, but Shirone seemed unchanged, still the same as in his youth.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "They say mages don't age.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Altol",
+      "content": "At first, he'd thought Shirone was just some mountain hunter's kid—an adopted one at that.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Altol",
+      "content": "Shirone looked nothing like Uncle Vincent, which made him all the more easy to underestimate.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Altol",
+      "content": "But he'd been wrong.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Altol",
+      "content": "Perhaps Shirone was like the ugly duckling from fairy tales.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Altol",
+      "content": "A human fundamentally different from a mountain hunter.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Altol lifted Shirone effortlessly.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Despite his strength, Shirone felt light as a feather, but there was no pride in it.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Altol",
+      "content": "He now knew that no matter how light Shirone's body was, the weight of the intellect within it was something he could never lift.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Altol",
+      "content": "Let's go back. The hunt is over.",
+      "tone": "firm"
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "◆ ◆ ◆",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone woke with a start, bolting upright.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He was in someone's house.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Placing a hand on the sofa's armrest, he looked around and saw a cozy living room.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Warmth emanated from a fire in the hearth, and the sound of cooking came from the L-shaped kitchen.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Martin",
+      "content": "Gah!",
+      "tone": "startled"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's shout was followed by a clatter from the kitchen.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Soon, Rumina peeked out from behind the wall, her face flushed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rumina",
+      "content": "Where…?",
+      "tone": "confused"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Then it came back to him. This was Rumina's house, where he'd often stayed with his father as a child.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The children rushed downstairs, still dressed in their hunting gear, as if they'd stayed by Shirone's side instead of going home.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Altol",
+      "content": "Shirone, are you okay?",
+      "tone": "concerned"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Altol asked worriedly.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He'd checked Shirone's condition as soon as they arrived and found nothing wrong.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But his ignorance of magic left room for concern.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone ran a few mental tests to ensure his mind was intact.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "His memories were fine, and his consciousness seemed clear.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'm fine. I must've passed out from exhaustion.",
+      "tone": "relieved"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Martin",
+      "content": "Whew, that's a relief. We thought something was seriously wrong.",
+      "tone": "relieved"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone felt guilty for worrying them, though the children felt otherwise.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I feel refreshed after a long sleep. The fatigue's finally gone.",
+      "tone": "relieved"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Despite long rests at the dorm, his exhaustion had never truly lifted.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "But now, he felt great.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The persistent sense of dread was gone.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He'd been confident he could overcome it.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "But now that it was gone, he realized just how hard he'd been pushing himself.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Mr. Armin was right.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "As soon as I mastered the Photon Cannon, my senses returned.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "No nightmares, either.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "His stomach growled.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "It had been a while since he'd felt this hungry.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The savory aroma from the kitchen only made it worse.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What's cooking?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rumina",
+      "content": "Pork stew. Mom bought some meat.",
+      "tone": "smiling"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rumina's mother emerged from the kitchen, ladle in hand.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rumina's mother",
+      "content": "Shirone, hello! Long time no see.",
+      "tone": "warm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hello, ma'am. Sorry for the trouble.",
+      "tone": "polite"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rumina's mother",
+      "content": "Oh, don't say that. My daughter's been waiting for you.",
+      "tone": "smiling"
+    },
+    {
+      "type": "thought",
+      "speaker": "Rumina",
+      "content": "Rumina's face turned bright red.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Rumina",
+      "content": "But then her expression suddenly saddened, and she bowed her head.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Altol",
+      "content": "Altol understood.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Altol",
+      "content": "He felt the same, and the other children likely did too.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Altol",
+      "content": "Shirone couldn't be their leader.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Altol",
+      "content": "He wasn't one of the slash-and-burn village kids, nor was he the mountain hunter's son.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Altol",
+      "content": "Shirone was a mage.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Altol",
+      "content": "Alright, alright! I'm starving. Let's eat first.",
+      "tone": "firm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Martin",
+      "content": "Yay! Meat after so long! Meat! Meat! Meat!",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rumina's mother placed a large pot on the table.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The pork stew sloshed, filled to the brim.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "◆ ◆ ◆",
+      "tone": null
+    }
+  ],
+  "source_hash": "7a283cb498111837ef495d182945f3d0a1f50b23110cf6590d20998014d33528",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T07:42:05.547904+00:00"
+}

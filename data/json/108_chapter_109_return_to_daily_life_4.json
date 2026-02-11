@@ -1,0 +1,397 @@
+{
+  "blocks": [
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The most tense time of the semester for magic school students had arrived—the end-of-term report cards.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Half a year's efforts were condensed into a single sheet of paper.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The cutoff line determining promotion or failure was as terrifying as a guillotine.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheas had received a six-month suspension of his teaching license from the Magic Association.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The penalty would take effect next semester, and for now, Colley, the most senior teacher, was acting as interim headmaster.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheas, who had been weeding the flower beds, straightened up and smiled.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His adorable disciples were approaching.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone, Iruki, Nade—now notorious troublemakers known throughout the school, but that only made their futures more promising.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Hello, Headmaster.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Hoho. I told you not to call me that. I'm just a old man killing time now.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Come on. You'll be headmaster again in half a year.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheas merely laughed.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He was grateful for his students' unwavering support, but it also made him feel undeserving.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "So, how are you holding up? Must be tough with school back in session.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Nade's face immediately fell.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "I'm going insane. I need to score over 80 in every subject left, and it's killing me.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Heh! Trying to move up this time?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The only way to advance from Class Five to Class Four was to score over 80 in every subject—not an average, making it the highest difficulty.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Of course. Isn't that what students are supposed to do?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "I suppose so. Well, do your best.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Nade looked disappointed, having hoped for encouragement.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But Alpheas's teaching philosophy was firm.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Students weren't racehorses. Left to roam the plains, they'd realize their own worth.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Want some help?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone rolled up his sleeves and approached to help with the weeding.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Hoho, you can't take an old man's only joy. I'll handle the weeds. You go do what you want.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Nade's eyes filled with despair.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "She had been counting on weeding as an escape from reality, but that plan was now foiled.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Alright. Take care.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As they turned toward the dormitory, worry lingered on their faces.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The other students were no different.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Since Arcane's attack, the school remained unsettled, and focusing on studies wasn't easy.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Ugh! I'm losing it. I need to study! Study! But I can't focus!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "After a big event, it's hard to concentrate on anything else. Same after the recital.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At Iruki's words, Shirone sighed deeply.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Still, you're better off than me. I have twice as many subjects to pull up to 80. I don't know if it's possible.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "I've only got math going for me. Humanities are a lost cause. In that sense, Nade's got the advantage.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "What are you talking about? I don't have any strong subjects. You and Shirone can ace practicals, but I'm stuck with the same Spirit Zone as everyone else.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Class Five's practical exams focused more on Spirit Zone application than magic.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "With Immortal Function and Servant Syndrome, Shirone and Iruki could rank high in any practical.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Nade had to compete with ordinary Spirit Zones.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "All this thinking is giving me a headache. Let's just take today off and start tomorrow.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Nade's suggestion met with neither agreement nor disagreement.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even the diligent Shirone remained silent, his motivation clearly flagging.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Huh? Guys, look….",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone pointed toward the central park.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nade and Iruki turned, their eyes widening.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "What? How are they here?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Canis and Arin were wandering the school grounds.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Spotting Shirone's group, they approached.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "Hey. Classes over already? The facilities are nice, but you're coddling the kids too much.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "You! What are you plotting now?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nade blocked their path.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Though they had heard from Sad that the two had been acquitted, she thought that was the end of it.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Or it should have been.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "So why were they here?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What's going on? Do you have business here?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Canis ignored the question.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He studied Shirone.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If anyone at the school intrigued him, it wasn't Alpheas or the teachers—it was Shirone.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The first person to defeat him.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Without surpassing him, any growth would be meaningless.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "Listen carefully. If we fight again, the result will be the opposite of last time.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "This guy's still delusional. You're a decade away from beating Shirone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "Says the one who'd need ten years just to face me.",
+      "tone": null
+    }
+  ],
+  "source_hash": "07c900f4c9b3b4c70509c242bea843c7571dbe931391e22cb350cc9e3e1654c1",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T15:42:11.881157+00:00"
+}

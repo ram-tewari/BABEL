@@ -1,0 +1,697 @@
+{
+  "blocks": [
+    {
+      "type": "dialogue",
+      "speaker": "Zulu",
+      "content": "Go ahead and explain, Shirone. It's just a hypothesis. We'll listen and judge.",
+      "tone": "encouraging"
+    },
+    {
+      "type": "action",
+      "content": "Gaining courage from Zulu's words, Shirone repeated the explanation he had given to Gaold."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "First, it's a spell based on Ataraxia.",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Of course.",
+      "tone": "neutral"
+    },
+    {
+      "type": "action",
+      "content": "To have even a 1% chance of destroying Heaven, starting with Ataraxia was the best approach for Shirone."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "The casting direction will be upwards, so I'll deploy the magic circle above my head.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Upwards? Interesting.",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "content": "It was indeed a unique starting method."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ataraxia is a trigger spell, so it doesn't have a set range. To maximize that advantage, I thought shooting it upwards would be most effective.",
+      "tone": "logical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "I understand. So, what will you shoot?",
+      "tone": "neutral"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "A laser.",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "A laser?",
+      "tone": "surprised"
+    },
+    {
+      "type": "action",
+      "content": "Everyone knew what a laser was, but the sky seemed too empty to destroy anything."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes. I'll amplify the laser's linearity with Ataraxia and shoot it as high as possible.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "How high are we talking?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Well, it's a rough calculation, but about... 6,000 kilometers.",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "6,000 kilometers?",
+      "tone": "surprised"
+    },
+    {
+      "type": "action",
+      "content": "Siena added, 'It's possible with a laser. It's a single straight wavelength. Combined with Ataraxia's amplification and the trigger characteristic, it could reach even higher altitudes.'"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "So, Shirone?",
+      "tone": "neutral"
+    },
+    {
+      "type": "monologue",
+      "speaker": "Shirone",
+      "content": "At an altitude of 6,000 kilometers, I'll cast dark sphere using the laser's information transmission method. It compresses divine particles to a high degree, and with Ataraxia, I can create a mass of about 10 tons based on planetary standards.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "content": "Sein's Iron Wheel Eyes spun rapidly."
+    },
+    {
+      "type": "action",
+      "content": "Even with just this information, he understood what Shirone intended to do."
+    },
+    {
+      "type": "thought",
+      "speaker": "Sein",
+      "content": "Complex but precise calculations began to run through his mind.",
+      "tone": "focused"
+    },
+    {
+      "type": "action",
+      "content": "Shirone spread his arms wide."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It will probably take the form of a spear. The shape isn't crucial, but based on omnipotence, it seems likely. So, a spear of light with a mass of 10 tons will be created. And it will...",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sein",
+      "content": "Fall.",
+      "tone": "neutral"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes. That's it.",
+      "tone": "neutral"
+    },
+    {
+      "type": "action",
+      "content": "That was all."
+    },
+    {
+      "type": "action",
+      "content": "And everyone was speechless."
+    },
+    {
+      "type": "action",
+      "content": "The mechanism was much simpler than expected."
+    },
+    {
+      "type": "action",
+      "content": "But surprisingly, it contained an idea powerful enough to destroy Heaven."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "But is it really possible?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "It's possible.",
+      "tone": "neutral"
+    },
+    {
+      "type": "action",
+      "content": "Sein added, 'Simply put, a mass of 10 tons will fall from an altitude of 6,000 kilometers. If Heaven's gravity is similar to Earth's, it will take about 14 minutes to reach the ground.'"
+    },
+    {
+      "type": "action",
+      "content": "The spear's mass will accelerate due to gravity, and if it reaches terminal velocity, it will exceed 14 kilometers per second."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "14 kilometers per second?",
+      "tone": "surprised"
+    },
+    {
+      "type": "action",
+      "content": "At that speed, it would be impossible to respond once it entered the visible range."
+    },
+    {
+      "type": "action",
+      "content": "And the result would be a spear of 10 tons impacting at 41 Mach, quantified as an immense force."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sein",
+      "content": "Exactly. The kinetic energy alone, converted to explosive power, would be about 2.19 million kilobusters. That's beyond Heaven's durability. If it hits the central Aravot, all seven heavens will be devastated.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "content": "If Sein said it, there was no error in the calculations."
+    },
+    {
+      "type": "action",
+      "content": "Yet no one could fully grasp the numbers."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Hehe, what do you think? Didn't I say it was a brilliantly insane spell?",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What I liked most when I first heard this was that there were no vague assumptions. It clearly distinguishes between what can and can't be done. I thought it was just a graduation student's nonsense, but it wasn't. Shirone's spell doesn't destroy Heaven.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "content": "Sein added, 'Gravity does. The planet's gravity pulls the spear down, leading to Heaven's self-destruction.'"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Exactly. Those who worshipped the gods will be destroyed by the gods' hands. It's called 'Divine Punishment.'",
+      "tone": "neutral"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I was going to call it Shining Spear.",
+      "tone": "neutral"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "The name doesn't matter. The issue is the trajectory, impact point, and timing.",
+      "tone": "neutral"
+    },
+    {
+      "type": "action",
+      "content": "Sein said, 'I can calculate that. Once we reach Heaven, I'll create a chart. It will take about three days to understand the planet's motion, and then we can set the launch time.'"
+    },
+    {
+      "type": "action",
+      "content": "Everyone began discussing new strategies and tactics to align with the new variable."
+    },
+    {
+      "type": "action",
+      "content": "Divine Punishment had the power to completely revise the project's strategy."
+    },
+    {
+      "type": "thought",
+      "speaker": "Siena",
+      "content": "While everyone engaged in heated discussions, Siena looked at Shirone with pride.",
+      "tone": "proud"
+    },
+    {
+      "type": "action",
+      "content": "Gaold liked that Divine Punishment utilized natural properties, but Siena thought differently."
+    },
+    {
+      "type": "thought",
+      "speaker": "Siena",
+      "content": "Everyone knew that dropping 10 tons from 6,000 kilometers would be immensely destructive.",
+      "tone": "logical"
+    },
+    {
+      "type": "thought",
+      "speaker": "Siena",
+      "content": "But no one attempted it because lifting 10 tons required potential energy equal to the kinetic energy.",
+      "tone": "logical"
+    },
+    {
+      "type": "thought",
+      "speaker": "Siena",
+      "content": "Thus, Divine Punishment was not just gravity's doing but Shirone's magic.",
+      "tone": "logical"
+    },
+    {
+      "type": "action",
+      "content": "Amplifying the laser with Ataraxia to transmit information to the altitude, then activating divine particles to gather mass."
+    },
+    {
+      "type": "thought",
+      "speaker": "Siena",
+      "content": "The result seemed simple, but it was an application that required perfect understanding and analysis of what Shirone had.",
+      "tone": "logical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You squeezed out every last drop.",
+      "tone": "admiring"
+    },
+    {
+      "type": "thought",
+      "speaker": "Siena",
+      "content": "The best result, compressed like a diamond, from ideas meticulously refined to leave no gaps.",
+      "tone": "proud"
+    },
+    {
+      "type": "action",
+      "content": "Siena could genuinely celebrate her student's significant leap."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "But there's a condition.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I received Ataraxia from the archangel Ikael. So, I must meet Ikael before casting this spell. And that was part of the contract.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "content": "No team member would be foolish enough to break a contract."
+    },
+    {
+      "type": "action",
+      "content": "But it was natural to momentarily overlook it after gaining such a powerful weapon as Divine Punishment."
+    },
+    {
+      "type": "thought",
+      "speaker": "Sein",
+      "content": "Even the cold-hearted Sein felt the same.",
+      "tone": "neutral"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sein",
+      "content": "For Divine Punishment to activate, Shirone had to meet Ikael.",
+      "tone": "neutral"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sein",
+      "content": "Depending on the situation, it could be very easy or impossible.",
+      "tone": "neutral"
+    },
+    {
+      "type": "thought",
+      "speaker": "Sein",
+      "content": "Regardless of the difficulty, Sein disliked the uncertainty.",
+      "tone": "dislike"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sein",
+      "content": "We must honor the contract. You deserve our help. But is that the only option? If you give up on Ikael, we can offer something equivalent. For example, prioritizing your survival even if we all perish.",
+      "tone": "neutral"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No. I won't meet Ikael if it endangers everyone. But if it's not dangerous, Divine Punishment isn't necessary. If it becomes dangerous, then I'll have enough motivation to meet Ikael. In such a limited situation, there's no need to bind Ikael and Divine Punishment with other constraints.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "content": "It was the best compromise Sein and Shirone could reach."
+    },
+    {
+      "type": "system_notification",
+      "content": "Γùå Γùå Γùå"
+    },
+    {
+      "type": "action",
+      "content": "The next morning."
+    },
+    {
+      "type": "action",
+      "content": "The ten team members gathered in front of Goffin's Gate."
+    },
+    {
+      "type": "action",
+      "content": "Chief Mahatu and the priests surrounded them, and the warriors formed two lines to send off the Heaven expedition."
+    },
+    {
+      "type": "action",
+      "content": "When Shirone opened the Immortal Function, Goffin's Gate disintegrated into particles, transforming into a massive spacetime tunnel."
+    },
+    {
+      "type": "action",
+      "content": "As everyone chanted Anke La, Gaold walked with an annoyed expression."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "I'll destroy your god.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "content": "With a terrifying glare, Gaold pushed himself into the dark sphere without hesitation."
+    },
+    {
+      "type": "action",
+      "content": "Mikael Gaold - Red Line First-Class Grand Mage Specialty: Transcendent Endurance Position: Commander"
+    },
+    {
+      "type": "action",
+      "content": "Kangnam watched Gaold disappear with an indifferent expression, but her heart was more turbulent than ever."
+    },
+    {
+      "type": "thought",
+      "speaker": "Kangnam",
+      "content": "The end of 20 years. Whatever happens, it ends here. I will end it, no matter what.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "content": "Ahoya Kangnam - Last Descendant of the Wolf Tribe Specialty: Rammuai Striking Technique Position: Tanker"
+    },
+    {
+      "type": "action",
+      "content": "Sein recalled the Day of Judgment of the Twenty in front of Goffin's Gate."
+    },
+    {
+      "type": "thought",
+      "speaker": "Sein",
+      "content": "Since Miro left, Gaold had become a wreck, but Sein envied his pure madness.",
+      "tone": "envying"
+    },
+    {
+      "type": "action",
+      "content": "He had run tirelessly, unable to go mad, solely for Miro."
+    },
+    {
+      "type": "thought",
+      "speaker": "Sein",
+      "content": "As long as I save Miro, nothing else matters. Even if the world ends...",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "content": "Sein's body was swallowed by the dark sphere."
+    },
+    {
+      "type": "thought",
+      "speaker": "Sein",
+      "content": "I will save Miro.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "content": "Castro Sein - Black Line's Strongest Mental Mage Specialty: Anti-Magic through Iron Wheel Eyes Position: Order"
+    },
+    {
+      "type": "action",
+      "content": "Zulu held onto nothing. No desire for life, no fear of death."
+    },
+    {
+      "type": "thought",
+      "speaker": "Zulu",
+      "content": "If today's events were just a point in a vast cycle, she would simply go with the flow.",
+      "tone": "accepting"
+    },
+    {
+      "type": "action",
+      "content": "Empty without regret. Life exists within death."
+    },
+    {
+      "type": "action",
+      "content": "Zulu - Red Line First-Class Summoning Mage Specialty: Lich Summoning Position: Utility"
+    },
+    {
+      "type": "action",
+      "content": "Armin looked back at Siena in front of Goffin's Gate."
+    },
+    {
+      "type": "thought",
+      "speaker": "Armin",
+      "content": "Just seeing Kuan by her side made his heart ache.",
+      "tone": "longing"
+    },
+    {
+      "type": "thought",
+      "speaker": "Armin",
+      "content": "You must have felt the same.",
+      "tone": "understanding"
+    },
+    {
+      "type": "action",
+      "content": "He could somewhat understand her feelings, having to watch him live as a loving couple with Keira."
+    },
+    {
+      "type": "thought",
+      "speaker": "Armin",
+      "content": "But it was for you. To prove that, I will stay by your side.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "content": "Armin erased his thoughts and quickly turned, disappearing into Goffin's Gate."
+    },
+    {
+      "type": "thought",
+      "speaker": "Armin",
+      "content": "Even if the end of the world lay beyond, he had no reason to hesitate.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "content": "Siena's eyes filled with sadness."
+    },
+    {
+      "type": "thought",
+      "speaker": "Siena",
+      "content": "She wanted to become a mage with her brother and see the countless beauties of the world.",
+      "tone": "longing"
+    },
+    {
+      "type": "thought",
+      "speaker": "Siena",
+      "content": "Even though the dream she had cherished since childhood had come true, why wasn't she happy?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "content": "No, don't think about it. It's foolish to get sentimental before a mission. I just need to do what I can."
+    },
+    {
+      "type": "action",
+      "content": "Olifer Siena - Red Line Certified 5th-Level Mage Specialty: Absolute Zero Position: Main Dealer"
+    },
+    {
+      "type": "action",
+      "content": "Kuan watched Siena's retreating figure."
+    },
+    {
+      "type": "thought",
+      "speaker": "Kuan",
+      "content": "As a swordsman, the lives of all nine members depended on his death.",
+      "tone": "resolute"
+    },
+    {
+      "type": "thought",
+      "speaker": "Kuan",
+      "content": "The chance of him returning alive was slightly higher than the miraculous possibility of all ten surviving.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "content": "Yet, he didn't feel entirely bad because, for the first time, he wanted to protect someone."
+    },
+    {
+      "type": "thought",
+      "speaker": "Kuan",
+      "content": "Is that my grave?",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "content": "A cold smile appeared on Kuan's lips as he headed towards the battlefield."
+    },
+    {
+      "type": "action",
+      "content": "Parca Kuan - Certified 6th-Level Swordsman, Instructor at Kaizen Swordsmanship School Specialty: Movement Control Position: Hitman"
+    },
+    {
+      "type": "action",
+      "content": "Etella closed her eyes and entered a brief meditation."
+    },
+    {
+      "type": "thought",
+      "speaker": "Etella",
+      "content": "Since her defeat by Arcane, her sense of mission had burned more fiercely than ever.",
+      "tone": "resolute"
+    },
+    {
+      "type": "thought",
+      "speaker": "Etella",
+      "content": "As the warm voice of Karsis Jung, telling her to be the light of the world, roared in her mind, her eyes snapped open.",
+      "tone": "inspired"
+    },
+    {
+      "type": "action",
+      "content": "Destroy evil. That is my mission."
+    },
+    {
+      "type": "action",
+      "content": "Romi Etella - Certified 6th-Level Mage, Scout Zoner, Bishop of the Karsis Monastery Specialty: Yin-Yang Wave Fist Thousand-Armed Avalokiteshvara Thunder Strike Position: Sub Dealer"
+    },
+    {
+      "type": "action",
+      "content": "Plu did her best to suppress her adrenaline."
+    },
+    {
+      "type": "thought",
+      "speaker": "Plu",
+      "content": "Joining the world's best mage team as a professional mage was an unparalleled honor.",
+      "tone": "proud"
+    },
+    {
+      "type": "thought",
+      "speaker": "Plu",
+      "content": "Don't show any signs of inexperience. Trust in what you've done so far. Yes, I am Ravid Plu. I can do this!",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "content": "No matter what hardships came, she would succeed in her mission."
+    },
+    {
+      "type": "thought",
+      "speaker": "Plu",
+      "content": "With countless vows etched into her heart, she finally took her first step through Goffin's Gate.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "content": "Even death is an honor. I will do my best not to be a burden to anyone."
+    },
+    {
+      "type": "action",
+      "content": "Ravid Plu - Certified 8th-Level Mage, Manipulator Zoner Specialty: Phoenix Formation Position: Supporter"
+    },
+    {
+      "type": "action",
+      "content": "Shirone watched as all the team members departed for Heaven. Then, as if reflecting on the years gone by, he looked back."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "His life flashed before his eyes like a revolving lantern.",
+      "tone": "reflective"
+    },
+    {
+      "type": "action",
+      "content": "Goodbye, everyone."
+    },
+    {
+      "type": "action",
+      "content": "At the end of life, he found the beginning of life."
+    },
+    {
+      "type": "action",
+      "content": "For Shirone, this journey held that meaning."
+    },
+    {
+      "type": "action",
+      "content": "There was no room for fear now."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Even if he lost everything, he would pour everything into Heaven to ensure he didn't regret today's decision.",
+      "tone": "resolute"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Farewell, messenger of the gods.",
+      "tone": "respectful"
+    },
+    {
+      "type": "action",
+      "content": "Receiving Mahatu's farewell, Shirone walked past the warriors and reached Goffin's Gate."
+    },
+    {
+      "type": "action",
+      "content": "The dark sphere tunnel revealed nothing beyond. Only a vast uncertainty, like everyone's future, lingered."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "From now on, there's no looking back!",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "content": "Shirone widened his eyes and leaped into Goffin's Gate."
+    },
+    {
+      "type": "action",
+      "content": "The distorted spacetime barrier swallowed him, throwing him into a world no human could reach."
+    },
+    {
+      "type": "action",
+      "content": "Arian Shirone - Alpheas Magic School Graduate Specialty: Amplification Magic using Ataraxia Position: Terminator"
+    }
+  ],
+  "source_hash": "fd1e0cbc78677760e9237186717a7b372f869631d2ddbbb008dbd122b569919e",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T06:05:09.436532Z"
+}

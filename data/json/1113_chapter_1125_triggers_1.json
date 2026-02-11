@@ -1,0 +1,917 @@
+{
+  "blocks": [
+    {
+      "type": "system_notification",
+      "content": "Chapter 1125: Triggers (1)"
+    },
+    {
+      "type": "monologue",
+      "content": "Life, at its core, is difficult. It hands you an incomprehensible manual and tells you to read it all. If you skim through, you miss the context, and that makes it even harder to continue. The problem is, unless you go back and start reading from the beginning, there's no way things will improve. Look outside. The only ones laughing and running around are kids and fools. Everyone else, the ones with their heads screwed on straight, are frowning as they flip through the pages. So, how do you understand it better? It's simple. You buy a revolver, load a single bullet into the chamber, and when it feels unbearable, you press it to your temple and pull the trigger. There's a slim chance you'll blow your head off. But if it clicks and nothing happens, even the worst parts of the manual start to feel more bearable. Of course, the content doesn't change. What changes is you. What I'm trying to say is, those people don't care if they blow their heads off. They just keep pulling the trigger."
+    },
+    {
+      "type": "sfx",
+      "content": "Click."
+    },
+    {
+      "type": "sfx",
+      "content": "Click."
+    },
+    {
+      "type": "sfx",
+      "content": "Click."
+    },
+    {
+      "type": "monologue",
+      "content": "Their understanding of the world is on a completely different level. I tried it myself a couple of times, but my knees buckled, and I couldn't do it anymore. Don't try to understand them. Just let them be. Because if you try to pull the trigger yourself among those lunatics…"
+    },
+    {
+      "type": "dialogue",
+      "content": "Oh my, how adorable."
+    },
+    {
+      "type": "action",
+      "content": "The people at the casino watched Wizard standing at the entrance."
+    },
+    {
+      "type": "narrator",
+      "content": "They watched with curiosity."
+    },
+    {
+      "type": "thought",
+      "content": "Did they come alone? Are they okay?"
+    },
+    {
+      "type": "narrator",
+      "content": "In a casino where even children are treated like adults as long as they have money, Wizard looked far too young."
+    },
+    {
+      "type": "thought",
+      "content": "Should we ask them?"
+    },
+    {
+      "type": "narrator",
+      "content": "Everyone was curious, but no one actually moved to do anything."
+    },
+    {
+      "type": "action",
+      "content": "Not even the guards moved."
+    },
+    {
+      "type": "thought",
+      "content": "This is strange."
+    },
+    {
+      "type": "action",
+      "content": "A guard, hands shoved into his pockets, tilted his head and simply observed."
+    },
+    {
+      "type": "thought",
+      "content": "No… what's strange is that it doesn't feel strange."
+    },
+    {
+      "type": "narrator",
+      "content": "Even if the child were royalty, if a seven-year-old entered, it would normally be their job to escort them out."
+    },
+    {
+      "type": "narrator",
+      "content": "But now, such thoughts didn't even cross their minds."
+    },
+    {
+      "type": "narrator",
+      "content": "It felt like staring at an immovable mountain, something so massive that the idea of moving it didn't even occur to them."
+    },
+    {
+      "type": "thought",
+      "content": "Why?"
+    },
+    {
+      "type": "narrator",
+      "content": "A sense of absolute inevitability."
+    },
+    {
+      "type": "narrator",
+      "content": "It was as if the aura in front of them was the complete inverse of Havitz's Vanishing."
+    },
+    {
+      "type": "thought",
+      "speaker": "Wizard",
+      "content": "Finally, we meet, Havitz."
+    },
+    {
+      "type": "narrator",
+      "content": "The atmosphere of the casino seemed to lose its usual sense of reality after Wizard's arrival."
+    },
+    {
+      "type": "action",
+      "content": "Wizard stood sharp and distinct."
+    },
+    {
+      "type": "action",
+      "content": "Havitz, still lingering at the edge of perception, smirked."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "Haha, is that so?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Ashur",
+      "content": "Is this really okay?"
+    },
+    {
+      "type": "action",
+      "content": "Ashur turned to glance at the casino one last time before leaving Jive."
+    },
+    {
+      "type": "narrator",
+      "content": "Just ten minutes ago, Wizard had looked like nothing more than a seven-year-old child."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "I'm worried about Amy and Ikael. Shouldn't we go back now?",
+      "tone": "pleading"
+    },
+    {
+      "type": "narrator",
+      "content": "Her tearful, pleading face had tugged at Ashur's heart."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ashur",
+      "content": "Yes?"
+    },
+    {
+      "type": "action",
+      "content": "But at some point, her demeanor completely changed."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ashur",
+      "content": "What's wrong?"
+    },
+    {
+      "type": "action",
+      "content": "Ashur swallowed hard as he watched her silently staring into the distance."
+    },
+    {
+      "type": "thought",
+      "speaker": "Ashur",
+      "content": "Did she see Havitz?"
+    },
+    {
+      "type": "narrator",
+      "content": "Of course, Wizard could sense chaos."
+    },
+    {
+      "type": "thought",
+      "speaker": "Ashur",
+      "content": "But…"
+    },
+    {
+      "type": "action",
+      "content": "The look in her eyes was completely different from just a moment ago."
+    },
+    {
+      "type": "thought",
+      "speaker": "Ashur",
+      "content": "The trigger has been pulled."
+    },
+    {
+      "type": "narrator",
+      "content": "Countless simulations, repeated possibly in the billions, during her training with Shirone."
+    },
+    {
+      "type": "narrator",
+      "content": "Her entire focus was now locked onto a single answer—one crafted solely to face Havitz."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ashur",
+      "content": "Wizard, you…"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "Go."
+    },
+    {
+      "type": "narrator",
+      "content": "Her tone was cold."
+    },
+    {
+      "type": "thought",
+      "speaker": "Ashur",
+      "content": "She's using self-hypnosis to push herself beyond her limits. There's no room in her mind for anything but Havitz."
+    },
+    {
+      "type": "narrator",
+      "content": "No, it wasn't even a thought."
+    },
+    {
+      "type": "thought",
+      "speaker": "Ashur",
+      "content": "She's not defining anything—not even killing. This child is simply repeating herself endlessly."
+    },
+    {
+      "type": "action",
+      "content": "Wizard spoke."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "I'll take care of it."
+    },
+    {
+      "type": "narrator",
+      "content": "Her mechanical tone."
+    },
+    {
+      "type": "action",
+      "content": "Ashur nodded."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ashur",
+      "content": "I leave it to you."
+    },
+    {
+      "type": "narrator",
+      "content": "Even with the ability of Signal, recognizing Satan was beyond his ability."
+    },
+    {
+      "type": "thought",
+      "speaker": "Ashur",
+      "content": "If I stay here, I'll only become Havitz's prey. It's better to head to Lord Ikael."
+    },
+    {
+      "type": "action",
+      "content": "Ashur disappeared into the distance."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ashur",
+      "content": "I'll be back for sure."
+    },
+    {
+      "type": "action",
+      "content": "Wizard stood for a moment, staring at the empty space where Ashur had vanished."
+    },
+    {
+      "type": "action",
+      "content": "Then she turned toward the casino."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "You want to kill me?"
+    },
+    {
+      "type": "action",
+      "content": "Havitz asked, his gaze fixed on Wizard."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "Why?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "… Because you have to die."
+    },
+    {
+      "type": "narrator",
+      "content": "Her tone carried no malice, her calm eyes devoid of emotion."
+    },
+    {
+      "type": "narrator",
+      "content": "Only then did Havitz realize."
+    },
+    {
+      "type": "thought",
+      "speaker": "Havitz",
+      "content": "A natural predator."
+    },
+    {
+      "type": "narrator",
+      "content": "If he had the ability of History Search, could he have stopped this moment from happening?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Havitz",
+      "content": "No, that's not it."
+    },
+    {
+      "type": "narrator",
+      "content": "Even if Wizard were killed, someone else would inevitably rise to take her place as his predator."
+    },
+    {
+      "type": "thought",
+      "speaker": "Havitz",
+      "content": "An immutable outcome. It's already been decided."
+    },
+    {
+      "type": "narrator",
+      "content": "This was a perspective reserved for gods."
+    },
+    {
+      "type": "thought",
+      "speaker": "Havitz",
+      "content": "Should I stir things up?"
+    },
+    {
+      "type": "action",
+      "content": "As Havitz's eyes widened, a massive wave of malice swept through the casino."
+    },
+    {
+      "type": "dialogue",
+      "content": "Ugh… o-o-oh…",
+      "tone": "terror"
+    },
+    {
+      "type": "narrator",
+      "content": "Terror gripped the crowd as tears streamed down their faces."
+    },
+    {
+      "type": "dialogue",
+      "content": "Bet! 200,000 gold."
+    },
+    {
+      "type": "narrator",
+      "content": "The power of Vanishing didn't allow them to recognize what was happening, and the games continued as if nothing were wrong."
+    },
+    {
+      "type": "sfx",
+      "content": "Cough! Cough!"
+    },
+    {
+      "type": "action",
+      "content": "Even as people collapsed, vomiting blood, Havitz didn't avert his gaze."
+    },
+    {
+      "type": "thought",
+      "speaker": "Havitz",
+      "content": "They won't last ten seconds. They'll all die."
+    },
+    {
+      "type": "narrator",
+      "content": "Even Eden, who prided himself as the strongest of the Yora, had knelt before this overwhelming malevolence."
+    },
+    {
+      "type": "narrator",
+      "content": "Wizard remained indifferent."
+    },
+    {
+      "type": "thought",
+      "speaker": "Havitz",
+      "content": "The frequency of the divine."
+    },
+    {
+      "type": "narrator",
+      "content": "And Havitz could hear it in his mind."
+    },
+    {
+      "type": "thought",
+      "speaker": "Havitz",
+      "content": "Wena Wizard."
+    },
+    {
+      "type": "narrator",
+      "content": "There was only her presence. No enemies. No allies. Not even the world itself."
+    },
+    {
+      "type": "thought",
+      "speaker": "Havitz",
+      "content": "Damn. This is absurd."
+    },
+    {
+      "type": "narrator",
+      "content": "The purest form of extremity."
+    },
+    {
+      "type": "narrator",
+      "content": "A force seemingly designed solely to kill Satan. Its purity was enough to make even Havitz shudder."
+    },
+    {
+      "type": "thought",
+      "speaker": "Havitz",
+      "content": "Even if I despise it…"
+    },
+    {
+      "type": "narrator",
+      "content": "What kind of being did they send my way?"
+    },
+    {
+      "type": "action",
+      "content": "When Havitz deactivated Vanishing, the casino patrons abruptly regained their awareness and began screaming."
+    },
+    {
+      "type": "dialogue",
+      "content": "Ahhh! What is this? Blood?!",
+      "tone": "panicked"
+    },
+    {
+      "type": "narrator",
+      "content": "They panicked, unable to comprehend the horrific state they were in."
+    },
+    {
+      "type": "action",
+      "content": "Medical teams rushed into the chaos."
+    },
+    {
+      "type": "action",
+      "content": "In the midst of it all, Havitz glanced upward at the ceiling."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "Sigh."
+    },
+    {
+      "type": "narrator",
+      "content": "The game was over."
+    },
+    {
+      "type": "thought",
+      "speaker": "Havitz",
+      "content": "I wanted to play a little longer."
+    },
+    {
+      "type": "narrator",
+      "content": "Today, he would die at the hands of the child standing before him."
+    },
+    {
+      "type": "thought",
+      "speaker": "Havitz",
+      "content": "Humanity. The world. The universe."
+    },
+    {
+      "type": "narrator",
+      "content": "So, you couldn't stand the sight of me alive, could you?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "Well, fine."
+    },
+    {
+      "type": "action",
+      "content": "As the injured were all carried off to the infirmary, Havitz sheathed his sword."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "Care for a drink?"
+    },
+    {
+      "type": "action",
+      "content": "He gestured toward the bar inside the casino."
+    },
+    {
+      "type": "action",
+      "content": "The focused Wizard tilted her head slightly."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "No ulterior motive. I can't run away anyway. If today is my last…"
+    },
+    {
+      "type": "narrator",
+      "content": "A fight with Wizard would be exhilarating."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "I just want to enjoy myself properly."
+    },
+    {
+      "type": "narrator",
+      "content": "Who would trust the words of Satan?"
+    },
+    {
+      "type": "action",
+      "content": "And yet, Wizard nodded."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "Fine."
+    },
+    {
+      "type": "narrator",
+      "content": "The reason her adult-like tone didn't feel out of place was because, in truth, it wasn't."
+    },
+    {
+      "type": "thought",
+      "speaker": "Havitz",
+      "content": "Extreme mental imagery training. Did she artificially accelerate her mental maturity?"
+    },
+    {
+      "type": "narrator",
+      "content": "When facing Havitz, Wizard's mental state seemed to align with that of someone in their energetic early twenties."
+    },
+    {
+      "type": "action",
+      "content": "The two of them sat side by side at the bar."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "A whiskey. Fill it to the brim with the strongest stuff you've got. And for her…"
+    },
+    {
+      "type": "action",
+      "content": "Havitz turned to Wizard and asked,"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "Milk?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "I'm fine."
+    },
+    {
+      "type": "action",
+      "content": "Havitz shrugged and handed the bartender a gold coin."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "Give her nothing, then."
+    },
+    {
+      "type": "action",
+      "content": "As the whiskey was being prepared, Havitz took puffs from his Asker drug cigarette, waiting."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "Thanks for granting my request."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "I don't plan on ambushing you. I want to make my intentions clear before I act."
+    },
+    {
+      "type": "narrator",
+      "content": "It was because she harbored no intent to kill."
+    },
+    {
+      "type": "narrator",
+      "content": "The very concept of assassination, the act of defining something, would destroy Wizard's purity."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "… I see."
+    },
+    {
+      "type": "action",
+      "content": "Havitz exhaled a long plume of smoke."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "I have a question."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "Ask."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "We share the same essence. You could probably kill me."
+    },
+    {
+      "type": "narrator",
+      "content": "Because she harbored no intent to kill, Havitz felt no instinct to avoid Wizard."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "If I die…"
+    },
+    {
+      "type": "narrator",
+      "content": "Her purity allowed her to perceive Vanishing, and her extreme training rendered even divine frequencies meaningless."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "Would you like to try being Satan?"
+    },
+    {
+      "type": "action",
+      "content": "For the first time, Wizard turned her head."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "For humans, parents are the cause, but for gods, they're the effect. Killing one's parents doesn't erase the concept of parenthood. In the end, the result comes first."
+    },
+    {
+      "type": "narrator",
+      "content": "From the perspective of a god."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "It's the same with Satan. Even if I die, the concept of Satan won't disappear. So, I'd like you to take over."
+    },
+    {
+      "type": "narrator",
+      "content": "Someone needed to protect the playground."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "I refuse.",
+      "tone": "firm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "Eliminating you is the reason Wena Wizard exists. Beyond that, there is no life for me."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "Is that so."
+    },
+    {
+      "type": "narrator",
+      "content": "It felt as if he were looking into a mirror."
+    },
+    {
+      "type": "action",
+      "content": "Havitz took a deep drag from his Asker, then downed his whiskey in one gulp."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "Khh…"
+    },
+    {
+      "type": "action",
+      "content": "Letting out a refreshing sigh, he set the glass down and stood, pointing toward the door."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "Let's get started."
+    },
+    {
+      "type": "action",
+      "content": "Havitz led Wizard outside, stopping at the door to look up at the sky."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "Can you teleport us? Let's go somewhere quiet, preferably without people."
+    },
+    {
+      "type": "narrator",
+      "content": "Though she wouldn't care in her focused state, it would be different after the battle was over."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "All right."
+    },
+    {
+      "type": "action",
+      "content": "Wizard cast a teleportation spell, and the sky bent as if twisting light, carrying them away."
+    },
+    {
+      "type": "action",
+      "content": "They arrived in a clearing deep in the forest, 20 kilometers outside Jive."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "This'll do. Nice and quiet."
+    },
+    {
+      "type": "action",
+      "content": "As birds scattered into the sky, Havitz drew his longsword and stepped back, creating distance."
+    },
+    {
+      "type": "action",
+      "content": "At his feet, 11 black shadows emerged."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "Shiok."
+    },
+    {
+      "type": "action",
+      "content": "In an instant, 11 cultists formed a circle around him, excluding the one associated with the Sloth of 4 o'clock."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "Sorry, but I have to use Shiok. Without it, my strength drops by half."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "That's fine."
+    },
+    {
+      "type": "narrator",
+      "content": "It was already accounted for in her simulations."
+    },
+    {
+      "type": "thought",
+      "speaker": "Wizard",
+      "content": "The Sloth of 4 o'clock is irrelevant."
+    },
+    {
+      "type": "narrator",
+      "content": "While they couldn't account for every moment of 0.666 seconds, their individual combat abilities were formidable."
+    },
+    {
+      "type": "action",
+      "content": "The Pride of 1 o'clock bowed his head."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The Pride of 1 o'clock",
+      "content": "My apologies, Satan. The Sloth of 4 o'clock remains unselected."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "It doesn't matter."
+    },
+    {
+      "type": "narrator",
+      "content": "Shiok cultists were those who voluntarily followed Satan, and thus couldn't be artificially created."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "It wouldn't change much anyway. If you're ready, let's begin. Shall I go first?"
+    },
+    {
+      "type": "action",
+      "content": "The 11 Shiok cultists turned their attention to Wizard."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shiok cultists",
+      "content": "Arrogant girl. We'll tear you limb from limb."
+    },
+    {
+      "type": "action",
+      "content": "Despite their overwhelming bloodlust, Wizard stood in a natural stance, eyes closed."
+    },
+    {
+      "type": "narrator",
+      "content": "The emotions of the Shiok wavered."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shiok",
+      "content": "What is this?"
+    },
+    {
+      "type": "narrator",
+      "content": "Her sense of inevitability was so overwhelming, they didn't even want to pay her attention, despite her vivid presence."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shiok",
+      "content": "Just as no one questions the sun…"
+    },
+    {
+      "type": "narrator",
+      "content": "If Satan existed beyond perception, then she was at the core of what everyone could perceive."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shiok",
+      "content": "It feels like even someone 2,000 kilometers away would know who this child is."
+    },
+    {
+      "type": "action",
+      "content": "As Wizard opened her eyes, a translucent avatar began to shimmer, like a mirage."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "Void God."
+    },
+    {
+      "type": "action",
+      "content": "A grotesque tree with the face of a fetus began to grow rapidly."
+    },
+    {
+      "type": "sfx",
+      "content": "Hwoo-o-o-o-o…"
+    },
+    {
+      "type": "action",
+      "content": "Its swollen, sealed eyes and mouth hung open, its tongue extending as long as its torso, swaying back and forth."
+    },
+    {
+      "type": "action",
+      "content": "Even as the Void God writhed and grew violently, the Shiok couldn't move."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shiok",
+      "content": "What kind of power is this?"
+    },
+    {
+      "type": "sfx",
+      "content": "Hwoo-o-o-o-o…"
+    },
+    {
+      "type": "action",
+      "content": "As countless branches sprouted from the twisting trunk like the limbs of insects, suddenly—"
+    },
+    {
+      "type": "sfx",
+      "content": "Hwoo—"
+    },
+    {
+      "type": "action",
+      "content": "The sound cut off abruptly, and the Void God dissolved into the atmosphere, as if it had been absorbed."
+    },
+    {
+      "type": "action",
+      "content": "In the moment of the overwhelming silence that followed, the Shiok shuddered."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "Dodge!"
+    },
+    {
+      "type": "action",
+      "content": "Wizard formed a hand sign."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "Negative Perspective."
+    },
+    {
+      "type": "action",
+      "content": "Before they could react, a fist-shaped shockwave descended along the diagonal plane of the Shiok."
+    },
+    {
+      "type": "sfx",
+      "content": "Thunderous crash."
+    },
+    {
+      "type": "action",
+      "content": "The crash shook Havitz's gaze."
+    },
+    {
+      "type": "thought",
+      "speaker": "Havitz",
+      "content": "What is this?"
+    },
+    {
+      "type": "narrator",
+      "content": "When the Void God merges into the world, Wizard gains control of the five systems that compose the universe: Reality, Under World, Drimo, Undercoder, and the Abyss."
+    },
+    {
+      "type": "narrator",
+      "content": "A 100% perception rate that integrated all layers."
+    },
+    {
+      "type": "thought",
+      "speaker": "Havitz",
+      "content": "Where did it come from?"
+    },
+    {
+      "type": "narrator",
+      "content": "That unparalleled creativity transcends systems, striking the target directly from zero distance."
+    },
+    {
+      "type": "thought",
+      "speaker": "Havitz",
+      "content": "No, it didn't come from anywhere."
+    },
+    {
+      "type": "narrator",
+      "content": "It was a shockwave created from nothingness."
+    }
+  ],
+  "source_hash": "7ea6bc5ce6a2c49e76c12b8398d340d8ca5768aaa84bb8aa8b4e9612580082d6",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T04:44:48.245947Z"
+}

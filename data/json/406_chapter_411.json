@@ -1,0 +1,650 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "As the giant bird Kaidera flew towards Galliante Island, it spotted a cargo ship crossing the open sea and lowered its altitude."
+    },
+    {
+      "type": "action",
+      "content": "When Zulu dismissed Kaidera, the four people, including Siena and Kuan, began to fall rapidly towards the sea."
+    },
+    {
+      "type": "action",
+      "content": "Zulu and Siena used fly magic, while Shirone spread his wings to control his descent."
+    },
+    {
+      "type": "action",
+      "content": "For Kuan, a swordsman, altitude was not a familiar environment, but he didn't even blink as he confirmed the ship's position."
+    },
+    {
+      "type": "thought",
+      "speaker": "Kuan",
+      "content": "His ability to generate external force through vibration to counteract gravitational acceleration was no less than a mage's skill."
+    },
+    {
+      "type": "action",
+      "content": "Siena was impressed by the skill of the death magician she had only heard about in rumors."
+    },
+    {
+      "type": "narrator",
+      "content": "Ten years ago, he was considered unparalleled in swordsmanship movement."
+    },
+    {
+      "type": "narrator",
+      "content": "Such a person had lost his Achilles tendon, much like the one who had lost his eyes for her."
+    },
+    {
+      "type": "thought",
+      "speaker": "Siena",
+      "content": "'Come to think of it, they are similar.'"
+    },
+    {
+      "type": "action",
+      "content": "The four landed on the deserted aft deck of the ship."
+    },
+    {
+      "type": "action",
+      "content": "At the same time, Zulu summoned the auto-prism, making them all invisible."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zulu",
+      "content": "'As expected, things are easier with skilled people.'"
+    },
+    {
+      "type": "action",
+      "content": "How many could infiltrate a ship at sea and reach Galliante without being detected?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Zulu",
+      "content": "If Sein were here, he could have used Equilibrium to block out sound as well."
+    },
+    {
+      "type": "action",
+      "content": "No matter how dangerous Heaven was, with a team like this, they wouldn't be easily defeated."
+    },
+    {
+      "type": "action",
+      "content": "The warehouse was filled with goods from the mainland."
+    },
+    {
+      "type": "action",
+      "content": "The four of them went to a corner where sacks of rice were piled up and sat back-to-back in pairs."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zulu",
+      "content": "When we reach the port, I can't summon the auto-prism. There's a risk of being detected by a Jonah. Flue will be waiting at the rendezvous point, so we need to get out without being noticed."
+    },
+    {
+      "type": "action",
+      "content": "Siena handed a robe to Kuan."
+    },
+    {
+      "type": "action",
+      "content": "Zulu could cover her face with her current clothes, and Shirone could use his diamond armor to blend in."
+    },
+    {
+      "type": "action",
+      "content": "An hour later, the ship docked at the port. There was a commotion outside the warehouse, and the door opened hurriedly."
+    },
+    {
+      "type": "action",
+      "content": "As soon as the sailors entered, the four slipped out."
+    },
+    {
+      "type": "action",
+      "content": "The deck was busy with workers loading cargo from the island, so no one paid attention to them."
+    },
+    {
+      "type": "action",
+      "content": "The dock was bustling with ship mechanics, cargo handlers, warehouse managers, and traders."
+    },
+    {
+      "type": "action",
+      "content": "Gis, who had a deep connection with Shirone, was also running around the docks, soliciting travelers."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gis",
+      "content": "Hey, hey! I'll carry your luggage! I'll guide you to Galliante's famous Kergo ruins! Translation services available!"
+    },
+    {
+      "type": "action",
+      "content": "Shirone pulled his robe's hood down and glanced at Gis."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "'You're still the same, Gis. Is Yuna doing well too?'"
+    },
+    {
+      "type": "action",
+      "content": "Even though the Parrot Thieves had left, it seemed he was living a decent life."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gis",
+      "content": "Huh? Who's that?"
+    },
+    {
+      "type": "action",
+      "content": "When Gis turned around, Shirone lowered his head and followed his companions out of the dock."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He wanted to say hello, but there was nothing to say as he was heading towards his death, bidding farewell to the world."
+    },
+    {
+      "type": "action",
+      "content": "Gis, staring blankly at Shirone, was approached by his friends with worried expressions."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gis's friend",
+      "content": "Ugh, why aren't we getting any customers today? Huh? Gis, what's wrong? Did you see a ghost? Who was that?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gis",
+      "content": "No, I just felt strange. Those people..."
+    },
+    {
+      "type": "action",
+      "content": "His friend looked at the hooded figures and frowned. It seemed Gis's bad habit had resurfaced."
+    },
+    {
+      "type": "dialogue",
+      "content": "Hey, don't bother with people like that. They look dangerous. If you get involved, you might not survive."
+    },
+    {
+      "type": "dialogue",
+      "content": "My instincts as a ten-year hawker tell me the same. Those people reek of danger."
+    },
+    {
+      "type": "action",
+      "content": "Despite his friends' warnings, Gis couldn't take his eyes off them until they disappeared."
+    },
+    {
+      "type": "thought",
+      "speaker": "Gis",
+      "content": "He didn't know why, but a nostalgic feeling washed over him."
+    },
+    {
+      "type": "dialogue",
+      "content": "Hey! Over here! Need a porter?"
+    },
+    {
+      "type": "action",
+      "content": "A large man who had disembarked from the passenger ship approached, carrying luggage in both hands."
+    },
+    {
+      "type": "action",
+      "content": "Gis quickly snapped out of it. He raised his hand and ran over faster than anyone."
+    },
+    {
+      "type": "dialogue",
+      "content": "Yes, yes! I'm coming!"
+    },
+    {
+      "type": "action",
+      "content": "Kergo Ruins."
+    },
+    {
+      "type": "action",
+      "content": "Gaold, Kangnan, Sein, Zulu, Flue, Etella, Siena, Kuan, and Shirone."
+    },
+    {
+      "type": "action",
+      "content": "The nine participants in this project gathered together for the first time."
+    },
+    {
+      "type": "action",
+      "content": "There was no need for a separate briefing as they had talked along the way."
+    },
+    {
+      "type": "action",
+      "content": "There were a few agents in the ruins, but Sein, who had been waiting for a day, took care of them all."
+    },
+    {
+      "type": "action",
+      "content": "Of course, they couldn't let their guard down, so it was best to cover their faces."
+    },
+    {
+      "type": "action",
+      "content": "However, the main target, Gaold, threw back his hood and even took off his robe, tossing it to the ground."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "Put it on while I'm being nice."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "It's suffocating. Once we go in, it's over. From now on, we're heading to the Kergo autonomous district."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sein",
+      "content": "If there's someone waiting at Goffin's Gate, we'll assess their skills and recruit them. We might add one more person to this team."
+    },
+    {
+      "type": "action",
+      "content": "The group headed to the stepped altar on the east side of the central temple."
+    },
+    {
+      "type": "action",
+      "content": "It was the place where Shirone had opened the Immortal Function and passed Miro's test."
+    },
+    {
+      "type": "action",
+      "content": "A Kergo native was guarding the entrance, but it wasn't the same person Shirone had seen before."
+    },
+    {
+      "type": "action",
+      "content": "With Chief Kadum's death, the political landscape of the Kergo tribe had likely changed significantly."
+    },
+    {
+      "type": "action",
+      "content": "When Shirone and his friends visited a year ago, the native had exuded a terrifying aura, but now he seemed nervous, swallowing hard at the sight of Gaold's group."
+    },
+    {
+      "type": "action",
+      "content": "As a Kergo warrior, the gatekeeper couldn't fail to sense the refined, blade-like aura emanating from the nine of them."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Kertia, ro Hoima. Akrasia, Widmia Benzen."
+    },
+    {
+      "type": "action",
+      "content": "Knock on my door, and it will open."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "It was a nostalgic password that remained in Shirone's memory."
+    },
+    {
+      "type": "action",
+      "content": "But the native's reaction was different this time. Shaking his head with a serious expression, he spoke in Kergo."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Native",
+      "content": "Not now. There are too many people waiting to go to Heaven. Come back in three days."
+    },
+    {
+      "type": "action",
+      "content": "Gaold frowned slightly and swung his hand, sending the native flying with a thud."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone, staring in shock at the motionless native on the ground, asked Sein."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sein",
+      "content": "Gaold doesn't understand Kergo."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "......"
+    },
+    {
+      "type": "action",
+      "content": "When Gaold activated the device, the wall of the altar collapsed, revealing a door."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "But he doesn't like Kergo."
+    },
+    {
+      "type": "action",
+      "content": "Entering the altar, they descended an endless square spiral staircase."
+    },
+    {
+      "type": "action",
+      "content": "After about 20 minutes, they reached a corridor. As before, two natives guarded the iron door."
+    },
+    {
+      "type": "action",
+      "content": "From here, it was the world of Kergo, with no intersection with outside civilization."
+    },
+    {
+      "type": "action",
+      "content": "The natives had no qualms about displaying their tattoos and were much more aggressive than those guarding the entrance above."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Native",
+      "content": "Wait. How did you get in? From today, entry to Heaven is..."
+    },
+    {
+      "type": "action",
+      "content": "Gaold struck the native's jaw with the back of his hand, sending him to the ground with a thud."
+    },
+    {
+      "type": "action",
+      "content": "The other native, about to shout in anger, was silenced by a blow to his jaw from Gaold's other hand."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone, staring blankly at the two unconscious, nose-bleeding natives, thought this wasn't right."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "If they opened the Immortal Function in the Hall of Achievement and Sacrifice, they could go to Goffin's Gate with everyone's welcome. There was no need to cause trouble with Kergo."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Angel?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Shirone fell silent."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He could sense Gaold's terrifying anger, but that wasn't the only reason. He thought he understood why Gaold disliked Kergo."
+    },
+    {
+      "type": "action",
+      "content": "Inside the iron door was an octagonal room."
+    },
+    {
+      "type": "action",
+      "content": "Three men guarded the opposite iron door, and in the center stood a man with white tattoos symbolizing a Kergo priest."
+    },
+    {
+      "type": "action",
+      "content": "Even Shirone could see that their level of power was different from those who had blocked their way before."
+    },
+    {
+      "type": "action",
+      "content": "But Gaold ignored him and entered the altar where the eight spheres created by Miro floated."
+    },
+    {
+      "type": "action",
+      "content": "The priest frowned and moved towards them."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Priest",
+      "content": "Who are you? How dare outsiders enter the sacred angel's room..."
+    },
+    {
+      "type": "action",
+      "content": "Before he could finish speaking, Gaold grabbed a sphere and cast a spell."
+    },
+    {
+      "type": "action",
+      "content": "A simple air press shook the altar with a thud."
+    },
+    {
+      "type": "action",
+      "content": "The priest, looking around in shock, quickly turned his gaze to the sphere."
+    },
+    {
+      "type": "action",
+      "content": "The white light that Shirone couldn't see a year ago was now shining brightly."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone stared intently at the sphere."
+    },
+    {
+      "type": "action",
+      "content": "It was amazing that the white light was on, but more surprising was the small number displayed."
+    },
+    {
+      "type": "action",
+      "content": "1,008,000."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "One million eight thousand points..."
+    },
+    {
+      "type": "action",
+      "content": "Gaold approached the stunned priest, looked him straight in the eye, and said briefly."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Move."
+    },
+    {
+      "type": "action",
+      "content": "The priest's legs moved on their own, making way for Gaold."
+    },
+    {
+      "type": "action",
+      "content": "It was a score far exceeding the passing mark in the language of the gods."
+    },
+    {
+      "type": "action",
+      "content": "When they reached the Kergo autonomous district, warriors who had heard the news were guarding the entrance."
+    },
+    {
+      "type": "action",
+      "content": "Their eyes, holding their weapons high, gleamed with vigilance towards the outsiders."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Warrior",
+      "content": "This is the sacred land of Kergo! If you trespass, we will kill you without question!"
+    },
+    {
+      "type": "action",
+      "content": "As Gaold walked towards the wall of spears, he compressed an air sphere in his palm."
+    },
+    {
+      "type": "action",
+      "content": "Compared to the citizens of Heaven, the Kergo here were cute."
+    },
+    {
+      "type": "action",
+      "content": "Warriors willing to die for Anke La. Moreover, their individual combat abilities were on a different level."
+    },
+    {
+      "type": "thought",
+      "speaker": "Gaold",
+      "content": "But to Gaold, they were all just Kergos."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Everyone, lower your weapons!"
+    },
+    {
+      "type": "action",
+      "content": "Just as Gaold's press magic was about to explode, a sturdy man walked through the warriors."
+    },
+    {
+      "type": "action",
+      "content": "His black tattoos had turned gold, but Shirone recognized his face immediately."
+    },
+    {
+      "type": "action",
+      "content": "It was Mahatu, who had opposed Chief Kadum as a member of the Anti-Angel faction."
+    },
+    {
+      "type": "action",
+      "content": "The golden tattoos indicated that he had become the chief."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "Chief! They are heretics who assaulted the Kergo priest! Why do you dampen our resolve?"
+    },
+    {
+      "type": "action",
+      "content": "Mahatu briefly met Gaold's eyes before walking towards the eight companions standing behind him."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "It's been a while, Sir Shirone."
+    },
+    {
+      "type": "action",
+      "content": "Mahatu had learned the continental language."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "Mr. Mahatu, you've become the chief."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "I don't know if I'm qualified, but it happened."
+    },
+    {
+      "type": "action",
+      "content": "The warriors couldn't contain their anger."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Warrior",
+      "content": "Chief! Explain yourself! Who are these people?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "Why didn't you prove the angel's power?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Ah, well... there were some circumstances."
+    },
+    {
+      "type": "action",
+      "content": "Mahatu seemed to understand."
+    },
+    {
+      "type": "action",
+      "content": "Recently, many people had been flocking to the Kergo ruins."
+    },
+    {
+      "type": "thought",
+      "speaker": "Mahatu",
+      "content": "What on earth was happening in Heaven?"
+    },
+    {
+      "type": "action",
+      "content": "The severity of the situation was evident from the level of the people Shirone had brought."
+    },
+    {
+      "type": "thought",
+      "speaker": "Mahatu",
+      "content": "'What are these monsters?'"
+    },
+    {
+      "type": "action",
+      "content": "As Kergo's greatest warrior, Mahatu could sense it."
+    },
+    {
+      "type": "action",
+      "content": "Each of them was a master who had honed their skills to the extreme."
+    },
+    {
+      "type": "action",
+      "content": "Especially Gaold, who didn't seem human."
+    },
+    {
+      "type": "thought",
+      "speaker": "Mahatu",
+      "content": "Mahatu, who thought he would never lose in terms of fighting spirit, felt his resolve waver just by briefly meeting Gaold's eyes."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone couldn't help it either."
+    },
+    {
+      "type": "action",
+      "content": "Although extreme conflict was avoided due to ongoing negotiations, the tension between the warriors and Gaold remained intense."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Warrior",
+      "content": "Punish the heretics who assaulted the priest! We are ready to fight! We're not afraid of you!"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "Yeah, come on! Come at us!"
+    },
+    {
+      "type": "thought",
+      "speaker": "Kangnan",
+      "content": "Kangnan looked at Gaold arguing with the warriors who didn't understand him and rubbed his temples in frustration."
+    },
+    {
+      "type": "thought",
+      "speaker": "Kangnan",
+      "content": "'This guy shouldn't be the commander.'"
+    },
+    {
+      "type": "action",
+      "content": "Yet, he let it go because sometimes Gaold's methods were necessary."
+    },
+    {
+      "type": "thought",
+      "speaker": "Kangnan",
+      "content": "After all, wasn't this the day Gaold had waited for 20 years?"
+    },
+    {
+      "type": "action",
+      "content": "No matter how annoying he was, Kangnan couldn't scold him today."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Everyone, quiet! How dare you defy my orders!"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Warrior",
+      "content": "Chief! We are ready to die for your command. But compromising with heretics denies the very existence of Kergo!"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Fools. Do you know who is here?"
+    },
+    {
+      "type": "action",
+      "content": "The warriors' gazes turned to Shirone."
+    },
+    {
+      "type": "action",
+      "content": "But having been imprisoned under Kadum's iron rule a year ago, they had no way of recognizing the boy's face."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "This is Sir Shirone, the messenger of the gods who punished Kadum's faction and saved us, the Anti-Angel faction."
+    }
+  ],
+  "source_hash": "e0956a32c46f6cdf65e45cde80105005bb8bf2302fd5636689f15f9237ae60a1",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T06:03:27.481539Z"
+}

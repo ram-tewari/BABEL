@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\google\api_core\page_iterator.py
+# hypothesis_version: 6.148.8
+
+['GET', 'POST', 'items', 'maxResults', 'nextPageToken', 'next_page_token', 'pageToken', 'page_token']

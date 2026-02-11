@@ -1,0 +1,55 @@
+{
+  "blocks": [
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "System Operation (4)",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In truth, Overflow isn't such a big deal.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "To the average person, it may seem like the eccentricity of a genius,",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "but if you were to visit the Royal Magic Academy, it would be full of such kids.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Only those who stood out from the crowd and then fought through fierce competition could even begin to be recognized as geniuses in the world of talent.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Still, since she had taken on the task, Olivia couldn't just handle it carelessly,",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Olivia walked towards Dante with a smile that made many students fall in love.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Hello? You must be Dante?",
+      "tone": null
+    }
+  ],
+  "source_hash": "63eed86511e685578e326ebb74c3c64daf26c86e7980dbb33b8e99293329dab9",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T17:49:40.384645+00:00"
+}

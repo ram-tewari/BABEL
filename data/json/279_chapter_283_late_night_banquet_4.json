@@ -1,0 +1,763 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy frowned more than Shirone.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "While showing off is also a virtue for royalty, she didn't seem to realize that the more they did so, the more dangerous it became for Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone scanned the faces of the nobles gathered in the banquet hall, his gaze met that of a large man across the room.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The man let out a hearty laugh and strode diagonally across the hall toward him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ritney Walker",
+      "content": "Greetings, Shirone-nim! My apologies for the late greeting. I was over there enjoying some lamb stew, which happens to be my favorite.",
+      "tone": "friendly"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ritney Walker",
+      "content": "Oh, look at me, I'm late again with my introduction. I'm Ritney Walker, Chief of Security. I'm the chief in charge of maintaining order in the royal palace.",
+      "tone": "friendly"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone smiled for the first time.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "As the person responsible for security, Walker was someone related to his parents' safety, so it wouldn't hurt to get on his good side. Moreover, his straightforward attitude, unlike that of a noble, was also likable.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hello. Nice to meet you.",
+      "tone": "polite"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ritney Walker",
+      "content": "Haha! That's right! There's never a good reason to see the chief of security too often, is there!",
+      "tone": "jovial"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He was a reassuring figure. His face bore the traces of 60 harsh winters, but his physique was the largest and most solid-looking of anyone in the banquet hall.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When Walker offered a handshake, Shirone also grasped his hand.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At that moment, Walker's eyes flashed, and a wave of light surged into Shirone's mind.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone felt as if his thoughts had stopped for a moment.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The dominance of Walker's Eye Technique was on a completely different level from anything Shirone had experienced before.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But befitting a mage who had reached the realm of Unbreakable Diamond, he didn't easily give up control.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Walker tilted his head as if puzzled, then soon smiled as if he understood and released his eye technique.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone looked at Walker, swallowing his rough breath down his throat.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Though his thoughts had momentarily vanished and he couldn't remember much, he didn't sense any hostility from him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ritney Walker",
+      "content": "As expected, you're amazing. To withstand Clear.",
+      "tone": "impressed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Clear? Is that an eye technique?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ritney Walker",
+      "content": "It is. It's a technique that injects madness into the target. Prolonged exposure can cause someone to lose consciousness. But it seems ineffective against you, Shirone-nim.",
+      "tone": "explaining"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's eyes narrowed slightly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Are you saying you tried to make me faint?",
+      "tone": "accusing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ritney Walker",
+      "content": "Haha! Of course not. I was just demonstrating how powerful madness can be. It's so powerful that once under Clear's influence, one can't think at all. Thanks to that, it even wipes away mental magic cleanly. It's like using hydrochloric acid to remove stains that soap can't erase.",
+      "tone": "jovial"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Madness was the purest mental state humans can reach. Therefore, any thought was bound to be swept away in the face of madness.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "As the person in charge of the security of the royal palace, I had a duty to check if Shirone-nim had been brainwashed. If you find it rude, I apologize.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone understood Walker's feelings.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "This wasn't a battlefield; it was the heart of the kingdom. The threats the chief of security had to deal with weren't just the visible ones.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's fine. If I were brainwashed, I wouldn't be able to know, right? Being checked like this actually puts my mind at ease. It also feels like I've had a vaccination.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Walker scratched his head awkwardly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ritney Walker",
+      "content": "To be honest, it didn't fully work. But if you can withstand Clear which I've honed for decades, no one should be able to brainwash you, Shirone-nim. Even if you were brainwashed despite this... well, what can we do? It would be beyond anyone's control.",
+      "tone": "serious"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone wasn't sure whether to laugh at this point. The chief of security's remarks seemed far too irresponsible.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ritney Walker",
+      "content": "The royal palace is a difficult place to understand. It's like a household where dozens of people with different surnames live under one roof. Always protect yourself.",
+      "tone": "advising"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone belatedly understood the meaning of his words and nodded.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes. I'll keep that in mind. It was nice meeting you.",
+      "tone": "polite"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Walker burst into hearty laughter as he crossed the hall once more.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Watching him pile on the lamb stew reminded Shirone of Rian, and a smile naturally formed on his lips.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The meeting between Shirone and Walker was an event that drew the attention of numerous nobles. And Zion was also one of the people who watched that scene.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After confirming that Walker had left, Zion went behind Arius and spoke to him while pretending to choose food.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "You think it'll be fine? It looked like Walker tried to use Clear just now.",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Arius was pondering that very thing.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "This morning, he had installed a backdoor in Shirone's mind in the waiting room. If Clear had properly entered, it could have had an effect.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arius",
+      "content": "Clear is definitely a natural enemy of mental magic.",
+      "tone": "explaining"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "So what, does that mean you failed?",
+      "tone": "accusing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Arius gave a relaxed smile.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arius",
+      "content": "Usually, that's the case. The backdoor is different from brainwashing or hypnosis. There's no need to interfere deep into the consciousness. I installed it at the 11th level in case this situation arose.",
+      "tone": "explaining"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "Are you sure? What if it broke somehow?",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "That won't happen. If Clear had invaded even the surface level, Shirone would have lost consciousness. Causing the first prince candidate to faint at a banquet full of nobles would've caused quite the stir.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The human consciousness's 11th layer is where external thoughts intrude, so no matter how pure Shirone's mind was, finding the door would be like finding a needle in a haystack.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zion",
+      "content": "Nevertheless, when Walker attempted Clear, it gave him goosebumps. As chief of security, he must have checked it in a hurry, but it was likely that everything below the 9th layer had been swept clean.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "It's unlikely that Walker really thinks Shirone has been brainwashed. What exactly is he suspicious of?",
+      "tone": "curious"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Ritney Walker.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "As the royal palace security chief and a swordsmanship theorist who authored 'Kazra Court Swordsmanship (Beginner)'. He had won a regional swordsmanship championship at eighteen and had quickly been recruited to the royal palace, rising rapidly in the ranks.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The position of security chief couldn't be filled by someone who was just strong. One must thoroughly understand the nature of politics.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zion",
+      "content": "The fact that he attempted Clear right after Ataraxia's demonstration was evidence that he anticipated the existence of flies clinging to the archangel's power.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "Then I must be within his range too. Of course, I'm no mere fly.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "By the way, what will you do now? Walker seems suspicious. You're not planning on leaving any loose ends that could come back to bite us, are you?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "There's nothing to worry about. Walker isn't an expert in mental magic, and Clear is just simple in principle, though wide in application range. Why, they say there is no panacea that is effective. If I put my mind, I can easily bypass it. Let's proceed as is.",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "I see. I understand.",
+      "tone": "reassured"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zion filled his plate with food and moved away from Arius.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Since parting ways with Walker, the nobles refrained from speaking to Shirone. There was nothing good to come from being picked on by the security chief.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Seeing Shirone standing alone, Amy, always quick to notice, came over to keep him company.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Shirone.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hmm? How's the party? Having fun?",
+      "tone": "polite"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Just so-so.",
+      "tone": "unenthusiastic"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Same here. So, what have you been up to?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy gestured toward her eyes.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "I've been observing with Red Eyes.",
+      "tone": "mysterious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Observing? What?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "How many times do people glance at you?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone stared blankly, his mouth slightly open.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Of course, while self-image memory was difficult, it wasn't impossible. But was there a need for such hard labor?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What kind of information can you get from that?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "I don't know. I just did it because I had nothing to do, but there really wasn't anything special. You're the main character of the banquet, so it's natural for people to glance at you.",
+      "tone": "unenthusiastic"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Haha! Right. Don't tell me you're just realizing that now?",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "But… I did notice one strange thing. If I saw correctly, there's a group that hasn't looked at you once throughout the entire banquet.",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As if telling him to check for himself, Amy gestured with her chin towards the opposite side. Where Shirone looked, mages belonging to the magic department were gathered.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At that moment, a middle-aged mage standing at the center of the group turned to look at Shirone. His gaze felt like it was cutting through Shirone's mind, making him feel frozen.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "That's Aimar Bosun, the chief of Magic Department.",
+      "tone": "informative"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "That person...",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A 4th-rank mage certified by the Red Line.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Known as a talented individual excelling in various fields to the point of mastering all elements, he was said to oversee all aspects of food production in the Kazra Kingdom.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Kazra, with its magical power weaker than other countries, had no certified 1st-rank mages except for the association president. In Thormia, the position of chief of Magic Department is held by a 3rd-rank archmage.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Still, Bosun was someone far beyond Shirone's ability to judge.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Bosun looked at Shirone for a long time, as if relieving the frustration he had felt until now. Then, with a smirk, he picked up a dish of food from the table and approached.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aimar Bosun",
+      "content": "Greetings. I am Aimar Bosun.",
+      "tone": "formal"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone and Amy bowed their heads in greeting.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aimar Bosun",
+      "content": "It was impressive—the ability of an archangel. It will be a great strength for the Kazra Kingdom in the future. That is, if Shirone-nim becomes the first prince.",
+      "tone": "provoking"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone remained silent, tense.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Though it was the same provocation, it felt different from Zion. Each word felt like it was piercing his mind like a blade.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aimar Bosun",
+      "content": "Would you like some?",
+      "tone": "friendly"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No. I….",
+      "tone": "refusing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's face turned pale as he inspected the food.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was a fresh truffle, a chocolate dusted with cocoa powder, the same type of dessert laced with a lethal dose of poison that had been served to her family.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "A surge of murderous intent welled up inside Shirone. Could it be that Bosun had attempted an assassination?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "No, that wasn't important. If he wasn't the culprit, it was even more vicious.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aimar Bosun",
+      "content": "Hm? What's wrong? Do you dislike chocolate? It's really delicious.",
+      "tone": "friendly"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone wanted to punch Bosun's lower jaw as he chewed the chocolate. He was so excited that he had such violent thoughts.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Yet Bosun remained calm, which only fueled Shirone's anger even more.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "This...!",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Just as Shirone was about to blurt something out, Amy grabbed his hand.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "It's a trap. Everyone in the royal palace knows that fresh truffles contain poison. Bosun just wanted to touch Shirone's nerves.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone also came to his senses and calmed his anger.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Seeing that his provocation hadn't worked, Bosun, as expected, lost interest and took his plate away.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aimar Bosun",
+      "content": "It was a pleasure meeting you. Well then, I'll be going.",
+      "tone": "friendly"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Bosun returned, the mages who hadn't even glanced at Shirone until now began to sneer at him.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Not a single one of them was a mage to be treated carelessly. Shirone realized anew where he was.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Shirone, are you okay? That bastard provoked you on purpose. You did well to endure it.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "That's right. He's a really bad person.",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The night was deep, but the banquet didn't end.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The nobles, seemingly tipsy, danced Kazra's traditional social dance to the court musicians' performance. And now was the time for Shirone's group to act.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As people drank and chatted with the women, information would inevitably slip out. The plan was to eavesdrop on this with Reina's powerful hearing.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "According to the original plan, Shirone and Reina were supposed to enter the banquet hall by now. But Amy, observing the situation, noticed Reina standing in a corner, merely watching the scene nervously.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "She seemed dejected from the earlier incident.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Was she this type of person? It's different from how she appears on the outside.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The thought that Reina was a kind person wasn't unpleasant, but it made her feel a pang in her heart.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In any case, work had to be done. With a sigh, Amy approached Reina and subtly nudged her toward Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Reina then pretended to give in and walked to Shirone. But even there, she hesitated for a while.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Should we start?",
+      "tone": "encouraging"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone treated her comfortably, Reina also regained her playfulness.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "After all the nagging I endured while learning, it'd be a shame not to put it to use, right?",
+      "tone": "playful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Reina followed Shirone's lead and circled the banquet hall. Numerous couples dancing the same dance brushed past them.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Just as musicians can detect an out-of-tune note even amidst dozens of instruments, Reina could similarly pick up on various pieces of conversation, treating voices like instruments themselves. She collected a vast amount of information.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Discussions about booking summer villas in advance. Talks of switching banks for slush funds. Whispered promises of secret meetings, saying to meet in rooms because security is tight.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When something big was about to happen, it would inevitably surface in conversation. But so far, from all the information gathered, there was no sign of anything significant.",
+      "tone": null
+    }
+  ],
+  "source_hash": "a37e38011533b68b1c136d513f90b0d3cbeb405a581cdde2506a9e0c5f7c9544",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T18:19:16.760198+00:00"
+}

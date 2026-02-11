@@ -1,0 +1,562 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "The game of Truth or Dare had begun, and the first question was over."
+    },
+    {
+      "type": "action",
+      "content": "Even that was enough to create a subtle tension among the students."
+    },
+    {
+      "type": "narrator",
+      "content": "Though it was an unspoken rule in the senior class never to bring up what was said during the game, the participants couldn't help but feel affected."
+    },
+    {
+      "type": "action",
+      "content": "Everyone was fiercely engaged in a battle of wits."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "So this is how it is. If I hadn't known, it could have been a disaster.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "action",
+      "content": "Shirone felt a bit more at ease and looked at Amy."
+    },
+    {
+      "type": "action",
+      "content": "No matter what question came up, he just had to point to her, avoiding early psychological warfare."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "She had gone through this process last year in the senior class. For Shirone, a new senior, her help was more valuable than gold.",
+      "tone": "calm"
+    },
+    {
+      "type": "action",
+      "content": "Amy met his gaze and shrugged."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Thank you, Amy. Really, thank you.",
+      "tone": "grateful"
+    },
+    {
+      "type": "narrator",
+      "content": "The psychological pressure disguised as tradition."
+    },
+    {
+      "type": "narrator",
+      "content": "Being able to avoid early psychological attacks from competitors was definitely an advantage in the senior class."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pony",
+      "content": "Haha, alright! Let's move on. Pony, why don't you go next? Everyone has to do it at least once.",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "content": "Pony, maintaining her icy expression, asked Neide, who stood opposite her."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "Who was the first person you saw when you got here?",
+      "tone": "neutral"
+    },
+    {
+      "type": "action",
+      "content": "It was a simple question, leaving no room for psychological games. She seemed uninterested in Truth or Dare."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Screamer",
+      "content": "Really? That's it? Can't you make it more interesting?",
+      "tone": "disappointed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "Forget it. This is childish.",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "content": "Neide looked at the Class Two students. He could find meaning in any question if he wanted, but since Pony had asked lightly, he answered honestly."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "The first person I saw was that guy.",
+      "tone": "casual"
+    },
+    {
+      "type": "action",
+      "content": "All eyes turned to the person Neide pointed at."
+    },
+    {
+      "type": "action",
+      "content": "A tall, lanky man with perfect curls and tanned skin from long sun exposure. His prominent cheekbones made him look even older."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "That's Pisho."
+    },
+    {
+      "type": "narrator",
+      "content": "Pisho was the oldest in the senior class at twenty-five, though he looked thirty-five."
+    },
+    {
+      "type": "narrator",
+      "content": "His specialty was insect magic, dealing with insects, a unique field among various magics."
+    },
+    {
+      "type": "narrator",
+      "content": "Insect magic was more academically developed than magical. Most specialists in this field became scholars, but Pisho stayed in school until twenty-five to get a mage's license for better opportunities."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Screamer",
+      "content": "Alright, I'll ask the next question.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "content": "Screamer's opponent was Dante. As the top students of Class Two and Class Three, it felt like a showdown between leaders."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Who do you think you could easily beat? Someone so weak you could crush them with a finger.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "content": "Even though the question wasn't directed at him, Shirone felt tense."
+    },
+    {
+      "type": "narrator",
+      "content": "No matter who Dante chose, it would hurt someone's pride. Any choice would leave lingering resentment."
+    },
+    {
+      "type": "action",
+      "content": "Dante frowned, deep in thought."
+    },
+    {
+      "type": "action",
+      "content": "The Class Two students watched him with sharp eyes, daring him to choose them."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Hmm, this is really tough.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Screamer",
+      "content": "Just be honest. It's an unspoken rule that there will be no retaliation for any choice.",
+      "tone": "encouraging"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Can't I just say all of Class Two? They all seem about the same.",
+      "tone": "sarcastic"
+    },
+    {
+      "type": "action",
+      "content": "The explosive atmosphere deflated instantly. Class Two's expressions turned cold, and Shirone's eyes widened."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Only someone like Dante, once the kingdom's top prospect, could say such a thing."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Screamer",
+      "content": "Sorry, but that's not allowed. You have to pick just one. That's the rule of Truth or Dare.",
+      "tone": "firm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Alright, then I'll pick you. Since you're the top of Class Two, choosing you means everyone else is below me.",
+      "tone": "confident"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "This guy is really crazy."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Screamer",
+      "content": "This guy is really crazy.",
+      "tone": "amused"
+    },
+    {
+      "type": "narrator",
+      "content": "Dante Airhein. The top prospect even at the Royal Magic School."
+    },
+    {
+      "type": "narrator",
+      "content": "Even now, he was considered one of the top candidates for graduation."
+    },
+    {
+      "type": "narrator",
+      "content": "But that was based on advanced class standards."
+    },
+    {
+      "type": "narrator",
+      "content": "Once past the Iron Gate, advanced class rankings no longer mattered."
+    },
+    {
+      "type": "narrator",
+      "content": "No matter how skilled, one mistake could lead to a downfall in the competitive senior class."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "This is why I hate rookies. They get pampered in the advanced class and think they're invincible."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Maya",
+      "content": "Can I ask the next question?",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "content": "Maya raised her hand."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Screamer",
+      "content": "Go ahead.",
+      "tone": "encouraging"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Maya",
+      "content": "Who's so adorable that you want to hug and kiss them right now?",
+      "tone": "playful"
+    },
+    {
+      "type": "action",
+      "content": "Shirone swallowed nervously. What would she ask?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "I just have to choose Amy. We've already agreed on this. No matter the question, it's no big deal."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Uh... what?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "content": "Even Amy seemed caught off guard by this unexpected question."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "This wasn't about choosing an answer. She had asked the question knowing the answer."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "What should I do? Should I pick someone else?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He thought it over but couldn't find a better solution than sticking to the plan."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I... I choose...",
+      "tone": "nervous"
+    },
+    {
+      "type": "action",
+      "content": "Blushing, Shirone pointed at Amy."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Wow! Really? You two are actually dating?",
+      "tone": "embarrassed"
+    },
+    {
+      "type": "action",
+      "content": "Eider exaggeratedly reacted, putting pressure on Shirone."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Screamer",
+      "content": "Wow, you had the courage to choose honestly. Since it's out in the open, why not show us?",
+      "tone": "encouraging"
+    },
+    {
+      "type": "action",
+      "content": "Ignoring him, Shirone looked back at Maya, who was laughing as if she found it all amusing."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Why had Maya asked him such a question?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He might never get the chance to ask, but this question couldn't pressure a newcomer, nor did it seem like something she would care about."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Luman",
+      "content": "Alright, who in Class Two do you think is definitely not a virgin?",
+      "tone": "playful"
+    },
+    {
+      "type": "action",
+      "content": "Pony's golden eyebrows furrowed angrily."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pony",
+      "content": "Disgusting...",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "content": "This was why she disliked the senior class traditions. Why should a royal like her be subject to such questions?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Luman",
+      "content": "I mean, who looks like they'd sleep with any guy?",
+      "tone": "teasing"
+    },
+    {
+      "type": "action",
+      "content": "The female students seemed to burn with indignation."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Hmm, I see.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "action",
+      "content": "Iruki rested his chin on his hand, trying to find a basis for his answer."
+    },
+    {
+      "type": "thought",
+      "speaker": "Iruki",
+      "content": "Of course, he couldn't tell just by looking. But he wasn't one to rely on intuition."
+    },
+    {
+      "type": "thought",
+      "speaker": "Iruki",
+      "content": "Excluding Amy, he considered the four Class Two girls: Pony, Maya, Suabi, and Dorothy."
+    },
+    {
+      "type": "thought",
+      "speaker": "Iruki",
+      "content": "First, he looked at Pony."
+    },
+    {
+      "type": "thought",
+      "speaker": "Iruki",
+      "content": "She turned her head slightly, as if insulted."
+    },
+    {
+      "type": "thought",
+      "speaker": "Iruki",
+      "content": "A royal..."
+    },
+    {
+      "type": "thought",
+      "speaker": "Iruki",
+      "content": "Pony's first impression was of a cold, noble ice flower."
+    },
+    {
+      "type": "thought",
+      "speaker": "Iruki",
+      "content": "As a royal, she likely didn't mingle with common nobles. Statistically, her pool of male acquaintances would be smaller."
+    },
+    {
+      "type": "thought",
+      "speaker": "Iruki",
+      "content": "Okay, not her. Next, Maya?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Iruki",
+      "content": "Maya watched with interest, curious about his answer. Though she was a candidate, she seemed to enjoy the situation."
+    },
+    {
+      "type": "thought",
+      "speaker": "Iruki",
+      "content": "She's too openly happy. That's a bit..."
+    },
+    {
+      "type": "thought",
+      "speaker": "Iruki",
+      "content": "Iruki turned to Suabi."
+    },
+    {
+      "type": "thought",
+      "speaker": "Iruki",
+      "content": "With her short, braided brown hair, she hadn't spoken a word since the event began and avoided eye contact."
+    },
+    {
+      "type": "thought",
+      "speaker": "Iruki",
+      "content": "Her gentle, rabbit-like appearance matched her timid demeanor, and she seemed genuinely terrified."
+    },
+    {
+      "type": "thought",
+      "speaker": "Iruki",
+      "content": "She's too shy. Isn't she a utility specialist?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Iruki",
+      "content": "Utility magic supported other mages rather than acting alone."
+    },
+    {
+      "type": "thought",
+      "speaker": "Iruki",
+      "content": "While sound magic excelled in wide-area buffs, utility magic focused on individual enhancement with excellent effects."
+    },
+    {
+      "type": "thought",
+      "speaker": "Iruki",
+      "content": "In the professional world, utility specialists were highly sought after, but fewer mages chose it due to its dependency on others."
+    },
+    {
+      "type": "thought",
+      "speaker": "Iruki",
+      "content": "Given her timid nature, Suabi's choice of utility magic made sense."
+    },
+    {
+      "type": "thought",
+      "speaker": "Iruki",
+      "content": "So that doll moves with an algorithm. I thought it was like a harvester."
+    },
+    {
+      "type": "thought",
+      "speaker": "Iruki",
+      "content": "Iruki made his decision."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "I choose you.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "content": "Despite the attention, Dorothy didn't react. It was as if she lived in another world."
+    },
+    {
+      "type": "action",
+      "content": "Iruki awkwardly lowered his hand."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dorothy",
+      "content": "Why me?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "I observed resignation and resistance. If someone were truly promiscuous, they wouldn't want to reveal it. Based on that, you seemed the most emotionally detached.",
+      "tone": "logical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dorothy",
+      "content": "You're right.",
+      "tone": "accepting"
+    },
+    {
+      "type": "action",
+      "content": "The boys looked at Dorothy in shock."
+    },
+    {
+      "type": "action",
+      "content": "The boys looked back at Dorothy with surprised eyes."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dorothy",
+      "content": "I love all men.",
+      "tone": "matter-of-fact"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dorothy",
+      "content": "Iruki. I love you too.",
+      "tone": "romantic"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "And I love women too.",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dorothy",
+      "content": "Huh?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "content": "An exclamation of surprise came from someone."
+    },
+    {
+      "type": "action",
+      "content": "Regardless, Dorothy hugged the tin doll and slowly lowered her gaze."
+    },
+    {
+      "type": "action",
+      "content": "The gazes that had been focused on Dorothy scattered in different directions. It was an instinctive reaction."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "What is she talking about? She's out of her mind."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone was equally bewildered. Competing with people like this in the future seemed daunting."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Especially since Class One hadn't even stepped up yet."
+    }
+  ],
+  "source_hash": "378b5954d783cb99b5f8c9406501cf413e2357f0696563d377ecb44bd9459d35",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T05:25:09.006081Z"
+}

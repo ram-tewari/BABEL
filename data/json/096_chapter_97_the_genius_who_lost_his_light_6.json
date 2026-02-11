@@ -1,0 +1,367 @@
+{
+  "blocks": [
+    {
+      "type": "dialogue",
+      "speaker": "Akein",
+      "content": "Master! What happened? Did the experiment succeed?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Yes, it succeeded! Our magic worked!",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But Alpheas couldn't rejoice.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Erina's condition was clearly abnormal.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "But why is my wife like this? Darling! Snap out of it!",
+      "tone": "panicked"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Akein rechecked the gauges and was shocked.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "While individual metrics were normal, her overall bodily rhythms were declining simultaneously, as if her very life was fading.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "How? This didn't happen in the clinical trials!",
+      "tone": "frustrated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Darling! Erina! Open your eyes!",
+      "tone": "desperate"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Erina half-opened her eyes and smiled faintly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Erina",
+      "content": "Darling... I'm okay.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Erina! What's wrong? Where does it hurt?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Erina",
+      "content": "A rejection reaction started from the terminal nerves. There must be something different about human brains. But you've done something incredible. With a little more research...",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Gah!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Erina convulsed, gasping for air.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Darling! Don't speak! I'll fix this! No matter what, I'll save you...!",
+      "tone": "determined"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Alpheas cursed his own intellect for realizing it was already irreversible.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But he had to say it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Erina slowly shook her head.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "What her husband knew, she now knew too.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Erina",
+      "content": "Darling... hold my hand.",
+      "tone": "emotional"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheas gripped her hand tightly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "If there had been even a 1% chance, he would have tried. But now, all he could do was stay by her side.",
+      "tone": "resigned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Erina",
+      "content": "Erina, this can't be. How can this...?",
+      "tone": "disbelieving"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Erina",
+      "content": "Darling, I'm sorry.",
+      "tone": "emotional"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "For what? You have nothing to—",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Erina",
+      "content": "For being stupid.",
+      "tone": "self-deprecating"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheas's heart shattered.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "How could he have forgotten her words—that she was beautiful just as she was? Why had he tried to change her?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "No... why are you sorry? I'm the one who's sorry! I was the stupid one! I was the fool!",
+      "tone": "defensive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Erina",
+      "content": "Meeting you was my greatest fortune.",
+      "tone": "grateful"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Erina finally understood her husband. The wonderful world ruled by reason. He had lived there. She was happy to share it briefly, to carry his memories as she departed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Darling! Open your eyes! Please... I was wrong, darling!",
+      "tone": "desperate"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Erina's eyes closed, Alpheas hugged her and wailed.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Waaaaah!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Akein bowed his head solemnly.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "What made human brains different from animals? If they had conducted human trials from the start, this tragedy could have been avoided.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But it was a meaningless assumption.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Erina had set one condition for the experiment: never test it on others.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Akein",
+      "content": "That was why he had poured his heart into it. The data gathered would serve humanity well.",
+      "tone": "determined"
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "I'm sorry. I won't let your sacrifice be in vain.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A dull thud sounded.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Turning, he saw Alpheas smashing his head against the wall.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Waaaaah!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Each impact produced a cracking sound—whether from the wall or his skull was unclear.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Thud! Thud! Thud!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After repeatedly bashing his head, Alpheas's body bounced back like a rubber ball.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But he didn't stop.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The horror of surviving alone while his wife died twisted his insides.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Arrogant Alpheas!",
+      "tone": "self-loathing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheas charged at the wall again.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Thud!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Klump grabbed him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Klump",
+      "content": "Alpheas! Snap out of it! What are you doing?!",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Let go! Damn it! Waaaaah!",
+      "tone": "desperate"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even Klump's strength struggled to restrain him.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was as if his soul was burning itself out in a rush toward death.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But eventually, shock took over, his pupils dilating as consciousness faded.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Erina... Erina...",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even unconscious, he called his wife's name, bringing tears to Klump's eyes.",
+      "tone": null
+    }
+  ],
+  "source_hash": "8cc67c34118e0ef7eb66a2f33edd1766273e591b9521fb41b11e683ac7ba9da9",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T08:00:48.398391+00:00"
+}

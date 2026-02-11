@@ -1,0 +1,703 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "Rider of Iron Wall exhaled."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rider of Iron Wall",
+      "content": "Phew!",
+      "tone": "relieved"
+    },
+    {
+      "type": "action",
+      "content": "Moments later, his electric barrier shattered like glass."
+    },
+    {
+      "type": "action",
+      "content": "Blood spurted diagonally from his shoulder to his waist, and his upper body slid to the ground."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Defense magic is done."
+    },
+    {
+      "type": "action",
+      "content": "Gaold pulled his dislocated shoulder back into place."
+    },
+    {
+      "type": "narrator",
+      "content": "For someone with heightened sensitivity to pain, it was excruciating, but his eyes scanned his surroundings."
+    },
+    {
+      "type": "action",
+      "content": "The remnants of Cage B Team moved like a storm, but it was clearly a coordinated effort."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "What are they aiming for?"
+    },
+    {
+      "type": "action",
+      "content": "The dealers hadn't used their strongest attacks yet."
+    },
+    {
+      "type": "narrator",
+      "content": "They knew that ordinary attacks wouldn't work."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Are they betting on the Terminator?"
+    },
+    {
+      "type": "action",
+      "content": "That was likely accurate."
+    },
+    {
+      "type": "narrator",
+      "content": "They wouldn't include more than two irregulars in a Cage-level team."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Which means…"
+    },
+    {
+      "type": "action",
+      "content": "This was their last chance."
+    },
+    {
+      "type": "narrator",
+      "content": "Cage B Team was aiming for one perfect attack, and if Gaold could block it, the victory would be his."
+    },
+    {
+      "type": "action",
+      "content": "With that thought, Gaold's lips curled into a smile."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Talking nonsense."
+    },
+    {
+      "type": "action",
+      "content": "Gaold aimed at the metal mage Roche."
+    },
+    {
+      "type": "sfx",
+      "content": "Bang! Bang! Bang!"
+    },
+    {
+      "type": "action",
+      "content": "The air gun fired explosively, and Roche hastily erected a metal barrier."
+    },
+    {
+      "type": "sfx",
+      "content": "Clang! Clang! Clang!"
+    },
+    {
+      "type": "action",
+      "content": "The deafening noise created air bullet marks on the steel surface."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Roche",
+      "content": "Grrr!",
+      "tone": "gritting teeth"
+    },
+    {
+      "type": "action",
+      "content": "He kept thickening the barrier, but the air bullets quickly chewed through the metal."
+    },
+    {
+      "type": "action",
+      "content": "The metal barrier, crushed like clay, finally shattered, and dozens of holes pierced Roche's body."
+    },
+    {
+      "type": "sfx",
+      "content": "It took just one second for the air gun to penetrate the 20-centimeter-thick barrier."
+    },
+    {
+      "type": "action",
+      "content": "But that one second bought Rose enough time to approach Gaold."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rose",
+      "content": "This will do."
+    },
+    {
+      "type": "action",
+      "content": "Pleasure Magic."
+    },
+    {
+      "type": "narrator",
+      "content": "A high-level scent magic that stimulated the brain to evoke the most intense nostalgia."
+    },
+    {
+      "type": "action",
+      "content": "Gaold's face twisted cruelly."
+    },
+    {
+      "type": "narrator",
+      "content": "The already fragile emotional impact grew, tormenting him."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Grrr!",
+      "tone": "tormented"
+    },
+    {
+      "type": "action",
+      "content": "The gates of hell in his heart opened, and his extreme endurance turned the surroundings into hell."
+    },
+    {
+      "type": "narrator",
+      "content": "Though it made the already violent beast even wilder, Rose had a different plan."
+    },
+    {
+      "type": "action",
+      "content": "They couldn't overpower Gaold with force. Instead, they would excite him to create a cognitive blind spot."
+    },
+    {
+      "type": "narrator",
+      "content": "That blind spot was the only opening to subdue Gaold."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rose",
+      "content": "Roche!"
+    },
+    {
+      "type": "action",
+      "content": "But Rose overlooked one crucial fact."
+    },
+    {
+      "type": "narrator",
+      "content": "Though it wasn't intentional, Roche's death was a perfect trigger for Gaold."
+    },
+    {
+      "type": "action",
+      "content": "Tarvan, who had been friends with Roche since childhood, was consumed with rage, and that emotion clashed with Gaold's fury, creating a new gap."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Guh!",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "content": "Rose's neck was severed by a blade of wind, and Gaold's upturned white eyes locked onto Tarvan's movements."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "It's over."
+    },
+    {
+      "type": "action",
+      "content": "Horkin moved towards Gaold, separate from the plan."
+    },
+    {
+      "type": "narrator",
+      "content": "Tarvan and all the mages present were young and talented."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Horkin",
+      "content": "For the future of the kingdom, this must end here."
+    },
+    {
+      "type": "action",
+      "content": "Horkin activated his explosive magic."
+    },
+    {
+      "type": "sfx",
+      "content": "Suicide, a spell that caused a temporary magic assimilation effect by self-detonation, unleashed a powerful explosion that swept the area."
+    },
+    {
+      "type": "action",
+      "content": "Unlike the Battle Arena, the scale wasn't reduced, so the radius was immense."
+    },
+    {
+      "type": "action",
+      "content": "Cage B Team, having quickly moved away, stared blankly at the smoke-filled area."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Horkin",
+      "content": "He's alive."
+    },
+    {
+      "type": "action",
+      "content": "Gaold stood there, blood dripping from his forehead, looking displeased."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Saint Morak",
+      "content": "He's alive."
+    },
+    {
+      "type": "action",
+      "content": "The mission had failed."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Weygan",
+      "content": "There's only one thing left."
+    },
+    {
+      "type": "action",
+      "content": "Communication mage Weygan spoke."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Weygan",
+      "content": "Do we go all the way, or do we retreat?"
+    },
+    {
+      "type": "action",
+      "content": "They had no intention of retreating."
+    },
+    {
+      "type": "narrator",
+      "content": "But Horkin's wish for some to survive weighed on their minds."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tarvan",
+      "content": "We go all the way."
+    },
+    {
+      "type": "action",
+      "content": "At Tarvan's words, insect mage Beam stepped forward."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Beam",
+      "content": "We need to report to the higher-ups. Not everyone can go."
+    },
+    {
+      "type": "action",
+      "content": "Pick anyone. I'll stay."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Weygan",
+      "content": "I'll go. I'm not much help in combat anyway."
+    },
+    {
+      "type": "action",
+      "content": "No one blamed Weygan. To be part of Cage B Team, one had to have pride."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Weygan",
+      "content": "Let's go."
+    },
+    {
+      "type": "action",
+      "content": "As the remaining members turned, Gaold flew towards them."
+    },
+    {
+      "type": "narrator",
+      "content": "He realized further combat was pointless."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "You were a great team. For what it's worth."
+    },
+    {
+      "type": "action",
+      "content": "Tarvan's eyes filled with killing intent."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tarvan",
+      "content": "You don't really think it's over, do you?"
+    },
+    {
+      "type": "action",
+      "content": "If he could withstand Suicide, Kaiser Blast wouldn't work either."
+    },
+    {
+      "type": "narrator",
+      "content": "But he had to try. That was the Terminator's way."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Stop."
+    },
+    {
+      "type": "action",
+      "content": "Gaold relaxed his body and stood straight."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "The game is over. I let you have your fun, didn't I?"
+    },
+    {
+      "type": "action",
+      "content": "Game? Fun?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tarvan",
+      "content": "Vibrations gathered in Tarvan's hands."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "And… you can't go back anyway."
+    },
+    {
+      "type": "action",
+      "content": "Cage B Team looked puzzled, and Weygan asked."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Weygan",
+      "content": "We can't go back? Why?"
+    },
+    {
+      "type": "action",
+      "content": "You planned to return using the Meta Gate provided by the association, right?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "No one answered, but there were no secrets from Gaold, the former head of the Magic Association."
+    },
+    {
+      "type": "narrator",
+      "content": "Miro's dimension is probably gone. The Meta Gate coordinates would be disrupted."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Weygan",
+      "content": "What are the chances Miro's dimension is gone?"
+    },
+    {
+      "type": "action",
+      "content": "Saint Morak asked."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Not 100%, but over 80%."
+    },
+    {
+      "type": "action",
+      "content": "That high?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Weygan",
+      "content": "Cage B Team began to murmur."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "According to my information, Miro was captured by Archangel Kariel. The Archangel of Creation would have found a way."
+    },
+    {
+      "type": "narrator",
+      "content": "Miro was in Heaven."
+    },
+    {
+      "type": "action",
+      "content": "The new information complicated everyone's thoughts."
+    },
+    {
+      "type": "narrator",
+      "content": "If Miro's dimension was destroyed, Heaven's army would come to Earth."
+    },
+    {
+      "type": "action",
+      "content": "The association would soon learn this, but by then, it would be too late. Every second counted."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Morak",
+      "content": "We have to check."
+    },
+    {
+      "type": "action",
+      "content": "Morak looked at the team, and Tarvan asked."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tarvan",
+      "content": "How?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Weygan",
+      "content": "We have to go in ourselves."
+    },
+    {
+      "type": "action",
+      "content": "So it's a matter of who goes?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Weygan",
+      "content": "I'll go."
+    },
+    {
+      "type": "action",
+      "content": "There were no objections, and Weygan activated the Meta Gate."
+    },
+    {
+      "type": "action",
+      "content": "Standing before the black sphere, Weygan looked back at his comrades."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Weygan",
+      "content": "If the coordinates haven't changed, I'll come right back. Be ready to leave."
+    },
+    {
+      "type": "action",
+      "content": "With such a plan, even one minute was tight."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tarvan",
+      "content": "Come back quickly. Don't get sidetracked."
+    },
+    {
+      "type": "action",
+      "content": "Ha ha! Who knows."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Weygan",
+      "content": "Weygan gave a cute smile and entered the Meta Gate."
+    },
+    {
+      "type": "system_notification",
+      "content": "ΓÇö A minute passed, and he didn't return."
+    },
+    {
+      "type": "action",
+      "content": "The Great World War."
+    },
+    {
+      "type": "action",
+      "content": "A small magic circle appeared on Miro's crown and seemed to penetrate her mind."
+    },
+    {
+      "type": "narrator",
+      "content": "Miro's brow furrowed slightly."
+    },
+    {
+      "type": "narrator",
+      "content": "The restraint was on a different level from human-made magic control devices."
+    },
+    {
+      "type": "narrator",
+      "content": "It was a dangerous magic circle that could explode just by entering the Spirit Zone."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Miro",
+      "content": "Why don't they kill me? The dimensional wall should be gone."
+    },
+    {
+      "type": "action",
+      "content": "Kariel sneered."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kariel",
+      "content": "Don't worry. It'll be over soon."
+    },
+    {
+      "type": "narrator",
+      "content": "Even with Miro's dimension destroyed, Heaven's army wouldn't move without Anke Ra's permission."
+    },
+    {
+      "type": "narrator",
+      "content": "To annihilate the detestable humans, an independent force was needed."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kariel",
+      "content": "So Miro was still useful."
+    },
+    {
+      "type": "action",
+      "content": "The Archangel Council had already been convened. If he could get the opinions of the eight archangels, he could gather enough force to destroy humanity."
+    },
+    {
+      "type": "narrator",
+      "content": "With Gaold's attack on Heaven, even Anke Ra wouldn't be able to remain inactive."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kariel",
+      "content": "Look forward to it. I'll prepare a grand execution."
+    },
+    {
+      "type": "action",
+      "content": "Kariel left for the Archangel Council with a cold smile."
+    },
+    {
+      "type": "narrator",
+      "content": "Even with her life hanging by a thread, Miro showed no fear."
+    },
+    {
+      "type": "thought",
+      "speaker": "Miro",
+      "content": "Not killing me means the final war is postponed. But why?"
+    },
+    {
+      "type": "action",
+      "content": "She still didn't know."
+    },
+    {
+      "type": "narrator",
+      "content": "To realize something and start acting, she needed someone's help."
+    },
+    {
+      "type": "thought",
+      "speaker": "Miro",
+      "content": "Gaold has come?"
+    },
+    {
+      "type": "action",
+      "content": "Then Sein would be with him."
+    },
+    {
+      "type": "narrator",
+      "content": "She had caused Gaold a terrible tragedy with her mistake, but with her dimension destroyed, she could only hope they would complete their mission."
+    },
+    {
+      "type": "thought",
+      "speaker": "Miro",
+      "content": "But still…"
+    },
+    {
+      "type": "action",
+      "content": "Arius whimpered and rubbed his face against his restrained master, feeling sorry for her."
+    },
+    {
+      "type": "action",
+      "content": "Miro petted his chin like a puppy and raised an eyebrow."
+    },
+    {
+      "type": "thought",
+      "speaker": "Miro",
+      "content": "What have these fools been doing for 20 years?"
+    },
+    {
+      "type": "action",
+      "content": "The Seventh Heaven, Araboth."
+    },
+    {
+      "type": "action",
+      "content": "Ikael sat on the floor, meditating quietly."
+    },
+    {
+      "type": "narrator",
+      "content": "Ashur had gone to gather information on Kariel's actions but hadn't returned yet."
+    },
+    {
+      "type": "narrator",
+      "content": "Even he, who could manipulate signals freely, found it difficult to observe the Great World War without Kariel noticing."
+    },
+    {
+      "type": "narrator",
+      "content": "It would take much longer than usual, as he had to assemble information using signal interference."
+    },
+    {
+      "type": "narrator",
+      "content": "Ikael's anxiety grew."
+    },
+    {
+      "type": "narrator",
+      "content": "Something unusual was happening in Purgatory. What was going on?"
+    },
+    {
+      "type": "action",
+      "content": "As she sighed softly and calmed her mind, a voice echoed in her head."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Anke Ra",
+      "content": "Ikael."
+    },
+    {
+      "type": "action",
+      "content": "Her eyes snapped open."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Anke Ra",
+      "content": "Sinner Ikael, you are summoned."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Anke Ra",
+      "content": "The time has come for an answer."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "An answer?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Anke Ra",
+      "content": "Come before me. Your sins are forgiven."
+    },
+    {
+      "type": "action",
+      "content": "Her eyes, wide open, began to shine with a light as brilliant as the Milky Way."
+    },
+    {
+      "type": "thought",
+      "speaker": "Ikael",
+      "content": "Finally…"
+    },
+    {
+      "type": "narrator",
+      "content": "The time she had spent in penance, her powers restrained, for her unforgivable sin, had passed quickly."
+    },
+    {
+      "type": "thought",
+      "speaker": "Ikael",
+      "content": "She felt neither excitement nor joy."
+    },
+    {
+      "type": "narrator",
+      "content": "Her only thought was to reclaim her position as the Archangel and restore order to everything that had been disrupted."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "Understood."
+    },
+    {
+      "type": "action",
+      "content": "Ikael stood up abruptly and left the room."
+    },
+    {
+      "type": "action",
+      "content": "Her body blurred as she soared to the high spire of Araboth in an instant."
+    }
+  ],
+  "source_hash": "27ba5751750bfcd4a82b9f51f5eef9f61cd9b6676e247df1db6a32db693e13b9",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T06:46:16.273641Z"
+}

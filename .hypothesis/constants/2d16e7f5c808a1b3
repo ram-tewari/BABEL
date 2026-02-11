@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\uritemplate\variable.py
+# hypothesis_version: 6.148.8
+
+['!', "!$&'()*+,;=", '#', '%', '%s,%s', '%s=%s', '&', '*', '+', ',', '.', '/', ':', ':/?#[]@', ';', '=', '?', '@', 'Operator', 'URIVariable(%s)', 'explode', 'prefix', 'utf-8', '|']

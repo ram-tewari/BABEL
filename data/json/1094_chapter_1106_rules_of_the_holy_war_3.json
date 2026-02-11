@@ -1,0 +1,946 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "Fleeing from the pursuit of the holy knights, Shirone's group paused to catch their breath in a secluded area of the Papal residence."
+    },
+    {
+      "type": "action",
+      "content": "The area was lined with prayer rooms, empty and exuding an eerie, damp atmosphere."
+    },
+    {
+      "type": "action",
+      "content": "Shirone spoke."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I doubt they'd do anything in such a public space. Let's head underground."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "But they'll likely be guarding it."
+    },
+    {
+      "type": "action",
+      "content": "Neid countered."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "If they know we haven't left the Papal residence, they'll probably guess what we're planning."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Then we'll have no choice but to break through head-on..."
+    },
+    {
+      "type": "action",
+      "content": "A sobbing sound echoed down the hallway."
+    },
+    {
+      "type": "sfx",
+      "content": "Hhh… Hhh…"
+    },
+    {
+      "type": "action",
+      "content": "Leaning against the wall, Shirone peeked around the corner to find a woman holding a spear, crying bitterly as she walked."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Woman",
+      "content": "Oh, god Crea, why is the world so full of filth? Grant me the courage to make all bow before your feet…",
+      "tone": "mournful"
+    },
+    {
+      "type": "action",
+      "content": "Neid frowned."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "What's wrong with her? Is she insane?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "In a way."
+    },
+    {
+      "type": "action",
+      "content": "Shirone replied knowingly."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "She's likely one of the Inquisition's holy knights. If I'm right… she's one of the 'Weeping Ones.'"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "The Weeping Ones?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's a title given to members of the Inquisition: the Weeping Ones, the Laughing Ones, the Pleading Ones, the Angry Ones. And the leader of the Inquisition's holy knights is known as the Forgiving One."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "That's extreme—restricting human emotions to a single type."
+    },
+    {
+      "type": "action",
+      "content": "Neid remarked."
+    },
+    {
+      "type": "action",
+      "content": "Shirone nodded."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I heard it was abolished, but according to Omega's records, the holy knights of the Ramiel Church were trained from birth through extreme mental and physical discipline. The Inquisition's training was particularly…"
+    },
+    {
+      "type": "action",
+      "content": "Shirone hesitated."
+    },
+    {
+      "type": "narrator",
+      "content": "He was unwilling to describe its horrors."
+    },
+    {
+      "type": "action",
+      "content": "The woman's trembling voice drew nearer."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Woman",
+      "content": "Oh god, punish me, a sinner.",
+      "tone": "trembling/mournful"
+    },
+    {
+      "type": "action",
+      "content": "Snapping out of his thoughts, Neid suggested,"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "Let's take her down. Dragging someone like that around will only slow us down."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Don't overdo it this time.",
+      "tone": "warning"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "We don't need a repeat of earlier."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "Yeah, yeah. I just misjudged my strength earlier.",
+      "tone": "muttering"
+    },
+    {
+      "type": "action",
+      "content": "Electricity sparked between his fingers."
+    },
+    {
+      "type": "action",
+      "content": "Rounding the corner, he rushed toward the woman."
+    },
+    {
+      "type": "thought",
+      "speaker": "Neid",
+      "content": "One hit to knock her out."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Woman",
+      "content": "Hhh… Oh god…"
+    },
+    {
+      "type": "action",
+      "content": "As Neid closed in with his spark magic, he struck her neck with a jolt of electricity."
+    },
+    {
+      "type": "action",
+      "content": "The woman's body convulsed violently."
+    },
+    {
+      "type": "thought",
+      "speaker": "Neid",
+      "content": "Got her."
+    },
+    {
+      "type": "action",
+      "content": "But just as he thought so, her body twisted unnaturally, and the tip of her spear shot toward his throat with terrifying speed."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "Guh!"
+    },
+    {
+      "type": "action",
+      "content": "Neid bent backward in midair, narrowly avoiding the blade."
+    },
+    {
+      "type": "action",
+      "content": "The woman screamed."
+    },
+    {
+      "type": "narrator",
+      "content": "The scream sounded like a prayer."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Woman",
+      "content": "Oh god!"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "She's fast."
+    },
+    {
+      "type": "narrator",
+      "content": "Even Shirone would struggle to catch Neid in his Thunder God Reincarnation state, but the woman's movements were almost supernatural."
+    },
+    {
+      "type": "action",
+      "content": "Dodging the spear, Neid redirected himself with a crackle of static and charged his palm with electricity."
+    },
+    {
+      "type": "sfx",
+      "content": "Crackle of static"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "Take this!"
+    },
+    {
+      "type": "sfx",
+      "content": "Impact"
+    },
+    {
+      "type": "action",
+      "content": "The sound of impact was followed by the smell of scorched fabric as the woman dropped her spear and fell to the ground, trembling uncontrollably."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Now's my chance."
+    },
+    {
+      "type": "action",
+      "content": "Shirone darted forward, pressing the light of Agape to her forehead as he had done before."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Woman",
+      "content": "Ah… Ah…"
+    },
+    {
+      "type": "action",
+      "content": "The woman's tears seemed to pause momentarily—"
+    },
+    {
+      "type": "action",
+      "content": "—but blood soon trickled from beneath her eyes."
+    },
+    {
+      "type": "action",
+      "content": "Barely able to move her lips, her throat rasped out harsh words."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Woman",
+      "content": "You filthy wretch.",
+      "tone": "harsh"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The purification didn't work. The brainwashing runs too deep."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Woman",
+      "content": "Die!"
+    },
+    {
+      "type": "action",
+      "content": "The woman lunged with her claws raised, but Neid intercepted her, delivering a dual shock to her back."
+    },
+    {
+      "type": "sfx",
+      "content": "Bang"
+    },
+    {
+      "type": "action",
+      "content": "Her body flew over Shirone's head and slammed into the hallway wall."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "Hah… Hah…",
+      "tone": "panting"
+    },
+    {
+      "type": "action",
+      "content": "Neid panted heavily."
+    },
+    {
+      "type": "narrator",
+      "content": "Even Iruki refrained from scolding him this time."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "She's a fanatic. That was close."
+    },
+    {
+      "type": "action",
+      "content": "Iruki approached the fallen woman and checked her pulse."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "She's alive, but… look at her back."
+    },
+    {
+      "type": "action",
+      "content": "Where her scorched clothing revealed her skin, scars of horrific torture were visible."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Was she whipped? How does a body even endure this?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Self-inflicted."
+    },
+    {
+      "type": "action",
+      "content": "Shirone said, stepping closer."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "The Inquisition's role is to root out heretics through interrogation and torture. But the Ramiel Church decreed that they must first inflict equal suffering upon themselves before doing so to others."
+    },
+    {
+      "type": "action",
+      "content": "The group grew somber as Shirone continued."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Otherwise, they can't draw upon their divine powers. But enduring such agony leaves scars—not just physical but emotional—that can be projected onto others without any guilt."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "I see.",
+      "tone": "murmuring"
+    },
+    {
+      "type": "action",
+      "content": "Iruki murmured."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "They pass on the suffering without hesitation."
+    },
+    {
+      "type": "action",
+      "content": "Shirone nodded."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's troubling. If Agape can't purify her, then…"
+    },
+    {
+      "type": "action",
+      "content": "Laughter echoed from the opposite hallway."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Laughing One",
+      "content": "Heeheehee. Oh god, I'm so happy.",
+      "tone": "eerie/happy"
+    },
+    {
+      "type": "action",
+      "content": "As shadowy figures appeared, the group instinctively turned and fled around the corner."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "Creepy. What now? If purification doesn't work, do we just beat them all down?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Catching them one by one won't end this. We need evidence. Let's find the path to the underground…"
+    },
+    {
+      "type": "action",
+      "content": "Shirone suddenly stopped in his tracks."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Damn it."
+    },
+    {
+      "type": "action",
+      "content": "From the other end of the hallway, ten holy knights approached, their hands clasped together in prayer."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pleading Ones",
+      "content": "Oh god, bless this world. We pray for all to be happy.",
+      "tone": "prayerful"
+    },
+    {
+      "type": "narrator",
+      "content": "The Pleading Ones."
+    },
+    {
+      "type": "action",
+      "content": "Their murmured prayers filled the air, while laughter grew louder from behind."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "We'll have to fight, won't we?"
+    },
+    {
+      "type": "action",
+      "content": "At that moment, a familiar face appeared as a door to a prayer room opened."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seina",
+      "content": "This way."
+    },
+    {
+      "type": "narrator",
+      "content": "It was Seina."
+    },
+    {
+      "type": "narrator",
+      "content": "Trusting her was better than facing the holy knights."
+    },
+    {
+      "type": "action",
+      "content": "The group quickly slipped into the room."
+    },
+    {
+      "type": "action",
+      "content": "Seina activated a mechanism in the fireplace, revealing a hidden passage."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seina",
+      "content": "Follow me. Quickly. If they catch us, I'm done for too.",
+      "tone": "urgent"
+    },
+    {
+      "type": "action",
+      "content": "As they entered the secret passage, Seina suddenly grabbed Shirone by the collar."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seina",
+      "content": "You! Yahweh!",
+      "tone": "angry/accusatory"
+    },
+    {
+      "type": "action",
+      "content": "Neid and Iruki rushed to intervene, but Shirone raised a hand to stop them."
+    },
+    {
+      "type": "action",
+      "content": "Seina's eyes burned with fury."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seina",
+      "content": "What did you do to me? Why is my divine power weakening?",
+      "tone": "furious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Nothing. The brainwashing has been undone.",
+      "tone": "calm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seina",
+      "content": "Brainwashing?",
+      "tone": "surprised"
+    },
+    {
+      "type": "action",
+      "content": "Her grip loosened momentarily, but then she hoisted Shirone up with even greater force."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seina",
+      "content": "What nonsense is this? I haven't been brainwashed—I'm a Paladin of the Oracle Bureau!",
+      "tone": "indignant/forceful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You don't need me to tell you; deep down, you already know."
+    },
+    {
+      "type": "action",
+      "content": "After a pause, Shirone's feet returned to the ground."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seina",
+      "content": "Ugh, this is driving me crazy.",
+      "tone": "frustrated"
+    },
+    {
+      "type": "action",
+      "content": "Shirone continued,"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "There's something I want to ask. The harsh training of the holy knights—is it still ongoing?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seina",
+      "content": "…Officially, it's been abolished.",
+      "tone": "reluctant"
+    },
+    {
+      "type": "action",
+      "content": "Seina admitted reluctantly."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seina",
+      "content": "But since the Great War, there's been a movement to revive it. The number of holy knights has dropped far below pre-war levels."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What about the Inquisition?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seina",
+      "content": "I don't know much about them. Even among the holy knights, only those ranked up to third in the Papal hierarchy have access to the Inquisition."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "The third rank? The first is the Pope, the second?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seina",
+      "content": "…The Inquisition's Paladin Commander, Vanisa."
+    },
+    {
+      "type": "action",
+      "content": "Seina replied."
+    },
+    {
+      "type": "narrator",
+      "content": "The Forgiving One."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "If the second rank is the source of the problem, that leaves only the third."
+    },
+    {
+      "type": "action",
+      "content": "Shirone reasoned."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seina",
+      "content": "That's right, High Priest Maximus."
+    },
+    {
+      "type": "action",
+      "content": "Seina confirmed."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seina",
+      "content": "But he's unwell and in seclusion right now. He was injured when a woman named Lucia awakened her demonic powers."
+    },
+    {
+      "type": "action",
+      "content": "Iruki asked,"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "What kind of training do the holy knights undergo?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seina",
+      "content": "Anything to oppose evil. They're pushed to their mental and physical limits while reciting verses like, 'We serve God loyally,' or 'We reject the words of heretics.'"
+    },
+    {
+      "type": "action",
+      "content": "Seina's body trembled slightly as she spoke."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seina",
+      "content": "It's grueling, but at the time, I didn't think it was unfair. It felt like a necessary process to fight evil. But now… I'm not so sure.",
+      "tone": "reflective/doubtful"
+    },
+    {
+      "type": "narrator",
+      "content": "She began to doubt whether it had been her own will."
+    },
+    {
+      "type": "action",
+      "content": "Seina turned to Shirone, her eyes blazing."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seina",
+      "content": "Even if I received your blessing, my faith in Crea hasn't wavered! So why is my divine power weakening?",
+      "tone": "challenging/passionate"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You can recover it.",
+      "tone": "gently"
+    },
+    {
+      "type": "action",
+      "content": "Shirone said gently."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Once the doubt in your heart is cleared. You need to rediscover your faith on your own. If you're uncertain, confirm it now. Whatever you choose, make sure it's your decision."
+    },
+    {
+      "type": "action",
+      "content": "Seina bit her lip, lost in thought, before finally asking,"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seina",
+      "content": "What should I do?",
+      "tone": "thoughtful/seeking guidance"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Take us to the basement of the Papal residence. Something is happening there. Using forceful methods will never lead to true goodness."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seina",
+      "content": "…The basement belongs to the Inquisition. It's deep underground, so even within the Papal residence, we rarely encounter it.",
+      "tone": "hesitant"
+    },
+    {
+      "type": "action",
+      "content": "Seina said hesitantly."
+    },
+    {
+      "type": "action",
+      "content": "Resolving herself, she turned to face them."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seina",
+      "content": "Follow me. I don't know how much help I'll be, but I'll do what I can.",
+      "tone": "resolute"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Announcer",
+      "content": "The Kingdom of Paras! Entering!"
+    },
+    {
+      "type": "action",
+      "content": "While other nations rested within the main hall of the Papal residence, the Kingdom of Paras arrived."
+    },
+    {
+      "type": "narrator",
+      "content": "That was quick."
+    },
+    {
+      "type": "narrator",
+      "content": "Even with teleportation magic, such speed was impossible without top-tier mobility."
+    },
+    {
+      "type": "action",
+      "content": "At the forefront of the parade, a man lounged in a golden carriage, a massive serpent coiled around his neck."
+    },
+    {
+      "type": "narrator",
+      "content": "Kitra. The new King of Paras."
+    },
+    {
+      "type": "narrator",
+      "content": "Though the Middle East was currently dominated by Kashan, everything Kashan had originated in Paras."
+    },
+    {
+      "type": "narrator",
+      "content": "The cradle of civilization."
+    },
+    {
+      "type": "action",
+      "content": "The procession exuded pride in being the birthplace of intellect."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lupist",
+      "content": "They seem formidable.",
+      "tone": "murmuring"
+    },
+    {
+      "type": "action",
+      "content": "Lupist murmured."
+    },
+    {
+      "type": "action",
+      "content": "Shirone remained silent."
+    },
+    {
+      "type": "narrator",
+      "content": "He was deep in thought."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lupist",
+      "content": "What's on your mind?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's nothing.",
+      "tone": "quickly"
+    },
+    {
+      "type": "action",
+      "content": "Shirone replied quickly."
+    },
+    {
+      "type": "narrator",
+      "content": "In truth, he was locked in a confrontation within the Truth Pyramid with the entity known as Human."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Emotion sickness.",
+      "tone": "muttering"
+    },
+    {
+      "type": "action",
+      "content": "Shirone muttered."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's possible that King Kitra has been cured of it."
+    },
+    {
+      "type": "action",
+      "content": "The Paras procession reached the front of the Papal residence."
+    },
+    {
+      "type": "action",
+      "content": "Kitra met Shirone's gaze through the window and spoke."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kitra",
+      "content": "Have you received the baptism of Human?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "I knew it."
+    },
+    {
+      "type": "narrator",
+      "content": "Shirone was certain."
+    },
+    {
+      "type": "narrator",
+      "content": "The reason King Kitra approved the exploration of the Truth Pyramid..."
+    },
+    {
+      "type": "action",
+      "content": "Kitra's piercing gaze sparkled ominously."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He's already been inside."
+    },
+    {
+      "type": "action",
+      "content": "Kitra smirked coldly, as if he could read Shirone's thoughts."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kitra",
+      "content": "The burden of humanity."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kitra",
+      "content": "Cause and effect."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kitra",
+      "content": "It's truly ironic."
+    },
+    {
+      "type": "action",
+      "content": "A robed man approached the king and whispered,"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Robed Man",
+      "content": "Your Majesty, the time has come to alter fate.",
+      "tone": "whispering"
+    },
+    {
+      "type": "narrator",
+      "content": "Shirone did not miss the glint of madness that swept through Kitra's eyes."
+    },
+    {
+      "type": "narrator",
+      "content": "Astrologers. The most dangerous of all."
+    },
+    {
+      "type": "narrator",
+      "content": "The Zodiac Council of Paras was their national think tank, and they were not to be underestimated."
+    },
+    {
+      "type": "action",
+      "content": "Within the twisted space of the Truth Pyramid, Lucia wandered, searching frantically."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucia",
+      "content": "Glenn! Where are you, Glenn?",
+      "tone": "frantic"
+    },
+    {
+      "type": "thought",
+      "speaker": "Lucia",
+      "content": "Please be safe."
+    },
+    {
+      "type": "narrator",
+      "content": "Her powers were effective in subduing foes, but Glenn specialized only in healing."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucia",
+      "content": "Where did you go?"
+    },
+    {
+      "type": "action",
+      "content": "Taking another step forward, she suddenly found herself in a different scene."
+    },
+    {
+      "type": "thought",
+      "speaker": "Lucia",
+      "content": "Where is this?"
+    },
+    {
+      "type": "narrator",
+      "content": "It was the seminary under the Papal residence—the place where Lucia had first met Glenn."
+    },
+    {
+      "type": "action",
+      "content": "In the flashback, a teenage Glenn and Lucia ran about an empty chapel as if it were a playground."
+    },
+    {
+      "type": "action",
+      "content": "Lucia smiled faintly at the memory."
+    },
+    {
+      "type": "thought",
+      "speaker": "Lucia",
+      "content": "How carefree those days were—when simply playing with a friend was enough."
+    },
+    {
+      "type": "action",
+      "content": "But their laughter was cut short as a nun stormed in."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nun",
+      "content": "What are you doing in this sacred place? Today is an important day!",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Glenn & Lucia",
+      "content": "Ah!",
+      "tone": "startled/fearful"
+    },
+    {
+      "type": "action",
+      "content": "Both froze in fear as an older man entered behind the nun."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Older Man",
+      "content": "Now, now, don't be too harsh.",
+      "tone": "chuckling"
+    },
+    {
+      "type": "action",
+      "content": "He said with a chuckle."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Older Man",
+      "content": "They're just kids. I was the same at their age."
+    },
+    {
+      "type": "narrator",
+      "content": "It was High Priest Maximus, the current third in rank at the Papal residence."
+    }
+  ],
+  "source_hash": "b6d7e2b0c59da0e74071ddfb18995e4c2644eb6fd6082dfadaca457f3680664d",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T03:54:40.388371Z"
+}

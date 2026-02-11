@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\google\api_core\operations_v1\transports\rest.py
+# hypothesis_version: 6.148.8
+
+[400, '*', 'Content-Type', 'application/json', 'body', 'delete', 'get', 'https', 'method', 'post', 'query_params', 'uri', 'v1', '{host}{uri}']

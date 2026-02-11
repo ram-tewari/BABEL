@@ -1,0 +1,649 @@
+{
+  "blocks": [
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Ha ha! No. I was thinking about it, and it seems like I was in the wrong earlier.",
+      "tone": "apologetic"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Honestly, I did overcharge. Normally, I wouldn't ask for so much, but I guess I got too greedy.",
+      "tone": "apologetic"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Let me redeem myself. I'll show you something really fun.",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tess put her hands on her hips and said,",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "No way. The mood is already sour enough. Amy, just kick him out.",
+      "tone": "firm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "That's that, then. Goodbye.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Amy was about to close the door, Zis, looking desperate, shoved his hand in to stop it.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "J-Just wait! If your friends don't want to come, you can come alone.",
+      "tone": "desperate"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Why would I? This seems suspicious.",
+      "tone": "skeptical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Fine! I'll tell you the truth. I... I got in big trouble.",
+      "tone": "defeated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "From whom?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Even the street hawkers have an association. It seems my actions reached the ears of the higher-ups.",
+      "tone": "defeated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "So, they told you to guide the offended guest around the island. They said if word gets out, tourists won't use the services of hawkers.",
+      "tone": "informed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Can you just stop by for a moment? If not, I'm totally cut off. I might really have to beg like a beggar.",
+      "tone": "desperate"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Hmm.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy didn't let her guard down. Zis, already scared, anxiously awaited her decision.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Alright, I'll go out for a bit of fresh air. Wait here while I change.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zis's head perked up. Of course, that was why he had come, but he hadn't expected to get her consent so easily.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "On the other hand, Tess was flabbergasted. She hadn't expected Amy to fall for the hawker's words.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Thinking Amy's heart was hurt because of Shirone, she hurriedly followed Amy.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Amy! Why would you ever follow him? How can you trust that guy?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "It's okay. If it feels dangerous, I'll just come back.",
+      "tone": "resigned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Let's think about it a bit more. What about Shirone?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Forget it. Let him do as he pleases. Rian must be hungry too, how long are we going to wait? It's better this way. I'll eat out, and you can have a cozy time with Rian.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After changing and fixing her hair, Amy headed to the entrance. Despite Tess's persuasion, she was determined.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Do you really have to go? Then you have to come back quickly, okay? Just go for a breeze. If you're late, we'll come looking for you.",
+      "tone": "resigned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Got it. Rian, I'll be back in a bit. If Shirone comes back, let him starve.",
+      "tone": "defiant"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian was thoughtful. His usual ravenous demeanor was gone, replaced by a serious contemplation of the situation.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Was it really right to let her go? However, if she wanted to go, it would be ridiculous to stop her.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Zis, was it? Let's go.",
+      "tone": "resigned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Eh? Oh, okay!",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zis was dumbfounded. He had lost his senses ever since she descended the staircase in a black dress styled like a young girl.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With Amy gone, the villa felt desolate. Tess, with a heavy heart, sighed and shook her head.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Ah, how did it come to this? The atmosphere was good just a moment ago.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Should I have gone with her?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Idiot, don't you understand a woman's heart? How miserable would Amy feel if her partner's escort was someone else? And where on earth did Shirone go?",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Walking to the window, Rian watched Amy board the carriage.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The stars over the sea sparkled as if they were about to pour down.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "***",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zis sat opposite Amy. Having got her on the carriage, he could consider the plan more than 80% successful.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Alright, alright! Then, we're off! Hey, get moving!",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the coachman nodded and shook the reins, the two-horse carriage jolted forward.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zis kept talking non-stop. He wasn't a local for nothing; he rattled off even the most trivial facts no one wanted to know.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Did it matter if the vegetable store owner had an affair with a widow?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy didn't say a word, just gazing at the night view outside the window, deep in thought, paying no heed to Zis's words.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Eventually, Zis realized this and fell silent.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In truth, just looking at Amy's face was his greatest joy. Her calm demeanor now was a stark contrast to her angry expression earlier.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Could Falcoa really be planning to sell off this beautiful girl? The reality hadn't sunk in until she was seated in the carriage, but now fear crept in.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "How long will it take? Where are we going?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy spoke for the first time, hitting right at the core of the issue, startling Zis, who scrambled for an answer.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Ah, well... It's a bit far. It's the best place in Galliant. Really, you'll see when we get there.",
+      "tone": "nervous"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Really? The boss who targeted me wants you to take me there?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zis felt his heart drop.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Since when did she know? From the beginning? Then why did she get on the carriage, and why had she remained silent until now?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Well, that's...",
+      "tone": "nervous"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "No need to lie. I can see it in your eyes. You're pleading out of fear; only a fool wouldn't know. Just do your best. I'm only going to play along this once.",
+      "tone": "firm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Play... along?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Yeah. Whatever reason you became a scapegoat, quit it after this. I'm saving you because you're too pitiful.",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zis's face flushed with heat.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "What! Me, pitiful?",
+      "tone": "defensive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Then what, enviable?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "This, this is really...",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Before Zis could erupt in anger, Amy asked,",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "You, you threw a gold coin at me, didn't you?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "That, that was...",
+      "tone": "nervous"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zis averted his eyes. Just recalling the daytime incident made him flinch. That act had earned him a severe beating from Falcoa, a trauma he'd never forget.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "People like you don't last long in this line. Those with a lot to protect only get used and discarded.",
+      "tone": "firm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Tch, how would you know? A noble who's lived in luxury thanks to her parents.",
+      "tone": "defensive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "At least I know more than you. I used to dabble in this world too. Of course, I was at a much higher position than you.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zis bit his lip. In the end, that was the truth. No matter how much he tried to stand tall or raise his voice, it was impossible to stand eye to eye with her.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Are you pitying me?",
+      "tone": "defensive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Yes.",
+      "tone": "firm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "I don't want your pity. Not at all.",
+      "tone": "defensive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Then leave this world behind. This might be your last chance.",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zis lowered his head, feeling defeated.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "***",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After parting with Marsha, Shirone reached the beach. He had run non-stop, leaving his legs wobbly, but the real challenge was yet to come.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Since the villa was halfway up a mountain, he had to climb the slope.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Whew, why is my luck like this today? It's been nothing but running.",
+      "tone": "exasperated"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was after sunset, so Rian and Tess would be cooking by now.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If Amy was still waiting, he had to deliver the unfortunate news as soon as possible—the news that he had left the grocery basket behind.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Either way, it's like facing death.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone gritted his teeth and sprinted up the slope.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "By the time he reached the villa, he was gasping for air.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Barely making it to the entrance, Shirone, bent over, knocked on the door.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Rian, Amy, Tess. I'm back. Open up, please. Agh!",
+      "tone": "exhausted"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the door suddenly opened, Shirone fell forward. The response was much quicker than he had expected.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Shirone! Where have you been all this time? Do you know how long Amy has been waiting?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ah, sorry. There was a reason. Let's go inside and talk. My legs are shaking.",
+      "tone": "apologetic"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "There was no smell of food in the villa. Shirone felt even more apologetic, wishing they had eaten first.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Did you wait a lot because of me? But where's Amy?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ah, this is awkward.",
+      "tone": "nervous"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tess's hesitation was because she didn't want to stir unnecessary misunderstandings between the two.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Amy went out with that guy Zis we met at the harbor.",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Huh? Zis? The one who overcharged us? Why would Amy follow him?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "No idea. He suddenly showed up while she was waiting for you. Said he wanted to make amends for the daytime incident and took her away in a carriage somewhere.",
+      "tone": "informed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Amy just went along without any reason?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Yes! This is all because you were late. Amy was so lonely by herself. Tell me, what happened?",
+      "tone": "accusatory"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone deferred his answer. Now wasn't the time for such discussions.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Let's go. Do you know where?",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "We have no idea. Why are you so anxious? If you cared, you should have been nicer from the start.",
+      "tone": "accusatory"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's not because of me she left.",
+      "tone": "defensive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "What do you mean? Amy was so angry!",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Amy is quick-tempered but not impulsive. Even if she was angry at someone, she would not do something to worry them. At worst, she would have waited for me to return and then given me a piece of her mind.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tess was stunned. Shirone knew Amy well, so he was probably right.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Besides, thinking about it, that did seem like her. Quick to anger but tender-hearted, seemingly prickly but deeply considerate.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "So, there's really something wrong? It's just a hawker. Isn't Amy outstanding even in the magic academy?",
+      "tone": "concerned"
+    }
+  ],
+  "source_hash": "43b11b08b37b5d15b5f01f6328094fb7cc120296e8677451ec4c4ef0d4762296",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T16:02:52.638608+00:00"
+}

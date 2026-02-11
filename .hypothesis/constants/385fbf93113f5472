@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\chardet\codingstatemachine.py
+# hypothesis_version: 6.148.8
+
+['char_len_table', 'class_factor', 'class_table', 'language', 'name', 'state_table']

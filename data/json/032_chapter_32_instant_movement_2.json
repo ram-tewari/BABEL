@@ -1,0 +1,979 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The relentless argument made the older teachers frown.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Yet, they remained silent because their ranks were higher.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Siena and Sad, both in their mid-twenties and recognized as 6th-class mages, along with Etela, were the pride of Alpheas Magic School.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The debate showed no signs of cooling down.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Etela stepped in to mediate, but it was like fire and ice clashing, with neither side willing to yield.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheus merely smiled.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Without passion for education, they wouldn't be fighting like this.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was just that their passions were directed differently.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Sad wanted the school's development, while Siena wanted the student's growth.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "As teachers, they should side with Siena, but as an alumnus, Sad's feelings were understandable.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "I've heard both opinions clearly. I understand what you're saying, so let's stop here and take your seats.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As soon as Alpheus spoke, Siena and Sad stopped arguing as if it were a lie.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Their only common ground was their respect for Alpheus.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "From what I've heard, both sides have valid points. Teacher Siena's argument is logical. But we are teachers. Shouldn't we also avoid letting prejudice take root in the children's hearts?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sad",
+      "content": "That's exactly what I meant, Principal.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sad smiled, while Siena remained expressionless.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But Alpheus had no intention of ending it there.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After pondering, he smiled and proposed an idea.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "So… how about this method?",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "***",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A notice was posted on the senior class building's bulletin board.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dozens of students gathered in front of the board and were shocked by the contents.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was an unprecedented event in Alpheas Magic School's history.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "All members of Class Seven would undergo an advancement evaluation.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The main points of the notice were as follows: All Class Seven students would be given the opportunity for early advancement.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The advancement candidate would be one person, and upon passing the test, they would be promoted to Class Five.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Acknowledging the students' struggles, the evaluation would unusually be scored based on magic, not the Spirit Zone.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The evaluation subject was instant movement.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": null,
+      "content": "I-instant movement? I don't know how to do it. Do you?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": null,
+      "content": "No, of course not. It's a Class Five official designated magic.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": null,
+      "content": "I tried it once. But it was so scary I couldn't bring myself to try again.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": null,
+      "content": "Idiot! It's easy if you follow the formula. The problem is applying it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The murmuring voices of the children suddenly quieted.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shironé was walking over.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Under the barrage of countless stares, he arrived at the bulletin board and read the notice.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The conclusion from the faculty meeting was a direct showdown among the students.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shironé",
+      "content": "Instant movement.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shironé",
+      "content": "He engraved it firmly in his mind.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "***",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The so-called Class Seven bullying incident was also of interest to the senior class students.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Especially since the target was Shironé, there was much talk.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": null,
+      "content": "Oh my! There was such a thing? Aymi, did you know?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Aymi, who only checked the bulletin board at the end of the day, read the notice in disbelief.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When Seriel shared the specifics she'd heard from rumors, Aymi's fists trembled.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Aymi",
+      "content": "He was excluded? Because of me?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The classmates didn't even make eye contact with Shironé.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Moreover, during integrated classes, some even openly cursed when Aymi exchanged greetings with him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": null,
+      "content": "What do you think? Well, Class Seven has younger kids, so… I've had similar experiences, but I advanced quickly, so it wasn't a big deal.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": null,
+      "content": "Being young isn't an excuse. By that logic, aren't we young too?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": null,
+      "content": "Anyway, we're in Class Four. Magic involves a lot of mental aspects, so age shouldn't matter.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Aymi didn't want to argue.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Her mind was a mess, and she couldn't think straight.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "She was just angry that Shironé had gone through this.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aymi",
+      "content": "Idiot! Why didn't you say anything?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If he'd been honest and discussed it, they could've found a better solution.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Aymi",
+      "content": "No, they definitely could have.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Regardless of popularity, she was Class Four's top student.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Aymi",
+      "content": "The thought of trashy kids giving him the cold eye for being with her made her furious, as if it had happened to her.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aymi",
+      "content": "I need to see Shironé.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": null,
+      "content": "Going is fine, but what do you plan to do?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aymi",
+      "content": "First, I'll hit him. Then I'll gather all the Class Seven kids. Since we're dating, that's fine, right?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": null,
+      "content": "What? Are you crazy? Absolutely not!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": null,
+      "content": "Why not? Should I just leave it like this? It happened because of me!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": null,
+      "content": "Ugh, you really don't understand men. Why do you think Shironé didn't say anything? It's because his pride was hurt.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If you go and stir things up, what then?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": null,
+      "content": "Why do you think Shironé didn't say anything? It's because his pride was hurt. If they're being excluded, would they want to tell the girl they like?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Aymi",
+      "content": "Aymi couldn't understand.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The reason he hadn't even made eye contact was because he was scared of Class Seven kids?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Aymi",
+      "content": "If anything, Aymi's pride was the one hurt.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": null,
+      "content": "Men, you see, love to be acknowledged. They live and die by their pride.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Aymi",
+      "content": "Seriel's words made sense, but only if they were truly in love.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Aymi",
+      "content": "Even if it was a fake relationship, not saying anything—how should she interpret that?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Aymi",
+      "content": "He probably thinks he stepped in shit because of me. That's why he's avoiding me.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Seriel viewed the school's response positively.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": null,
+      "content": "Isn't it a relief? If he passes the advancement test, he can join Class Five.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": null,
+      "content": "The instant movement test is a really good choice. The Class Seven kids have to learn from scratch too.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Aymi",
+      "content": "Aymi thought differently.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "There was a difference between not having learned a specific spell and not having learned magic at all.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Aymi",
+      "content": "And instant movement, of all things?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The most important thing when learning instant movement is overcoming fear.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The speed is on a different level from flight magic, and if you collide with an obstacle, you could lose your life.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aymi",
+      "content": "Thinking about it, this is an incredibly dangerous test. What are the teachers thinking?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": null,
+      "content": "They'll adjust the difficulty appropriately. They might also be testing the students' passion.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": null,
+      "content": "Over half of Class Seven is apparently taking the test.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aymi",
+      "content": "What? So many, even though they've never learned it?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": null,
+      "content": "The reward is Class Five. Plus, everyone's learning from scratch. I'd have tried it too.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Aymi",
+      "content": "Aymi couldn't shake her unease.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The students taking the test would likely receive help from seniors or dedicated teachers for intensive practice.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Meanwhile, Shironé had no such luxury.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Aymi",
+      "content": "A dedicated teacher was unthinkable, and he wouldn't even have friends to ask for advice.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Aymi",
+      "content": "What if he really fails?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "She acknowledged Shironé's talent, but in the short term, this test didn't guarantee his success.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": null,
+      "content": "Right! Aymi, why don't you help Shironé? You could reconcile with him too.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aymi",
+      "content": "Hmph! After what happened, he didn't even consult me, and now he'll accept my help? I'll just keep pretending not to know.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": null,
+      "content": "Ugh, you two are really something. If you like each other, that's all that matters. Why make it complicated?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aymi",
+      "content": "Mind your own business. This is how we do things.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Anyway, I'm not exactly free either.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aymi",
+      "content": "The graduation class advancement test is right around the corner.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": null,
+      "content": "Oh, right! That's true. Sorry.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "For students, nothing is as important as advancement.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even Aymi wouldn't have the energy to focus elsewhere with the high barrier of the graduation class looming.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aymi",
+      "content": "He'll figure it out. If he can't handle this much, he doesn't deserve the title of my boyfriend.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Aymi",
+      "content": "Even if it's a fake relationship.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "***",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Midnight approached.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A masked figure infiltrated the boys' dormitory garden.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With movements reminiscent of a cat, their footsteps made no sound, not even rustling the grass.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Noticing a light on the seventh floor, they scratched their head irritably.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Aymi",
+      "content": "This is absolutely not because I'm worried. I'm helping because I share some responsibility!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Aymi gritted her teeth.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even if she tried to ignore it, Shironé was on her mind, making it impossible to focus on her studies.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aymi",
+      "content": "Just wait. I'll make you beg for forgiveness.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Aymi scaled the wall to the seventh floor.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If rumors spread of her crossing the boys' dormitory threshold at night, she wouldn't be able to show her face, but her childhood mischievousness hadn't faded.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Aymi",
+      "content": "Hehe, since it's come to this, I'll scare him out of his wits.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Aymi rolled forward as soon as she opened the window.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Mid-landing, her plan formed: subdue Shironé, throw him onto the bed, then twist his arm hard enough to make him scream.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aymi",
+      "content": "Huh?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But Aymi couldn't move a step.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shironé was staring at her with wide eyes.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "And beside him, Teacher Siena sat in a chair.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "T-teacher?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aymi",
+      "content": "You're Aymi?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Adjusting her glasses, Siena looked closer.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The red hair and distinct double eyelids confirmed it was Aymi.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "She knew Aymi and Shironé were dating, but she thought they'd been focusing on their studies lately.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Seeing this, their behavior was suspicious, to say the least.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Don't tell me you've been meeting like this all along? Pretending not to know each other during the day and having secret rendezvous at night?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aymi",
+      "content": "T-that's a huge misunderstanding, teacher! A really, really big one!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Siena hurriedly covered her mouth.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Shh! The next room might hear.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Aymi glanced nervously at the neighboring room.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "This was the boys' dormitory, after all.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If rumors spread of a girl's voice in Shironé's room, she'd be the prime suspect.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aymi",
+      "content": "Wait a minute! Teacher, what are you doing here? At this hour?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Now that she thought about it, Siena was the most out of place here.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "There was no reason for a teacher to visit in casual clothes at night when she could've just summoned him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "I came to give advice about the advancement test. Given the circumstances, it's better not to draw attention.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If the advancement test was the reason, Aymi had no retort.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She'd come for the same thing.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Um, senior.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shironé handed Aymi a teacup, prepared for guests.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shironé",
+      "content": "Have some tea first…",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aymi",
+      "content": "Hmph.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Aymi took the cup and savored the aroma.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "As expected of a polite junior, his hospitality was impeccable.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aymi",
+      "content": "Yeah, right! This whole mess is because of you!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shironé",
+      "content": "I-I'm sorry!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shironé's apology only made Aymi angrier.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "His overly gentle nature was probably why even the younger kids looked down on him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Let's sit first. I want to finish what we were discussing.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Aymi sat beside Shironé and turned away sharply.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "She'd come because she was worried, but she was still mad at him.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "As you both know, the test's evaluation subject is instant movement.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It's the principal's direct decision.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aymi",
+      "content": "The principal?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Aymi finally understood.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "A test unfit for Class Seven made sense if it was the principal's idea.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Yes. Honestly, I'm not sure of his intentions.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Instant movement is too dangerous for lower classes.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aymi",
+      "content": "The test will probably be on the 'Uncrossable Bridge,' right?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It's not confirmed, but there's no other place.",
+      "tone": null
+    }
+  ],
+  "source_hash": "2209a37415b836e0d9205fa690b1ff28fbba4a66328b357edf3a92465db4ec15",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T06:24:39.983022+00:00"
+}

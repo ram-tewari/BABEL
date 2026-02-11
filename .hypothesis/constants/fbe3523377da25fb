@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\google\api_core\gapic_v1\config.py
+# hypothesis_version: 6.148.8
+
+[1000.0, 'MethodConfig', 'methods', 'retry', 'retry_codes', 'retry_codes_name', 'retry_params', 'retry_params_name', 'timeout', 'timeout_millis', 'total_timeout_millis']

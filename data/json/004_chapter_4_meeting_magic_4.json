@@ -1,0 +1,1163 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "Shirone sensed he couldn't stay here long and asked his second question."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "How can one learn magic? Does it require a special power?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "content": "It was an unexpectedly mundane answer."
+    },
+    {
+      "type": "narrator",
+      "content": "Shirone thought Alpheas might be hiding the truth."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Is that really all? Do you mean if I think about creating wind, I could fly like you just did?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "action",
+      "content": "That's a rather difficult question."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "But to exaggerate somewhat, yes.",
+      "tone": "calm"
+    },
+    {
+      "type": "action",
+      "content": "Of course, mere thinking isn't enough."
+    },
+    {
+      "type": "narrator",
+      "content": "A magician's mind must perfectly harmonize with the world."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "It's like an extremely sensitive mental state.",
+      "tone": "explanatory"
+    },
+    {
+      "type": "action",
+      "content": "The children, seeing their principal seriously conversing with someone for the first time, didn't dare interrupt."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "How does one experience this extremely sensitive mental state?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "content": "Alpheas understood Shirone's intentions and smiled slightly."
+    },
+    {
+      "type": "narrator",
+      "content": "This wasn't mere curiosity. This child was exploring."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "When a magician concentrates, his mind becomes so sensitive that he can sense everything around him.",
+      "tone": "calm"
+    },
+    {
+      "type": "action",
+      "content": "Magicians call this entering the Spirit Zone."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "I'll show you a demonstration. Let one of these children show you.",
+      "tone": "encouraging"
+    },
+    {
+      "type": "action",
+      "content": "The girl named Shuamin answered confidently."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shuamin",
+      "content": "Yes, Principal.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "content": "As Shuamin closed her eyes to concentrate, the children created a quiet atmosphere."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shuamin",
+      "content": "I've entered the Spirit Zone.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "content": "Alpheas took out a coin and shook it."
+    },
+    {
+      "type": "action",
+      "content": "Then he grabbed the coin and extended his fist."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Now, how many coins are in here?",
+      "tone": "calm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shuamin",
+      "content": "Six.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "content": "When he opened his palm, six silver coins lay there."
+    },
+    {
+      "type": "action",
+      "content": "Ignoring Shirone's surprised expression, Alpheas repeated the action."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Let's try again.",
+      "tone": "calm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shuamin",
+      "content": "Three.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "content": "She was correct again."
+    },
+    {
+      "type": "action",
+      "content": "He tried several more times with the same result."
+    },
+    {
+      "type": "action",
+      "content": "Alpheas put away the coins with a satisfied expression."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "That's enough, Shuamin. Well done.",
+      "tone": "praising"
+    },
+    {
+      "type": "action",
+      "content": "Shuamin exhaled deeply."
+    },
+    {
+      "type": "narrator",
+      "content": "Even though she'd only guessed numbers, beads of cold sweat had formed on her forehead."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "This is what an extremely sensitive mental state means.",
+      "tone": "explanatory"
+    },
+    {
+      "type": "action",
+      "content": "Upon entering the Spirit Zone, a magician can perceive the external world with heightened senses."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Outstanding magicians can even count leaves on distant trees.",
+      "tone": "calm"
+    },
+    {
+      "type": "narrator",
+      "content": "Of course, what Shuamin demonstrated is impressive too."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "I felt he understood. I too had achieved the Thunder Strike by intuiting an impossible-to-find weak point through insight."
+    },
+    {
+      "type": "narrator",
+      "content": "By his reasoning, Shuamin hadn't counted the coins."
+    },
+    {
+      "type": "narrator",
+      "content": "She had concentrated all her senses and perceived the entire situation inside Alpheas's hand."
+    },
+    {
+      "type": "thought",
+      "content": "Anyone can do it.",
+      "corrected": true,
+      "correction_id": 56,
+      "speaker": "Shirone",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "content": "Alpheas said, reading Shirone's thoughts."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Anyone can enter the Spirit Zone.",
+      "tone": "calm"
+    },
+    {
+      "type": "narrator",
+      "content": "But not just anyone can do it."
+    },
+    {
+      "type": "narrator",
+      "content": "Innate talent."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "That was the world of magic.",
+      "tone": "explanatory"
+    },
+    {
+      "type": "dialogue",
+      "content": "Practice in a quiet place.",
+      "corrected": true,
+      "correction_id": 57,
+      "speaker": "Alpheas"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "First, feel yourself. Then erase yourself.",
+      "tone": "calm"
+    },
+    {
+      "type": "dialogue",
+      "content": "If you can do that, a different world will unfold before you.",
+      "corrected": true,
+      "correction_id": 58,
+      "speaker": "Alpheas"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I understand.",
+      "tone": "confident"
+    },
+    {
+      "type": "narrator",
+      "content": "Shirone got it."
+    },
+    {
+      "type": "dialogue",
+      "content": "If one cannot feel oneself, then one cannot erase oneself either.",
+      "corrected": true,
+      "correction_id": 59,
+      "speaker": "Shirone",
+      "tone": "explanatory"
+    },
+    {
+      "type": "action",
+      "content": "Alpheas was impressed again."
+    },
+    {
+      "type": "action",
+      "content": "This wasn't an insight a 12-year-old could normally comprehend.",
+      "corrected": true,
+      "correction_id": 60
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Would you try it? Here and now?",
+      "tone": "encouraging"
+    },
+    {
+      "type": "action",
+      "content": "Seeing no reason to refuse, Shirone closed his eyes."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He thought he might succeed by drawing on his Thunder Strike experience."
+    },
+    {
+      "type": "narrator",
+      "content": "But once he concentrated, he realized this was different from finding a tree's weak point."
+    },
+    {
+      "type": "narration",
+      "content": "He couldn't visualize anything.",
+      "corrected": true,
+      "correction_id": 61
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Trying to recall his own appearance only produced images constructed mostly from visual information."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "It was shocking how little he knew about himself."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "What am I? Who is this being called myself?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone delved endlessly into his thoughts."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Finally, he reached a thought about himself thinking."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The brain. Humans are their brains."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "No matter what he recalled, he couldn't clearly define himself."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Humans are merely brain functions."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "If thinking is all I am, then when I stop thinking, I cease to exist."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone began gradually erasing his brain functions."
+    },
+    {
+      "type": "action",
+      "content": "It was something anyone could do, but not just anyone could accomplish."
+    },
+    {
+      "type": "action",
+      "content": "His mind felt like it was being sucked into an abyss."
+    },
+    {
+      "type": "action",
+      "content": "For the first time, he felt he could see the form of concentration."
+    },
+    {
+      "type": "action",
+      "content": "As his nervous system connected to his five senses dissolved, he could no longer distinguish what was smell and what was touch."
+    },
+    {
+      "type": "action",
+      "content": "And finally, Shirone disappeared from his own brain."
+    },
+    {
+      "type": "action",
+      "content": "Shirone's eyes snapped open."
+    },
+    {
+      "type": "action",
+      "content": "The scene before him was peaceful."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "How was it? Did you hear anything?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "content": "Alpheas wasn't expecting much."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes, I heard.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "content": "Surprised by the unexpected answer, Alpheas raised his eyebrows."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Oh? What did you hear?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Sounds. I heard all sounds.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "content": "Well now, I see."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Alpheas nodded.",
+      "tone": "calm"
+    },
+    {
+      "type": "narrator",
+      "content": "Shirone probably hadn't entered the Spirit Zone."
+    },
+    {
+      "type": "narrator",
+      "content": "Even an ordinary person can hear all sorts of things after ten minutes of concentration."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "But what happens in the Spirit Zone is on an entirely different level.",
+      "tone": "explanatory"
+    },
+    {
+      "type": "narrator",
+      "content": "First, one experiences synesthesia."
+    },
+    {
+      "type": "narrator",
+      "content": "Sounds emit scents, light produces tastes, and images are felt through the skin."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "It seems impossible right away after all."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "What a shame. A child with potential."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "If he had been born a noble, if he had trained from childhood, might he have achieved similar accomplishments as these children here?"
+    },
+    {
+      "type": "narrator",
+      "content": "But that alone wasn't enough to change Alpheas's mind."
+    },
+    {
+      "type": "narrator",
+      "content": "The world is full of talented people, as numerous as stars."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "He couldn't even guarantee that all the children present would become magicians.",
+      "tone": "calm"
+    },
+    {
+      "type": "action",
+      "content": "Well done."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "With diligent practice, you'll be able to hear even more sounds.",
+      "tone": "encouraging"
+    },
+    {
+      "type": "action",
+      "content": "Alpheas patted Shirone and walked away with the children."
+    },
+    {
+      "type": "action",
+      "content": "Shirone knew he was disappointed."
+    },
+    {
+      "type": "action",
+      "content": "But even the fact that he didn't check to see if Shirone had left the school was kindness enough."
+    },
+    {
+      "type": "action",
+      "content": "Shirone climbed over the wall and ran frantically."
+    },
+    {
+      "type": "action",
+      "content": "Only after stopping and sitting down did he notice his heart pounding against his ribcage."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It really worked.",
+      "tone": "excited"
+    },
+    {
+      "type": "system_notification",
+      "content": "Γùå Γùå Γùå"
+    },
+    {
+      "type": "action",
+      "content": "Shirone heard all sounds."
+    },
+    {
+      "type": "narrator",
+      "content": "Of course, there were other sensations too, but he couldn't tell Alpheas about them."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "When his vague ideal became tangible, all his thoughts warned him that proceeding further would be dangerous."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Perhaps he hadn't entered the Spirit Zone after all."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He still couldn't define what it was."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "It felt as if his body was breaking into particles and dispersing."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "As his senses opened, all kinds of information poured in."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He trembled at the vastness of a world entirely different from what he perceived with his five senses."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Simultaneously, one truth pierced his mind."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "I am infinite."
+    },
+    {
+      "type": "sfx",
+      "content": "Hic, sob."
+    },
+    {
+      "type": "action",
+      "content": "Shirone shed tears from overwhelming emotion."
+    },
+    {
+      "type": "action",
+      "content": "He closed his eyes tightly and ran."
+    },
+    {
+      "type": "action",
+      "content": "He didn't even realize he was running."
+    },
+    {
+      "type": "action",
+      "content": "His awakened brain secreted an enormous amount of adrenaline, causing him to temporarily black out."
+    },
+    {
+      "type": "sfx",
+      "content": "Oof!"
+    },
+    {
+      "type": "action",
+      "content": "Shirone clutched his nose and fell on his backside."
+    },
+    {
+      "type": "action",
+      "content": "Coming to his senses, he found himself in an alley."
+    },
+    {
+      "type": "action",
+      "content": "The gloomy place Vincent had strictly forbidden him to enter."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Young Man",
+      "content": "What the hell, how annoying!",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "content": "The young man who had been hit by Shirone's back fell and snapped angrily."
+    },
+    {
+      "type": "action",
+      "content": "In front of him stood some rough-looking men glaring at Shirone."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Young Man",
+      "content": "What's your problem? Are you crazy?",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "content": "He had slanted eyes and a viciously twisted lip."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'm sorry!",
+      "tone": "apologetic"
+    },
+    {
+      "type": "action",
+      "content": "The ruffians smiled cruelly at Shirone's terrified eyes."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Young Man",
+      "content": "You think saying sorry makes it okay? Tell me the truth. Did the Wolf gang send you? Were you trying to ambush me just now?",
+      "tone": "accusatory"
+    },
+    {
+      "type": "dialogue",
+      "content": "No! No!",
+      "corrected": true,
+      "correction_id": 55,
+      "speaker": "Shirone"
+    },
+    {
+      "type": "action",
+      "content": "The ruffians smiled cruelly at Shirone's terrified eyes."
+    },
+    {
+      "type": "narrator",
+      "content": "This kid, who looked cute even when fallen, didn't have the courage to hit anyone, let alone wield a knife."
+    },
+    {
+      "type": "narrator",
+      "content": "In the back alleys, they called such types 'herbivores.'"
+    },
+    {
+      "type": "narrator",
+      "content": "And herbivores were good sources of income for carnivores."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Oh? Look at this."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Judging by his face, though poorly dressed, he had noble features."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "A child like this could be sold to the South Village for at least one gold coin as premium labor."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Young Man",
+      "content": "What are you guys doing? Did something fun happen?",
+      "tone": "casual"
+    },
+    {
+      "type": "action",
+      "content": "Lady Eimy!"
+    },
+    {
+      "type": "action",
+      "content": "The ruffians turned around in unison."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eimy",
+      "content": "Hehe. What brings you here? Bored again?",
+      "tone": "playful"
+    },
+    {
+      "type": "action",
+      "content": "Despite his casual tone, the young man rubbed his hands obsequiously."
+    },
+    {
+      "type": "narrator",
+      "content": "Anyone who knew her identity would do the same."
+    },
+    {
+      "type": "narrator",
+      "content": "Karmis Eimy."
+    },
+    {
+      "type": "narrator",
+      "content": "The youngest daughter of the House of Karmis, a first-rank noble family."
+    },
+    {
+      "type": "narrator",
+      "content": "Born with everything, she had grown tired of life and lately found her only joy in prowling back alleys looking for entertainment."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Young Man",
+      "content": "This bastard here, miss, tried to kill someone. So we were just about to teach him a lesson.",
+      "tone": "accusatory"
+    },
+    {
+      "type": "action",
+      "content": "Shirone shook his head urgently."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No, no. I bumped into him by accident.",
+      "tone": "apologetic"
+    },
+    {
+      "type": "action",
+      "content": "You're lying. You expect us to believe that?",
+      "tone": "accusatory"
+    },
+    {
+      "type": "action",
+      "content": "A burly man punched Shirone in the stomach, sending him rolling on the ground without even a chance to scream."
+    },
+    {
+      "type": "action",
+      "content": "His breath stopped, and his stomach felt like it was being torn apart."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "It was the first violence he had ever experienced."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Young Man",
+      "content": "You have to pay compensation, punk! Where's your mother? Bring that mother who gave birth to a conscienceless bastard like you, probably stuffing her face with bread somewhere!",
+      "tone": "abusive"
+    },
+    {
+      "type": "action",
+      "content": "Shirone was shocked."
+    },
+    {
+      "type": "action",
+      "content": "How could they speak like that when they had mothers too?"
+    },
+    {
+      "type": "action",
+      "content": "They truly were bad people."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eimy",
+      "content": "What's this? Your eyes are changing? Are you upset?",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "content": "As Shirone's expression hardened, the ruffians jumped in and started stomping on him."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eimy",
+      "content": "Stop. You'll kill him at this rate.",
+      "tone": "commanding"
+    },
+    {
+      "type": "action",
+      "content": "At Eimy's command, the ruffians backed off."
+    },
+    {
+      "type": "action",
+      "content": "Shirone looked at her with frightened eyes."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He envied how free she seemed from pain, as if there were an invisible glass wall between them."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eimy",
+      "content": "Hey! Are you okay?",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "content": "I, I didn't do anything."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eimy",
+      "content": "Who said you did? I asked if you're okay.",
+      "tone": "calm"
+    },
+    {
+      "type": "action",
+      "content": "I don't know if I am."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone wanted to go home."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Perhaps this girl would let him leave."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eimy",
+      "content": "What are you going to do now? Anything more entertaining?",
+      "tone": "playful"
+    },
+    {
+      "type": "action",
+      "content": "Shirone looked at Eimy with eyes full of betrayal and fear."
+    },
+    {
+      "type": "action",
+      "content": "But she just grinned mischievously."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Young Man",
+      "content": "We were thinking of relieving him of his valuables and then selling him to a male brothel.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "content": "Shirone's face turned as pale as thin soup."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Seeing the frightened boy's face, even Eimy felt a little sorry for him."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "But she had no intention of playing with these back alley trash in the same way."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "She planned to scare him a little and then send him home."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eimy",
+      "content": "For a brothel, he must be flawless. How about we strip him and take a look?",
+      "tone": "playful"
+    },
+    {
+      "type": "action",
+      "content": "Eimy made a bold suggestion."
+    },
+    {
+      "type": "narrator",
+      "content": "Nobles matured earlier than commoners, so at 12 years old, she was quite knowledgeable in theory."
+    },
+    {
+      "type": "narrator",
+      "content": "Her curiosity was strong, and she'd been wanting to see for herself."
+    },
+    {
+      "type": "thought",
+      "speaker": "Eimy",
+      "content": "Besides... he's handsome, isn't he? To be honest."
+    },
+    {
+      "type": "action",
+      "content": "She wouldn't want to see a rough adult's naked body even if paid."
+    },
+    {
+      "type": "action",
+      "content": "Fortunately, Shirone was of similar age and had an appearance she liked."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Take your clothes off. Who knows? If you do what you're told diligently, I might send you home.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "content": "Shirone went blank while receiving numerous gazes."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He couldn't understand why he deserved such treatment."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Young Man",
+      "content": "Hey, the young lady told you to strip! Want another beating?",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "content": "The ruffian barked, but Shirone didn't even react."
+    },
+    {
+      "type": "thought",
+      "speaker": "Eimy",
+      "content": "Eimy felt slightly uneasy."
+    },
+    {
+      "type": "thought",
+      "speaker": "Eimy",
+      "content": "While a 12-year-old noble might be considered grown up, a commoner was still a child."
+    },
+    {
+      "type": "thought",
+      "speaker": "Eimy",
+      "content": "He might have lost his mind from fear beyond his limits."
+    },
+    {
+      "type": "narrator",
+      "content": "But Shirone wasn't insane."
+    },
+    {
+      "type": "narrator",
+      "content": "He was more focused than ever."
+    },
+    {
+      "type": "narrator",
+      "content": "Without realizing it, he had entered the Spirit Zone in his panic state."
+    },
+    {
+      "type": "action",
+      "content": "This second experience of the Spirit Zone was different from the first."
+    },
+    {
+      "type": "action",
+      "content": "All kinds of information swirled around him."
+    },
+    {
+      "type": "action",
+      "content": "He could even hear the ruffians blinking."
+    },
+    {
+      "type": "action",
+      "content": "In this hypersensitive mental world, Shirone let his consciousness flow along the only path available."
+    },
+    {
+      "type": "action",
+      "content": "At the destination of this path lay the memory of Alpheas casting magic."
+    },
+    {
+      "type": "action",
+      "content": "Shirone's intuition gathered all the surface information of Alpheas casting magic—emotions, sensations, mental state, actions, attitudes, posture."
+    },
+    {
+      "type": "action",
+      "content": "As the external form took shape, the internal intent became predictable, and a concept suddenly appeared in his mind."
+    },
+    {
+      "type": "sfx",
+      "content": "You bastard! Aren't you going to pull down your pants? The young lady wants to see!"
+    },
+    {
+      "type": "action",
+      "content": "The Spirit Zone, requiring high concentration, is vulnerable to physical shock."
+    },
+    {
+      "type": "action",
+      "content": "Shirone almost fell out of it when the ruffian grabbed his collar and shook him."
+    },
+    {
+      "type": "action",
+      "content": "As an eerie energy rose in Shirone's pupils, Eimy reached out and shouted:"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eimy",
+      "content": "Wait a moment!",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "content": "But the situation was already irreversible."
+    },
+    {
+      "type": "action",
+      "content": "Shirone's mind, precariously balanced between reality and the Spirit Zone, recognized the danger and instinctively twisted phenomena."
+    },
+    {
+      "type": "sfx",
+      "content": "Whoosh!"
+    },
+    {
+      "type": "action",
+      "content": "High-density wind surged, lifting everything in the alley."
+    },
+    {
+      "type": "action",
+      "content": "Not only the ruffians but also Eimy went flying."
+    },
+    {
+      "type": "sfx",
+      "content": "Like a typhoon had swept through, not a wooden box, stone, or speck of dust remained."
+    },
+    {
+      "type": "sfx",
+      "content": "Aaaah! Help!"
+    },
+    {
+      "type": "action",
+      "content": "Hearing screams from the sky, Shirone snapped out of the Zone."
+    },
+    {
+      "type": "action",
+      "content": "Coming to his senses, he saw an empty, desolate alley."
+    },
+    {
+      "type": "action",
+      "content": "Soon after, people who had risen higher than the rooftops began falling with terrifying screams."
+    },
+    {
+      "type": "sfx",
+      "content": "Thud! Thud! Thud! Thud! Thud!"
+    },
+    {
+      "type": "action",
+      "content": "Heavy sounds that foreshadowed impact hit the ground."
+    },
+    {
+      "type": "action",
+      "content": "Gravity being a force much stronger than common sense suggested, the ruffians' limbs broke upon landing."
+    },
+    {
+      "type": "sfx",
+      "content": "Urgh..."
+    },
+    {
+      "type": "sfx",
+      "content": "My, my arm. My leg..."
+    },
+    {
+      "type": "action",
+      "content": "Legs were bent grotesquely, and arm bones protruded through skin by a handspan."
+    },
+    {
+      "type": "action",
+      "content": "It looked like discarded wooden puppets strewn about carelessly."
+    },
+    {
+      "type": "action",
+      "content": "Shirone was speechless, never having expected a moment's emotion to cause such a devastating result."
+    },
+    {
+      "type": "action",
+      "content": "At that moment, one person landed on the ground intact—Eimy."
+    },
+    {
+      "type": "action",
+      "content": "Nobles train their bodies systematically from childhood."
+    },
+    {
+      "type": "action",
+      "content": "Especially those of the first rank."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eimy",
+      "content": "You... what exactly are you?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "content": "The scene Shirone created vividly demonstrated why magicians were feared."
+    },
+    {
+      "type": "action",
+      "content": "Even she, with her innate athletic abilities, couldn't resist the sudden updraft."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eimy",
+      "content": "Answer me! Where did you learn magic? How can a commoner...!",
+      "tone": "accusatory"
+    },
+    {
+      "type": "action",
+      "content": "Eimy stopped mid-sentence and looked back."
+    },
+    {
+      "type": "action",
+      "content": "People were gathering, drawn by the screams."
+    },
+    {
+      "type": "action",
+      "content": "If rumors spread that she had been associating with ruffians, her family would be in an uproar."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eimy",
+      "content": "Tch!",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "content": "Eimy placed one foot against a building."
+    },
+    {
+      "type": "action",
+      "content": "Kicking off the wall, she flew up, pushed off the wall surface again with both feet, and disappeared onto the roof of the opposite building."
+    },
+    {
+      "type": "action",
+      "content": "Huh? Huh?"
+    },
+    {
+      "type": "action",
+      "content": "Shirone, who had been trying to follow her zigzagging movement, didn't know what to do when she disappeared."
+    },
+    {
+      "type": "action",
+      "content": "If people saw this scene, he would be blamed for everything."
+    },
+    {
+      "type": "action",
+      "content": "The city is cruel to the powerless; no one would take his side."
+    },
+    {
+      "type": "action",
+      "content": "Shirone fled in the opposite direction."
+    },
+    {
+      "type": "action",
+      "content": "He moved his legs frantically, seeking his father, the only one he could trust and rely on."
+    }
+  ],
+  "source_hash": "335fa62247e0b606fc0b0b4f96e046df0f7d343820ed6a9d5912dd9a121db9ac",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T03:37:26.599715Z"
+}

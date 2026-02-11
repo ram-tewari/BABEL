@@ -1,0 +1,991 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A Dangerous Deal (4)",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ah...",
+      "tone": "sad"
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Hearing Shirone's words, Amy also realized the truth. How could she have missed it?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Harvest was a magical creature that inherited all of Arcane's memories.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The Archmage Victor Arcane, who once ruled the world.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If anyone knew the hidden secrets of the Kergos Ruins, it might be him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Shirone and Amy looked at Canis with newfound certainty in their eyes. But Canis remained noncommittal.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "Hmm, half of what you're thinking is correct and half is wrong.",
+      "tone": "neutral"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Half and half? What do you mean?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "Half and half? What do you mean?",
+      "tone": "neutral"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Canis hesitated. It wasn't time to reveal everything. The secrets of the Kergos Ruins were much more serious than Shirone imagined.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Are you going to keep being vague? If you're going to tell us anyway, just do it now.",
+      "tone": "frustrated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "I don't understand. Why should I? You're not seriously going to argue over the cost of a meal, are you?",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "That's part of it, but you'll have to reveal more for another reason. You need us. If not, you wouldn't bother negotiating.",
+      "tone": "assertive"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Canis closed his mouth and took a deep breath. He had expected this outcome, but timing was crucial.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "Fine. To be honest, I need something from you as well. In that sense, we both have what the other needs.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "What do you want from us? Are you talking about the pass?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "That can be easily solved. With mental magic, we can just hand over a piece of paper. Arin's mental resonance ability can control the realm of language.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone understood why they could enter the altar without an interpreter.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Even so, we didn't choose that route because one person must pass the trial gate. But as you know, we failed, and that's why we need your help. In that sense, I want to negotiate.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy analyzed Canis's words. Then a random question struck her.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "By the way, what score did you get?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "I don't want to say.",
+      "tone": "neutral"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Oh, why not? How much did you get? Hm?",
+      "tone": "persistent"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "Why should I tell you? If you want to know so badly, you tell me first.",
+      "tone": "defensive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "No, you first. Then I'll tell you.",
+      "tone": "assertive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "I refuse. You go first.",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone, frustrated, interjected to prevent a never-ending loop.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Enough. Let's get back to the point.",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Both Amy and Canis promptly closed their mouths.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "Anyway, what I propose is this: if you pass the trial gate, the Room of Achievement and Sacrifice, then we can discuss further.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy frowned.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "That's a bit strange, isn't it?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "What do you mean?",
+      "tone": "neutral"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "You failed the trial too. If Shirone passes, there's no need to take you with us. You need to offer something to make the deal worth it.",
+      "tone": "assertive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "That may be true for now, but trust me, this deal won't harm you.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Then prove it. Even without revealing everything, you can show us. Otherwise, the deal is off. We can't risk being used.",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Canis glanced at Arin, unable to decide alone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "Fine. Here's the deal. You're trying to enter the self-governing district to learn about the Labyrinth, right? Is it imperative for you to get there?",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Yes. We want to understand the Labyrinth better.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "Then... my information might save your lives.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's heart pounded.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Save their lives? What was in the self-governing district to warrant such a statement?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "I'm telling you, without my information, approaching the Labyrinth of Time means you will almost certainly die, but if you team up with me, you might survive. Essentially, I'm trading your lives for this deal.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy jumped to her feet, shouting.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Do you think threats will work? This isn't proof. It's just fearmongering. The Freeman Organization frequented that place. No matter how dangerous, it's not a matter of life and death.",
+      "tone": "frustrated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "I told you, the self-governing district itself isn't dangerous. The problem is entering through the trial gate. And Shirone.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "I know what you're planning to do in the Room of Achievement and Sacrifice. You're thinking of unlocking the Immortal Function in the Labyrinth of Time, right?",
+      "tone": "accusatory"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "All eyes were on Shirone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes. The structure of the Room of Achievement and Sacrifice was unique. I thought it was unnecessary to rotate the Labyrinth of Time in eight directions just to test a warrior's prowess. The atmosphere was too serious for mere decoration. So, I suspected something else. I thought the Angel's Eyes might be watching for something other than brute force.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "For now, we can only hope that method works.",
+      "tone": "neutral"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What? You don't know for sure?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "I said half and half. But I suspect it's related to the Immortal Function. It might be wrong, though.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy frowned.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "So, what do you want, Canis?",
+      "tone": "assertive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "Let's discuss that after passing the trial gate. I've shared this much because you're an Unlocker. I gave you substantial information, hoping you would succeed.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy nodded at Shirone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Alright. Shirone, you go into the Room of Achievement and Sacrifice. We'll use the pass to enter the self-governing district. No problem, right?",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "No problem. The smuggling route is just a convenient way. Only one person needs to pass the Labyrinth of Time's trial.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy's head throbbed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Sigh, I don't understand any of this. If Shirone passes, we'll figure it out. Let's go now. If we leave now, we'll be on time.",
+      "tone": "frustrated"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The group left the pub and split into two.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Shirone, do your best, but don't overdo it.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Don't worry. If it doesn't work, I'll give up. You be careful too. Unexpected things might happen.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Talk of life and death was unavoidable.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "We should be fine.",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Haha! True. Our strength is reinforced.",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy couldn't laugh it off.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Amy sensed the task might be more dangerous than anticipated.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone left for the altar, Amy led her friends westward.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Arin, let's go.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Amy's group moved away, Canis looked back at Arin.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "Arin? What's wrong?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "Hey, Canis... Is Shirone blonde?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Arin perceived things differently.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "Shirone? Yes, he's blonde. Why? How does he look to you?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "Shirone? Yes, he's blonde. Why? How does he look to you?",
+      "tone": "neutral"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "No, it's nothing. Let's go.",
+      "tone": "dismissive"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Canis shrugged and followed Amy.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "Arin also walked quietly, lost in thought.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Suddenly, she seemed to realize something and looked back.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Arin",
+      "content": "'Ah, so that's it. That child...'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Arin couldn't take her eyes off Shirone for a long time.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "◆ ◆ ◆",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone arrived at the western altar and approached the glaring native, reciting the password.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Kertia, Ro Hoima. Acrasia, Widmia Benjen.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The native nodded and activated the mechanism to open the door.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Entering the dark entrance, Shirone found a spiral staircase lit by torches.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He descended slowly. Though he had been here before, the atmosphere felt different alone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At the bottom, familiar passageways appeared. Natives spoke to Shirone, guiding him.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He couldn't understand them but guessed the context. It seemed to be ritualistic formalities requiring no further communication.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Past the iron door at the end of the passage, the familiar sight appeared.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The eight orbs floating in an octagonal pattern on the broad altar. The Labyrinth of Time, known as the Angel's Eyes, awaited Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Though the gatekeeper had changed, the man with the white face tattoo was the same as before. Or maybe not. Shirone couldn't distinguish the faces of Kergosnians yet.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "May I take the test?",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gatekeeper",
+      "content": "This is the Room of Achievement and Sacrifice. The Angel's Eight Eyes will judge you. To enter Kergos, you must pass the Labyrinth of Time.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After the man finished explaining, Shirone climbed the altar.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Before testing the Immortal Function, he decided to strike the Labyrinth of Time with his laser.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Resolute, Shirone focused his laser ahead.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "BOOM",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The crimson light startled the stoic, tattooed man.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With all his might, Shirone fired the laser.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Labyrinth took longer than usual to display numbers, likely due to continuous impact.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Finally, numbers appeared.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The initial number Shirone saw was a mere 200.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then it began to change by the second, increasing steadily.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "From 400 to 782.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "From 1,311 to 2,643.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It even soared past 4,874 to 6,822.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Hopeful, Shirone clenched his fist.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But just then, the numbers reset, starting again at 72.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Labyrinth seemed to have a time limit on energy accumulation.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After two cycles, the final maximum score was 6,822.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Labyrinth emitted a red glow, signaling Shirone's failure.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Phew.",
+      "tone": "disappointed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone exhaled dejectedly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The laser had an effect, but the Labyrinth anticipated energy accumulation and imposed restrictions.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The most frustrating part was that despite recording his highest score, he didn't pass.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone recalled Canis's warning about potential death.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "What had the headmaster foreseen when permitting this exploration?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gatekeeper",
+      "content": "Will you leave or stay? If you want to prove your skill, pass the Labyrinth of Time.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'll try once more.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The man crossed his arms and waited.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Assuming he had permission, Shirone positioned himself in the center of the altar.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Immortal Function.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If this didn't work, it was over.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He didn't know what Canis knew, but he was ready to give up if this failed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Phew.",
+      "tone": "calm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Calming himself, Shirone entered his Spirit Zone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His defensive zone expanded, enveloping the Labyrinth of Time in eight directions.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After checking the boundaries of his Spirit Zone, Shirone opened the Immortal Function.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Gasp!",
+      "tone": "surprised"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "An incredible event occurred.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "'Th-this...!'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Uncontrollably, his mental power surged, pouring into the Labyrinth of Time.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The rate of absorption was astounding.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Normally, his zone would have collapsed instantly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But as much power as was absorbed, equal force flowed from the infinite realm, barely maintaining balance.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "'No! Stay focused!'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If this continued, his consciousness would disintegrate.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "There would be no luck of reconstruction by the Labyrinth this time.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ughhhh!",
+      "tone": "desperate"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone maximized his defensive frame, pulling the zone taut.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Despite the tension, the form remained due to the immense mental release.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Desperately, he entered the Indomitable Diamond state, clinging on.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He couldn't think. He only prayed for it to end quickly, for him not to disintegrate.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At that moment, the eight orbs of the Labyrinth shone brilliantly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Eight beams of light converged on Shirone, forming a white sphere around him, engulfing the altar.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Gasp!",
+      "tone": "surprised"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone shuddered with intense deprivation.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It felt like the first time he opened the Immortal Function.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "O-Ohhhh!",
+      "tone": "ecstatic"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The natives, seeing Shirone enveloped in light, shouted in amazement.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "La! Anke! La!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A blinding light filled the room, forcing the natives to turn away and shut their eyes.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When the light faded, Shirone stood on the altar, panting heavily.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Gasp! Gasp!",
+      "tone": "exhausted"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone struggled to regain his senses.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "'Was it an illusion? Or real? I have no idea. What does this have to do with the Immortal Function?'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Breaking from his thoughts, Shirone looked around.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Every native had knelt on one knee, heads bowed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "W-Why are you doing this?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone asked in a bewildered voice.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gatekeeper",
+      "content": "Convey the will of Ra, messenger of the gods.",
+      "tone": "serious"
+    }
+  ],
+  "source_hash": "017f5c06ce4949c0722903adca5f27daa79a8a2ddd26eb036eef8f8c4403a3ed",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T16:33:15.725411+00:00"
+}

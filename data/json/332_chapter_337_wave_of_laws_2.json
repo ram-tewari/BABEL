@@ -1,0 +1,561 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "The Ice Queen slowly raised her hand and spoke."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The Ice Queen",
+      "content": "Weak humans, kneel before me.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "content": "The tourists applauded and enjoyed the Ice Queen's serious tone."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tourist",
+      "content": "Nice voice! Sounds convincing!",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tourist",
+      "content": "Hey, Queen! Look over here. How about shaking hands with the Ice Queen... Ugh!",
+      "tone": "joking"
+    },
+    {
+      "type": "action",
+      "content": "The man suddenly grabbed his neck and knelt down."
+    },
+    {
+      "type": "action",
+      "content": "The same thing happened to people simultaneously."
+    },
+    {
+      "type": "action",
+      "content": "Their faces turned red as if they were about to burst."
+    },
+    {
+      "type": "action",
+      "content": "They desperately tried to breathe, but their breathing became increasingly rough."
+    },
+    {
+      "type": "action",
+      "content": "Only Shirone's party was standing normally."
+    },
+    {
+      "type": "action",
+      "content": "Shirone observed the changes in people."
+    },
+    {
+      "type": "action",
+      "content": "A necklace with conical spikes was now around their necks."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Liria",
+      "content": "Is that a Dharma Wheel...?",
+      "tone": "curious"
+    },
+    {
+      "type": "narrator",
+      "content": "The Dharma Wheel is an exorcism tool of the Exorcism Council that embodies the principles of law in its form, and its effectiveness is maximized the closer it is to a perfect circle."
+    },
+    {
+      "type": "narrator",
+      "content": "The Dharma Wheels available to the public were mere imitations, at best promoting mental stability."
+    },
+    {
+      "type": "narrator",
+      "content": "However, the official Dharma Wheels possessed by exorcists could only be manufactured by a craftsman who had reached the state of Nirvana."
+    },
+    {
+      "type": "action",
+      "content": "To Liria, the Dharma Wheels around people's necks seemed genuine."
+    },
+    {
+      "type": "action",
+      "content": "Although the perfection of the circle couldn't be distinguished by the eye, seasoned exorcists could sense the nature of the circle with their inner eye."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Liria",
+      "content": "A Dharma Wheel of Restraint. This is not from this world. Be careful. If you get caught in the wave of law, you'll end up like that.",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "content": "As the people affected by the wave of law lost strength in their legs and knelt, the Dharma Wheels loosened, and air finally entered their throats."
+    },
+    {
+      "type": "action",
+      "content": "Rough breathing was heard from all around."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Person",
+      "content": "Ugh! Ugh! What is this? Who put this necklace on me?",
+      "tone": "panicked"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Person",
+      "content": "Hey! Someone please take this off!",
+      "tone": "desperate"
+    },
+    {
+      "type": "action",
+      "content": "Jocre watched the terrified people with a shiver running down his spine."
+    },
+    {
+      "type": "narrator",
+      "content": "The form of the Dharma Wheel was implemented from the Ice Queen's unique memory, but the way it choked people's necks was his strategy."
+    },
+    {
+      "type": "action",
+      "content": "The Ice Queen can change the rules of the world."
+    },
+    {
+      "type": "narrator",
+      "content": "He wasn't sure if it was possible to this extent, but seeing everyone kneeling confirmed it."
+    },
+    {
+      "type": "narrator",
+      "content": "The legend of the Ice Queen, who dominated the era 800 years ago, was entirely true."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jocre",
+      "content": "It's done! It's really done! I can't believe this day has come for me.",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "content": "At this rate, ruling the world wasn't just a dream."
+    },
+    {
+      "type": "narrator",
+      "content": "Moreover, she didn't remember anything from the past, possibly due to her 800-year hibernation."
+    },
+    {
+      "type": "narrator",
+      "content": "The mage who once terrified the world had become a child who could be coaxed with a piece of candy."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jocre",
+      "content": "The Ice Queen will be mine.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "content": "After sorting out this place, he planned to gently coax the Ice Queen to make her his woman."
+    },
+    {
+      "type": "narrator",
+      "content": "It was strange to date someone over 800 years old, but she seemed likely to fall for it, and above all, she was beautiful."
+    },
+    {
+      "type": "narrator",
+      "content": "Even compared to Amy, who had coldly rejected him five years ago, she was not lacking in appearance."
+    },
+    {
+      "type": "action",
+      "content": "Lost in such delusions, the Ice Queen turned to Jocre and asked."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The Ice Queen",
+      "content": "Is this how it's done?",
+      "tone": "inquisitive"
+    },
+    {
+      "type": "action",
+      "content": "Jocre smiled satisfactorily at the Ice Queen's attitude of relying on him, asking about even the smallest things."
+    },
+    {
+      "type": "action",
+      "content": "But he still needed to be careful not to offend her, so he bowed his head and answered as if addressing a real queen."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jocre",
+      "content": "Yes. Everyone will obey you, Your Majesty.",
+      "tone": "respectful"
+    },
+    {
+      "type": "narrator",
+      "content": "Liria realized that most elements of the Ice Queen's personality were influenced by Jocre."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Liria",
+      "content": "Is it as the prophecy said...?",
+      "tone": "curious"
+    },
+    {
+      "type": "narrator",
+      "content": "As with most descent myths, this time too, the Ice Queen would meet one human and plunge the world into the abyss of evil."
+    },
+    {
+      "type": "action",
+      "content": "Shirone looked at the grim scene of hundreds of people kneeling with a horrified expression."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What is this? It doesn't seem like magic.",
+      "tone": "confused"
+    },
+    {
+      "type": "narrator",
+      "content": "It was a natural question for someone who didn't know the law."
+    },
+    {
+      "type": "narrator",
+      "content": "It's not equivalent exchange."
+    },
+    {
+      "type": "narrator",
+      "content": "There was no way to put a choking Dharma Wheel on hundreds of people just because they didn't follow orders."
+    },
+    {
+      "type": "narrator",
+      "content": "Even the irregularities of the Fairy Chief of Heaven, Igirin, weren't this bizarre."
+    },
+    {
+      "type": "action",
+      "content": "Dante, who had no time to explain, spoke briefly."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "It's called the power of law. Be careful. That woman can change the rules of the world.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Change the rules?",
+      "tone": "curious"
+    },
+    {
+      "type": "narrator",
+      "content": "The first thing Shirone thought of was the Akashic Records."
+    },
+    {
+      "type": "narrator",
+      "content": "But no being could twist the rules on such a grand scale unless they were an infinite mage."
+    },
+    {
+      "type": "narrator",
+      "content": "Then there was only one possibility."
+    },
+    {
+      "type": "narrator",
+      "content": "It was the Akashic Records from the beginning."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Some kind of... conceptual entity?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "content": "Liria turned her head with wide eyes."
+    },
+    {
+      "type": "narrator",
+      "content": "It was impossible for anyone other than a spiritual practitioner to understand the essence of a spirit dedicated to a human body."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Liria",
+      "content": "This child knows the law...",
+      "tone": "surprised"
+    },
+    {
+      "type": "narrator",
+      "content": "Most people live without knowing that the world moves according to the rules of the whole."
+    },
+    {
+      "type": "narrator",
+      "content": "It was surprising that Shirone knew the mechanism of the law, which was passed down to only a few even in the shrine."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "That's right. It was a spiritual entity that couldn't be ranked from the beginning. It's called a demigod phenomenon. It's impossible for you to defend against it without knowing the law. Stay close to me.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "You! What are you plotting?",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jocre",
+      "content": "Hahaha! Plotting? Do you still think this is a joke? We will conquer the world.",
+      "tone": "maniacal"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jocre",
+      "content": "Stop talking nonsense! Do you really want to get hit?",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "content": "Jocre conveyed to the people."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jocre",
+      "content": "Everyone, worship the Queen. If you don't obey, the Queen's law will kill you.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "content": "As the Dharma Wheels tightened around their necks, the terrified people touched the ground with their hands and choked."
+    },
+    {
+      "type": "action",
+      "content": "Then they shouted in squeezed voices."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Person",
+      "content": "Long live the Queen!",
+      "tone": "terrified"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Person",
+      "content": "We will follow the Queen!",
+      "tone": "terrified"
+    },
+    {
+      "type": "action",
+      "content": "As the faces of those who worshipped the Queen returned to a calm state,"
+    },
+    {
+      "type": "narrator",
+      "content": "Shirone finally realized the seriousness of the situation."
+    },
+    {
+      "type": "narrator",
+      "content": "Even Jocre's orders were being enforced by the law."
+    },
+    {
+      "type": "narrator",
+      "content": "Unlike logically designated magic, the law was a process of readjusting the balance of the whole."
+    },
+    {
+      "type": "action",
+      "content": "As the voices praising the Ice Queen pierced the sky,"
+    },
+    {
+      "type": "action",
+      "content": "Jocre tasted a pleasure he had never felt before."
+    },
+    {
+      "type": "narrator",
+      "content": "It was as if they were all worshipping him."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jocre",
+      "content": "How about it? This is my power. If you come under me now, you won't end up like that.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "content": "Jocre expected Shirone's party to tremble,"
+    },
+    {
+      "type": "narrator",
+      "content": "but contrary to his expectations, no one moved and they were watching the situation."
+    },
+    {
+      "type": "action",
+      "content": "Dante, with his hands in his pockets, walked out crookedly."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Hey, you. Are you out of your mind? Do you know what you're doing right now?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jocre",
+      "content": "Ha! Do you think I'm crazy? Not at all! Can't you see the state of the people? You'll end up like that too.",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "You almost killed hundreds of people just now.",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jocre",
+      "content": "Do you know what it means to rule the world? Can you really take responsibility for that statement?",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "content": "Jocre's face turned pale."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jocre",
+      "content": "Ugh...!",
+      "tone": "terrified"
+    },
+    {
+      "type": "narrator",
+      "content": "Becoming the ruler of the world was an ambition every man might have had at least once."
+    },
+    {
+      "type": "narrator",
+      "content": "But in reality, he was just one human who didn't want to go to prison or die."
+    },
+    {
+      "type": "narrator",
+      "content": "The Ice Queen can change the rules."
+    },
+    {
+      "type": "narrator",
+      "content": "So if you put a leash on them, they will obey orders because they don't want to die."
+    },
+    {
+      "type": "narrator",
+      "content": "That was the extent of Jocre's calculated thoughts."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jocre",
+      "content": "But what if they refused?",
+      "tone": "terrified"
+    },
+    {
+      "type": "narrator",
+      "content": "They would all become corpses with broken necks."
+    },
+    {
+      "type": "narrator",
+      "content": "Of course, no one in the world wanted to die,"
+    },
+    {
+      "type": "narrator",
+      "content": "but once he imagined it, an unbearable fear surged in."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jocre",
+      "content": "Can I really conquer the world?",
+      "tone": "terrified"
+    },
+    {
+      "type": "narrator",
+      "content": "Maybe he was temporarily insane, as Dante said."
+    },
+    {
+      "type": "action",
+      "content": "While he was thinking that, Vivian's voice was heard."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vivian",
+      "content": "Hmph! So what? According to our words, no one will die! Then the first victims will be you!",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "content": "Jocre turned to Vivian with a blank expression."
+    },
+    {
+      "type": "narrator",
+      "content": "Her eyes had completely changed overnight."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jocre",
+      "content": "Did you think you would always be the protagonists of the world?",
+      "tone": "menacing"
+    },
+    {
+      "type": "narrator",
+      "content": "We are the ones controlling this situation now!"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vivian",
+      "content": "Let's buy some time. I'll do as you say.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "content": "As Amy approached,"
+    },
+    {
+      "type": "narrator",
+      "content": "Jocre's lips curled up."
+    },
+    {
+      "type": "narrator",
+      "content": "'Of course, what could she do to resist?'"
+    },
+    {
+      "type": "action",
+      "content": "At that moment, Shirone grabbed Amy's shoulder."
+    },
+    {
+      "type": "action",
+      "content": "When Amy turned around with a surprised expression,"
+    },
+    {
+      "type": "narrator",
+      "content": "Jocre's eyes flared."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jocre",
+      "content": "What are you doing? Do you want to protect your lover's pride even if everyone dies?",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes. Amy has no reason to follow your words.",
+      "tone": "defiant"
+    },
+    {
+      "type": "narrator",
+      "content": "Jocre's face twisted."
+    },
+    {
+      "type": "narrator",
+      "content": "Is this what they call a mage's cold rationality?"
+    },
+    {
+      "type": "narrator",
+      "content": "No, it's arrogance."
+    },
+    {
+      "type": "narrator",
+      "content": "Valuing a lover's pride over the lives of hundreds of people is not acceptable."
+    }
+  ],
+  "source_hash": "2a1df28d92957dcbd4ed5a8e17e41db634f7997579a3a6c11d2c2b6420b96548",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T04:50:55.943057Z"
+}

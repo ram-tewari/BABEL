@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\PycharmProjects\BABEL\babel\context\tester.py
+# hypothesis_version: 6.148.8
+
+[0.0, 0.7, 'Ch_*.txt', 'ChapterData', 'Glossary is empty', 'babel.context.tester', 'block_index', 'blocks_with_glossary', 'chapter', 'chapter_results', 'chapters_tested', 'config/glossary.yaml', 'consistency_score', 'content', 'corrected', 'error', 'glossary_entries', 'glossary_path', 'inconsistencies', 'low_scoring_chapters', 'r', 'sample_size', 'score', 'speaker', 'terms_added', 'test_timestamp', 'type', 'utf-8', 'w', 'with_glossary', 'without_glossary']

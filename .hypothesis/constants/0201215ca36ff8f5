@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\google\longrunning\operations_proto_pb2.py
+# hypothesis_version: 6.148.8
+
+[b'\xcaA\x1alongrunning.googleapis.com', b'\xdaA\x04name\x82\xd3\xe4\x93\x02\x1a\x12\x18/v1/{name=operations/**}', b'\xdaA\x04name\x82\xd3\xe4\x93\x02\x1a*\x18/v1/{name=operations/**}', b'\xdaA\x04name\x82\xd3\xe4\x93\x02$"\x1f/v1/{name=operations/**}:cancel:\x01*', b'\xdaA\x0bname,filter\x82\xd3\xe4\x93\x02\x17\x12\x15/v1/{name=operations}', 262, 430, 432, 467, 469, 561, 563, 663, 665, 703, 705, 743, 745, 825, 827, 888, 891, 1573, 'CancelOperation', 'DESCRIPTOR', 'DeleteOperation', 'GetOperation', 'ListOperations', '_GETOPERATIONREQUEST', '_OPERATION', '_OPERATIONINFO', '_OPERATIONS']

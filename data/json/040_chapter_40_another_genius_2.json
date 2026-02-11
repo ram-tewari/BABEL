@@ -1,0 +1,439 @@
+{
+  "blocks": [
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "According to Seriel, he had passed easily, but it was clear even without seeing that he must have gritted his teeth and trained hard for it.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "You must be lonelier than me, Senior. You were always with Amy.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Well, yeah. But it's fine. I'll be joining the graduation class soon anyway.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Huh? The graduation class?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If it was Seriel, he was more than qualified.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Class Four was full of formidable talents, but he too had a standout gift in healing magic.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Moreover, the graduation class was a place solely focused on one's major, so a highly specialized field like healing magic would give him a significant advantage.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "It's not a place you join just because of friends… but I was inspired by you, just like Amy was. Originally, my dream was to just coast by and work at a clinic, but somehow, it felt like a waste to end things like that.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When Mark heard the words 'clinic worker' come from the mouth of someone recognized as a prodigy by the school, his face twisted in dismay.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mark",
+      "content": "If you say things like that, Senior, what does that make me?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Haha, don't worry too much. I didn't get here because I was particularly good at anything either. If you work hard, anyone can make it to Class Four. Shirone's just a special case.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone hurriedly waved his hands.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No, no. I'm just lucky, really. Last time, the promotion exam wasn't even part of the regular curriculum.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Stop being so modest. I guarantee you'll be joining the graduation class soon too. Though Amy's dead set on not having you as a graduation classmate. Haha, just do your best.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Absolutely no graduation classmates.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was such an Amy-like remark, and imagining her grinding her teeth and throwing herself into training made his body grow hot.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Oh, right. Speaking of which, has Amy decided on her major?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What? You still don't know? I thought about it before, but you guys really have a boring relationship.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "That's just how it is.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone smiled and brushed it off, Seriel rested his chin on his hand and fell into thought.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Hmm, Amy's specialty is flame magic, and her casting style is optimized for target-based spells. From what I heard before, she's probably aiming to become a sniper.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Most flame mages aspired to be combat mages, but snipers were a rather unique field.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "If she's a sniper, doesn't that mean she'll become a soldier?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "What can you do? I also think it's a bit odd for Amy to become a soldier, but it's common to choose a career based on your talents. Besides, Amy's from the Carmis family, a first-class noble house. For the sake of the family's honor, she'll have to do something.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone was worried.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "But it's dangerous work, isn't it? Depending on the situation, she might have to go to the battlefield and kill people.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "That might happen, but if a war really breaks out, your major won't matter at all. Anyone with a mage profession will be sent to the frontlines without exception. The magic academy will just become a training ground producing reserve mages under the kingdom's orders. At that point, graduation won't mean anything. You'll receive basic military training and be thrown into battle unconditionally.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was a bitter truth that was hard to swallow.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "That's why it's a special-purpose school. Even if a student dies during training, half the responsibility falls on the student.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Coldly speaking, we're just accessories of the kingdom. In fact, the more exceptional talents like Amy there are, the stronger the deterrent against war.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "That's true, but…",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Though Tormia was a powerful nation in its own right, perpetual peace wasn't guaranteed, so being a soldier wasn't a safe profession.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Diplomatic friction could lead to war with another country, and if an allied kingdom requested support, Amy would have no choice but to fight on the frontlines.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The warlike Mark didn't take that seriously and was more interested in another aspect.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mark",
+      "content": "If Amy becomes an officer, just imagine how popular she'd be in the unit. Honestly, her cute looks and being a soldier don't seem to match.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Hohoho! That's because you don't know Amy's personality. I think it'd suit her quite well! And Shirone, don't worry too much. Mages don't fight on the battlefield with swords anyway, and snipers mainly focus on espionage. Think about it—it's cool, isn't it? Amy the beautiful spy.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Haha, I guess so.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone dropped the matter there.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was true that he was worried, but a genius who had never lost first place in school would surely make the right choice.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Excessive worry about someone else's decision would only hurt Amy's pride.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When the theory class ended and it was time for practical training in the Spirit Zone, the students got up from their seats.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The training was conducted within the same class, so Shirone parted ways with Mark and Seriel and headed to where the Class Five students were gathered.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Class Five was the class with the most students of the same age in the advanced division, and Shirone's age fit perfectly within the average cutoff.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Though rivalries flared up during exams, the class was usually able to laugh and chat without worrying about competition.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Thanks to that, Shirone could train in the Spirit Zone without feeling as self-conscious as in other classes.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "His classmates didn't hesitate to strike up conversations when needed, and if things got a little dull, they'd go find other friends to chat with.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Shirone, you're burning up again today. If you're okay with it, let's train together.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Nade from Class Five approached him.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "His playful face was framed by wavy, light-green hair.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "His personality was as cheerful as his appearance, and he was sociable enough to never let anyone feel left out in a group.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Perhaps magic mirrored one's personality—his grades were neither outstandingly good nor bad in any subject.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The only unusual thing about him was his ability to wield lightning magic, a rarity among the various magic systems.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Lightning… It's similar to light but a different field.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Magic's emphasis on either mana capacity or control varied depending on the attribute.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "For example, while light magic leaned more toward control, ice magic depended more on mana capacity.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In that sense, lightning magic was a field that required a perfect 50-50 balance between capacity and control.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Maybe this is another way personality reflects magic.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "That was Shirone's initial thought, but after joining Class Five and hearing Nade's story, there was more to it.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Nade's dream wasn't to be a mage but a magic engineer.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Since childhood, he had consistently worked with electricity, which naturally deepened his understanding of mana capacity and control, allowing him to wield lightning magic without much trouble even after entering the magic academy.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Sure, let's do it. Then, for the casting style…",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "By the way, about Amy—what's she really like in person? Is she, like, super feminine?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "I should've seen this coming.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He had a talent for drawing people in, and even the smallest topic of conversation would inevitably attract others.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As if to prove it, two students from Class Five walked over, arguing loudly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student 1",
+      "content": "Ugh, seriously! That's not what I meant! Why can't you understand me?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student 2",
+      "content": "That's exactly what I'm saying! The important part isn't that! I've always thought you had a weird personality.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The two pointed fingers at each other as they approached, leaving Shirone with a blank expression.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Judging by their raised voices, they seemed to be having a heated debate about magic.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student 1",
+      "content": "Oh! Perfect! Shirone-Nade, listen to me for a sec.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The Class Five students referred to Shirone and Nade together as 'Shirone-Nade' when they were side by side.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The moment they arrived, both students pointed at themselves and started talking without waiting for the other.",
+      "tone": null
+    }
+  ],
+  "source_hash": "24eeba9509d74731102b1ebb63b75ee4c129c7b0d31afaf9ce81d8a0b1830c99",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T06:27:39.835674+00:00"
+}

@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\aiohttp\resolver.py
+# hypothesis_version: 6.148.8
+
+['A', 'AAAA', 'AI_MASK', 'AsyncResolver', 'DNS lookup failed', 'DefaultResolver', 'ThreadedResolver', '_DNSResolverManager', 'aiodns.DNSResolver', 'ascii', 'family', 'flags', 'getaddrinfo', 'gethostbyname', 'host', 'hostname', 'port', 'proto']

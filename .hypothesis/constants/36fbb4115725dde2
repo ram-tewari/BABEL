@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\google\api_core\operations_v1\transports\rest_asyncio.py
+# hypothesis_version: 6.148.8
+
+[0.5, 2.0, 10.0, 400, '*', 'Content-Type', 'application/json', 'body', 'delete', 'get', 'https', 'method', 'post', 'query_params', 'rest_asyncio', 'uri', 'utf-8', 'v1', '{host}{uri}']

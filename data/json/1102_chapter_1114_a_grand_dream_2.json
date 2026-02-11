@@ -1,0 +1,894 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "The room was silent."
+    },
+    {
+      "type": "narrator",
+      "content": "The seriousness of the situation was clear to those who took pride in their country's military strength."
+    },
+    {
+      "type": "thought",
+      "content": "He broke through the guards of 12 countries. It's right to see him as unstoppable."
+    },
+    {
+      "type": "narrator",
+      "content": "In the minds of the leaders, Kuan's status was elevated to the level of Havitz."
+    },
+    {
+      "type": "thought",
+      "content": "There's no need to draw attention unnecessarily."
+    },
+    {
+      "type": "narrator",
+      "content": "In the face of a realistic assassination threat, caution was never excessive."
+    },
+    {
+      "type": "narrator",
+      "content": "Of course, it wasn't about pride."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Munryong",
+      "content": "Hmph."
+    },
+    {
+      "type": "action",
+      "content": "Starting with Munryong's scoff, the kings were displeased with the current situation."
+    },
+    {
+      "type": "narrator",
+      "content": "It was better for troublesome arrows to be aimed at others rather than themselves."
+    },
+    {
+      "type": "action",
+      "content": "Uorin looked at Havitz."
+    },
+    {
+      "type": "sfx",
+      "content": "Snore."
+    },
+    {
+      "type": "narrator",
+      "content": "The divine frequency was still working, and Kuan's sounds were likely being collected in his sleep."
+    },
+    {
+      "type": "thought",
+      "speaker": "Uorin",
+      "content": "As expected, he doesn't wake up."
+    },
+    {
+      "type": "narrator",
+      "content": "The man who once beheaded him didn't seem particularly important to Satan."
+    },
+    {
+      "type": "thought",
+      "speaker": "Uorin",
+      "content": "So that's how it is."
+    },
+    {
+      "type": "narrator",
+      "content": "Uorin realized why she could rely on Havitz for a moment."
+    },
+    {
+      "type": "monologue",
+      "speaker": "Uorin",
+      "content": "He doesn't resent anything. He must have had a life too. The causes accumulated since before his birth made him the Satan he is now."
+    },
+    {
+      "type": "monologue",
+      "speaker": "Uorin",
+      "content": "He doesn't think. There are causes, but he isn't influenced by them. The least human thing."
+    },
+    {
+      "type": "narrator",
+      "content": "That's why he's so evil."
+    },
+    {
+      "type": "sfx",
+      "content": "Snore."
+    },
+    {
+      "type": "narrator",
+      "content": "If Satan dreams, Uorin wondered what the scenery in his dreams would look like."
+    },
+    {
+      "type": "action",
+      "content": "Keira of the Kingdom of Corona asked."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Keira",
+      "content": "Does it bother you?"
+    },
+    {
+      "type": "narrator",
+      "content": "Since Kuan entered the room, Armin had been feeling restless."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "No."
+    },
+    {
+      "type": "action",
+      "content": "Armin changed his words."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "Actually… yes."
+    },
+    {
+      "type": "narrator",
+      "content": "He had set aside his feelings for Siena, but she was still important to him."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "Don't misunderstand. It's not that I'm bothered in that way. It's because of Mr. Kuan."
+    },
+    {
+      "type": "action",
+      "content": "Keira looked at Kuan."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Keira",
+      "content": "He sacrificed one ear. It doesn't seem cut off, though."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "The reason for disrupting physical balance is to create mental asymmetry. When he first cut off his arm, it was to remove the schema, but strictly speaking, it's a mental issue. When he cut one eye, he wasn't too concerned with form. Now, it seems sufficient to block his senses."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Keira",
+      "content": "That's a relief. Honestly, it's someone else's business, but it must be too horrible for Siena."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "It's quite the opposite."
+    },
+    {
+      "type": "narrator",
+      "content": "That was why Armin was concerned."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "Now, cutting something won't tip the balance. Yet he sat next to Siena."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Keira",
+      "content": "…What else can he cut off?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "I don't know. Only he would know, but one thing is certain: he made a decision."
+    },
+    {
+      "type": "narrator",
+      "content": "He wouldn't hesitate."
+    },
+    {
+      "type": "action",
+      "content": "And finally, when he cut off the last half of what remained…"
+    },
+    {
+      "type": "thought",
+      "speaker": "Armin",
+      "content": "What will Kuan become?"
+    },
+    {
+      "type": "action",
+      "content": "Receiving the attention of the room, Siena kept glancing at the seat next to her."
+    },
+    {
+      "type": "action",
+      "content": "Kuan showed no particular expression."
+    },
+    {
+      "type": "thought",
+      "speaker": "Siena",
+      "content": "He's unpredictable."
+    },
+    {
+      "type": "narrator",
+      "content": "She had been excited to meet Kuan since being selected for the council delegation."
+    },
+    {
+      "type": "thought",
+      "speaker": "Siena",
+      "content": "He never visited."
+    },
+    {
+      "type": "narrator",
+      "content": "He clearly avoided her, never coming near where Siena was."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Why did you change your mind now?"
+    },
+    {
+      "type": "action",
+      "content": "There was no answer."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "You kept avoiding me. Don't you think you owe me an explanation? I have my pride too."
+    },
+    {
+      "type": "action",
+      "content": "Kuan showed no sign of opening his mouth, and Siena, frustrated, blurted out."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Fine. Go back. Honestly, I was trying to set aside my feelings for you too.",
+      "tone": "frustrated"
+    },
+    {
+      "type": "action",
+      "content": "Kuan slowly stood up."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Oh, really.",
+      "tone": "sarcastic"
+    },
+    {
+      "type": "action",
+      "content": "Siena, desperate, grabbed Kuan's wrist and pulled him down forcefully."
+    },
+    {
+      "type": "sfx",
+      "content": "Phew."
+    },
+    {
+      "type": "monologue",
+      "speaker": "Siena",
+      "content": "How did she end up entangled with such a stubborn person?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Alright. I won't ask for a reason, but let's talk later. Don't run away again."
+    },
+    {
+      "type": "action",
+      "content": "She didn't mention the lost ear."
+    },
+    {
+      "type": "thought",
+      "speaker": "Kuan",
+      "content": "She's a good person."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kuan",
+      "content": "Siena."
+    },
+    {
+      "type": "action",
+      "content": "Siena turned to Kuan, stunned."
+    },
+    {
+      "type": "narrator",
+      "content": "It was the first time he smiled with such an expression, devoid of malice."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kuan",
+      "content": "I like you. I'm serious.",
+      "tone": "sincere"
+    },
+    {
+      "type": "action",
+      "content": "Siena's face turned red at the sudden confession, and the teachers cleared their throats."
+    },
+    {
+      "type": "action",
+      "content": "Siena quickly turned her head."
+    },
+    {
+      "type": "thought",
+      "speaker": "Siena",
+      "content": "Why is he doing this suddenly?"
+    },
+    {
+      "type": "narrator",
+      "content": "Kuan's face wasn't scary at all, but she felt a rising fear."
+    },
+    {
+      "type": "thought",
+      "speaker": "Siena",
+      "content": "He's made up his mind."
+    },
+    {
+      "type": "narrator",
+      "content": "In her anxious heart, she made a promise."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Alright. Then promise me one thing. Don't leave like that again. If I want to see you, I should be able to."
+    },
+    {
+      "type": "monologue",
+      "speaker": "Siena",
+      "content": "Had he resolved to die, or would he disappear somewhere again?"
+    },
+    {
+      "type": "action",
+      "content": "A thousand thoughts swirled in her mind, but Kuan unexpectedly nodded."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kuan",
+      "content": "Yes."
+    },
+    {
+      "type": "action",
+      "content": "When she turned her head, wondering if he had eaten something wrong, she saw Kuan's determined eye."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kuan",
+      "content": "I'll stay by your side, Siena."
+    },
+    {
+      "type": "action",
+      "content": "Siena, watching him for a long time, realized her expression."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Oh."
+    },
+    {
+      "type": "action",
+      "content": "She hid her shy face and adjusted her glasses to her usual cold image."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "I'll be watching. This is your last chance…"
+    },
+    {
+      "type": "action",
+      "content": "Kuan also turned his head, but his smile lingered like an aftertaste."
+    },
+    {
+      "type": "action",
+      "content": "The chairman stepped in to resolve the situation."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chairman",
+      "content": "The previous speaker's remarks are deemed contrary to the Holy War's motto and are nullified. The Holy War exists for world peace, and we will make an official proposal as soon as possible…"
+    },
+    {
+      "type": "action",
+      "content": "The matter was settled uneasily, and representatives of the Holy War's subordinate organizations briefed on the global situation."
+    },
+    {
+      "type": "action",
+      "content": "Amira of the World Climate Organization reported on the state of the demon realms opened in various countries on a large screen."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amira",
+      "content": "Emotional diseases, mutations, tsunamis, heatwaves—disasters are causing suffering worldwide. Therefore, each country…"
+    },
+    {
+      "type": "action",
+      "content": "Numerous conversations were drowned out by the microphone."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Prince",
+      "content": "75 points. Her face is pretty, but her eyes are a bit off. I don't like women like that; they're scary."
+    },
+    {
+      "type": "dialogue",
+      "content": "Come on, Prince. That style is hot. Look at her figure. Isn't it killer?"
+    },
+    {
+      "type": "action",
+      "content": "The secretary, overhearing their conversation, scratched her thumb with a disgusted expression."
+    },
+    {
+      "type": "thought",
+      "speaker": "Secretary",
+      "content": "Oh, damn. Another jewel fell off. It was expensive. Will it look weird if I look for it now?"
+    },
+    {
+      "type": "action",
+      "content": "Amira switched the screen."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Child",
+      "content": "Mom! Mom!",
+      "tone": "distressed"
+    },
+    {
+      "type": "action",
+      "content": "A child sat crying in the place where a tsunami had swept away their home."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amira",
+      "content": "There are hundreds of thousands of war orphans, and relief supplies are severely lacking. Above all, the establishment of orphanages…"
+    },
+    {
+      "type": "dialogue",
+      "content": "Oh, right. There's a royal banquet at Arachne around midnight. Will you attend?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Prince",
+      "content": "Oh, I must. Humanity is in crisis; we must do something big, right?",
+      "tone": "sarcastic"
+    },
+    {
+      "type": "dialogue",
+      "content": "Of course. There's no time to rest these days. The prince is working hard.",
+      "tone": "sycophantic"
+    },
+    {
+      "type": "action",
+      "content": "Seriel of the World Health Organization stepped up."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Prince",
+      "content": "Oh?",
+      "tone": "surprised"
+    },
+    {
+      "type": "action",
+      "content": "The prince's expression changed."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Greetings. It is an honor to stand before the leaders of various nations. As you have seen on the screen, countless people are suffering. As a researcher for the World Health Organization, I would like to share not a detailed explanation but a specific case of emotional sickness."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Prince",
+      "content": "85 points. That's a pass.",
+      "tone": "dismissive"
+    },
+    {
+      "type": "action",
+      "content": "Seriel opened a file."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "This is a horrifying tragedy that occurred just ten days ago.",
+      "tone": "solemn"
+    },
+    {
+      "type": "sfx",
+      "content": "Ahhhh!"
+    },
+    {
+      "type": "action",
+      "content": "A man screamed, bound to a chair."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Child (from video)",
+      "content": "Dad! Dad!",
+      "tone": "distressed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Man (from video)",
+      "content": "Don't come closer!"
+    },
+    {
+      "type": "narrator",
+      "content": "At a point when the analysis of emotional sickness was nearly complete, there was little that families without external aid could do."
+    },
+    {
+      "type": "thought",
+      "speaker": "Man (from video)",
+      "content": "This is wrong! This must never happen!"
+    },
+    {
+      "type": "narrator",
+      "content": "If it became unbearable, the only option was to push oneself into a state where enduring it was possible."
+    },
+    {
+      "type": "thought",
+      "speaker": "Man (from video)",
+      "content": "Not my family. Never my family."
+    },
+    {
+      "type": "narrator",
+      "content": "Yet, in many cases, unable to withstand the pain, people would kill their loved ones for even a moment's relief."
+    },
+    {
+      "type": "sfx",
+      "content": "Ahhhhh!"
+    },
+    {
+      "type": "action",
+      "content": "The man's skin was torn and tattered from struggling against the ropes."
+    },
+    {
+      "type": "action",
+      "content": "The nails holding the chair to the floor wobbled."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Man (from video)",
+      "content": "Go! Don't come near me!"
+    },
+    {
+      "type": "narrator",
+      "content": "Even as he slipped into unconsciousness from the pain, he did not regret his choice."
+    },
+    {
+      "type": "thought",
+      "speaker": "Man (from video)",
+      "content": "I need to be tied up."
+    },
+    {
+      "type": "narrator",
+      "content": "He was the man of the house, the strongest."
+    },
+    {
+      "type": "thought",
+      "speaker": "Man (from video)",
+      "content": "This is how it has to be."
+    },
+    {
+      "type": "action",
+      "content": "Then, the locked door burst open, and his wife and two children came in, crying."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Child (from video)",
+      "content": "Dad."
+    },
+    {
+      "type": "action",
+      "content": "One of them held a knife."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Child (from video)",
+      "content": "Dad, it hurts so much. It hurts so much I feel like I'm going to die.",
+      "tone": "painful"
+    },
+    {
+      "type": "action",
+      "content": "Seeing his family, already disfigured from months of suffering, he smiled."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Man (from video)",
+      "content": "I love you.",
+      "tone": "loving"
+    },
+    {
+      "type": "action",
+      "content": "He nodded."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Three days after losing their father, the family experienced another outbreak of emotional sickness and hanged themselves."
+    },
+    {
+      "type": "action",
+      "content": "The atmosphere grew somber."
+    },
+    {
+      "type": "thought",
+      "content": "Idiots. They should have just turned to Satanism."
+    },
+    {
+      "type": "action",
+      "content": "Seriel's voice cracked."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Do you think this is an extreme case? Across the world, there are still regions where information is lacking, and aid has not reached.",
+      "tone": "emotional"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Prince",
+      "content": "Impressive. 87 points.",
+      "tone": "dismissive"
+    },
+    {
+      "type": "action",
+      "content": "His words hung in the air, drawing Fermi's attention."
+    },
+    {
+      "type": "action",
+      "content": "Noticing the cold look in Fermi's eyes, the prince silently mouthed a retort:"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Prince",
+      "content": "What, brat?",
+      "tone": "silent/mouthed"
+    },
+    {
+      "type": "action",
+      "content": "Fermi stared at him for a long time before turning away, muttering under his breath."
+    },
+    {
+      "type": "narrator",
+      "content": "It was clearly an insult."
+    },
+    {
+      "type": "action",
+      "content": "King Manolka of Keshia chuckled, his shoulders shaking."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "King Manolka",
+      "content": "Haha! To think I'd live to see the day you show your emotions. Let him be. He's just bored because no good food has been served yet. You're the same, aren't you?",
+      "tone": "jovial/mocking"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Go to sleep."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "King Manolka",
+      "content": "World peace? Humans can't even maintain peace in their own hearts. Greed is endless, and dissatisfaction abounds. Do you think I can focus on that video when I'm dying to go to the restroom?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Just go to sleep already."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "King Manolka",
+      "content": "Or what? Do you have something going on with that girl?",
+      "tone": "teasing"
+    },
+    {
+      "type": "action",
+      "content": "Fermi's mouth shut tightly."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Esteemed leaders guiding the world! We ask for your continued support for humanity!"
+    },
+    {
+      "type": "thought",
+      "content": "Damn it, everything costs money."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "So families don't have to lose their loved ones! So no one loses their dignity in any circumstance!"
+    },
+    {
+      "type": "thought",
+      "content": "If I get my bonus, I'll pay off my loans, give some to Mom, and move to a place with better schools…"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "So we don't throw away the precious memories, relationships, and love we all hold dear!"
+    },
+    {
+      "type": "thought",
+      "content": "The Moon Kingdom's decorations look nice. Should I ask my boss to get one for me?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Your collective efforts can change the world! We earnestly ask for your help!"
+    },
+    {
+      "type": "thought",
+      "content": "It'll be time for everyone's statements soon. The angels' presentation is key. First, neutralize Kashan…"
+    },
+    {
+      "type": "action",
+      "content": "Seriel slammed her hands on the podium, shouting,"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Please unite your will!",
+      "tone": "passionate"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gis",
+      "content": "Bra…"
+    },
+    {
+      "type": "action",
+      "content": "As Gis sprang up to applaud, a deranged laugh broke the tension."
+    },
+    {
+      "type": "sfx",
+      "content": "Heeheehee!"
+    },
+    {
+      "type": "action",
+      "content": "The atmosphere turned icy, and all eyes in the hall followed the sound."
+    },
+    {
+      "type": "sfx",
+      "content": "Kukuk, hahaha!"
+    },
+    {
+      "type": "action",
+      "content": "Havitz tilted his head to one side, desperately trying to stifle his laughter."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "Ah, sorry. I'm sorry. Haha, oh no!",
+      "tone": "apologetic/amused"
+    },
+    {
+      "type": "narrator",
+      "content": "Seriel felt faint."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "What's so funny?",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "It's not that, haha!",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "I'm asking what's so funny!",
+      "tone": "angry/commanding"
+    },
+    {
+      "type": "action",
+      "content": "Her thunderous shout silenced the room, and Havitz took a deep breath."
+    },
+    {
+      "type": "sfx",
+      "content": "Hah."
+    },
+    {
+      "type": "action",
+      "content": "Twisting his beard, he spoke."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "Hmm. Ah, what a tragedy. So many people suffering.",
+      "tone": "feigned sincerity"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "And that's funny to you?",
+      "tone": "accusatory"
+    },
+    {
+      "type": "action",
+      "content": "Havitz waved a hand dismissively."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "No, that's sad. What's funny is everyone here…"
+    },
+    {
+      "type": "narrator",
+      "content": "God's frequency."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "Well, I get it. Life is hard. It's all a struggle. What I'm really asking is…"
+    },
+    {
+      "type": "action",
+      "content": "Satan's voice cut in."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Satan",
+      "content": "What are you all doing here?"
+    },
+    {
+      "type": "action",
+      "content": "His gaze swept the room."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Satan",
+      "content": "Hmm? Hmm? Hmm?",
+      "tone": "questioning/intimidating"
+    },
+    {
+      "type": "action",
+      "content": "Some averted their eyes, others met his gaze directly, and a few were filled with anger."
+    },
+    {
+      "type": "thought",
+      "content": "Annoying."
+    },
+    {
+      "type": "narrator",
+      "content": "The burden of having one's mind read."
+    },
+    {
+      "type": "action",
+      "content": "Returning his gaze to Seriel, Havitz pointed at her and nodded deeply."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "Respect."
+    },
+    {
+      "type": "action",
+      "content": "Then he stood and clapped."
+    },
+    {
+      "type": "sfx",
+      "content": "Clap. Clap. Clap. Clap."
+    },
+    {
+      "type": "action",
+      "content": "The dry applause echoed, and Lupist muttered bitterly."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lupist",
+      "content": "That was close.",
+      "tone": "bitter"
+    },
+    {
+      "type": "narrator",
+      "content": "The sanctuary had nearly collapsed."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "That's enough."
+    },
+    {
+      "type": "action",
+      "content": "With a smile, Shirone proudly looked at Seriel, whose tears had smudged her makeup."
+    }
+  ],
+  "source_hash": "a5575da815ea42cbca6826dd7d43f01d73a921ad6962525697a60da47401a3f9",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T04:30:38.190081Z"
+}

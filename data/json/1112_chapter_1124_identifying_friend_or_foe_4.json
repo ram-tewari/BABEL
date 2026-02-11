@@ -1,0 +1,792 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "After dining with the royalty of Iron and Arachne, Gis returned to his chambers to receive reports."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gis",
+      "content": "The angels have left Delta?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aide",
+      "content": "Yes. Satiel ignored even her contractual obligations to Jive and led her forces out.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gis",
+      "content": "Hmm, that prideful angel?",
+      "tone": "disapproving"
+    },
+    {
+      "type": "narrator",
+      "content": "For demons, contracts were negotiable, but for angels, they held a binding force far stronger than what humans could comprehend."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aide",
+      "content": "Yes. Also...",
+      "tone": "hesitant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aide",
+      "content": "It seems Shirone followed shortly after. Additionally, seismic activity was detected near the Jive border.",
+      "tone": "serious"
+    },
+    {
+      "type": "thought",
+      "speaker": "Gis",
+      "content": "They must have found Ikael or whatever she's called. Let it slide. If we nitpick everything, there'll be no one left to work with."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aide",
+      "content": "There's concern it might become a topic of international discussion.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gis",
+      "content": "Then spin it like it wasn't a Holy War Assembly matter, you idiot. Do I have to teach you everything?",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aide",
+      "content": "Understood. Also...",
+      "tone": "hesitant"
+    },
+    {
+      "type": "action",
+      "content": "The aide pulled out a newspaper."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gis",
+      "content": "What?",
+      "tone": "surprised"
+    },
+    {
+      "type": "action",
+      "content": "Midway through buttoning his fresh shirt, Gis snatched the paper."
+    },
+    {
+      "type": "sfx",
+      "content": "The headline read: \"Exposing the Corruption of the Holy War Assembly\" by a journalist named Maekel."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gis",
+      "content": "Him again.",
+      "tone": "disapproving"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aide",
+      "content": "A top graduate of the Royal Political Academy. He's been writing critical articles about the monarchy for years.",
+      "tone": "informative"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gis",
+      "content": "This is a nuisance. Were the Arachne people always this sloppy? That's why you don't deal with bargain-bin fools.",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aide",
+      "content": "What should we do?",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gis",
+      "content": "Try bribing him. If that doesn't work, offer more. Didn't they say his son is sick?",
+      "tone": "calculating"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aide",
+      "content": "Yes, congenital heart disease. The boy's been hospitalized for two years now.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gis",
+      "content": "How's his condition?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aide",
+      "content": "Improving steadily, from what I've heard.",
+      "tone": "informative"
+    },
+    {
+      "type": "action",
+      "content": "Gis paused, his hand hovering over the last button, and turned to his aide."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gis",
+      "content": "Hey, aide.",
+      "tone": "friendly"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aide",
+      "content": "Yes, Your Majesty.",
+      "tone": "respectful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gis",
+      "content": "Do you have children?",
+      "tone": "curious"
+    },
+    {
+      "type": "narrator",
+      "content": "The question seemed redundant since Gis already knew, leaving the aide momentarily confused."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aide",
+      "content": "Yes. My eldest daughter is about to start school, and my second is four this year.",
+      "tone": "proud"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gis",
+      "content": "Imagine if one of them were sick like that. How would you feel?",
+      "tone": "empathetic"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aide",
+      "content": "I'd feel terrible. It would probably feel like my heart was being ripped apart.",
+      "tone": "emotional"
+    },
+    {
+      "type": "action",
+      "content": "Gis's eyes glinted sharply as he swung his arm, slapping the aide hard across the face."
+    },
+    {
+      "type": "action",
+      "content": "The aide stumbled and fell, and Gis followed with a kick to his stomach."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gis",
+      "content": "If you know that, why are you handling this so poorly?",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aide",
+      "content": "I'm sorry!",
+      "tone": "afraid"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gis",
+      "content": "If a child's sick, the parent's heart is torn apart, isn't it? Then what should you do, huh?",
+      "tone": "accusatory"
+    },
+    {
+      "type": "action",
+      "content": "Gis unleashed a flurry of kicks to the aide's ribs as he cowered on the floor."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gis",
+      "content": "You make it worse! You push them further! Buy off the doctor, choke the kid's lifeline, make them gasp for every breath! Isn't that what you should do?",
+      "tone": "maniacal"
+    },
+    {
+      "type": "action",
+      "content": "Snatching the nameplate from Havitz's desk, Gis struck the aide across the head."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gis",
+      "content": "Is your brain full of crap? Can't you think? Get out there and turn everything upside down!",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aide",
+      "content": "Please forgive me!",
+      "tone": "afraid"
+    },
+    {
+      "type": "action",
+      "content": "Even as blood ran from his face, the aide couldn't bring himself to agree."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gis",
+      "content": "How can anyone do that? Even as a politician who's committed countless corrupt acts, there's a line I can't cross.",
+      "tone": "disapproving"
+    },
+    {
+      "type": "action",
+      "content": "Seeing the aide remain steadfast, Gis lowered the nameplate, panting heavily."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gis",
+      "content": "This guy, huh?",
+      "tone": "disapproving"
+    },
+    {
+      "type": "action",
+      "content": "It seemed the aide intended to endure a beating and leave it at that."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gis",
+      "content": "Get up.",
+      "tone": "commanding"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aide",
+      "content": "Y-yes!",
+      "tone": "afraid"
+    },
+    {
+      "type": "action",
+      "content": "Dazed but obedient, the aide shot to his feet, brushing off his clothes."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gis",
+      "content": "Do you plan to do politics like this? Spend your life cleaning up after me? Is that all you're capable of?",
+      "tone": "accusatory"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aide",
+      "content": "No, Your Majesty.",
+      "tone": "resolute"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gis",
+      "content": "I'm someone who donates to foundations. Do you know how many patients I've saved? Do you think your petty conscience is helping this society?",
+      "tone": "defensive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aide",
+      "content": "The state exists to handle these situations. You're smart, aren't you? Why are you projecting your life onto someone else's kid?",
+      "tone": "accusatory"
+    },
+    {
+      "type": "action",
+      "content": "Placing a hand on the aide's shoulder, Gis leaned in."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gis",
+      "content": "Or do I need to make your kid sick so you'll understand what reality is?",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "content": "The aide's eyes widened in shock."
+    },
+    {
+      "type": "sfx",
+      "content": "A sob escaped, and he fell to his knees, clutching Gis's leg."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aide",
+      "content": "Please forgive me! I just can't do it! Your Majesty, please, have mercy on me!",
+      "tone": "afraid"
+    },
+    {
+      "type": "action",
+      "content": "His hands trembled uncontrollably in fear."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gis",
+      "content": "You're pathetic.",
+      "tone": "disapproving"
+    },
+    {
+      "type": "action",
+      "content": "As much as he wanted to beat the man to death, the aide's utility outweighed his temper."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gis",
+      "content": "Fine, get up. You're useless.",
+      "tone": "disapproving"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aide",
+      "content": "Thank you, Your Majesty! I'll devote myself entirely to your service!",
+      "tone": "eager"
+    },
+    {
+      "type": "action",
+      "content": "Patting the aide's back, Gis's tone softened."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gis",
+      "content": "I wasn't being literal, you know. You don't have to dirty your own hands.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aide",
+      "content": "Excuse me?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "content": "Seeing the bloodied aide blink in confusion, Gis's irritation flared again."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gis",
+      "content": "If you can't do it, hire someone who can! What do you think gangsters are for? Find some fool and pay him to get it done. Do you understand? You know how to do this.",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aide",
+      "content": "Y-yes, Your Majesty.",
+      "tone": "afraid"
+    },
+    {
+      "type": "action",
+      "content": "Gis motioned toward the door with his chin."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gis",
+      "content": "Why are you still standing here? Go get it done! Do I have to spoon-feed you too?",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aide",
+      "content": "I'll handle it immediately!",
+      "tone": "eager"
+    },
+    {
+      "type": "action",
+      "content": "As the aide bolted from the room, Gis changed into fresh clothes."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gis",
+      "content": "Honestly, you can't find good help these days. How am I supposed to get anything done if my team doesn't pull their weight? Unbelievable.",
+      "tone": "disapproving"
+    },
+    {
+      "type": "action",
+      "content": "Adjusting his tie, Gis glanced in the mirror."
+    },
+    {
+      "type": "action",
+      "content": "Behind him stood Havitz, reflected lazily yawning."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gis",
+      "content": "Are there no competent people around? Other kingdoms are full of sharp folks. Do I have to do everything myself?",
+      "tone": "disapproving"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "How dull.",
+      "tone": "disinterested"
+    },
+    {
+      "type": "action",
+      "content": "Anywhere he went in the human world, whatever mind he read, Havitz was sick to death of it all."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gis",
+      "content": "At least I got a clue.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "content": "Even as Havitz opened the door and stepped out, Gis failed to notice his presence."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gis",
+      "content": "By the way...",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gis",
+      "content": "Who tipped them off? A trap? No, Arachne wouldn't have the guts.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gis",
+      "content": "The thought of having to restrain his indulgences for a while made him mutter: \"Damn it...\"",
+      "tone": "disapproving"
+    },
+    {
+      "type": "system_notification",
+      "content": "Γùå Γùå Γùå"
+    },
+    {
+      "type": "action",
+      "content": "Thormia Sector"
+    },
+    {
+      "type": "action",
+      "content": "Having received news that Shirone had left Delta, Lupist convened the leadership."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lupist",
+      "content": "Albino and Phony were among those gathered as Lupist tossed a newspaper onto the table.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lupist",
+      "content": "This is today's daily from Jive Kingdom. They didn't include it in the morning edition, likely to avoid censorship.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "content": "Plu opened the paper."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "I saw this before I came. It's still just speculation, but Jive is hosting the Holy War Assembly. This might shake Gis's position.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Albino",
+      "content": "It won't be a major blow. Someone like Gis, with his level of power and wealth, can ruin a person with ease.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Albino",
+      "content": "Still, it might limit his actions. He'll probably hold off on attending banquets. Have we identified the informant?",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Not yet. It's unlikely to be a trap. Arachne's use of honey traps isn't so sloppy.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Then why did someone tip them off?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Albino",
+      "content": "It's human nature. Something probably happened that night. Once someone loses control, they'll do anything.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "So, what's your point? Why did you call us here?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lupist",
+      "content": "I want to make use of this incident. Personally, I think it's a clue.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Albino",
+      "content": "Politically bury it, then. That's more peaceful than assassination. But how?",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lupist",
+      "content": "It seems Arachne's honey trap has failed. But Gis is like a beast. Not being able to attend the banquet will leave him seething. Perhaps we can exploit that opening.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Albino",
+      "content": "So now you're saying Thormia should try a honey trap too?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lupist",
+      "content": "Exactly. Gis will be extremely cautious. But if someone approaches who can break through that wariness? Then things could get interesting.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "And who's this person?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "content": "When Lupist and Albino silently turned to her, Plu pointed at herself."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Me?",
+      "tone": "surprised"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lupist",
+      "content": "Say no if you don't want to.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "No, I agree it's a good plan. But I've never trained in honey traps. Plus, I'm not particularly attractive.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lupist",
+      "content": "Don't underestimate yourself. You're more than capable. We factored in your situational judgment and adaptability when deciding.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Albino",
+      "content": "What's more, the reason this will work is that Gis is in a state of high anxiety. Safety-first thinking. A discreet liaison with the Thormia Magic Association's secretary-general would be an irresistible bait.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "What if he decides to stay cautious?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Albino",
+      "content": "Testosterone is powerful. Historical precedent proves that, beyond just scientific theory. Of course, it depends on how much trust you can earn from him, but the odds are in your favor.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Hmm...",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "action",
+      "content": "As Plu ran simulations in her mind, Albino turned to Lupist."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Albino",
+      "content": "...So, the time is now?",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lupist",
+      "content": "Yes. Shirone would oppose it and might even break the alliance over it. But for now, we still need Yahweh. This plan has to be carried out in secret.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lupist",
+      "content": "What's your answer?",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Meanwhile, Havitz wandered the streets of Jive.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "action",
+      "content": "So many people."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "Hosting the Holy War Assembly seemed to bring a sense of pride, with events held daily.",
+      "tone": "disinterested"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "Finding someone here isn't hard.",
+      "tone": "disinterested"
+    },
+    {
+      "type": "action",
+      "content": "The decadent, gambling-addicted daughter of Gis stood out, even among the crowd, thanks to her noisy thoughts."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "At the casino, she was shouting.",
+      "tone": "disinterested"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "Yes! Bet! 200,000 gold!",
+      "tone": "disinterested"
+    },
+    {
+      "type": "action",
+      "content": "Holding a drugged glass of wine, it was clear even without Havitz's divine frequency that she wasn't in her right mind."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "Gis's daughter.",
+      "tone": "disinterested"
+    },
+    {
+      "type": "action",
+      "content": "If he destroyed the child of the man who had no qualms about ruining others' children, how would Gis react?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "I want to hear that sound.",
+      "tone": "disinterested"
+    },
+    {
+      "type": "action",
+      "content": "It wasn't an obsession, but it would be some entertainment in this dull Holy War Assembly."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "This is why I need history searches.",
+      "tone": "disinterested"
+    },
+    {
+      "type": "action",
+      "content": "Simply killing or tormenting someone wouldn't yield the kind of ultimate sound he sought."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "Approaching the casino table with his sword in hand, Havitz went unnoticed.",
+      "tone": "disinterested"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "Vanishing.",
+      "tone": "disinterested"
+    },
+    {
+      "type": "action",
+      "content": "If he stabbed Rebecca, the nations of the Holy War Assembly would blame him."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "But this isn't part of the Assembly, is it?",
+      "tone": "disinterested"
+    },
+    {
+      "type": "action",
+      "content": "Paying Gis back with his own logic was part of Havitz's twisted enjoyment."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "Alright, alright! This time, 300,000! I'll clean up big!",
+      "tone": "disinterested"
+    },
+    {
+      "type": "action",
+      "content": "Standing behind Rebecca, Havitz glanced around briefly before raising his sword."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "Should I start with an arm?",
+      "tone": "disinterested"
+    },
+    {
+      "type": "action",
+      "content": "But at that moment, something caught his eye."
+    },
+    {
+      "type": "action",
+      "content": "A seven-year-old child stood there."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Child",
+      "content": "Are you Gustav Havitz, the scourge of the age?",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "content": "Havitz stared blankly, glancing left and right before pointing at himself."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "You can see me?",
+      "tone": "disinterested"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Child",
+      "content": "I'm here to kill you.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "content": "Even with divine frequency, the child's mind revealed no murky malice."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Child",
+      "content": "Wena... Wizard?",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "content": "Her name pulsed clearly in his mind."
+    }
+  ],
+  "source_hash": "56ecf2e0db7195c96100eaaf2ba3504eafb09e08eebb2b59fc3bea226372674b",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T04:42:22.560790Z"
+}

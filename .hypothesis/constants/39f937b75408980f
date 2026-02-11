@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\google\api_core\grpc_helpers.py
+# hypothesis_version: 6.148.8
+
+['/', '3.', ':', ':///', 'P', '_ChannelRequest', '_MethodCall', '__name__', '_stored_first_result', 'compression', 'credentials', 'dns:///', 'metadata', 'method', 'request', 'timeout']

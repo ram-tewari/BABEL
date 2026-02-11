@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\google\ai\generativelanguage_v1beta\types\text_service.py
+# hypothesis_version: 6.148.8
+
+['EmbedTextRequest', 'EmbedTextResponse', 'Embedding', 'GenerateTextRequest', 'GenerateTextResponse', 'TextCompletion', 'TextPrompt']

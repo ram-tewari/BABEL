@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\yaml\nodes.py
+# hypothesis_version: 6.148.8
+
+['%s(tag=%r, value=%s)', 'mapping', 'scalar', 'sequence']

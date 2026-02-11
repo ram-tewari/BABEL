@@ -1,0 +1,671 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "The Unknown Depths of Humanity (4)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Chief Researcher."
+    },
+    {
+      "type": "action",
+      "content": "Seriel snapped back to reality at the sound of the door opening."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "It's time to attend the Holy War Conference."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Got it."
+    },
+    {
+      "type": "action",
+      "content": "She put out her cigarette and spread the smell with her hands, gathering her thoughts as she put on her gown."
+    },
+    {
+      "type": "thought",
+      "speaker": "Seriel",
+      "content": "Right. I have to meet them at least once anyway."
+    },
+    {
+      "type": "action",
+      "content": "As she stepped into the hallway, the WHO delegation approached, escorted by knights."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Let's go, Seriel."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Yes."
+    },
+    {
+      "type": "action",
+      "content": "The main hall of the Holy War resembled a small coliseum that could hold about 600 people."
+    },
+    {
+      "type": "action",
+      "content": "As all attendees took their seats, the chairman of the Holy War stepped onto the podium."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chairman",
+      "content": "We will now begin the 63rd Holy War."
+    },
+    {
+      "type": "narrator",
+      "content": "The number 63 was a historical milestone, marking each global event that had called for a conference."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chairman",
+      "content": "Today, we are here to elect the World Leadership Council. The Leadership Council exists for the happiness and prosperity of all humanity…"
+    },
+    {
+      "type": "action",
+      "content": "Even as the speech continued, think tanks from various countries were busy working."
+    },
+    {
+      "type": "thought",
+      "speaker": "Albino",
+      "content": "Each country's opening remarks are limited to 5 minutes. According to the vote, Tormia will go seventh."
+    },
+    {
+      "type": "narrator",
+      "content": "Although the speech was prepared, it would need real-time adjustments based on other countries' speeches."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chairman",
+      "content": "With the opening of the Holy War, each country will have three rights. Rom signifies one vote that can be given to another country…"
+    },
+    {
+      "type": "action",
+      "content": "It was all familiar information."
+    },
+    {
+      "type": "action",
+      "content": "When it was time for each department's proposals, Dorothy, acting head of Valkyrie, stepped up."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dorothy",
+      "content": "Hello. I am Dorothy, Chief Military Officer of Valkyrie. In this tense global situation, our military proposal is…"
+    },
+    {
+      "type": "action",
+      "content": "A man from Arachne raised his hand."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pedra",
+      "content": "Wait a moment."
+    },
+    {
+      "type": "narrator",
+      "content": "His name was Pedra, a man who had risen from a pimp in his youth to Prime Minister."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pedra",
+      "content": "We only heard about the Chief Military Officer's resignation. We know nothing about the acting head. Shouldn't you explain why you took over before making a proposal?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dorothy",
+      "content": "I'm his girlfriend."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pedra",
+      "content": "Girlfriend… What is this?"
+    },
+    {
+      "type": "action",
+      "content": "Pedra's exaggerated gestures for agreement were met with silence."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pedra",
+      "content": "What? Am I the only one who finds this strange? Huh?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Dorothy",
+      "content": "It means it's essentially vacant."
+    },
+    {
+      "type": "narrator",
+      "content": "The country that became the Leadership Council would take over all of Valkyrie's authority."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dorothy",
+      "content": "…Therefore, our military proposal is a comprehensive solution for peace agreements. We hope each country's leadership makes the right decision."
+    },
+    {
+      "type": "action",
+      "content": "Dorothy stepped down amid dry applause, and Smith, head of Economic and Social Affairs, took the stage."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Smith",
+      "content": "I believe that a Leadership Council should have a vision for human prosperity. Due to the arms race, currency values are plummeting worldwide. Therefore, we urge decisive action from the World Bank and central banks of each country to curb reckless development of war weapons…"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Liz",
+      "content": "I object."
+    },
+    {
+      "type": "action",
+      "content": "When Liz from Neid Group raised her hand, the chairman intervened."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chairman",
+      "content": "Wouldn't it be better to raise objections after the proposal?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Liz",
+      "content": "No, I object to the proposal itself. The term 'reckless war weapons' could negatively interpret industries in countries currently at war."
+    },
+    {
+      "type": "action",
+      "content": "Neid Group's main business was military supplies."
+    },
+    {
+      "type": "thought",
+      "speaker": "Lupist",
+      "content": "Good timing."
+    },
+    {
+      "type": "action",
+      "content": "Lupist nodded."
+    },
+    {
+      "type": "thought",
+      "speaker": "Lupist",
+      "content": "Once the meeting progresses, it becomes fast and rough. It's not too late to attack proposals."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Smith",
+      "content": "The core of this Holy War is world peace. Using strong language against war weapons isn't unusual…"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Liz",
+      "content": "Of course no country opposes peace. However, for fairness and considering different circumstances in each country, we should avoid terms that could exonerate specific nations. We request either deletion or replacement with clear terms."
+    },
+    {
+      "type": "action",
+      "content": "Smith clicked his tongue."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Smith",
+      "content": "We'll pause the proposal."
+    },
+    {
+      "type": "action",
+      "content": "With permission from the chairman, Economic and Social Affairs staff huddled together."
+    },
+    {
+      "type": "action",
+      "content": "Five minutes later, Smith returned to correct his statement."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Smith",
+      "content": "We accept your suggestion and will replace 'reckless' with 'threatening human peace.'"
+    },
+    {
+      "type": "thought",
+      "speaker": "Pony",
+      "content": "This should do…"
+    },
+    {
+      "type": "action",
+      "content": "From now on, it depended on execution."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pony",
+      "content": "You made a good point. It would have been embarrassing for our king to intervene."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Liz",
+      "content": "Liz's objection resonated because she represented an industry directly affected by this proposal."
+    },
+    {
+      "type": "thought",
+      "speaker": "Lupist",
+      "content": "Yes. If not an entrepreneur like her, it would be misinterpreted."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lupist",
+      "content": "April Liz is Neid Group's current head. She has practical experience and seems sharp now."
+    },
+    {
+      "type": "thought",
+      "speaker": "Lupist",
+      "content": "It was significant that only Liz stood up among renowned economists present."
+    },
+    {
+      "type": "narrator",
+      "content": "She doesn't care about royal favor. It means she understands Tormia's intentions well enough to be entrusted with an executive role."
+    },
+    {
+      "type": "action",
+      "content": "As Liz sat down after finishing her proposal, Pedra clapped his hands."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pedra",
+      "content": "Haha! You're quite a woman. Your company must have a good secretary. Congratulations."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Liz",
+      "content": "I don't think it's something to laugh about. And I'm not a secretary; I'm CEO of Neid Group."
+    },
+    {
+      "type": "action",
+      "content": "Pedra squinted his eyes."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pedra",
+      "content": "Huh? Neid Group? So you're its next head after pushing out Mr. Neid?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Liz",
+      "content": "Nope! I'm his girlfriend."
+    },
+    {
+      "type": "action",
+      "content": "Although she co-founded Neid Military Supplies with him but this response sufficed for now."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pedra",
+      "content": "My goodness! Tormia is quite something too! Girlfriend? What kind of introduction is this?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aide",
+      "content": "Heheh! Indeed."
+    },
+    {
+      "type": "thought",
+      "speaker": "Pedra",
+      "content": "You're no better yourself! You trashy human being."
+    },
+    {
+      "type": "action",
+      "content": "Regardless of position or gender Pedra epitomized disgust."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "King Gis",
+      "content": "Who is that guy, a thug? Does he think this is a marketplace?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Smoke",
+      "content": "He's the real power behind Arachne. He rose to Prime Minister through nighttime politics."
+    },
+    {
+      "type": "action",
+      "content": "King Gis's expression immediately turned favorable."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "King Gis",
+      "content": "Now I see, he's been through tough times. Arrange a meeting."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Smoke",
+      "content": "Yes."
+    },
+    {
+      "type": "action",
+      "content": "Meanwhile, Pope Constantine, the head of the Department of Religion, stepped onto the podium."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pope Constantine",
+      "content": "Let us pray."
+    },
+    {
+      "type": "action",
+      "content": "Oh dear."
+    },
+    {
+      "type": "action",
+      "content": "Gis hurriedly straightened up, clasped his hands, and closed his eyes."
+    },
+    {
+      "type": "action",
+      "content": "The prayer began."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pope Constantine",
+      "content": "O God of Cria, all humanity is suffering. Save us from this cruel world…"
+    },
+    {
+      "type": "action",
+      "content": "During this, Shirone watched the backs of those bowing their heads."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "How many of them?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "How many truly pray for humanity's happiness?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "If everyone considers others, no one will end up harmed. It's theoretically possible, but…"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Is it really?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Uorin",
+      "content": "It must be unsettling."
+    },
+    {
+      "type": "narrator",
+      "content": "Humans are not Gaians."
+    },
+    {
+      "type": "thought",
+      "speaker": "Uorin",
+      "content": "Give it up, Shirone. The world you dream of will never come. Because Eve crossed the forbidden line."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gando",
+      "content": "Your Majesty."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gando",
+      "content": "I have something to discuss about deploying shadow warriors."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "I said no. The idea of someone looking exactly like me is unsettling. Besides, Kido will be by my side."
+    },
+    {
+      "type": "action",
+      "content": "It saddened her that the only being she trusted was a goblin, not a human."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "But we must prepare for the possibility of Kido being breached."
+    },
+    {
+      "type": "action",
+      "content": "Hmm."
+    },
+    {
+      "type": "action",
+      "content": "Uorin glanced at Havitz."
+    },
+    {
+      "type": "action",
+      "content": "The sight of Satan falling into a sweet sleep while listening to the Pope's prayer…"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pope Constantine",
+      "content": "Punish the evil of the world!"
+    },
+    {
+      "type": "action",
+      "content": "The Pope raised his voice, and Gis shed tears."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gis",
+      "content": "Sniff! Oh God."
+    },
+    {
+      "type": "action",
+      "content": "Uorin turned her gaze from the snoring Havitz and continued."
+    },
+    {
+      "type": "thought",
+      "speaker": "Uorin",
+      "content": "As long as it's not Vanishing, it's fine. There's no Ymir or Rian. There's nothing we can't handle. The ones who should worry about royal assassination are other countries, not Kashan."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "But keep an eye on Tormia. Handle all incoming intelligence with care."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Tormia… you mean?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Yes. They have Kuan."
+    },
+    {
+      "type": "thought",
+      "speaker": "Uorin",
+      "content": "The only swordsman who beheaded Havitz."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "If it's an underground operation, the only one to watch out for besides Havitz is him. Honestly, it's questionable if we can even stop him."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Then even more reason for shadow warriors—"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "I said it's fine."
+    },
+    {
+      "type": "action",
+      "content": "Uorin looked at Siina, who was listening to the prayer with a serene posture."
+    },
+    {
+      "type": "thought",
+      "speaker": "Uorin",
+      "content": "She looked beautiful and intelligent."
+    },
+    {
+      "type": "action",
+      "content": "Albino of Yongrae, pretending to pray, felt a gaze and turned his head."
+    },
+    {
+      "type": "thought",
+      "speaker": "Albino",
+      "content": "When his eyes met Uorin's, he smiled awkwardly, but his inner thoughts were different."
+    },
+    {
+      "type": "thought",
+      "speaker": "Albino",
+      "content": "Why do you keep staring? It's annoying."
+    },
+    {
+      "type": "thought",
+      "speaker": "Albino",
+      "content": "He knew the reason well."
+    },
+    {
+      "type": "thought",
+      "speaker": "Albino",
+      "content": "Hehe, your nape must be itching. In terms of VIP assassination, Kashan's nemesis is us."
+    },
+    {
+      "type": "thought",
+      "speaker": "Albino",
+      "content": "Both Havitz and Kuan wield deadly swords, but Tormia can afford to lose their king."
+    },
+    {
+      "type": "thought",
+      "speaker": "Albino",
+      "content": "Of course, it's risky. If the assassination's mastermind is revealed, public opinion will worsen. But in an emergency, it's a card that can be used once."
+    },
+    {
+      "type": "thought",
+      "speaker": "Albino",
+      "content": "Thus, in a trade-off, the fatal blow would be to Kashan."
+    },
+    {
+      "type": "thought",
+      "speaker": "Albino",
+      "content": "But it's a difficult sword to handle. Well, the same goes for Havitz."
+    },
+    {
+      "type": "action",
+      "content": "Albino stroked his beard."
+    },
+    {
+      "type": "thought",
+      "speaker": "Albino",
+      "content": "Still undecided? Foolish."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Albino",
+      "content": "Parka Kuan."
+    },
+    {
+      "type": "action",
+      "content": "200 meters from Delta's main building, the guards of 12 countries were all gathered."
+    },
+    {
+      "type": "action",
+      "content": "The Holy War had drawn a long line, and stepping beyond it would be considered an act of aggression."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rai",
+      "content": "Are you Captain Rai of Gangshin's guards?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rai",
+      "content": "Yes, I am."
+    },
+    {
+      "type": "action",
+      "content": "Despite knowing the intensity of the Holy War, the knights' eyes sparkled."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Knight",
+      "content": "Oh, then you're the brother of Ogent Rian?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rai",
+      "content": "Ah, sorry if I was rude. But he's the only one who can face Ymir."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Knight",
+      "content": "Are you saying I shouldn't feel inferior?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rai",
+      "content": "No, that's not what I meant… though it might be true."
+    },
+    {
+      "type": "thought",
+      "speaker": "Rai",
+      "content": "They wouldn't understand."
+    },
+    {
+      "type": "thought",
+      "speaker": "Rai",
+      "content": "No one knew what it was like to be the brother of the world's strongest swordsman."
+    },
+    {
+      "type": "thought",
+      "speaker": "Rai",
+      "content": "Why am I here?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Rai",
+      "content": "Because all those more capable than him were dead?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Captain."
+    },
+    {
+      "type": "action",
+      "content": "Tess's voice brought him back to reality."
+    },
+    {
+      "type": "thought",
+      "speaker": "Rai",
+      "content": "Protect the king. That's all that matters."
+    },
+    {
+      "type": "action",
+      "content": "At that moment, Rai felt a chill down his spine, and the guards of 12 countries simultaneously turned."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Knight",
+      "content": "Who goes there!"
+    },
+    {
+      "type": "action",
+      "content": "The sound of swords being drawn as one created a deafening noise."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Knight",
+      "content": "That is…"
+    },
+    {
+      "type": "action",
+      "content": "A one-armed swordsman was limping towards them."
+    }
+  ],
+  "source_hash": "ab9c19fce1735005456d70f5c9055332fcb348ed60a9fadbf3737c2cdf55dabf",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T03:58:59.394453Z"
+}

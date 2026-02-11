@@ -1,0 +1,949 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A fleet of seventy warships was swiftly advancing through a windless zone on the sea.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jakra",
+      "content": "Commander, it was a dud.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The ship, unparalleled in size, was equipped with all kinds of weapons.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jakra",
+      "content": "No need to report every little thing. This is just a greeting. Fire a shot to get them riled up.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Jakra Pirates.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "A famous pirate group in the South Pacific, led by Jakra, the younger brother of the King of Dionas.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jakra",
+      "content": "But it was a dud.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With fiery red hair and wickedly slit eyes, he gazed beyond the sea.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jakra",
+      "content": "This is awkward. Open all the gunports.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Iso Jakra.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "One of the world's top 100 dangerous individuals, a master of skima with no equal in naval battles.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jakra",
+      "content": "Open the gunports!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The ship slowly rotated to the left, and 120 gunports opened on the side.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Cannons extended ominously, pointing forward like thorns.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jakra",
+      "content": "Power level 3. Fire.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The crew member operating the device turned his head.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crew Member",
+      "content": "Uh, Commander, if we fire 120 electric guns simultaneously, our ship might blow up too.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jakra",
+      "content": "It's fine, fire.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It wasn't fine at all, but Jakra didn't care about the aftermath.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Deputy Commander",
+      "content": "How about luring them first? The king ordered us to avoid direct confrontation if possible.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even for Dionas, making a deal with Arachne wasn't a losing proposition.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The problem was Langi.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "While treasures could be stolen again, humans were irreplaceable.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Deputy Commander",
+      "content": "If we take Langi, we won't be at a disadvantage in negotiations. The opponent is Yahweh. Isn't it unnecessary to provoke him?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jakra",
+      "content": "Yahweh, huh.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Jakra had heard of him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jakra",
+      "content": "Well… saving the world and all that? Why doesn't a guy like that come to me? Honestly, aren't I the most pitiful human?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The deputy commander got to the point.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Deputy Commander",
+      "content": "He's strong. His record is impressive.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jakra",
+      "content": "Yeah, he must be incredibly strong. Meanwhile, I'm just a cowardly, ruthless, and dumb pirate.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The deputy commander didn't deny it.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Deputy Commander",
+      "content": "Hahaha! Fine! Let's show them a pirate's battle. Kill the weak ones first! Torment and threaten them!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Jakra stood up and pointed forward.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jakra",
+      "content": "King or whatever, on the sea, I'm the god! If I say it, it happens! Fire!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The deputy commander sighed and nodded to the crew member, who entered the coordinates.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crew Member",
+      "content": "Opening 120 electric guns. Power level 3. Estimated projectile speed… Mach 4.2.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Those who hadn't yet left the deck watched Poine with blank expressions.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The cannonball that fell with a thud was half-crushed by finger marks.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crew Member",
+      "content": "What? She caught a cannonball with her hand…",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Only a few on the ship knew that Poine was a dragon.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crew Member",
+      "content": "Messiah.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Poine approached Shirone, who was still watching the enemy fleet.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Poine",
+      "content": "The projectile speed exceeded the speed of sound. If I hadn't been watching, there would have been damage.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "That was why Shirone stayed in position.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Poine",
+      "content": "How's your hand?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even with a dragon's durability, there were limits to biological cells.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Poine",
+      "content": "It's fine.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Her fingertips trembled involuntarily, and the skin on the back of her hand was ruptured.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Poine",
+      "content": "But I can't guarantee the next one. We should strike first.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If Shirone allowed it, she wanted to fly up and boil the sea with poison.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "While she was lost in thought, people evacuated, and Arachne's ship approached.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Knights equipped with flying artifacts soared vertically and landed on the deck.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cairns",
+      "content": "What's going on?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Pushing past the knights, Foreign Minister Cairns approached.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cairns",
+      "content": "Pirates. Probably under orders from the King of Dionas, but there's no way to confirm.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Cairns didn't feel betrayed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cairns",
+      "content": "Damn! That's just like them. By the way, where's Benahar?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He was probably hiding somewhere on the evacuation ship, but searching three hundred ships was impossible.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "This is just the beginning. If a battle breaks out, the damage will be uncontrollable. Retreat.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cairns",
+      "content": "We'll fight too. We've prepared the elite knights for this.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Having already lost to Shirone in negotiations, Cairns couldn't afford to lose this battle.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cairns",
+      "content": "'If we lose the initiative here, even Maika's artifacts will be taken by Shirone.'",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "…Do as you wish. But if you decide to fight, I'll classify you as a combatant.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It meant he could be a strategic sacrifice if necessary, and Cairns agreed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cairns",
+      "content": "Of course.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the knights moved to the front of the deck, Poine wore a serious expression.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Poine",
+      "content": "They don't seem interested in talking.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In the giant light lens Shirone created, a warship with over 100 open gunports appeared.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crew Member",
+      "content": "Th-that's…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Hot air shimmered above the warship, pushing the sea away at tremendous speed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crew Member",
+      "content": "Faster.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The knights saw 120 cannonballs approaching faster than sound…",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crew Member",
+      "content": "Evade.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was impossible to react.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crew Member",
+      "content": "Not being able to dodge something at close range was a familiar pattern to the brain.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crew Member",
+      "content": "Huh? Huh?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When something approached at incredible speed from a distance, the nerves screamed.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Boom!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When the loud noise arrived, the knights felt as if time had reversed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crew Member",
+      "content": "Hand of God.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Sleight of Hand.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone scattered the 120 cannonballs he had swept up with the Hand of God into the air.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Poine!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As if waiting, Poine's lips twisted wickedly, and her skin split.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Poine",
+      "content": "Roar!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Flying into the sky, she transformed, and the knights stared blankly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crew Member",
+      "content": "A dragon…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She had a much thinner and longer body than the dragons typically imagined.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crew Member",
+      "content": "Move back!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sensing the seriousness, the knights retreated with Cairns to the captain's cabin.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Poine",
+      "content": "Insignificant humans…",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "That was why Shirone restricted the apostles' transformations; once transformed, they lost all humanity.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cairns",
+      "content": "She's really angry. I can't stop her.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Given her personality, she would act even if it meant being killed by the Messiah.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Poine",
+      "content": "Follow me!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Spreading his wings, Shirone flew towards the pirates, with Poine following.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Poine",
+      "content": "Grrr!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A boiling sound came from the poison dragon's throat, and thick green smoke billowed out.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Poine",
+      "content": "Roar!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Three hundred meters from the pirate fleet, Poine unleashed her breath, the Mist of Despair.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The smoke, like a meteor's tail, quickly filled the sea.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crew Member",
+      "content": "Gas! Gas!",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The recharge time was short for one of the Twelve Apostles, only two hours, but the duration exceeded two hours.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crew Member",
+      "content": "Ahhh! My flesh is melting!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Hearing the screams from the giant green cloud, Shirone checked his fleet.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "This distance is safe.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If it weren't a windless zone, the toxic smoke would have killed his allies too.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Haha, the smell of rotting flesh is delightful.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone glanced at Poine, who was craning her neck to look below, and sighed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What are you doing, using your breath? We can't identify the enemies.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The Messiah allowed the transformation. Without a one-hit kill, our allies would have suffered.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "They were indeed handling dangerous weapons.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Poine",
+      "content": "Huh?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Suddenly realizing the change in the air, Shirone quickly turned his head.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The green cloud, which had been floating, began to spin faster.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crew Member",
+      "content": "Huge electric bolts shot out from the cloud, striking like lightning.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Magnetic field?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The green smoke dispersed, revealing the warship surrounded by a magnetic field.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jakra",
+      "content": "Hahaha! Is this all? A dragon is nothing special, right?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Jakra's words made Poine's eyes bloodshot.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Poine",
+      "content": "I'll chew you up myself.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jakra",
+      "content": "Wait.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Something was off about the enemy formation.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jakra",
+      "content": "There are fewer ships. Over thirty are missing.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Realizing the situation, Shirone looked back and saw the missing pirate ships chasing the evacuation ships.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was as if the ships had magically moved through space.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jakra",
+      "content": "Save the world, Yahweh!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jakra",
+      "content": "Huh? Or maybe not? They'll all burn to death in the 'Birdron' soon. Hahaha!",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Poine's body emitted poison, but compared to Shirone's killing intent, it was nothing.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Poine",
+      "content": "…Wait here.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As his wings flapped, Shirone's body shot across the sea like a flash.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Poine",
+      "content": "Grrr!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Flying at incredible speed, Shirone confirmed the pirate ships' position.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even flying like this takes over two seconds. It's physically impossible.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Thousands of shadows rose from the thirty pirate ships like birds taking flight.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Is that Birdron?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crew Member",
+      "content": "Damn…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone moved, thousands of Birdrons drew a massive trajectory and struck his fleet.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Boom!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The massive chain explosion was visible even from a distance.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jakra",
+      "content": "Hahaha! What's this? Yahweh is nothing special? Who will you protect now?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ignoring the dragon in the sky, Jakra's attitude made his crew tremble.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He's our leader, but he's really crazy.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crew Member",
+      "content": "Despite ignoring the power balance, he always led them to victory, which was amazing.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jakra",
+      "content": "Hey! If you're angry, come down! I've always wanted to catch a dragon!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When Jakra drew his sword and taunted, Poine turned her head from watching the smoke.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Poine",
+      "content": "It is not I who will punish you.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At that moment, a crew member scanning the horizon with a telescope shouted in surprise.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crew Member",
+      "content": "Commander! Over there…!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Frowning, Jakra pressed his temples, and his eyes lit up.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jakra",
+      "content": "Where the Birdron's smoke had cleared, there was not an evacuation ship but the Hand of God.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jakra",
+      "content": "What? Where did they all go?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As if to show him, the Hand of God opened its palm, revealing nothing.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then, in the next moment, it struck the sea, revealing nearly three hundred evacuation ships.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hand of God.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Poine",
+      "content": "Sleight of Hand.",
+      "tone": null
+    }
+  ],
+  "source_hash": "1f8ca3534a22090400596d86d1ccb58041792a62ce3ff39ff80face441d2a271",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T08:12:23.819428+00:00"
+}

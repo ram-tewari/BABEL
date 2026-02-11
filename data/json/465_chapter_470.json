@@ -1,0 +1,983 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "Gaold's eyes took in the Hall of Corruption."
+    },
+    {
+      "type": "action",
+      "content": "The moment he saw Miro standing on the wall, his heart turned into an even larger black smoke, enveloping the world."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "He's coming! Stop him at the entrance!",
+      "tone": "urgency"
+    },
+    {
+      "type": "action",
+      "content": "Elite fire giants blocked the entrance to the drawbridge."
+    },
+    {
+      "type": "action",
+      "content": "Their average height was a staggering 7 meters, and they all wore heavy armor, numbering in the hundreds."
+    },
+    {
+      "type": "action",
+      "content": "As the giants charged in formation and struck with their massive swords, the bridge trembled."
+    },
+    {
+      "type": "action",
+      "content": "Gaold leaped into the air and unleashed a powerful air press."
+    },
+    {
+      "type": "sfx",
+      "content": "Boom!"
+    },
+    {
+      "type": "action",
+      "content": "The power of an air press from a mage with pain sensitivity increased by 2 million times was something even the strongest giants had never experienced before."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Ugh!",
+      "tone": "pain"
+    },
+    {
+      "type": "narrator",
+      "content": "But the giants endured."
+    },
+    {
+      "type": "narrator",
+      "content": "Their transcendent physical abilities, enhanced by the fifth stage of the elixir of myths, combined with five layers of Skima and exceptional techniques, allowed them to withstand the attack."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sein",
+      "content": "Is the real challenge starting now?",
+      "tone": "curiosity"
+    },
+    {
+      "type": "action",
+      "content": "Sein, who had arrived late after defeating Tiara, felt a sense of crisis as Gaold's power was nullified for the first time."
+    },
+    {
+      "type": "action",
+      "content": "Miro, watching from the distant wall, also knew it was a desperate situation."
+    },
+    {
+      "type": "narrator",
+      "content": "This was, after all, the strongest unit in purgatory."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sein",
+      "content": "We can't win like this.",
+      "tone": "desperation"
+    },
+    {
+      "type": "action",
+      "content": "It wasn't just the warriors attacking Gaold."
+    },
+    {
+      "type": "action",
+      "content": "As fire giants who wielded unique magic, various fire techniques raged across the bridge."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Here I come!",
+      "tone": "determination"
+    },
+    {
+      "type": "action",
+      "content": "Gaold charged into the midst of the giants, tearing through the battlefield."
+    },
+    {
+      "type": "action",
+      "content": "As air guns fired in all directions, holes were punched through the giants' armor."
+    },
+    {
+      "type": "action",
+      "content": "The air, solidified by extreme atmospheric pressure, was no longer just air but sharp projectiles."
+    },
+    {
+      "type": "action",
+      "content": "The sharp air, like spears several meters long, pierced through the giants' bodies repeatedly."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Get him! One hit is all it takes to win!",
+      "tone": "urgency"
+    },
+    {
+      "type": "narrator",
+      "content": "No matter how powerful Gaold was, he was fundamentally a mage."
+    },
+    {
+      "type": "narrator",
+      "content": "If a giant's attack landed even once, he would be incapacitated in an instant."
+    },
+    {
+      "type": "action",
+      "content": "But Gaold's true strength was just beginning to show."
+    },
+    {
+      "type": "narrator",
+      "content": "He wasn't called the strongest battle mage of the Kingdom of Tormia just for his power."
+    },
+    {
+      "type": "narrator",
+      "content": "The skills he had honed over 20 years of enduring immense pain were deeply ingrained in his body, allowing him to find the most suitable responses even in a state of lost reason."
+    },
+    {
+      "type": "action",
+      "content": "As he dodged enemy attacks and swung his hands, sharp air cutters sliced through the space."
+    },
+    {
+      "type": "action",
+      "content": "The bodies of giants with muscles stronger than steel were cut into chunks, and their Skima-less corpses were crushed by the air press, spraying blood particles."
+    },
+    {
+      "type": "sfx",
+      "content": "Boom! Boom! Boom!"
+    },
+    {
+      "type": "action",
+      "content": "Giants exploded in all directions, and the density on the drawbridge thinned."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Ugh!",
+      "tone": "pain"
+    },
+    {
+      "type": "narrator",
+      "content": "Gaold gritted his teeth so hard they almost broke as he continued to eliminate the enemies."
+    },
+    {
+      "type": "action",
+      "content": "Sein's party, who had just entered the drawbridge, could only watch in a daze, unable to come up with any strategy."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "Is that Gaold…?",
+      "tone": "curiosity"
+    },
+    {
+      "type": "action",
+      "content": "Armin erased all the vague images he had of Gaold before coming to Heaven."
+    },
+    {
+      "type": "narrator",
+      "content": "Pain, the most extreme form of control for living beings."
+    },
+    {
+      "type": "narrator",
+      "content": "Any desire would naturally fade before such pain."
+    },
+    {
+      "type": "narrator",
+      "content": "But Gaold chose pain."
+    },
+    {
+      "type": "narrator",
+      "content": "For desire."
+    },
+    {
+      "type": "narrator",
+      "content": "It was a decision that defied the basics of living beings, a madness unique to humans."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "Human…",
+      "tone": "realization"
+    },
+    {
+      "type": "action",
+      "content": "Armin realized why everyone here was following Gaold."
+    },
+    {
+      "type": "narrator",
+      "content": "They hadn't come to Heaven just to save Miro or stop the final war."
+    },
+    {
+      "type": "narrator",
+      "content": "They had followed Gaold to see how far one human could transcend humanity."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Raaaah!",
+      "tone": "frenzy"
+    },
+    {
+      "type": "action",
+      "content": "Gaold pushed the giants back with immense atmospheric pressure."
+    },
+    {
+      "type": "narrator",
+      "content": "While the air press alone couldn't explode a fully intact giant, the momentum of his charge, fully converted into mental strength, pushed the giants' mass backward."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Ugh!",
+      "tone": "pain"
+    },
+    {
+      "type": "narrator",
+      "content": "The giants gathered at the final barrier were indeed strong."
+    },
+    {
+      "type": "narrator",
+      "content": "Despite his desperate push, he had only advanced about a kilometer."
+    },
+    {
+      "type": "narrator",
+      "content": "Given that a dense formation was advantageous for blocking a charge, the enemies knew this was their last line of defense."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Bastards…",
+      "tone": "anger"
+    },
+    {
+      "type": "action",
+      "content": "Gaold glared ahead with terrifying eyes."
+    },
+    {
+      "type": "narrator",
+      "content": "It wasn't directed at anyone in particular, but at the entire world."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "From the beginning… I shouldn't have relied on someone like you.",
+      "tone": "regret"
+    },
+    {
+      "type": "narrator",
+      "content": "If he had refined his strength without depending on a transcendent being."
+    },
+    {
+      "type": "narrator",
+      "content": "Maybe then, he wouldn't have had to let Miro go."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Close ranks! We can't let him through here!",
+      "tone": "urgency"
+    },
+    {
+      "type": "action",
+      "content": "As the giants holding back Gaold's atmospheric pressure shouted, more giants crowded in from the rear."
+    },
+    {
+      "type": "narrator",
+      "content": "The weight ratio between Gaold and the giant unit was already over 1 to 1,000, but still, the giants were being pushed back."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "This… this is…!",
+      "tone": "determination"
+    },
+    {
+      "type": "action",
+      "content": "Gaold drew even more strength."
+    },
+    {
+      "type": "narrator",
+      "content": "Slowly, slowly. He just needed to take one step at a time towards Miro."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "I hate you.",
+      "tone": "hatred"
+    },
+    {
+      "type": "narrator",
+      "content": "Gaold's heart, now a massive entity larger than the giants, pushed the world."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "You said you could give everything…",
+      "tone": "anger"
+    },
+    {
+      "type": "narrator",
+      "content": "A god that gave nothing."
+    },
+    {
+      "type": "sfx",
+      "content": "Tuk! Tuk tuk!"
+    },
+    {
+      "type": "action",
+      "content": "As the heat of extreme discipline rose from Gaold, his shirt began to burn."
+    },
+    {
+      "type": "action",
+      "content": "His skin, covered in muscles, was adorned with countless scars that could only be etched through blind abuse."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Hold the line! Don't retreat!",
+      "tone": "urgency"
+    },
+    {
+      "type": "action",
+      "content": "The giants at the front shouted."
+    },
+    {
+      "type": "action",
+      "content": "And with their final cries, their bodies burst under the pressure."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Heh. Heh heh.",
+      "tone": "maniacal"
+    },
+    {
+      "type": "narrator",
+      "content": "A hollow laugh escaped Gaold's torn lips. His black heart was laughing too."
+    },
+    {
+      "type": "narrator",
+      "content": "He heard a voice mocking the world and sneering at God."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Well, there's nothing to hate. From the beginning…",
+      "tone": "regret"
+    },
+    {
+      "type": "narrator",
+      "content": "Gaold's expression twisted as the atmospheric pressure pushing the giants turned into sharp blades and exploded all at once."
+    },
+    {
+      "type": "sfx",
+      "content": "Boom!"
+    },
+    {
+      "type": "action",
+      "content": "Dozens of giants were blown to pieces, and a path opened."
+    },
+    {
+      "type": "action",
+      "content": "Once he gained momentum, nothing could stop Gaold."
+    },
+    {
+      "type": "action",
+      "content": "He tore through the mountain of bodies, finally crossing half the drawbridge."
+    },
+    {
+      "type": "narrator",
+      "content": "As the giant unit's mages gathered their energy for a final strike at the end of the bridge, the heat distorted the scenery like a vortex."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Raaaah!",
+      "tone": "frenzy"
+    },
+    {
+      "type": "action",
+      "content": "Gaold, like a creature that could only charge, lowered his head and drew more power."
+    },
+    {
+      "type": "action",
+      "content": "His heart, now a massive flame, collided with the flames conjured by the giant mages."
+    },
+    {
+      "type": "sfx",
+      "content": "Boom!"
+    },
+    {
+      "type": "action",
+      "content": "The unimaginable explosion was clearly heard by Miro, 6 kilometers away."
+    },
+    {
+      "type": "action",
+      "content": "Miro closed one eye and turned her head."
+    },
+    {
+      "type": "action",
+      "content": "The hot wind Gaold was sending reached her."
+    },
+    {
+      "type": "sfx",
+      "content": "Thump, thump."
+    },
+    {
+      "type": "action",
+      "content": "Her heart beat faster."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Raaaah!",
+      "tone": "frenzy"
+    },
+    {
+      "type": "action",
+      "content": "As the density of giants decreased beyond the drawbridge, Gaold charged madly."
+    },
+    {
+      "type": "action",
+      "content": "He was getting closer, little by little."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sein",
+      "content": "Go! Gaold! Goooo!",
+      "tone": "encouragement"
+    },
+    {
+      "type": "action",
+      "content": "Sein's voice reached him even in his frenzied state."
+    },
+    {
+      "type": "narrator",
+      "content": "The distance to Miro was now 6 kilometers."
+    },
+    {
+      "type": "action",
+      "content": "All units, charge!"
+    },
+    {
+      "type": "action",
+      "content": "At Surt's command, all the giants rushed towards Gaold."
+    },
+    {
+      "type": "action",
+      "content": "Leading them was Uriel's three-horned Mara, Shiva."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shiva",
+      "content": "Foolish human…",
+      "tone": "sneer"
+    },
+    {
+      "type": "action",
+      "content": "Shiva, wielding crescent swords in both hands, charged at Gaold."
+    },
+    {
+      "type": "action",
+      "content": "The immense atmospheric pressure clashed first, but as the incarnation of destruction, his strength tore through the air, closing the distance."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Raaaah!",
+      "tone": "frenzy"
+    },
+    {
+      "type": "action",
+      "content": "As Gaold and Shiva's power clashed, the other giants spread out, looking for an opportunity."
+    },
+    {
+      "type": "action",
+      "content": "Approaching Gaold, who had single-handedly crossed the drawbridge, would mean missing a decisive chance and turning into a bloody mist."
+    },
+    {
+      "type": "narrator",
+      "content": "No one used explosive techniques, but everything around them burst apart as they moved."
+    },
+    {
+      "type": "narrator",
+      "content": "Gaold's abnormality, when faced head-on, was beyond Shiva's imagination."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shiva",
+      "content": "No, it's not a matter of pride.",
+      "tone": "realization"
+    },
+    {
+      "type": "action",
+      "content": "Shiva acknowledged Gaold."
+    },
+    {
+      "type": "narrator",
+      "content": "He was not human."
+    },
+    {
+      "type": "narrator",
+      "content": "He couldn't be precisely defined, but he was transforming from a human into something else."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shiva",
+      "content": "You are a worthy opponent!",
+      "tone": "respect"
+    },
+    {
+      "type": "action",
+      "content": "Shiva pushed Gaold with all his might, and Gaold's combat power increased in response."
+    },
+    {
+      "type": "action",
+      "content": "Miro was there."
+    },
+    {
+      "type": "narrator",
+      "content": "His pain sensitivity reached its highest level in history, and every time the crescent swords cut his skin, it felt like his brain was being torn apart."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Raaaah!",
+      "tone": "frenzy"
+    },
+    {
+      "type": "action",
+      "content": "Gaold advanced, crushing the vast space with atmospheric pressure."
+    },
+    {
+      "type": "narrator",
+      "content": "The thought of defeating Shiva had no place in his mind."
+    },
+    {
+      "type": "narrator",
+      "content": "He only moved forward. Towards Miro."
+    },
+    {
+      "type": "narrator",
+      "content": "Everyone watching from the wall began to feel a growing sense of urgency."
+    },
+    {
+      "type": "narrator",
+      "content": "The distance to Miro was now just 1 kilometer."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "I'm coming!",
+      "tone": "determination"
+    },
+    {
+      "type": "action",
+      "content": "Gaold increased his pain sensitivity even more."
+    },
+    {
+      "type": "sfx",
+      "content": "Boom!"
+    },
+    {
+      "type": "action",
+      "content": "Even the solid ground was crushed under his pressure, forming a massive crater."
+    },
+    {
+      "type": "narrator",
+      "content": "The distance to Miro was now 500 meters."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shiva",
+      "content": "Gritting his teeth and attacked with all his might.",
+      "tone": "determination"
+    },
+    {
+      "type": "action",
+      "content": "Every swing of his crescent swords, moving at invisible speeds, created gusts of wind that bounced off Gaold's atmospheric pressure and spread in all directions."
+    },
+    {
+      "type": "sfx",
+      "content": "Boom! Boom!"
+    },
+    {
+      "type": "action",
+      "content": "Everywhere Shiva's sword wind struck, dust rose, and massive scars over 40 meters in diameter were etched into the ground."
+    },
+    {
+      "type": "narrator",
+      "content": "The distance to Miro was now 100 meters."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "I'm coming. I'm coming to Miro!",
+      "tone": "determination"
+    },
+    {
+      "type": "action",
+      "content": "Gaold, with his tongue out like a demon, screamed."
+    },
+    {
+      "type": "narrator",
+      "content": "He had worshipped God, hated God, and finally erased God from his existence."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Raaaah!",
+      "tone": "frenzy"
+    },
+    {
+      "type": "action",
+      "content": "He had endured all the world's scorn and ridicule to reach this point."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Raaaah!",
+      "tone": "frenzy"
+    },
+    {
+      "type": "action",
+      "content": "He had finally arrived."
+    },
+    {
+      "type": "narrator",
+      "content": "The cursed 20 meters that had never closed were now right in front of him."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shiva",
+      "content": "Now.",
+      "tone": "determination"
+    },
+    {
+      "type": "action",
+      "content": "Shiva's eyes flashed."
+    },
+    {
+      "type": "narrator",
+      "content": "The only gap in the otherwise perfect Gaold."
+    },
+    {
+      "type": "action",
+      "content": "At the critical distance of 20 meters, Shiva's crescent sword slashed Gaold's abdomen."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Aaaargh!",
+      "tone": "agonized"
+    },
+    {
+      "type": "action",
+      "content": "As his pain sensitivity skyrocketed, the physical impact became an excruciating agony that pierced Gaold's brain."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shiva",
+      "content": "Push him back!",
+      "tone": "urgency"
+    },
+    {
+      "type": "action",
+      "content": "The giants roared and all charged at Gaold."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Raaaah!",
+      "tone": "frenzy"
+    },
+    {
+      "type": "action",
+      "content": "Gaold quickly regained his senses, but he couldn't fend off the giants' overwhelming physical force."
+    },
+    {
+      "type": "narrator",
+      "content": "No matter how much he trained, the giants' strength crushed him, intensifying the pain."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "I hate you… I hate you!",
+      "tone": "hatred"
+    },
+    {
+      "type": "narrator",
+      "content": "Gaold's mind flashed back to 20 years ago."
+    },
+    {
+      "type": "narrator",
+      "content": "Just like then, Miro was slipping away."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "I'll kill you! I'll mock your name, curse you, and erase you from the world!",
+      "tone": "hatred"
+    },
+    {
+      "type": "narrator",
+      "content": "All he felt was hatred for God."
+    },
+    {
+      "type": "narrator",
+      "content": "The madness of a human desiring the unattainable, blaming, hating, and ultimately killing a nonexistent God…"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Miro…",
+      "tone": "longing"
+    },
+    {
+      "type": "action",
+      "content": "Gaold looked at the wall through the giants' bodies."
+    },
+    {
+      "type": "narrator",
+      "content": "He wanted her so desperately."
+    },
+    {
+      "type": "narrator",
+      "content": "He wanted her to be his, more than anything."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Miro…",
+      "tone": "longing"
+    },
+    {
+      "type": "action",
+      "content": "Gaold's right hand, trembling, reached out towards Miro."
+    },
+    {
+      "type": "narrator",
+      "content": "God…"
+    },
+    {
+      "type": "narrator",
+      "content": "Once again, a human sought God."
+    },
+    {
+      "type": "narrator",
+      "content": "Why, why can't I have it? Even after all this pain, why can't I have it?"
+    },
+    {
+      "type": "narrator",
+      "content": "The distance to Miro was 150 meters."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "I would live for eternity in the fires of hell. Just please, let me have her… just her…",
+      "tone": "desperation"
+    },
+    {
+      "type": "narrator",
+      "content": "The distance to Miro was 200 meters."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Push harder! More, more!",
+      "tone": "urgency"
+    },
+    {
+      "type": "action",
+      "content": "Gaold coughed up blood."
+    },
+    {
+      "type": "narrator",
+      "content": "He was filled with resentment, anger, and the frustration of seeing all his efforts turn to nothing."
+    },
+    {
+      "type": "narrator",
+      "content": "The knot of dark anger boiled up from his gut."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Sob! Sob!",
+      "tone": "despair"
+    },
+    {
+      "type": "action",
+      "content": "Shiva, squeezing through the giants, glared at the sobbing Gaold."
+    },
+    {
+      "type": "narrator",
+      "content": "He must be killed here."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Ugh!",
+      "tone": "pain"
+    },
+    {
+      "type": "action",
+      "content": "Gaold's entire body shuddered as an immense discipline spread through him."
+    },
+    {
+      "type": "narrator",
+      "content": "As the sea of fire spread to the horizon, his black heart roared, growing large enough to engulf the world."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Raaaah!",
+      "tone": "frenzy"
+    },
+    {
+      "type": "sfx",
+      "content": "Pain. 10 million times."
+    },
+    {
+      "type": "sfx",
+      "content": "Boom!"
+    },
+    {
+      "type": "action",
+      "content": "Everything surrounding Gaold fell like rain."
+    },
+    {
+      "type": "action",
+      "content": "The ground shook and rippled, and the giants at the front were swallowed by the earth's gaping maw."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Ugh! Ugh!",
+      "tone": "pain"
+    },
+    {
+      "type": "action",
+      "content": "Gaold's body trembled with pain. He stomped his feet and shook his limbs."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Surt",
+      "content": "Don't let him get close!",
+      "tone": "urgency"
+    },
+    {
+      "type": "action",
+      "content": "Finally, Surt, who had been watching from the wall, leaped out."
+    },
+    {
+      "type": "action",
+      "content": "Gaold flailed his arms and charged towards the wall."
+    },
+    {
+      "type": "narrator",
+      "content": "The distance to Miro was 100 meters. 80 meters. 50 meters."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Uooooh!",
+      "tone": "frenzy"
+    },
+    {
+      "type": "action",
+      "content": "As Surt, the greatest swordsman of purgatory, swung his flaming sword, Gaold extended his right hand."
+    },
+    {
+      "type": "sfx",
+      "content": "Boom!"
+    },
+    {
+      "type": "action",
+      "content": "The air shield around his body blew away the flames, and Surt's eyes widened in shock."
+    },
+    {
+      "type": "narrator",
+      "content": "This… this is…"
+    },
+    {
+      "type": "action",
+      "content": "As he stared at his sword, now reduced to a bare hilt, Gaold swung his hand."
+    },
+    {
+      "type": "action",
+      "content": "With a thud, Surt's body exploded and vanished without a trace."
+    },
+    {
+      "type": "narrator",
+      "content": "The distance to Miro was 20 meters."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "I'll kill you!",
+      "tone": "hatred"
+    },
+    {
+      "type": "action",
+      "content": "The giants, now leaderless, charged in a frenzy."
+    },
+    {
+      "type": "narrator",
+      "content": "But their rage was nothing compared to Gaold's hatred."
+    },
+    {
+      "type": "sfx",
+      "content": "Boom! Boom, boom, boom!"
+    },
+    {
+      "type": "action",
+      "content": "Every giant on the ground died."
+    },
+    {
+      "type": "narrator",
+      "content": "The only one left was the giant mage, Deputy Commander Urotas, but he was too terrified to descend from the wall."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Huff! Huff!",
+      "tone": "exhaustion"
+    },
+    {
+      "type": "action",
+      "content": "Gaold walked to the base of the wall, where no one else stood in his way."
+    },
+    {
+      "type": "narrator",
+      "content": "6 meters. 4 meters. 2 meters."
+    },
+    {
+      "type": "action",
+      "content": "Miro looked down at Gaold with an expressionless face."
+    },
+    {
+      "type": "narrator",
+      "content": "His blood-soaked body looked far stronger than it had 20 years ago, covered in countless scars."
+    },
+    {
+      "type": "action",
+      "content": "Finally, Gaold stopped in front of the wall and looked up at Miro."
+    },
+    {
+      "type": "narrator",
+      "content": "The distance to Miro."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Huff! Huff!",
+      "tone": "exhaustion"
+    },
+    {
+      "type": "narrator",
+      "content": "None."
+    }
+  ],
+  "source_hash": "0c7477a69edaf9625da3e5f800e999aedd4ba3e445d92b537a4b23498b9ab43a",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T06:55:28.790983Z"
+}

@@ -1,0 +1,510 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "Change the part through the whole. Even if it were possible, tampering with it could lead to serious consequences."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Is it really okay? If we change the coordinates...",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "content": "Even changing the meaning of a single word could completely alter the world."
+    },
+    {
+      "type": "narrator",
+      "content": "People talk about the erasure of Goffin, but no one knows what the world was like before it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It could be disastrous for humans. But that won't happen. We're not changing the coordinates between planets."
+    },
+    {
+      "type": "action",
+      "content": "Then...?"
+    },
+    {
+      "type": "action",
+      "content": "Gaold raised his index finger."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "We will change the primordial coordinates."
+    },
+    {
+      "type": "action",
+      "content": "Shirone was speechless for a moment. It took him a while to understand."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You mean, the beginning of the universe?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Yes. The 4D coordinates, which add time to the 3D spatial coordinates. Technically, it's 11 dimensions."
+    },
+    {
+      "type": "action",
+      "content": "Changing the primordial coordinates won't alter events after creation. Heaven won't be able to find us anymore."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "The absolute value changes, even if the relative value remains the same."
+    },
+    {
+      "type": "action",
+      "content": "It was different from the erasure of Goffin. It wasn't about resetting the world but changing the reset point."
+    },
+    {
+      "type": "action",
+      "content": "Gaold nodded, seeing that Shirone understood."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Exactly. Changing the coordinates will remove the pressure on Miro. Then we can rescue her. After that, we'll seal all the Goffin relics in the world. We'll say goodbye to Heaven forever."
+    },
+    {
+      "type": "action",
+      "content": "The plan finally felt realistic to Shirone."
+    },
+    {
+      "type": "narrator",
+      "content": "Success wasn't guaranteed, but it was theoretically possible. And if it was theoretically possible, humans would eventually achieve it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "We can avoid the final war. No one has to die."
+    },
+    {
+      "type": "action",
+      "content": "With that thought, Shirone asked, If I join the project, what will my role be?"
+    },
+    {
+      "type": "action",
+      "content": "Gaold liked that Shirone used a conditional. He was cautious, which would benefit the team."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "The Akashic Records are in Inguris of Zebul. But Heaven can only move freely from higher to lower realms. To enter Zebul without bloodshed, we must pass through Araboth."
+    },
+    {
+      "type": "action",
+      "content": "Shirone recalled his experiences in Heaven. If Ikael hadn't invited him to Araboth, he wouldn't have been able to approach Zebul, the angels' resting place."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "The key is how to get through Araboth. Most of Heaven's security is designed with mecha systems. We'll disable the mecha system and infiltrate Inguris."
+    },
+    {
+      "type": "action",
+      "content": "Is that possible?"
+    },
+    {
+      "type": "action",
+      "content": "Having experienced Heaven's sophisticated mecha systems, Shirone was skeptical."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "We'll use the ancient weapon, Tagis. It generates a powerful electromagnetic pulse (EMP). Tagis can temporarily disable the mecha system. But there's one concern."
+    },
+    {
+      "type": "action",
+      "content": "Shirone's face tensed. It would be his job to address that concern."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "The Akashic Records in Inguris will reboot within two minutes through a backup memory device if shut down abnormally. This means we have only two minutes to change the primordial coordinates."
+    },
+    {
+      "type": "action",
+      "content": "What if we use Tagis on the backup memory device?"
+    },
+    {
+      "type": "action",
+      "content": "Gaold laughed, seeing Shirone had the same thought."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "We considered that. But the backup memory device isn't a mecha system."
+    },
+    {
+      "type": "action",
+      "content": "Mecha systems, based on electrical power, were similar to magical engineering and optimized for systematically categorizing the Akashic Records."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "If it's not a mecha system, what stores the Akashic Records?"
+    },
+    {
+      "type": "action",
+      "content": "Something clicked in Shirone's mind."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Could it be...?"
+    },
+    {
+      "type": "action",
+      "content": "Gaold nodded seriously."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Yes. Besides Inguris, Heaven has another Akashic Record. It's Anke Ra."
+    },
+    {
+      "type": "action",
+      "content": "Shirone's heart raced, guessing what Gaold meant."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Anke Ra is presumed to be the first life form to recognize the universe. It created Inguris for perfect control. As long as it exists, we'll be racing against time. But if the situation were reversed, our success rate would skyrocket."
+    },
+    {
+      "type": "action",
+      "content": "Shirone sighed deeply."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Are you asking me to assassinate Anke Ra?"
+    },
+    {
+      "type": "action",
+      "content": "Gaold waved his hand dismissively."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "No, no. You're seriously mistaken. I'm telling you to blow up Heaven."
+    },
+    {
+      "type": "action",
+      "content": "Shirone's eyes widened in shock."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Destroy Heaven? It was absurd and logically impossible."
+    },
+    {
+      "type": "action",
+      "content": "He could vividly imagine Heaven's vastness. How could he possibly destroy it?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "If you can't do it, how can I?"
+    },
+    {
+      "type": "action",
+      "content": "It was a pointed question. But Gaold's eyes were filled with conviction."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "You can. Or rather, Ataraxia can. I blocked your attack not because Ataraxia is weak, but because your Photon Cannon was weak."
+    },
+    {
+      "type": "action",
+      "content": "Shirone couldn't deny that."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Ataraxia's original owner was Archangel Ikael, who had amplified the volcanic activity of Galliant by 20,000 times, wiping out the Kergo tribe in an instant."
+    },
+    {
+      "type": "action",
+      "content": "But it's the same. Only I can use Ataraxia, and it's impossible to increase the Photon Cannon's power in a short time."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "That's why I'm asking you. You might find a way."
+    },
+    {
+      "type": "action",
+      "content": "Shirone felt frustrated. He seemed too immersed in the project to understand."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Even if you say that, how can I..."
+    },
+    {
+      "type": "action",
+      "content": "Shirone's eyes met Gaold's."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Shirone."
+    },
+    {
+      "type": "action",
+      "content": "Gaold's gaze pierced through Shirone."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "You can. No, you must. Increasing the Photon Cannon's power is one way. But if that's impossible, find another way. Ataraxia is stronger than any ancient weapon possessed by the Holy War."
+    },
+    {
+      "type": "action",
+      "content": "Understand everything about Ataraxia. Find a way. Running quickly on a path others have walked isn't genius. Genius is creating something new."
+    },
+    {
+      "type": "action",
+      "content": "You've developed countless spells with your unique battery. I believe in your genius."
+    },
+    {
+      "type": "action",
+      "content": "Gaold raised his index finger."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "One year. Develop a spell with destructive power greater than Heaven's durability within a year. Ideally, destroy all seven heavens. At the very least, create enough power to prevent the mecha system from recovering."
+    },
+    {
+      "type": "action",
+      "content": "Shirone was speechless. His mind was about to explode with thoughts."
+    },
+    {
+      "type": "action",
+      "content": "Meanwhile, Gaold returned to his calm demeanor and lit a cigar."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "That's all you can hear as the price of passing. If you succeed, or even grasp a chance, you'll join the advance team in a year."
+    },
+    {
+      "type": "action",
+      "content": "Shirone thought carefully. Then he played his final card."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Do you really think I'll do it? Risking the lives of countless subjects?"
+    },
+    {
+      "type": "action",
+      "content": "Well. That's something to consider in a year. The decision will be made then. Even if you don't, we'll go to Heaven. We won't blame you."
+    },
+    {
+      "type": "action",
+      "content": "If you join the project, you'll be an enemy of the Holy War and the world. I can't offer you anything."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I have one condition."
+    },
+    {
+      "type": "action",
+      "content": "Kangnan turned with a puzzled expression."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It was a life-threatening task, and the mission seemed nearly impossible. If things went wrong, he'd be a traitor to the world. Even if he succeeded, he'd gain nothing."
+    },
+    {
+      "type": "action",
+      "content": "But Shirone's answer wasn't calculated."
+    },
+    {
+      "type": "action",
+      "content": "This time, even Gaold was surprised."
+    },
+    {
+      "type": "narrator",
+      "content": "Is he unwavering in his beliefs? Maybe... you could be my savior."
+    },
+    {
+      "type": "action",
+      "content": "Gaold pretended to be nonchalant as he lit his cigar."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Sure, tell me. If it helps the project, I'll support it."
+    },
+    {
+      "type": "action",
+      "content": "If I have the power to destroy Heaven and reach that point..."
+    },
+    {
+      "type": "action",
+      "content": "And if you do?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "I must meet someone before I cast the spell. If I can't, I won't do anything."
+    },
+    {
+      "type": "action",
+      "content": "Hmm."
+    },
+    {
+      "type": "action",
+      "content": "Gaold placed the cigar between his fingers and looked at the ceiling. He had a vague idea of who Shirone wanted to meet."
+    },
+    {
+      "type": "narrator",
+      "content": "Ikael."
+    },
+    {
+      "type": "action",
+      "content": "The archangel who passed Ataraxia to Shirone."
+    },
+    {
+      "type": "action",
+      "content": "Meeting her was personal, but now there was another reason."
+    },
+    {
+      "type": "narrator",
+      "content": "But was it possible? Considering that would significantly increase the difficulty of the mission."
+    },
+    {
+      "type": "action",
+      "content": "But refusal wasn't an option. If Shirone found a way to neutralize Anke Ra, the benefits would far outweigh the increased difficulty."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "I won't ask who. But why do you want to meet them? Is it worth turning the world against you?"
+    },
+    {
+      "type": "action",
+      "content": "Shirone answered with a question."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Why are you willing to turn the world against you to save Miro?"
+    },
+    {
+      "type": "action",
+      "content": "Gaold exhaled a puff of smoke from his cigar."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Heh, I see. You don't need to say it, but today's conversation is confidential. Stay here for now. I'll provide you with whatever you need to help with this task. It will also benefit your school life. You'd like to graduate before you die, right?"
+    },
+    {
+      "type": "action",
+      "content": "Thank you."
+    },
+    {
+      "type": "action",
+      "content": "There was no need to refuse. Now that they were in the same boat, this level of support was expected."
+    },
+    {
+      "type": "action",
+      "content": "As the conversation ended, Shirone stood up and headed for the door. He hesitated for a moment, then spoke."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I've met Miro before."
+    },
+    {
+      "type": "action",
+      "content": "...Is that so."
+    },
+    {
+      "type": "action",
+      "content": "The response was surprisingly indifferent."
+    },
+    {
+      "type": "narrator",
+      "content": "Only Alpheas and his friends knew about the incident where Miro hijacked Shirone in the realm of infinity, but Gaold, who had been tracking Shirone's actions, had a vague idea."
+    },
+    {
+      "type": "narrator",
+      "content": "Maybe I shouldn't have mentioned it."
+    },
+    {
+      "type": "action",
+      "content": "He felt a sense of responsibility, but Gaold's calm reaction suggested that the mention of Miro might have touched a deeper wound."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Well, I'll be going now."
+    },
+    {
+      "type": "action",
+      "content": "As Shirone pulled the door, Gaold spoke."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Is she... doing well?"
+    },
+    {
+      "type": "action",
+      "content": "Shirone recalled the encounter."
+    },
+    {
+      "type": "narrator",
+      "content": "It wasn't a particularly pleasant meeting. She had tried to trap him in Miro's spacetime, and he had only managed to return to his original body after passing through a black hole."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Just as I heard, she's quite eccentric."
+    },
+    {
+      "type": "action",
+      "content": "..."
+    },
+    {
+      "type": "action",
+      "content": "Shirone left, and the door closed."
+    },
+    {
+      "type": "action",
+      "content": "Gaold sat in thought for a long time. Then he chuckled and stubbed out his cigar in the ashtray."
+    },
+    {
+      "type": "narrator",
+      "content": "He's a good kid."
+    },
+    {
+      "type": "action",
+      "content": "Kangnan, with her usual cold expression, replied."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "Yes. Unlike you, Chairman."
+    }
+  ],
+  "source_hash": "591a8b08a879232f58d98dc9b0549d53e39ec834be09c26b8d33d84183bdcc7c",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T05:15:03.963315Z"
+}

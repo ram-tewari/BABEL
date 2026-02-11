@@ -1,0 +1,979 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Raid Control (2)",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "West Country Free Pass?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "DexGamsung's surprise was understandable.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Only the Ascension Guild had unrestricted access to all the hunting grounds occupied by West Country.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "DexGamsung",
+      "content": "Where did you get this?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I found it in Atogram. That's why I took the train to West Country. If you help me, I'll let you use it. It's not a bad deal for you either.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone spoke according to the plan.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Little Witch had given him a physical item instead of an electronic card to conceal its origin.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "DexGamsung examined the card again.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "DexGamsung",
+      "content": "If it's a physical item, finding it isn't impossible. But Yahweh2?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It seemed too coincidental.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "DexGamsung",
+      "content": "There's a hidden agenda. An internal deal between Golden Wheel and Ascension? Betrayal by Ascension? Or maybe Yahweh2 is from West Country and infiltrated Golden Wheel…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Without knowing the full context, he couldn't reach a conclusion.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "DexGamsung",
+      "content": "Well, it's not my concern. The issue is the West Country Free Pass. With it, we can level up in the most efficient hunting grounds. The items we get are a bonus…",
+      "tone": "practical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Exchanging glances with Mafia, DexGamsung turned back to Shirone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "DexGamsung",
+      "content": "What are the conditions? If you give us this Free Pass, what do we have to do for you?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I want to get two items: Michelangelo and Donatello. If I find these, I'll give you the Free Pass.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Mafia, who had been looking incredulous, laughed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mafia",
+      "content": "Haha! What nonsense is this? Michelangelo and Donatello? Do you know the odds of getting legendary items? Plus, it's a myth-level difficulty. It adjusts automatically, regardless of level. You'd be better off buying them for a fortune.",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "According to Fermi, there were an estimated 12 of the four legendary items in High Gear.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "DexGamsung",
+      "content": "Certain guilds must be monopolizing them.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If Golden Wheel had Raphael and Da Vinci, Ascension likely had Michelangelo and Donatello.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Knowing the internal situation, they would never hand over items to East Country.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "DexGamsung",
+      "content": "I get what you're thinking. You want to equip all four legendary items. But that's a dream. No one in High Gear has achieved that.",
+      "tone": "realistic"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Let me hunt Ergos. If it's impossible, I'll give up.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone pinned his hopes on his senses.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "As my sense of time sharpened, space opened up. In reality, the next step after time dilation was the bat.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "This place was different from reality.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "But the irony was that he could open new worlds through his senses.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Maybe…",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Even the real world might be a simulation from a distant perspective.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Focusing on the immediate goal, Shirone stopped thinking and made a practical calculation.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Combining time dilation and the bat opened the path. In High Gear terms, it's like having programmer-level access.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He might be able to control the raid.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Let me do it. I won't cause any harm. Lower levels are advantageous, right?",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Myth-level hunting grounds adjusted difficulty based on average level, so being strong wasn't everything.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "…Let me discuss it.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Mafia and DexGamsung returned to their group and held a ten-minute meeting.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "DexGamsung approached Shirone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "DexGamsung",
+      "content": "Alright, let's try. But if there's no hope in the first round, we're quitting. We don't want to waste time.",
+      "tone": "practical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "That's enough.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With Yahweh2 included, the eight-member party left Democracy for the hunting ground.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mafia",
+      "content": "What's your level again?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Level 100.",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mafia",
+      "content": "Then you have ten selective options unlocked. What options are you using now?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Exo Barrier, Hawk Eye, Booster.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Exo Barrier created a shield for one second but consumed a lot of power.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Hawk Eye provided a wide field of view with increased speed, and Booster was a rocket engine.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "DexGamsung",
+      "content": "Hmm. Options for levels 70, 80, and 100. Efficient for single play, but different for a party.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "DexGamsung instructed,",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "DexGamsung",
+      "content": "Remove Exo Barrier and switch to Constant Speed Mode. You might run out of power while hunting.",
+      "tone": "practical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Constant Speed Mode, activated at level 30, saved power during long-distance travel.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Okay, I'll switch now.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When we reach the hunting ground, remove Constant Speed Mode and add Drone Communication. If we don't know where the creatures are, the party will be wiped out.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Shirone nodded.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "For the other two slots, use Infrared Vision and the noise-reducing mode, what's it called? Ah, Silent Mode. That's best for level 100.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Hmm, all support functions. But shouldn't I keep Turbo, just in case?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Turbo at level 100 isn't much. It's mainly for duels. Rankers sometimes use it in raids, but we're all above level 230. We don't expect you to deal damage.",
+      "tone": "practical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Codename Sona interjected,",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Codename Sona",
+      "content": "Focus on survival. If you die, the difficulty increases. Drone Communication helps us change one of our options.",
+      "tone": "cautious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Got it. I'm the guide.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Exactly. Honestly, it's risky. Letting a first-timer guide Ergos.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They had little to lose, so the plan proceeded.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They arrived at a massive cave, 80 meters high, carved into a natural cliff.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sanctuary of Ergos.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "DexGamsung",
+      "content": "All High Gear creatures change patterns through genetic algorithms.",
+      "tone": "informative"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone knew this from hunting Metal Rats in the Iron Homeland.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The core is learning and evolution, but there's a mutation rate. Ordinary creatures have less than a 10% mutation rate.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Creatures didn't actually reproduce, but data was passed to the next generation.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "But Ergos has a 50% mutation rate. Each generation evolves unpredictably.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone understood.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "So we don't know what's inside until we enter.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "DexGamsung",
+      "content": "Exactly. That's why myth-level creatures are impregnable. No fixed patterns, so no strategies. You fight purely on instinct.",
+      "tone": "cautious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Estimating the difficulty, Shirone entered the cave with the group.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The raid begins.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the event message appeared, the scenery changed, and information from the outside world was cut off.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Drone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone activated the drone communication, which unlocks at level 40, and launched a small device.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "DexGamsung",
+      "content": "Mafia will give instructions using wide-area communication. You and the other members don't have communication options, so focus whenever instructions are given.",
+      "tone": "practical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Including communication in the selective options, which are limited to three slots, was indeed a luxury.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "However, at higher levels, options that integrate various functions become available, with the most notable being Magnan, which activates at level 260 and includes most communication functions.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "That's why everyone talks about Magnan. The real game starts at level 260.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Without Magnan, which covers drones, hounds, satellites, and both short and long-range communication, large-scale guild wars and the Solar War would be impossible.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Let's go. Time isn't important. We can retry as many times as needed. But if you die, you'll respawn outside the cave, so minimizing mistakes is the priority.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In that sense, the guide's role was crucial.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone flew the drone into the cave, guiding the party along paths with the fewest creatures.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Avoiding combat is best.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The average level of creatures was set to be 50 levels higher than the party's average level.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Thanks to Yahweh2, the difficulty was lowered, but it would be a disadvantage when facing Ergos.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The boss creature is 100 levels higher.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If even one member died, the chance of clearing the raid would approach zero, so the party was extremely cautious.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Now.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When Mafia designated a target and gave the command, six members simultaneously attacked and destroyed the machine.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Screech!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In the nerve-wracking progress, Mafia's group realized the rumors about Yahweh2 were true.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The tactical completeness is understandable for Golden Wheel, but how does he know the way?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "For a first-timer in Ergos, memorizing the maze-like paths was difficult.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "This way.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone was sensing the codes.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Every code has an intention. Even if the creature's patterns evolve like living beings, from a broader perspective, it's just one network. And the shape of that network is…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The designer's intention.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "It's not cold.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He felt the Operator's heart.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "No matter how high the difficulty, it never reaches a zero percent chance.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A fact the designer might not even be aware of.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "She really loves this world, High Gear. She loves the users enjoying High Gear.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Feeling the designer's intention meant Shirone had reached a level equivalent to enlightenment in reality.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "I can do it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At that moment, the cave shook.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "DexGamsung",
+      "content": "It's here! Everyone, get ready!",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In the pitch-black darkness, undetectable even with infrared vision, a mechanical voice echoed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Who dares to invade the sanctuary of the gods!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Mafia gave instructions via wide-area communication, and Sona launched a barrage of flashbangs.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "A bright light exploded.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Revealed was a massive eyeball.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Insignificant creatures!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "And four steel legs extending from the eye, gripping the cave.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "DexGamsung",
+      "content": "It's close to Type C! Focus on mobility and evasion!",
+      "tone": "cautious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As soon as the command was given, steel-clawed tentacles flew from behind Ergos.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Bang! Bang! Bang! Bang!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The eight-member party scattered, and small creatures emerged from the cave's crevices.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A fierce battle began.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "DexGamsung",
+      "content": "Damn! It's too fast!",
+      "tone": "frustrated"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Creatures interfered, and the skeleton, except for the eyeball, took no damage.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then Shirone charged in alone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mafia",
+      "content": "Idiot! Follow the instructions…!",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The words stopped as Shirone dodged dozens of tentacles and rushed towards Ergos.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mafia",
+      "content": "How…?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Information about Yahweh2's special abilities regarding time and space was abundant on the bulletin board.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "But the path Yahweh2 took now was entirely different from jumping through space.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "How does he know the pattern?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Moreover, his movements reminded them of a specific user they had watched with awe on broadcast screens.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mafia",
+      "content": "Operator…",
+      "tone": "reverent"
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Graaah!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone closed the distance, Ergos fired a beam from its eye.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "DexGamsung gaped.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "DexGamsung",
+      "content": "The pattern has already changed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Normally, it took 20 minutes just to chase Ergos to the end of the cave.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "DexGamsung",
+      "content": "We can do this.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With newfound confidence, he shouted,",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "DexGamsung",
+      "content": "Let's go! Attack!",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the seven followed, destroying creatures, Shirone pondered.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Why the eye?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The evolutionary form created within a 50% mutation rate was an eye.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Because it's the most suitable form for receiving photon signals. Then…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Why is it called a god?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone had an intuition.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The secret of the outside world he longed for might be here.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yahweh2! Now! Destroy it!",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After a 7-kilometer chase, Shirone reached Ergos.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Not yet. Destroying Ergos's eye here wouldn't yield Michelangelo.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A near-certain feeling.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Probability is mathematics, but…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "What determines that probability is the mind, an extremely uncertain quantum signal.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's eyes widened.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Now!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "This spot was Michelangelo.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Suicide's melee weapon pierced the eye, Ergos convulsed as if electrified.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Screeeech!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amid the deafening roar shaking the cave, Mafia's group checked the augmented reality information.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Unidentified item drop: Legendary grade.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "DexGamsung",
+      "content": "…Unbelievable.",
+      "tone": "amazed"
+    }
+  ],
+  "source_hash": "0b41b296b7bda13acb719c1a0ee0b83287f138f801850bc8e023e587bbd795b4",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T09:04:18.704700+00:00"
+}

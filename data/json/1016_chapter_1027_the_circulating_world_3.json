@@ -1,0 +1,865 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The remaining five instinctively realized the extent of Shagal's rapid killing skills.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shagal",
+      "content": "Get ready.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They scattered around Ethella, each drawing their weapons and radiating a deadly intent.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shagal",
+      "content": "We are the same kind.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ethella",
+      "content": "The same kind?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shagal's eyebrows twitched.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He did not consider himself superior to them, but even in killing, there were levels of skill.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shagal",
+      "content": "I don't mix with anyone. Put away that creepy talk and just come at me if you want to die.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ethella",
+      "content": "We used to think that way too.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A pot-bellied man without any hair on his head wound a steel cable around his palm as he approached.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pot-bellied man",
+      "content": "You might not know which era you're from, but this is hell. Here, people like us are law-abiding citizens. If you're just going to stand on your pathetic pride, you'll receive the baptism of the black monk.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shagal",
+      "content": "Black monk?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The pot-bellied man laughed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pot-bellied man",
+      "content": "Clearly, you know nothing. Let me teach you slowly about the horrors of hell. Have you ever heard of the strangler Edron?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shagal remained indifferent, but Ethella looked at the man in shock.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Strangler Edron. A murderer who strangled 109 people to death brutally 180 years ago.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Edron tightened the steel cable.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Edron",
+      "content": "It doesn't matter what it is. If it breathes, I can strangle it. Humans are the most fun. Their tongues stick out long, their eyes roll back. Their legs kick as they try to survive—it drives me crazy.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "According to Ethella's memory, he had been imprisoned and hanged himself on the 44th day.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Edron",
+      "content": "Human Cutter Averio.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A man with severe buck teeth manipulated a large cutter like scissors and said,",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Averio",
+      "content": "I killed 287 people. My hobby is disassembling. Engineering, biological functions—I once disassembled a human into 3,287 parts. That's my personal best. Might break that record today. Just so you know…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His lips curled up wickedly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Averio",
+      "content": "You don't die easily in hell.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The two murderers Shagal had stabbed were still writhing.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shagal",
+      "content": "Clearly, we need information.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Ethella didn't want to help but felt bad being caught unaware.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shagal",
+      "content": "I'll give you a chance. Those who want to live, raise your hand. Just one, I'll spare one who can give me information.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ethella",
+      "content": "Heh, knew it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A weasel-like man took out a scythe and crouched like a rat.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Weasel-like man",
+      "content": "Wherever you scraped by, senior treatment here is really messed up. Unfortunate for you. I'll cut off your limbs and box them up. You won't even meet the black monk.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shagal",
+      "content": "Senior.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shagal was surrounded by a mirage, numerous knives fell like hail.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shagal",
+      "content": "Come at me.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The murderers were cautious of the inexplicable phenomenon, but retreat in hell meant eternal downfall.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shagal",
+      "content": "It's a joint attack.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As soon as he finished speaking, five murderers charged at Shagal.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The air trembled, and dozens of quick-blades moved as if alive.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Before Ethella could intervene, two murderers were downed, blades embedded throughout their bodies.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Aaaaah! The blood, the blood!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As all the blood spurted out, Shagal's face was again covered in blood.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shagal",
+      "content": "Got you! Now!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The heavy Edron rolled agilely and caught Shagal's ankle with a steel cable.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shagal",
+      "content": "That's old-fashioned.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With a flick of his wrist holding the dagger, the quick-blade's shells repeatedly embedded themselves in Edron's back.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Ugh! Ugh! Ugh! Ugh!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As blood spouted like a fountain, Averio opened his cutter wide and advanced.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Averio",
+      "content": "I'll start cutting from there!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The cutter moved towards the groin and snapped shut with the leverage of a lever.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Averio",
+      "content": "Ugh! Ugh! Ugh! Ugh!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Averio's eyes flickered with confusion.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shagal",
+      "content": "Hmph! Even so!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As he was about to crush even the iron, Shagal twisted his wrist 90 degrees and raised the dagger.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Aaaaah! My, my face!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The blade slashed across the jaw, and Shagal skillfully hacked him up.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Blades embedded in every vital point, Averio couldn't even fall as his body shook.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "What? What? Aaaaah!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Suddenly, his eyes bulged and he burst like a balloon, spewing blood in all directions.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shagal",
+      "content": "Senior? Just an old-fashioned style.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shagal turned his blood-soaked body, the face of the man holding the sickle scythe paled.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sickle man",
+      "content": "He's a monster. What the heck is that?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "A murderer who terrorized an entire city was supposed to be skillful.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sickle man",
+      "content": "That guy isn't just any criminal. He's at a national, perhaps even kingdom-level. Maybe even...",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Worldwide pursuit seemed plausible.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sickle man",
+      "content": "I don't understand. How could such a murderer be chained by fate's chains?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Wouldn't such a murderer belong in blade hell or cauldron hell?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sickle man",
+      "content": "Is that woman that important then?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shagal approached, the sickle man aimed his weapon at Ethella.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sickle man",
+      "content": "Stop! Come any closer, and I kill the woman.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shagal",
+      "content": "Kill her. If you can.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sickle man",
+      "content": "I'm not joking! I'll really kill her! If this woman dies, you won't be safe either!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shagal",
+      "content": "Then kill her. I don't care.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sickle man",
+      "content": "You...!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the sickle man turned quickly, Ethella leaped forward.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Ugh!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A flurry of punches from the Yin-Yang Wave struck the man's stomach, spilling blood.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Ugh!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Clutching his painful stomach, the man groaned as Shagal stepped on his back.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shagal",
+      "content": "Start talking. Tell me everything you know if you don't want to end up like those seniors.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sickle man",
+      "content": "Ow... Ow...",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The man could only nod repeatedly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shagal",
+      "content": "Hmm, black monk.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Having gained much information from the sickle man, Shagal and Ethella looked serious.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ethella",
+      "content": "Let's summarize.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ethella",
+      "content": "There's an agency called the Hell Fire Management Corporation that manages hell. Humans who fall here are purified by hell fire and reborn as new demons.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shagal",
+      "content": "Purified demons can be killed. But those like these guys who haven't entered the hell fire, meaning escapees, aren't considered dead even if killed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Seeing Averio writhe as if purification might be better,",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ethella",
+      "content": "Yes. And the entity that captures these escapees and purifies them is called the Black Monk (Black Chain). Perhaps they are akin to a Grim Reaper?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shagal",
+      "content": "Hey, have you actually seen a 'Black Monk' before?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sickle man",
+      "content": "Yes, I haven't been caught myself, but I've seen escapees being captured. They are dreadful beings, filled with a dark and damp aura. We need to move quickly. The Black Monks might come here.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shagal",
+      "content": "What do they look like?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sickle man",
+      "content": "So, they're dark and damp in aura...",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shagal silently raised his quick-blade, the man made a face as if wronged,",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sickle man",
+      "content": "Really. I don't even dare go near them to know exactly what they look like. When you see a Black Monk, you just run the other way. Please believe me.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shagal",
+      "content": "Okay, moving on...",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ethella",
+      "content": "The Fire Management Company. You said they're watching us from the karma management department?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sickle man",
+      "content": "That's what I've heard.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shagal",
+      "content": "Can they also respond if we ask how much time we have left to serve our penance?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sickle man",
+      "content": "Yes, I've seen that myself. Well, heard it, I suppose. Anyway, it's better not to hear it—it's an immense amount of time. One I saw was mad, randomly killing, wandering around for 1,200 years. I don't know what's become of him now. Well, he probably hasn't been purified yet. People who still have karma remaining, like us, can neither live nor die.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shagal",
+      "content": "How about you try? How much time do we have left together?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Desperate people dig wells, so Ethella looked up to the sky, hoping for a bearable amount of time.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ethella",
+      "content": "Are you watching us now? How much time do we have left until our duties are complete?",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Time remaining until purification is...",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "a bureaucratic voice came from the sky.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bureaucratic voice",
+      "content": "87 epochs, 2,875 eras, 3,241 trillion, 6,442 billion, 890 million, 7,109 hours remain.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As no one spoke, the man with the sickle scythe murmured with a dazed expression,",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sickle man",
+      "content": "What, what? What kind of time is that?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even though it wasn't his own karma, the time was so despairingly vast it brought him to tears.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ethella",
+      "content": "This can't be. How can such a time even be possible? What have I done to deserve this?",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "For your reference, your purification time is the seventh longest in the history of the underworld.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lucifer held the record.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Informer Leona",
+      "content": "Thank you for your intense emotions, and rest assured, the karma you've sent will be put to good use. Always striving, this is Informer Leona from the Fire Management Company.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shagal",
+      "content": "Haha, interesting. Take it slow then. We've got an eternity to spend together, right?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Ethella was stunned, the man with the sickle looked at them and asked,",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sickle man",
+      "content": "What on earth did you two do?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tormia Royal Castle",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone, who was serving as the headquarters for simultaneous events, closed his book and rubbed the bridge of his nose.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "The outside world.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Among the many events happening around the world, this was particularly shocking.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "OOPArts exist in material form. But when used, even humans become objects. They were never meant for human use.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The high-dimensional nature of the outside world was palpable.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "The problem is Ymir's mind. It's still not connected. I don't know what's happening.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The object Zhuangzi's Butterfly had clearly combined Shirone's information with signals from the outside world.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "In other words, the realm has changed. If that's the difference from the Gyorgi's Taiji or the Maika ruins…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The likelihood was high that all answers lay with Shirone, who was fighting within Ymir's mind.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At that moment, there was a knock on the door.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zulu",
+      "content": "Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Opening the door to the familiar voice, he saw Zulu, still pale, standing there.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Zulu, are you okay to be up?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Having suffered a critical injury from Ymir's attack, she had only regained consciousness three days ago.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zulu",
+      "content": "I'm recovering quickly. Still not ready for battle, but I wanted to hear what's been happening.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Please, come in.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Handing her a warm cup of tea, Shirone sat down with Zulu and recounted the recent events.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zulu",
+      "content": "Listening calmly to the many incidents, she raised her head at the mention of OOPArts.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zulu",
+      "content": "An ultra-ancient civilization, huh. You think it's connected to the outside world?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes. I'm not certain. The Maika ruins are completely scattered, and the quantum signals I understood have changed, so they don't overlap.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Hmm.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zulu",
+      "content": "Shirone, would you like to go somewhere with me?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Of course, simultaneous events are always possible, but… you're still recovering.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zulu",
+      "content": "The Middle East, to Paras.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Paras? Are you visiting your hometown?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Setting down her teacup, Zulu conveyed her meaning precisely in her native language.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zulu",
+      "content": "There is an ultra-ancient civilization there.",
+      "tone": null
+    }
+  ],
+  "source_hash": "57a14db219b12fe369dae0573e7f0496b826424093c49c5ee35cbaf57a9320e8",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T08:17:44.161460+00:00"
+}

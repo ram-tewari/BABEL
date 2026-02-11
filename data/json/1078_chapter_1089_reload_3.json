@@ -1,0 +1,1111 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Reload (3)",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dr. Martin",
+      "content": "Attack!",
+      "tone": "aggressive"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nearly 4,000 users gathered at the Zeta Plateau fired their weapons simultaneously.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The combined firepower was far stronger than the initial clash of the Solar War.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dr. Martin",
+      "content": "Damn it.",
+      "tone": "frustrated"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Yet, compared to the 72 million durability, it was just a scratch.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dr. Martin",
+      "content": "Graaaah!",
+      "tone": "menacing"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Dr. Martin's roar sent powerful sound waves that battered the users' machines.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Feeling resistance like facing a strong wind, the rankers charged forward.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ranker",
+      "content": "Go! Go! Let's take him down quickly!",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As users approached, Dr. Martin raised his fists and slammed them into the ground.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The noise mixed with the roar exceeded the limit of what sound could contain.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Ranker",
+      "content": "He's strong.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Ranker",
+      "content": "But his pattern is simple.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Aegis communicated widely.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Based on our analysis, Dr. Martin has three attack patterns: physical, beam, and sound wave attacks.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Ranker",
+      "content": "Though threatening to lower-level users, rankers could avoid them.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The problem was his durability.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ranker",
+      "content": "This is insane.",
+      "tone": "alarmed"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Durability: 71,138,473/72,000,000",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even at full charge, the highest firepower, Dr. Martin didn't even catch fire.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ranker",
+      "content": "Everyone, fall back!",
+      "tone": "urgent"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rankers, checking the satellite, turned with shocked expressions at Yahweh2's communication.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The light sphere, seen directly, vibrated far more violently than on screen.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Ranker",
+      "content": "'He's condensing photons. About a minute?'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Yahweh2, passing through the rankers, fired Michelangelo at Dr. Martin.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Boom!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dr. Martin's face, unmoved by grenades, twisted as if it would break.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dr. Martin",
+      "content": "What…",
+      "tone": "confused"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Rankers couldn't believe their eyes.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Durability: 70,605,985/72,000,000",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Aegis reported to Yolga's son.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Impact: 532,488. Unbelievable. 133 more hits to complete destruction.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Fermi",
+      "content": "It's like a duel between users.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Fermi was astonished.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Fermi",
+      "content": "'The resonance amplitude matches the system's limit. To increase power, the condensation time must exponentially increase. So, one shot per minute.'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone stepped back, the Operator moved in.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "◆ ◆ ◆",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the black sword struck the ground, a black magnetic field expanded explosively, pulling Dr. Martin.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dr. Martin",
+      "content": "Insignificant creatures!",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dr. Martin",
+      "content": "Graaaah! Graaaah!",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amidst the noise-laden screams, users fired another volley.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ranker",
+      "content": "Surprisingly doable?",
+      "tone": "surprised"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Durability decreased faster than expected, and Yahweh2's minute-interval Michelangelo accelerated the damage.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ranker",
+      "content": "We can win! We can do it!",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Finally, as durability fell below 36 million, Dr. Martin's weak spots caught fire.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At that moment, users near the Zeta Plateau began arriving.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ranker",
+      "content": "Yay! Finally, our turn!",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Their targets were not Dr. Martin but the fiercely fighting rankers.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Aegis communicated.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Anarchists. Low level but disruptive during the battle.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "No need for fancy words. Just troublemakers. Drive them out. They can't reconnect anyway.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Fermi grabbed one troublemaker's head and electrocuted him.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Aaagh!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the struggling machine exploded, Yolga's son brushed off the smoke.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Little Witch approached.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Little Witch",
+      "content": "Working hard.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Little Witch",
+      "content": "Overtime. What's up? Holding a grudge?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He had shot Little Witch, who had surrendered.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Little Witch",
+      "content": "Of course, I hold grudges. Whether I act on them is my decision. So, what do you think?",
+      "tone": "defensive"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Little Witch looked at the Operator.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "She's essential for Yahweh2. She can create a program to excavate the apocalypse.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Yolga's son",
+      "content": "Thus, she was an obstacle.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Yolga's son",
+      "content": "Should I kill her?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If the Operator died, Shirone would inevitably come to Kashan.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Yolga's son",
+      "content": "If…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Uorin interrupted.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "I know. It's a foolish thought. But maybe now is the time to uncover the world's secrets.",
+      "tone": "determined"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "From High Gear's perspective, reality was the outside world.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "If you go to the outside world from reality, Argones activates. Confirmed in the apocalypse. But here, and with Yahweh2, we might gain information. Assuming we reach Ultima.",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ranker",
+      "content": "Will Nane return?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Argones didn't activate because Nane had admin authority. But analyzing that, the outside world didn't see Nane as an enemy. If Nane returns to our world, it might all end.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ranker",
+      "content": "We must find it.",
+      "tone": "determined"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "What Buddha knows, Yahweh must know.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Yahweh2's foolish actions help, but humanity reaching Ultima is impossible.",
+      "tone": "defeated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ranker",
+      "content": "Humans inherently dislike others. When the majority is right, a minority always rebels.",
+      "tone": "philosophical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As her back opened, eight guided missiles flew out, trailing tails.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nearby troublemakers exploded.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ranker",
+      "content": "These guys. If only it were this easy in reality…",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "I have a plan. Yahweh2 might not understand, but I'll prevent annihilation.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ranker",
+      "content": "Yolga…",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "This time, Fermi interrupted.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "No. It's business. If everyone dies, who will we make money from?",
+      "tone": "pragmatic"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Seeing Fermi smile, it seemed easier to understand him without expressions.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ranker",
+      "content": "I'll help.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Little Witch",
+      "content": "If I help, it'll be easier to set the stage. But we share the information gained here.",
+      "tone": "cautious"
+    },
+    {
+      "type": "thought",
+      "speaker": "Uorin",
+      "content": "'Expected.'",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Like candy coated in poison, Uorin's system understanding was unmatched.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "I propose too. Yahweh2 is a puppet. I'm the one moving him.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Giving Uorin control over Shirone risked her going berserk.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Fine. You handle it here.",
+      "tone": "pragmatic"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With the decision made, Fermi asked.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "So, what now? Number Seven seems to be behind this. Can we use him to set the stage?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "I know his location, but it's useless. Killing him won't make the creature disappear. Yahweh2 will just hate us.",
+      "tone": "defeated"
+    },
+    {
+      "type": "thought",
+      "speaker": "Aegis",
+      "content": "'Do we have to solve it here?'",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Aegis communicated.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Anarchists are increasing. About 1,000 now.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "A significant number, but expected given the location.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Release the hounds.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Golden Wheel moved, and Uorin's subordinates began hunting the troublemakers.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Meanwhile, the forces fighting in the Solar War desperately pushed Dr. Martin.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Ranker",
+      "content": "'Durability 790,000! Almost there!'",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Though 80 users were lost, they fought well against the strongest machine.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone was at the center of that fight.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "'One last shot!'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Seeing the rapidly falling durability, Shirone fired Michelangelo.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dr. Martin",
+      "content": "Graaaah!",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As flames engulfed Dr. Martin's massive body, he began to fall forward.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ranker",
+      "content": "Aaah! Dodge!",
+      "tone": "alarmed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the enormous mass crashed into the ground, causing an earthquake…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "There was a moment of silence.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ranker",
+      "content": "We did it. We really did it.",
+      "tone": "triumphant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ranker",
+      "content": "We won…!",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At that moment, Dr. Martin's head exploded, causing new casualties.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ranker",
+      "content": "What? A final pattern?",
+      "tone": "confused"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Realizing how naive that thought was, everyone understood the gravity of the situation.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Dr. Martin's Revenge. He has revealed his true form. The AI consumed by madness will eliminate users.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "From the spot where the head exploded, a machine with 14 legs, resembling a spider, emerged.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Augmented reality displayed the information.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Dr. Martin (Core).",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Seeing the level 4,500, users checked the durability in a daze.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Durability: 750,000,000/750,000,000",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ranker",
+      "content": "750 million…",
+      "tone": "awed"
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Exterminate. All. Humanity.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A mechanical voice devoid of emotion emanated from the massive machine.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sirens blared, and a black curtain spread like a net from behind the core.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Boom! Boom! Boom!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Explosions mushroomed across the vast land as if scattered from the sky.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Half of the users who participated in the Solar War died, and communications flooded in.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ranker",
+      "content": "Regroup! We fight again!",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the smoke cleared, the sky was filled with countless mechanical creatures.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The sheer number was enough to sap the will to fight from the users.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Ranker",
+      "content": "'It's over.'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As everyone thought that, one user charged at the core.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ranker",
+      "content": "Operator!",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She sprinted at supersonic speed, drawing her black sword horizontally and gritting her teeth.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ranker",
+      "content": "Number Seven…",
+      "tone": "determined"
+    },
+    {
+      "type": "thought",
+      "speaker": "Ranker",
+      "content": "Seeing the 750 million durability, she knew it wasn't just a simple rampage.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ranker",
+      "content": "You want to destroy my world?",
+      "tone": "defiant"
+    },
+    {
+      "type": "thought",
+      "speaker": "Ranker",
+      "content": "She would rather die than see that, and this time, she was serious.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ranker",
+      "content": "You bastard!",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dodging the barrage, she reached the core and increased High Gear's output, swinging her sword.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ranker",
+      "content": "Think I'll let someone like you take it?",
+      "tone": "defiant"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "No matter how many times she swung the black sword, the core didn't care and continued scraping the ground with beams.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The satellite screen showed users being overwhelmed by the creatures.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Ranker",
+      "content": "Even rankers were helpless.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ranker",
+      "content": "Die! Die!",
+      "tone": "desperate"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As she swung her sword in rage, a shadow loomed over her.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The core's leg aimed at her and began to descend with all its might.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Operator raised her black sword.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ranker",
+      "content": "Yaaah!",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As metal met metal, the sheer mass made her mind reel.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Ranker",
+      "content": "'Damn it.'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the massive leg was about to crush her…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The core's leg suddenly stopped, and the Operator couldn't believe her eyes.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ranker",
+      "content": "H-how…?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Yahweh2 had arrived beside her, holding up the core's weight with his bare hands.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The system is broken.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Dr. Martin's core fully emerged into this world, it damaged the system.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Thus, it was shattered.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ranker",
+      "content": "Then…",
+      "tone": "hopeful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone could also reach the unique signal at the end of this world.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Yahweh2",
+      "content": "'Void.'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Yahweh2's eyes widened, the core roared and slowly lifted its leg.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ranker",
+      "content": "Get out quickly!",
+      "tone": "urgent"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Operator, regaining her senses, leaped away, and Shirone pushed off the ground, escaping the radius.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the ground shook with a thud, Shirone soared high into the sky.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "'There is no fixed form.'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the light sphere condensed in Michelangelo grew exponentially, two suns appeared in the sky.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the Operator looked up, Shirone vertically slammed the flash down.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Kiaaaah!",
+      "tone": "determined"
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "The signal from the core's system sounded like a machine screaming.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Durability: 660,989,764/750,000,000",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Ranker",
+      "content": "'Power: 89 million?'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "All 14 legs bent, and the body was crushed to the ground.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Durability: 420,818,812/750,000,000",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Ranker",
+      "content": "'Additional damage. Crushed by force.'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the noise subsided, Fermi, still calm, looked at the core.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Void.",
+      "tone": "resigned"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "No doubt, since he could do it in reality.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Now then…",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In every city of High Gear, countless creatures were ravaging users.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "From now on, it's uncharted territory.",
+      "tone": "serious"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Ultima System.",
+      "tone": null
+    }
+  ],
+  "source_hash": "903c91268b79d887188bee424fdccbc2bd2180feb7ea57f510d7778f4633da92",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T15:47:57.559511+00:00"
+}

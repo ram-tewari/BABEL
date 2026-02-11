@@ -1,0 +1,1465 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The children familiarly pushed three tables together.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Altol, seated at the head, placed an order.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Altol",
+      "content": "First, a round of beers for everyone, and the usual snacks.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone felt a sense of nostalgia.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Back when they used to hang out, none of them could even touch alcohol.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But now, they sat cross-legged like adults, chugging their beers.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Compared to them, the kids at the magic academy still seemed like children.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Altol",
+      "content": "So, Shirone, can you hold your liquor?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Huh? Oh, no. I've never actually had a drink before.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Altol",
+      "content": "What? So you're still a kid, huh? You don't even have any hair down there yet, do you? Pfft—hahaha!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The children burst into laughter at Altol's joke.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But Lumina, the only girl among them, frowned in disapproval.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lumina",
+      "content": "Is that any way to talk to a friend you haven't seen in so long? Honestly, your mouth is as rough as ever.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Her open defense of Shirone made Altol's face flush slightly.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He had known since childhood that Lumina had a soft spot for Shirone.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But now, none of them were kids anymore.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In this world, the strong won the admiration of beautiful women.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Altol believed that as the future village chief, he should be the one by Lumina's side.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Altol",
+      "content": "Still, his joy at reuniting with Shirone quickly drowned out any resentment.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone, too, was happy to see his old friends after so long.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even the unfamiliar taste of beer suited him, and the cheerful atmosphere continued.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Altol",
+      "content": "Hey, remember when Haulan noona tried to jump Shirone?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Martin",
+      "content": "Hey! Why bring that up now? Cut it out!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Huh? Me?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Altol",
+      "content": "Yeah. You were surprisingly strong back then. Let's see if you've still got it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The children pounded the table, egging them on.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Martin",
+      "content": "Ooooh! Warrior vs. mage! The battle of the century!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The lively atmosphere lifted Shirone's spirits, and he pushed aside his gloomy thoughts.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Arm-wrestling someone who could lift adults with ease? It was absurd, pride aside.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Altol",
+      "content": "Fine. Let's do it. But no going easy.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The moment their hands clasped, Shirone felt like he was gripping a boulder.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He could use photon magic to flip Altol and get free drinks, but that was just a fun thought.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Martin volunteered as referee.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ready… go!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone strained with all his might, but Altol's strength surged like a wave, overpowering him effortlessly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's arm slammed onto the table, and he tumbled to the floor, rubbing his elbow.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ow, ow, ow. You're really strong.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Martin",
+      "content": "Wow! Altol's the best! Shirone's a mage, and he got crushed in one go!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Magic and arm-wrestling had nothing to do with each other, but to the children, the title of 'mage' carried significant weight.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Altol",
+      "content": "Hahaha! Shirone, you've really gotten weak. You weren't this bad before. Well, this bet turned out weird. I'll cover the drinks, Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lumina helped Shirone up, her eyes filled with apology.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lumina",
+      "content": "Shirone, are you okay? Honestly, Altol, must you be so rough?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As a member of the vagabond village, she knew why Altol had gone all out.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone, familiar with the life of a hunter, didn't take it personally.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's fine. But Altol's gotten really strong.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone stood, a pouch of gold coins fell from his pocket.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The coins spilled out, rolling across the floor, and the children's eyes widened.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Martin",
+      "content": "Whoa! Are these real gold coins?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What? Let me see! Wow! Five of them!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even the kids at the far end of the table crowded around, mesmerized by the gold.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Martin",
+      "content": "You're loaded! Why are you carrying five gold coins?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I brought extra just in case. There's a book I really want to buy, and I didn't want to be short.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Martin",
+      "content": "Well, books are expensive.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No, I haven't thought about that…",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Martin",
+      "content": "Then have you been to… you know, those places with lots of women? Nobles go there all the time, right?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Well… some do, but not all…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The children's enthusiastic questioning made Altol's expression darken.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was as if Shirone had become the leader.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The hierarchy in the vagabond village wasn't just about beating up weaker kids.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Without a strong leader to maintain order, people's greed for more would spiral out of control.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "For them, isolated from society, discord meant the collapse of their community.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The reason they chose a leader from a young age was to prepare for the day they'd have to take responsibility for the village.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Altol",
+      "content": "Enough. What's with all the questions? Are you jealous of Shirone's life?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Martin",
+      "content": "Of course we are. The nobles are giving him money, after all.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Altol",
+      "content": "But if you don't become a mage, you're screwed, right, Shirone?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Huh? Oh, yeah, of course.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Martin",
+      "content": "Relying on someone else's money means entrusting your life to them. If you succeed, fine, but if you fail, you'll have nothing left. Shirone, you shouldn't do that.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even if he didn't become a mage, his education would still help him find a job.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "As a commoner, there were plenty of places that would hire him if he swallowed his pride.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "But it was true that Shirone had never considered the possibility of failure.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "How could he be so reckless? Was it overconfidence? If he didn't become a mage, what kind of life would he have?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "His stomach churned. Failure. Everyone could fail, and Shirone was no exception.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The children's practical questions left his heart cold.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Altol",
+      "content": "Alright, enough serious talk. Hey, Shirone, how about an arm-wrestling match? For old times' sake?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Huh? Me?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Altol",
+      "content": "Yeah. You were surprisingly strong back then. Let's see if you've still got it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The children pounded the table, egging them on.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Martin",
+      "content": "Ooooh! Warrior vs. mage! The battle of the century!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Arm-wrestling someone who could lift adults with ease? It was absurd, pride aside.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Altol",
+      "content": "Fine. Let's do it. But no going easy.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The moment their hands clasped, Shirone felt like he was gripping a boulder.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He could use photon magic to flip Altol and get free drinks, but that was just a fun thought.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Martin volunteered as referee.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ready… go!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone strained with all his might, but Altol's strength surged like a wave, overpowering him effortlessly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's arm slammed onto the table, and he tumbled to the floor, rubbing his elbow.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ow, ow, ow. You're really strong.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Martin",
+      "content": "Wow! Altol's the best! Shirone's a mage, and he got crushed in one go!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Magic and arm-wrestling had nothing to do with each other, but to the children, the title of 'mage' carried significant weight.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Altol",
+      "content": "Hahaha! Shirone, you've really gotten weak. You weren't this bad before. Well, this bet turned out weird. I'll cover the drinks, Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lumina helped Shirone up, her eyes filled with apology.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lumina",
+      "content": "Shirone, are you okay? Honestly, Altol, must you be so rough?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As a member of the vagabond village, she knew why Altol had gone all out.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone, familiar with the life of a hunter, didn't take it personally.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's fine. But Altol's gotten really strong.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone stood, a pouch of gold coins fell from his pocket.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The coins spilled out, rolling across the floor, and the children's eyes widened.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Martin",
+      "content": "Whoa! Are these real gold coins?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What? Let me see! Wow! Five of them!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even the kids at the far end of the table crowded around, mesmerized by the gold.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Martin",
+      "content": "You're loaded! Why are you carrying five gold coins?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I brought extra just in case. There's a book I really want to buy, and I didn't want to be short.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Martin",
+      "content": "Well, books are expensive.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No, I haven't thought about that…",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Martin",
+      "content": "Then have you been to… you know, those places with lots of women? Nobles go there all the time, right?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Well… some do, but not all…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The children's enthusiastic questioning made Altol's expression darken.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was as if Shirone had become the leader.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The hierarchy in the vagabond village wasn't just about beating up weaker kids.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Without a strong leader to maintain order, people's greed for more would spiral out of control.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "For them, isolated from society, discord meant the collapse of their community.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The reason they chose a leader from a young age was to prepare for the day they'd have to take responsibility for the village.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Altol",
+      "content": "Enough. What's with all the questions? Are you jealous of Shirone's life?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Martin",
+      "content": "Of course we are. The nobles are giving him money, after all.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Altol",
+      "content": "But if you don't become a mage, you're screwed, right, Shirone?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Huh? Oh, yeah, of course.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Martin",
+      "content": "Relying on someone else's money means entrusting your life to them. If you succeed, fine, but if you fail, you'll have nothing left. Shirone, you shouldn't do that.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even if he didn't become a mage, his education would still help him find a job.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "As a commoner, there were plenty of places that would hire him if he swallowed his pride.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "But it was true that Shirone had never considered the possibility of failure.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "How could he be so reckless? Was it overconfidence? If he didn't become a mage, what kind of life would he have?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "His stomach churned. Failure. Everyone could fail, and Shirone was no exception.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The children's practical questions left his heart cold.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Altol",
+      "content": "Alright, enough serious talk. Hey, Shirone, how about an arm-wrestling match? For old times' sake?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Huh? Me?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Altol",
+      "content": "Yeah. You were surprisingly strong back then. Let's see if you've still got it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The children pounded the table, egging them on.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Martin",
+      "content": "Ooooh! Warrior vs. mage! The battle of the century!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Arm-wrestling someone who could lift adults with ease? It was absurd, pride aside.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Altol",
+      "content": "Fine. Let's do it. But no going easy.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The moment their hands clasped, Shirone felt like he was gripping a boulder.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He could use photon magic to flip Altol and get free drinks, but that was just a fun thought.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Martin volunteered as referee.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ready… go!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone strained with all his might, but Altol's strength surged like a wave, overpowering him effortlessly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's arm slammed onto the table, and he tumbled to the floor, rubbing his elbow.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ow, ow, ow. You're really strong.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Martin",
+      "content": "Wow! Altol's the best! Shirone's a mage, and he got crushed in one go!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Magic and arm-wrestling had nothing to do with each other, but to the children, the title of 'mage' carried significant weight.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Altol",
+      "content": "Hahaha! Shirone, you've really gotten weak. You weren't this bad before. Well, this bet turned out weird. I'll cover the drinks, Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lumina helped Shirone up, her eyes filled with apology.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lumina",
+      "content": "Shirone, are you okay? Honestly, Altol, must you be so rough?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As a member of the vagabond village, she knew why Altol had gone all out.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone, familiar with the life of a hunter, didn't take it personally.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's fine. But Altol's gotten really strong.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone stood, a pouch of gold coins fell from his pocket.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The coins spilled out, rolling across the floor, and the children's eyes widened.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Martin",
+      "content": "Whoa! Are these real gold coins?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What? Let me see! Wow! Five of them!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even the kids at the far end of the table crowded around, mesmerized by the gold.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Martin",
+      "content": "You're loaded! Why are you carrying five gold coins?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I brought extra just in case. There's a book I really want to buy, and I didn't want to be short.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Martin",
+      "content": "Well, books are expensive.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No, I haven't thought about that…",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Martin",
+      "content": "Then have you been to… you know, those places with lots of women? Nobles go there all the time, right?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Well… some do, but not all…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The children's enthusiastic questioning made Altol's expression darken.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was as if Shirone had become the leader.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The hierarchy in the vagabond village wasn't just about beating up weaker kids.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Without a strong leader to maintain order, people's greed for more would spiral out of control.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "For them, isolated from society, discord meant the collapse of their community.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The reason they chose a leader from a young age was to prepare for the day they'd have to take responsibility for the village.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Altol",
+      "content": "Enough. What's with all the questions? Are you jealous of Shirone's life?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Martin",
+      "content": "Of course we are. The nobles are giving him money, after all.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Altol",
+      "content": "But if you don't become a mage, you're screwed, right, Shirone?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Huh? Oh, yeah, of course.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Martin",
+      "content": "Relying on someone else's money means entrusting your life to them. If you succeed, fine, but if you fail, you'll have nothing left. Shirone, you shouldn't do that.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even if he didn't become a mage, his education would still help him find a job.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "As a commoner, there were plenty of places that would hire him if he swallowed his pride.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "But it was true that Shirone had never considered the possibility of failure.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "How could he be so reckless? Was it overconfidence? If he didn't become a mage, what kind of life would he have?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "His stomach churned. Failure. Everyone could fail, and Shirone was no exception.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The children's practical questions left his heart cold.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Altol",
+      "content": "Alright, enough serious talk. Hey, Shirone, how about an arm-wrestling match? For old times' sake?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Huh? Me?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Altol",
+      "content": "Yeah. You were surprisingly strong back then. Let's see if you've still got it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The children pounded the table, egging them on.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Martin",
+      "content": "Ooooh! Warrior vs. mage! The battle of the century!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Arm-wrestling someone who could lift adults with ease? It was absurd, pride aside.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Altol",
+      "content": "Fine. Let's do it. But no going easy.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The moment their hands clasped, Shirone felt like he was gripping a boulder.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He could use photon magic to flip Altol and get free drinks, but that was just a fun thought.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Martin volunteered as referee.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ready… go!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone strained with all his might, but Altol's strength surged like a wave, overpowering him effortlessly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's arm slammed onto the table, and he tumbled to the floor, rubbing his elbow.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ow, ow, ow. You're really strong.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Martin",
+      "content": "Wow! Altol's the best! Shirone's a mage, and he got crushed in one go!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Magic and arm-wrestling had nothing to do with each other, but to the children, the title of 'mage' carried significant weight.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Altol",
+      "content": "Hahaha! Shirone, you've really gotten weak. You weren't this bad before. Well, this bet turned out weird. I'll cover the drinks, Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lumina helped Shirone up, her eyes filled with apology.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lumina",
+      "content": "Shirone, are you okay? Honestly, Altol, must you be so rough?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As a member of the vagabond village, she knew why Altol had gone all out.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone, familiar with the life of a hunter, didn't take it personally.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's fine. But Altol's gotten really strong.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone stood, a pouch of gold coins fell from his pocket.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The coins spilled out, rolling across the floor, and the children's eyes widened.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Martin",
+      "content": "Whoa! Are these real gold coins?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What? Let me see! Wow! Five of them!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even the kids at the far end of the table crowded around, mesmerized by the gold.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Martin",
+      "content": "You're loaded! Why are you carrying five gold coins?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I brought extra just in case. There's a book I really want to buy, and I didn't want to be short.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Martin",
+      "content": "Well, books are expensive.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No, I haven't thought about that…",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Martin",
+      "content": "Then have you been to… you know, those places with lots of women? Nobles go there all the time, right?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Well… some do, but not all…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The children's enthusiastic questioning made Altol's expression darken.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was as if Shirone had become the leader.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The hierarchy in the vagabond village wasn't just about beating up weaker kids.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Without a strong leader to maintain order, people's greed for more would spiral out of control.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "For them, isolated from society, discord meant the collapse of their community.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The reason they chose a leader from a young age was to prepare for the day they'd have to take responsibility for the village.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Altol",
+      "content": "Enough. What's with all the questions? Are you jealous of Shirone's life?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Martin",
+      "content": "Of course we are. The nobles are giving him money, after all.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Altol",
+      "content": "But if you don't become a mage, you're screwed, right, Shirone?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Huh? Oh, yeah, of course.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Martin",
+      "content": "Relying on someone else's money means entrusting your life to them. If you succeed, fine, but if you fail, you'll have nothing left. Shirone, you shouldn't do that.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even if he didn't become a mage, his education would still help him find a job.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "As a commoner, there were plenty of places that would hire him if he swallowed his pride.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "But it was true that Shirone had never considered the possibility of failure.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "How could he be so reckless? Was it overconfidence? If he didn't become a mage, what kind of life would he have?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "His stomach churned. Failure. Everyone could fail, and Shirone was no exception.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The children's practical questions left his heart cold.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Altol",
+      "content": "Alright, enough serious talk. Hey, Shirone, how about an arm-wrestling match? For old times' sake?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Huh? Me?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Altol",
+      "content": "Yeah. You were surprisingly strong back then. Let's see if you've still got it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The children pounded the table, egging them on.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Martin",
+      "content": "Ooooh! Warrior vs. mage! The battle of the century!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Arm-wrestling someone who could lift adults with ease? It was absurd, pride aside.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Altol",
+      "content": "Fine. Let's do it. But no going easy.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The moment their hands clasped, Shirone felt like he was gripping a boulder.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He could use photon magic to flip Altol and get free drinks, but that was just a fun thought.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Martin volunteered as referee.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ready… go!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone strained with all his might, but Altol's strength surged like a wave, overpowering him effortlessly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's arm slammed onto the table, and he tumbled to the floor, rubbing his elbow.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ow, ow, ow. You're really strong.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Martin",
+      "content": "Wow! Altol's the best! Shirone's a mage, and he got crushed in one go!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Magic and arm-wrestling had nothing to do with each other, but to the children, the title of 'mage' carried significant weight.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Altol",
+      "content": "Hahaha! Shirone, you've really gotten weak. You weren't this bad before. Well, this bet turned out weird. I'll cover the drinks, Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lumina helped Shirone up, her eyes filled with apology.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lumina",
+      "content": "Shirone, are you okay? Honestly, Altol, must you be so rough?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As a member of the vagabond village, she knew why Altol had gone all out.",
+      "tone": null
+    }
+  ],
+  "source_hash": "f391a8c0b089ce2e0e33b6c97db2e1cdd87439cded57756c39877f98421a5d04",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T07:40:23.569214+00:00"
+}

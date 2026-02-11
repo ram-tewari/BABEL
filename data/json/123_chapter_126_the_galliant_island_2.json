@@ -1,0 +1,667 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone greeted with a smile, \"Yes, we came here for a vacation with friends.\"",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes, we came here for a vacation with friends.",
+      "tone": "friendly"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In contrast, Amy openly frowned, having experienced the dark alleys and the underworld in her younger days, she knew why they were being approached.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Looks like you're students. Which school? Must be a prestigious one, right?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Looks like you're students. Which school? Must be a prestigious one, right?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "We're from Alpheas Magic Academy.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "We're from Alpheas Magic Academy.",
+      "tone": "proud"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ah, I know that place. It's close by, so many students come here to hang out.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Ah, I know that place. It's close by, so many students come here to hang out.",
+      "tone": "friendly"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy regretted revealing not just that they were students but also their school, practically inviting trouble.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But you folks seem pretty built for mages.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "But you folks seem pretty built for mages.",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "What? We're from Kaizen Swordsmanship Academy! We're swordsmen, so of course, we're tall, you idiot!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What? We're from Kaizen Swordsmanship Academy! We're swordsmen, so of course, we're tall, you idiot!",
+      "tone": "defensive"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Zis had anticipated, Tess snapped back. Proud of her physique, she didn't appreciate being lumped together with Rian as being 'big'.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Haha! Sorry, I'm not good with words. I meant it as a compliment, but I guess you took it the wrong way.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Haha! Sorry, I'm not good with words. I meant it as a compliment, but I guess you took it the wrong way.",
+      "tone": "apologetic"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zis thought it was over. Living life on the edge for money meant not adhering to societal norms, even in front of nobility.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even if there were trouble, hiding for a month was usually enough, since those from across the sea wouldn't bother coming back for revenge.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Anyway, welcome. I'm Zis, a local guide. Hiring me will take care of everything from tours to meals and accommodation.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Anyway, welcome. I'm Zis, a local guide. Hiring me will take care of everything from tours to meals and accommodation.",
+      "tone": "friendly"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "We're still discussing among ourselves. We'll think about it.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "We're still discussing among ourselves. We'll think about it.",
+      "tone": "polite"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone repeated what they had said to other hawkers who had approached them, but Zis's group was different. Having caught their weak point, they persistently pushed their services.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Come on, why like this? You're from prestigious schools, so you must have money, right? We're really in need. You came here to spend money, didn't you?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Come on, why like this? You're from prestigious schools, so you must have money, right? We're really in need. You came here to spend money, didn't you?",
+      "tone": "persistent"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone then realized they were not just simple hawkers. Sensing the same, Rian and Tess's expressions hardened.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Meeting the swordsmen's gaze, Zis's friends flinched and stepped back, but Zis himself didn't blink.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zis",
+      "content": "'Heh, they can't do anything to us anyway.'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zis, who had been a hawker since he was young, was well-versed in mainland information.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheas Magic Academy strictly prohibits the use of magic outside. And needless to say, Kaizen Swordsmanship Academy, which emphasizes knighthood, would not tolerate misbehavior in a tourist spot.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Anyway, I'm Zis, your local guide. Hire me, and I'll take care of everything from tours to meals and accommodations.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Anyway, I'm Zis, your local guide. Hire me, and I'll take care of everything from tours to meals and accommodations.",
+      "tone": "persistent"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "We haven't finished our discussion yet. We'll think about it.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "We haven't finished our discussion yet. We'll think about it.",
+      "tone": "polite"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone repeated what he had said to the other hawkers.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "However, Zis and his crew were different. Having found their weakness, they insisted on their services persistently.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ah, why are you being like this? You're from prestigious schools, so you must have money, right? We're really in need here. You came here to spend, didn't you?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Ah, why are you being like this? You're from prestigious schools, so you must have money, right? We're really in need here. You came here to spend, didn't you?",
+      "tone": "persistent"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone then realized they were not just simple hawkers. Sensing the same, Rian and Tess's expressions hardened.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Meeting the gaze of the swordsmen, Zis's friends flinched and stepped back, but Zis himself did not blink.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zis",
+      "content": "'Heh, they can't do anything to us anyway.'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zis, who had been hawking since he was young, knew the mainland's information well.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheas Magic Academy strictly forbids the use of magic outside. And needless to say, Kaizen Swordsmanship Academy, which emphasizes knighthood, would not allow any mischief at a tourist site.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Come on, trust me. I'll show you the most fun way to enjoy Galliant Island. Let's go. What kind of man lacks resolve? Splash some cash in front of these beautiful ladies. Right? You'll go, won't you? Then I'll carry your bags.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Come on, trust me. I'll show you the most fun way to enjoy Galliant Island. Let's go. What kind of man lacks resolve? Splash some cash in front of these beautiful ladies. Right? You'll go, won't you? Then I'll carry your bags.",
+      "tone": "persistent"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Halt! Let us discuss one last time.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Halt! Let us discuss one last time.",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Phew, okay. But really, it'd be mean to refuse now after coming this far.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Phew, okay. But really, it'd be mean to refuse now after coming this far.",
+      "tone": "persistent"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zis was already holding the heavy bags in both hands.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone looked at his friends, perplexed. This was a first for him, and Zis's attitude made it difficult to deal with him harshly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "What should we do? Should we leave it to him?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "What should we do? Should we leave it to him?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He knows our school, that's why. They know we can't act rashly, so they're acting bold.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "He knows our school, that's why. They know we can't act rashly, so they're acting bold.",
+      "tone": "analytical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Hearing Amy's words, Tess was irked. It was a mean tactic but effective. Normally, she would have already thrown a punch, but she was still holding back, which proved her point.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Meanwhile, Rian didn't pay much attention. His only concern was Shirone's safety.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "I don't mind. If Shirone wants to, I'll follow. And if they insist, even if he says no, I'll just beat them up.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "I don't mind. If Shirone wants to, I'll follow. And if they insist, even if he says no, I'll just beat them up.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "For Rian, this trip was not just a vacation. It was the first outing with Shirone since the knightly vow, a preparation for many such future encounters.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ah, my arms hurt. Can't you decide quickly? Even this waiting is costing money.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Ah, my arms hurt. Can't you decide quickly? Even this waiting is costing money.",
+      "tone": "exasperated"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "That bastard!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "That bastard!",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tess moved to confront Zis, but Shirone stopped her. He wanted to avoid unnecessary violence since the school's honor was at stake.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Okay, we'll hire you. How much do you need?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Okay, we'll hire you. How much do you need?",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Haha! Good decision. I'll give you a special discount because it's you guys. Just give me 5 gold.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Haha! Good decision. I'll give you a special discount because it's you guys. Just give me 5 gold.",
+      "tone": "persistent"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "5 gold?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "5 gold?",
+      "tone": "surprised"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's eyes widened in shock. 5 gold just to hire a guide was outrageous. The island's prices were unknown, but it seemed excessive even for an expensive place.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Isn't that too expensive?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Isn't that too expensive?",
+      "tone": "defensive"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Hey, what are you talking about? For 5 gold, you won't have to lift a finger. I'll arrange a carriage, find you meals and accommodations, and show you around. It's a bargain for that price.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Hey, what are you talking about? For 5 gold, you won't have to lift a finger. I'll arrange a carriage, find you meals and accommodations, and show you around. It's a bargain for that price.",
+      "tone": "persistent"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy was frustrated. They didn't want to start trouble right away, but it seemed they were being taken for a ride from the start. Even if they did provide the services, 5 gold was an inflated price, ten times the market rate.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "'Ah, I should have cut them off right from the start.'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy regretted remembering past incidents. Why had she forgotten? Such types needed to be stamped down, or they would only become more demanding.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But even so, 5 gold is a bit much...",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "But even so, 5 gold is a bit much...",
+      "tone": "hesitant"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "This is a tourist spot. It's natural for things to be pricier.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "This is a tourist spot. It's natural for things to be pricier.",
+      "tone": "persistent"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Um, but still...",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Um, but still...",
+      "tone": "hesitant"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Forget it. Just give it to them and let's go somewhere else.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Forget it. Just give it to them and let's go somewhere else.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy rummaged through her purse. Carrying such people around would only backfire. Once they give in, they would be blackmailed for more money using their weakness.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Here, take 5 gold. Take it and leave.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Here, take 5 gold. Take it and leave.",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy scattered the gold coins at Zis's feet. The shining gold coins bounced around his feet.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zis's friends scrambled to pick up the coins that had fallen to the ground. Zis, however, remained frozen, unable to move.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Had someone else thrown the money, he might have scrambled like his friends. But he couldn't bring himself to crawl on the ground under her disdainful gaze.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "…What are you doing? Are we beggars or something?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "…What are you doing? Are we beggars or something?",
+      "tone": "defensive"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "We don't need a guide or anything, so just disappear from my sight.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "We don't need a guide or anything, so just disappear from my sight.",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Really? Is that your final answer?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Really? Is that your final answer?",
+      "tone": "persistent"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Wait a moment. Let's not get too heated...",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Wait a moment. Let's not get too heated...",
+      "tone": "calm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone tried to mediate with an awkward expression. While it was infuriating to be overcharged, Amy's aggressive response was unexpected.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone, it's okay. Let them come at us. What can they possibly do? They're just scammers, looking to milk more money under the guise of showing us around. They're irredeemable scum.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Shirone, it's okay. Let them come at us. What can they possibly do? They're just scammers, looking to milk more money under the guise of showing us around. They're irredeemable scum.",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zis's friends flinched. It was precisely the kind of business they were in.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone turned away, frowning.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ahh, this is awkward.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Ahh, this is awkward.",
+      "tone": "confused"
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "◆ ◆ ◆",
+      "tone": null
+    }
+  ],
+  "source_hash": "1194eed1468ecdbca5ab38aa8db23cf124c3df7962f96627cb64b732d2db4012",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T15:59:11.121688+00:00"
+}

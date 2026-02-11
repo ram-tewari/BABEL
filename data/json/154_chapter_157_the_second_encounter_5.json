@@ -1,0 +1,1021 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Second Encounter (5)",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "Freeman, thank you.",
+      "tone": "grateful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Hehe, it's nothing. Let's get out of this dreadful place quickly. I can take care of you anywhere.",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Caught off guard by his words, Marsha was flustered.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Then, realizing the time had come, she spoke in a sad voice.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Freeman, I'm sorry. I'm leaving alone. I won't take you with me.",
+      "tone": "sad"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "What? Why? How can a woman alone do anything? The outside world is dangerous.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "It's okay. I think I can handle whatever comes now.",
+      "tone": "resolute"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "No! I don't like it! I'm coming too! I won't let you go alone.",
+      "tone": "determined"
+    },
+    {
+      "type": "thought",
+      "speaker": "Marsha",
+      "content": "Marsha thought it over one last time, but no matter how much she pondered, she couldn't bring herself to take him with her.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Freeman had a family.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Although he was practically no different from her own adoptive father, he was still her true father by blood.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Freeman, I don't love you.",
+      "tone": "blunt"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Freeman's face flushed with Marsha's blunt words.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "What are you talking about all of a sudden?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "You are a really good friend. But I will never accept you as a man. It would be unhappy for you to follow me. I might marry another man.",
+      "tone": "resolute"
+    },
+    {
+      "type": "thought",
+      "speaker": "Freeman",
+      "content": "Freeman felt as if his heart was being torn apart. It was cruel. So cruel, Marsha.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Freeman",
+      "content": "How could she say such a thing in this situation? Maybe this was their last moment together.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Freeman clenched his fists and gritted his teeth.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Freeman",
+      "content": "If that's how Marsha feels, then so be it. Hanging around her would only end up hurting him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "I don't care. I'm still going with you. I hate living with a drunken father who calls me an idiot. It's my choice.",
+      "tone": "defiant"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha was furious.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Marsha",
+      "content": "Freeman's suffocating personality was driving her insane.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "You idiot! Why can't you understand? I don't like you!",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "So what? If you don't want to like me, then don't! I'll just keep liking you! You have no right to say anything about that!",
+      "tone": "defiant"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha yelled back, her anger spilling over.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Ah, is that so? Good for you. Just keep looking at me until you die old and alone. Shall I tell you the truth? Having you with me is a burden. How long should I take care of a coward who can't even kill a single ant? It only makes things harder for me!",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "I'm not a coward! I will protect you!",
+      "tone": "defiant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "And how exactly are you going to protect me? What can you even do?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Freeman screamed towards the ground.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He then picked up a sharp stone and began scraping off his eyebrows.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha was startled and tried to stop Freeman.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "What are you doing, you fool!",
+      "tone": "alarmed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "Let go! Just let me be!",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Freeman was relentless.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The sound of his skin tearing made Marsha's skin crawl. She watched in disbelief as he continued to rub the stone against his eyebrows until they were completely gone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Throwing the stone to the ground, his face, now covered in blood, looked demonic.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "How about that? Now I look scary, don't I? Being a coward was all because of my eyebrows. Now no one can mess with me. So, I won't be a burden to you.",
+      "tone": "defiant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "You... are you insane?",
+      "tone": "alarmed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha was speechless, but Freeman was serious.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "His eyebrow-less face indeed looked frightening, but in reality, it bore the saddest expression.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "I will become stronger. I will do whatever it takes. Just let me stay by your side, please? I promise I won't ask you to like me if you just let me come with you.",
+      "tone": "pleading"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "You... oh, you fool.",
+      "tone": "sighing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha sighed deeply.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "She felt it was wrong, but even that thought seemed to be drowned out by her sigh.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "***",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "Marsha.",
+      "tone": "pleading"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Freeman's eyes sparkled.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His face, which had been distorted by burns, was now perfectly regenerated.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "How much time had passed? It might already be too late. But he had to go. He had promised. Until Marsha was dead, his life wasn't his own.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "I'm going now. Wait for me.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The energy he poured into choosing life over death at the brink was tremendous.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His body was heavy, and his legs barely carried him.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But Freeman walked without rest.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "***",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "To where Marsha was.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy gritted her teeth as she raced up the mountain trail.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Her mental strength had recovered enough to think clearly, but casting magic was still too much to handle.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "She couldn't afford to slow down. The battle was not yet over.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Just a little more!",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the destination came into view, Amy increased her speed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "And just as she crested the hill, she was met with an unexpected sight.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian, battered and bruised, was holding Falcoa from behind.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But what shocked Amy was something else.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tess, running at full speed, was stabbing Falcoa with her sabre.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tess's eyes were wilder than ever. If things continued this way, even Rian could be impaled by her sword.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "However, the two seemed to have reached an unspoken agreement, as they hesitated not at all.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Finally, Tess's sabre pierced through Falcoa.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian's pupils dilated, and his shoulders convulsed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Moments later, blood spurted from Rian's mouth.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "20 minutes before Amy's arrival.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Falcoa's attack was the epitome of flashy brutality.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But it was not finesse that shone through, but a beast-like savagery.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Rian",
+      "content": "Rian couldn't afford to think about techniques.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Rian",
+      "content": "Just enduring the shock had already drained him to his limits.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Falcoa found an opening and sliced through Rian's thigh.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Rian!",
+      "tone": "alarmed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Although Rian had held up better than expected, having his lower body injured meant he had lost half his strength.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Angered by her friend's injury, Tess launched an attack, but Falcoa was worthy of being called a demon of the battlefield.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As long as he didn't die, it seemed he didn't care how injured he got, focusing most of his movements on attack.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "This actually caused Tess's attack frequency to drop.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was a moment that proved the adage: the best defense is a good offense.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the battle continued, the scratches on Rian and Tess's bodies multiplied.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They avoided fatal wounds, but after ten minutes, their bodies were nearly ragged like cloth.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Falcoa",
+      "content": "Hahaha! Is this the end? It's been fun.",
+      "tone": "taunting"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ignoring Falcoa's taunts, Tess looked back at Rian, who was gasping for breath.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Rian, are you okay?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Yeah, I can manage. What about you?",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tears welled up in Tess's eyes, unable to continue her words.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Tess",
+      "content": "What did he mean he could manage? His body was clearly marked by the path of Falcoa's sword.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Tess",
+      "content": "It was the first time she had felt so heartbroken.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Tess",
+      "content": "What was this trash of a person to hurt Rian like this?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tess gripped the handle of her sabre tightly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even if it meant risking her life, she was determined to cut off Falcoa's breath.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Yaaaaa!",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tess pulled the sabre towards her body and charged.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was a charge unique to the Elzain family.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "However, the gap in their power was too great to bridge with just willpower.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Although Tess's charge was fast, Falcoa retreated even faster.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As he created distance, his intention became clear.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With a wicked grin, Falcoa suddenly kicked off the ground and advanced.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With a smooth move, he deflected Tess's sabre.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Falcoa",
+      "content": "Huh!",
+      "tone": "taunting"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Falcoa spun around to Tess's side and slammed his knee into her ribs.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Her lungs were compressed, cutting off her breath momentarily.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Falcoa",
+      "content": "Kek, not bad, but you still smell green.",
+      "tone": "taunting"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Falcoa's long sword descended towards Tess.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "To Tess, time seemed to slow.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Tess",
+      "content": "She could clearly see the trajectory of the sword coming down to slice her neck.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Tess",
+      "content": "But she was paralyzed.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Tess",
+      "content": "As time slowed, so did her body.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Tess",
+      "content": "I'm sorry... Rian. I wanted to at least strike back once.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At that moment, Rian charged like a bull at Falcoa.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Aaaargh!",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Falcoa's legs were lifted off the ground.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But Rian's tackle was unsuccessful.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even in mid-air, Falcoa maintained a terrifying balance, landed smoothly, and pulled Rian's neck forward while raising his knee.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Falcoa",
+      "content": "Kuh!",
+      "tone": "taunting"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The impact seemed to go through the solar plexus, through the stomach, and out the back.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Rian",
+      "content": "Was this the combat ability of a demon who thrived in war? It seemed impossible to shake Falcoa by any means.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Don't fret too much. I'll take good care of your woman.",
+      "tone": "pleading"
+    },
+    {
+      "type": "thought",
+      "speaker": "Rian",
+      "content": "Despite their usual bickering, Tess was a good friend, someone he respected and acknowledged as a fellow swordsman.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Not to someone like you...",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Gripping Falcoa's collar, Rian summoned all his strength as if burning his whole body.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "I won't hand over my friend, you bastard!",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Falcoa",
+      "content": "Kugh!",
+      "tone": "taunting"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Rian was dragged along, Falcoa was puzzled.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Falcoa",
+      "content": "He knew Rian was strong, but this level of power didn't match his previous schema.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Falcoa",
+      "content": "Where had such strength suddenly come from?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian slipped behind Falcoa and applied a wrestling hold.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Once Rian wedged his arm through Falcoa's armpit, raising his arms, Falcoa could no longer swing his sword.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Falcoa",
+      "content": "This bastard!",
+      "tone": "taunting"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Falcoa flexed his trapezius muscles and pushed his arms down.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian's nose bridge twisted as if ropes were tied around his shoulders and pulled by horses, his body screaming in agony.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Falcoa",
+      "content": "Grrrr!",
+      "tone": "taunting"
+    },
+    {
+      "type": "thought",
+      "speaker": "Falcoa",
+      "content": "But Falcoa couldn't break free.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Falcoa",
+      "content": "It was indeed strange. None of the opponents he had faced in combat had shown such strength.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Falcoa",
+      "content": "How could Rian possibly exhibit such power?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Falcoa",
+      "content": "Damn it! Let go, you bastard!",
+      "tone": "taunting"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Try and get out. This is what they call an imaginary schema, you brat.",
+      "tone": "resolute"
+    },
+    {
+      "type": "thought",
+      "speaker": "Rian",
+      "content": "Mages train their minds, swordsmen their bodies.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Rian",
+      "content": "Yet, there is one organ intimately connected to both— the brain.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Rian",
+      "content": "Perhaps thoughts also affect the body?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Rian",
+      "content": "Although very few do it, some schema users spend their lives trying to reconstruct the neural schematic.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Rian",
+      "content": "Unknown to Rian, the term 'imaginary schema' was also coined by them.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Rian",
+      "content": "Does the mere thought of not letting go influence the body? If so, would the intensity of the thought change its effect?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Rian",
+      "content": "If this was possible, given that thoughts have no limits, how much could the effects amplify if one intensely focused their thoughts?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Rian",
+      "content": "Rian decided not to move.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Rian",
+      "content": "He had issued a command to his body and locked it in that state.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Rian",
+      "content": "This kind of mental lock wasn't traditionally considered a schema, but Rian's extraordinary strength could be explained no other way.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Falcoa",
+      "content": "Argh! Let go! Let go, you bastard!",
+      "tone": "taunting"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Falcoa thrashed wildly, but it felt as if he wasn't grappling with a living being.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian's body was as unyielding as if it had turned to stone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Tess! Stab him!",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "But…",
+      "tone": "hesitant"
+    },
+    {
+      "type": "thought",
+      "speaker": "Tess",
+      "content": "Tess realized what Rian was suggesting.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Tess",
+      "content": "It was a logical decision. If not now, there would never be another chance to defeat Falcoa.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Tess",
+      "content": "But Tess couldn't bring herself to do it. To kill Rian, even if it meant dying together.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Tess",
+      "content": "She couldn't bear the thought of stabbing him with her own hands.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Rian…",
+      "tone": "pleading"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Aaaargh! Quickly! I can't hold on much longer!",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Danger signals were blaring from all over Rian's body.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His mind's orders were being executed by his body at 100%, but the limits were clear.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If Falcoa broke free, Rian's body would likely be shattered into pieces.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Yaaaah!",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tears streaming down her face, Tess charged.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian was risking his life to fulfill his duty.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Letting emotions interfere and missing the timing would make him the world's biggest fool.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Tess! No!",
+      "tone": "alarmed"
+    }
+  ],
+  "source_hash": "1fd904fa3cff7af75f8b2983a058bf9087b9f3fa802d9f12d3eba6b16924abf2",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T16:25:03.646444+00:00"
+}

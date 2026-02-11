@@ -1,0 +1,749 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "House of Karmis."
+    },
+    {
+      "type": "action",
+      "content": "A powerful force in the kingdom that had maintained its first-rank position for 200 years."
+    },
+    {
+      "type": "action",
+      "content": "Although their main residence was here in Kreas, the talents produced by the family were active throughout the continent, beyond the kingdom."
+    },
+    {
+      "type": "action",
+      "content": "Eimy opened the door, looking tired."
+    },
+    {
+      "type": "action",
+      "content": "Her father, Karmis Shakora, who had retired from politics and returned to the main house, was reading a newspaper."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eimy",
+      "content": "I'm back.",
+      "tone": "tired"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shakora",
+      "content": "Where have you been? Skipping education again, I hear?",
+      "tone": "stern"
+    },
+    {
+      "type": "action",
+      "content": "Though over sixty, Shakora looked young without a single white hair."
+    },
+    {
+      "type": "action",
+      "content": "Tall and slender with an intellectual face, his eyes reflected the pride of being the kingdom's highest nobleman."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eimy",
+      "content": "I've learned everything already. It's not even fun.",
+      "tone": "defensive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shakora",
+      "content": "So you've been playing with ruffians? No matter how gifted you are, if you play endlessly, you'll be overtaken. Even a rough stone must be polished to become a gem. If you let your guard down, someday you'll be stabbed in the back.",
+      "tone": "cautionary"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eimy",
+      "content": "Ugh! That same old lecture.",
+      "tone": "exasperated"
+    },
+    {
+      "type": "action",
+      "content": "Shakora chuckled."
+    },
+    {
+      "type": "action",
+      "content": "Though as mischievous as her mother, she had inherited his talent exactly."
+    },
+    {
+      "type": "action",
+      "content": "Once she realized what she possessed, her tilted axis would naturally find its place."
+    },
+    {
+      "type": "narrator",
+      "content": "That was the fate of a genius."
+    },
+    {
+      "type": "action",
+      "content": "Eimy was about to enter her room when she stopped abruptly."
+    },
+    {
+      "type": "action",
+      "content": "Thanks to her father's nagging, she recalled the afternoon's events she'd rather not think about."
+    },
+    {
+      "type": "thought",
+      "speaker": "Eimy",
+      "content": "'What was he, that guy?'"
+    },
+    {
+      "type": "action",
+      "content": "By his appearance and frightened demeanor, he was clearly a commoner."
+    },
+    {
+      "type": "action",
+      "content": "The possibility of a non-noble formally learning magic was less likely than an illiterate mastering imperial theory."
+    },
+    {
+      "type": "thought",
+      "speaker": "Eimy",
+      "content": "Then what was the magic he cast in the alley?"
+    },
+    {
+      "type": "action",
+      "content": "A spontaneous manifestation? The awakening of talent?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Eimy",
+      "content": "No matter how she thought about it, these were the only explanations that came to mind."
+    },
+    {
+      "type": "narrator",
+      "content": "Her father's words stung anew."
+    },
+    {
+      "type": "action",
+      "content": "Eimy bit her lips."
+    },
+    {
+      "type": "action",
+      "content": "Though the world was indeed boring, she had no intention of falling behind others."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eimy",
+      "content": "Dad.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "content": "Shakora put down his newspaper and adjusted his glasses."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shakora",
+      "content": "Yes? Do you have something to talk about?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eimy",
+      "content": "Well... it's not that I particularly want to do it. It's just a field I'm interested in.",
+      "tone": "hesitant"
+    },
+    {
+      "type": "action",
+      "content": "Shakora's eyes lit up with interest."
+    },
+    {
+      "type": "action",
+      "content": "From childhood, she was a child who would grasp a hundred things when taught just one, so she would excel at whatever she did."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shakora",
+      "content": "Tell me. I'll support you actively.",
+      "tone": "encouraging"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eimy",
+      "content": "No, it's not that I want to do it, just that I'm interested.",
+      "tone": "defensive"
+    },
+    {
+      "type": "action",
+      "content": "Shakora's eyes lit up with interest."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shakora",
+      "content": "I see. Then I'll actively support that interest of yours.",
+      "tone": "encouraging"
+    },
+    {
+      "type": "action",
+      "content": "Eimy smacked her lips."
+    },
+    {
+      "type": "action",
+      "content": "In truth, she knew."
+    },
+    {
+      "type": "action",
+      "content": "With the power and wealth of a first-rank family, there was nothing in the world they couldn't obtain."
+    },
+    {
+      "type": "action",
+      "content": "Sometimes wanting parents who would face difficulties for their daughter was just the whim of a pubescent girl."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eimy",
+      "content": "Magic.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "content": "Shakora looked at her in surprise."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shakora",
+      "content": "Excuse me? What did you say?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eimy",
+      "content": "If you know anyone at the magic school, please introduce me.",
+      "tone": "determined"
+    },
+    {
+      "type": "system_notification",
+      "content": "***"
+    },
+    {
+      "type": "action",
+      "content": "Shirone remained silent about what happened in the city."
+    },
+    {
+      "type": "action",
+      "content": "Upon reflection, it wasn't a simple matter."
+    },
+    {
+      "type": "action",
+      "content": "If he brought it up, he'd have to tell about his experience at the magic school too."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone guessed how extraordinary that day's event had been."
+    },
+    {
+      "type": "action",
+      "content": "Whether blessing or misfortune, once the line was crossed, there was no going back."
+    },
+    {
+      "type": "narrator",
+      "content": "One criterion for genius is whether one knows they're a genius."
+    },
+    {
+      "type": "action",
+      "content": "Shirone too had realized from childhood that he was different from others."
+    },
+    {
+      "type": "action",
+      "content": "He didn't particularly feel superior, but his desire to test the limits of his abilities was stronger than anyone's."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He simply didn't show it."
+    },
+    {
+      "type": "action",
+      "content": "To Shirone, his parents were the most precious beings in the world."
+    },
+    {
+      "type": "action",
+      "content": "He didn't want to burden them, people who had never forced him down the wrong path despite their poverty."
+    },
+    {
+      "type": "action",
+      "content": "Thus, the great awakening experienced by the 12-year-old boy entered a dormant period, waiting for an opportunity."
+    },
+    {
+      "type": "action",
+      "content": "Daily life continued as usual."
+    },
+    {
+      "type": "action",
+      "content": "He helped his mother with chores and went to the mountains in the afternoon to gather wood."
+    },
+    {
+      "type": "action",
+      "content": "But most of his time in the mountains was spent in meditation, not chopping."
+    },
+    {
+      "type": "action",
+      "content": "After about a month, his speed of entering the Spirit Zone improved dramatically."
+    },
+    {
+      "type": "action",
+      "content": "Of course, some things weren't as easy as he thought."
+    },
+    {
+      "type": "action",
+      "content": "No matter how familiar he became with the Spirit Zone, he couldn't replicate the magic he'd cast in the alley."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "It was magic performed involuntarily and unconsciously."
+    },
+    {
+      "type": "action",
+      "content": "Once he became conscious of success, replication became impossible."
+    },
+    {
+      "type": "action",
+      "content": "It was like how a musical score played without thinking would stiffen the hands once conscious effort began."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "To restore that sensation, he would have to methodically retrace the intermediate steps he had skipped through insight, but without formal magic training, examining the process was impossible."
+    },
+    {
+      "type": "action",
+      "content": "Shirone quickly gave up what he couldn't obtain and instead delved persistently into the Spirit Zone."
+    },
+    {
+      "type": "action",
+      "content": "Simply wielding magic limited one to being a magic researcher."
+    },
+    {
+      "type": "action",
+      "content": "He concluded that what mattered was mental endurance that wouldn't waver in any situation."
+    },
+    {
+      "type": "action",
+      "content": "After five hours of meditation, Shirone picked up his axe and attempted the Thunder Strike."
+    },
+    {
+      "type": "action",
+      "content": "Unlike before, now that he was conscious of it, the success rate had dropped."
+    },
+    {
+      "type": "action",
+      "content": "But unlike magic, he could recall the process of chopping wood."
+    },
+    {
+      "type": "action",
+      "content": "Shirone swung his axe, correcting errors one by one."
+    },
+    {
+      "type": "sfx",
+      "content": "Crash!"
+    },
+    {
+      "type": "action",
+      "content": "The tree fell satisfyingly."
+    },
+    {
+      "type": "action",
+      "content": "But he felt no particular thrill."
+    },
+    {
+      "type": "action",
+      "content": "He had merely found and corrected an error."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Tomorrow and the day after.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "content": "Thus he continued to build the fundamentals."
+    },
+    {
+      "type": "action",
+      "content": "For an opportunity that would someday come."
+    },
+    {
+      "type": "action",
+      "content": "As Shirone returned home with the wood on his back, his eyes shone more intensely than usual."
+    },
+    {
+      "type": "action",
+      "content": "A Chance More Precious Than Life (1)"
+    },
+    {
+      "type": "action",
+      "content": "Leaves scattered endlessly on the wind."
+    },
+    {
+      "type": "action",
+      "content": "Standing by the window, Shirone wrapped a marten fur scarf around his neck and gazed at the late autumn mountain scenery."
+    },
+    {
+      "type": "action",
+      "content": "Four years had passed, and Shirone had grown into a 16-year-old youth."
+    },
+    {
+      "type": "action",
+      "content": "Though still showing traces of youth, he had a strikingly beautiful face that would turn heads regardless of age or gender."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'm going out, Mom.",
+      "tone": "casual"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mother",
+      "content": "Don't overdo it and come back early. We have enough firewood now.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Winter is coming soon. We have to prepare in advance.",
+      "tone": "responsible"
+    },
+    {
+      "type": "action",
+      "content": "After gathering his equipment and leaving the cabin, the cold air took his breath away."
+    },
+    {
+      "type": "action",
+      "content": "Seasons arrived earlier in the mountains than in the city, so snow had already accumulated at the peak."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'll have to walk quickly to get back before sunset.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "content": "Unlike before, having trained his mind through the Spirit Zone for four years, Shirone no longer feared ordinary dangers."
+    },
+    {
+      "type": "action",
+      "content": "As a result, his shyness disappeared, and he often mingled with the children of mountain folk."
+    },
+    {
+      "type": "action",
+      "content": "But he had no close friends with whom he completely opened up."
+    },
+    {
+      "type": "action",
+      "content": "The mountain children were different from Shirone—rough and direct in personality."
+    },
+    {
+      "type": "action",
+      "content": "Even the girls."
+    },
+    {
+      "type": "action",
+      "content": "In such a group, Shirone was the ugly duckling."
+    },
+    {
+      "type": "action",
+      "content": "The children admired Shirone for his intellectual charm while sometimes openly showing hostility."
+    },
+    {
+      "type": "action",
+      "content": "A year ago, a woman named Hauran from the slash-and-burn farming village had made advances toward Shirone."
+    },
+    {
+      "type": "action",
+      "content": "This woman, six years his senior, had called him saying she had something to tell him and then tried to make physical advances."
+    },
+    {
+      "type": "action",
+      "content": "But when Shirone firmly refused, she suddenly changed, saying scrawny men like him weren't her type, and threatened that if he ever flirted with her again, she would cause trouble for his family."
+    },
+    {
+      "type": "action",
+      "content": "Recalling that incident, Shirone chuckled."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "'I wonder how everyone is doing?'"
+    },
+    {
+      "type": "action",
+      "content": "Arriving at the logging area, Shirone found a suitable tree, lightly notched it with his axe, and carefully examined the groove."
+    },
+    {
+      "type": "action",
+      "content": "But his eyes weren't really seeing anything."
+    },
+    {
+      "type": "action",
+      "content": "Years of experience had taught him that finding a tree's vital point wasn't something done with the eyes."
+    },
+    {
+      "type": "action",
+      "content": "Sometimes, by repeating the same action or thought, one naturally grasps its principle—this is called a routine."
+    },
+    {
+      "type": "action",
+      "content": "A typical example is understanding complex concepts of arithmetic naturally."
+    },
+    {
+      "type": "action",
+      "content": "Over four years, Shirone had tried various ways of axe-wielding, and in the process, he perfected the sensation of the Thunder Strike."
+    },
+    {
+      "type": "action",
+      "content": "Sensing something, Shirone picked up his axe again and struck the tree's groove with moderate force."
+    },
+    {
+      "type": "sfx",
+      "content": "With a thunderous sound, the tree fell."
+    },
+    {
+      "type": "action",
+      "content": "Success with just two strikes."
+    },
+    {
+      "type": "action",
+      "content": "Though fortunate, Shirone could succeed with the Thunder Strike once in ten attempts anyway."
+    },
+    {
+      "type": "action",
+      "content": "Sitting on the fallen tree, Shirone entered the Spirit Zone."
+    },
+    {
+      "type": "action",
+      "content": "Currently, his Spirit Zone took the form of a sphere with a diameter of about 40 meters."
+    },
+    {
+      "type": "action",
+      "content": "This was a level that would rank in the upper class even at a magic school filled with talented individuals."
+    },
+    {
+      "type": "action",
+      "content": "Shirone felt the world beneath his feet."
+    },
+    {
+      "type": "action",
+      "content": "As if merged with the earth, he felt the rustling of undergrowth."
+    },
+    {
+      "type": "action",
+      "content": "He could hear earthworms wriggling in the soil and tree roots absorbing moisture."
+    },
+    {
+      "type": "action",
+      "content": "Nature changes ceaselessly."
+    },
+    {
+      "type": "action",
+      "content": "Savoring this dynamic world, five hours passed in an instant."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Oh? It's already dark.",
+      "tone": "surprised"
+    },
+    {
+      "type": "action",
+      "content": "Finishing his meditation, Shirone split the fallen tree into pieces and loaded them onto his A-frame carrier."
+    },
+    {
+      "type": "action",
+      "content": "Upon arriving at the cabin, Shirone noticed an elegant carriage he had never seen before."
+    },
+    {
+      "type": "action",
+      "content": "Checking the stable, he found two white horses licking feed."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'm back.",
+      "tone": "casual"
+    },
+    {
+      "type": "action",
+      "content": "He opened the door and greeted, but no welcoming voice replied."
+    },
+    {
+      "type": "action",
+      "content": "The atmosphere was strange."
+    },
+    {
+      "type": "action",
+      "content": "His mother's face was dark, and in the living room, an unfamiliar old man was sitting at the table, conversing with his father."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shakora",
+      "content": "Oh? Dad, you're home?",
+      "tone": "surprised"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Shirone, you're back?",
+      "tone": "surprised"
+    },
+    {
+      "type": "action",
+      "content": "For someone who had gone to the city at dawn, he had returned early."
+    },
+    {
+      "type": "action",
+      "content": "Moreover, on other occasions, he would have rushed over for a shower of kisses, but now he was solemnly maintaining his position."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shakora",
+      "content": "Pay your respects, Shirone. This is the deputy steward of the House of Ozent.",
+      "tone": "formal"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Temuran",
+      "content": "Pleased to meet you. My name is Temuran.",
+      "tone": "formal"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Nice to meet you, sir. I'm Shirone.",
+      "tone": "formal"
+    },
+    {
+      "type": "action",
+      "content": "Shirone bowed respectfully."
+    },
+    {
+      "type": "action",
+      "content": "Even living in the mountains, Shirone knew of the House of Ozent."
+    },
+    {
+      "type": "action",
+      "content": "They were second-rank nobles based in Kreas, a martial family that had produced numerous warriors."
+    },
+    {
+      "type": "action",
+      "content": "I came here to meet you."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Temuran",
+      "content": "Pleased to meet you. My name is Temuran.",
+      "tone": "formal"
+    },
+    {
+      "type": "action",
+      "content": "Temuran exuded the particular scent of nobility."
+    },
+    {
+      "type": "action",
+      "content": "Not that he himself was a noble."
+    },
+    {
+      "type": "action",
+      "content": "The kingdom's hierarchical structure was simply divided into nobles and commoners, but apart from political distinctions, various strata existed."
+    },
+    {
+      "type": "action",
+      "content": "The commoner strata could be said to be determined by the nobles."
+    },
+    {
+      "type": "action",
+      "content": "A blacksmith who makes swords for nobles is respected."
+    },
+    {
+      "type": "action",
+      "content": "Merchants with shops in noble districts also wield considerable authority."
+    },
+    {
+      "type": "action",
+      "content": "Then what about mountain folk?"
+    },
+    {
+      "type": "action",
+      "content": "They have no connection to nobles and don't even live in the city."
+    },
+    {
+      "type": "action",
+      "content": "Therefore, mountain folk are called the lowest class and treated with contempt."
+    },
+    {
+      "type": "action",
+      "content": "In contrast, Temuran's profession of directly assisting nobles could be considered the highest among commoners."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'd like to know what this is about. Could you please explain?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "content": "Temuran's eyes sharpened."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Temuran",
+      "content": "Your reputation is quite good. A mountain folk's child who can read, and moreover with such profound filial piety?",
+      "tone": "sarcastic"
+    },
+    {
+      "type": "action",
+      "content": "Temuran had the ability to make compliments sound like mockery."
+    },
+    {
+      "type": "action",
+      "content": "As if to say, 'how deep could your filial piety possibly be?'"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Would you like to work for the House of Ozent?",
+      "tone": "surprised"
+    },
+    {
+      "type": "action",
+      "content": "A thunderbolt struck Shirone's mind."
+    },
+    {
+      "type": "action",
+      "content": "Working for a second-rank noble family was tantamount to a rise from the lowest to the highest social class."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Temuran",
+      "content": "What kind of work would I be doing?",
+      "tone": "formal"
+    },
+    {
+      "type": "action",
+      "content": "The main house is relocating its grand library."
+    },
+    {
+      "type": "action",
+      "content": "It's not a task we can entrust to just anyone."
+    },
+    {
+      "type": "action",
+      "content": "Among the ten thousand books, some must not be leaked."
+    },
+    {
+      "type": "action",
+      "content": "Though porters will handle the heavy lifting, the classification work will be done by just you and me."
+    },
+    {
+      "type": "action",
+      "content": "It will take about two years."
+    }
+  ],
+  "source_hash": "f39401738049e3278a0e210ed7879e7937f50ba635a7e1ec8be14f518741fc4d",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T03:38:23.851016Z"
+}

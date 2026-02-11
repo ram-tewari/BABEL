@@ -1,0 +1,829 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "An Unexpected Guest (5)",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "But Shirone, if you really plan to do something on the island, there's a problem.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Huh? What problem?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Actually, this vacation was planned as a couples' trip.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Couples' trip? You mean, like, boys and girls paired up?",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes. My partner is supposed to come from this side. I should have mentioned it earlier. I didn't expect you to say you wanted to investigate the ruins.",
+      "tone": "apologetic"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "A couples' trip. That meant he had to bring a partner, too.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Okay, I'll bring someone too.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian looked at Shirone in surprise.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The Shirone he knew blushed even at the sight of women's underwear.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "You... are popular with girls, aren't you?",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Huh? No, not really. But I have someone in mind. I was considering it, actually. If you hadn't suggested it, I would have asked first.",
+      "tone": "defensive"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Rian's eyes lit up.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Haha! Our house witch would be jealous, wouldn't she?",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Reina? Why would she be?",
+      "tone": "confused"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Kukuku, no, never mind.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "But I'm dying of curiosity. Who is she? Is she pretty?",
+      "tone": "intrigued"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes, she's pretty, but... I'm not sure if she'll agree to come. She might just turn me down outright.",
+      "tone": "doubtful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "No way, you have to bring her. Go get her consent tomorrow. Meanwhile, I'll head home to prepare.",
+      "tone": "encouraging"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone deferred his response.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If Rian was bringing a partner, he had to bring one too.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "But he wasn't certain.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Judging by his usual character, there was a very high chance of being rebuffed and chased away.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Various worries constricted Shirone's heart.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Yet, part of him was excited.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was his first trip, with friends, to Galliant Island, a famous tourist destination known for its southern charm.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone spent a sleepless night, tossing and turning.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone parted ways with Rian in the noble residential area.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With the departure scheduled for tomorrow, he had to find a partner today.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Unfamiliar with the area, he asked for directions and finally arrived at a mansion too beautiful to be merely a residence.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "'So this is the Karmis main house.'",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He was not shy about talking at school, but the thought of visiting her home made him nervous.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The guards at the main gate looked suspiciously at him, increasing his tension.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Uh… hello?",
+      "tone": "nervous"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Guard",
+      "content": "What brings you here?",
+      "tone": "suspicious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone approached, the guard gripping his sword tensed.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was an involuntary reaction.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "After overcoming countless challenges, Shirone's aura could overwhelm even criminals.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Is Amy here?",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Guard",
+      "content": "Excuse me, but may I ask who you are?",
+      "tone": "suspicious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Oh, I'm Shirone. We attend the magic academy together.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The guard looked to his superior, who seemed indifferent.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was a rare occurrence but not new for someone who had lived at the Karmis main house for 20 years.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Guard",
+      "content": "'Ah, the trouble starts right after the holidays.'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nevertheless, unless explicitly instructed not to, he had to report the visit.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The guard signaled with a nod and rode off toward the mansion.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone waited anxiously at the main gate while the superior guard glanced at him.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone seemed decent in looks and temperament, but entering the mansion seemed impossible.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Many men had been turned away before, even those of royal blood and distant relatives had left without seeing Amy's face.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After about ten minutes, the guard returned hurriedly on horseback.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The superior could guess the outcome just by looking at his subordinate's worried face.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was always the guards who had to deal with angry nobles. If they got slapped, there was nothing they could do.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Superior Guard",
+      "content": "What happened? I heard there was urgent business to be handled today.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Guard",
+      "content": "Well, he's been asked to come in.",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Superior Guard",
+      "content": "Hmm, they must be busy… Eh? What did you say?",
+      "tone": "incredulous"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Guard",
+      "content": "That's… Miss Amy asked for him to be brought in.",
+      "tone": "surprised"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Superior Guard",
+      "content": "Ah, so she was home. That's good.",
+      "tone": "relieved"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone sighed in relief.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If Amy had been out, there would have been no way for him, a commoner, to enter the mansion.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Soon, a pink carriage arrived at the main gate.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "An elderly man using a cane stepped down from the carriage, and the guards turned pale.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "May I enter now?",
+      "tone": "hopeful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Guard",
+      "content": "Yes, of course! Welcome to the Karmis Estate!",
+      "tone": "courteous"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The supervisor quickly snapped to attention, still unable to comprehend the current situation.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Although he understood the permission to enter, he couldn't fathom why Adel, the head butler of the Karmis family, would come out to greet Shirone.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Whether Shirone was of distinguished lineage or not, there was no reason for Adel to personally receive him.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Adel would only make such efforts for major family events or visits from the head of the household's guests.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "'Who exactly is he? He's a friend of the young lady, so not a guest of the head. Is there some event today? No, I haven't heard anything of that sort.'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Adel, leaning on his cane, approached Shirone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Adel",
+      "content": "You are most welcome at the Karmis mansion. I am Adel, the head butler.",
+      "tone": "courteous"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hello. My name is Shirone.",
+      "tone": "polite"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Adel",
+      "content": "Before we proceed, I must verify something, if you don't mind.",
+      "tone": "formal"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Oh? What would that be?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Adel",
+      "content": "I need to confirm your identity. To ensure that you are indeed Shirone.",
+      "tone": "serious"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone looked at Adel, puzzled.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Adel",
+      "content": "The young lady said this: 'If it's Shirone, bring him.' I interpret this as: only Shirone is allowed entry. Therefore, you must provide evidence that you are indeed Shirone.",
+      "tone": "formal"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone felt a surge of irritation.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "How can I prove I am myself? I am Shirone.",
+      "tone": "exasperated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Adel",
+      "content": "That alone is not sufficient. As the Karmis family's head butler, it is my duty and authority to clarify the identity of all entrants.",
+      "tone": "formal"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "If you could just take me to Amy...!",
+      "tone": "desperate"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone halted mid-sentence.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Adel's previously kind face suddenly seemed intimidating, and an unknown force began to press on his chest and back.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It felt like his organs might burst.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Adel",
+      "content": "The Karmis family rejects comparisons with other families, being of the highest nobility. And I, Adel, as the head butler, follow only the orders of the head of the household. Having personally been asked to escort the young lady's guest, I must show corresponding respect.",
+      "tone": "formal"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone realized why Adel was acting so petulantly.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Essentially, he was annoyed that he had to do a task usually handled by a regular butler.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "However, he couldn't openly express his displeasure due to the increasingly intense pressure he was exerting.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "'Ah... so it begins. Pressing.'",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The guards empathized with Shirone.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Known for his strictness, Adel often summoned his subordinates for minor errors and subjected them to Pressing.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Pressing involved transmitting intensely amplified emotions to disrupt the recipient's nervous system.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "While it didn't cause physical pain, the escalating stress could affect the body, and if severe enough, could even damage vital organs.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone showed no significant change, remaining calm under stress.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Adel, feeling challenged, gradually increased the intensity of his Pressing.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Initially, he hadn't planned to go this far, but he thought it a good lesson for the young man to get a taste of what it meant to provoke the Karmis family.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone realized his heartbeat accelerating, primarily due to anger.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Adel's hostility was fueling his rage.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "'Stay calm. It's just an emotion. If I control it, nothing will happen.'",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone, like someone sinking to the ocean floor with a boulder tied to him, felt the pressure mounting, making breathing difficult.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "But instead of panicking, he calmly observed his emotions.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "As the duration of Pressing crossed a lethal threshold, Adel trembled in disbelief.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Sweat trickled down his forehead.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Adel",
+      "content": "'What is this boy?'",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "To break free from Pressing, one had to amplify their emotions to a similar intensity.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "While a Karmis with crimson eyes could reset their emotions, Shirone's ability to endure this long was certainly abnormal.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Adel",
+      "content": "'Endurance alone doesn't explain this. The only other explanation is complete emotional control.'",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Another method to counteract Pressing, but not an easy feat.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even a saint would lose composure under prolonged stress.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Yet, Shirone showed no such signs.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Adel",
+      "content": "'A Vajra Monk? Is that even plausible? He's barely an adult.'",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Though he didn't admit it, Adel had inadvertently stumbled upon the truth.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In the Infinite Realm, Shirone had experienced madness beyond human endurance.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was during these trials that he discovered an absolute center.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "As long as he held onto it, emotions induced by techniques were trivial.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Adel released the Pressing.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Regardless of how Shirone had endured so far, it was no longer his concern.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The boy standing before him was undoubtedly the young lady's friend.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Adel's face returned to its kindly expression, allowing Shirone to finally breathe.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It's such a terrifying technique. His heart might have burst if he had not reached the state of Indestructibility.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Adel placed his hand on his chest and bowed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Adel",
+      "content": "Please forgive the folly of an old man.",
+      "tone": "humble"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The guards were baffled.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone's expression hadn't changed, but suddenly, the head butler was apologizing humbly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Did the family suspect me?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Adel",
+      "content": "Yes. The decision to interpret the orders broadly and put you in danger was entirely my own. The head of the household did not impose any conditions on bringing you in.",
+      "tone": "formal"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Why then? Did I do something to displease you?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Adel",
+      "content": "On the contrary. I have been serving Miss Amy since her birth, but this is the first time a man has been invited inside. Curiosity got the better of me, and I acted rudely without realizing it.",
+      "tone": "humble"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone deflated.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Had all this been a test to see what kind of person he was?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But he couldn't really blame Adel.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "To visit the main residence of a noble family, especially the Karmis, one must always make an appointment in advance.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Having worked at the Ogent family, Shirone knew how grave Adel's responsibilities were.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone nodded in understanding.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Adel",
+      "content": "Please reprimand my actions when we return to the mansion. I will accept any punishment. So, I beg of you, do not harbor any resentment.",
+      "tone": "humble"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone smiled, feeling a sense of relief.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He knew that he had passed the test, and that Adel's actions had been a test of his character.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone nodded, and Adel led him into the mansion.",
+      "tone": null
+    }
+  ],
+  "source_hash": "1dd687a6769db63b8a3feea0d594d7d4d9b7657dee63f0f01e44ceececc04772",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T15:53:42.286078+00:00"
+}

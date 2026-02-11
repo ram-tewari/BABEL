@@ -1,0 +1,572 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "Master of the Avatars (6)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "If you ignore me one more time, I'll blow everything up.",
+      "tone": "angry"
+    },
+    {
+      "type": "thought",
+      "speaker": "Bosun",
+      "content": "He realized the situation was far more serious than he had anticipated."
+    },
+    {
+      "type": "action",
+      "content": "If Shirone was willing to use magic against his own parents, he was clearly not in his right mind."
+    },
+    {
+      "type": "action",
+      "content": "Orkamp quietly sat down next to Eliza."
+    },
+    {
+      "type": "action",
+      "content": "It was humiliating to show such a sight to the nobles, but he had to prevent Kazra's destruction at any cost."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Orkamp",
+      "content": "Damn it. How hard did I work to build this country?",
+      "tone": "frustrated"
+    },
+    {
+      "type": "action",
+      "content": "With Orkamp being the last to kneel, Bosun, now naturally the representative, turned to Shirone and asked,"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bosun",
+      "content": "Now, tell us. What do you want to hear? If you have any demands, we'll do anything.",
+      "tone": "calm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Who ordered the assassination of my parents? Who was it?",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "content": "The nobles glanced at each other nervously, then fixed their gaze on one person."
+    },
+    {
+      "type": "action",
+      "content": "Without turning around, Bosun raised his hand, knowing who they were looking at."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bosun",
+      "content": "I gave the order. If you want revenge, take it out on me. But... how about ending it with me?",
+      "tone": "calm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Cut the crap. Do you think I'll forgive you?",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bosun",
+      "content": "You can't forgive us, I understand. But think rationally. No one has died yet. Even if you kill us, can you fight against Empress Teraje? Moreover, your loved ones are here too, aren't they?",
+      "tone": "calm"
+    },
+    {
+      "type": "action",
+      "content": "Bosun immediately exploited Shirone's weakness."
+    },
+    {
+      "type": "action",
+      "content": "Even while holding a bomb, Shirone was trying to uncover the mastermind behind his parents' assassination, indicating that they still had value as hostages."
+    },
+    {
+      "type": "action",
+      "content": "Thinking this might be his last chance, Bosun raised his hands and stood up, showing he had no intention of approaching."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bosun",
+      "content": "I'll comply with your wishes. Everyone involved in this assassination attempt, including myself, will face legal consequences. You can take your family and go home. I, Aimar Bosun, a certified 4th-level magician, guarantee it. So, how about resolving this through dialogue?",
+      "tone": "calm"
+    },
+    {
+      "type": "action",
+      "content": "Shirone's expression softened slightly."
+    },
+    {
+      "type": "action",
+      "content": "Even if he killed everyone here, it wouldn't ease his anger. But if he blew up the palace, his family and friends would disappear from the world."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Charge! Charge!",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "content": "A commotion was heard outside the grand hall. The garrison, having received the call, stormed in fully armed."
+    },
+    {
+      "type": "action",
+      "content": "But upon arrival, their determined expressions turned to shock."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Garrison",
+      "content": "What... what is this?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "content": "It was an unimaginable sight. The heart of the palace, the grand hall, was in ruins."
+    },
+    {
+      "type": "action",
+      "content": "What shocked them the most was that everyone, including Orkamp, was kneeling."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Orkamp",
+      "content": "Now!",
+      "tone": "urgent"
+    },
+    {
+      "type": "action",
+      "content": "As Shirone's gaze briefly shifted to the soldiers, Bosun cast teleportation."
+    },
+    {
+      "type": "action",
+      "content": "When he reached Shirone, he had already drawn a dagger from his sleeve."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "This is the last chance! I must stab his heart!"
+    },
+    {
+      "type": "action",
+      "content": "Shirone was shocked to see Bosun charging at him. But Bosun, having steeled himself, thrust the dagger without hesitation."
+    },
+    {
+      "type": "sfx",
+      "content": "With a squelching sound, the dagger pierced through Shirone's flesh."
+    },
+    {
+      "type": "action",
+      "content": "Bosun grimaced."
+    },
+    {
+      "type": "action",
+      "content": "He had expected Shirone to be in a groggy state, but his reaction was quicker than anticipated. The dagger, aimed at his heart, ended up in his side as Shirone twisted his body with all his might."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Damn it.",
+      "tone": "painful"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone couldn't analyze his current emotions."
+    },
+    {
+      "type": "action",
+      "content": "His rationality was gone, replaced by the ferocity of a beast. The foreign object invading his body brought not only pain but immense humiliation."
+    },
+    {
+      "type": "action",
+      "content": "Seeing Shirone's eyes, Bosun quickly cast Earth Skin."
+    },
+    {
+      "type": "action",
+      "content": "Soil rapidly covered his skin. The durability of Earth Skin, cast by a certified 4th-level plant magician, was as strong as rock."
+    },
+    {
+      "type": "sfx",
+      "content": "A photon cannon struck Earth Skin. Thousands of cracks appeared in the earthen wall, shattering it to pieces."
+    },
+    {
+      "type": "action",
+      "content": "Bosun's shocked face was revealed. Blood spurted from his mouth, indicating the impact had penetrated."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Aaaargh!",
+      "tone": "painful"
+    },
+    {
+      "type": "action",
+      "content": "Shirone clutched his abdomen, writhing in pain."
+    },
+    {
+      "type": "action",
+      "content": "Above his head, the photon cannon was growing at an incredible speed."
+    },
+    {
+      "type": "action",
+      "content": "Those watching the meter-wide photon turned pale."
+    },
+    {
+      "type": "action",
+      "content": "The size gained at the cost of compression was no longer that of a photon cannon. It was a gravity cannon, aimed at buildings rather than people."
+    },
+    {
+      "type": "action",
+      "content": "The grand hall was in complete chaos. The nobles screamed in terror, and the guards looked around helplessly."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Lady Reina!",
+      "tone": "urgent"
+    },
+    {
+      "type": "action",
+      "content": "Following the garrison, the attendants of the Ozant family stormed in, fully armed. But they too were stunned by the unexpected sight."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Subdue the nobles! Right now!",
+      "tone": "urgent"
+    },
+    {
+      "type": "action",
+      "content": "The continuous shocks shaking the grand hall meant the palace was on high alert. If they didn't subdue the nobles now, they would lose their escape route in a critical situation."
+    },
+    {
+      "type": "action",
+      "content": "The attendants approached the high-ranking nobles and held swords to their necks."
+    },
+    {
+      "type": "action",
+      "content": "As Reina had anticipated, forces from various departments under command began to pour in. High-ranking officers, not even fully dressed, came running."
+    },
+    {
+      "type": "action",
+      "content": "Screams, cries, shouts to kill Shirone, Reina's orders—all the sounds mingled into a cacophony, ultimately becoming meaningless noise. No one could convey any meaning to another; they were just shouting."
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "To Amy, it seemed as if they were laughing. She too began to laugh."
+    },
+    {
+      "type": "action",
+      "content": "Facing an overwhelming situation, her mind surprisingly calmed down."
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "If this is the end, it's truly a spectacular finale."
+    },
+    {
+      "type": "action",
+      "content": "Through the cacophony filling the grand hall, a gentle voice reached Shirone."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olina",
+      "content": "Shirone.",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "content": "Silence fell as if by magic."
+    },
+    {
+      "type": "action",
+      "content": "Everyone turned to look at the entrance of the grand hall. Olina, holding Vincent's arm, stood there with a stern face."
+    },
+    {
+      "type": "action",
+      "content": "Seeing Shirone covered in blood with a dagger in his side, Olina felt dizzy and staggered."
+    },
+    {
+      "type": "action",
+      "content": "Vincent supported her, but she pushed him away and walked into the grand hall alone."
+    },
+    {
+      "type": "action",
+      "content": "People made way for her. Her lips trembled as she approached Shirone."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eliza",
+      "content": "Don't go.",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "content": "Eliza's words made Olina stop."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eliza",
+      "content": "Shirone is mad. If you go, you'll die.",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "content": "Eliza didn't want Olina to approach Shirone."
+    },
+    {
+      "type": "action",
+      "content": "Shirone had tried to kill her. If a different outcome occurred with Olina, her pride in her bloodline wouldn't allow it."
+    },
+    {
+      "type": "thought",
+      "speaker": "Olina",
+      "content": "Sigh."
+    },
+    {
+      "type": "action",
+      "content": "Olina took a deep breath and turned directly towards Eliza. Seeing her dazed face, as if she had been bombed, made Olina's anger surge and her vision darken."
+    },
+    {
+      "type": "action",
+      "content": "Slap! Olina's palm struck Eliza's cheek."
+    },
+    {
+      "type": "action",
+      "content": "The nobles couldn't believe what had just happened. No parent would remain rational after seeing a dagger in their child's abdomen, but the person she had struck was none other than the queen of Kazra."
+    },
+    {
+      "type": "thought",
+      "speaker": "Eliza",
+      "content": "As she turned her slapped face, she saw Olina crying. That was strange too. Why was the person who slapped her crying instead of the one who got slapped?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eliza",
+      "content": "What have you done to my son?",
+      "tone": "painful"
+    },
+    {
+      "type": "action",
+      "content": "As the pain finally hit, Eliza's eyes filled with tears. It hurt so much."
+    },
+    {
+      "type": "action",
+      "content": "And it provided a convenient excuse not to answer Olina's question."
+    },
+    {
+      "type": "action",
+      "content": "Orkamp didn't reprimand Olina. No, he postponed it for another time."
+    },
+    {
+      "type": "action",
+      "content": "She had undoubtedly stopped Shirone's rampage. For now, they had to place their hopes on her."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Orkamp",
+      "content": "Stop Shirone immediately. The fate of Kazra depends on it...",
+      "tone": "urgent"
+    },
+    {
+      "type": "action",
+      "content": "Olina, trembling as if struck by lightning, turned to Orkamp with sparking eyes."
+    },
+    {
+      "type": "action",
+      "content": "Orkamp flinched, expecting another slap. But the king's authority remained intact."
+    },
+    {
+      "type": "action",
+      "content": "When he opened his eyes, Olina was gripping her wrist, trembling. Then she coldly turned and walked back to Shirone."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olina",
+      "content": "Shirone.",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "content": "Shirone didn't respond."
+    },
+    {
+      "type": "action",
+      "content": "Seeing Olina's face, he felt like a child who had done something wrong."
+    },
+    {
+      "type": "action",
+      "content": "He had caused an irreparable disaster. The fear of disappointing his parents was an instinctive fear of any child."
+    },
+    {
+      "type": "action",
+      "content": "As a child, he had seen Olina's stern gaze a few times. But today, she wore the kindest smile."
+    },
+    {
+      "type": "action",
+      "content": "That made Shirone's heart ache even more. He didn't know why."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olina",
+      "content": "Shirone, do you know how adorable you were as a child? Your smile was as cute as a little girl's. Every time you smiled, your father would make a silly face. Then you'd laugh even more.",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "content": "Olina reminisced about the past."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olina",
+      "content": "You were such a gentle child. Even when you were angry, you couldn't express it or hurt others. When your friends got mad, you'd come home and brood over it.",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "content": "Olina's eyes grew misty. Yes, those were the days."
+    },
+    {
+      "type": "action",
+      "content": "But time had flown by. The baby who came as a blessing had grown into a young man."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olina",
+      "content": "But I wasn't worried. Understanding others' feelings is a noble trait. I'm so happy you grew up kind.",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "content": "Olina gently caressed Shirone's cheeks. Her handsome son looked so weary today."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olina",
+      "content": "You're so gentle and kind that you don't know how to be angry. Even when you're furious, you can't hurt others, so you end up hurting yourself.",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "content": "Olina softly embraced Shirone."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olina",
+      "content": "Seeing you so badly hurt, it seems our son was really angry today.",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "content": "Shirone's vision blurred."
+    },
+    {
+      "type": "action",
+      "content": "Different from the tears of blood he had shed before, clear, salty tears flowed down."
+    },
+    {
+      "type": "action",
+      "content": "His eyes ached dully. It felt like the poison that had risen to his throat was draining away. His chest was so tight he could hardly breathe. All his emotions converged in his eyes, squeezing out words."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Mom...",
+      "tone": "desperate"
+    },
+    {
+      "type": "action",
+      "content": "Tears welled up in Olina's eyes as she hugged Shirone's face and patted his back."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olina",
+      "content": "Yes, my son. Let's go home. I'll take you home. Don't worry about anything, let's go.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Mom... Mom...",
+      "tone": "desperate"
+    },
+    {
+      "type": "action",
+      "content": "Overwhelmed with sorrow, Shirone gasped for breath and said, They tried to kill you, Mom. Those people... they tried..."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olina",
+      "content": "It's okay, Shirone. You protected me. I'm not afraid at all. For you, I'm not afraid to die.",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "content": "Holding Shirone's arms like a child, Olina smiled beautifully."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olina",
+      "content": "Shirone, children are their parents' future. That's why I can do anything for you.",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "content": "The immense anger that had dominated Shirone began to sink rapidly, like a collapsing building."
+    },
+    {
+      "type": "action",
+      "content": "The aura of hatred descended through the stages, from the 10th to the 9th, and then to the 8th."
+    },
+    {
+      "type": "action",
+      "content": "The sealing formation in the deepest level of his mind was restored."
+    },
+    {
+      "type": "action",
+      "content": "Shirone's avatar, illuminated by a bright light, emerged from the archangel's statue."
+    },
+    {
+      "type": "action",
+      "content": "Behemoth was expelled and returned to the sealing formation. As the pillar of light disappeared, Goffin's security device was deactivated."
+    },
+    {
+      "type": "action",
+      "content": "Shirone returned to his pure self."
+    },
+    {
+      "type": "action",
+      "content": "His physical body experienced a sudden backlash. Before he could even feel the pain, he lost consciousness. As his eyes closed, the Spirit Zone dissipated, and Ataraxia vanished."
+    },
+    {
+      "type": "action",
+      "content": "Olina sat down with her collapsing son."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olina",
+      "content": "Please, save my son. I beg you.",
+      "tone": "desperate"
+    },
+    {
+      "type": "action",
+      "content": "No one in Kazra stepped forward. But Amy and Reina moved quickly."
+    },
+    {
+      "type": "action",
+      "content": "First, they confirmed that Shirone was still breathing. He might be brain-dead, but the immediate concern was the bleeding. Without a transfusion, he wouldn't last an hour."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Amy, I'll take Shirone. You go ahead with the attendants and help prepare for surgery. We need to start the transfusion, so take his mother with you to inform the doctor of his blood type.",
+      "tone": "concerned"
+    }
+  ],
+  "source_hash": "16a508cf01ab8c2e6933224d55bbb2c374e8225517403766b2f66a8e02904a60",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T03:53:03.528209Z"
+}

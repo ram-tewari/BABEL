@@ -1,0 +1,877 @@
+{
+  "blocks": [
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "So you can't accept me?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Uorin scratched her cheek with an apologetic expression.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "I'd like to help, but there are many daughters of Teraje in numerous kingdoms who are my rivals.",
+      "tone": "cautious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "I am particularly young and do not want to stand out yet.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "And Kazra isn't exactly a strong foundation either.",
+      "tone": "cautious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "There's no need to draw attention and become a target for my older sisters, right?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Fourteen years old. That was the age of the girl sitting in front of him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "'You're really something, Uorin.'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He also realized anew how ridiculous his own behavior had been a few days ago.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even now that he understood the reality of the royal palace, it was chilling.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What kind of guts did he have before to try to deal with a woman like this?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Fine. If there's no room for negotiation, I'll leave. I need to find Amy.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Shirone stood up as if there was no need to listen further.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If his assumption was wrong, everything would spiral into the worst-case scenario, but there was nothing he could do.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Because there are no fools in the royal palace who miss the time to act no matter how great the danger.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "I wish you luck.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Hearing Uorin's parting words made his heart drop.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But he walked towards the door without showing it.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He must not show hesitation or fear. He had to truly let go of everything and leave this room.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Ataraxia is not needed. Is that really so?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Perhaps to Uorin, it didn't matter much.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But even if it was just a sliver of gain, people always found it hard to give away even the smallest advantage to someone else.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone walked, holding on to a small hope as if it were his lifeline.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even as his hand reached for the doorknob and began to turn it, Uorin did not respond.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The door opened, and Shirone clenched his eyes shut.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "This was the end of everything.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "But if perhaps...",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's steps came to an abrupt halt.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "If I were to make the maximum concession... that is, if we consider it as borrowing against Oppa's future...",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone slowly turned to look back at Uorin.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You could earn at least an opportunity to negotiate with the daughter of Teraje.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "An opportunity to negotiate?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even if he pledged Ataraxia as collateral, all he would gain was the chance to sit at the negotiation table.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes. A negotiation. I can't just help you for nothing.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Like I said earlier, I don't want to put myself in a dangerous position unnecessarily.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "There's one condition. It shouldn't be a particularly difficult condition, but anyway, if you agree to this condition, I'll be on your side.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone raised his chin as if to say, 'Go ahead, tell me'.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Tonight, spend the night with me.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Wha- What?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was absurd for a condition put forward at the end of such an intense psychological battle.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "What reason could there be for him to spend the night with her?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Don't worry. I didn't mean it that way. Just stay with me tonight.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Well... if you happen to have other ideas, I don't mind if you try.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What on earth are you saying? You're my half-sister.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Well, that's something we'll only know after the paternity test is done.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "And honestly, it doesn't matter.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Same-sex marriage is common for royalty who bring a whole kingdom as a dowry.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Why on earth? What does that condition have to do with helping me?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "The daughters of Teraje Family have always been the ones to ascend to the emperor's throne.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It might sound strange, but for us, men are merely tools to be consumed according to their use.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "That's why a daughter of Teraje doesn't keep a man who has another woman in his heart by her side.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If Oppa is thinking of Amy, then I cannot accept you either.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I understand what you're saying. But I don't have Amy in my heart.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "I think Zion Oppa is interested in her.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Something hot welled up in Shirone's chest.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Of course, if she rejects him, nothing will happen.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Despite how he seems, Oppa has too much pride to force himself on a woman who turns him down.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Well then, let's do this. I just want to confirm your feelings.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "From this moment on, I'll guarantee the safety of Amy and everyone else.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "I could send people right now and give the order.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "All you need to do is spend the night with me.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone didn't know what kind of threat Amy was under that made her follow Zion, but if he accepted Uorin's offer, Amy could be saved.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Zion… Where did he take Amy?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "I can't reveal that yet, not until you've made your decision.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "It's very simple. You just need to trust me.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Show me that I take precedence over that woman.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "A trembling that started at his fingertips spread throughout his body.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Why are you hesitating? I'm Uorin of Teraje.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Not only do I not lie, but isn't this proposal what you wanted?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "If you can prove that you don't have feelings for another woman, I'll support you wholeheartedly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "I'll spare no resources to help you grow your abilities, and when I become empress, you could become the greatest mage in the world.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "It was truly a dream-like story for Shirone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "And she had the ability to turn that dream into reality.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even archmages are writing resumes wanting to work under Uorin.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Such a huge opportunity was lying right before his eyes.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Lost in thought, Shirone finally made his decision.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'm going to Amy. I won't be accepting your proposal.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Uorin sighed, as though frustrated.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Are you throwing away the incredible opportunity to form a connection with Teraje?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "No, more than that, you could protect the family you hold so dear.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "And yet, you're willing to throw it all away over a woman?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "That's right. That's what I intend to do.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Uorin closed her mouth as if shocked.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "But Uorin, for humans, that's everything.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The only world that exists is the one we see and feel.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Even if you truly save Amy, if I can't see it for myself, then it's just an unrealized world.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "I can't leave Amy in visible danger while trusting in some invisible safety.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "That's why I have to go to Amy.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sadness briefly flickered in Uorin's eyes.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "You make life so hard for yourself.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It would be easy if you just made a choice.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Shirone smiled bitterly.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He often thought the same thing himself.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "But that's precisely the shackle of intellect. Once you know something, you can't act as if you don't.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "I understand how great this opportunity was.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I also know how much you, the heir to the emperor, conceded to help me.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "I'm not doubting you at all.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "But I have to go.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Uorin walked up to Shirone and hugged him, burying her face against his chest.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "You're such a fool, Oppa.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "I'm sorry I couldn't do anything for you.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Personally, I really liked you.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "I hope good fortune follows your future.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Then, stepping back a couple of steps, she revealed the information Shirone wanted to know.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Go to the gallery. It's the only place where you can avoid people's eyes.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "It's also the place Oppa takes women when he wants to seduce them.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "As he readied himself to leave, Uorin pulled something out of her pocket.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Wait a moment. Take this.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Shirone caught the small object Uorin threw.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He opened his hand to find a glowing red orb.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "This is...?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It's the price for El Crouch's porcelain doll.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "It should be worth at least 100 million.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "No, I really meant for that to be a gift...",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "But reason and emotion are separate matters.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Now that negotiations have broken down, I can't be indebted to you, can I?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Alright. I'll use it well when I graduate later.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone put the orb in his pocket and walked to the door.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Then he suddenly stopped and looked back at Uorin.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Thinking about it, he had received a lot of help from her.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At the dinner table, she had upheld his parents' dignity and supported his claim to attend magic academy.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "In the gallery, she had introduced him to the Objet, and at the Colosseum, she had helped him understand the true nature of the royal palace.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "And now, as payment for the porcelain doll, she had provided him with escape funds.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "In a situation where he was being pursued by the royal palace, 100 million gold would be of great help.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Thank you, for everything, from the beginning to now.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Thinking about it, if it weren't for you, I wouldn't have made it this far.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Huhu, even in hell, there's water to drink.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Uorin answered with Kazra's proverb.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Haha! That makes sense.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Realizing the situation he was in, Shirone let out a hollow laugh as he left Zion's room.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Phew.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Once the door closed, Uorin let out a deep breath.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then, putting her hands behind her back, which she usually didn't do, she paced around the room.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Arian Shirone...",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Stopping her steps, she quickly looked back at the door.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Her eyes, now filled with a cold smile, gleamed with madness, like a child standing before the best toy they had ever seen.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She burst into laughter and cheerfully returned to her seat, plopping down in the chair.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Of what Uorin had just told Shirone, less than 10 percent was true.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Everything was a lie.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "She had no intention of putting Shirone to good use, nor of guaranteeing Amy's safety.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It wasn't true that Zion had strong pride either.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Rather, he was a person who would eliminate any woman he set his sights on by any means necessary.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Had Shirone stayed with her this night, his life would have been completely ruined.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Humans don't have the sense to trust others.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Isn't that right, Cleo?",
+      "tone": null
+    }
+  ],
+  "source_hash": "a8fea32bcf408e95e75d92146220a75c08eb3b2e4cc1f938dbb724ad8b6b41a9",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T18:21:07.090222+00:00"
+}

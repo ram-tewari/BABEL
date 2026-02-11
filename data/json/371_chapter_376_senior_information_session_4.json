@@ -1,0 +1,539 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "As soon as Collie left the conference room, everyone stood up."
+    },
+    {
+      "type": "action",
+      "content": "The door closed, and they looked at each other, but no one spoke."
+    },
+    {
+      "type": "action",
+      "content": "The moment they realized the senior class rules, the competition began."
+    },
+    {
+      "type": "action",
+      "content": "After a while, Dante's group was the first to leave, followed by Boyle, Pandora, Arin, and Canis."
+    },
+    {
+      "type": "action",
+      "content": "Coincidentally, Shirone's group, who remained until the end, didn't feel the need to leave the conference room."
+    },
+    {
+      "type": "action",
+      "content": "Shirone, whose legs had given out, collapsed into a chair."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "This is really bad. I never imagined it would be this tough.",
+      "tone": "frustrated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Yeah. I can't do anything but the evaluations. How are we supposed to lead the study group in this state?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "We don't have anything to do anyway, right?",
+      "tone": "nonchalant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "They said we have the right to give up the evaluations. No one will give up. No one entered the senior class thinking they would get low scores.",
+      "tone": "resolute"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "But if you focus too much on the scores, there's a risk of exposing your abilities. Then, you'll be targeted or eliminated in the graduation exam.",
+      "tone": "cautious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "A clear example is Amy. Until the last 30th week, she was ranked 5th in the senior class, but she was eliminated early in the exam due to concentrated targeting.",
+      "tone": "analytical"
+    },
+    {
+      "type": "narrator",
+      "content": "Regardless of whether Fermi colluded, the fact that students were easily swayed was influenced by her being the top graduation candidate."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Hmm, so it's about whether to focus on evaluation scores or the graduation exam. The process or the result. We need to judge that well.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "If scouts check the evaluation scores, I want to do my best. But if I don't pass the graduation exam, it won't mean anything.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "The psychological warfare with other students will be no joke either.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "content": "Shirone propped his chin and twisted his lips."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Still, I think it's good to be in the top 10. I don't want to enter the exam room with low confidence.",
+      "tone": "cautious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Interpersonal combat has the lowest score but the highest differentiation. It's important not to lose points.",
+      "tone": "analytical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Tactical strategy requires careful observation. If your rank is low, you'll be in a lower group. A maximum of 5 points difference. If you think about that accumulating over 30 weeks, it's depressing.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "You can adjust your rank to some extent through specialty enhancement. But it's dangerous to go too far ahead from the beginning. It's best to match your pace with the other students' scores.",
+      "tone": "cautious"
+    },
+    {
+      "type": "action",
+      "content": "After combining everyone's opinions, a rough outline was formed. It was a year-long journey, and they needed to decide their steps carefully."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Let's wait until the interview tomorrow. Let's think after seeing the interpersonal combat schedule and the specialty enhancement items.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "content": "The senior class students were called one by one by Collie for individual interviews."
+    },
+    {
+      "type": "action",
+      "content": "Shirone's rank in the senior class was 23rd, so he was called 23rd according to the order."
+    },
+    {
+      "type": "action",
+      "content": "The main purpose of the individual interview was to evaluate the students' character and attitude towards their studies, but no matter how it was phrased, the goal was to register their major."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "Nice to meet you, Shirone.",
+      "tone": "friendly"
+    },
+    {
+      "type": "action",
+      "content": "Collie extended his hand for a handshake. Unlike the previous day's orientation, he had his usual kind demeanor."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes. I look forward to working with you.",
+      "tone": "polite"
+    },
+    {
+      "type": "action",
+      "content": "As they sat down with the table between them, Collie adjusted his glasses while looking at the documents."
+    },
+    {
+      "type": "action",
+      "content": "Collie took out the next document."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "First, take this. It's your interpersonal combat schedule, Shirone.",
+      "tone": "professional"
+    },
+    {
+      "type": "action",
+      "content": "Shirone's hand trembled as he held the document. It felt like he had obtained a confidential document that no one should know about."
+    },
+    {
+      "type": "action",
+      "content": "The document listed the opponents and dates for the interpersonal combat events. The first opponent was Dorothy."
+    },
+    {
+      "type": "action",
+      "content": "At least in terms of combat power, he didn't seem to be at a disadvantage. But as Flu advised, there was no need to imagine the opponent arbitrarily."
+    },
+    {
+      "type": "action",
+      "content": "Next, he checked his friends' schedules."
+    },
+    {
+      "type": "action",
+      "content": "Iruki, Nade, and Amy were all assigned to the second half of the schedule, which resumed after the vacation."
+    },
+    {
+      "type": "action",
+      "content": "Hmm, competing against friends is also a variable.'"
+    },
+    {
+      "type": "action",
+      "content": "Personally, he wanted to do his best regardless of the opponent."
+    },
+    {
+      "type": "action",
+      "content": "But if other participants formed factions and shared points, Shirone would have to think differently."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "Now, we need to register your major...",
+      "tone": "professional"
+    },
+    {
+      "type": "action",
+      "content": "The trailing off of his words indicated some understanding of the situation."
+    },
+    {
+      "type": "narrator",
+      "content": "While the Red Line database had evaluation items for Unlocker, Shirone's specialty was unique."
+    },
+    {
+      "type": "narrator",
+      "content": "The divine particle that grants mass."
+    },
+    {
+      "type": "narrator",
+      "content": "The magic implemented through it was unlike any other magic in the world."
+    },
+    {
+      "type": "narrator",
+      "content": "In other words, there was no standard for evaluation."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "After the senior class promotion test, the school sent an official letter to the Red Line. It seemed necessary to have a separate evaluation format. But this is also a bit ambiguous. In other words, your major is something that only you can learn in the world.",
+      "tone": "professional"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes, I understand.",
+      "tone": "polite"
+    },
+    {
+      "type": "narrator",
+      "content": "If evaluating Ataraxia, what level would be considered master difficulty? Photon Cannon? Radiant Burst? Radiant Wings?"
+    },
+    {
+      "type": "narrator",
+      "content": "Moreover, the school didn't even know that he had developed the Radiant Wings magic."
+    },
+    {
+      "type": "narrator",
+      "content": "And probably, all these situations wouldn't work to his advantage."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "So, the association seems to have taken a fundamental approach. That is, they will only measure the phenomena created by the combination of light and mass. Read it over and give me your opinion.",
+      "tone": "professional"
+    },
+    {
+      "type": "action",
+      "content": "Shirone examined the evaluation sheet he received. There were 20 items related to the divine particle listed."
+    },
+    {
+      "type": "action",
+      "content": "There were fifteen active magic items and five passive magic items. The active ones were mainly attack and defense, while the passive ones were mainly movement."
+    },
+    {
+      "type": "action",
+      "content": "As Shirone read through the items, his expression hardened."
+    },
+    {
+      "type": "action",
+      "content": "It didn't take long for his face to become completely contorted."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "They want me to do this?",
+      "tone": "frustrated"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "It was too difficult.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "content": "Of course, he could easily score 3 or 4 points on each item, and there were items where he could score more than 7 points at the advanced level."
+    },
+    {
+      "type": "action",
+      "content": "But the master level, which was the 10th stage, was a figure he couldn't reach at his current level."
+    },
+    {
+      "type": "action",
+      "content": "Shirone's gaze moved to the bottom of the form, where the notes were written."
+    },
+    {
+      "type": "action",
+      "content": "All items are measured with the divine particle applied."
+    },
+    {
+      "type": "action",
+      "content": "In the case of attack magic, only those with an impact of 20 crashes or more are recognized for evaluation."
+    },
+    {
+      "type": "action",
+      "content": "20 crashes was about the average impact of the Photon Cannon he had used in actual combat."
+    },
+    {
+      "type": "action",
+      "content": "In the end, even if he applied the divine particle, if he reduced the mass significantly, he wouldn't meet the evaluation criteria."
+    },
+    {
+      "type": "sfx",
+      "content": "Whoo."
+    },
+    {
+      "type": "action",
+      "content": "Shirone returned to the first item."
+    },
+    {
+      "type": "action",
+      "content": "The first item was the firing speed measurement, and the difficulty for just 1 point was 60 rounds per minute."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "60 rounds per minute with 20 crash power?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Of course, Shirone could achieve that now. But that didn't mean it was easy.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "content": "When he fought the Ice Queen in the ancient ruins, he showed a firing speed of about 120 rounds per minute."
+    },
+    {
+      "type": "action",
+      "content": "The problem was that it was the result of his best effort."
+    },
+    {
+      "type": "action",
+      "content": "The master level standard was 200 rounds per minute."
+    },
+    {
+      "type": "action",
+      "content": "To get 10 points, he had to cast attack magic more than three times per second and maintain that state for a minute."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone squinted one eye and scratched his head.",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "content": "Collie, understanding his feelings, waited with his hands clasped until he sorted out his thoughts."
+    },
+    {
+      "type": "action",
+      "content": "The second item's projectile speed was no different."
+    },
+    {
+      "type": "action",
+      "content": "The master level was 140 meters per second. Roughly twice the speed of the current Photon Cannon."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "What is this? Why did they set it like this?",
+      "tone": "frustrated"
+    },
+    {
+      "type": "narrator",
+      "content": "According to Amy's evaluation sheet, even fire magic wasn't this difficult."
+    },
+    {
+      "type": "narrator",
+      "content": "The caloric item was naturally difficult as it was the core element of fire, but the other items were at a human level based on the average student level."
+    },
+    {
+      "type": "narrator",
+      "content": "In contrast, the divine particle was too harsh."
+    },
+    {
+      "type": "narrator",
+      "content": "It was practically saying not to graduate from magic school this year."
+    },
+    {
+      "type": "action",
+      "content": "Even the 'luminance' item in the passive category was the same."
+    },
+    {
+      "type": "action",
+      "content": "The master level was a whopping 500,000 lumens."
+    },
+    {
+      "type": "action",
+      "content": "It was a figure that could never be reached with ordinary Shining magic."
+    },
+    {
+      "type": "action",
+      "content": "But the association judged that it was possible if he handled the divine particle."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He had raised the luminance to 300,000 lumens with the Shining Impact magic.",
+      "tone": "proud"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "But 500,000 lumens... the association people were greatly mistaken.",
+      "tone": "angry"
+    },
+    {
+      "type": "narrator",
+      "content": "500,000 lumens was not an auxiliary magic but an attack magic."
+    },
+    {
+      "type": "narrator",
+      "content": "If you didn't cover your eyes with your hands, it was strong enough to cause fatal damage to the retina through the eyelids."
+    },
+    {
+      "type": "action",
+      "content": "Shirone pointed to the evaluation sheet and looked at Collie."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Um, this is...",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "Yes, these are the specialty enhancement evaluation items proposed by the association. The difficulty is higher than you expected, right?",
+      "tone": "professional"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's not just high. Even if the senior class is semi-professional, this is a bit...",
+      "tone": "frustrated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "Shirone, I think you are an excellent student. But... when it comes to your specialty, we can't know how excellent you are compared to others. Because there's no comparison.",
+      "tone": "professional"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "From the association's perspective, setting a high difficulty isn't particularly risky. It's just unfair to you. On the other hand, lowering the difficulty requires caution. If the difficulty is lowered and you pass too easily, it could directly affect the fairness of all magic schools under the Red Line.",
+      "tone": "professional"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "But isn't it also unfair if only my difficulty is high?",
+      "tone": "frustrated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "Yes. The association is conservative. I am conservative too. In your words, you might call us old-fashioned.",
+      "tone": "professional"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No, I didn't mean to criticize...",
+      "tone": "apologetic"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "That's the first assumption.",
+      "tone": "professional"
+    },
+    {
+      "type": "action",
+      "content": "When Collie stopped speaking, Shirone immediately closed his mouth."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "Now, I'll tell you the second assumption. Perhaps, the evaluation sheet you're looking at is the correct standard.",
+      "tone": "professional"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "The correct... standard?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "Specialty enhancement isn't about how strong you are compared to others. It's about the level of the major. For example, fire magic is more difficult than air magic. Anyone can access air, but not everyone can access fire. The difference in affinity leads to a difference in omnipotence, and omnipotence is closely related to talent. Therefore, the specialty evaluation for fire magic is harder than for air magic because it attracts more talented individuals. Do you think this is unfair?",
+      "tone": "professional"
+    },
+    {
+      "type": "action",
+      "content": "Shirone did not answer."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "Shirone, society isn't that lenient. If the association posted a notice urgently seeking one fire magician, dozens of fire magicians would gather, and the most skilled one would be selected. But none of the rejected candidates would complain that they are stronger than magicians of other disciplines. That's the world we live in.",
+      "tone": "professional"
+    },
+    {
+      "type": "action",
+      "content": "Shirone swallowed hard."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "The fact that your difficulty is higher than others isn't a problem. Your specialty is different from the start. You have a powerful specialty that others can't imitate. Therefore, the association is saying this: if you can give mass to light, you should at least be able to achieve this level to be considered a professional.",
+      "tone": "professional"
+    },
+    {
+      "type": "action",
+      "content": "Collie folded his hands on the table."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "Now, the choice is yours. As the head teacher, I presented two assumptions about the evaluation sheet. One is that the association is conservative and full of old-fashioned people, and the other is that the association's judgment is accurate. The decision is yours. If you choose the former, you can register a different major. If you choose the latter, you accept this.",
+      "tone": "professional"
+    }
+  ],
+  "source_hash": "a9e1f2811c34f2a546eef11edbe398f92002368d898f36a184a8b8085e0e5520",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T05:27:01.403288Z"
+}

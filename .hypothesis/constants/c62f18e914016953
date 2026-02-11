@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\google\generativeai\types\content_types.py
+# hypothesis_version: 6.148.8
+
+['$defs', '$ref', 'BlobDict', 'BlobType', 'ContentDict', 'ContentType', 'ContentsType', 'FunctionDeclaration', 'FunctionLibrary', 'FunctionLibraryType', 'PartDict', 'PartType', 'StrictContentType', 'Tool', 'ToolDict', 'ToolsType', 'ValueType', 'additionalProperties', 'any', 'anyOf', 'auto', 'code_execution', 'data', 'defs/', 'dummy', 'dynamic', 'file_data', 'format', 'format_', 'function', 'function_call', 'function_response', 'image/unknown', 'image/webp', 'inline_data', 'items', 'mime_type', 'mode', 'mode_any', 'mode_auto', 'mode_dynamic', 'mode_none', 'mode_unspecified', 'none', 'null', 'nullable', 'object', 'parameters', 'parts', 'properties', 'required', 'result', 'text', 'title', 'type', 'type_', 'unspecified', 'webp']

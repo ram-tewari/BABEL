@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\PycharmProjects\BABEL\babel\render\renderer.py
+# hypothesis_version: 6.148.8
+
+['*.json', '.', '.html', '.json', 'blocks', 'chapter.html', 'color', 'content', 'errors', 'failed', 'html', 'json_invalid', 'lane', 'loc', 'metadata', 'model_version', 'msg', 'navigation', 'next', 'prev', 'processed_at', 'rendered', 'skipped', 'source_hash', 'speaker', 'templates', 'title', 'tone', 'type', 'utf-8', 'xml']

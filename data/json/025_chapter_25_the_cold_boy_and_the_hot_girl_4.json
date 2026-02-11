@@ -1,0 +1,1291 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Jake felt his blood boil.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Jake",
+      "content": "His hours of effort to meet Amy had been met with humiliation.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jake",
+      "content": "You little...! Ugh!",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Jake clenched his teeth and recoiled.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Amy had already entered her Spirit Zone. Likely a cross-shaped targeting type.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "You little what? All talk and no action, huh? If you're so angry, come at me. I'll burn you to a crisp right now.",
+      "tone": "taunting"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Jake gritted his teeth.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "His assumption that she was just a studious model student had been a mistake.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Using magic at this hour is against the rules.",
+      "tone": "firm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jake",
+      "content": "You were the one who used magic first, weren't you? When you were warming up that civet coffee or whatever.",
+      "tone": "defensive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Crazy! You think that's the same as a cross-shaped spell...!",
+      "tone": "incredulous"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Haha!",
+      "tone": "amused"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Amy couldn't help but laugh. He was just a petty coward like this.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Do you know why I accepted Shirone's coffee? Because he seems like the type to take responsibility for his actions. Unlike you, blabbering about family and rules, he does what he can. If you don't disappear right now, I'll burn you to ashes. There won't even be a trace left.",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Jake was certain. It wasn't a bluff.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The rumors about the Carmis family's Crimson Eyes were true. Her large pupils were glowing red.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jake",
+      "content": "If you kill me...",
+      "tone": "desperate"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "I don't care. I take responsibility for my actions too.",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Jake gritted his teeth so hard they might break.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "This was the first time he'd felt such intense humiliation.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But even Jake, the notorious troublemaker, had no choice but to retreat under the pressure of the Crimson Eyes' intimidation.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jake",
+      "content": "We'll see, you arrogant brat!",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Jake gnashed his teeth and stormed out of the library.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Only after he disappeared from view did the glow in Amy's Crimson Eyes fade.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Staggering slightly, she rubbed her eyes and muttered.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Annoying. Disgusting.",
+      "tone": "irritated"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "She'd wasted her time on a worthless human when she'd planned to rest.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "That fact irritated her unbearably.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Because once time passed, it couldn't be reclaimed.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Why were the men who clung to her all like this? She wondered if there was something wrong with her personality.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A soft laugh escaped Amy's lips.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Well, there are plenty of problems.",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Suddenly, she felt sorry for Shirone.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "***",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone, freed from his servitude to Amy, was happy every day.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "There's a saying: 'You don't know what you've got till it's gone.'",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Realizing how precious the hour taken by Amy had been made studying even more enjoyable.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Though he endured stares for causing a scandal with the school's most arrogant girl, no one paid him any mind in the library.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "This academic fervor was what made Alpheas Magic School prestigious.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Today, too, Shirone hummed a tune as he headed to the library after class.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then, near the faculty quarters, he spotted a familiar face.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Seriel, Amy's friend.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She was pacing restlessly, perhaps needing the bathroom urgently, so Shirone changed his direction.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "They had exchanged greetings during integrated classes, but he personally liked her.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Unlike Amy, who growled at him, Seriel always offered words of encouragement.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Noticing Shirone approaching, Seriel's eyes widened.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then, as if seeing a ghost, she gaped before suddenly sprinting toward him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Senior, hello...",
+      "tone": "nervous"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hey! What are you doing?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Seriel grabbed Shirone by the collar and shook him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Why are you here? If I'd known, I wouldn't have let Amy go!",
+      "tone": "frantic"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What's going on? You have to tell me for me to know.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Seriel thrust out a crumpled paper.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone took it silently and unfolded it.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was a short warning from a sender called the Black Magicians.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "*** 30 minutes earlier.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A man blocked Amy and Seriel's path to the library.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "A Class Five student, a repeater over 23 years old.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The man",
+      "content": "Hello, Senior. Still soaring high, I see.",
+      "tone": "smarmy"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "I'm busy. Move. I have nothing to say to you.",
+      "tone": "disdainful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The man",
+      "content": "Aw, don't be like that. We were classmates once. Spare me a moment.",
+      "tone": "persistent"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Was I your only classmate? Hundreds have passed through Class Five. Go bother someone else.",
+      "tone": "dismissive"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Though she addressed him formally out of respect for his age, she didn't hide the disdain in her voice.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The man",
+      "content": "Haha! Still as rude as ever, Amy.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "What? What did you just say?",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy's eyes filled with venom.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The man",
+      "content": "Hehe, I've got a bone to pick with you. If you'd just taken it, I could've had the honor of your first kiss.",
+      "tone": "lecherous"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Enough of your disgusting talk. Where's Shirone?",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The man handed her a note calmly.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The note read: 'We have Shirone. Come to Training Ground 14 by 6 p.m. before we make him less of a man.'",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "So what? Shirone means nothing to me. Even if he did, you think I'd obey you?",
+      "tone": "defiant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The man",
+      "content": "Hehe, that's up to you. I'm just the messenger.",
+      "tone": "nonchalant"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The man, having completed his mission, smirked and sauntered away.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Furious, Amy threw the note to the ground.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Seriel picked it up, read it, and trembled.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Black Magicians. Though their true nature remained unknown, rumors about this delinquent circle were rampant among students.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Amy, what do we do? These guys are real scum. They say Tyra dropped out last month because of them.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Tyra?",
+      "tone": "curious"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Tyra, a Class Four classmate, wasn't graduating-class material but was a solid mid-tier performer.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Tyra wasn't graduating-class material but was a solid mid-tier performer. If they'd threatened her, they must have either ganged up on her or used underhanded tactics.",
+      "tone": "informative"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "I'll go. Whatever the case, Shirone was caught because of me.",
+      "tone": "resolute"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Let's tell a teacher instead. I'm worried about Shirone, but you could be in danger too.",
+      "tone": "cautious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "A teacher? Hmm...",
+      "tone": "hesitant"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Amy hesitated. Her past was one thing, but Shirone had a secret about his origins that couldn't be revealed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "I'll go first. If I'm not back by 7, report it to a teacher then.",
+      "tone": "firm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "What are you saying? We should tell them now!",
+      "tone": "frustrated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Sorry. There's a reason I couldn't. I'll explain when I get back, okay?",
+      "tone": "apologetic"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Seriel was flustered.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Amy, always so confident, had never made such a request before.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Then let's go together. Who knows how many of them there are?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "You need to stay behind in case things go wrong. Don't worry. The leader's probably Jake. With his skills, he can't do anything to me.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Seriel knew better than anyone how talented Amy was.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Fine. Exactly one hour. If you're not back by 7, I'm telling a teacher no matter what.",
+      "tone": "firm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Okay. Then I'm counting on you.",
+      "tone": "grateful"
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "***",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Hearing the details from Seriel, Shirone was stunned.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Not only was there a delinquent circle called the Black Magicians, but Amy had risked herself for him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "So she went because of me? What am I doing here then?",
+      "tone": "self-reproachful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone understood.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The one-hour grace period showed her confidence in handling it herself.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone ran toward Training Ground 14.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Though 30 minutes remained until the deadline, distance was the issue.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Training Ground 14, for live combat, was deep in the mountains.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Suddenly, the scenery blurred as buildings rushed past.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Turning his head, he found Seriel hugging his waist.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Running won't get you there in time! I'm coming too.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was the short-distance teleportation spell essential for mages.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Though banned on campus due to collision risks, this was no time for rules.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Students looked up at the popping sounds as Seriel, holding Shirone, blinked away toward the mountains in 10-meter intervals.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Reaching the mountain's base, the two began climbing on foot.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Teleporting in the mountains was too dangerous, risking their lives.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They arrived at Training Ground 14 before 6.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But Amy was nowhere to be seen. No sign of the Black Magicians, either.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Amy! Amy! What's going on? Why isn't she here?",
+      "tone": "worried"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Maybe they took her elsewhere? The note exposed the location, so they might've anticipated us reporting to a teacher. We might've been tricked.",
+      "tone": "analytical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Then what about Amy?",
+      "tone": "concerned"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Realizing the Black Magicians' cunning, Shirone was certain.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "They truly intended to cause harm.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Go down the mountain and tell a teacher now. You'll get there much faster without me.",
+      "tone": "firm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Amy said to wait until 7 no matter what! She said there was a reason. What if she's disappointed later?",
+      "tone": "hesitant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "That reason is me, so go! I said it's fine, so don't worry!",
+      "tone": "reassuring"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Seriel stared blankly.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Amy's desperate expression had been because of Shirone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Really? What's going on between you two? Are you secretly dating?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Is this the time for that? It could get dangerous if we're late!",
+      "tone": "impatient"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Ugh, fine! You stay put too!",
+      "tone": "frustrated"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Seriel turned and hurried back the way she came.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If Amy wouldn't be harmed, there was no reason not to report it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone ventured into the mountains, searching for Amy.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Unlike other nobles, he'd spent half his life in the mountains, so the dense forest felt familiar.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Expanding his Spirit Zone to its limits, he searched for traces of Amy.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "After 10 minutes of climbing, his senses picked up the first footprint.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Here!",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But there were no further traces.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The flattened grass suggested she'd taken flight from here.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If so, there was no way to track her.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone wandered aimlessly for a while.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then, a popping sound erupted from the distant sky.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His head snapped toward the source.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Black smoke rose from Amy's face.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But a closer look revealed it hovered a finger's width above her skin—an Air Shield spell, compressing air to create a localized barrier.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Changing the meeting spot and ambushing me. Still as cowardly as ever.",
+      "tone": "disdainful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy rose from her landing stance and turned.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The man who'd handed her the note stood there, grinning vilely.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The man",
+      "content": "Hehe, I've got a bone to pick with you. If you'd just taken it, I could've had the honor of your first kiss.",
+      "tone": "lecherous"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Enough of your disgusting talk. Where's Shirone?",
+      "tone": "firm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jake",
+      "content": "You really came alone. Was that guy really that important to you?",
+      "tone": "surprised"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "What nonsense? I'm more than enough for the likes of you. Where's Shirone?",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jake",
+      "content": "Hahaha! That weakling's probably still in the library. Clueless about what's about to happen to his girl.",
+      "tone": "mocking"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Amy realized she'd been tricked.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Calling me here means you're prepared to die, right?",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jake",
+      "content": "Such confidence. But do you really think it'll be that easy? The list of those who underestimated the Black Magicians and paid the price would disagree.",
+      "tone": "sneering"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Even for someone with no learning ability, this is pathetic. All bark and no bite.",
+      "tone": "disdainful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jake",
+      "content": "This is the Black Magicians' specialty. The spell that's sent countless talents packing.",
+      "tone": "proud"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Amy glared at Jake furiously.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "This is... anti-magic?",
+      "tone": "alarmed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jake",
+      "content": "Hahaha! Surprised? This is the Black Magicians' specialty.",
+      "tone": "triumphant"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The five resonance waves tangled Amy's Spirit Zone chaotically.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It felt like someone was gripping her head and shaking it violently.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Unable to endure, Amy dropped to her knees.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Maintaining the zone any longer might drive her mad.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jake",
+      "content": "Finally caught you, you feisty little cat.",
+      "tone": "triumphant"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Jake drew a knife.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Let me warn you—if you harm even a hair on my head, you won't walk away unscathed.",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jake",
+      "content": "Bahahaha! Even the great Amy resorts to family threats when cornered? I told you—we're the same. Without your family, you're just a helpless little girl.",
+      "tone": "sneering"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "I told you not to lump me in with trash like you. I'll destroy you with my own hands.",
+      "tone": "defiant"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Jake's eyes gleamed with malice.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "His inferiority complex had no bottom.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He was truly capable of anything.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jake",
+      "content": "You're in no position to boast. Should I carve up your face? Once you're ugly, no one will bother you.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy shuddered at Jake's deranged gaze.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jake",
+      "content": "Let's do this. The arrogant Amy lost her eyes experimenting with magic alone. She dropped out and lived the rest of her life as a loser. How's that for a story?",
+      "tone": "taunting"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The blade, dripping with molten heat, inched toward Amy's left eye.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Wait, you bastards!",
+      "tone": "desperate"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A sudden shout made the Black Magicians flinch.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone, fists clenched and panting, stood there.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What are you doing to her?",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jake",
+      "content": "You idiot! What are you doing here alone?",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "You idiot! What are you doing here alone?",
+      "tone": "concerned"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone was too stunned by the scene before him to listen.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A girl, bound and surrounded by older students.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Jake, wielding a knife and cackling.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "'Because of me...'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "For the first time in his life, Shirone felt overwhelming rage.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Let her go! Or I won't hold back.",
+      "tone": "furious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jake",
+      "content": "Bahahaha! Hear that? What's he gonna do with that stick?",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ignoring the taunts, Shirone charged.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "At the very least, his swordsmanship had once beaten even Lian.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Here I come!",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jake",
+      "content": "Boys, he's coming. Open the door.",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "No one moved as Shirone ran toward them.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "They smirked, almost eager for him to come closer.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Something felt off.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The moment Shirone realized it, his mind reeled as if struck by a hammer.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Guh!",
+      "tone": "pained"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Idiot! Dispel your Spirit Zone! It's anti-magic!",
+      "tone": "urgent"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Anti-magic, banned by school rules.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The five resonance waves rattled his mind.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone understood.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "This was how the top-ranked student in Class Four had been immobilized by delinquents.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The shock and vibration were overwhelming.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Senior, I'll save you.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Stay back! You'll lose your magic forever! You'll become an idiot!",
+      "tone": "desperate"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Each step he took to save her shattered her heart.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Gritting his teeth, Shirone maintained his Spirit Zone.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "No! Hold on. Need more frames.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His Spirit Zone gradually morphed into a defensive cube shape under his willpower.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The Black Magicians panicked.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The Black Magicians",
+      "content": "Wh-what's this? Why is it like this?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone expanded his Spirit Zone to its limits.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Though wobbling like dew on a leaf, he poured all his focus into maintaining its form.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Harder. Don't collapse. Don't break.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Finally, the frames connected, stabilizing the zone.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Then, like a seesaw, the Black Magicians began groaning in pain.",
+      "tone": null
+    }
+  ],
+  "source_hash": "72d734484d353c1cbb03d7e8f1d6289517b8d0b1be8808e3a8708d13c7f42c88",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T06:21:17.345205+00:00"
+}

@@ -1,0 +1,997 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Gido was dumbfounded.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gido",
+      "content": "This is impossible...",
+      "tone": "disbelieving"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He had never anticipated that the largest fixer on Galliant Island would fall to a woman's strike.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian shook his head as he watched Tess dusting off her hands.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Was there even a place for a man to squeeze in here?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Elzain swordsmanship is known for its precise attacks.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Trained to pierce vital points in any situation, she was a technician capable of nullifying the difference in strength or size in an instant.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Getting to the tip of the chin with minimal movement is impossible without murderous concentration.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Elzain",
+      "content": "Consider yourself lucky. If Tess had drawn her sword, you'd be dead already.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone stared blankly at the immobile fixer.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Was this the movement of a swordsman that paralleled a mage?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If Rian's physical strength was avant-garde, Tess's strike seemed like a perfect work of art.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Wow, that was really cool, Tess.",
+      "tone": "impressed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Hehe! Was it okay? Shirone really has an eye for this. Unlike someone standing right there.",
+      "tone": "teasing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian approached Gido, paying him little mind.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Gido was trembling with fear.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When Rian grabbed his neck and lifted him, he made a final struggle.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gido",
+      "content": "Ugh! Do you know where you are?",
+      "tone": "panicked"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "I know, that's why I came. Does it look like we're playing hide and seek? Where's Amy right now?",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gido",
+      "content": "Damn it! Who's Amy? How would I know?",
+      "tone": "defiant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Should I stop your heart instead of killing you?",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gido",
+      "content": "Damn it all! I really don't know! If you're so curious, find out yourselves!",
+      "tone": "desperate"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "This bastard!",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian's eyes blazed with anger.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He was already anxious, and this was just adding insult to injury.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Didn't they have no time to search, hence their current actions?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Just as he was about to intensify the threats, Shirone approached.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Rian, that's enough. What's the point in asking if he doesn't know?",
+      "tone": "calm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Then what? Are we really going to go around every room?",
+      "tone": "irritated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No, we ask about what he knows.",
+      "tone": "logical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "What he knows? Like what?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Gido flinched as he locked eyes with Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was a different kind of anger from Rian's. A chill surged, freezing his bones.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gido",
+      "content": "Ask where Falcoa is.",
+      "tone": "resigned"
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "◆ ◆ ◆",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Royal Tavern. Basement Level 1.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Those in the know called this place a temple.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Of course, no god resided here. But sometimes, one might see a god, due to the hallucinogenic effects induced by Lupe.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In the end, the 4th-floor VIP rooms were just for tourists who came based on rumors, but the real deal was all underground.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The temple was a space for those addicted to pleasure, where various drugs circulated, and the stimulant Lupe could be enjoyed without limit.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The temple was divided into 17 sections, and the total area was 1.5 times larger than the first floor.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was always full, but Room 4 was never open to guests because it belonged to Falcoa, the team leader of the Freeman organization and the boss of the Royal Tavern.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Falcoa",
+      "content": "So I asked him. Do you want to be buried after you die, or die after you're buried? You know what he said?",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Ehehe, what did he say, boss? What did that guy say?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Falcoa screamed as if dying.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Falcoa",
+      "content": "Please~ save me!",
+      "tone": "pleading"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Ahahaha! I'm dying of laughter! Please~ save me!",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Falcoa's men burst into laughter, pounding on the table.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zis",
+      "content": "Crazy bastards. What's so funny about this? They're out of their minds.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Oh dear, why aren't you drinking?",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zis didn't even make eye contact with his partner, just shaking his head.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Drinking here felt like he'd never see tomorrow's sunrise.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zis discreetly turned to look at Falcoa's partner.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy, whom he had brought along, was sitting there.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zis",
+      "content": "Of course, she didn't understand Falcoa's sense of humor either and just stared blankly ahead with an indifferent face.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zis",
+      "content": "Really impressive. I'm scared to death, but her expression doesn't change at all.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Normally, a woman, especially a young girl, would tremble with fear in such a threatening situation surrounded by violent gang members.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But there was not a hint of tension on Amy's face.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zis",
+      "content": "Ah, it's noisy. I'm bored. I want to go back.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy moistened her lips with the drink in front of her.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "As a noble, she was taught about liquor, but she wasn't inclined to enjoy it and didn't usually drink.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "At most, she sipped enough to cover the bottom of the bottle out of boredom.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "But the alcohol still made her feel light-headed, leading her into a somewhat sentimental state.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "What am I doing here?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Of course, she had come along out of pity for Zis.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "But upon reflection, that didn't seem to be the only reason.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "He must have returned by now, right?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Why was Shirone late? Perhaps he was caught up in another needless commotion.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "From Shirone's omniscient point of view, how many unfortunate people could there be in the world?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Hehe, did I want to imitate that?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Thinking about it, her reason for coming here wasn't much different.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "She had heard the screams of a ruffian at the harbor, begging for his life.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Of course, he didn't seem completely down and out.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The mood at the drinking party grew more heated.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The more it did, the more irritated Amy became.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "She could easily show her power and leave if they were forceful, but contrary to expectations, Falcoa behaved with manners.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "What are you thinking? Should I make the first move instead?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "While Amy was lost in such thoughts, Falcoa was also aware of her, wearing a sinister smile.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Falcoa",
+      "content": "I can hear the wheels turning in her head from here.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Amy must be a high noble. There was an inherent nobility about her that couldn't be compensated for by mere appearance.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But Falcoa was at ease. He had the ultimate weapon to subdue nobility.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Indeed, with this, even a king would kneel before him.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "That was Lupe.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even now, many high nobles had become slaves to Lupe in the temple.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Timing it right, gradually training them with Lupe, even the proudest noble couldn't withstand it.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Falcoa",
+      "content": "Come, come. Let's toast, to a toast!",
+      "tone": "inviting"
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "BOOM",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A crashing sound came from beyond the plank, followed by the shouts of the staff.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Staff",
+      "content": "What the! Ugh!",
+      "tone": "alarmed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Staff",
+      "content": "Hey! Stop them! That's the boss's room!",
+      "tone": "authoritative"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The door burst open, and three people entered.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zis stood up in shock upon recognizing the faces of the intruders.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They were Amy's friends from the harbor.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Falcoa's expression soured immediately.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Falcoa",
+      "content": "What's this? What's going on?",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "We came to take Amy. Let her go.",
+      "tone": "firm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Falcoa",
+      "content": "Pfft, sounds like a kidnapping. Even nobles need to be careful, especially in places like this.",
+      "tone": "skeptical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Shirone? How did you find this place?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy asked, her eyes wide in surprise.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But Shirone postponed his answer.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "An unbearable itching sensation was crawling up his spine.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The man sitting arrogantly at the high seat, legs crossed, must be Falcoa.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He didn't look like a monster, but it was clear at a glance he was not normal.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He's strong, that man...",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It's easy to show a killing intent. If you truly intend to kill, even an ordinary person can intimidate others.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But it's not easy to subtly exude a faint killing intent as if it's barely there.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Only a professional killer could emit such an aura.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Amy...",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Why was Amy sitting next to such a person?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Instead of tea or coffee, which she preferred, there was a glass of alcohol in front of her.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The floor was dirty, the air was stale. Nothing she had in her room was here.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Therefore... she wasn't here of her own will.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Let's go back, Amy.",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy felt a surge of emotion.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "After all this time, the only thing he had to say was 'Let's go back, Amy.'?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "He was nowhere to be seen when she was waiting, and now he has this bold attitude?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Amy was angry at herself for being glad to see Shirone just moments ago.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "From what perspective was Shirone looking at her now? From the height of a human, or from the high heavens?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "This wasn't what she wanted. That's why she didn't want Shirone's help.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "She could leave right now if she wanted to.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Falcoa",
+      "content": "You, you guys! Do you know where you are, barging in here!",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "All the tavern's staff rushed over.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But none dared to enter Falcoa's lair, as if it were the den of a fearsome demon.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone was astounded.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "A boss that even his underlings feared. How deep and dark was this man's evil?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Falcoa",
+      "content": "What are you? Do you know what happens when you enter a room without my permission?",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "We came to take Amy. Let her go.",
+      "tone": "firm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Falcoa",
+      "content": "Pfft, sounds like a kidnapping. Even nobles need to be careful, especially in places like this.",
+      "tone": "skeptical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What are you waiting for? Send these kids back.",
+      "tone": "firm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Falcoa",
+      "content": "Where should we send them back to, boss?",
+      "tone": "obedient"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Falcoa",
+      "content": "To hell.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Falcoa's direct subordinates started to advance, loosening up their bodies.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They were on a different level compared to the staff they had passed by.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tess drew her sword, readying herself, and said,",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Shirone, be careful. All of these guys are Schema users.",
+      "tone": "cautious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A light flashed in Shirone's eyes.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Tess had a keen eye, so it must be true.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Of course, most students at the swordsmanship school could open their Schema.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "But it was strange that not a single thug living on this island lacked the ability to use Schema.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Who is this person? How can a mere tavern owner command such skilled individuals?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone stared straight at the underlings blocking the way.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At that moment, an overwhelming emotion struck Shirone's heart.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ugh!",
+      "tone": "painful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Shirone, be careful! It's Pressure!",
+      "tone": "alarmed"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "There are many abilities related to the 'eye techniques' in the Schema perception, but Pressure was among the most common.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was intuitive and useful in real combat because it was easy to master if one knew how to release their emotions outward.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone wasn't flustered.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He realized it was the same technique used by Adel, the head butler of the Karmis family, the moment the opponent's hostility pressed down on him.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "But the quality of the emotion was different.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "If Adel's Pressure was meant to overpower, theirs was solely to take life.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian gripped the hilt of his straight sword and took a step forward.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "How dare you!",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Rian! Wait!",
+      "tone": "cautious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Falcoa's men looked at him in surprise.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "It was Pressing from 10 people at once; normally, it would have stopped one's heart, not just halted speech.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "But Shirone still stood, a faint smile on his lips.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Indestructible. In a way, it's a power that rivals my Red Eye.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Pressure couldn't sway Shirone. Maybe it could, but not at their level.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone began to walk slowly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As if pushed by the atmosphere, the underlings stepped back with the same pace.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "It wasn't easy for Shirone to emit emotions either.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "It was the pressure injected by 10 veterans who had experienced countless battles.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "It's impossible to put a value on emotions, but it felt like waiting for a carriage to run over you with your hands and feet tied to the ground.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "More precisely, it was the terror of the moment when the carriage arrived right in front of you, and the massive wheels filled your entire field of vision.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "In reality, the fear would last only 0.1 seconds because death awaited, but Shirone was experiencing the same emotion for over 20 seconds.",
+      "tone": null
+    }
+  ],
+  "source_hash": "f3452a0049eb772c715ea0296b18fbe5333b1c6a9e20797a415c0b772e5b9a34",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T16:04:44.779862+00:00"
+}

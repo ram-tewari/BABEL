@@ -1,0 +1,775 @@
+{
+  "blocks": [
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "We're definitely close. Just about a kilometer more to go...",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Just as Amy was about to explain, a ferocious noise erupted from the forest, and a ball of fire shot out.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Ambush! Scatter!",
+      "tone": "urgent"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's party scattered in different directions.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The flame that hit the ground devoured the air, growing in size before dispersing into heat.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Fireball?",
+      "tone": "questioning"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Amy! Be careful!",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The second and third attacks came simultaneously.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "However, Amy didn't dodge. Instead, she took a battle stance and pierced through the fireballs with an equal number of Flame Strikes.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Show yourself! Cowardly attacking from ambush!",
+      "tone": "defiant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You're quite skilled. It wasn't just luck that brought you this far.",
+      "tone": "admiring"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's party turned to look back at the trail.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A man emerged from the forest, about the same height as Rian but with a noticeably lean and agile build.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Despite having no eyebrows, his slicked-back hair exuded confidence, and his pale complexion resembled that of a serpent.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Who are you?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Agado Freeman",
+      "content": "The Vice-Captain of the Parrot Mercenary Corps. Agado Freeman.",
+      "tone": "confident"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The word 'Vice-Captain' brought tension to the faces of Shirone's party.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "However, it also implied that their destination was not far off.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Shirone, I'll take care of this. When I give the signal, take Rian and Tess to the cliffs.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "That's too dangerous.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "And what about you? Jumping into traps alone, have you forgotten? Are you going to keep underestimating me like this?",
+      "tone": "accusatory"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's not about underestimating you. He's not alone. There are about 20 of them hiding in the forest.",
+      "tone": "serious"
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Amy had already confirmed this through her Spirit Zone, but that was exactly why she wanted to send Shirone ahead.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Being held up here would only give the first checkpoint's reinforcements time to arrive.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "As Amy tried to convince Shirone, she pointed at Freeman.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Shirone, look at that man's weapon. It's a gun.",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone too turned to look closely.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "See? You know what a gun is, right? It can reload faster than arrows and is a direct fire weapon. Unlike arrows that explode after impact, it fires in an already activated state, making it specialized for medium to long-range combat. Probably all those hiding in the forest are using this weapon too.",
+      "tone": "explanatory"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone understood Amy's point.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Alright. I'll leave this to you.",
+      "tone": "resigned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Got it. Rian, Tess, be ready.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian followed Shirone's lead without question.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Although it felt wrong to leave a comrade behind, this was not the time for debate, and Tess also braced herself, ready to spring into action.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Now! Go!",
+      "tone": "urgent"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy shouted with wide eyes, and as Shirone took the lead, Rian and Tess followed on either side.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "* * *",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As expected, flames shot from all directions in the forest, courtesy of the guns.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy cast a Fire Wall in a massive circle around her.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The ground bubbled like boiling mud, and flames erupted from beneath her feet, charging fiercely into the forest.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then, amplifying her mental power, the wall of fire roared, obstructing the enemies' view.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At the same time, Shirone, grabbing Rian and Tess, initiated a spatial transfer.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Although its range was shorter compared to that of a high wizard, it was enough to disappear from the enemies' sight in a blink.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "* * *",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Hearing the noise of the spatial warp, Amy finally ceased casting the Fire Wall and gasped for breath.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The Fire Wall, known as a mana-eating parasite, required continuous mental effort to maintain its barrier.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Despite its powerful effect, it wasn't considered overpowered due to the high cost of casting it.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Agado Freeman",
+      "content": "Commendable. To sacrifice for your comrades.",
+      "tone": "admiring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Hmph! Sacrifice, my foot. I sent them away because I can handle it myself.",
+      "tone": "defiant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Agado Freeman",
+      "content": "Is that so? You seem quite exhausted, though. Sorry, but we're in a hurry and can't afford to wait.",
+      "tone": "condescending"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Freeman finished speaking, his subordinates appeared.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The fact that none tried to extinguish the burning forest indicated the absence of mages among them.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "However, they were all Schema users, like Freeman, and held guns.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The combination of Schema and magic in combat. Such individuals were known as Gunners on the battlefield.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Having never witnessed a Gunner's battle, Amy could only imagine.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "She too could wield long-range magic and Schema simultaneously.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Agado Freeman",
+      "content": "Sorry, but your reckless adventure ends here.",
+      "tone": "menacing"
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "* * *",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Freeman spoke, his subordinates raised their guns.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Only twenty of you for a shootout with me?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Amy concentrated, drawing her legs together as if channeling strength to her lower abdomen, and began to cast a spell.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "* * *",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A whirlwind swirled around her, lifting fist-sized stones into the air around her, which then ignited with a whooshing sound.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "You've picked the wrong opponent this time.",
+      "tone": "defiant"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy's eyes blazed red.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "* * *",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even as she ran, Tess kept looking back.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Though she trusted and followed Shirone's lead, the plan seemed reckless.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Tess",
+      "content": "Gunners might be weaker in firepower compared to mages, but they matched swordsmen in physical prowess.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Tess",
+      "content": "The thought of Amy fighting among them made Tess's stomach clench.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Shirone, shouldn't we go back now? I'm worried about Amy.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It'll be fine. Delaying only puts us at a disadvantage. We might be pursued by the forces that survived the first checkpoint. Our priority is to reach the hideout as quickly as possible.",
+      "tone": "resolute"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "But what about Amy? Wouldn't it have been better if you took out the enemies and came back?",
+      "tone": "questioning"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's not like that. A mage's strength isn't simply measured by their power. It varies with the situation and the type of magic. Against Gunners, Amy is far stronger than I am.",
+      "tone": "confident"
+    },
+    {
+      "type": "thought",
+      "speaker": "Tess",
+      "content": "Tess seemed unconvinced.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Tess",
+      "content": "She knew Amy was a senior student, but the feats Shirone had performed since arriving were nothing short of incredible.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Is that possible? No matter how skilled, there's something to be said for numerical superiority.",
+      "tone": "skeptical"
+    },
+    {
+      "type": "thought",
+      "speaker": "Tess",
+      "content": "Tess, thinking like a true swordsman, placed emphasis on physical strength.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Indeed, in battle, the total physical force represented by numbers is a critical factor.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "However, when it comes to magic, the scenario shifts slightly.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "For mages, who manipulate countless phenomena through the combination of knowledge and omnipotence, the number of opponents isn't as critical.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "What matters more to them is the ability to manipulate situations to maximize the efficiency of their finely honed skills.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "The properties of photons differ from those of flames. Moreover, the strategies of the Four Symbols are distinct. Amy specializes in long-range magic, maximizing the advantages of her Red Eyes. No matter how strong the enemies in the forest might be, if Amy confronts them in her element...",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No matter their numbers, they stand no chance against Amy.",
+      "tone": "resolute"
+    },
+    {
+      "type": "thought",
+      "speaker": "Tess",
+      "content": "Tess swallowed hard.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Tess",
+      "content": "Normally, she felt like she was looking after a stubborn younger sibling when dealing with Shirone and Amy, but in the heat of battle, they turned as cold and calculating as ice.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "You guys are truly amazing. How can you be so resolute?",
+      "tone": "admiring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "That's a misunderstanding on your part. If anyone's amazing, it's you, Tess.",
+      "tone": "kind"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Tch, what have I done? You were the one who breached the fortress, and I didn't even lend a hand.",
+      "tone": "self-deprecating"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "The paths of swordsmen and mages are inherently different from the start.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "While the mental arts can see individuals surpass age-related expectations, physical growth supports the swordsman's path, typically leading to their prominence emerging somewhat later.",
+      "tone": "explanatory"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Shirone, we've arrived.",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Emerging from the forest, they were greeted by the sight of the vast blue sea churning below a magnificent cliff.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "To the east of the cliff, a brick house was visible, likely their hideout.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Yet, reaching it required passing one final obstacle.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Squad Leader Falcoa awaited Shirone's party.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Tess",
+      "content": "Given her assessment of his character, Falcoa should have long since charged into battle.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "What's going on? He's still here?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Falcoa",
+      "content": "Kek, smashing you right from the start would have been fun. But, I have my orders.",
+      "tone": "amused"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Falcoa's compliance was driven by Marsha's directives.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Although it went against his temperament, he followed them, for it was she who transformed him from a societal pariah into a hero of the battlefield.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Falcoa",
+      "content": "Well, you've made it this far. The leader was right. The woman you're looking for is inside that building. Try going in and taking her out.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Falcoa mockingly stepped aside, but Shirone's group remained stationary.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The lethal aura that had been absent in the royal palace now barred their way, dense and overwhelming.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Tess",
+      "content": "Tess empathized with Amy's position. Facing a master of such caliber necessitated a level of risk-taking from their side as well.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "We're being baited. I'll handle this with Rian. Shirone, go inside and bring Yuna back.",
+      "tone": "resolute"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Alright.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone nodded without hesitation, understanding the plan.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Tess",
+      "content": "Tess realized why Amy had smiled; rather than feeling slighted, she felt a warmth of trust.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Tess",
+      "content": "'So this cold world has its warmth, too. Is this what being trusted feels like?'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With Shirone's skills, escaping alone was hardly a challenge.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After a brief pause, he executed a spatial warp, vanishing in a flash of light.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Yet, Falcoa didn't even glance in his direction.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Tess",
+      "content": "Tess realized then that Falcoa had intended to let Shirone pass from the beginning.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Falcoa",
+      "content": "Why?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Falcoa",
+      "content": "Well, I have my orders from the leader, and frankly, I prefer the company of the ladies.",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Drawing his sword, Falcoa pointed it at Tess.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His murky aura was unmistakable, yet the drunken instability was gone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "He's a Schema user. I'll hold him off; you attack.",
+      "tone": "resolute"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "That won't do. I'll defend; you attack.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Are you crazy? How could you possibly hold him off? I hate to say it, but you can't handle him alone.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "If it's impossible, then so be it.",
+      "tone": "resolute"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "What?",
+      "tone": "incredulous"
+    },
+    {
+      "type": "thought",
+      "speaker": "Tess",
+      "content": "Tess was incredulously wide-eyed, but Rian was serious, not showing any sign of giving up the fight, merely standing his ground.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "We're here to defeat him, not just to survive. Fighting just to save our own skins isn't the point.",
+      "tone": "resolute"
+    },
+    {
+      "type": "thought",
+      "speaker": "Tess",
+      "content": "Tess couldn't argue.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "You might buy us time, but you know it's not enough to win. We'd both end up dead. So, I'll hold him off. You focus on the attack.",
+      "tone": "determined"
+    },
+    {
+      "type": "thought",
+      "speaker": "Tess",
+      "content": "Rian's logic was sound.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Tess",
+      "content": "Sharpening the blade, not fortifying the shield, was the essence of victory, even at the cost of life.",
+      "tone": null
+    }
+  ],
+  "source_hash": "8ba21873399fd9b6c7e93a66f66b827b5158541a8e7de612cd87d190d1b12273",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T16:21:24.839173+00:00"
+}

@@ -1,0 +1,1099 @@
+{
+  "blocks": [
+    {
+      "type": "dialogue",
+      "speaker": "Vincent",
+      "content": "I'll try again.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even after Vincent withdrew, Shirone continued to observe the notch in the tree for a long time without moving.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Currently, he was feeling a slight thrill.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Holding a line of technique in one's head is knowledge. But accepting it with the entire body is sensation.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Strike the same spot, but twist it slightly.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "This simple knowledge, passed down through the mouths of many people, was being absorbed by Shirone as a much greater realization than Vincent had expected.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Dad.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vincent",
+      "content": "Yes?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Should I try to break this in one go?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vincent",
+      "content": "Hahaha! You haven't even chopped halfway, how could it break?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "If I'm lucky, it might happen.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "No tree breaks because of luck. Skilled lumberjacks relentlessly exploit the weakness of the grain and topple them with just a few axe strokes, but Shirone couldn't possibly do that.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vincent",
+      "content": "Alright! Let's believe in our son's luck!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Vincent heartily played along with his son. He was just grateful that he showed interest in wood chopping.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "If I break this, grant me one wish.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vincent",
+      "content": "Hm? A wish?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "A sudden unease crept in. What if he wants to learn writing? Or asks to be sent to school like children from rich families?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "When you go to the city to sell things next time, take me with you.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "To be honest, Vincent was immensely relieved, but he didn't show it and laughed boisterously.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vincent",
+      "content": "Haha, if that's all, sure. I'll grant it!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Having received permission, Shirone took the axe behind his shoulder and looked at the tree.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Soon, as the smile on his lips disappeared, Vincent felt a chill.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His son, not even blinking, was staring at the tree as if searching for something invisible.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone suddenly swung the axe.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It seemed to hit the notch precisely, but mixed in at an extremely subtle level, imperceptible to human recognition, was a slight twist.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Crackboom!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Vincent opened his eyes wide at the sound like lightning striking.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Cracks like an earthquake occurred at the spot where the axe entered, and the tree broke with a loud creak, unable to bear its weight.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hooray! I did it!",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Vincent",
+      "content": "Vincent couldn't believe it.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was the 'Thunder Chopping' passed down as a legend among lumberjacks.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Neither Vincent nor any lumberjack he knew had ever seen or experienced this mythical technique.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But that's because lumberjacks' work is focused on livelihood.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In reality, there is one profession where the Thunder Chopping phenomenon can be encountered quite frequently, and that's swordsmanship.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Swordsmen, who wield their swords with their lives at stake, hone techniques that are incomparably more systematic and profound than lumberjacks.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Thunder Chopping was among these techniques.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But it was clear that even for such swordsmen, it wasn't an easy technique to master.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hooray! I did it!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone, who would now be able to visit the city as promised, jumped up and down with both arms raised.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Vincent, watching him, was confused.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Vincent",
+      "content": "He couldn't decide whether he should raise his son as a lumberjack or not.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "◆ ◆ ◆",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Vincent held the reins of a twin-horse carriage with a luggage cart and passed through the gates of Creas City.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone, sitting in the cargo area, looked around with sparkling eyes.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Leather goes to the weapons shop, meat to the grocery store, and entrails to the herb shop or magic shop.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They had to visit several stores, and if they included bargaining, it would take at least 4 hours.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Upon arriving at the store, Shirone jumped off the cart.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Vincent placed a bag of meat on his shoulder, he said:",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "We need to return before sunset.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vincent",
+      "content": "Don't worry. I've memorized all the roads.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Never go into obscure places, stick to the main roads. If someone comes and asks why you're alone, point to the nearest store and say you're waiting for your dad.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vincent",
+      "content": "Okay. But nothing happened the last time I came, you know.",
+      "tone": null
+    },
+    {
+      "type": "narration",
+      "content": "Vincent felt pained at the thought of leaving his son.",
+      "corrected": true,
+      "correction_id": 44,
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But the family's livelihood depended on how well he negotiated, so it couldn't be helped.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Shirone reassured his worried father and left the shopping district.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Vincent expected that he would go to places children typically visit like performance halls or toy shops, but Shirone had no interest in such things.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The place Shirone arrived at was the largest library in the city.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Looking up at the vast, majestic building, his heart pounded.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Could all the knowledge since the beginning of time be accumulated in this building?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "There was no way to confirm.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The library, being a high-end cultural space, was inaccessible to anyone who wasn't a noble.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When two female students walked out of the library holding books, Shirone quickly stepped aside.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Vincent",
+      "content": "Vincent was an affectionate father, but he always threatened like an ogre when talking about nobles.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Never defy them. Their words are always right. If you make eye contact, bow your head.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone didn't care how great the nobles were.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He just wanted to read books.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Why can't I enter?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone decided to follow the female students.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Not only was there nowhere else he wanted to see, but he was also curious about how nobles differed from commoners.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After walking for about 20 minutes, the scenery changed dramatically.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone, forgetting his original purpose, was overwhelmed by the enormous structures rising in all directions.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The crown jewel among them was a school that boasted a vast area even when seen through iron bars.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The building name was inscribed on the arch of the main gate.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheus Magic School.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "If there was one word that Shirone, in his life, couldn't understand, it was magic.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It appears consistently in numerous stories, but he had never seen a book that explained its principles.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was a kind of disregard. It was also arrogance, suggesting that those who aren't magicians don't need to know.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A guard spotted Shirone and shouted:",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "What! What are you doing, kid?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "And waved his hands back and forth as if shooing flies, seeing Shirone's attire was that of a commoner.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Get out of here! This isn't a place for vermin like you.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ah, I'm sorry.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone fled in fear.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "content": "His knees weakened when the burly-looking guard glared at him.",
+      "corrected": true,
+      "correction_id": 46,
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But when the guard was out of sight, he stopped walking again.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Surprisingly, he was still under the walls of the magic school.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "How vast is this school anyway?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "While thinking this, he heard an old man's voice from beyond the wall.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "content": "Now, let's talk about what magic is.",
+      "corrected": true,
+      "correction_id": 47,
+      "speaker": "Alpheus",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "content": "Ahh, no! Show us magic. Just one more!",
+      "corrected": true,
+      "correction_id": 48,
+      "speaker": "Child",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "content": "Fire! Show us the fire, Principal!",
+      "corrected": true,
+      "correction_id": 49,
+      "speaker": "Child",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone looked up at the towering tree standing beyond the wall.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The principal of the magic school seemed to be conducting an outdoor class under the tree's shade.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The voices of the children were all younger than Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Since nobles are educated from the moment they're born, it wasn't strange for young children to attend magic school.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "Hohoho, lighting a fire at school would get me in trouble.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "Instead, if you answer the question correctly, I'll show you an interesting magic.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes! What's the question? Ask quickly!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone put his ear to the wall.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "What is the most necessary talent for learning magic?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Silence followed for a while.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Everyone must have been speechless.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Even to Shirone, it was a question requiring quite a subjective answer.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But the children, recognized for their talent in magic and admitted early, were geniuses.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rather than giving up, they each shared their own answers.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Child",
+      "content": "Effort. Since magic can't be fully learned even if studied for a lifetime, effort is important.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Child",
+      "content": "I think it's knowledge. I've read over 100 magic books.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Other plausible answers like concentration and memory followed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But the principal's voice was still not heard.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Perhaps he was smiling kindly while watching the children?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "Money. Because there's so much to buy to learn magic.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The children burst into laughter.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The principal's laughter was mixed in as well.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "By this point, Shirone was also curious.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "If not effort, knowledge, or money, what is the most necessary talent for learning magic?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After hearing all the children's answers, the principal finally spoke.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "The most necessary talent for learning magic is insight.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A second silence fell.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "What's insight?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The principal made a troubled groan.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But soon, in a kind voice, he continued his explanation.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "Insight is something more accurate than knowledge and faster than effort.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Child",
+      "content": "Wow! Then it's totally like magic?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "Hoho! It could be. No, that's right. All magic in the world stems from insight.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Let me give an example.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "Do you know what 1 plus 1 is?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Child",
+      "content": "Of course it's 2.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The children answered in unison, as if asking how he could ask such a thing.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "I see. Then, can you explain why 1 plus 1 is 2?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Huh? Well, obviously...",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The children, who were about to speak confidently, closed their mouths.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They couldn't grasp where to start the explanation or how to explain it.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "That strange feeling you're experiencing right now is insight.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Long ago, there was a time when people didn't know that 1 plus 1 is 2.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was proven through knowledge and effort.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But you understand perfectly that 1 plus 1 is 2 without going through that process, don't you?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone became increasingly engrossed in the story.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The children beyond the wall were probably also listening with their mouths agape.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "Magic is a phenomenon that has always existed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "content": "Just like how the answer is 2 even when people didn't know that 1 plus 1 is 2.",
+      "corrected": true,
+      "correction_id": 50,
+      "speaker": "Alpheus",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "content": "Someone uncovered that fact through effort and knowledge, but you don't need to do that.",
+      "corrected": true,
+      "correction_id": 51,
+      "speaker": "Alpheus",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "Thus, insight is the fastest means to understand the rules of something.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Child",
+      "content": "So there's no need to study or make effort?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "Is that what I'm saying?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "But to be honest... yes, that's the case.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Common sense is knowledge believed by the majority.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "But sometimes, it's common sense because it's easy to accept.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone could guess Alpheus's feelings of having to tell the cruel reality.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Child",
+      "content": "So we don't need to go to school?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "Hohoho! Insight isn't something easily obtained.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "content": "The reason why 1 plus 1 is 2 was proven by scholars over a long period.",
+      "corrected": true,
+      "correction_id": 54,
+      "speaker": "Alpheus",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "content": "Of course, there are people who grasp the answer without going through the verification process.",
+      "corrected": true,
+      "correction_id": 53,
+      "speaker": "Alpheus",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "content": "We call such people geniuses.",
+      "corrected": true,
+      "correction_id": 52,
+      "speaker": "Alpheus",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Child",
+      "content": "My mom said I'm a genius?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "That's not wrong either.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Every human is born with talent, and if they hone that talent, anyone can become a genius.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Anyone can become a genius.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Those words lodged deeply in Shirone's heart.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "But is that really true?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Would the opportunity to cross this high wall come to him as well?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "Yes.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "You, the child standing behind the wall.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "I'd like to hear your thoughts.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone hastily retreated from the wall.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Should he run away?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "No, should he answer?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "But does a commoner have the right to answer?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "Don't do that, come over here.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "I want to see your face.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone approached the wall, hearing the sound of his beating heart.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Though still young and unaware of the ways of the world, one thing was clear: if he didn't cross this wall now, he would regret it for the rest of his life.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone climbed the wall.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheus, the principal of Alpheus Magic School, was smiling.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The first impression was of a white-haired old grandfather.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But in reality, he was a well-respected figure, a certified level 4 magician recognized by the kingdom, known even in foreign countries.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheus, sitting on a flat rock, waved his hand.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Come on over. Have you come to keep this old man company?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Gaining confidence from Alpheus's kindness, Shirone jumped over the wall.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As expected, children around Shirone's age or younger were sitting in a circle.",
+      "tone": null
+    }
+  ],
+  "source_hash": "ab748a175ace4f402bbe669817ae4176adfcefcbb6477d655edaeefff93526da",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-10T10:22:31.694287"
+}

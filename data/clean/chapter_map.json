@@ -1,0 +1,46 @@
+{
+  "source_filename": "test_batch",
+  "processed_at": "2026-02-04T08:06:00Z",
+  "chapters": [
+    {
+      "index": 0,
+      "filename": "000_chapter_1.json",
+      "title": "Chapter 1",
+      "token_count_est": 3004,
+      "volume": null,
+      "metadata": {"tags": []}
+    },
+    {
+      "index": 1,
+      "filename": "001_chapter_1_encountering_magic_1.json",
+      "title": "Chapter 1: Encountering Magic (Part 1)",
+      "token_count_est": 3500,
+      "volume": null,
+      "metadata": {"tags": []}
+    },
+    {
+      "index": 2,
+      "filename": "002_chapter_2_encountering_magic_2.json",
+      "title": "Chapter 2: Encountering Magic (Part 2)",
+      "token_count_est": 3500,
+      "volume": null,
+      "metadata": {"tags": []}
+    },
+    {
+      "index": 3,
+      "filename": "003_chapter_3_encountering_magic_3.json",
+      "title": "Chapter 3: Encountering Magic (Part 3)",
+      "token_count_est": 3500,
+      "volume": null,
+      "metadata": {"tags": []}
+    },
+    {
+      "index": 4,
+      "filename": "005_chapter_5_meeting_magic_5.json",
+      "title": "Chapter 5: Meeting Magic",
+      "token_count_est": 3500,
+      "volume": null,
+      "metadata": {"tags": []}
+    }
+  ]
+}

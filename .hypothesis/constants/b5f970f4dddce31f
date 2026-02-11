@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\html5lib\treewalkers\__init__.py
+# hypothesis_version: 6.148.8
+
+['%s %s', '%s"%s"', '%s%s="%s"', '%s<!-- %s -->', '%s<!DOCTYPE %s>', '%s<!DOCTYPE >', '%s<%s>', 'Characters', 'Comment', 'Doctype', 'EmptyTag', 'EndTag', 'SpaceCharacters', 'StartTag', 'data', 'dom', 'etree', 'genshi', 'getTreeWalker', 'html', 'lxml', 'name', 'namespace', 'pprint', 'publicId', 'systemId', 'type']

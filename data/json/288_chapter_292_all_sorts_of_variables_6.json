@@ -1,0 +1,925 @@
+{
+  "blocks": [
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "Since it's come to this, I won't stop you. But I'd still advise you to wait. I can't guarantee your lives if you go in. Leave Shirone to me.",
+      "tone": "cautious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The masked figure quickly threw these words over his shoulder and dove into the Door.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy examined Shirone's condition.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A thin web-like wire, tightening around his neck, was clearly visible.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Moreover, his gaze hadn't moved an inch from where he had been bound.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But it hadn't completely stopped, so if left like this, he would inevitably die.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Amy and Reina exchanged glances, locking eyes. Without hesitation, they jumped through the Door.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Five seconds later, the Door disappeared.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zenogre and Shirone were slowly thawing, frozen at the crossroads between life and death.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "A very slow 'Ig-' sound leaked from between Shirone's lips.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As though he tried to shout 'Ignite'.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Great Secret (1)",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "<Separate> Shirone's consciousness. 11th level surface consciousness.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Kwareureureung!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Thunder crashed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rain was pouring down in torrents.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The dark clouds blanketed the entire sky, making it impossible to tell if it was day or night.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy looked around the streets in the pouring rain.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The city was definitely new to her, but somehow it felt familiar.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Buildings lined the cobbled streets, and whale oil torches flickered outside the shops, weakened by the harsh winds.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The usually visible beggars had all taken shelter, and only men in ready-made clothes were hurrying along, clutching their collars.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In the distance, a carriage covered with a tarp was heading for the city gate, trying to leave the city.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was probably daytime.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Amy and Reina shivered from the cold as they looked at each other.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Their clothes clung to their bodies from the rain, and their hair looked like drowned rats.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Where on earth is this…?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "So you did come in.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Instinctively, the two women covered themselves and turned around.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Although they were clothed, the wet clothes clinging to their bodies made them feel exposed so they couldn't help but feel wary.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "From the darkness of the alley, the masked figure approached.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "I was waiting, thinking you might come.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "Who are you? And what are you to Shirone?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Instead of answering, the masked figure removed his mask.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They had wondered how he could see with his face covered, but thin bandages were covering his eyes.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He had been blind from the start.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "I am Generade Armin. I have a bit of a connection with Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy tilted her head, puzzled.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A connection with Shirone?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Of course, Shirone would have connections unknown to others.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But if he had known someone of this caliber, there's no way he wouldn't have mentioned it.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "How can we believe that? Shirone never said anything about...",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Armin ignored her, glanced around, and gestured at the two women.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "Let's get out of the rain first. Follow me.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Having stood in the downpour for just a few minutes, their body temperatures had dropped rapidly, leaving them little choice but to follow.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "And besides, even between women, they didn't want to be seen in such an embarrassing state.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The place Armin took them to was an establishment that served as both restaurant and inn.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Before stepping inside, Amy glanced at the sign.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It looked somewhat similar to Thormian writing, yet subtly different, making it impossible to decipher its meaning.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "Welcome.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As they entered, a woman in her forties knitting behind the counter greeted them with a formal tone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "From the outside, the building had seemed too narrow, but once inside, it stretched deep into the back.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The main hall spanned roughly seven pyeong (about 23 square meters), with three tables set up for drinking.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In one corner, a group of hunters was warming themselves with hot drinks.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As they walked past the hall and turned a corner, a long hallway extended further inside with a hearth set into the floor.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "There must have been drainage installed, as rainwater hadn't reached this far.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Square tables were arranged around, where people in travel attire were eating.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Armin first gestured for the women to sit in the empty seats, then took a seat across from them.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As they settled, a musician wearing a pointed hat near the hearth began tuning a four-string instrument.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Inns frequently visited by travelers typically contract musicians to play when a certain number of people gather.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even when that number wasn't reached, patrons could pay for a private performance.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The musician played his instrument and sang in a sorrowful tone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was a song about a knight who, having lost his beloved, sets out in search of a place to die.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Though the melody was gentle, the lyrics were hauntingly sad.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Reina was taken aback to realize the musician was highly skilled.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "However, the variations deviated from basic harmonics.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It felt like several songs mixed into one.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Yet, the other travelers seemed unfazed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In fact, they appeared to pay no attention at all—to anything.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Not even to the two women whose wet clothes clung to their figures.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy found this odd.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Of course, it's not that she expected to attract attention from everyone, but the situation was undeniably strange.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Upon closer observation, she realized the patrons weren't actually eating.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Their forks were meaninglessly going back and forth between food and mouth.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The reason they seemed to be eating was that they muttered continuously in a melancholy tone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Unreadable sign.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Strange song with odd melodies.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "People not eating.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "And gloomy expressions.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy suddenly felt goosebumps.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She finally realized that this place was unlike any world she knew.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Just where is this?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "This is Shirone's consciousness.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Before you arrived, I took a look around.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Here seems to be the 11th of the 12 stages of the human consciousness, the surface consciousness.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "So, this place right now is Shirone's consciousness?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "Yes.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "To explain such a strange world, it was more effective to make them believe rather than try to persuade them.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "We need to chase Arius.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "Besides, Shirone's neck will be cut in the real world soon.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Armin smiled and shook his head.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "There's quite a difference between real-time and consciousness time.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "You must have followed me right away, correct?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Yet, I've been here for over thirty minutes already.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy did some intuitive calculations.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Though there was a slight time difference, they had entered almost simultaneously with Armin.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If that thirty-minute gap had happened so quickly, time here was clearly moving much faster than in the real world.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Armin",
+      "content": "'No, it's more accurate to say that consciousness operates at an accelerated speed.'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Armin continued.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone should be safe for the time being.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ideally, I would slow time down even more, but even Temporal Field has its limits….",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Currently, Armin was maintaining Time Stop Field over Keira, who was 14 kilometers away at the Kazra Royal Palace, which left him with little extra time in reserve.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If it were Slow Magic that ordinary mages use, he could have slowed time much more extremely, but that wouldn't have been a wise choice in the situation.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Because Slow was active magic after all.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If he filled the only omniscience slot that most mages possess with Slow, he would surrender the initiative to Arius, another mage of his caliber.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Moreover, his opponent wasn't easy enough to compete within a divided temporal resource state.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Thus, he had opted for the passive technique of Temporal Field.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Temporal Field, which simultaneously occupies time and space, continues to exert its influence even after activation, thus freeing up an omniscience slot to flexibly respond to the opponent's movements.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The reason Arius could not act rashly in the standoff was because he had perceived this fact.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Thanks to this, Shirone narrowly avoided instant death, but Armin's own temporal resources were down to its tail.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Creating another field was always possible, but if its effect weakened, it would be pointless.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Armin",
+      "content": "'The only move left is the Flicker. I guess I have to try with this.'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Armin had waited for the two women because the state of consciousness they had entered—the 11th level of conscious awareness—was dire.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He had no intention of putting Shirone's friends in danger, but if they had come here of their own accord, he would have to accept their help.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "Of course, we have no time to spare. We need to find Shirone as quickly as possible.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "But coincidentally, I'm in a state where I've almost lost my combat ability.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "That's why I need your assistance.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "First, I'll tell you the information you absolutely need to know.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Yes, I want to help. So please tell us.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "To explain that, we should first talk about Arius.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His alias is the Grave Robber, quite infamous among the Seven Sins of magic in the Black Line.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy frowned at the mention of Black Line.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Though there were criminals in the Red Line too, they were people who raised their ranks through infamy and achievements.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Arcane, for instance, was one of them.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Black Line, on the other hand, was far from honorable.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Those on the Black Line pursued only their own pleasures, indifferent to the destruction they caused to society in the process.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "You're saying someone like that has been by Orkamph's side all this time?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "His skills are undeniable.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He's an Unlocker and a Scale Mage, mainly known for infiltrating minds and stealing thoughts.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He installed a Door in Shirone's surface consciousness.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He probably dove at least once without Shirone knowing.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "So, this entire inn is a product of Shirone's consciousness?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "Yes.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It appears as a place, but in reality, it's a landscape created by Shirone's mental activity.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "What's the principle behind this? How can someone's thoughts materialize into such a concrete world?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "All mental processes acquired as humans grow up become objectified.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Love, anger, indifference—they all become objects.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "You could think of it as language, but since this is a realm tied to the unconscious, 'objectification' is a more accurate term.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then why does the arrangement of objects resemble reality despite being a mental world?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It's because all objects in this 11th level pass through the 6th level, or the realm of REM, before emerging here.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If the unconscious were projected here directly, it would be a completely chaotic world.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Hmm. So, you're saying that a person's mind is filtered through this REM level, which converts it into objects that rise up here?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "Exactly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Since REM is a mind state during sleep, it's easier to understand if you think of it as dreams.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dreams are the boundary between consciousness and unconsciousness.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "That's why two characteristics appear simultaneously in dreams.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Going up from the 6th level, consciousness strengthens, going down, unconsciousness strengthens.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Arius pointed to the ceiling.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "This is the Eleventh Level surface consciousness, the highest level excluding the shell level.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As such, it's a highly objectified world—realistic, intricate, and expansive.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The musician's sorrowful melody played softly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The tune's jumbled notes no longer felt eerie now that Amy thought of it as passing through a dream filter.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "You mentioned Arius is a 'Grave Robber.' So what exactly is he trying to steal from Shirone's mind?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Ataraxia.",
+      "tone": null
+    }
+  ],
+  "source_hash": "1aace15a24bf5cca38002cfb8fb91baa86673d11fecfe332e97d6052901589ec",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T18:26:09.057981+00:00"
+}

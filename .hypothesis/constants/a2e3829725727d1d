@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\ruamel\yaml\events.py
+# hypothesis_version: 6.148.8
+
+['\x07', '\x08', ' ---', ' ...', ' []', ' {}', '+DOC', '+MAP', '+SEQ', '+STR', ', ', '-DOC', '-MAP', '-SEQ', '-STR', ':', '=ALI', '=VAL', 'Unspecified Event', '\\', '\\\\', '\\b', '\\n', '\\r', '\\t', 'anchor', 'comment', 'ctag', 'encoding', 'end_mark', 'explicit', 'flow_style', 'implicit', 'nr_items', 'start_mark', 'style', 'tag', 'tags', 'value', 'version']

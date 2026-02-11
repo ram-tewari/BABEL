@@ -1,0 +1,901 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Peope! Please forgive me! If you combine my and Lena's lifespans, it's a reduction of 80 years. I forced my sister into this. So please, lessen her punishment at least!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "What's the big deal about 40 years? Humans can't live more than 60 years anyway. Five years should be enough to do whatever you want, right?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Biological traits are determined by lifespan. Fairies, like humans, possess reason, but their way of thinking is vastly different due to their long lives.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Fairies have ample time to recover from their mistakes. Thus, they are free from stubbornness and are honest, but they can't possibly understand the feelings of humans, whose lives are limited.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Just as no human knows how precious an hour is to a mayfly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Especially for Peope, who had only been alive for a year, death was nothing more than a word she might recall a thousand years later.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kanya's mother prostrated herself on the floor. She knew the newly appointed magistrate was inexperienced, but she never dreamed he would deliver such a cruel judgment.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "Peope, you are the executor of the law. But no one in the fairy realm has ever issued such a harsh punishment. Even I only received 20 years. Please reconsider.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Her voice trembled with fear.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "John nodded silently.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "His mind raced.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "BOOM",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "An explosion rocked the building.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "What? Are you looking down on me because I'm only a year old? I know everything I need to know! The executor of the law has the authority to rule on lifespans up to 50 years. Are you challenging my inherent authority?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If you've truly made such a ruling, please give us a reason to accept it.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "Hmph, fine! Then I'll tell you this! Kanya and Lena's unauthorized escape from heaven is a 20-year reduction! The remaining 20 years are for the crime of bringing in heretics! Are you satisfied now?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Peope pointed at Shirone's group as she spoke.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "She hadn't received any reports about heretics entering, but since she had seen it with her own eyes, there was no problem in issuing the judgment.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "Peope! These people are not heretics! The boy here is a Nephilim.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A… Nephilim?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Peope stared intently at Shirone.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Peope",
+      "content": "Was he really a Nephilim?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The descendant of an angel. One who is free from the law. The innate knowledge granted at birth flashed through her mind.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Fairies are not arbiters of the law; they can only punish based on the established laws.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Thus, it was true that no punishment could be imposed on a Nephilim.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Yet, Peope refused to back down.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Among the 72 ranks of fairies and the 48,000 fairies, she was the youngest.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "She recalled the verbal abuse she endured daily from her senior sisters.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If she failed to assert her authority here and returned, she would become a laughingstock until the next youngest was born.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "Even so, the crime doesn't change! I'll let the Nephilim pass! But not everyone here is a Nephilim! So the crime of bringing in heretics still stands!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kanya's mother raised her head and retorted.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya's mother",
+      "content": "They may not be Nephilim, but they are companions of the Nephilim. Labeling them as heretics violates the law.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shut up! How dare a mere subject debate the law with the executor of the law! I am carrying out Ra's will. To oppose me is to oppose the gods!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "Wait a minute.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone, who had been kneeling, stood up, Peope crossed her arms and glared at him.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Fighting a Nephilim was no small matter, but even a Nephilim had no authority to interfere with the execution of the law.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "What? If you're trying to obstruct the execution, I won't forgive you.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "No, I'm just correcting a misunderstanding. We weren't brought here by that girl. We simply followed her. In that case, you can't hold her responsible, can you?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What nonsense is this? Followed her?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "I happened to find her outside of heaven. She opened the gate, and we just entered. As someone free from the law, I can go anywhere. So I barged into this house for dinner. Therefore, the two sisters have done nothing wrong.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "Who would believe such a lie?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then prove it. Show me evidence that my words are false.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The mechanical systems of heaven can detect even the smallest variables, but they cannot read emotions.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "While countless pieces of information verified that Shirone's group had entered with Kanya, discerning their relationship was impossible.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "All of this was happening because Shirone was a Nephilim.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Peope rolled her eyes.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "She had to find another way.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If word got out that she had been fooled by a human's words, she would be a laughingstock for a thousand years.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "Fine. Then I'll restore 20 years to Kanya and Lena's lifespans. And I'll permit the Nephilim's entry. But the others are clearly heretics who deny the law, so their lifespans will be reduced.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Peope pointed at Arin as she spoke.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Of course, Arin didn't answer.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Though the exact causality was unclear, the ability to grant or take away lifespans seemed to require a name.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Arin wasn't foolish enough to let her name be written plainly in the book of life and death.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "No. Why should I tell you my name?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "You—! You insolent heretics have no idea how fearsome fairies are!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What do you think human life is? You'll die someday too.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "I'm a fairy! My life can't be compared to a human's! Besides, I've only lived for a year! I have a looong way to go before my lifespan ends.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "The future is the future precisely because it will come. That's why we respect those who came before us and mourn those who have left.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Peope seemed unaware that the concept of the future was immutable.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "No, she had probably never even thought about it.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "She said she was only a year old. Compared to a human's one year, it was easy to imagine how immature she was.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Peope placed her hands on her hips and said,",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "Alright, so that's how you want to play? For the crime of not revealing your names, you will be judged by those higher than me. And Kanya and Lena will have an additional 30 years deducted for the crime of harboring blasphemous heretics, bringing their total lifespan reduction to 50 years!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kanya's family collapsed in despair.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Fifty years—if the law was executed immediately, Kanya would die on the spot.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Though the actual execution of the lifespan reduction was carried out by the highest rank of the 72 fairy classes, meaning she wouldn't die right away, it was obvious that the process would be completed within hours once the report was submitted.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Peope, satisfied with her own judgment, turned away as if she had completed another arduous task.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "This concludes the judgment. Now, I'll take my leave.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Peope flew toward the door, her flight came to an abrupt halt.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian and Tess were blocking the door. Shirone and Amy surrounded her from both sides.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hmm, so you plan to subdue me by force? Me, a fairy?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Why not? Think of it as catching a little sparrow.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "Oh? Then try it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Peope's eyes widened.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Instantly, Rian, who had gripped the hilt of his greatsword, grimaced in pain.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A strange force twisted his arm.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tess, unaware of the situation, grabbed Rian's shoulder and felt the same pain.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "Hoho! If you don't move aside quickly, it'll break.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The abilities of a fairy, a singular conceptual entity, resembled those of an irregular.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "They could expand concepts and use them like magic.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Peope was born from a spiral, and thus she could dominate all things related to twisting.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even Rian, with strength comparable to a Schema user, could barely withstand it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But as his body began to obey his brain's commands 100 percent, he slowly moved.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Swinging his greatsword, he shattered the spiral's power, causing Peope to stagger.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tess seized the opportunity and thrust her saber.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Peope, who had flown into the air to evade, stared at her in disbelief.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Schema. The technique of giants.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Fairies and giants were the two pillars that upheld this world. Thus, while they were equal under the law, each secretly believed themselves superior.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Being outmatched by a giant's technique in any situation was a blow to their pride.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "You—! You insolent—!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Peope moved so fast that she could have painted with afterimages.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian and Tess's movements overlapped, creating a momentary gap.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Peope seized the moment and unleashed the power of the spiral at the door.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The center of the iron door twisted clockwise, then shattered with a loud crack as the door fell apart.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "Hahaha! Fools! Goodbye!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Peope rushed outside, she felt something strange.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "For some reason, her speed was decreasing.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone approached from the front, so she flew upward, but even that was slow.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "By the time she realized time was flowing slower, she was already in Shirone's grasp.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "How… how are you controlling time?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Controlling time was the magic of light.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But there was no light in the room to amplify such magic.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Peope's innate knowledge flashed through her mind.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Nephilim were descendants of angels.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "And angels… were the rulers of light.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Peope",
+      "content": "'Oh no…!'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Peope's face twisted in despair.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She struggled to break free, but Shirone's grip was stronger.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "No, it wasn't that fairies were weak.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Fairies were specialized in mental power; their physical strength was the lowest under the law.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "Let go! Let me go, I said!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Peope's struggles didn't even tickle.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She gritted her teeth and cast a spell.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The moment the spiral's power manifested, Shirone tightened his grip.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "Gahhh! Stop! My stomach's going to burst!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Restore their lifespans to what they were.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "Hmph! Trying to threaten me? It's useless.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "I may submit the report to the higher-ups, but I'm not the one who carries out the execution.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "You attacked the executor of the law, so even if you're a Nephilim, you won't get away with it.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Threaten? I could kill you.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If Peope's mind couldn't be changed, Kanya would die.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone couldn't deny his responsibility for that.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As he tightened his grip, Peope's face turned pale.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "G-go ahead. I'm not scared at all.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The more he pressured her, the stronger her pulse felt.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "She was such a fragile creature.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It would be easy to crush her as a joke.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "Not scared? Then why are you trembling?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "The annihilation of existence is terrifying to anyone! But I choose death despite knowing that!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "Don't compare me to you foolish humans!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Then die.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "Kill me! Go ahead and kill me! I'm ready to die anytime!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone lifted Peope.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Slamming her to the ground would kill her instantly.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Peope's trembling intensified.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Just imagining her small corpse with ruptured insides made him feel sick.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Peope burst into tears.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "She had lived for only a year.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Her dream of becoming the top of the 72 ranks of fairies ended today.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Peope's tears flowed onto his hand, Shirone grimaced.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "How was he supposed to accept this world where even fundamental values were dictated?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You're terrified, yet you choose death? Why? Why can't you think any other way?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "Hmph! A human like you could never understand!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "But I won't say another word! As the executor of the law, I won't yield to a human!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Fine. If you've given up on life, you're as good as dead.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'll take your life without hesitation.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Peope's face was drenched in tears.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "Yes! Kill me! Just kill me already!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "But if you ask me to spare you, I will.",
+      "tone": null
+    }
+  ],
+  "source_hash": "f23d7387d00d63371ac4a723b1f867a2653582ff0225d61e54ddc6158d6f1bc2",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T16:55:20.375668+00:00"
+}

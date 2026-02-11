@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\shellingham\_core.py
+# hypothesis_version: 6.148.8
+
+['ash', 'bash', 'cmd', 'csh', 'dash', 'elvish', 'fish', 'ksh', 'nu', 'powershell', 'pwsh', 'sh', 'tcsh', 'xonsh', 'zsh']

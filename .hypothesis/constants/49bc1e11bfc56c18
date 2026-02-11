@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\httpx\_utils.py
+# hypothesis_version: 6.148.8
+
+['"', '*', '*.', ',', '/', ':', '://', 'all', 'false', 'http', 'https', 'localhost', 'no', 'true', 'utf-8']

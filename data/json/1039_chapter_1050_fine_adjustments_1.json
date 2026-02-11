@@ -1,0 +1,991 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A massive pit of unfathomable depth formed where Bardvelve had vanished.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone, who had been watching the darkness, turned to face Nane.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Why are you here?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nane, who had also been lost in thought with a serious expression, approached with a smile.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nane",
+      "content": "Because I have legs. I can go anywhere, can't I?",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Don't dodge the question.",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone spoke firmly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "If your heart doesn't move, your legs don't either. You've never wavered before, so why did you suddenly come here?",
+      "tone": "inquisitive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nane",
+      "content": "There's something… strange there.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nane pointed toward the inner fortress of the northern front.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nane",
+      "content": "A being with universal constants different from this world. That also means… micro-adjustments have been applied.",
+      "tone": "analytical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Micro-adjustments?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nane",
+      "content": "There's a limit to the outcomes of events in the universe. For example, if you create a world where a small ball moves, you can't set the ball's speed, mass, and direction infinitely.",
+      "tone": "explaining"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Because it would exceed the scope of creation.",
+      "tone": "understanding"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nane",
+      "content": "Exactly. Therefore, if all characteristics were quantified, the limit of those values would match precisely with the limits of this world's settings. The being closest to that limit is Ymir.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nane raised his index finger.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nane",
+      "content": "Of course, if you only look at power, supernova explosions or black holes are stronger. But they are slaves to the natural order and its laws. When you consider the overall sum, Ymir ranks higher. Free will, after all, is an overwhelmingly powerful attribute.",
+      "tone": "emphasizing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Even a mere child could set a mountain ablaze… is that what you mean?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nane",
+      "content": "Precisely. But the neo-humans exist outside that boundary. Whether it's physical, sensory, mental, or logical attributes, they are beings subjected to micro-adjustments. They won't be easy to stop.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone also came to understand this through his battle with Bardvelve.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "If it hadn't been for Nane, the battle would have been much tougher. The same goes for him. But still…",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "There was one question that remained unanswered. Why are you helping me? Closing this world was supposed to be your goal, wasn't it?",
+      "tone": "inquisitive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nane",
+      "content": "The situation has changed. If the world remains closed, I'd be the sole truth. But you've opened the ceiling. In this open state, the truth of this place loses its absoluteness. Even for me, a Buddha, that's an undesirable outcome.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nane began walking toward the inner fortress.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nane",
+      "content": "Let's go. Before making any decisions, we need to confirm something. You should see it with your own eyes as well.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The horrific truth.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When Borbor opened her eyes, she found herself hanging with both hands tied by ropes to the ceiling.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As she blinked, her vision filled with the grotesque faces of dozens of insect-like grasshopper men.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Borbor",
+      "content": "Ki-iii… an enemy of our kin.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Though they carried no special weapons, their prominent jaws and claws were threatening enough.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Borbor's lips twisted in a bitter smile.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Borbor",
+      "content": "I'm still alive.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Borbor",
+      "content": "If life was suffering and death was fear, what could you call being dragged back to life after dying?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Borbor",
+      "content": "One of the grasshopper men approached her.",
+      "tone": "resigned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Grasshopper Man",
+      "content": "Don't expect a quick death.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "This one was larger than the others, likely their leader. His grotesque jaw jutted forward menacingly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Grasshopper Man",
+      "content": "I'll tear you apart piece by piece. Watch as your flesh gets devoured by our throats, you pathetic livestock.",
+      "tone": "menacing"
+    },
+    {
+      "type": "thought",
+      "speaker": "Borbor",
+      "content": "Again… All human deaths are destined to be lonely deaths. So, I'm supposed to keep living.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Borbor",
+      "content": "A lonely existence. No matter how desperately you live or how quickly you vanish, nothing changes. Life feels like endlessly shoveling into the void.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Borbor",
+      "content": "It's not that living is sweet. It's just that dying is infuriating. There's no honey-coated world out there.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Borbor",
+      "content": "Bark! Go on, bark!",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When the grasshopper man drove his claw into her side, sparks danced in Borbor's vision.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Yet her expression didn't change.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Grasshopper Man",
+      "content": "Heh. You're holding up well. Then how about this?",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As her flesh split and her bones scraped against something, a scream erupted from Borbor's mouth.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The grasshopper men burst into laughter.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Grasshopper Man",
+      "content": "Good! That's the sound we wanted!",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Fueled by his comrades' laughter, the leader drove his claws even deeper.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The leader stopped mid-sentence when he saw Borbor's eyes, still cold and unflinching.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Borbor",
+      "content": "What the…? In her pupils, the grotesque face of the insect leader reflected clearly, without a hint of emotion.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the leader tilted his head slightly, Borbor mirrored the motion at the exact same angle.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Borbor",
+      "content": "No, that's not right. The leader was confused.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Borbor",
+      "content": "Why do I feel like I'm copying this livestock?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Borbor",
+      "content": "Gouge out my eyes.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "For a moment, the leader couldn't tell whether the voice he had heard was Borbor's or his own.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Grasshopper Man",
+      "content": "Y-Yeah!",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Standing at the boundary where self and other blurred, he reached toward Borbor's eyes with both hands.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "I'll gouge them out!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Borbor",
+      "content": "Huh? H-Hey?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The other grasshopper men recoiled in shock.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Grasshopper Man",
+      "content": "Hey! Wait a second! What are you doing?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even as they shouted, the leader grabbed his own eye with his clawed hands.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Arrgh! Die, filthy livestock!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Borbor",
+      "content": "Arrgh! Die, filthy livestock!",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With a sickening pop, the leader's eye burst, spilling thick, viscous fluid onto his hands.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He staggered back, clutching the mangled remains of his eye.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Grasshopper Man",
+      "content": "Hah… hah… I did it! I got my revenge!",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Grasshopper Man",
+      "content": "What the hell…?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "While the other grasshopper men stood frozen in disbelief, Borbor slowly turned her head.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Borbor",
+      "content": "Next.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone and Nane opened the door, they were met by a young girl with a simple, innocent appearance.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "However, the scene quickly turned unsettling—the girl's eyes were pitch black, gleaming with small specks of light, and she was gnawing on a severed arm.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone felt a chill run down his spine.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "I can't tell what she is.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nane",
+      "content": "She's certainly peculiar.",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nane remarked with a grin as he approached her.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nane",
+      "content": "No matter how the laws of the universe bend, something like this shouldn't exist. You, being beyond truth, what are you?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Girl",
+      "content": "God.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "No further proof was necessary.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Girl",
+      "content": "Since the moment I came into existence, everything has been beneath me. Now, hand over your arms and legs.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The moment her words ended, an unprecedented killing intent filled the room.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "A disaster… The reason Yahweh and Buddha could divide philosophy between them was because they operated within a closed world, a world clearly defined by humanity. Philosophy is for humans, defined by humans. Beings beyond that boundary shouldn't have the right to define it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nane drew his sword of sermon and approached.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nane",
+      "content": "Let's see what you've got.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone shattered the Hexa and summoned his Hand of God, but the girl remained unfazed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Girl",
+      "content": "Hmm, you want to fight me?",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nane",
+      "content": "Fight? I wonder if there's even a point where you and we can truly clash.",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Girl",
+      "content": "True…",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After gnawing off the last bit of flesh, she tossed aside the bone and stood up.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Girl",
+      "content": "Come at me.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As her lips twisted into a grotesque smile, Shirone and Nane lunged forward simultaneously.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Please… Gritting his teeth, Shirone swung his arm, Hand of God mounted over his shoulder.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Let something remain.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amid the silence that transcended the roar of explosions, the northern city ignited in blinding flashes of light.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Boom! Boom!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At an altitude of 500 meters, Asraiker and Gaitan watched the battle unfold below.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "This was not a fight they could interfere in.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Holding the unconscious Borbor by the wrist, Gaitan spoke with a grave expression.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaitan",
+      "content": "She has unusual eyes.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Asraiker",
+      "content": "Yes. It seems like she's interpreting photon signals and converting them into quantum signals, ignoring causality entirely.",
+      "tone": "analytical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A mountain was cleanly sliced in half.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It seemed the girl was imagining an enormous pair of scissors, shredding the landscape at will.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Asraiker",
+      "content": "Her ability is like a combination of Yahweh's subjectivity and Buddha's objectivity. But even so…",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Asraiker",
+      "content": "Despite her power, the girl was the one being overwhelmed.",
+      "tone": "analytical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Asraiker",
+      "content": "Their coordination is astonishing. If there were even a slight mental gap between them, this battle would already be over. It's ironic—no one understands Yahweh better than Buddha.",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Asraiker's eyes glowed as a magic circle formed within them, magnifying the scene on the ground.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Asraiker",
+      "content": "…It's over.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Girl",
+      "content": "Hah… hah…",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The girl, Piri, was in a wretched state—her left eye was gone, both legs severed below the knees, and her right arm grotesquely bent and broken.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Girl",
+      "content": "How… how did you…",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Asraiker",
+      "content": "Given her ability to defy this world's signals, it was abnormal for her to suffer any injuries at all.",
+      "tone": "analytical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Asraiker",
+      "content": "You can speak, can't you?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Girl",
+      "content": "Did you understand that?",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "To Piri, 99.99% of the language spoken by humanity sounded like the barking of beasts.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Girl",
+      "content": "Well, that's an honor.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A massive sword formed behind Nane, while Shirone unleashed a miraculous stream of energy.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the Hand of God grasped Nane's sword of sermon, it pointed directly at Piri from the heavens.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nane",
+      "content": "N-No…",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Girl",
+      "content": "You're nothing but livestock! You can't harm me, the leader of the Neo-Humans! This is all a lie!",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nane",
+      "content": "Sermon.",
+      "tone": "resolute"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nane",
+      "content": "Heart.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone invoked.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A red flash descended from the sky, slicing through the world and transcending time itself.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Gah!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Piri's death throes ended abruptly as her severed head rolled across the ground.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Everything… is a lie.",
+      "tone": "serious"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Even in her final moments, she couldn't acknowledge her defeat.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "She was strong… If another being like her appears, we won't be able to handle it.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nane",
+      "content": "This was just a prelude, Shirone.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nane",
+      "content": "A prelude?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nane",
+      "content": "If the goal was simply to defeat you, they could have created an unimaginable monster. But doing so would require resetting everything in the universe from its initial stages. Destroying you while keeping this world intact is the second filter. If they push one step further, they'll annihilate all of humanity.",
+      "tone": "serious"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Perhaps it was because it was Nane speaking that Shirone finally realized the source of his unease.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What are you planning? Why did you come to the northern front? You said you wanted to confirm something.",
+      "tone": "inquisitive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nane",
+      "content": "The world has opened. Because of that, I need to find the answer to one question. Answer me, Shirone. Am I Nane, who swallowed Anke Ra's dream…?",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nane",
+      "content": "Or am I Anke Ra's dream, who swallowed Nane?",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "In a closed world, it didn't matter. But now, it's the most crucial question.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nane",
+      "content": "I will go to the outer world. If I still remain human there…",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nane",
+      "content": "Then perhaps I too can become a god with a heart. I will eliminate the suffering of all beings.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Nane…",
+      "tone": "concerned"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Perhaps, beyond this world, the two of them sought the same thing.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "But…",
+      "tone": "inquisitive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nane",
+      "content": "The smile vanished.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nane",
+      "content": "If I am merely a program, the human known as Nane will cease to exist. When that happens, I leave the rest to you. And…",
+      "tone": "serious"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "I may have opened the world, but Nane could have closed it again. He could have… if he had chosen to kill Amy.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "But in the end, he chose his heart, ready to face eternal annihilation.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nane",
+      "content": "Let me go instead. This is the world I want to protect, so it's only right that I be the one to go.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nane",
+      "content": "Only I, who swallowed Anke Ra's dream, can pass through the filter. If you leave the photon realm, humanity will perish. We can't waste this one final chance.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "But…",
+      "tone": "inquisitive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nane",
+      "content": "I opened the spirit realm. This pain is my burden, so allow me to end it.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Who cares about who goes first now…",
+      "tone": "inquisitive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nane",
+      "content": "Please.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Nane turned away, his body shimmered and countless swords of doctrine shot outward.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Graaah!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the sound of the swords flying to the ends of the universe echoed back, Shirone asked.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Won't you regret it?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nane",
+      "content": "Nane closed his eyes and smiled faintly.",
+      "tone": "serious"
+    },
+    {
+      "type": "thought",
+      "speaker": "Nane",
+      "content": "I will.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Nane",
+      "content": "Until the very end, one face remained etched in his mind.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Nane",
+      "content": "Regret… He was leaving with a heart burdened by longing.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Nane opened his eyes, the swords of doctrine compressed space and pierced his body.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Boom!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A blinding light burst from Nane's eyes, turning the entire world into a blank sheet.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Nane",
+      "content": "Now, let's see what lies ahead.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When the landscape regained its colors, Nane had vanished without a trace, leaving not even a sound behind.",
+      "tone": null
+    }
+  ],
+  "source_hash": "a8bea4a73cb3a41eb589bbcf2e7bc61400434e60337b83547be48937b8855477",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T08:39:06.063850+00:00"
+}

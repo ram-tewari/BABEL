@@ -1,0 +1,499 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The leader was not an easy opponent either.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I came to meet a native. Is that enough?",
+      "tone": "inquisitive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Leader",
+      "content": "That could be considered an answer, but you need to explain. It's a breach of contract. If it's going to be like this, I don't want to ask any more questions.",
+      "tone": "firm"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The leader regretted it immediately. He had ended the business too soon, only thinking of provoking Shirone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "We really don't know anything else, because we really came to meet a native.",
+      "tone": "calm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Leader",
+      "content": "I see.",
+      "tone": "neutral"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone nodded to his friends, acknowledging their situation.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If they also didn't know what was underground, then at least there was no risk of falling into a trap.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Thinking it was a fairly good deal, Shirone took out another gold coin.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Why did you come to meet the natives? Here's 1 gold.",
+      "tone": "generous"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After receiving the money, the archer hesitated as if conflicted.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Honestly, it was an embarrassing story to share.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Archer",
+      "content": "We came to get Lupe. Although it's distributed in the market, it's much cheaper here in large quantities. We plan to sell it and fund our adventures. There, did that answer your question?",
+      "tone": "sheepish"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone was momentarily shocked. The secret of the ruins had nothing to do with the illegal trade of Lupe.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But since the mercenaries also came here with only fragmented information, it was premature to conclude.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "What's going on? This is completely different from what I expected. A place for drug trading? No, I shouldn't think like that. For the natives, it might be a drug, but it's a ceremonial tool for them, hence a sacred item. That means...",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Finishing his thoughts, Shirone asked, \"Is this place connected to the native autonomous region by any chance?\"",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Archer",
+      "content": "What? How did you... Ah!",
+      "tone": "surprised"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Realizing his mistake, the archer frowned. Without even receiving the money, he had answered the question.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then Shirone took out 1 gold from his pocket. He had asked in a hurry but didn't intend to deceive.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ah, here's 1 gold. Sorry for asking first.",
+      "tone": "apologetic"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The archer stared at the gold coin offered by Shirone.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Of course, 1 gold wasn't easy money to earn, but for a seasoned mercenary, it wasn't an amount to tremble over.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Archer",
+      "content": "Tch, it's fine. It was my mistake.",
+      "tone": "irritated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's not a mistake. That's how contracts work.",
+      "tone": "firm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Archer",
+      "content": "I know! I just can't accept it because of my pride. Damn, to make such a mistake. I still have a long way to go.",
+      "tone": "defensive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Then, consider the last question a service.",
+      "tone": "generous"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone put the gold coin back without hesitation. There was no point in wasting money if the other party wasn't willing to accept it.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Archer",
+      "content": "Instead, let me ask one thing. How did you figure that out?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Lupe is sacred to the natives. And if the margin for selling Lupe is huge enough to gather a large fortune, it can't be carelessly distributed. It must require permission from someone with authority among the natives, and that place would naturally be the autonomous region.",
+      "tone": "confident"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The archer had nothing to say. After nights of research and scouring the information market to come to this conclusion, everything Shirone said was encapsulated in just a few words.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Archer",
+      "content": "Tch! You're sharp with your words. Any more questions?",
+      "tone": "impressed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No, I don't have any more. Let's go down and see for ourselves.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With a bitter smile, the archer conceded. Shirone probably realized that there was no more useful information to be had from him.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone and his group descended for about 20 minutes. Though it was a spiral descent, the depth was tremendous.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Upon reaching the bottom of the stairs, a corridor with a single path extended ahead. At the end, 10 meters away, stood a metal door guarded by two natives.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Unlike the natives above, these were bare-chested with tattoos extending from their belly buttons up their faces, appearing quite menacing even from a distance.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone deduced that this place was not the autonomous region. It would require walking several kilometres to enter the jungles of Toa Mountain.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The mercenaries were visibly nervous. The archer, who had been interpreting, moved next to the leader.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After exchanging a few words in the Kergos language with the natives, one of them operated a switch.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the metal gears turned, the door opened to both sides.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Wow...",
+      "tone": "amazed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone was in awe, feeling like he had stepped into a whole new world.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In front of him was an octagonal room finely crafted from stone. Across the entrance, another metal door was guarded by three men.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At the center of the room lay an octagonal altar, mirroring the room's shape, with eight spheres floating above each corner.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone recalled seeing these spheres somewhere before.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Huh, isn't that?",
+      "tone": "inquisitive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Archer",
+      "content": "What's up? Do you know what those are?",
+      "tone": "puzzled"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was highly unlikely for Shirone to recognize something in a place he had never been before.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "That must be the labyrinth's...",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Leader",
+      "content": "Huh, and you think you know something? What, did your family jewels remind you of something?",
+      "tone": "scoffing"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The leader had disliked Shirone since the tavern. He despised men who couldn't fight but strutted in front of women, especially since he had no woman to impress himself.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "A labyrinth? Did you just say labyrinth?",
+      "tone": "surprised"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "One of the natives guarding the entrance asked. Even Shirone, who didn't understand the language, could tell he was asking about a labyrinth.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Curious about the situation, the archer reluctantly translated.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Archer",
+      "content": "Are you asking if he knows about the labyrinth?",
+      "tone": "neutral"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Native",
+      "content": "Yes. I've met it once before.",
+      "tone": "curious"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "After the archer relayed Shirone's answer, the native's expression contorted. His tattoos twisted, making him appear like a demon from legend.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Native",
+      "content": "You've met it? Impossible. That's a lie.",
+      "tone": "accusatory"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "No, it's true. I really have.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Native",
+      "content": "I do not judge anything. The eyes of the angel will watch over you.",
+      "tone": "mysterious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Leaving those cryptic words, the native closed the door, prompting Shirone to turn back.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He was ready to begin the real challenge.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the mercenaries approached the center, another native from the opposite door approached.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "This one's tattoos were white, unlike the usual red of the Kergos people, indicating a different role.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Native",
+      "content": "This is the room of achievement and sacrifice. The eight eyes of the angel will judge you. To enter Kergos, one must pass through the labyrinth's time.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hearing the word 'labyrinth' again, Shirone quickly turned around. However, the archer seemed unwilling to translate further.",
+      "tone": "irritated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Archer",
+      "content": "Labyrinth? Did you just say labyrinth? What is he saying?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Archer",
+      "content": "Hey, don't get the wrong idea. I'm not your translator. Why should I explain everything to you?",
+      "tone": "defensive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "We have to do it together, right? Just tell me already.",
+      "tone": "persistent"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Left with no choice, the archer gritted his teeth and translated.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Native",
+      "content": "Descendants of warriors, step onto the altar of judgment and unfold your talents in one of the eight spheres. The divine language will answer. A red light means failure; a white light means success.",
+      "tone": "mysterious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Is there a limit to the number of attempts? Can one person try multiple times?",
+      "tone": "inquisitive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Native",
+      "content": "One can try as many times as their strength allows. If there is even one successful person, everyone can go to Kergos. If no one succeeds, you must return. This is the will of the labyrinth and the duty of the Kergos people.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "And what about sacrifice? What does that mean?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Native",
+      "content": "One person's blood can allow another to pass.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Does that mean death?",
+      "tone": "alarmed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Native",
+      "content": "Yes.",
+      "tone": "serious"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Something's off. Why go through such cruel measures to reach Kergos? Just to get Lupe? That doesn't make sense. There must be something more in Kergos. It seems even the mercenaries don't know the true secret of this underground.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone signaled for another translation.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Archer",
+      "content": "Are there restrictions on the sacrifice? Like, bringing someone from outside or using a dead body?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Native",
+      "content": "No. The moment you enter this room, you are one. The door will not open until everyone agrees. Therefore, your question is meaningless.",
+      "tone": "serious"
+    }
+  ],
+  "source_hash": "6266895f0593f2ca9573bf894982c0ce8fea1e75b5e5d3510cda55270d68ac62",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T16:09:01.886876+00:00"
+}

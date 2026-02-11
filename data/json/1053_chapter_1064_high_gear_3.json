@@ -1,0 +1,955 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone, who reflexively turned his body at the creepy feeling, realized it only after moving.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Sniper?",
+      "tone": "curious"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Although it felt slightly different from the real world, his senses were functioning normally.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Calculating the trajectory, Shirone spotted a man on top of a pile of scrap metal stacked like a hill.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Whether it was the limit of level 1 or the delayed activation of the AI, the codename came to mind.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Colonoscopy.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The codename Colonoscopy, who realized it before Shirone, put away his rifle and stood up.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Colonoscopy",
+      "content": "Damn! Who is that guy? Did he get some weird special benefit? No, there's no such benefit.",
+      "tone": "confused"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Although his level was 7, his time in High Gear was no less than that of a ranker.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Unless there was a new update he didn't know about, a level 1 couldn't avoid the bullet.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Colonoscopy",
+      "content": "Unless it's someone who can dodge bullets with their bare body in reality.",
+      "tone": "skeptical"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But is that possible?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Colonoscopy, who was watching Yahweh2 with a puzzled expression, decided to retreat.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Colonoscopy",
+      "content": "It looks like the Iron Homeland will be noisy.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Colonoscopy quickly turned and disappeared to the opposite side, Shirone shouted.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Stop right there!",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He leaped about 2 meters, but magic from reality was impossible to use.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Damn it!",
+      "tone": "frustrated"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "By the time he reached the sniper's location, the man's figure had completely disappeared.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Judging by the time it took to get there, it meant he was much faster than Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A sniper from the start.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He had a hunch when the weapons were piled up like a mountain, but he couldn't understand the reason.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What benefit is there in killing me just as I started? There's nothing to take.",
+      "tone": "confused"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It wasn't even mentioned in the beginner's tips.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alright! Let's start again!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Coming down from the pile of scrap metal, Shirone advanced with heightened senses.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As he exited the entrance, strange things were wandering around the fallen broken machines.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "At first glance, they looked like rodents, but upon closer inspection, they were all mechanical.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Their information appeared in augmented reality.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Metal Rat. A type of creature.",
+      "tone": "curious"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Due to the level limit, the information was limited, but he had heard about it from Fermi.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ah, I should catch those to level up… It's good that they're not living creatures.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "I should catch those to level up… It's good that they're not living creatures.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The pattern of the Metal Rats was simple.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "They clung to large machines, gnawing on the metal for 2 seconds before hurriedly moving away.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hmm.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone found the evolution of the machines peculiar.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "They keep moving to avoid predators. It's a pattern conscious of long-range attacks.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Thus, 2 seconds was the golden ratio for feeding and survival.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If they move too quickly, they can't eat the metal, and if they stay too long, they get sniped. If these countless scenarios have established the current pattern over generations…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone decided on his hunting method.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "When they start gnawing on the machine…",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As he brought his eye to the sight, the AI automatically corrected the aim.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Although the angles of his shoulder and wrist were off, it didn't feel uncomfortable as the synchronization was complete.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Now.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Bang! Bang!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The AI of level 1 didn't control the recoil, so out of four shots, two hit the target.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the Metal Rat, which screamed sharply, limped away, Shirone adjusted his direction.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Again.",
+      "tone": "determined"
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Bang! Bang! Bang! Bang!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shooting in single shots to reduce recoil increased accuracy, and the Metal Rat was pushed back with each spark.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Screech…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Luminescent liquid flowed from the hole in its abdomen, and finally, it stopped moving.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Got it.",
+      "tone": "satisfied"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Information appeared in augmented reality.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The experience gauge quickly rose, and the number 103EXP blinked.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It went up by a third. If I catch two more, I'll level up.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone, who thoroughly searched the surroundings, quickly hunted two more.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Level up!",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As bright light filled his retina, the level on the main page of augmented reality changed to 2.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Bonus points.",
+      "tone": "pleased"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When he opened the status window, the number +1 was displayed next to three items.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "There didn't seem to be any special changes in the AI, but he felt the change in output with his body.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I've gotten stronger.",
+      "tone": "satisfied"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Although it was unsettling that it wasn't a heart but a machine, it was honestly a vibration close to pleasure.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Alright, let's go to the ranker soon.",
+      "tone": "determined"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He felt he could understand the minds of those who were immersed in High Gear a little.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Enjoying the powerful engine, Shirone roamed freely in the Iron Homeland.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Although the types of creatures were diverse, none were more difficult than the pattern of the Metal Rats.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes, level 3.",
+      "tone": "pleased"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "By hunting seven, he leveled up, and the AI gained a new function.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hmm, 20% recoil correction. If I fire ten shots, two more will hit. But what's the selective option? Even though I leveled up to 3, there's no change.",
+      "tone": "confused"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He missed Fermi's absence, but hunting creatures was still much more fun.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As he advanced a little further, he heard the sharp sound of metal being scratched from a secluded place.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When he leaned his back against the corner and peeked out, he saw a huge quadrupedal machine lying down.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "More than thirty Metal Rats were swarming around the center of the machine.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "That's a lot.",
+      "tone": "impressed"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The sound of metal being gnawed was loud, and no creature left its place.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "They don't move when they gather in groups. Or is there a secret in that machine?",
+      "tone": "curious"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Good experience points.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Thinking about the experience points he would gain by exterminating the Metal Rats, his mechanical heart beat faster.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Thinking it was finally time to use it, Shirone took out a grenade.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Pull the safety pin…",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As he followed the manual that appeared on his left retina, someone suddenly popped up from beyond the quadrupedal machine.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Hey! Are you crazy?",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When Shirone looked up, a heavily armed boy was glaring at him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Destroyer707.",
+      "tone": "assertive"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was a platinum codename.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the Metal Rats began to scatter in all directions, Destroyer707 grabbed his helmet.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Damn it! They're all running away! Hey, catch them quickly! The experience points are burning!",
+      "tone": "frustrated"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A red-haired girl who had been hiding behind a pile of scrap metal jumped out and shouted.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Death Princess",
+      "content": "Catch what? It's already too late!",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Metal Rats, which had not been damaged at all, were incredibly fast and hid in gaps like cockroaches.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone was looking around with the safety pin in his hand, a skinny man appeared from the opposite side.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Strongest Codename",
+      "content": "He's also platinum.",
+      "tone": "assertive"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "His codename was Strongest Codename.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Approaching Shirone with his rifle aimed, he spoke in a cold voice.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Strongest Codename",
+      "content": "Are you picking a fight with us?",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Huh? Picking a fight?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Strongest Codename",
+      "content": "You broke the trap. We barely gathered them, and you're trying to take them for free? You sneaky bastard.",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At that moment, Destroyer707 arrived.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Hey, Yahweh2! This guy! He even has a platinum codename? Should I make him quit High Gear?",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The girl spoke.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Death Princess",
+      "content": "Stop it. Tenmen will be here soon. I don't want to meet those guys.",
+      "tone": "resigned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Um… If I made a mistake, I'm sorry. If there's a way to compensate, I'll do it.",
+      "tone": "apologetic"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Compensate? You bio! Guys, should we just kill him?",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Strongest Codename shook his head.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Strongest Codename",
+      "content": "The loss is too big. All his equipment is free supplies, and he probably doesn't have any galaxy. Let's take him.",
+      "tone": "assertive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Death Princess",
+      "content": "Don't try anything funny and follow us. If you die on purpose, you won't be able to leave the starting point.",
+      "tone": "menacing"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "According to the beginner's tips, if you die in High Gear, you could lose parts and galaxy.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Rather, this is good.",
+      "tone": "resigned"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone needed information to get to the city where he promised to meet Fermi, so he followed them.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Damn, it's so hard to get out of the Iron Homeland. They should at least let us hunt.",
+      "tone": "frustrated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Let's try one more time. We can use this guy to quickly set up the trap.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Do you know where Atogram is? I was supposed to meet a friend there, and I might be able to compensate you.",
+      "tone": "hopeful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Hah, do we look like fools? We're doing this because we can't get to Atogram. If we could get there, fixing parts would be no problem.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Death Princess",
+      "content": "Because the Tenmen are blocking the way. It's so frustrating. Why is the operator just standing by?",
+      "tone": "resigned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What's a Tenman?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "What do you even know? How did you even get into High Gear without knowing that?",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I had some help.",
+      "tone": "vague"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Strongest Codename",
+      "content": "It's probably a codename business. Yahweh2 must be expensive. The friend you're meeting at Atogram is actually a dealer, right?",
+      "tone": "assertive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Well, something like that…",
+      "tone": "vague"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "You've been caught properly. Alright, let me tell you about your bleak future. They want you to come to Atogram to auction off your codename.",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "There are plenty of people who need to clean their codenames because of assassination orders. But the problem is the Iron Homeland. It's the only place with a level restriction, so they can't access it.",
+      "tone": "assertive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What's the level restriction?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "10. That's why they're called Tenmen. They stay at level 10 and hunt beginners. If you try to hunt, they come in groups and kill you, giving you all sorts of insults.",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Why do they do that? They gain nothing by trapping beginners.",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Because it's fun.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Anyway, there are too many of them for the three of us to break through.",
+      "tone": "resigned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "So, this is the end?",
+      "tone": "resigned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Not necessarily. When new users gather, we go for an all-out war. Or we wait for a large guild to do a massive code cleaning. In that case, 30-40 people come in at once, and they're skilled enough to just push the Tenmen aside.",
+      "tone": "assertive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Damn Fermi.",
+      "tone": "frustrated"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He had left out the most crucial information and told him to come to Atogram by tomorrow evening.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Strongest Codename",
+      "content": "There's one more way… but it's honestly annoying.",
+      "tone": "assertive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What way?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Strongest Codename",
+      "content": "You do what they ask. They record it, and later, when your level goes up, they demand a huge amount of galaxy to delete the video. If that's true, they're not just doing it for fun.",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Death Princess",
+      "content": "There are various rumors about the Tenmen, but you don't need to worry too much. Once you leave the Iron Homeland, you'll never see them again. We made the trap to level up quickly. If you hunt one by one, the Tenmen come and kill you.",
+      "tone": "resigned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "You're lucky. You've been hunting continuously, right? You should have been caught by the Tenmen long ago.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No, I met them at the starting point. I had just started when they suddenly sniped at me.",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Sniping… was it Colonoscopy?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yeah, that's right.",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Haha! You were unlucky too. That guy's pretty skilled. So, you were trying to get back at us because you kept getting killed by the Tenmen?",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It was really a mistake. And I didn't die. After dodging once, he didn't show up again.",
+      "tone": "vague"
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Silence fell.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the three stared blankly at Shirone, Destroyer707 burst into laughter.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Hahaha! What a bluff! What? You dodged a sniper? So, you dodged a bullet?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No, what happened was…",
+      "tone": "confused"
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "A chilling killing intent.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone reflexively threw himself to the ground, bullets rained down from all directions.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Damn! It's the Tenmen!",
+      "tone": "alarmed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The three, lying flat, crawled, but the cover was too far away.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "We're dead.",
+      "tone": "resigned"
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "But despite the loud gunfire, no one was hit.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "What the…?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Looking back while crawling, their eyes widened in shock.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "About 11 Tenmen. They were targeting only one person, and Yahweh2 was running through the trajectory of the bullets with his bare body.",
+      "tone": "amazed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "He's really dodging?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "…Is this a bug?",
+      "tone": "confused"
+    }
+  ],
+  "source_hash": "c0d037ec76affe5d76fadda02c9c87db73fe8a7ed8458e84fefaddd7f4f03ff2",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T08:52:50.683449+00:00"
+}

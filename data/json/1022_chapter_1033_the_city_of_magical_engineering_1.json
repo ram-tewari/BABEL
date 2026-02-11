@@ -1,0 +1,937 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The City of Magical Engineering (1)",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Paromedon",
+      "content": "Welcome! Paromedon Restaurant... Huh?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The restaurant owner, Paromedon, stared at the two humans entering through the door.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They looked human in every way.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The moment he saw Shirone, a deep-seated loathing welled up from within him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Paromedon",
+      "content": "Yahweh?...",
+      "tone": "hateful"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Demons know.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "From the pure state of magic, they understand their essence and what to reject.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The bustling restaurant fell silent, and the demons eating their meals focused their gazes on the newcomers.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Paromedon",
+      "content": "Just looking at them ruins my appetite.",
+      "tone": "disgusted"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Since there was no place in hell that welcomed Shirone, brazenness became a survival strategy.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Paromedon",
+      "content": "Two people here.",
+      "tone": "disapproving"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As they took seats at the central table, Rian plopped down opposite Shirone with a thud.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The demons watching Shirone turned their heads, sensing his defiant attitude.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Paromedon",
+      "content": "How unlucky. Lost my appetite.",
+      "tone": "displeased"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The demons at a corner table stood up, walked to the counter, and handed over their cards.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Paromedon",
+      "content": "Owner, the bill here.",
+      "tone": "disinterested"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Laviette was a city where credit loans through bank computerization were established.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Next to the counter was a human face with an open skull, revealing the brain.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When the card was inserted, the human's eyes spun up and down.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian looked around the store.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Intestine-like hoses led to the kitchen, where the sound of a beating heart could be heard.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Why is this necessary? If it's just about making something, there are stones and iron in hell too.",
+      "tone": "inquisitive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Unpurified magic retains the functions of living beings. Plus, it doesn't disappear.",
+      "tone": "explanatory"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone explained.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "The bodies of living beings have various functions. For example, the brain is used for computing, the eyes act as lenses or terminals for transmitting information.",
+      "tone": "educational"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When Shirone pointed to the eyes embedded in the table, a sound came from the ceiling.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Paromedon",
+      "content": "Owner! Take the order!",
+      "tone": "imperative"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Some cities stick to traditional uses, but Laviette is the cutting edge of hell. The functions developed here spread throughout hell.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "And the duke is at the center of it?",
+      "tone": "inquisitive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Paromedon",
+      "content": "That's right. Probably to a degree incomparable to what is used here...",
+      "tone": "proud"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At that moment, Paromedon, having finished the transaction, approached.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Paromedon",
+      "content": "You ruined my business today. Just order and eat quickly, then get out.",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Could we get a menu?",
+      "tone": "polite"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Paromedon's eyes filled with blood, but Shirone waited calmly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Paromedon",
+      "content": "Yahweh, I'm in a really bad mood right now. I'm warning you, just eat whatever.",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "The menu, please.",
+      "tone": "polite"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Whether in hell or heaven, one couldn't just randomly choose a meal in a restaurant.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Paromedon",
+      "content": "Tch!",
+      "tone": "disapproving"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Paromedon headed to the counter and dropped two menus on the table with a thud.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Paromedon",
+      "content": "Happy now?",
+      "tone": "scoffing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ignoring him, Shirone looked through the menu.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Let's see...",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Considering Rian's appetite, he picked a few decent options.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "We'll have the Pumong, three servings of Garbancho, and a large Kirinja. Can it be quick?",
+      "tone": "polite"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The menus were taken away without a word.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Paromedon",
+      "content": "Except for demons like ogres, they don't eat human flesh, so you can relax. Though the ingredients might not suit your taste since they're not from reality.",
+      "tone": "disgusted"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Garbancho was a tripe salad, and Kirinja was a steak as big as a horse's thigh.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Paromedon brought a bone cup to a mummified human face.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When he pressed the left eye, green juice poured out of the man's mouth.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Paromedon",
+      "content": "Here, Pumong.",
+      "tone": "disinterested"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Despite the owner's cold treatment, their stomachs were ready to digest anything.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Rian cut a large piece of Kirinja, he asked,",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Shirone, do you have money? They won't give it to you for free just because you're Yahweh, right?",
+      "tone": "inquisitive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Of course I do.",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Where did you get it?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I've always had it. Gold coins from reality become chips with skulls on them in hell. They're called Des.",
+      "tone": "explanatory"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Money and death.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "There used to be a tradition of placing money in the hands of the dead. It was believed you had to pay the ferryman to cross the river you couldn't return from. You needed money to die. That's the origin of 'Des.' Though now it seems to be printed by the Central Bank of the Alchemy Guild.",
+      "tone": "historical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The food smelled strongly of meat but was edible, and the Pumong was subtly sweet.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As they were finishing their plates, the door burst open, and demons entered.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Demons",
+      "content": "Is Yahweh here?",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The demons who had seen Shirone earlier seemed to have spread the word throughout the streets.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As they watched while sipping Pumong, a demon resembling a rhinoceros approached.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He pulled out a chair between Shirone and Rian, sat down, and propped his chin on the table.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Demon",
+      "content": "Well, well, it's true? You look even more disgusting in person. What are you doing here?",
+      "tone": "disgusted"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Having a meal. Can't you see?",
+      "tone": "polite"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Demon",
+      "content": "I can see very well. That's why I'm asking. Depending on your answer...",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The demon's fist on the table turned black, and spikes like a mace emerged.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Demon",
+      "content": "I might show you a lesson.",
+      "tone": "threatening"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone calmly wiped his lips with a handkerchief made of material and turned his head.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "If you plan to use force, you know you'll have to deal with the consequences, right?",
+      "tone": "cautious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Demon",
+      "content": "Heh heh!",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The demon raised both arms.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Demon",
+      "content": "Hahaha! Just kidding, just kidding. Do you think I'd really fight Yahweh?",
+      "tone": "teasing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The laughter abruptly stopped.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Demon",
+      "content": "But I hate you. Do you understand? Even if I tear you apart, it won't be enough.",
+      "tone": "hateful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The demon used his elbow as a lever to raise his hand.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Demon",
+      "content": "How about an arm-wrestling match? If you win, you can stay in the city. If I win, you leave immediately.",
+      "tone": "challenging"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Comparing hand sizes, it was like an adult versus a child, but more important was the ability.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Shirone, I'll do it.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Though he didn't understand the words, he wasn't so clueless as to not grasp the situation.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Before Shirone could stop him, Rian moved and gripped the demon's thumb.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "You seem strong. Let's see what you've got. I'm full, so I'll take you on to help digest.",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Demon",
+      "content": "Heh heh, you'll regret it.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the match began, the customers and even Paromedon stopped what they were doing and gathered around.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Demon",
+      "content": "Alright, alright! One round! The match is decided when the back of the hand touches the table or the ground. No complaints?",
+      "tone": "imperative"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Start!",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As soon as the word was given, Rian and the demon's bodies compressed like rocks, transmitting their strength.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The table split from the start, but neither moved, maintaining their positions.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The demon's face turned red.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Demon",
+      "content": "Impressive!",
+      "tone": "impressed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Feeling the endless surge of divine power, the demon's arm turned black.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Demon",
+      "content": "Yaaah!",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Black spikes emerged again, piercing Rian's hand mercilessly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Demon",
+      "content": "Good! That's it!",
+      "tone": "pleased"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The demons cheered, but Rian's gaze remained unchanged.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even the division commanders of hell's army couldn't match Rian in a test of strength.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "As expected... It's not just strength. There's a special code applied to this demon.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In reality, the demon's strength was only at the level of a brigade commander in hell's army.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Heh heh, demonic material, Desire.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was a substance developed ambitiously by the duke, physically manifesting the power of desire.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Originally, it was meant to be tested on Yahweh, but it doesn't matter. After defeating this guy...",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the demon's fist turned blacker, Rian's arm began to bend backward.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Demon",
+      "content": "Yahweh! Your turn!",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At the same time, strength surged into Rian's eyes.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Divine Transcendence",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As an incomparable force surged, the demon's face turned pale.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Demon",
+      "content": "What, what is this!",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Cracks appeared in the demon's blackened arm, and it exploded like a shell.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With a cracking sound, the demon's elbow bent grotesquely backward.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Demon",
+      "content": "Aaah! My arm! My arm!",
+      "tone": "painful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the demon rolled on the floor clutching his elbow, the other demons clicked their tongues.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Demons",
+      "content": "Tch! That was anticlimactic.",
+      "tone": "disappointed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As those feeling the bitter taste of defeat returned to their seats, Shirone asked Rian,",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "How was it?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "...Incredibly strong. Something's off.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Bending down, Shirone picked up the black shell that had fallen to the floor and examined it.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was hardened to the point of breaking with a little force, with no special function.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "One-time use, or function destruction.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Who sent you? Tell me honestly. This isn't something an ordinary demon would carry.",
+      "tone": "inquisitive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Demon",
+      "content": "I don't know. I don't know!",
+      "tone": "defensive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Fine, I won't ask.",
+      "tone": "resigned"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Trying to get an answer would paralyze the entire city.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Instead, tell the person who sent you. The declaration of war is well received. If there's no message by tomorrow evening, the city they built might be destroyed.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The demon nodded repeatedly, confirming that the duke was behind it.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Let's go, Rian.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone paid for the meal, Paromedon counted the Des indifferently and said,",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Paromedon",
+      "content": "What about the property damage?",
+      "tone": "irritated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "We don't know whose fault it is yet. We'll find out by tomorrow evening. I'll come back then.",
+      "tone": "polite"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Paromedon",
+      "content": "No, forget it.",
+      "tone": "disinterested"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Paromedon",
+      "content": "Go die in a cesspool.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As they walked through the city, hearing curses, it was clear that rumors had already spread, and the residents' expressions were not friendly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's hard to keep wandering around. Let's find a place to rest. We'll hear from the duke by tomorrow.",
+      "tone": "resigned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Are you sure? Obviously, from what happened today, they don't have good feelings towards you.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "That's why I want to meet. That substance from earlier is probably in the experimental stage. If it gets supplied to hell's army...",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Hmm, that makes sense.",
+      "tone": "understanding"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone and Rian found a nearby inn.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Sleeping comfortably is out of the question.",
+      "tone": "resigned"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In a space filled with various biological reproductive organs, it was hard to even breathe.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Let's get some sleep. It's best to wait here until the duke arrives.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "While they slept with the lights on, the temperature in Laviette dropped exponentially.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Whoooosh!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The sound of the cold wind howled like a ghost, and Shirone slowly opened his eyes.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian was already awake.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Shirone, someone is here.",
+      "tone": "alert"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The presence was felt outside the inn, but the intruder's voice came from inside the room.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Demon",
+      "content": "Sorry for visiting at this late hour.",
+      "tone": "polite"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The wall distorted, and a demon with a monocle entered, bowing.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bielman",
+      "content": "I am Bielman. I apologize for what happened earlier and have come to invite you both.",
+      "tone": "courteous"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Did the duke send you?",
+      "tone": "inquisitive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bielman",
+      "content": "I would like to say you'll find out when you get there... but yes, Duke Marguerite has summoned you.",
+      "tone": "enigmatic"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Sooner than expected.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Alright. Lead the way.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In the freezing cold that even chilled the air, a luxurious carriage awaited them.",
+      "tone": null
+    }
+  ],
+  "source_hash": "410d7f7059d7acaf4710aa62b2b2776c51471f4ab33a4b65e006afb5f45f5487",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T08:23:36.866932+00:00"
+}

@@ -1,0 +1,507 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "Flu rummaged through the supply box again and pulled out a heavy drone with both hands."
+    },
+    {
+      "type": "action",
+      "content": "The drone, which flew using magnetic levitation, had erratic flight paths, making it suitable for guidance experiments."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Let's start with level 1. Get a feel for it."
+    },
+    {
+      "type": "action",
+      "content": "Shirone aimed the laser pointer at the drone."
+    },
+    {
+      "type": "action",
+      "content": "When Flu flipped the switch, the drone vibrated and lifted off into the air."
+    },
+    {
+      "type": "action",
+      "content": "The laser pointer tracked the drone's path."
+    },
+    {
+      "type": "action",
+      "content": "Then, all eight Photon Cannons shot out simultaneously."
+    },
+    {
+      "type": "narrator",
+      "content": "Though slower than the original Photon Cannon, the speed of the photonic magic was still impressive."
+    },
+    {
+      "type": "action",
+      "content": "Shirone anxiously watched the homing Photon Cannons."
+    },
+    {
+      "type": "action",
+      "content": "As the drone skimmed past the wall, the eight Photon Cannons curved sharply and struck the target."
+    },
+    {
+      "type": "sfx",
+      "content": "Boom! Boom! Boom!"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "Wow! That's amazing!"
+    },
+    {
+      "type": "narrator",
+      "content": "The precision of chasing the drone even after it bounced off. Plus, the power was strong enough to dent solid metal."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Magic... has no limits."
+    },
+    {
+      "type": "action",
+      "content": "Finally realizing the reality, Shirone looked at Flu with eyes full of emotion."
+    },
+    {
+      "type": "action",
+      "content": "Their gazes met for a moment before they ran to each other, hugging and jumping up and down."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Success! We did it, senpai!"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "Well done! If you had failed, it would have been so frustrating! Finally, I'm free!"
+    },
+    {
+      "type": "action",
+      "content": "Their excited shouts echoed through the training ground."
+    },
+    {
+      "type": "action",
+      "content": "Only the dented drone looked at them pitifully."
+    },
+    {
+      "type": "action",
+      "content": "The last night at the Magic Association arrived."
+    },
+    {
+      "type": "action",
+      "content": "Shirone headed to the first-floor waiting room after being called by Flu."
+    },
+    {
+      "type": "action",
+      "content": "The empty hallway felt lonely compared to the bustling atmosphere of the day."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Why the waiting room? We could have met at the dorm."
+    },
+    {
+      "type": "action",
+      "content": "At the end of the hallway behind the first-floor lobby, light seeped through the crack of a door."
+    },
+    {
+      "type": "action",
+      "content": "The darkness was silent, and no voices could be heard."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hello?"
+    },
+    {
+      "type": "action",
+      "content": "As Shirone opened the door and peeked in, a paper popper went off with a bang."
+    },
+    {
+      "type": "action",
+      "content": "Startled, he stepped back, and the door opened to reveal four smiling faces."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "Congratulations, Shirone!"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gando",
+      "content": "Huh?"
+    },
+    {
+      "type": "action",
+      "content": "A cake was set up in the middle of the waiting room, with Flu, Gando, Isabel, and Kangnan standing around the table."
+    },
+    {
+      "type": "action",
+      "content": "Flu lit the candles with a snap of her fingers and gestured for him to come in."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What are you doing? Come blow out the candles."
+    },
+    {
+      "type": "action",
+      "content": "Feeling like he was in a dream, Shirone walked over."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Um, what's the occasion?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Isabel",
+      "content": "It's the day you complete your internship at the Magic Association. Come on, hurry up."
+    },
+    {
+      "type": "action",
+      "content": "When Shirone blew out the candles, everyone clapped."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Thank you. But it's just an internship, nothing special."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Isabel",
+      "content": "Still, it's the Magic Association. We can't let the longest-serving intern leave without a send-off. I heard you finished your training well. Flu said you were impressive. Congratulations."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "And you turned nineteen. Think of it as a birthday celebration."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Oh, right!"
+    },
+    {
+      "type": "action",
+      "content": "He had been so focused on training that he hadn't realized the year had changed."
+    },
+    {
+      "type": "narrator",
+      "content": "The many events of the past year came back to him in a wave of emotions, much larger than anything he had felt before."
+    },
+    {
+      "type": "action",
+      "content": "Standing a bit apart, Kangnan handed a small box over Isabel's shoulder."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "Congratulations, Shirone. This is a gift from the association."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Thank you. But what is it?"
+    },
+    {
+      "type": "action",
+      "content": "While he had formed connections with the people here, there was no reason for the association to care about an intern."
+    },
+    {
+      "type": "narrator",
+      "content": "Sensing Gaold's influence, Shirone wondered if there was a hidden agenda."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "It's just a gift. Open it."
+    },
+    {
+      "type": "action",
+      "content": "Inside the box was a silver signet ring. About 3 centimeters wide, with an engraved magic circle in the center."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Oh? This is a Kubrick, isn't it?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "A Kubrick? A two-dimensional ring. All association staff have one. You know what a two-dimensional ring is, right?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No, I don't."
+    },
+    {
+      "type": "narrator",
+      "content": "Despite his rapid growth, Shirone knew little about magical tools."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "It's a ring that stores items using scale magic. They sell them at alchemy shops, but they're quite expensive. The ones from the association have a more precise encryption system, so they're pretty good."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "A ring that stores items in a subspace would naturally be expensive."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "But what Shirone liked most was the Tormia Magic Association emblem engraved inside the ring."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No matter how expensive a Kubrick was, the association's emblem couldn't be bought with money."
+    },
+    {
+      "type": "action",
+      "content": "Isabel took the ring and placed it on Shirone's ring finger."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Isabel",
+      "content": "It works like other magical tools. It responds to the Spirit Zone."
+    },
+    {
+      "type": "action",
+      "content": "Flu, could you handle the magic control device?"
+    },
+    {
+      "type": "action",
+      "content": "Flu went out to the hallway and disabled the magic control device for the waiting room."
+    },
+    {
+      "type": "action",
+      "content": "Since the head of the magic library requested it, the security chief approved it, and the chief secretary allowed it, there was no problem."
+    },
+    {
+      "type": "action",
+      "content": "When Flu returned, Shirone entered the Spirit Zone."
+    },
+    {
+      "type": "narrator",
+      "content": "A unique magic he hadn't felt before was conveyed through shared perception."
+    },
+    {
+      "type": "action",
+      "content": "Focusing on it, letters appeared before his eyes."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "User registration? Yes, no?"
+    },
+    {
+      "type": "action",
+      "content": "As Shirone looked around for help, everyone tried to suppress their laughter."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "Can you see the letters? They're visible only to you. They appear on your retina through brainwaves."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "It must have used similar technology to project the view from the sky onto her retina."
+    },
+    {
+      "type": "action",
+      "content": "After registration, a circle divided into seven slots like a pie chart appeared."
+    },
+    {
+      "type": "action",
+      "content": "The slots were all the same size, and the top slot's border glowed red."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Is this where items are stored?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Isabel",
+      "content": "Yes. You can store up to 45 kilograms based on this world's gravity. If you fill one slot with 45 kilograms, you can't store anything in the remaining six slots."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Wow, 45 kilograms?"
+    },
+    {
+      "type": "narrator",
+      "content": "That was enough to carry a decent military load. Plus, it would be incredibly convenient for long-distance travel, reducing the weight of food supplies."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Let's practice. Choose an item to store first."
+    },
+    {
+      "type": "action",
+      "content": "Shirone took out Armand from his waist."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Okay, then this..."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "Alright. I'll teach you how. It's easy, like the four-directional technique."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Though he chuckled at the idea of the four-directional technique being easy, he accepted it as the standard of a third-class archmage."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "A Kubrick distinguishes objects through recognition within the mind. It's the core concept of external regulation. Since you recognize the sword as a complete item, the Kubrick separates it from the world. So you can't store just part of the sword."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Because I don't recognize it as complete."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "Correct. Next is how to store and retrieve items. It's simple."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "Touch the ring to the item and think about storing it. When your thought changes, the nature of the Spirit Zone changes slightly, and the Kubrick detects this subtle difference to operate. That's why living things can't be stored. Even the mind of a small creature changes the Spirit Zone, making it a foreign substance to the Kubrick."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone nodded repeatedly, impressed by the Kubrick's sensitivity."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Alright, I'll give it a try."
+    },
+    {
+      "type": "action",
+      "content": "As he thought about storing Armand, the sword disappeared like magic."
+    },
+    {
+      "type": "action",
+      "content": "He could see the now two-dimensional Armand stored in the Kubrick's slot."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Now to retrieve it."
+    },
+    {
+      "type": "action",
+      "content": "When Armand appeared in front of his palm, he instinctively grabbed the handle."
+    },
+    {
+      "type": "action",
+      "content": "Having fun, Shirone experimented with the function about a dozen times."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Once he got the hang of it, he understood the item well."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "If you go to a large enough alchemy shop in the city, you can upgrade the weight capacity. Up to 100 kilograms costs about 200 gold per kilogram. Beyond that, the price increases significantly, and if you exceed 400 kilograms, it can cost millions."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Wow, that's incredible."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "The price was high, but so was the weight capacity. With 400 kilograms, you could carry all your belongings on your finger."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "That means there's a high demand. It's also technically challenging to enhance. The current weight limit is around 800 kilograms. There might be one in the entire kingdom."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone was simply pleased. Whether it was 800 kilograms or not, he loved the ring he was wearing."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gando",
+      "content": "No matter how convenient it is, it's best not to store important items unless you're traveling."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Why is that? Could the items disappear...?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "No. They could be stolen. The association-made Kubrick has a complex encryption system, so the risk of extraction is low. But anyone can cut off your finger and take it."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone instinctively covered the ring with his hand."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'll protect it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "There's no need for that. If you're in danger, just throw it away or give it up. Kubricks aren't unique, and you can buy them on the market."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "This was advice only the second-in-command of the Magic Association could give."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "Anyway, it's that kind of item. To become a proper mage, you need to know how to use it."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "If he were to go to Heaven, a Kubrick would be essential. It was an unspoken pressure to be fully prepared, from important items to trivial ones."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes, I'll definitely become a mage."
+    },
+    {
+      "type": "action",
+      "content": "Shirone raised his hand, showing the Kubrick. Everyone smiled through their fingers."
+    }
+  ],
+  "source_hash": "53eba4cc3b954e19ba75a995675962c84a89ceea3c1341e1fe984d410858aeef",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T05:21:42.414883Z"
+}

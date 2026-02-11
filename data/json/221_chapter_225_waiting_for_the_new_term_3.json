@@ -1,0 +1,649 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Jerome Family was an educator lineage that had produced excellent teachers for generations and was one of the most prestigious families in the kingdom.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When asked who was higher than the king, the joke answer 'the king's teacher' wasn't far from the truth.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even if they gathered only the disciples they had raised, it would not be difficult to run an entire nation.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Arriving at the main house of Jerome Family, Alpheas walked through the ancient-style corridors guided by the butler.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Although they had known each other for 30 years, this was his first time visiting her room.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When the butler opened the door, a splendid scene greeted him.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The floor was so clean it reflected his face, and the shelves lining the walls up to the third floor were filled with all kinds of antiques.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "To the north, there was a tiger rug big enough to fit ten people, and given her disdain for fakes, it was undoubtedly genuine.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "However, he doubted that such a large tiger had ever existed in the world.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The woman was sitting on a sofa on a leopard rug.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Although in her 50s, she looked young enough to be in her 30s.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She was beautiful even now, but in her youth, she was truly stunning.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She was so aloof and tidy that men found it hard to even speak to her.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia Jerome",
+      "content": "If you're here, close the door and sit down. Why are you just standing there blankly? You're still as stupid as ever.",
+      "tone": "angry"
+    },
+    {
+      "type": "thought",
+      "speaker": "Alpheas",
+      "content": "The temperament to look down on all men in the world remained unchanged.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Her voice was as clear as a nightingale's, making him feel as if time had turned back.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "No, I'm just amazed. I wondered what kind of place you lived in, and it seems like you've transplanted your exact personality here.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia Jerome",
+      "content": "Barging into someone's house without warning and spouting nonsense shamelessly. How could a country bumpkin like you understand the value of my belongings?",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The carpet was undoubtedly top-notch. So Alpheas stomped on it with his shoes still on.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia Jerome",
+      "content": "What are you doing now? Oh, forget it. Just tell me what you want to say.",
+      "tone": "exasperated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Alpheas grinned mischievously. She was the same now as she was 30 years ago.",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Olivia Jerome.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shee is an officially certified second-class Archmage and currently serves as an inspector for the teachers' association.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Additionally, she had served as the principal of the Royal Magic Academy four years ago.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Something I want to say? You didn't respond, so I came to see you in person.",
+      "tone": "nonchalant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia Jerome",
+      "content": "What do you want me to do about it? You got suspended from teaching because of your own misconduct, and now you want me to clean up your mess? Principal of a rural magic academy? And it's only a six-month temporary position?",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "It's not set in stone. You can stay longer if you want.",
+      "tone": "nonchalant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia Jerome",
+      "content": "But why? Why would I leave this nice house and go to the countryside?",
+      "tone": "exasperated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "It would be nice to spend some leisurely time together, sipping tea as we grow old.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia Jerome",
+      "content": "Are you under some illusion? My feelings for you were 30 years ago. Do you think I've forgotten how you treated me? More than anything, you're not charming anymore.",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Haha! That's how it is. But you're still beautiful.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia Jerome",
+      "content": "You... crazy... fool.",
+      "tone": "exasperated"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Olivia's face flushed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "To think he could still utter such creepy words at his age. Had he gone senile? He was saying things now that he wouldn't have dared to say before.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "I'll be honest with you. I didn't want to look pitiful after seeing you for the first time in ages.",
+      "tone": "nonchalant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia Jerome",
+      "content": "Oh, not at all? I've imagined countless times the sight of you kneeling before me.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Alpheas smiled bitterly. Well, looking back, her wounds must have been deeper than his.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia Jerome",
+      "content": "Right. If you insist, I'll make my request plainly. Do I need to kneel here?",
+      "tone": "exasperated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Olivia responded with a scoff. What difference would it make if he kneeled now?",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia Jerome",
+      "content": "What have you been up to these days? You lost your job. Are you really going through a late-life crisis?",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Just reading books, going for walks, and talking about various things with Erina.",
+      "tone": "nonchalant"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "For the first time, shock struck Olivia's eyes.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheas' first and last love. Erina still lives in his heart.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "'You still can't forget her. You're the biggest fool in the world.'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After wandering for ten years following the loss of his wife, Alpheas returned with dreams of becoming a teacher and became a student of the young Olivia.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "As a great genius who established the quantum theory of light, Olivia taught him with affection.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Affection. That was the problem. She shouldn't have accepted as a student someone older, more talented, and more good-looking than herself.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Olivia, who could not control her growing love, eventually confessed her love to Alpheas.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But Alpheas, unable to forget his wife, rejected her flatly, and from that day on, her life changed 180 degrees.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "There were more than a few nights when she spent her nights crying over her crushed pride.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "What really enraged her was the absurdity of losing the man she loved to a woman who didn't even exist in this world.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The burning love of the 20s was not visible. And in the end, she ended up damaging Erina's painting in front of Alpheas.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "For the first time, Olivia felt Alpheas's murderous intent.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She clung to his trousers, begging, but from that day on, Alpheas didn't treat her as a human being anymore.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It would have been better if she had stopped there. But Olivia was so desperate and passionate at the time. She lacked the courage to give up her first love that had come to her.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But she shouldn't have done it. Going to Alpheas's room that night was the mistake of a lifetime.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Don't get me wrong, Alpheas. The reason I didn't get married isn't because of you. It's just that I find men troublesome.",
+      "tone": "nonchalant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia Jerome",
+      "content": "Is that why you're collecting all these strange items? Olivia, there's no human who doesn't want to be loved.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "That's a base emotion. Back then, I pursued you out of pride. You didn't give me any attention, being obsessed with a dead woman.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia Jerome",
+      "content": "Suddenly… I remember what happened that night.",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Olivia's face turned pale.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "You came to my room, undressed…",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia Jerome",
+      "content": "Stop!",
+      "tone": "exasperated"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Olivia held out her hand and screamed.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Though it happened 30 years ago, it was as vivid as if it were yesterday.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was the first and last time she had shown her naked body to a man.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At that time, she wanted to win Alpheas' heart even that way.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But he didn't even grant her the simple request of holding her just once.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia Jerome",
+      "content": "'You bastard...' Even thinking about it now made her so sad she could cry.",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "To brag about the most humiliating moment of her life like that—why did women always have to be the ones who suffered?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia Jerome",
+      "content": "'I can't forgive you. I will make sure you regret this.'",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Olivia, having failed to gain the upper hand, decided to get to the point and picked up the envelope lying on the sofa.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Fine. Let's take a look.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The document contained information about Alpheas Magic Academy.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheas Magic Acaddemy. Ranked 4th among the 5 prestigious magic Academy.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ranked 11th among all special purpose academy. That's pretty high for an idiot.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When it first opened, it was truly a mess.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "I was lucky. I had many good students.",
+      "tone": "nonchalant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia Jerome",
+      "content": "You did a lot of research. Were you planning to agree from the beginning?",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Think what you want, but what I'm curious about is that the academy only rose in the early. If you look at their performance over the past decade, it is just about on par with the top 5.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia Jerome",
+      "content": "I'll take it on. I'll make it much more prestigious than it is now.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Oh? That's an ominous thing to hear, but I'd be grateful if you did.",
+      "tone": "nonchalant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia Jerome",
+      "content": "But there is a condition.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Alpheas raised one eyebrow and smiled. He hadn't expected her to agree without some kind of compensation.",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "I have students I taught when I was the principal of the Royal Magic Academy.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Transfer them to your academy. Here are their profiles.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheas postponed the answer and received the profile first.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They were a boy and a girl of the same age, both 17 years old, and their grades were outstanding even at the Royal Magic Academy, the most prestigious academy in the kingdom.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As he flipped through the three profiles one by one, Alpheas' eyes opened wide on the last page.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Dante? Is this the Dante I know?",
+      "tone": "surprised"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia Jerome",
+      "content": "Hoho! He's too good a student for your academy. But now I'm the principal.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Alpheas blinked in disbelief. He didn't know that the world-renowned Olivia would put in this much effort.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia Jerome",
+      "content": "I'll transfer Eirhain Dante and two others. That's my condition.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Five mages were racing through the rugged mountains.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was a young party consisting of people in their early to mid 20s, all of whom were experts in their respective fields and had obtained official certification.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The raid location was a hideout of bandits who had set up a base in the mountains near the capital, and they were a force to be reckoned with, a B-rank bounty.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Destroying a bandit group would give them fame and rewards, but the reason they were climbing the mountain today was different from usual.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Victor Savina",
+      "content": "Why is it so quiet? Could they already be dead? They're just kids, no matter how rude they were.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bonipar Closer",
+      "content": "Hmph! Does it matter? It's not like we killed them. You were there too. You saw how much they disrespected us. Just because they go to the Royal Magic Academy?",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eirhain Dante",
+      "content": "That's right. No matter how immature you are, how can you ignore a certified mage who is still active? Kids these days are too arrogant. They need to get hit hard before they come to their senses.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When we finally arrived at the hideout, it was as quiet as a mouse.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As they opened the door with a puzzled mind, a surprising sight unfolded.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "There were about 40 B-class bandits lying all over the ground.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The students sitting around the round table welcomed them.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Victor Savina",
+      "content": "Oh? You're late? We've been waiting for quite a while.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bonipar Closer",
+      "content": "Why are you taking this so seriously? It's embarrassing for grown-ups. Haha!",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eirhain Dante",
+      "content": "Wha- What the hell are you?",
+      "tone": "confused"
+    }
+  ],
+  "source_hash": "7a9d6e119719a65e170592d0009601a3337552dda278efdf30f5144f9be5c668",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T17:24:33.753968+00:00"
+}

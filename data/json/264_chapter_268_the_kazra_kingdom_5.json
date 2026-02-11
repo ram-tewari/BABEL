@@ -1,0 +1,769 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Orkamph raised his hand to welcome them.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Orkamph",
+      "content": "You must have had a hard journey coming such a long way. Shirone, you know the reason you've come here, don't you?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes, I know.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Orkamph",
+      "content": "Good, we'll discuss the details later in a separate place. You must be weary from the journey, so prepare rooms for them and offer them a meal.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The head chamberlain, who oversaw all affairs in the royal palace, bowed his head.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Head Chamberlain",
+      "content": "As you wish, Your Majesty.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone once again lifted his head to look at Orkamp.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was a reunion between father and son after 18 years. However, there were no personal words exchanged.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Was this what it meant to be a king? Did having the title of king mean that one couldn't even express personal emotions?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Perhaps he had no feelings left for the son he had already abandoned.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "If he truly loved his child, he wouldn't have abandoned him, no matter what kind of obstacles he faced.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With a sense of emptiness, Shirone and his group followed the chamberlain out of the grand hall.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Great Chamber where guests were accommodated had rooms arranged for two people each.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Vincent and Olena shared a room, while Amy and Reina took another.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "However, the chamberlain didn't assign a room to Sirone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chamberlain",
+      "content": "Sir Shirone will be staying in the inner quarters with His Majesty's family.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "We weren't informed about this?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was dangerous for Shirone to be separated from them, especially within a royal palace where any conspiracy could be lurking.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chamberlain",
+      "content": "But of course. Sir Shirone is to become royalty.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "But nothing is certain yet.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The chamberlain furrowed his brow.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Such matters were beyond the knowledge of a mere chamberlain.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ordos",
+      "content": "What seems to be the issue?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The royal administrative officer, Ordos, approached.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The chamberlain hastily bowed and conveyed the complaints of Shirone's party.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ordos",
+      "content": "There are protocols in the palace. Even simply changing a royal's room causes quite a stir. However, if you are that uncomfortable, I will make a petition.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Not wanting to cause any trouble right after entering the royal palace, Shirone shook his head.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "While it was true that he was wary of potential dangers, he still wanted to believe that his biological parents wouldn't harm him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "If that wasn't the case… If even they didn't see him as their son despite sharing the same blood, then there was no reason for him to be here.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ordos",
+      "content": "Understood. I'll go to the inner quarters. But I'll be able to see everyone at mealtime, right?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ordos",
+      "content": "Separate arrangements will be made for meals. A commoner cannot join the royal family's meal time.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Shirone frowned.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Vincent and Olena were his benefactors who had raised him for 18 years and were his only parents.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Even if he was of royal blood, he had no desire to deny that fact.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Come to think of it, no one from Kazra had yet expressed gratitude to Vincent and Olena.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Perhaps they believed they hadn't abandoned their child but had merely entrusted him temporarily.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Just as a vassal follows the king's command, it seemed they also considered Vincent and Olena's kindness as something to be taken for granted.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "That was something Shirone could not tolerate.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "If his parents were going to be treated with such disdain, he wouldn't hesitate to return home, even now.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "That's not acceptable. Please allow my parents to join me for the meal.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vincent",
+      "content": "Sh- Shirone… we're fine.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Having spent his whole life tormented not by royalty but even by nobles, he knew just how dangerous Shirone's words were.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No. If that's the case, then I won't attend either. My parents must join me during meals.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ordos bit his lip and fell into thought.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "What an audacious child. Did he think he already had everything just because he was named the First Prince?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Of course, he would become a prince, but that didn't mean the power structure would change.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Within the royal palace, the current First Prince, Empress Terraje's son, still existed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As his thoughts reached this point, Ordos found it all the more puzzling.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Despite the grand proclamation of bringing in Eliza's biological son, there had been no response or action from Terraje's side.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It could mean that she was confident, or perhaps it was an unspoken pressure on the forces she had planted within Kazra to act as they saw fit.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The Empress's power was formidable. Until now, there had been no way to challenge her, so factions hadn't clearly formed, but from now on, it was time to choose one's alliances carefully.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "However, Ordos remained skeptical.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "No matter how outstanding Sirone was at the magic academy, he was not an opponent that Terraje's children would be concerned about, not with just that level of reputation.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ordos",
+      "content": "I understand your request, Sir Shirone, but it's not within my authority to decide. This goes against royal protocol and could escalate into a national issue.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ordos",
+      "content": "Therefore, I must ask you to directly address His Majesty. Would that be acceptable?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Fine. I'll speak to him myself.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ordos",
+      "content": "Then please follow me. I will guide you to the inner quarters.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone followed Ordos, he turned back and said.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'll be back soon. See you later.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Reina watched Shirone as he grew distant.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Reina",
+      "content": "Was he really planning to bring Vincent and Olena to dine at the royal table?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The etiquette of royalty supersedes even the nation's laws. In a monarchy, any insult to the king's authority could shake the very foundation of the country.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "This decision was bound to invite danger in one way or another.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olena",
+      "content": "We're really fine. I think it would be better to stop Shirone. Even if I wanted to say something, I just… don't know enough.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It wasn't simply because Olena lacked knowledge.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Reina also couldn't quite grasp Shirone's intentions or what he was thinking.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Reina",
+      "content": "This is strange. He's not the type to be so stubborn.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Shirone has already started a fight.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "The reason Shirone responded to the palace's invitation was to meet his biological parents. But Shirone has no interest in becoming an heir or a prince.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "He intends to return to the magic academy and continue living with his family. And of course, that family is the two of you here.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "That's why he can't compromise. If he backs down here, he'll be pushed around to the very end.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Shirone chose the royal family's dining table as the point to gain a strategic advantage.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Olena's eyes welled up with tears.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Olena",
+      "content": "They were such unworthy parents. In a situation like this, instead of protecting their son, they were the ones receiving his care.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Olena",
+      "content": "In truth, she wanted to fight, too. Regardless of whether it was the king or anyone else, she wanted to stand up and declare that she had raised him, so he was her child.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vincent",
+      "content": "Let's just watch. He's our son, after all. He's a thoughtful boy. We just need to follow what he says.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Olena wiped her tears and nodded.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "◆ ◆ ◆",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone entered the inner quarters where the royal family resided.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was like another palace within the palace, a completely different sight from what he had seen so far.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The walls were adorned with portraits of the royal family, decorated with bright golden wallpaper, and luxurious carpets covered the floor.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone made his way to Orkamp's room. Since it was located at the farthest end of the palace, it wasn't difficult to find.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When he entered the study, Orkamp was seated at his desk, lost in thought.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was only after a considerable time that he realized Shirone was there, and he stood up, saying,",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Orkamp",
+      "content": "You've come?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Orkamp",
+      "content": "Come this way. Your mother is waiting.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "By 'mother,' he meant Queen Eliza of Kazra. Orkamp said no more and did not speak a single word as they walked.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone was so tense that he didn't even register the silence.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He was finally about to meet the mother who had given birth to him.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Eliza's room was said to be the most lavish and luxurious place in the Kazra Kingdom.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A gigantic, pure white bed that could fit ten people was placed in the room, and sitting atop it was an even paler woman.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A queen didn't necessarily have to be beautiful, but she was, and her large eyes were filled with sorrow.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eliza",
+      "content": "Ah…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Overcome with emotion, Eliza couldn't speak.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rising from the bed, she didn't say any of the words she had prepared beforehand but instead embraced Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone just stood there. He felt that he should hug her back, but for some reason, he couldn't move even a finger.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She had a pleasant fragrance. It was an exquisite and precious royal scent that Shirone had never experienced before.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But it wasn't Olena's scent.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eliza",
+      "content": "My son, you've finally come. I'm so sorry…! Please forgive your mother!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Hearing Eliza's tearful voice, Shirone felt his throat tighten as well.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "When he was younger, there were times he resented the parents who had abandoned him.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "But Vincent and Olena had filled the emptiness of his bloodline with a love so immense that it could never be replaced.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "That's why he felt guilty. It was unfamiliar to him that he couldn't say kind words to Eliza.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Outside… the parents who raised me are waiting.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Eliza pulled back and examined Shirone's face.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He was a truly beautiful boy. This too was of noble blood, both his own and Orkamp's.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eliza",
+      "content": "Yes, but not anymore. I am your mother now. You will become the First Prince and inherit the kingdom.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eliza",
+      "content": "You have nothing to worry about. From now on, I will protect you.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone felt a tightness in his chest.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He didn't yet understand the emotion that was making him angry, but for the first time, he regretted coming here.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I want to have a meal with them. I understand that it goes against the laws of the kingdom, but I believe they deserve that kind of respect.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Eliza looked at her husband with a puzzled expression.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Orkamp was also disappointed by Shirone's statement. Why would a mountaineer caretaker be important to someone who would become the king of a kingdom in the future?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Orkamp began to doubt whether Shirone had the qualities of an heir, but he soon shook his head.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If he had Orkamp's blood, there was no way he could lack those qualities.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was simply that Shirone had not yet awakened the temperament of a conqueror because of the different environment he had grown up in.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Orkamp",
+      "content": "Is this truly necessary? Meals are meant to be shared with family. I don't like the idea of uninvited guests intruding.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Orkamp",
+      "content": "I will make sure they're treated well separately, so they won't feel neglected.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "So, this was how it was? Did the laws of a single meal outweigh the effort of those who had raised him?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Was this why he had been discarded like a worn-out shoe when the kingdom faced a crisis?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Seeing the disappointment and frustration in Shirone's eyes, Eliza quickly changed her mind.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even though she had agreed to abandon him back then, it had been entirely for her husband Orkamp's sake.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "What mother would willingly abandon her child?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She had suffered a lifetime of guilt, and now that Shirone had returned, she was ready to grant whatever he desired.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eliza",
+      "content": "If that's what you wish, then so be it. They took care of you, so it's the least we can do.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eliza",
+      "content": "Of course, if that's what my son wants.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Moved by her own words, Eliza's emotions overwhelmed her again, and she pulled Shirone into her arms.",
+      "tone": null
+    }
+  ],
+  "source_hash": "492f66c94234a3b2386e0df333595e475d3fc0a3994d719bc8328ed6c82a9476",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T18:05:51.255306+00:00"
+}

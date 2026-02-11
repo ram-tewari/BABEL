@@ -1,0 +1,709 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Upon Rian's remark, Shirone snapped his fingers.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Right, let's think about it. If there are living creatures, they must consume something.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Considering the food chain in an ecosystem is pyramid-shaped, if we extract the distribution of predators alone, it might look something like this.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone drew a pyramid with complex curves, resembling a woman's body.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It depicted lower predators, middle predators, and top predators, with a few mutant predators mixed in.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Since only carnivores were marked, the bottom and middle layers showed equal distribution.",
+      "tone": "explaining"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What about these mutant predators?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Among predators, there are many that don't hunt for their food. Some might use traps, or some might feed based on their intellectual abilities, like monkeys in our world.",
+      "tone": "explaining"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I see. So where do the Giants fit in?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Given that gravity and the presence of air are similar, their biological characteristics wouldn't deviate much. If we assume that, they would be somewhere around here, between middle and top predators.",
+      "tone": "explaining"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Whoa, are Giants mutant predators? They're that strong?",
+      "tone": "surprised"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Well, there's a possibility they are top predators. If so, there is hope for us, but their combat style is too primitive. Even cats hunt in a refined manner. But uprooting trees to swing around doesn't seem very helpful for hunting. That's why I classified them as mutant predators.",
+      "tone": "explaining"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tess tilted her head and asked",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I don't think so. Because it seemed like they used language. If they have any intelligence at all, they can't be below middle predators.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Canis spoke up",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Statistically, yes. In any case, there wouldn't be many of them. Intuitively, I think the probability of encountering a stronger enemy than the Giants is less than 10 percent.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy summarized the situation",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone analyzed the situation carefully.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Amy's optimistic view was valid, but in life-and-death situations, probabilities were merely illusions.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The fact that they had barely arrived in heaven an hour ago made it impossible to turn back. Although it was an irrational illusion, everyone must have known it to some extent.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Ultimately, they didn't want to go back yet. Even if greater dangers lay ahead.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Okay, let's at least get to the fortress. I don't want to give up here either.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As they prepared to set off with their backpacks, a loud noise came from the forest.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tess's sharp ears picked up a woman's voice.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "A sense of unease crossed their minds, feeling that it might be a more dangerous situation than a Giant attack.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "However, if it truly was a woman, it meant an intelligent being. The information they could glean from her would be invaluable.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sharing glances, Shirone's group dashed into the forest as if on cue.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Kiing! Kick! Kick!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A six-legged predatory creature, Dokgakgui, let out a rough cry.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Dokgakgui, a crustacean, moved by driving its six sharp, triangular legs into the ground.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Its pale purple body was covered in a carapace, with a single large eye embedded in the center of its face.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A long horn on its forehead looked even sturdier and longer than a unicorn's horn.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "Rena! Drive it this way!",
+      "tone": "commanding"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rena",
+      "content": "Got it! Be careful, sister!",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kanya and Rena surrounded the Dokgakgui from front and back.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The woman with long black hair down to her waist was Kanya, and the girl with big, pretty eyes was her younger sister, Rena.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "They were members of the Mecha tribe, denizens of heaven, known for their youthful appearances, characterized by slender jaws, small noses, and crescent-shaped thin lips.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Although they were seventeen and fourteen years old, their faces made it hard to tell who was older.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rena, who had taken the rear, targeted the creature's blind spot and swung her sword.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The complex weapon, with countless intersecting lines on the blade, showed its remarkable effectiveness.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "A shockwave erupted with a bang, scattering carapace fragments.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Dokgakgui, hit for the third time, shrieked and moved sideways.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rena leaped in response.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Although the Dokgakgui's single eye could cover a 330-degree field of vision, Rena stuck to its only 30-degree blind spot and struck again at its carapace.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the agitated Dokgakgui charged, Rena held out a small kite shield strapped to her wrist.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Though it seemed like a toy, as the horn collided with it, a vision of a much larger shield emerged, repelling the Dokgakgui.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The flipped-over creature flailed its many legs like a beetle.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It barely regained its balance but kept stumbling to the right, still reeling from the shock.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kanya aimed her arc.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It resembled a bow but was made of metal and had no string. Instead, it had a handle that, when pulled, emitted a red light from end to end, targeting the Dokgakgui.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A weapon capable of triangulating and locking onto a target.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With the sight calibrated, the projectile would not miss.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kanya aimed the red dot gathering at the Dokgakgui's face.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sensing danger, the Dokgakgui moved side to side, but Kanya followed its movements.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Rena vanished into its blind spot again, the frightened creature lunged at Kanya.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kanya released the handle, sending a small bead shooting from the arc's center, piercing the creature's eye and exploding inside.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Dokgakgui's body jerked and collapsed to the ground.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Its innards must have liquefied, but it still let out a chilling scream.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rena, holding her sword in reverse, stabbed into a gap in its carapace.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "With a pop, the Dokgakgui's body convulsed like salt sprinkled on it, then stopped moving.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With the battle over, Kanya lowered her arc and wiped her sweat.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "Whew, that was tough. This one was quite resilient, huh?",
+      "tone": "relieved"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rena",
+      "content": "Yeah. Are you okay, sister?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "As you can see, I'm fine. But it's strange. Why did a Dokgakgui appear here? We're far from its habitat.",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rena",
+      "content": "Could we be lost?",
+      "tone": "worried"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "No way. The drone is pointing in the right direction. Maybe the forest's laws have changed. Let's get out of here quickly.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rena",
+      "content": "But we should collect the elixir, just in case.",
+      "tone": "cautious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rena climbed onto the Dokgakgui's body.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She pried open its carapace and plunged her hand inside, feeling the hot, mushy innards.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Despite the disgusting texture, Rena boldly wiggled her fingers until she felt something.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rena",
+      "content": "Hey, it's here! Sis, we got it!",
+      "tone": "excited"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "Yay! A Red Elixir. Thank you, Dokgakgui.",
+      "tone": "grateful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Seeing her sister hopping around, Kanya smiled warmly.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Most creatures in Purgatory cultivated elixirs within their bodies.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "While divine protection rendered it unnecessary for Heaven's citizens, it was the most important substance in Purgatory.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "That was lucky. Now, let's hurry.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Kanya turned into a stern elder sister and urged her sister on, she felt a chilling presence behind her.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Eyes embedded in the forest glinted with murderous intent.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Moments later, creatures with sharp legs emerged, tapping against the rocky ground.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "More Dokgakgui, and seven of them.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "Rena! Get over here!",
+      "tone": "commanding"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rena",
+      "content": "Sis, what do we do? There are too many Dokgakgui...",
+      "tone": "worried"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "One Mecha could handle one Dokgakgui. But with two, it required at least five Mechas.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "According to the laws, the Mechas' strength lay in their group combat techniques.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "While physically the weakest among the divine beings, their coordinated efforts made even the Kergos or Nor tribes cautious.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "What on earth was happening in this forest?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "Despite spending a year scouting routes to avoid monsters, everything was now in vain.",
+      "tone": "resigned"
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Kiing! Kick! Kick!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the Dokgakgui menaced with their horns, the sisters stood back-to-back, protecting each other's blind spots.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "One Dokgakgui, seemingly testing the waters, lunged at Rena.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Holding up her shield, Exed, Rena repelled the creature with powerful recoil.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Switching places with Rena, Kanya fired her arc.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Unable to aim precisely, the projectile struck the carapace, causing an explosion.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the Dokgakgui rolled from the impact, the remaining creatures attacked.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rena",
+      "content": "Sis! Hide behind me!",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rena switched positions again, holding up Exed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Each time a horn collided with the shield, it sounded like thunder.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Despite swinging her shockwave weapon, Sygna, hitting a Dokgakgui without exploiting its blind spot was challenging.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The time she could withstand with Exed was decreasing. As it exceeded its recoil limit, the shield became a mere toy.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With seven Dokgakgui attacking from all sides, Kanya and Rena hugged each other and closed their eyes.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "More than the fear of death, it was the dread of the pain before dying that terrified them.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Dokgakgui impaled their victims and sucked out their innards.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Kanya even considered using Rena's Sygna to end her life quickly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As seven Dokgakgui aimed their horns at the sisters, a bright light flashed from above, and a burst of light descended.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kanya and Rena saw the back of a boy.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He had blond hair and wore strange clothes not seen in this world.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Are you okay?",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone smiled as he turned his head.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Meeting someone in a world where returning home was impossible brought a joy incomparable to homesickness.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "No matter their origins, the disgusting monsters were enemies, and people were allies.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "He's handsome. Is he a Nor?",
+      "tone": "curious"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "While the two women were lost in their thoughts, Shirone's group was fiercely battling the Dokgakgui.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian and Tess each took on one creature.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Having exchanged a blow, Rian felt somewhat reassured.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "While not an easy opponent, such strength was not uncommon among the monsters he frequently encountered in his original world.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Grabbing the Dokgakgui's horn, Rian overpowered it, causing its precarious six legs to flip over.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He drove his short sword into the creature's abdomen, pinning it to the ground.",
+      "tone": null
+    }
+  ],
+  "source_hash": "6af48f1487ce942a93609cb31553012f6ef76a5850950ed6181548d0aacab980",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T16:42:49.969320+00:00"
+}

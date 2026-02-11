@@ -1,0 +1,865 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dante was bewildered.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He hadn't necessarily expected a warm reception, but he did hope that receiving a greeting from the kingdom's top student would elicit some kind of special reaction, whether good or bad.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "However, Amy offered only a simple well-wish, just as she would to any other junior.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Is that all? Honestly, I was hoping for at least a compliment. After all, I'm going to win anyway.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Seriel, enraged by those words, grabbed Amy and Shirone's wrists and forced them to hold hands.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "That's ridiculous! For the opponent of her boyfriend, that's enough. What more do you want? Amy is definitely on Shirone's side, so give up your dream!",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "This was the first Dante had heard of this.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Come to think of it, he had never asked who Shirone's girlfriend was.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was obvious that Shirone didn't seem like the type to be with a girl.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Is that true, Senior Amy?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Yeah, that's true.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dante's face turned into a poop-eating face after Amy's confirmation.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Teacher's Association official",
+      "content": "Student Shirone! Student Dante! Over here! Come quickly so we can interview you!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Teachers' Association official called the two students in.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "They were scheduled to be interviewed before the match.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone followed the official, he said.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Then, I'll be back. Let's meet after. Don't leave without me.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dante walked silently behind Shirone.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Honestly, he felt like he had just taken a hit, and he wasn't in the mood to provoke him further.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "How could someone like Amy possibly be dating a country bumpkin like Shirone?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "Well, in the end, she'll be mine. I'll crush him in this match.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Though Dante wasn't the type to chase after women like Closer, having a beautiful and intelligent woman by his side would certainly enhance his image.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In that sense, Amy was the kind of woman who should be with him, not someone like Shirone, who was beneath her level.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dante couldn't suppress his curiosity and glanced at Shirone.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He had gathered various pieces of information, but everyone he asked said Shirone was the best.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "What stood out most was that even when they said this, they didn't seem to feel any resentment or discomfort.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "Why is this mild-mannered guy considered the best? Is he still hiding something?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Canis said that it would be no good to mess with Shirone.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Iruki said that only Shirone could control him.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The brightest student in the academy, Amy, was Shirone's girlfriend.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Mark and Maria did not take their eyes off Shirone with respect even when they heard the name Dante.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In that moment… his heart began to race.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was a kind of tension he had never experienced before.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "He couldn't figure it out.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The more information he gathered, the more unclear Shirone's true nature became.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Who on earth is Shirone?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With a troubled heart, Dante arrived at the back of the training ground.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It seemed that the Teachers' Association interviews weren't finished yet, as Kilain was questioning Thad, with the video recorder capturing everything.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Every time a question came in, Thad's face became like a blank sheet of paper.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He thought that if it went on like that, Thad's skin would become transparent and his bones would be visible.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kilain",
+      "content": "I think the odds are 50-50 between Dante and Shirone. However, if any variables come into play, I'd say it might shift to 60-40.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Thad",
+      "content": "Is that so? Thank you.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Kilain turned away as if there was nothing more to see.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Not only was the content lacking in substance, but capturing the face of someone so tense wouldn't be useful.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Moreover, a 50-50 chance? In her opinion, Dante was a 10, and Shirone was a 0.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Of course, the article would present it as 9 to 1.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kilain approached Ethella, who was waiting for her turn.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "She also showed her nervousness, as if it was her first time in this situation.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ethella",
+      "content": "Ahaha! Yes, Shirone is such a kind child. Oh, and Dante is an excellent student too. I just hope everyone can get along and be friends, ahaha!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kilain",
+      "content": "…Yes. I understand. Thank you for your words.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Kilain abruptly ended the interview, and Ethella sighed in relief.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Realizing how badly it had gone, Thad approached Ethella, pretending to cry.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Their articles will never be published.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Kilain was starting to get annoyed.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "She had prepared thoroughly for one of the top five academies, yet every teacher she met lacked any sense.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She decided to pin her hopes on the last teacher, Sienna, and if that didn't work out, she'd have to cut the teacher interviews altogether.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kilain",
+      "content": "Hello, Mrs. Sienna. I am Kilain from Teachers' Association.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sienna",
+      "content": "Yes, I'm Oliver Siina.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sienna nodded toward the video recorder with her usual cold expression.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Kilain's eyes lit up as if she had finally found something worthwhile.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Kilain",
+      "content": "Oh, good looks, good expression. This will work.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sienna",
+      "content": "I see. Thank you for your insightful comments. One last question, if I may. As the judge today, who do you think will be the winner, Dante or Shirone?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was cruel to ask a teacher about their student's success or failure, but it was Kilain's job to think about such questions.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The more brutal the question, the more interesting it was for the audience.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Students across the kingdom would buy academic journals to read articles like this.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sienna",
+      "content": "Personally, I believe Dante has the advantage, perhaps 7 to 3.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kilain",
+      "content": "Ah… I see. Thank you for the interview.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sienna nodded lightly and disappeared out of the focus of the video recorder.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even her departure was so refined that it made Thad want to cry even more.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In contrast, Ethella couldn't stop expressing her admiration.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ethella",
+      "content": "Wow, that was impressive. I was so nervous that I couldn't say anything.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Thad",
+      "content": "Tch, she's from the Oliver School. How could she understand the desperation of a no-name teacher like me?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ethella",
+      "content": "Haha, that's not true. You did well too, Teacher Thad.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ethella patted him on the back.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But Thad, who had been watching her interview, found it no comfort.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kilain finally walked towards today's protagonists.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kilain",
+      "content": "Dante, you're going to do well today, right? I'll write a great article for you, so make it flashy.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Haha! Don't worry. When haven't I been flashy?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kilain",
+      "content": "How can you speak so beautifully? Then, let's start the interview.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kilain's smile disappeared and serious questions followed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Yes, it is according to Master Olivia's wishes. She thinks that spreading the advanced magic of the capital to the regional areas is a good way to narrow the gap in skill between magic academies.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kilain",
+      "content": "Oh my, but isn't that a disadvantage for you, Dante?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Haha! Not at all. I get more excited when the overall level goes up. Besides, I'll be entering the graduating class after this semester. It's time to become a professional.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kilain",
+      "content": "As expected from the most promising prospect in the kingdom, such a bold statement. Lastly, you've overwhelmed countless opponents with a significant margin. How do you feel about today's match? Can we expect a similar result?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "First of all, Shirone is an Unlocker, and he's quite talented. I think it will be a good match. But as always, I will be the winner. Today, I'll show you the true essence of Information Magic.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kilain",
+      "content": "Thank you for the interview. We look forward to great results. Now, let's move on to interview Shirone. Shirone, could you come over here?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ah, yes!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone, who had assumed he'd have some time to prepare after Dante's interview, suddenly snapped to attention.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "As he stood in front of the video recorder, he could fully empathize with how the teachers must have felt during their interviews.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In particular, Dante's interview was so pretentious that it included compliments for the other person.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Um... So, yes. I enrolled in the magic academy this year.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kilain",
+      "content": "The rumors were true! There must be a reason why Dante acknowledged you as a worthy opponent. So, what do you think of Dante? Do you feel lucky to have the opportunity to face the kingdom's greatest student?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Most of the words coming out of Kilain's mouth were questions related to Dante.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But Shirone didn't have time to feel frustrated.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Just coming up with answers under her expectant gaze was overwhelming.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ah, yes. I don't particularly enjoy fighting, but having this opportunity is a good thing.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Kilain sighed inwardly.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Kilain",
+      "content": "How can you use the word 'good' twice? It makes you sound so awkward.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "This kid is definitely not cut out to be a star.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Although no one has ever beaten Dante, there have been quite a few students who have clung to their star power and made a name for themselves.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But Shirone was unmistakably a country boy.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "While his looks were decent enough that he could be groomed to be appealing, his awkward demeanor wouldn't resonate with the girls in Bashka.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dante, who had been listening to Shirone's interview, turned around as if there was nothing more to see.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kilain",
+      "content": "I can't help but ask what Shirone thinks. Many experts predict that you will lose, Shirone. What do you think about that?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Um... I can't acknowledge Dante.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The smile faded from Kilain's face, leaving only the form of it behind.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Dante also stopped in his tracks and looked back.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Dante seems not to understand what's truly important. I don't care how much of a name he's made in the capital or who he's defeated to get here. A mage is not just someone who lights fires or freezes water. Magic is the pursuit of intellect and knowledge. No matter how impressive his magic may be, if his spirit is flawed, I don't believe I can lose to him. No, I will never lose to a mage like that.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even Kilain, who had been through a lot, was caught off guard by Shirone's bold declaration, missing her timing by about 0.5 seconds.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Her words continued belatedly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kilain",
+      "content": "W- Wow! Such boldness from the challenger! I wish you good results too, Shirone. This was Kilain, reporting for Teachers' Association.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dante fixed his gaze on Shirone, who was walking away.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "A steel-like spirit hidden behind his nervousness.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "A flexibility that seemed to waver here and there, but core that remained unyielding.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "I see. So that's who you are.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "For the first time, Dante began to truly see Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The audience seats were packed.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The front row was reserved for teachers, with only two seats in the center remaining empty.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was obvious who those seats were for, even without looking.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Hahaha, as expected, Principal Olivia has quite the influence.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At the appearance of Alpheas and Olivia, the teachers stood up.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "As the students behind them also stood up without knowing what was going on, the crowd swelled like waves.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheas, after sitting in his designated seat, glanced around and, seemingly struck by an idea, grabbed the armrests and pulled his chair forward.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "My eyes aren't what they used to be. I need to be closer to see properly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His absurd action, which effectively moved everyone in the first row to the second, made Olivia's face flush red as she approached.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "What are you doing? You're embarrassing me in front of everyone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Kuku, come forward instead. You can see them well.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Am I crazy? Do you think I'm going to behave like you?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Then don't mind me and go back to your seat.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Olivia snorted as Alpheas acted like a bum.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But after a moment, she coldly turned around, dragged her chair forward, and sat next to Alpheas.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "She realized that if she didn't intervene, an article might appear suggesting that Mirhi Alpheas had gone senile.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheus lifted his leg and placed it on his other knee, waiting for the confrontation in a crooked posture.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Sit up straight. You're a principal, behave like one. Do you think this is some kind of underground fighting arena or something?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Kuku, it's been a while since my blood got pumping like this.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "What are you going to do if your blood starts boiling at your age? Honestly, this is why men… Our photos are going to be in the academic journal. Get up and sit properly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In response, Alpheas leaned back even further, resting his arms on the chair's armrests and propping his chin up with his hand.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Olivia, thinking that he had never listened to her since their days as master-disciples, glared at him coldly.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In contrast, Alpheas's eyes seemed to burn with excitement.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Seeing this, she briefly reminisced about the past and pursed her lips.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Don't tell me you're expecting something? Dante's going to win this match, no matter what.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "That's not something you can be sure of, is it? Besides, I'm not sitting here to cheer anyone on. If Shirone loses, I think that would also be a good outcome.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "What kind of nonsense is that?",
+      "tone": null
+    }
+  ],
+  "source_hash": "3f3bdaea1cea8c7029cca01eff96e98a0ae553323d16d0e309aa516c9c6d0908",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T17:44:59.508847+00:00"
+}

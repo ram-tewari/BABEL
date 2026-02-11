@@ -1,0 +1,829 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Thirty seconds passed, and the signal indicating the save was complete appeared.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The drone that had scanned both eyes sent a signal to the left eye.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Tess",
+      "content": "The scenery seen by the drone overlapped with what her eyes were seeing.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tess was so shocked she felt like her breath had stopped.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "This ability alone was worth a single Schema.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After removing the drone and attaching it to her gauntlet, Tess listened to the explanation and nodded repeatedly.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Kanya informed her that it also had a language decryption function and a feature that could track radio waves to automatically locate a target once specific brainwaves were stored.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Unlike Shirone and his group, who were excited about the combat enhancements, Clove rolled his eyes uneasily.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even to heretics, the word 'Nephilim' was intense.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was different from the fear one felt toward a powerful enemy. The Nephilim evoked an unknown dread, unrelated to strength or weakness.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Clove",
+      "content": "Recalling the attitudes they had shown so far, Clove hoped Shirone wouldn't cast some strange curse on them.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As expected, Shirone approached.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Contrary to the thought that he would inevitably fall victim, Shirone took out a Yellow Elixir and handed it to him.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was a fee.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Clove",
+      "content": "Clove hesitated for a long time before pocketing it.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Clove",
+      "content": "Th-thank you. You didn't have to give me this much.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's fine. It's not like the elixir can be split anyway.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Clove",
+      "content": "You… are you really a Nephilim?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I don't know. I'm just a magic school student. No matter how people here call me, that fact won't change.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Clove",
+      "content": "Sorry for being harsh. I thought you were from the Earth…",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Even if I were from the Earth, you shouldn't treat me like that.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Clove",
+      "content": "Y-yeah. Sorry.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone didn't want to talk anymore.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Preaching to someone who had succumbed to fear was meaningless. It was like telling a cockroach to bow—it would obey anyway.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone ignored Clove and headed to where the Nor people were gathered.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Since this place was also part of the community, he thought he might as well ask around.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Excuse me, do you… know anything about a woman named Miro?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Nor people looked puzzled.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Just as Shirone was about to give up and turn away, an old man leaning on a cane approached.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Old Man",
+      "content": "Miro, did you say Miro?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes. Do you know her?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Old Man",
+      "content": "I heard about her when my parents were alive. Is she also a Nephilim?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Huh? Ah, yes.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The people of this world knew Unlockers as Nephilim. Though Miro's origins were unclear, since she was also an Unlocker, it was safe to confirm.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Old Man",
+      "content": "She denied Ra's Law.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What does… that mean?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Old Man",
+      "content": "Don't know. That's all I heard. But my mother didn't hate her. Even though she was such a devout follower of Ra, it was shocking to me as a child.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A woman who denied Ra's Law. The information was simple, but upon reflection, it conveyed a lot.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "First, it was clear Miro had been to Heaven. And she must have returned after realizing far more about this world than he had.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Yet, she denied Ra.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "What judgment would he make when this journey ended? Would he come to understand Miro, or would he deny her?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lost in thought, Amy approached.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Shirone, the sun's about to set. We've decided to stay here for the night. How about you?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Huh? I'm fine with that. I'm tired from fighting since morning. Let's rest now.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Hey…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kanya came over to speak.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "What's up? Something to tell me?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "I taught Tess how to use the drone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ah, I see. Thanks.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "Lena and I are also staying here tonight. The guides are resting at this time. We'll probably leave tomorrow morning.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ah… I see.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's words trailed off.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "If Kanya was leaving tomorrow morning, they would have to follow her then. But the problem was that no agreement had been reached yet.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "You said you were going to Heaven, right? If it's okay, could you stop by my house for just a day?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They had planned to go to Heaven, but staying at Kanya's house was another matter.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "It might have been because of her mother, who didn't have much time left. Or perhaps she wanted to introduce the Nephilim to her devout parents.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In any case, there was no reason to refuse. Shirone could only feel grateful for her kindness.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When Shirone agreed, Kanya blushed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy didn't like that part but couldn't bring herself to argue timidly, so she snorted and went over to Tess.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As they were wrapping up the day's tasks, the outskirts of Nor's Haven grew noisy.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A group of people came running, shouting at the top of their lungs.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Group",
+      "content": "Patrol! Hide! Get down on the ground!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Before anyone could ask what was happening, the Nor people scattered in all directions.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone grabbed Kanya's hand and ran to where Guardrak was.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His friends seemed to have made the same decision, as they were gathering there too.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lying in the bushes, Shirone heard the full story from Guardrak.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Guardrak",
+      "content": "On the night of the full moon, angels patrolled the outskirts of Purgatory, he said.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Guardrak",
+      "content": "The reason and purpose were unclear, but it was a revelation passed down among heretics for thousands of years.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "A sound that shook the world echoed from the sky.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The air vibrated as if tens of thousands of locusts had gathered.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Each sound layered upon the others, the dissonance fading until a single melody pierced their ears.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Was it the most beautiful string instrument in the world?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone lost himself in delusion.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Guardrak pulled Shirone's consciousness back.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Guardrak",
+      "content": "Snap out of it! Don't get lost in the sound! We're only enduring it because we're mages. Any other race would have collapsed already.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone checked on Tess and Lena. They were kneeling, tears streaming down their faces.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They hadn't lost consciousness but were already in another world.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What kind of sound was this? Could a single note shake a person's mind like this?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Guardrak",
+      "content": "Each angel has a unique vibration. It's the resonance emitted by their very existence.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Resonance of existence? How is that possible?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Guardrak",
+      "content": "In Heaven, angels are called Tuners of the Law. As the primary entities of causality, they precede all laws. The vibration is proof of an angel's unique domain.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone looked up at the sky. Judging by the frequency of the vibration, the angel would likely pass over Nor's Haven soon.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Can the angel see us?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Guardrak",
+      "content": "Maybe, maybe not.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What do you mean? Can they see us or not?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Guardrak",
+      "content": "Did you check your fingerprints today?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Guardrak",
+      "content": "It's a similar situation. If they wanted to, they could project through the light barrier. But they don't fly around Purgatory like that. Unless they're in a particularly capricious mood today, nothing will happen.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Group",
+      "content": "They're coming!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone raised his head. Four silhouettes flew across the sky at high speed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He couldn't even blink.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "An angel in a white robe led the way. Its wings of light, ten times larger than its body, spread wide, and it held a golden blade in its hand.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But what caught Shirone's attention most was the sphere of light floating above its head.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The beings forming a triangular formation behind the angel were creatures he had never seen before.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The ones guarding the left and right resembled humans but had red and blue skin.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Following them was a monster that seemed like a fusion of all kinds of creatures.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Above their heads floated long, horn-like red triangles—some had one, others up to three.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What's that monster at the end? I see octopus legs and snake faces.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Guardrak",
+      "content": "Those are the Mara. Secondary entities of causality. Another name for them is Executors of the Law.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Executors of the Law?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Guardrak",
+      "content": "I told you angels are Tuners of the Law. They are the first personalities created by God, with the right to freely interpret His will. Do you know what that means? They can manipulate the Law as they please. They're on a completely different level from giants. When an angel tunes the Law, the Mara act. That's why they're called Executors of the Law.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone realized he had encountered the highest class of beings in this world.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If God was the law, angels were the judges.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then, the Mara would be something like aides who carry out the judges' orders, right?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "There's something floating above their heads. The angel has a sphere, and the Mara have horn-like things…",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Guardrak",
+      "content": "Right, they're horns. But not real ones—they're thought-forms. The more horns, the higher the Mara's rank. They're born with unique abilities, and the horns are the source of their power.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone looked up at the sky. Judging by the frequency of the vibration, the angel would likely pass over Nor's Haven soon.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Can the angel see us?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Guardrak",
+      "content": "Maybe, maybe not.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What do you mean? Can they see us or not?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Guardrak",
+      "content": "Did you check your fingerprints today?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Guardrak",
+      "content": "It's a similar situation. If they wanted to, they could project through the light barrier. But they don't fly around Purgatory like that. Unless they're in a particularly capricious mood today, nothing will happen.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Not long after the angel left, the moon rose.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was so large it felt like one could touch it from a mountain peak. It was eerie.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With the angel's patrol over, the Nor people's day came to an end.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone and his friends lay side by side in a borrowed 12-person tent in the camp.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Exhausted, soft snores could be heard from all around.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He wanted to think more, but his body was shutting down.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Without realizing it, Shirone fell asleep and met Miro in his dreams. It wasn't a nightmare.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "6. The Wine of Anecdotes (1)",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone and his group arrived at the Whirlpool Serpent's Valley with Guardrak.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Since the Law had been broken, it could no longer be called the Whirlpool Serpent's Valley, but a name maintained for tens of thousands of years wouldn't disappear so easily.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Guardrak said they wouldn't find any more guides here.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With the Whirlpool Serpent gone, a new Law might take its place. Whatever it was, it wouldn't be friendly to them.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Guardrak",
+      "content": "We'll see it someday. The Law is finite, but humans are infinite. Even if Heaven perishes, Nor's Haven will remain.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With those words, Guardrak disappeared.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The idea that humans were infinite resonated with Shirone. Even here, tens of thousands of light-years away, humans lived.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The group launched three drones into the sky.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Having experienced Kergo's heretic hunts, the importance of reconnaissance had grown.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Heaven consists of seven skies. From the 7th Heaven, Araboth, to the 1st Heaven, Shamayim.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "Believers live in the 1st Heaven, Shamayim. The three races—Mecha, Nor, and Kergo—follow the Law and perform their given tasks.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "But isn't that unfair? Your roles are decided from birth.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "We've been doing this for hundreds of thousands of years. We just follow the Law of Anke Ra.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "How is that possible? Is there a birth control policy?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "Those who obey and follow the Law gain eternal life. They enter the 3rd Heaven, Shehaqim, and live forever.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "So those who don't gain eternal life… die?",
+      "tone": null
+    }
+  ],
+  "source_hash": "e5557152bdc72640b36fd90bb8837aff3f8d680799fa0db2b13303a8e51e916f",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T16:53:27.221808+00:00"
+}

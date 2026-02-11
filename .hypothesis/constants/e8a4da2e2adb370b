@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\IPython\utils\_process_win32.py
+# hypothesis_version: 6.148.8
+
+[0.01, '"pushd %s &&"%s', 'C:', '\\\\', 'replace']

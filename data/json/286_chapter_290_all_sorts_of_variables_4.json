@@ -1,0 +1,871 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy, freed from the tentacles, reset her mental state with Red Eyes.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The intense dose of sedative left her nauseous, but she managed to enter her Spirit Zone just in time.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Equipping her strongest Fireball, Amy lunged at the door and swung her hand forward.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the powerful Fireball crashed in, the door entangled with organic matter shattered to pieces.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "By the time Zion realized he had been tricked, the second door was already being blown apart.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "Ah, shit…!",
+      "tone": "anger"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "What the hell did you do? You let her get away!",
+      "tone": "anger"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was a typical appearance of an inexperienced user.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Armand could copy the user's brain to assist with intelligence, but strictly speaking, it was merely a sword in symbiosis with its master.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It couldn't make judgments in place of its master about situations.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "We need to pursue her. Let's go.",
+      "tone": "commanding"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As if answering Zion's words, numerous tentacles stretched out from the Diamond Armor and stuck into the walls.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zion rose with the power of the tentacles and surged forward as if swinging.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "Reina stopped walking and turned her ear toward the direction of the sound.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The ability of Sound of Silence detected massive vibrations echoing underground.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The sound traveling through the walls was certainly subtle.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "However, the fact that sound reached this far in a palace boasting the kingdom's highest durability meant an enormous impact had occurred at the source.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Reina",
+      "content": "They're underground!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Reina threw herself toward the stairs visible ahead.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Such force—enough to make the entire structure tremble—was beyond even the strikes of a highly skilled swordsman.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was definitely Shirone casting a magic.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The moment she stepped into the underground, she heard someone running from the end of the hallway.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Examining the rhythm of the footsteps, it was the movement of someone extremely excited.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Reina pressed herself against the wall, wary of the approaching person.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Through the shroud of darkness, she saw someone rushing towards her.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Recognizing Amy, Reina quickly blocked her path.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Amy!",
+      "tone": "surprise"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Eek! You scared me! Unnie?",
+      "tone": "surprise"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "What's going on? What are you doing here?",
+      "tone": "curiosity"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Just run!",
+      "tone": "urgency"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As if there was no time to explain, Amy grabbed Reina's arm and ran.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then Reina also activated her Schema to match Amy's speed.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Bang! Bang!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Heavy impacts echoed from the walls.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Reina deactivated Sound of Silence.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The vibrations were so intense that her eardrums felt like they might burst if she kept it on.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "What is that? Is some monster chasing us?",
+      "tone": "concern"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "I'll tell you later. Where's Shirone?",
+      "tone": "urgency"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "This way. I heard sounds coming from over there.",
+      "tone": "direction"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The two took the left path, gazing at the storage room waiting at the end of the narrow hallway.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A sign hanging from the ceiling read 'Food Storage'.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Inside, the room was a chaotic mess, clearly the aftermath of a fight.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Flour had spilled everywhere, and some of it had dispersed into the air, creating a foggy haze.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Vegetables were chopped up as if half-prepared, their pieces dusted in flour.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Where's Shirone?",
+      "tone": "urgency"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Amy took a cautious step forward, looking around, Reina blocked her with outstretched arms.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Careful. Don't move.",
+      "tone": "caution"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Startled, Amy followed Reina's gaze.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Through the flour smoke, numerous spider webs were strung.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "This is…!",
+      "tone": "surprise"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Now fully alert, she looked around to see webs everywhere, as if this storage room had been sealed off for a hundred years.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Why are there spider webs in a place like this? And it seems like from an enormously big spider too.",
+      "tone": "curiosity"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Be careful. Something's here.",
+      "tone": "caution"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Reina slowly made her way through the spider webs, leaving Amy behind.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "...run.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Reina and Amy sprang toward the source of the voice.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone was hanging upside down, caught in a massive spider web.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His clothes were torn in various places, and his body was covered in numerous cuts.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Shirone!",
+      "tone": "concern"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Run away... This one... incredibly stro-",
+      "tone": "urgency"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Hold on! We'll get you down right now!",
+      "tone": "determination"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy immediately rushed over.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Just imagining an unknown person caught in a spider's web would be chilling enough, but seeing Shirone in that state was truly terrifying.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After examining the spider web briefly, finding no method, she grabbed and tore it with her hands.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A sharp sting shot through her fingers.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She pulled her hand back and saw her palm was cut.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What kind of spider web is this?",
+      "tone": "curiosity"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Amy! Run!",
+      "tone": "urgency"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At that moment, Reina wrapped her arms around Amy's waist and leapt backward.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "The sharp whoosh of something cutting through the air was a sound only Reina's keen hearing could have picked up.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy, sprawled on the ground, looked at Reina in confusion.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But Reina's gaze was fixed on something in the darkness.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Keke, not bad.",
+      "tone": "amusement"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zenogre, hanging upside down, came down next to Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy and Reina recoiled at the man's grotesque appearance.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Though the torchlight was too faint to make out all the details, they could clearly see he had multiple eyes.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zenogre",
+      "content": "When a thread moves, it creates vibrations. If you have the ability to hear those vibrations, then sure, you wouldn't be easy to kill with just a flat strike. Yes, indeed.",
+      "tone": "explanation"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "What did you do to Shirone! Let him go quickly!",
+      "tone": "anger"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zenogre",
+      "content": "Ah, this? Just caught him for now, kikik. You felt it yourself, didn't you? These webs are razor-sharp. One wrong move and his body will be sliced to pieces. That's why he can't so much as move a finger.",
+      "tone": "amusement"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "You…!",
+      "tone": "anger"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zenogre",
+      "content": "Alright, here's a question. Then, when do you think those cuts on Shirone's body happened? 1, Before getting caught in the spider web. 2, After getting caught in the spider web.",
+      "tone": "question"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "You, I'll never forgive you.",
+      "tone": "anger"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "As Amy seethed with rage, Zenogre found some solace.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In fact, 'option two' was his favorite game.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "By placing his prey on the spiderweb and inflicting little cuts bit by bit, he trapped them in a state where they couldn't move—yet couldn't afford not to move.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But, regrettably, the answer was actually 'option one'.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone's sense that detected the assassin's presence was truly incredible even to Zenogre.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was only after a full 10 minutes of pursuit that he finally managed to bind him in spider webs.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "Zion's voice was heard from the storage entrance.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "What, it's not done yet?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy turned around with a dismayed look.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zion, with tentacles hanging like octopus legs, was looking down arrogantly with his hands behind his back.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy and Reina instantly stood back to back, facing him.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone was captured by an assassin, and now their retreat was cut off.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Every factor was turning against them.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But Zion paid no mind to the two women.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "That Reina had tracked him this far was unexpected, but they were still mice trapped in a jar.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zenogre",
+      "content": "You've come, Your Highness. I was just about to finish things up.",
+      "tone": "respect"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "Finish things? We're way past the agreed-upon time. What's been taking so long?",
+      "tone": "anger"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zenogre",
+      "content": "My apologies.",
+      "tone": "apology"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "Forget it, just finish the job already. Cut off Shirone's head.",
+      "tone": "command"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zenogre",
+      "content": "Understood.",
+      "tone": "acceptance"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "You must be joking! You think we'll let you do that?",
+      "tone": "anger"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Finally, Zion turned toward the women, exuding a chilling murderous intent.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Over his shoulders, tentacles rose up ready to shoot out like a witch's claws.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even in his fading consciousness, Shirone intuitively realized that the armor surrounding Zion's body was Armand's true form.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Knowing that if things went on like this, they would all be killed, he ignored the agony of his shredded flesh and thrashed desperately, shouting, 'Run away! Reina Noona, take Amy and run!'",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "What use would run away be if Shirone dies? For now, there was no choice but to settle things with Zion.",
+      "tone": "determination"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Reina must have reached the same conclusion, as she widened her stance and glared at Zion.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The Ogent are a family that worships swords.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Although Reina wasn't wielding a weapon, the skills she had honed since childhood were by no means easy to deal with.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy and Reina split left and right to flank Zion.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Then unexpectedly, Armand's reactions became noticeably weaker.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even though they were symbiotic, Zion made all decisions.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "However, being inexperienced in battle, he struggled to respond effectively to their flanking maneuver, which left Armand's tentacles unable to pinpoint precise targets.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "You must've underestimated me! I'll pay you back properly!",
+      "tone": "anger"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "Damn! These wenches!",
+      "tone": "anger"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "Zion retreated as much as he could to block the doorway.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If he could subdue the opponents anyway, he needed to at least block the escape route.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But that was exactly what the two were aiming for.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Reina made a wide detour around the storage and jumped up stepping on the sacks.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Here!",
+      "tone": "determination"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Any other knight wouldn't have turned at Reina's voice.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even a child would know who's more dangerous between bare-handed fighting Reina and magic-wielding Amy.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But Zion, in his haste, looked back, and in that blind spot, Amy cast Fire Strike.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "It's over!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Just as Amy thought that, her body was suddenly seized by an unfamiliar force, sending her flying.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She struggled against the inertia, but it was impossible to resist.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Looking over mid-flight, she saw Reina and understood the situation.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A ball of thread that flew like a cannon unraveled and transformed into spider web, pouncing on Reina.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Her body stuck to the wall near the ceiling, entangled in the web.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The moment she confirmed that, Amy crashed into the opposite wall, feeling a sharp pain in her back.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She looked down at the spider web pressing down on her.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She tried to tear it with brute force, but it was too tough.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If what bound Shirone was sharp steel wire like a blade, this was like sticky mucus.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy and Reina struggled with all their might, but Zenogre had no intention of letting them free.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zenogre inflated his upper body like a balloon and spat out spider web beads from his mouth.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The continuously shooting spider webs spread wide at the midpoint, continuing to cover Reina and Amy.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The restraint became stronger with each layer of web that adhered to them.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After more than five layers stuck, Amy finally became unable to move at all.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The situation was the same for Reina stuck to the opposite wall.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zenogre",
+      "content": "Keke, causing such a ruckus. Are you all right, Your Highness?",
+      "tone": "amusement"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Only then did Zion come down to the floor with relief.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He was quite satisfied seeing the three flies bound unable to put up even the slightest resistance.",
+      "tone": null
+    }
+  ],
+  "source_hash": "0e8569f529edbf43fc6687535e3692b3df5a4931c9f5180f0a71ef1d69c4a874",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T18:25:04.682991+00:00"
+}

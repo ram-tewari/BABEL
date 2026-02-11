@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\google\ai\generativelanguage_v1beta\services\retriever_service\transports\__init__.py
+# hypothesis_version: 6.148.8
+
+['grpc', 'grpc_asyncio', 'rest']

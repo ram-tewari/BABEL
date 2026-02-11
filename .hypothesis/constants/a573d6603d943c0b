@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\xdist\__init__.py
+# hypothesis_version: 6.148.8
+
+['__version__', 'get_xdist_worker_id', 'is_xdist_controller', 'is_xdist_master', 'is_xdist_worker']

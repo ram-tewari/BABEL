@@ -1,0 +1,842 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "Shirone lay on his bed, enjoying a rare moment of relaxation."
+    },
+    {
+      "type": "narrator",
+      "content": "With the next semester marking the start of his final year, he could afford to skip some evaluations."
+    },
+    {
+      "type": "narrator",
+      "content": "But this also meant it was his last chance to solidify his basics during this break."
+    },
+    {
+      "type": "narrator",
+      "content": "That's why Iruki and Neide had gone straight back to their families instead of taking a break."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "For now, I should just rest."
+    },
+    {
+      "type": "action",
+      "content": "Shirone laughed at himself for saying that."
+    },
+    {
+      "type": "narrator",
+      "content": "But truly, he didn't want to do anything at the moment."
+    },
+    {
+      "type": "narrator",
+      "content": "It was the first time he felt this way, and while it was a bit unsettling, the lack of urgency suggested there was a reason for it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Looking back, I really worked hard."
+    },
+    {
+      "type": "narrator",
+      "content": "Reflecting on the past year, he couldn't believe how he had made it through."
+    },
+    {
+      "type": "narrator",
+      "content": "It felt like just yesterday he was at the bottom of Class Seven, and now he was among the top in Class Four."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "And I went through a lot."
+    },
+    {
+      "type": "narrator",
+      "content": "All the magic school students gave their best, but Shirone had faced many incidents and accidents."
+    },
+    {
+      "type": "narrator",
+      "content": "Through life-and-death struggles, he had grown stronger."
+    },
+    {
+      "type": "narrator",
+      "content": "Honestly, he felt confident he wouldn't be easily pushed around in the final year."
+    },
+    {
+      "type": "action",
+      "content": "Shirone got up from his bed and approached the ."
+    },
+    {
+      "type": "narrator",
+      "content": "Just seeing it standing there without support made him feel satisfied."
+    },
+    {
+      "type": "narrator",
+      "content": "With Direct Control, carrying it around wasn't an issue."
+    },
+    {
+      "type": "narrator",
+      "content": "But he wouldn't need to use it while attending school."
+    },
+    {
+      "type": "action",
+      "content": "Unsheathing Armand."
+    },
+    {
+      "type": "sfx",
+      "content": "A clear high-frequency sound accompanied the blade."
+    },
+    {
+      "type": "narrator",
+      "content": "It was shorter than a longsword but sharp and well-balanced for practical use."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Why is it so quiet? Could it be dead?"
+    },
+    {
+      "type": "narrator",
+      "content": "It had sent mental waves every night, but since returning home, it had been silent."
+    },
+    {
+      "type": "narrator",
+      "content": "The lack of response made him wonder if the contract had been canceled."
+    },
+    {
+      "type": "narrator",
+      "content": "He hadn't activated Diamond Armor since showing it to his friends."
+    },
+    {
+      "type": "narrator",
+      "content": "There hadn't been a need, but it also felt awkward for some reason."
+    },
+    {
+      "type": "narrator",
+      "content": "When you share something with a sentient being, it's hard to treat it as just an object."
+    },
+    {
+      "type": "narrator",
+      "content": "Activating Diamond Armor without a specific reason felt like it would be seen as silly."
+    },
+    {
+      "type": "narrator",
+      "content": "Of course, he knew there was no need for that."
+    },
+    {
+      "type": "narrator",
+      "content": "It was something he needed to get used to gradually."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Should I try it? It's my sword, after all..."
+    },
+    {
+      "type": "narrator",
+      "content": "It was frustrating to have an S-class object and not use it."
+    },
+    {
+      "type": "narrator",
+      "content": "He didn't want to fight anyone, but imagining himself in action with Armand made his heart swell."
+    },
+    {
+      "type": "action",
+      "content": "With a sense of pride, Shirone watched the sword."
+    },
+    {
+      "type": "action",
+      "content": "He spoke the activation word."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Diamond Armor."
+    },
+    {
+      "type": "action",
+      "content": "Despite his fear that nothing might happen, the blade opened up and enveloped him."
+    },
+    {
+      "type": "action",
+      "content": "The transformation was instantaneous."
+    },
+    {
+      "type": "action",
+      "content": "The hood covered his face."
+    },
+    {
+      "type": "action",
+      "content": "The fibrous cloak billowed out like flames."
+    },
+    {
+      "type": "action",
+      "content": "A glass orb emerged from the gauntlet's palm."
+    },
+    {
+      "type": "action",
+      "content": "The artificial brain, the External, quickly orbited around him."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Whew!",
+      "tone": "relieved"
+    },
+    {
+      "type": "narrator",
+      "content": "Shirone loved this feeling."
+    },
+    {
+      "type": "narrator",
+      "content": "It made his mind feel clearer than ever."
+    },
+    {
+      "type": "narrator",
+      "content": "The deepened focus point made him feel like he could amplify any magic."
+    },
+    {
+      "type": "narrator",
+      "content": "Armand, sharing its user's brain, adjusted its abilities based on the situation."
+    },
+    {
+      "type": "narrator",
+      "content": "But since there was no combat, there were no special changes."
+    },
+    {
+      "type": "action",
+      "content": "Shirone approached a full-length mirror and looked at himself."
+    },
+    {
+      "type": "action",
+      "content": "With a shabby robe and hood covering his face, he looked like a proper mage."
+    },
+    {
+      "type": "narrator",
+      "content": "The External looked more impressive than any other magical tool."
+    },
+    {
+      "type": "narrator",
+      "content": "Even if not now, the thought of exploring the world as a professional mage in this form made his heart race."
+    },
+    {
+      "type": "action",
+      "content": "Shirone clenched his fists."
+    },
+    {
+      "type": "action",
+      "content": "He mimicked drawing in magical power."
+    },
+    {
+      "type": "monologue",
+      "speaker": "Shirone",
+      "content": "I am a mage of the Immortal Function. One day, I will become the greatest mage in the world."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Uoooooo!",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "content": "Shouting towards the ceiling, Shirone's face froze."
+    },
+    {
+      "type": "action",
+      "content": "He saw the door in the mirror."
+    },
+    {
+      "type": "action",
+      "content": "Vincent stood there, looking at Shirone with a bewildered expression."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Dad!",
+      "tone": "embarrassed"
+    },
+    {
+      "type": "action",
+      "content": "Embarrassed, Shirone stomped his feet."
+    },
+    {
+      "type": "narrator",
+      "content": "It was a relief he had the hood on."
+    },
+    {
+      "type": "narrator",
+      "content": "If his face had been visible, it might have burst from the heat."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vincent",
+      "content": "Your mom says it's time to eat. Come down."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Okay."
+    },
+    {
+      "type": "action",
+      "content": "As Vincent closed the door."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vincent",
+      "content": "Aren't you a bit old for that?",
+      "tone": "teasing"
+    },
+    {
+      "type": "action",
+      "content": "Shirone's face burned."
+    },
+    {
+      "type": "action",
+      "content": "He hung his head."
+    },
+    {
+      "type": "action",
+      "content": "Hearing the door close, he finally took off the hood."
+    },
+    {
+      "type": "action",
+      "content": "He grabbed his head."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ugh! So embarrassing! It was my first time trying it!",
+      "tone": "exasperated"
+    },
+    {
+      "type": "narrator",
+      "content": "Thinking that doing things that didn't suit him only brought trouble."
+    },
+    {
+      "type": "action",
+      "content": "Shirone deactivated Armand."
+    },
+    {
+      "type": "action",
+      "content": "The fibers and glass orb were sucked back into the sword."
+    },
+    {
+      "type": "action",
+      "content": "Using Direct Control, he sheathed the sword."
+    },
+    {
+      "type": "action",
+      "content": "He put it in a corner before heading downstairs."
+    },
+    {
+      "type": "action",
+      "content": "The smell of soup on the table made his stomach growl."
+    },
+    {
+      "type": "action",
+      "content": "Suddenly very hungry, Shirone sat down."
+    },
+    {
+      "type": "action",
+      "content": "He grabbed a spoon."
+    },
+    {
+      "type": "action",
+      "content": "Olina smiled as she ladled soup into his bowl."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olina",
+      "content": "Hungry? Eat up."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes. Thank you!",
+      "tone": "grateful"
+    },
+    {
+      "type": "narrator",
+      "content": "Magic school food was nutritious for mages, but nothing beat the taste of home-cooked meals."
+    },
+    {
+      "type": "action",
+      "content": "As Olina watched her son devour a bowl of soup, she refilled his bowl."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olina",
+      "content": "What are your plans for this break? Do you have anything in mind?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'll rest for a while and then start training seriously. But there's something I want to do first."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olina",
+      "content": "Something you want to do?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes. There's a local festival in the Les Mountains every winter. Can I go?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vincent",
+      "content": "Oh, the old castle ruins. You wanted to go there before."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Really? I don't remember.",
+      "tone": "surprised"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vincent",
+      "content": "You were very young. It must have stuck with you. Go ahead. We couldn't afford to take you back then."
+    },
+    {
+      "type": "action",
+      "content": "Olina rested her chin on her hand."
+    },
+    {
+      "type": "action",
+      "content": "She smiled slyly."
+    },
+    {
+      "type": "narrator",
+      "content": "No matter how much her son tried to hide it, he couldn't fool his mother."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olina",
+      "content": "So, who are you going with?",
+      "tone": "teasing"
+    },
+    {
+      "type": "narrator",
+      "content": "Shirone felt a pang of guilt, even though he hadn't done anything wrong."
+    },
+    {
+      "type": "action",
+      "content": "His face flushed."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Well... Amy. I haven't asked her yet, though.",
+      "tone": "embarrassed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olina",
+      "content": "Oh, so it's a date.",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No! I just want to cheer her up... She might not even want to go!",
+      "tone": "defensive"
+    },
+    {
+      "type": "narrator",
+      "content": "Olina knew Amy had failed the graduation exam."
+    },
+    {
+      "type": "narrator",
+      "content": "She wasn't worried."
+    },
+    {
+      "type": "narrator",
+      "content": "Amy was a considerate and strong girl, as she had seen in Kazra."
+    },
+    {
+      "type": "narrator",
+      "content": "Besides, the Karmis family seemed to like Shirone."
+    },
+    {
+      "type": "narrator",
+      "content": "Didn't they go to the island together in the summer?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olina",
+      "content": "Alright, go ahead."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olina",
+      "content": "It takes about three days to explore the old castle ruins properly."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olina",
+      "content": "There are plenty of places to stay, but take good care of Amy."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olina",
+      "content": "Don't take her to cheer her up and end up needing comfort yourself.",
+      "tone": "warning"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "...Yes.",
+      "tone": "resigned"
+    },
+    {
+      "type": "narrator",
+      "content": "Olina's last words bothered Shirone, but he agreed without thinking."
+    },
+    {
+      "type": "narrator",
+      "content": "His instincts told him it was dangerous to delve deeper."
+    },
+    {
+      "type": "action",
+      "content": "After clearing the dishes, Shirone went to his room to pack."
+    },
+    {
+      "type": "narrator",
+      "content": "It would take some time to get to Creas, so he needed to leave before noon."
+    },
+    {
+      "type": "narrator",
+      "content": "He could teleport and get there faster than a carriage, but he didn't want to break school rules for something trivial."
+    },
+    {
+      "type": "action",
+      "content": "Wearing a winter coat and a wool scarf, Shirone slung his backpack over his shoulder."
+    },
+    {
+      "type": "action",
+      "content": "He headed for the door."
+    },
+    {
+      "type": "action",
+      "content": "As he grabbed the doorknob, his head buzzed."
+    },
+    {
+      "type": "action",
+      "content": "Turning around, he saw Armand sending mental waves."
+    },
+    {
+      "type": "narrator",
+      "content": "There was no voice, but the vibrations conveyed its protest."
+    },
+    {
+      "type": "action",
+      "content": "Sighing, Shirone said."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Sorry, but I can't. Commoners aren't allowed to carry swords. I don't have a weapon permit.",
+      "tone": "resigned"
+    },
+    {
+      "type": "narrator",
+      "content": "Commoners needed a weapon permit issued by a specific guild to carry weapons."
+    },
+    {
+      "type": "narrator",
+      "content": "Mages automatically received one, but as a student, Shirone couldn't get it."
+    },
+    {
+      "type": "narrator",
+      "content": "The S-class Armand was a burden in many ways."
+    },
+    {
+      "type": "action",
+      "content": "Armand didn't give up, sending more mental waves."
+    },
+    {
+      "type": "narrator",
+      "content": "Having a sense of self meant having pride, which made things difficult."
+    },
+    {
+      "type": "narrator",
+      "content": "It couldn't understand why it wasn't being carried around after forming a contract."
+    },
+    {
+      "type": "narrator",
+      "content": "Maybe it had resigned itself when it belonged to Zion."
+    },
+    {
+      "type": "narrator",
+      "content": "That's why it had sent out tempting lights even with an owner."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Thinking that way, I feel sorry for it. I haven't treated it better than its previous owner."
+    },
+    {
+      "type": "action",
+      "content": "Shirone approached Armand."
+    },
+    {
+      "type": "narrator",
+      "content": "He felt he had no choice."
+    },
+    {
+      "type": "narrator",
+      "content": "Honestly, carrying Armand around made him feel secure in any situation."
+    },
+    {
+      "type": "narrator",
+      "content": "If he got caught in an inspection, he could use Direct Control to hide it elsewhere."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Sigh, alright. Let's go.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "content": "Shirone opened his coat."
+    },
+    {
+      "type": "action",
+      "content": "He called Armand."
+    },
+    {
+      "type": "action",
+      "content": "The sword flew to his waist."
+    },
+    {
+      "type": "narrator",
+      "content": "Being shorter than a longsword made it easier to conceal."
+    },
+    {
+      "type": "action",
+      "content": "Covering it with his coat, only the tip of the sheath was visible."
+    },
+    {
+      "type": "narrator",
+      "content": "At a glance, no one would notice the sword."
+    },
+    {
+      "type": "action",
+      "content": "With Armand's mental waves gone, Shirone shook his head."
+    },
+    {
+      "type": "action",
+      "content": "He left the room."
+    },
+    {
+      "type": "narrator",
+      "content": "Considering there were swords that killed their owners, this was a minor inconvenience."
+    },
+    {
+      "type": "action",
+      "content": "The Alrog district, where major institutions were concentrated, was particularly unpleasant at noon."
+    },
+    {
+      "type": "action",
+      "content": "The numerous high-rise buildings reflected the sunlight, making it blinding."
+    },
+    {
+      "type": "action",
+      "content": "The Magic Association, one of the tallest buildings, looked like burning gold."
+    },
+    {
+      "type": "action",
+      "content": "A neatly dressed woman had been waiting for someone at the Magic Association's main entrance for 30 minutes."
+    },
+    {
+      "type": "action",
+      "content": "She had tanned skin and curly blonde hair tied back."
+    },
+    {
+      "type": "action",
+      "content": "She wore red horn-rimmed glasses."
+    },
+    {
+      "type": "action",
+      "content": "Her small, sharp nose and pink lips, tightly closed, reflected her determined personality."
+    },
+    {
+      "type": "action",
+      "content": "Her slightly downturned eyes gave her a strong impression."
+    },
+    {
+      "type": "action",
+      "content": "Overall, she had an exotic charm not commonly seen in Tormia."
+    },
+    {
+      "type": "narrator",
+      "content": "She was Ahoya Kangnan, the chief secretary of the Tormia Magic Association."
+    },
+    {
+      "type": "narrator",
+      "content": "The southern nation of Nambang, near the equator, was a federation of many tribes."
+    },
+    {
+      "type": "narrator",
+      "content": "Kangnan was the last descendant of the now-extinct Wolf Tribe and a warrior trained in the ancient martial art of Ram Muai."
+    },
+    {
+      "type": "narrator",
+      "content": "Ahoya Kangnan, the chief secretary of the Tormia Magic Association."
+    },
+    {
+      "type": "narrator",
+      "content": "Nambang, a nation near the equator, is a federation of many tribes."
+    },
+    {
+      "type": "narrator",
+      "content": "Kangnan is the last descendant of the now-extinct Wolf Tribe and a warrior trained in the ancient martial art of Ram Muai."
+    },
+    {
+      "type": "narrator",
+      "content": "Despite starting her studies late after moving to Tormia at fifteen, her exceptional intelligence allowed her to rise to the position of chief secretary of the Magic Association, overcoming fierce competition."
+    },
+    {
+      "type": "narrator",
+      "content": "However, the old and lecherous nobles of Tormia did not acknowledge her."
+    },
+    {
+      "type": "narrator",
+      "content": "They saw Kangnan as an exotic commoner woman with a perfect figure."
+    },
+    {
+      "type": "narrator",
+      "content": "Many who tried to flirt with her ended up with torn abs from her knee kicks."
+    },
+    {
+      "type": "narrator",
+      "content": "Some of these were high-ranking nobles, but the Magic Association did not fire her."
+    },
+    {
+      "type": "narrator",
+      "content": "Her skills overshadowed her personality, a typical example."
+    },
+    {
+      "type": "narrator",
+      "content": "But today, Kangnan intended to restrain herself."
+    },
+    {
+      "type": "narrator",
+      "content": "She was waiting for the highest envoy of the neighboring Yakma Republic."
+    },
+    {
+      "type": "action",
+      "content": "As a decorated carriage appeared at the end of the avenue, she adjusted her attire."
+    },
+    {
+      "type": "action",
+      "content": "She checked her high heels for dust."
+    },
+    {
+      "type": "action",
+      "content": "She fixed her horn-rimmed glasses as the carriage arrived."
+    },
+    {
+      "type": "action",
+      "content": "Armored guards opened the door."
+    },
+    {
+      "type": "action",
+      "content": "A corpulent man emerged."
+    },
+    {
+      "type": "action",
+      "content": "His neck was buried in fat."
+    },
+    {
+      "type": "action",
+      "content": "His belly protruded like a cannonball."
+    },
+    {
+      "type": "action",
+      "content": "However, his eyes, buried in his eyelids, gleamed sharply."
+    },
+    {
+      "type": "thought",
+      "speaker": "Kangnan",
+      "content": "He is the highest envoy of a nation. I must be careful."
+    },
+    {
+      "type": "action",
+      "content": "Kangnan walked gracefully, her heels clicking."
+    },
+    {
+      "type": "action",
+      "content": "She bowed at a 90-degree angle, holding a file folder in her arms."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "Welcome. I am Ahoya Kangnan, chief secretary of the Magic Association."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ordon",
+      "content": "Ah, so you are Kangnan. Nice to meet you. I am Ordon."
+    },
+    {
+      "type": "action",
+      "content": "Ordon extended his hand for a handshake."
+    },
+    {
+      "type": "narrator",
+      "content": "It was good manners for the highest envoy to offer a handshake first, but he had ulterior motives."
+    },
+    {
+      "type": "narrator",
+      "content": "Stories of Kangnan sending numerous nobles to the hospital had spread even to foreign social circles."
+    },
+    {
+      "type": "narrator",
+      "content": "Her exotic looks, commoner status, and the title of an unyielding flower intrigued Ordon."
+    },
+    {
+      "type": "action",
+      "content": "As Kangnan shook his hand, Ordon subtly rubbed her smooth hand with his thumb."
+    },
+    {
+      "type": "action",
+      "content": "Kangnan's expression did not change."
+    },
+    {
+      "type": "narrator",
+      "content": "She had heard rumors about Ordon and was prepared for some inappropriate behavior."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "The president is waiting. I will guide you."
+    },
+    {
+      "type": "action",
+      "content": "Ordon admired Kangnan's slender waist as he entered the Magic Association."
+    },
+    {
+      "type": "narrator",
+      "content": "The fact that she remained unscathed after beating up Tormia's nobles suggested the Magic Association had her back."
+    },
+    {
+      "type": "narrator",
+      "content": "But she couldn't afford to offend the highest envoy of a foreign nation."
+    },
+    {
+      "type": "thought",
+      "speaker": "Ordon",
+      "content": "I'll be the one to pluck that flower."
+    }
+  ],
+  "source_hash": "87d657913c11d8e604baebd552524f0b9d864ce59b0611a8bedf2af751ed68e4",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T04:34:54.110100Z"
+}

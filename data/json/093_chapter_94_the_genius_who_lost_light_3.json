@@ -1,0 +1,877 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alphaeus loved that about her. Even with the intelligence of a ten-year-old, her thought process wasn't childish. Her consideration—thinking he might be upset if he lost—made his eyes misty.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Honey, I……",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alphaeus",
+      "content": "I did it! I won! The Gold Circle Award!",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With trembling hands, he held up the gold medal.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Elina was always calm and composed, but this time, her radiant eyes couldn't help but waver.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The day Alphaeus had talked about endlessly had finally come.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Elina",
+      "content": "Congratulations. I knew you'd win.",
+      "tone": "calm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alphaeus",
+      "content": "Elina, it's all thanks to you. You made this happen. Come here. Let me put it on you.",
+      "tone": "grateful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alphaeus believed Elina was the true winner of the Gold Circle.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Of course, the blunt Clump didn't understand.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He thought Alphaeus was amazing for deciphering Elina's childlike words.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But Alphaeus knew.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The small ideas from Elina's mind would become the core code shaping humanity's future.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alphaeus",
+      "content": "This is your award. Your thoughts amazed the world.",
+      "tone": "proud"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When Alphaeus leaned in for a kiss, Elina pulled away like a shy bride.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Elina",
+      "content": "We should eat. Come on.",
+      "tone": "polite"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alphaeus",
+      "content": "Ah, sorry. Clump's throwing a party, so I should go. We'll eat later.",
+      "tone": "apologetic"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Elina",
+      "content": "Oh, okay.",
+      "tone": "disappointed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "This time, Elina didn't hide her disappointment.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alphaeus grinned mischievously and suddenly scooped her up.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alphaeus",
+      "content": "Which is why we should save time for eating.",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Elina",
+      "content": "Eek!",
+      "tone": "startled"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alphaeus carried her up the stairs two at a time.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Elina",
+      "content": "Wait! The bread will burn!",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alphaeus",
+      "content": "Let it burn! Or I'll burn instead!",
+      "tone": "playful"
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "***",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "After Alphaeus's win, dozens of invitations flooded in daily.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "All from prominent nobles or institutions.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Trying to please everyone meant pleasing no one.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "By refusing all but essential connections, his reputation soared.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As part of this strategy, Alphaeus left home to attend a banquet hosted by the Alchemy Foundation, an organization handling 40% of magical material distribution—an unmissable event.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But Sarof and his friends, unaware of this, camped outside Alphaeus's house before sunset.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Their anxiety grew as evening fell.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sarof",
+      "content": "This hurts my pride.",
+      "tone": "disappointed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Friend",
+      "content": "Is pride the issue? His value has risen too much. Alphaeus wasn't just good at magic. We should've seen it coming.",
+      "tone": "skeptical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sarof regretted it deeply.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Sarof",
+      "content": "When Alphaeus won, he should've swallowed his pride and mingled in the crowd.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Sarof",
+      "content": "Just a month after the award, Alphaeus's fame had skyrocketed, all thanks to his political savvy.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Sarof",
+      "content": "Now, Alphaeus was picky with connections, leaving Sarof with even fewer chances.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Sarof",
+      "content": "Damn it. Trying to save face only made things worse. Why does this keep happening?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "No amount of thinking would solve it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At least his friends were there to share the embarrassment.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sarof",
+      "content": "Let's go in. I'll do the talking.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sarof knocked on Alphaeus's door.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sarof",
+      "content": "Is Alphaeus home? It's Sarof.",
+      "tone": "polite"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "To his surprise, Elina answered.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Elina",
+      "content": "Who are you?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sarof",
+      "content": "Ah, the wife. I'm Sarof, Alphaeus's classmate. Is he home?",
+      "tone": "polite"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "No. He's out. At the Alchemy Foundation.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They knew about the banquet. But since it wasn't a drinking party, it wouldn't last long.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sarof",
+      "content": "I see. Would it be alright to wait inside? With all these people around…",
+      "tone": "polite"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Elina",
+      "content": "Sure, come in.",
+      "tone": "friendly"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sarof and his friends sat in the living room, fidgeting nervously.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Feeling sorry for them, Elina invited them to the table and served snacks and drinks.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Elina",
+      "content": "Have a meal. My husband will eat there.",
+      "tone": "polite"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sarof",
+      "content": "Thank you. You're too kind.",
+      "tone": "grateful"
+    },
+    {
+      "type": "thought",
+      "speaker": "Sarof",
+      "content": "Embarrassed, Sarof regretted not bringing a gift.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Sarof",
+      "content": "He'd bought one but couldn't bring himself to carry it in.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Sarof",
+      "content": "Damn it. Trying to save face only made things worse.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He consoled himself that at least his friends were there.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sarof",
+      "content": "You know, I was once called a genius too! Me, of all people!",
+      "tone": "excited"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Elina",
+      "content": "Who says otherwise? The world's so unfair! Hard workers suffer, while some ride connections to success! Magic is dead!",
+      "tone": "passionate"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sarof's eyebrow twitched.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His friend was targeting Alphaeus.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But he let it slide.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Elina wouldn't understand anyway.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Suddenly, the alcohol tasted sweet.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Sarof",
+      "content": "For the first time, he felt like he'd won against Alphaeus.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Sarof",
+      "content": "To criticize him so boldly in front of his wife…",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Sarof",
+      "content": "Hah, after all the humiliation he put me through. This is just the beginning.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sarof",
+      "content": "Right, sister? Magic isn't just about skill. You agree, don't you?",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Elina",
+      "content": "I don't know much.",
+      "tone": "polite"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sarof",
+      "content": "Hahaha! Of course not. But it's true. Everything I say is true.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sarof savored the thrill of victory.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He'd criticized Alphaeus and mocked his wife.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His friends joined in, pounding the table.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Friend",
+      "content": "Sister, why not sing us a song?",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Friend",
+      "content": "Yeah! To celebrate Alphaeus's success! Sing us a song!",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Elina's smile stiffened.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "People assumed those with low intelligence understood nothing.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But reading emotions was always the weak's role.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Elina knew Sarof's group wasn't friendly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Still, as her husband's friends, she endured it.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Elina",
+      "content": "In my hometown, when the wheat ripens…",
+      "tone": "nervous"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Elina began singing, Sarof's group clapped and whistled.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Despite her trembling voice, she persisted.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But three verses in, a cold voice cut through.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alphaeus",
+      "content": "What's going on?",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Everyone turned.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alphaeus stood there, fists clenched, face red.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sarof",
+      "content": "S-sorry. We drank too much.",
+      "tone": "apologetic"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alphaeus",
+      "content": "You bastards!",
+      "tone": "enraged"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alphaeus stormed forward and punched Sarof, sending him sprawling.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His friends jumped up.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Friend",
+      "content": "Alphaeus! How could you! Even if you're angry—",
+      "tone": "defensive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alphaeus",
+      "content": "No, stop. Let it go.",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sarof raised a hand.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He was ashamed.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Sarof",
+      "content": "Was this all he was? A loser who mocked his rival's wife for comfort?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alphaeus",
+      "content": "Get out, before I kill you. Now!",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sarof",
+      "content": "Sorry about today. I won't come again.",
+      "tone": "apologetic"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sarof and his friends were thrown out.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Silence filled the living room.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alphaeus's rage was uncontrollable.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alphaeus",
+      "content": "What happened? Why were they here?",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Elina, terrified, couldn't speak.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She'd never seen him so angry.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alphaeus",
+      "content": "Talk! Why did you let them in!",
+      "tone": "accusatory"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Elina",
+      "content": "I'm sorry. I thought… since they're your friends…",
+      "tone": "defensive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alphaeus",
+      "content": "What are you saying? Since when are they my friends? Can't you tell real friends from fake ones? And you just sang for them? Are you really that stupid?",
+      "tone": "enraged"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alphaeus turned away, his face twisted with regret.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Alphaeus",
+      "content": "The words he'd sworn never to use had slipped out.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Alphaeus",
+      "content": "I'm trash. Not even human.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He wished he could turn back time, but it was too late.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Alphaeus",
+      "content": "Or maybe he'd have said the same anyway.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Alphaeus",
+      "content": "His anger was unbearable.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alphaeus",
+      "content": "Forget what I just said. I messed up.",
+      "tone": "apologetic"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Elina",
+      "content": "Honey, I'm sorry. I won't do it again.",
+      "tone": "apologetic"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Elina's apology hurt more.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She had nothing to apologize for.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But where else could he direct this fury?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alphaeus",
+      "content": "I need air. I'll be fine later. Sorry. Go to bed.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alphaeus left.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was the only way to handle this rationally.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He went to Clump's inn and drank all night.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He couldn't get drunk.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Alphaeus",
+      "content": "The more he drank, the more Sarof faded from memory, leaving only Elina's pain.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alphaeus",
+      "content": "Damn it. I'm trash. I don't deserve to be her husband. She trusted only me, and I said that.",
+      "tone": "despondent"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Clump looked sympathetic.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As a man, he understood Alphaeus's anger.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But the mistake remained.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Clump",
+      "content": "Marital fights are like cutting water with a sword. Your future's bright, and the bad times are over. This could bring you closer.",
+      "tone": "encouraging"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When Alphaeus stayed silent, Clump broached a long-considered topic.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Clump",
+      "content": "Why not have a child?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alphaeus's eyes flickered briefly before dimming.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Clump's eyes widened in realization.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Clump",
+      "content": "Wait, you… haven't you two ever…?",
+      "tone": "surprised"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alphaeus",
+      "content": "Nonsense! We're married. Elina may be young, but she knows everything.",
+      "tone": "defensive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Clump",
+      "content": "Tch, who's talking about her? Maybe you're the impotent one. Look at you, so scrawny. Kekeke.",
+      "tone": "teasing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alphaeus wasn't in the mood to laugh.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He stared at his glass bitterly before downing it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Clump sighed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "So what's the plan? Complaining isn't like you.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Alphaeus",
+      "content": "Alphaeus swirled his glass, lost in thought.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then, at some point, his eyes gleamed sharply, resisting the alcohol.",
+      "tone": null
+    }
+  ],
+  "source_hash": "f686cbbd0e593115e39b899f082f54a5e17ad487c387a173f7225b560f070b8e",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T07:59:10.241417+00:00"
+}

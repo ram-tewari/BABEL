@@ -1,0 +1,673 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "Past midnight, Shirone and his group made their way through the Vatican's secret passageways, descending into a dimly lit corridor where the lights had been extinguished."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "At the end of this hallway lies the Inquisition.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "content": "Shirone's goal was to uncover the true nature of the Inquisition, making a discreet approach essential."
+    },
+    {
+      "type": "narrator",
+      "content": "According to Seina, the guards rotated every eight hours."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Regardless of their rank, they're clergy. It's better not to use mental magic.",
+      "tone": "cautious"
+    },
+    {
+      "type": "action",
+      "content": "After a tense wait, the clock struck 2 AM. Footsteps echoed in the darkness."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Guard",
+      "content": "Ugh, I'm so sleepy,",
+      "tone": "tired"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Guard",
+      "content": "Standing guard in the dark is brutal.",
+      "tone": "complaining"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Guard",
+      "content": "Yeah, especially the night shift.",
+      "tone": "agreeing"
+    },
+    {
+      "type": "action",
+      "content": "At the end of the corridor, the relief team was already waiting."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Guard",
+      "content": "Anything to report?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Guard",
+      "content": "Nothing. No one ever comes here.",
+      "tone": "nonchalant"
+    },
+    {
+      "type": "narrator",
+      "content": "Most of the guards didn't even know the Inquisition's exact location."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Now's the time.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "content": "As if on cue, Shirone's group moved in unison."
+    },
+    {
+      "type": "action",
+      "content": "Guided by faint, firefly-like light, they advanced until a large iron door blocked their path."
+    },
+    {
+      "type": "action",
+      "content": "The metallic scent in the air was overwhelming."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Can we do this?",
+      "tone": "hesitant"
+    },
+    {
+      "type": "narrator",
+      "content": "Despite Seina's concern, Shirone skillfully manipulated her Miracle Stream, thinning it into a delicate thread and threading it into the lock mechanism."
+    },
+    {
+      "type": "sfx",
+      "content": "Sound!"
+    },
+    {
+      "type": "action",
+      "content": "Realizing the potential noise, Seina looked up in alarm, but the lock clicked open soundlessly."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Vacuum magic.",
+      "tone": "proud"
+    },
+    {
+      "type": "action",
+      "content": "As the iron door creaked open, a cacophony of voices echoed out."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ah!",
+      "tone": "startled"
+    },
+    {
+      "type": "action",
+      "content": "Shirone quickly shut the door, controlling the sound waves with precision."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "God! Punish me!",
+      "tone": "anguished"
+    },
+    {
+      "type": "sfx",
+      "content": "A scream pierced the air, and Seina's face turned pale."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seina",
+      "content": "This… this is the Inquisition?",
+      "tone": "horrified"
+    },
+    {
+      "type": "action",
+      "content": "Iron doors lined the corridor like a prison, and from behind them came horrifying sounds."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seina",
+      "content": "No… this can't be.",
+      "tone": "disbelieving"
+    },
+    {
+      "type": "narrator",
+      "content": "Even for a basement, this was too far removed from the sanctity and dignity expected of the Vatican."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seina",
+      "content": "I wouldn't have thought this way before receiving your blessing.",
+      "tone": "reflective"
+    },
+    {
+      "type": "narrator",
+      "content": "Seina couldn't argue."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I already knew.",
+      "tone": "confident"
+    },
+    {
+      "type": "narrator",
+      "content": "Though she'd never seen it with her own eyes, she'd always had an inkling of how the Inquisition dealt with heretics."
+    },
+    {
+      "type": "thought",
+      "speaker": "Seina",
+      "content": "It wasn't fear of what she now realized. The true horror was…",
+      "tone": "distraught"
+    },
+    {
+      "type": "narrator",
+      "content": "How could I live so blindly, without questioning any of this?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Let's go. This is just the beginning.",
+      "tone": "resolute"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seina",
+      "content": "The beginning?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "content": "Shirone's gaze pierced the darkness."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Paladins are trained from childhood. Do you know where?",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seina",
+      "content": "Of course not. We were too young, and by the time I could remember, all I knew was it was somewhere deep in the mountains.",
+      "tone": "vaguely"
+    },
+    {
+      "type": "action",
+      "content": "Shirone pointed into the darkness."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Beyond this place lies the paladin training grounds. The Vatican isn't just the church itself—north of here, the mountains stretch out, dotted with numerous villages. Those who are sentenced by the Inquisition are exiled there.",
+      "tone": "explaining"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seina",
+      "content": "And there… is where paladins are trained?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's a question we need to confirm for ourselves. Let's move.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "content": "As they advanced, Seina became lost in thought."
+    },
+    {
+      "type": "thought",
+      "speaker": "Seina",
+      "content": "The grueling training of my childhood.",
+      "tone": "reflective"
+    },
+    {
+      "type": "thought",
+      "speaker": "Seina",
+      "content": "It had been a grueling ordeal, both physically and mentally.",
+      "tone": "bitter"
+    },
+    {
+      "type": "thought",
+      "speaker": "Seina",
+      "content": "But I survived. I lived with pride, defeating countless evils.",
+      "tone": "proud"
+    },
+    {
+      "type": "thought",
+      "speaker": "Seina",
+      "content": "How had things come to this?",
+      "tone": "distraught"
+    },
+    {
+      "type": "thought",
+      "speaker": "Seina",
+      "content": "I need to reclaim my divine power. As Yahweh said, I must confirm the truth and decide for myself.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "content": "As they passed the iron bars, Seina glimpsed the horrors inside."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Prisoner",
+      "content": "Kill me! Just kill me!",
+      "tone": "desperate"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Prisoner",
+      "content": "I was wrong! I was so foolish! Please forgive me, O Lord!",
+      "tone": "repentant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Prisoner",
+      "content": "Hehehe! Yes, more! Let me taste heaven!",
+      "tone": "maniacal"
+    },
+    {
+      "type": "sfx",
+      "content": "Seina's hair stood on end."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seina",
+      "content": "This… this is just like the paladins of the Inquisition.",
+      "tone": "horrified"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "When thinking itself becomes a torment, the human mind simplifies to its most primal state. That's why they're so fanatical—and strong.",
+      "tone": "analytical"
+    },
+    {
+      "type": "thought",
+      "speaker": "Seina",
+      "content": "Seina had once been strong, too.",
+      "tone": "reflective"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seina",
+      "content": "But that's not true strength. Real strength lies not in destruction, but in the power to protect.",
+      "tone": "inspired"
+    },
+    {
+      "type": "action",
+      "content": "At that moment, an iron door creaked open, and an Inquisitor emerged, his body drenched in blood and tears of blood streaking his face."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inquisitor",
+      "content": "I… I am so sad. This world… this reality…",
+      "tone": "despondent"
+    },
+    {
+      "type": "action",
+      "content": "Despite Shirone's group standing nearby, he walked past them like a machine, heading toward another room."
+    },
+    {
+      "type": "thought",
+      "speaker": "Iruki",
+      "content": "He's completely gone. He doesn't even see us. His mind is paralyzed, and he's operating on autopilot.",
+      "tone": "diagnostic"
+    },
+    {
+      "type": "action",
+      "content": "Inside one of the opened rooms, a brutally beaten man lay collapsed."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seina",
+      "content": "He's lost too much blood. Hold on, I'll stop the bleeding—",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Prisoner",
+      "content": "Kill me,",
+      "tone": "desperate"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seina",
+      "content": "Please… just kill me and free me from this prison.",
+      "tone": "pleading"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seina",
+      "content": "I've seen enough!",
+      "tone": "resolute"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seina",
+      "content": "Yahweh was right. I was wrong. There's no need to investigate further. Let's leave and rescue these people first.",
+      "tone": "resigned"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "That would have been the logical decision, but Shirone remained deep in thought.",
+      "tone": "preoccupied"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Prisoner",
+      "content": "Kill me! I said kill me!",
+      "tone": "desperate"
+    },
+    {
+      "type": "action",
+      "content": "The man weakly flailed his arms, his strength drained."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seina",
+      "content": "It's okay now. We'll get you out of here.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Prisoner",
+      "content": "Kehehe.",
+      "tone": "maniacal"
+    },
+    {
+      "type": "sfx",
+      "content": "A scraping sound came from the man's throat."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Prisoner",
+      "content": "Kehehehe! Get me out? Of what?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seina",
+      "content": "From this prison, of course—",
+      "tone": "exasperated"
+    },
+    {
+      "type": "sfx",
+      "content": "Suddenly, the man's eyes focused sharply for the first time."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Prisoner",
+      "content": "Is there a prison this vast?",
+      "tone": "astounded"
+    },
+    {
+      "type": "action",
+      "content": "As everyone grappled with the meaning of his words, the man lunged forward, screaming."
+    },
+    {
+      "type": "sfx",
+      "content": "Blood splattered across Seina's face as she recoiled in terror, just as she stumbled backward."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seina",
+      "content": "It's pointless.",
+      "tone": "resigned"
+    },
+    {
+      "type": "sfx",
+      "content": "An eerie voice came from beyond the iron gate."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vanisa",
+      "content": "When did he get here?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "content": "A man with a robe that trailed to the floor stood holding chains in both hands."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Who are you?",
+      "tone": "suspicious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vanisa",
+      "content": "Vanisa.",
+      "tone": "calm"
+    },
+    {
+      "type": "narrator",
+      "content": "He was second in rank in the Holy See, known as the Forgiver."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "What is going on here?",
+      "tone": "indignant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vanisa",
+      "content": "…God.",
+      "tone": "mysterious"
+    },
+    {
+      "type": "action",
+      "content": "When Vanisa removed his hood, the robe slipped off his body like a snake shedding its skin."
+    },
+    {
+      "type": "thought",
+      "speaker": "Seina",
+      "content": "What has he done to his body?",
+      "tone": "horrified"
+    },
+    {
+      "type": "narrator",
+      "content": "Certain parts of his flesh were missing, exposing bones, and his abdomen bore twisted marks, as if his organs had been contorted."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'll handle this. He's strong.",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vanisa",
+      "content": "Kill… Kill him.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "content": "The tortured man groaned in agony as Vanisa pointed with his scythe."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Taking him out of that prison is mercy.",
+      "tone": "resolute"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vanisa",
+      "content": "Prison?",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vanisa",
+      "content": "We are all imprisoned. Right here.",
+      "tone": "mysterious"
+    },
+    {
+      "type": "action",
+      "content": "He thrust his scythe into his own chest."
+    },
+    {
+      "type": "sfx",
+      "content": "Boom!"
+    },
+    {
+      "type": "action",
+      "content": "Before the echo of the explosion subsided, Shirone shouted."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Go! Find the exit!",
+      "tone": "urgent"
+    },
+    {
+      "type": "action",
+      "content": "Understanding Vanisa's strength, Neid and Iruki grabbed the weakened Seina by the wrist and ran down the corridor."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vanisa",
+      "content": "Conviction, flesh, philosophy, movement.",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vanisa",
+      "content": "Absolutely not, Yahweh. It's an illusion.",
+      "tone": "despondent"
+    },
+    {
+      "type": "action",
+      "content": "Snapping a protruding rib, he seized his scythe and charged again."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vanisa",
+      "content": "There is no way to escape God's prison.",
+      "tone": "resigned"
+    },
+    {
+      "type": "thought",
+      "speaker": "Kaiden",
+      "content": "Maya.",
+      "tone": "longing"
+    },
+    {
+      "type": "thought",
+      "speaker": "Kaiden",
+      "content": "He was stationed in the Delta Headquarters in the Tormia district, guarding the artists' residence, where he had been assigned the room next to Maya's.",
+      "tone": "reflective"
+    },
+    {
+      "type": "thought",
+      "speaker": "Kaiden",
+      "content": "Guarding Maya is enough. I don't need anything more.",
+      "tone": "determined"
+    },
+    {
+      "type": "thought",
+      "speaker": "Kaiden",
+      "content": "That's when he felt something strange in his lower half.",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kaiden",
+      "content": "What?",
+      "tone": "alarmed"
+    },
+    {
+      "type": "action",
+      "content": "Looking down, he found his pants undone, and his right hand moving on its own."
+    },
+    {
+      "type": "sfx",
+      "content": "Ahhh! What the hell! Damn it!"
+    },
+    {
+      "type": "thought",
+      "speaker": "Kaiden",
+      "content": "God's Hand Syndrome.",
+      "tone": "diagnostic"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kaiden",
+      "content": "You stupid hand! Stop it! I'm not some monkey!",
+      "tone": "exasperated"
+    },
+    {
+      "type": "action",
+      "content": "As his left hand wrestled his right, Maya burst through the door."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Maya",
+      "content": "Kaiden! What's going on?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kaiden",
+      "content": "Ahhh! Ahhhhhh!",
+      "tone": "desperate"
+    },
+    {
+      "type": "action",
+      "content": "Kaiden was suddenly grateful for his body's superhuman reflexes."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Maya",
+      "content": "S-Sorry! I didn't see anything! I swear!",
+      "tone": "apologetic"
+    },
+    {
+      "type": "thought",
+      "speaker": "Kaiden",
+      "content": "Damn it! Damn it!",
+      "tone": "frustrated"
+    },
+    {
+      "type": "thought",
+      "speaker": "Kaiden",
+      "content": "I'm hopeless. I'll never be able to protect Maya.",
+      "tone": "despondent"
+    },
+    {
+      "type": "thought",
+      "speaker": "Kaiden",
+      "content": "As if to contradict his thoughts, his right hand raised its index finger and slowly moved it side to side.",
+      "tone": "hopeful"
+    }
+  ],
+  "source_hash": "5ad2f1314ad104ec8c67b0c571fa52fdac483f40c3c3024ead5c08ed985b2735",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T03:56:32.900953Z"
+}

@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\google\api_core\operations_v1\abstract_operations_base_client.py
+# hypothesis_version: 6.148.8
+
+['.googleapis.com', '.mtls.googleapis.com', 'always', 'auto', 'false', 'folders/{folder}', 'never', 'projects/{project}', 'rest', 'rest_asyncio', 'true']

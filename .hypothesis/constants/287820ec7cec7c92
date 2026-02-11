@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\google\ai\generativelanguage_v1beta\services\permission_service\transports\rest_base.py
+# hypothesis_version: 6.148.8
+
+['$alt', '*', 'body', 'delete', 'get', 'https', 'method', 'patch', 'permission', 'post', 'query_params', 'scheme', 'updateMask', 'uri']

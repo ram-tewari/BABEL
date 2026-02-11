@@ -1,0 +1,423 @@
+{
+  "blocks": [
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "You're here?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "content": "Neide threw his bag aside and jumped onto the sofa."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "Ugh, I'm exhausted. The road from the central region to the south is so rough.",
+      "tone": "exhausted"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "I came from the capital.",
+      "tone": "neutral"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "Do you think I came in a family carriage? I traveled without food and holding in bathroom breaks. If it had been a Merkodine family carriage, I could have eaten and... well, you know.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Or done both at the same time.",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "Enough! Anyway, how have you been? You didn't betray us and do some special training, did you?",
+      "tone": "accusatory"
+    },
+    {
+      "type": "thought",
+      "speaker": "Iruki",
+      "content": "I didn't deny it.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "Well, now that I'm here, I should aim to graduate, right?",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "content": "Neide jumped up from the sofa."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "Really? Damn, if you do that, what about me? What kind of magic is it? Better than Cancellation?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "It's still at the theoretical stage, so it's not really magic yet. As long as I complete it before the graduation exam, it'll be fine. I'll tell you once I make some progress.",
+      "tone": "neutral"
+    },
+    {
+      "type": "narrator",
+      "content": "Every senior plans their physical rhythm to peak on the day of the exam.",
+      "tone": "analytical"
+    },
+    {
+      "type": "narrator",
+      "content": "No matter the process, the result is everything, as seen with Amy.",
+      "tone": "analytical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "Ugh, lucky you. I just played around during the break.",
+      "tone": "jealous"
+    },
+    {
+      "type": "action",
+      "content": "Iruki looked at Neide with a bittersweet expression."
+    },
+    {
+      "type": "narrator",
+      "content": "Despite his words, he didn't seem particularly upset.",
+      "tone": "analytical"
+    },
+    {
+      "type": "narrator",
+      "content": "Even as a senior, it was clear Neide still had no interest in becoming a mage.",
+      "tone": "analytical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "But you...",
+      "tone": "accusatory"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Hmm? What?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "content": "Iruki shook his head and swallowed his words."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "Never mind, it's nothing.",
+      "tone": "dismissive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "Ugh, you're so bland.",
+      "tone": "teasing"
+    },
+    {
+      "type": "action",
+      "content": "The door swung open more violently than before, and Shirone entered."
+    },
+    {
+      "type": "action",
+      "content": "A smile bloomed on his face as he reunited with his friends."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hey! What's that smell?",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "content": "But his good mood was short-lived, and he quickly covered his nose in disgust."
+    },
+    {
+      "type": "action",
+      "content": "The research club room was a mess, littered with trash. How could these guys stand the smell?"
+    },
+    {
+      "type": "action",
+      "content": "Neide and Iruki looked at each other and laughed."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "Sorry. I sprayed some cologne after a long time. Did you like it?",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Shut up! Let's clean up first!",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "content": "The three of them grabbed cleaning tools and started a major cleanup."
+    },
+    {
+      "type": "action",
+      "content": "By the time the place, which had looked like a giant trash dump, was somewhat clean, it was almost time for the event."
+    },
+    {
+      "type": "action",
+      "content": "Exhausted, Neide lay on the sofa and looked at the ceiling."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "What time is it?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "One o'clock. We should start getting ready.",
+      "tone": "neutral"
+    },
+    {
+      "type": "action",
+      "content": "Shirone suddenly remembered and jumped up from the sofa."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "That's right! I haven't picked up my uniform!",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "I got it this morning. Yours and Neide's.",
+      "tone": "helpful"
+    },
+    {
+      "type": "action",
+      "content": "Neide gave a thumbs up."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "You're always so thorough. But do we really have to wear that? I really don't want to.",
+      "tone": "disapproving"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Why do we have to wear uniforms for the entrance ceremony? I'd rather watch myself apply hemorrhoid cream in the mirror.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "Shirone looked at Neide and asked, You have hemorrhoids?",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "It's just a saying! Anyway, let's get ready. Where's my uniform, I mean, my hemorrhoid cream?",
+      "tone": "teasing"
+    },
+    {
+      "type": "action",
+      "content": "Iruki pointed to the corner. Three boxes were stacked like a tower."
+    },
+    {
+      "type": "action",
+      "content": "They each took a box with their name on it and unfolded the uniforms."
+    },
+    {
+      "type": "action",
+      "content": "The white robes with stripes along the shoulders fluttered like ghosts."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "Ugh, we have to meet the Class Two kids in this? They don't wear uniforms. We'll be a laughingstock.",
+      "tone": "disapproving"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "We have no choice. It's the rule.",
+      "tone": "neutral"
+    },
+    {
+      "type": "action",
+      "content": "Iruki didn't care much. As long as the clothes covered the important parts, like the head, eyes, and heart, he was fine."
+    },
+    {
+      "type": "action",
+      "content": "The three of them stood in front of the mirror, wearing their uniforms over their clothes. They looked like three blobs of liquid monsters."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "Will we ever get to wear these again?",
+      "tone": "wistful"
+    },
+    {
+      "type": "narrator",
+      "content": "With the busy schedule of senior year, there were few opportunities to wear the uniform. If they didn't pass the graduation exam, this would be the last time they saw themselves in these robes.",
+      "tone": "analytical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "It won't be easy. We lack information.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "Really? I think you and Shirone will definitely pass.",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "It's just a feeling. Mathematically, it's one-third. If Shirone, Dante, and Amy are there, two will fail. If Shirone passes, Dante and Amy can't graduate.",
+      "tone": "analytical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "No way. All three could pass.",
+      "tone": "disbelieving"
+    },
+    {
+      "type": "narrator",
+      "content": "Neide couldn't imagine any of them failing.",
+      "tone": "analytical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "That's because you know them. People always think their information is the most accurate. But if that were true, no one would fail. Even on average, only 3.3 students per class pass. And we're in the lowest Class Three.",
+      "tone": "analytical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "Neide couldn't argue.",
+      "tone": "resigned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Looks like everyone is here. Let's get going and get this over with.",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "content": "Shirone wasn't the type to take the lead, so Dante took charge."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "His position as the top-ranked student in the advanced class helped him command the group.",
+      "tone": "neutral"
+    },
+    {
+      "type": "narrator",
+      "content": "Of course, once they passed through the Iron Gate, the advanced class rankings would no longer matter.",
+      "tone": "analytical"
+    },
+    {
+      "type": "action",
+      "content": "The Class Three students headed towards the senior building."
+    },
+    {
+      "type": "action",
+      "content": "At the top of the slope stood the imposing Iron Gate."
+    },
+    {
+      "type": "action",
+      "content": "Below it, ten Class Two students stood in a line, waiting."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Class Two Student",
+      "content": "Hey, juniors! Hurry up! You're so slow!",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Class Two Student",
+      "content": "Nice uniforms! Are you going to a school play? Hahaha!",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Boyle",
+      "content": "Hmph! Seniors, my foot! Once we're in the senior class, we're all the same!",
+      "tone": "defiant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Closer",
+      "content": "Yeah, keep talking, losers. I'll cook you all one by one.",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Most students glared to avoid being intimidated, but Dante was simply bored.",
+      "tone": "neutral"
+    },
+    {
+      "type": "action",
+      "content": "As he watched his peers' reactions, he turned to look at Shirone."
+    },
+    {
+      "type": "narrator",
+      "content": "He's not nervous at all.",
+      "tone": "analytical"
+    },
+    {
+      "type": "action",
+      "content": "A slight smile played on Shirone's lips, and his eyes sparkled with passion and excitement."
+    },
+    {
+      "type": "narrator",
+      "content": "How could he not be thrilled? It was the scene he had imagined even in his dreams.",
+      "tone": "analytical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "A mage. A mage. He would become a mage!",
+      "tone": "excited"
+    },
+    {
+      "type": "narrator",
+      "content": "Fine, I'll enter hell or whatever it takes.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "content": "With each step, the Iron Gate, a symbol of wisdom, seemed to tremble."
+    },
+    {
+      "type": "system_notification",
+      "content": "ΓÇö Twenty minutes before the graduation event, ten students were walking towards the central park from different paths."
+    }
+  ],
+  "source_hash": "81ad8fd1df1956ab3b02dda071b0dd0740eb54e0bac7b2a866b90ec7fbb7ce1c",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T05:23:25.819761Z"
+}

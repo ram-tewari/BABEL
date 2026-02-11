@@ -1,0 +1,582 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "When the monsters in the sky, on the ground, and underground were almost simultaneously annihilated, an announcement came from the second training ground."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Phew.",
+      "tone": "relieved"
+    },
+    {
+      "type": "action",
+      "content": "Wiping the sweat from his forehead, Shirone looked at the scoreboard."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Wow! We did well!",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "content": "Group 5 was ranked second."
+    },
+    {
+      "type": "narrator",
+      "content": "First place went to Group 2, which included Fermi."
+    },
+    {
+      "type": "action",
+      "content": "Group 2's completion time was 3 minutes and 15 seconds."
+    },
+    {
+      "type": "narrator",
+      "content": "They lost by just 13 seconds, which was disappointing, but considering Group 2 was entirely Fermi's team, it was a good result."
+    },
+    {
+      "type": "monologue",
+      "speaker": "Shirone",
+      "content": "Well, we are an instant party."
+    },
+    {
+      "type": "action",
+      "content": "Closer seemed displeased."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Closer",
+      "content": "Tch, Fermi again? How do they always manage to rank together?",
+      "tone": "disapproving"
+    },
+    {
+      "type": "action",
+      "content": "Dante said,"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "They've been managing their scores for a long time. Anyway, second place isn't bad. We're in the top 10 overall. As long as we stay in the top 10 in each evaluation, we'll eventually graduate.",
+      "tone": "confident"
+    },
+    {
+      "type": "narrator",
+      "content": "Dante was satisfied with the second place finish, considering it was a combination of three groups that had never worked together."
+    },
+    {
+      "type": "action",
+      "content": "In terms of party contribution, everyone had done their part."
+    },
+    {
+      "type": "monologue",
+      "speaker": "Iruki",
+      "content": "If this were the graduation exam, Dante would be 1.01, Closer 0.99, Shirone 1, Canis 1.02, and me 0.98."
+    },
+    {
+      "type": "action",
+      "content": "The best player in Group 5 was Canis by a narrow margin, as he single-handedly exterminated the underground monsters."
+    },
+    {
+      "type": "monologue",
+      "content": "To increase party contribution, it's important to choose enemies that match our strengths. The gap will be much wider in the graduation exam."
+    },
+    {
+      "type": "action",
+      "content": "Meanwhile, Group 1 was ranked third with a time of 4 minutes and 18 seconds."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Anyway, let's go down. I want to see the other groups too.",
+      "tone": "casual"
+    },
+    {
+      "type": "action",
+      "content": "Dante led the group down from the second training ground and immediately disbanded the group."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Good job, Shirone. You too, Iruki, Canis.",
+      "tone": "appreciative"
+    },
+    {
+      "type": "action",
+      "content": "Shirone responded cheerfully."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yeah, you too. Let's team up again if we get the chance.",
+      "tone": "friendly"
+    },
+    {
+      "type": "action",
+      "content": "Fourth and fifth places were decided next, with times of 4 minutes and 24 seconds and 4 minutes and 28 seconds, respectively."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Wow, this week is really close.",
+      "tone": "surprised"
+    },
+    {
+      "type": "narrator",
+      "content": "Although Shirone's group ranked second, the monster tier wasn't high yet, so luck played a big part."
+    },
+    {
+      "type": "action",
+      "content": "Considering that, the other groups' skills were impressive."
+    },
+    {
+      "type": "monologue",
+      "speaker": "Iruki",
+      "content": "This trend will likely continue up to the 8th tier. It's impossible to handle alone, but magicians become incredibly strong when they unite. Of course, this is only possible because we're in school."
+    },
+    {
+      "type": "action",
+      "content": "In the magic school, everyone they met was a magician, but once the 30 senior class students graduated, they would scatter across the world, becoming high-level personnel rarely seen."
+    },
+    {
+      "type": "narrator",
+      "content": "As a profession comprising less than 0.0001% of the population, only elite units like the Royal Guard, Capital Guard, or Border Defense Force could maintain a unit of magicians."
+    },
+    {
+      "type": "action",
+      "content": "Even a third-rate magician guild with about 20 members would have tremendous firepower."
+    },
+    {
+      "type": "narrator",
+      "content": "If they fired one fireball every 10 seconds, that would be 1,200 fireballs in 10 minutes."
+    },
+    {
+      "type": "action",
+      "content": "However, such magicians were expensive, so it was rare for 20 to gather for a profitable commission."
+    },
+    {
+      "type": "narrator",
+      "content": "Even if there were, the high-ranking magicians would take them."
+    },
+    {
+      "type": "action",
+      "content": "There were exceptions for terrorism, but even they were like mice before the cat that was the Red Line authority."
+    },
+    {
+      "type": "narrator",
+      "content": "The combat power of an official Red Line unit, a certified magician unit, was on a different level from third-rate magicians."
+    },
+    {
+      "type": "action",
+      "content": "If a monster outside the tier, like a demon, appeared, the Magic Association would form an elite large party of certified 4th to 6th-grade magicians with the king's approval, called a 'Cage.'"
+    },
+    {
+      "type": "narrator",
+      "content": "It meant trapping and beating them, and a group of about 20 magicians, each considered the best in their field, was known to have the power of a walking army."
+    },
+    {
+      "type": "action",
+      "content": "From 3rd-grade archmages, the number significantly decreased across the continent, so experts believed the strongest party was the Cage unless a global catastrophe occurred."
+    },
+    {
+      "type": "monologue",
+      "speaker": "Shirone",
+      "content": "Once I enter society, I won't have the chance to form parties with such diverse people. I should learn as much as I can now."
+    },
+    {
+      "type": "action",
+      "content": "The second training ground stopped operating."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Announcer",
+      "content": "Group 4 evaluation complete. The last group to complete the mission, Group 4, scores 0 points.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "content": "Shirone looked at Group 4 with sympathy."
+    },
+    {
+      "type": "monologue",
+      "speaker": "Shirone",
+      "content": "Balance really is important. Even with an amazing dealer like Amy, it didn't work out."
+    },
+    {
+      "type": "action",
+      "content": "Group 4 couldn't hide their bitter expressions."
+    },
+    {
+      "type": "narrator",
+      "content": "No one could be singled out for blame."
+    },
+    {
+      "type": "action",
+      "content": "They had ravaged the enemy with flashy and diverse attacks led by Screamer, but the imbalance meant their extermination time was longer than the other groups."
+    },
+    {
+      "type": "monologue",
+      "speaker": "Amy",
+      "content": "I should have received the buffs."
+    },
+    {
+      "type": "action",
+      "content": "Amy regretted that point."
+    },
+    {
+      "type": "narrator",
+      "content": "The martial artist's killer strategy gave one person overwhelming combat power, but the sixth week's mission was extermination."
+    },
+    {
+      "type": "action",
+      "content": "A mission requiring the team to work together to thoroughly eliminate enemies exposed its weaknesses."
+    },
+    {
+      "type": "monologue",
+      "speaker": "Amy",
+      "content": "Oh well. I'll aim for next week."
+    },
+    {
+      "type": "action",
+      "content": "Amy accepted the 0 points coolly."
+    },
+    {
+      "type": "monologue",
+      "speaker": "Amy",
+      "content": "The stubborn Screamer was the leader, and she had to follow his orders."
+    },
+    {
+      "type": "action",
+      "content": "If she didn't agree, she could raise her rank and become the leader."
+    },
+    {
+      "type": "narrator",
+      "content": "That was the unyielding rule of the senior class."
+    },
+    {
+      "type": "monologue",
+      "speaker": "Screamer",
+      "content": "Damn it. This is so frustrating."
+    },
+    {
+      "type": "action",
+      "content": "Screamer, on the other hand, couldn't accept the result."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Screamer",
+      "content": "How could they come in last? Even in last year's senior class, he had never scored 0 in strategy and tactics.",
+      "tone": "disbelieving"
+    },
+    {
+      "type": "action",
+      "content": "The students turned to Screamer at the rare sound of shouting in the senior class."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Screamer",
+      "content": "It's all your fault.",
+      "tone": "accusing"
+    },
+    {
+      "type": "action",
+      "content": "Unable to contain his explosive anger, Screamer shouted at Maya."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Screamer",
+      "content": "You idiot!",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "content": "Maya's eyebrows furrowed, and her expression hardened."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Maya",
+      "content": "Because of you, the monsters became more aggressive!",
+      "tone": "defensive"
+    },
+    {
+      "type": "action",
+      "content": "Rhapsody of Agitation induced anxiety."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Screamer",
+      "content": "No, they became agitated, not aggressive...",
+      "tone": "correcting"
+    },
+    {
+      "type": "action",
+      "content": "Shut up! You call that sound magic? What are you going to do now?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Screamer",
+      "content": "What are you even doing? You've been in the senior class longer than me, so you should have some experience. Do you just do what you're told? Can't you figure it out when Warwolves appear?",
+      "tone": "disapproving"
+    },
+    {
+      "type": "action",
+      "content": "Maya looked aggrieved but then lowered her head."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Maya",
+      "content": "I'm sorry...",
+      "tone": "apologetic"
+    },
+    {
+      "type": "action",
+      "content": "No one stopped Screamer."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Screamer",
+      "content": "That's why commoners are no good. If you lack talent, drop out. Clinging to the hope of becoming a magician and dragging others down is just being a nuisance.",
+      "tone": "disdainful"
+    },
+    {
+      "type": "action",
+      "content": "Maya's shoulders trembled. Tears fell from her face, hidden by her hair."
+    },
+    {
+      "type": "monologue",
+      "speaker": "Shirone",
+      "content": "So Maya is a commoner..."
+    },
+    {
+      "type": "action",
+      "content": "Shirone glared at Screamer."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "He hadn't known Maya was a commoner, but it didn't matter. Insulting someone's specialty as pig squeals was unacceptable.",
+      "tone": "disapproving"
+    },
+    {
+      "type": "action",
+      "content": "Maya's voice was actually too clear for combat sound magic, making it less effective."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Screamer",
+      "content": "Enough, get lost! And please, if you lack skill, step down voluntarily. Isn't it unfair to others if you hold on just because you got lucky and raised your rank?",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "content": "Screamer turned coldly and walked away."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hey.",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "content": "Screamer turned back, raising his chin."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Screamer",
+      "content": "What?",
+      "tone": "irritated"
+    },
+    {
+      "type": "monologue",
+      "speaker": "Shirone",
+      "content": "Is he acting out because Fermi marked him?"
+    },
+    {
+      "type": "action",
+      "content": "When Shirone declared his resolve, Screamer had scoffed."
+    },
+    {
+      "type": "monologue",
+      "speaker": "Shirone",
+      "content": "Magic or not, outside the school, he could make them kneel with one touch, but here they were challenging him."
+    },
+    {
+      "type": "monologue",
+      "speaker": "Shirone",
+      "content": "Or maybe this is a good opportunity?"
+    },
+    {
+      "type": "action",
+      "content": "Screamer wasn't stupid. Crushing Shirone, who passed the seventh stage of survival, would boost his reputation."
+    },
+    {
+      "type": "monologue",
+      "speaker": "Shirone",
+      "content": "Let's poke him a bit."
+    },
+    {
+      "type": "action",
+      "content": "Screamer deliberately provoked Shirone."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Screamer",
+      "content": "Come to think of it, you're a commoner too, right? Or were you royalty? Oh, you were thought to be royalty but turned out to be a commoner. Hahaha!",
+      "tone": "teasing"
+    },
+    {
+      "type": "action",
+      "content": "It had been months since the trip to Kazura, so the students accepted Shirone's commoner status as fact."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I don't care if I'm a commoner or not. Take back everything you said to Maya and sincerely apologize.",
+      "tone": "firm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Screamer",
+      "content": "No. Why should I? I did my part. It's Maya's fault we came in last.",
+      "tone": "defensive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No, it's a shared responsibility. And if anyone must take the blame, it's you, the leader.",
+      "tone": "accusing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Screamer",
+      "content": "What nonsense? Do you know how many monsters I killed?",
+      "tone": "boastful"
+    },
+    {
+      "type": "action",
+      "content": "Nade joined the conversation."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Isn't it embarrassing to boast about your contribution when you relied on utilities?",
+      "tone": "teasing"
+    },
+    {
+      "type": "action",
+      "content": "Screamer's face turned red with anger."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "You're the main dealer, but there's no difference between you and the sub-dealer. Do you really think the martial artist's killer strategy suits an extermination mission? Scoring zero points is a failure of leadership.",
+      "tone": "disapproving"
+    },
+    {
+      "type": "action",
+      "content": "Screamer frowned."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Screamer",
+      "content": "Third parties sure have a lot to say. My judgment was correct. There was just a weak link in the team. With Maya in the group, I had no choice but to take risks. Who aims for just 1 or 2 points? I even raised my contribution to 1.4.",
+      "tone": "defensive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "That's your limit. Thinking about party contribution before the results even came out shows you didn't trust your team. Maya is also a legitimate senior class member. There were plenty of ways to score points with her included.",
+      "tone": "disapproving"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Screamer",
+      "content": "Haha! Really? Would you say the same if you were in Group 4 instead of me?",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Of course. If I were the leader, we would have at least made the top three.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "content": "Screamer sighed."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Screamer",
+      "content": "Sigh.",
+      "tone": "disappointed"
+    },
+    {
+      "type": "monologue",
+      "speaker": "Screamer",
+      "content": "This is why he disliked rookies. They talked without experience."
+    },
+    {
+      "type": "action",
+      "content": "Maya was hopeless. Regardless of her skills, she didn't have the personality to be a magician."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Do you really think you could score high with Maya in the team?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "action",
+      "content": "Amy spoke up."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "At least higher than a team with a leader like you.",
+      "tone": "disapproving"
+    },
+    {
+      "type": "action",
+      "content": "Screamer turned around."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Screamer",
+      "content": "Are you talking to me?",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "content": "Avoiding conflicts with competitors who might clash in the future was a senior class principle."
+    },
+    {
+      "type": "narrator",
+      "content": "There was no need to get involved in unnecessary disputes that could benefit others."
+    },
+    {
+      "type": "action",
+      "content": "Amy knew this well. She had learned it painfully from last year's failure."
+    },
+    {
+      "type": "action",
+      "content": "But this year was different. Unlike Seriel, who was cautious to avoid mutual harm, Amy now had allies she could fully trust."
+    },
+    {
+      "type": "action",
+      "content": "Amy walked confidently."
+    },
+    {
+      "type": "action",
+      "content": "Iruki and Nade stepped aside with determined expressions, boosting her confidence even more with their support."
+    },
+    {
+      "type": "system_notification",
+      "content": "ΓÇö"
+    }
+  ],
+  "source_hash": "75ab261044cf75891b8bc6e281e4e813100fd520b5932d73f6843ed2ea1991f0",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T05:37:15.056816Z"
+}

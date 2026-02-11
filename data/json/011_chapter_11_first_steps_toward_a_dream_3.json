@@ -1,0 +1,1195 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When the library door closed, he couldn't hold back and burst into laughter.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Hahaha! Shirone, you're the best! I've never seen my brother make that kind of expression before!",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even as Rian hugged Shirone like a doll and shook him, Shirone couldn't take his eyes off where Rai had left.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Swordsman versus Magician.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The single book Rian had brought raised many questions for Shirone. Perhaps, as Rai said, reality might be different.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But Shirone believed.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "That the spirit of a magician who fearlessly puts even his weaknesses on the experimental table is the very reason intelligence exists in this world.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The grand library felt eerily empty.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The bookshelves once filled with knowledge were now vacant, and the glow lamps that used to illuminate the place like daylight were turned off.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A single beam of golden sunlight poured in from the fourth-floor window, developing on the floor.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone turned the pages while basking in that sunlight.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "One page, then another. And finally... the last page ended, and the cover closed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone caressed the back of the orange-red cover.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Flipping a book is an easy task. But making it through hundreds of pages of valleys to finally flip it over wasn't something just anyone could do.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The history of 850 volumes.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone had read all the history books in the grand library.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It\"s over. This is the backbone of my knowledge.",
+      "tone": "proud"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It felt warm. Like light was filling him up.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone could now understand the world.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Though he was a hunter's child, he could discuss general worldly matters with any noble without issue.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was the result of selection and focus.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Talent merely suggests an efficient direction; anyone who reads 850 history books can realize where they stand.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The library relocation project had also been completed after a major undertaking of one year and six months.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He could go home anytime now, and no longer had to worry about his family dying.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It felt like a dream.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Numerous memories flashed through his mind like fragments of a dream.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "***",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Hey, Shirone. You're still here? I thought the work was finished?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone greeted his friend with a gentle smile.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "What's with that expression? Did something good happen?",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian was perplexed by his friend's unusual demeanor.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Rian, show me around your house.",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Huh? What did you say?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian's eyes widened.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "You... you did it?",
+      "tone": "surprised"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes. There's nothing left to read, at least not in this library.",
+      "tone": "proud"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nothing left to read.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Huh? What did you say?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian didn't like books, but he could feel how impressive that statement was.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In this moment, Shirone looked like the embodiment of intellect.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even the sunlight pouring through the window seemed to bless him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Whahaha! You really did it? Man! You're truly amazing!",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian rejoiced as if it were his own achievement.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In his own aggressive way, of course.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After hugging Shirone tightly and swinging him around for a while, he snapped his fingers as if he'd had a good idea.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Alright! If you want to come to our house, you're always welcome!",
+      "tone": "excited"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "This is perfect timing. I've prepared an awesome gift to celebrate the end of your studies.",
+      "tone": "excited"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What gift all of a sudden? I don't need anything.",
+      "tone": "skeptical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Just follow me, I tell you. You'll love it! Hahaha!",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone felt uneasy.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "It was strange that Rian claimed to have prepared a gift when he'd just learned about the completion of the reading.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Moreover, the bulging laugh lines under his eyes suggested it definitely wouldn't be a gift Shirone would appreciate.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Seeing the mansion up close for the first time, its imposing size was overwhelming.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He understood why ancient people chose massive structures to represent the divinity of gods.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Rian, let's go in quietly. What if your family catches us?",
+      "tone": "cautious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "What are you worried about? The contract's over anyway, right? Besides, everyone in the family is out.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ah, this way. Hurry, hurry!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The place Rian took him to was a woman's room with a fragrant scent.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Pink curtains hung over the balcony window, and various musical instruments, including a piano, were arranged around the room.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Wait! This is your sister's room, isn't it? Let's get out! What are we doing here?",
+      "tone": "embarrassed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Hehehe. Just wait a bit. It should be somewhere around here.",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian rummaged through the dresser drawers as if it were his own room.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Searching the bottom shelf, he grabbed something and threw it at Shirone with a triumphant cheer.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Found it! Here, Shirone, a gift!",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Something fragrant and soft covered Shirone's face.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When he held it up with both hands, it was a tiny piece of cloth.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hey! Are you crazy? Why are you throwing this at me!",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Hahaha! Look at how red your face is. You're already 17. You should be able to look at panties boldly.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Shut up! What's bold about looking at panties! Take it back quickly!",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Oh? You're excited. Shirone is finally excited!",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian clutched his stomach and stomped his feet in laughter.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Rian",
+      "content": "In truth, nine-tenths of him just wanted to tease Shirone, but one-tenth was genuinely concerned.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Having been cooped up in the library for a year and a half, Shirone's skin was pale white, and his face still couldn't shed its childish appearance.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Rian",
+      "content": "Shirone was too hungry for knowledge.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Rian",
+      "content": "It wouldn't be a bad idea to use shock therapy once in a while to bring out the man inside him.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Rian",
+      "content": "But it didn't work on Shirone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "After returning the panties, Shirone sighed and gave his usual nagging.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "When will you ever grow up? Playing such pranks. It's your sister, of all people. Put it back quickly. What if we get caught?",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "She's a court musician and only comes home once or twice a year. We won't get caught anyway. Are you sure you don't want to keep it? Don't blame me if you regret it later.",
+      "tone": "persistent"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Following you is my life's biggest regret! Put it away quickly.",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian crumpled the underwear and stuffed it back into the drawer.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Hey, we'll get caught if you do it like that.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "The dedicated maid will organize it when she has time. Anyway, it's no fun since you're not excited.",
+      "tone": "disappointed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "I'll cut ties with you if you do this one more time.",
+      "tone": "threatening"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Hahaha! Alright. It was just a joke. Anyway, let's go to my room.",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian's room was at the end of the corridor.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He said since most rooms were vacant anyway, he picked the one he found comfortable.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Befitting a passionate swordsman, wooden swords were stacked in his room, and the bookshelf contained books related to swordsmanship.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "However, there weren't many professional books; most were novels about mythical swordsmen.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After sitting in the room and chatting about various things, the two played a card game when they got bored.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They both bet the same amount of chips, but the game ended in just 30 minutes.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "No way! Damn it. Gambling is supposed to be about luck, but I guess I'm extremely unlucky.",
+      "tone": "frustrated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You seem to have a habit of moving your cards outward when you get an ace. And the time you take to bet is different when you have a pair versus when you don't.",
+      "tone": "analytical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Just knowing those two things, anyone could easily beat you.",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "How do you find out such things?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Observation is surprisingly easy.",
+      "tone": "matter-of-fact"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You don't see because you're too fixated on preconceived notions.",
+      "tone": "analytical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Let go of the idea that you must find something, and feel the whole picture.",
+      "tone": "encouraging"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Then you can spot it.",
+      "tone": "matter-of-fact"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Hmm, so don't obsess over what you want to find, right? This might help in finding the schema too, don't you think?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Probably? It had a big influence on my understanding of the spirit zone.",
+      "tone": "matter-of-fact"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian repeated Shirone's words countless times.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His mind felt ticklish, as if he was close to understanding something, but he just couldn't grasp the core.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Perhaps from thinking hard, which was unusual for him, his body felt sluggish and drowsiness overwhelmed him.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Stretching widely, Rian lay down and said, 'There's nothing to do, so let's sleep for a bit.'",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "I ran a hundred laps this morning too, so I'm dead tired.",
+      "tone": "exhausted"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Go ahead and sleep. I'll read a book.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Mm-hmm.",
+      "tone": "drowsy"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian fell asleep as soon as he put his head down.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone chuckled at his carefree friend and picked up a novel.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After reading only difficult history books, time flew by as he immersed himself in adventure stories.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When Rian didn't wake up even after an hour, Shirone closed the book and tidied up the room.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It seemed best to leave now, as the house would become bustling when the sun set.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As he walked along the corridor, he heard piano music.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone stopped in shock.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "For someone raised in the mountains, sheet music inspired by a composer stirred his heart in a way different from magic.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The sound was coming from Rian's sister's room.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Moving his feet unknowingly, Shirone saw Rian's sister for the first time.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A pure face like the dawn dew.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A woman with blue hair flowing like waves was playing the piano.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ozent Reina, the second daughter of the Ozent family.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The melody Reina played was truly heavenly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Though not the youngest, she was recognized for her talent and entered the royal palace at the age of 19, so Shirone's assessment wasn't exaggerated.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The harmonies building up.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The rush of those harmonies.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "And then variation.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone's mind followed Reina's fingertips like a marionette caught in the melody.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Only after the performance ended did Shirone realize where he was.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Perhaps the emotion lasted too long.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "By the time he came to his senses, Reina had already turned around and was waving at him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Hello? How was my piano sonata?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He had read about it in books, but this was his first time hearing it.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You can come closer and look. I haven't seen your face before. Are you a new butler?",
+      "tone": "polite"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Ah! I've heard about you. You must be very smart. Not just anyone can do classification work.",
+      "tone": "impressed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Perhaps because she was an artist, her words and actions weren't authoritative at all; rather, they were considerate.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes. I was in charge of the library classification work. It's finished now, though.",
+      "tone": "matter-of-fact"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "For the first time, Shirone envied Rian for having a sister.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Then he remembered the inappropriate crime he had unintentionally committed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His cheeks flushed as her face overlapped with what he had seen.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ugh!",
+      "tone": "embarrassed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Are you feeling unwell? Why does your face look like that?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No, no, it's nothing.",
+      "tone": "dismissive"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone awkwardly entered the room.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Is this what they call sheet music?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hmm? Yes, that's right. It's Schraiman's Piano Sonata, 3rd Movement, 'In the Darkness.'",
+      "tone": "matter-of-fact"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Have you ever played the piano?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No, never.",
+      "tone": "polite"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Really? Sit over here. I'll teach you. It's not a difficult piece.",
+      "tone": "encouraging"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone took a liking to her kind and affectionate nature.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Of course, he was also bewildered, having heard from Rian that she was a witch with a nasty temper.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone pressed the first chord, paying attention to the fingering as instructed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then he moved at intervals to connect to the second chord.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Wow! You have very quick eyes. For someone playing for the first time, your sight-reading is really good.",
+      "tone": "impressed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sight-reading refers to playing a score for the first time.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It requires technical talent rather than sensitivity, and someone with excellent sight-reading can be considered a fast thinker.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Excuse me...",
+      "tone": "polite"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Yes?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Could you play it once more for me?",
+      "tone": "polite"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At that moment, Reina discovered Shirone's unique temperament.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The idea that artists like talent is a lie fabricated by critics.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rather, artists love passion.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Alright. Listen carefully.",
+      "tone": "encouraging"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Reina encored 'In the Darkness.'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even to an amateur like Shirone, it was a much more delicate performance than the first.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "This was the power of the schema.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Her nervous system, which understood her own body, was twice as sensitive as an ordinary person's.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After the performance, Reina turned her head with a satisfied face.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But Shirone didn't express any reaction, as if he hadn't heard anything, and was lost in thought.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "May I try?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Please understand if it's hard to listen to.",
+      "tone": "polite"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Hehe, of course. Everyone starts that way.",
+      "tone": "encouraging"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's hands gently rested on the keyboard.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Just as Reina thought his posture was decent, Shirone's fingers began to tap the keys.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As unfamiliar music played, Reina smiled awkwardly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But as it progressed to the middle section, she seemed to realize something and leaned in to listen.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Reina",
+      "content": "What is this child? What is he trying to do?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "All the notes were off. Completely wrong.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But amazingly...",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was perfectly similar.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Reina",
+      "content": "Clearly, Shirone lacked the technical proficiency to play sheet music.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Reina",
+      "content": "But excluding the technical part, it was as if he had become Reina, imitating everything about her.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Reina",
+      "content": "This wasn't a performance for someone else.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Reina",
+      "content": "In this child's mind, there was only the piano.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "'A little more. Just a little closer.'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone was desperately trying to penetrate the music.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Maintaining the rhythm made the development too fast.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With his sight-reading skills, he couldn't hit the exact notes.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He compressed his concentration, which fluctuated every second.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "His state of selflessness began to be pulled into the spirit zone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Reina swallowed hard.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Pleasant harmonies were occasionally interspersed among the discordant sounds.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "And finally, during the climax that went 'du-du-du-du!' the performance matched the score perfectly for exactly 1.7 seconds.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Reina felt a thrill and held her breath.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone maintained that state and entered the authentic cadence.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After striking the tonic, he raised both hands and forcefully hit the dominant.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then he pressed the final tonic with the greatest passion of his life.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Kuuuuuuung.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The harmonies that had continued from four minutes in the past dissipated into seven notes, spreading infinite reverberations.",
+      "tone": null
+    }
+  ],
+  "source_hash": "3a7611cd06c81675e1f71d1fd636d7a79385d0f07429841af11bf84da6ec7951",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-10T10:22:31.745869"
+}

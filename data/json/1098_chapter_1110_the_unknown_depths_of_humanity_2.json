@@ -1,0 +1,807 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "Maya stared blankly at Kaiden's strange behavior."
+    },
+    {
+      "type": "action",
+      "content": "Kaiden, lifting his head cautiously, noticed his right hand acting out again and quickly pulled his arm back."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kaiden",
+      "content": "Damn it! This is driving me crazy.",
+      "tone": "frustrated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Maya",
+      "content": "Kaiden, are you okay?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kaiden",
+      "content": "Oh, um…"
+    },
+    {
+      "type": "narrator",
+      "content": "There was nothing he could say."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Maya",
+      "content": "What's going on?"
+    },
+    {
+      "type": "action",
+      "content": "Other residents sharing the same corridor emerged into the hallway, and Reina, the leader of the troupe, entered the room."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "What's the matter? What happened?"
+    },
+    {
+      "type": "action",
+      "content": "Everyone's gaze fell on Kaiden, who was sitting under a blanket, his face burning with embarrassment."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kaiden",
+      "content": "Hm."
+    },
+    {
+      "type": "narrator",
+      "content": "Having grown up with brothers, Reina could guess what had happened."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "I thought something serious had happened. Maya, don't worry about it. He's just healthy, that's all. But Kaiden, please be mindful of the noise at night."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kaiden",
+      "content": "No, that\"s not it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kaiden",
+      "content": "Kaiden wanted to salvage the situation, but his tongue failed him under the scrutiny of so many people."
+    },
+    {
+      "type": "action",
+      "content": "Reina gently pulled Maya by the shoulder and headed for the door."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Let's go, Maya."
+    },
+    {
+      "type": "action",
+      "content": "As they walked out, she whispered,"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Maya",
+      "content": "I know you're old classmates, but be careful. I've been watching him, and honestly, he seems a bit shady… maybe even perverted."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kaiden",
+      "content": "Ah, okay."
+    },
+    {
+      "type": "narrator",
+      "content": "Maya wanted to deny it, but she couldn't be sure herself."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Maya",
+      "content": "All right, everyone, let's head back to our rooms. We've got roll call in the morning, so get some rest."
+    },
+    {
+      "type": "action",
+      "content": "As Reina dispersed the group, Maya glanced back at Kaiden's door in the now-empty hallway."
+    },
+    {
+      "type": "action",
+      "content": "Meanwhile, Kaiden hurriedly pulled up his pants, nearly in tears."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kaiden",
+      "content": "Damn it. You idiot."
+    },
+    {
+      "type": "thought",
+      "speaker": "Kaiden",
+      "content": "He thought it might have been better to run through the streets of Jive naked than to endure this."
+    },
+    {
+      "type": "thought",
+      "speaker": "Kaiden",
+      "content": "As long as Maya wasn't there to see it."
+    },
+    {
+      "type": "thought",
+      "speaker": "Kaiden",
+      "content": "I should go back to Tormia. What kind of knight am I? Staying here will only cause trouble for everyone."
+    },
+    {
+      "type": "thought",
+      "speaker": "Kaiden",
+      "content": "He felt like someone destined to sit alone in a gloomy room, endlessly sketching the face of the woman he loved."
+    },
+    {
+      "type": "sfx",
+      "content": "A knock, followed by Maya's voice."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Maya",
+      "content": "Can I come in for a moment?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Kaiden",
+      "content": "Not now. How could I face her?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Maya",
+      "content": "I really need to tell you something. It's important."
+    },
+    {
+      "type": "action",
+      "content": "When Kaiden opened the door, Maya entered with a calm smile."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Maya",
+      "content": "How's your hand?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kaiden",
+      "content": "Huh? Oh…"
+    },
+    {
+      "type": "action",
+      "content": "Kaiden sighed as he looked at his troublesome right hand, then spoke honestly."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kaiden",
+      "content": "I'm sorry. It's what you think it is. I made a fool of myself. I don't even know how to apologize…"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Maya",
+      "content": "It's fine. It's not the first time."
+    },
+    {
+      "type": "narrator",
+      "content": "Maya knew about Kaiden's uncontrollable right hand."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Maya",
+      "content": "What's your true intention?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kaiden",
+      "content": "Huh?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Maya",
+      "content": "You're always kind to me, but your right hand always seems to have its own… inappropriate ideas. Honestly, I don't know what you want."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kaiden",
+      "content": "No way! Inappropriate thoughts? I'd never dream of such a thing!"
+    },
+    {
+      "type": "action",
+      "content": "Kaiden waved both hands, but only his left moved. His right hand formed an 'OK' sign with his thumb and forefinger."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Maya",
+      "content": "Would you stop already!"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kaiden",
+      "content": "Kaiden yelled, hitting his right arm."
+    },
+    {
+      "type": "action",
+      "content": "As another battle between his hands broke out, Maya spoke."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Maya",
+      "content": "Kaiden, I've been thinking a lot since your confession. But honestly, I… I still can't forget Shirone."
+    },
+    {
+      "type": "action",
+      "content": "Kaiden's right arm fell limp."
+    },
+    {
+      "type": "thought",
+      "speaker": "Kaiden",
+      "content": "Whenever Shirone's name came up, his right arm would always go still."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kaiden",
+      "content": "I-I see. I wasn't expecting anything anyway…"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Maya",
+      "content": "But,"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Maya",
+      "content": "I'm trying to move on. Shirone has Amy, after all. I can't cling to him forever, can I?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Kaiden",
+      "content": "Kaiden's heart raced."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kaiden",
+      "content": "I can't make any promises. But… can you give me a little time? Would that be too much to ask?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Maya",
+      "content": "No, not at all. I can wait. I'll wait forever… no, for eternity if I have to."
+    },
+    {
+      "type": "action",
+      "content": "It was a foolishly grand answer, but Maya smiled."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Maya",
+      "content": "Thank you for always caring about me. Good night."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kaiden",
+      "content": "Oh, yeah. You too…"
+    },
+    {
+      "type": "action",
+      "content": "After Maya left, Kaiden sat frozen for a long time before collapsing onto his bed."
+    },
+    {
+      "type": "thought",
+      "speaker": "Kaiden",
+      "content": "She's just pitying me."
+    },
+    {
+      "type": "thought",
+      "speaker": "Kaiden",
+      "content": "How pathetic and pitiful he must have seemed."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kaiden",
+      "content": "Ugh."
+    },
+    {
+      "type": "thought",
+      "speaker": "Kaiden",
+      "content": "His eyes welled up."
+    },
+    {
+      "type": "thought",
+      "speaker": "Kaiden",
+      "content": "But she didn't say no."
+    },
+    {
+      "type": "thought",
+      "speaker": "Kaiden",
+      "content": "For someone crushed by the weight of the Red Cross Star's destiny, it was the first glimmer of hope Kaiden had ever known."
+    },
+    {
+      "type": "thought",
+      "speaker": "Kaiden",
+      "content": "She said it's okay to wait."
+    },
+    {
+      "type": "thought",
+      "speaker": "Kaiden",
+      "content": "He felt himself breaking free from the confines set by God."
+    },
+    {
+      "type": "thought",
+      "speaker": "Kaiden",
+      "content": "Maybe… maybe I can do it."
+    },
+    {
+      "type": "action",
+      "content": "Through his tear-blurred vision, his right hand moved closer and gently covered his eyes."
+    },
+    {
+      "type": "narrator",
+      "content": "The incident in the artist's residence was a minor mishap, but Captain Rai of the guard was on edge."
+    },
+    {
+      "type": "thought",
+      "speaker": "Captain Rai",
+      "content": "No sleep for me tonight."
+    },
+    {
+      "type": "thought",
+      "speaker": "Captain Rai",
+      "content": "Not that he was planning to sleep anyway."
+    },
+    {
+      "type": "action",
+      "content": "As he passed through the artist's district into the teaching area, he saw someone approaching in the distance."
+    },
+    {
+      "type": "action",
+      "content": "Even from the limp in their gait, Rai recognized them."
+    },
+    {
+      "type": "thought",
+      "speaker": "Captain Rai",
+      "content": "Parka Kuan."
+    },
+    {
+      "type": "action",
+      "content": "Rai stood straight and saluted as Kuan approached. Kuan gave a brief nod in return."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Captain Rai",
+      "content": "Where have you been?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kuan",
+      "content": "I just went for a walk to clear my head."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Captain Rai",
+      "content": "You don't have to be so formal. It makes me uncomfortable."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kuan",
+      "content": "I hope I'm not being presumptuous, but I heard you had a reason. Even without that, I think you'd be better suited to the role than I am."
+    },
+    {
+      "type": "thought",
+      "speaker": "Captain Rai",
+      "content": "Siena."
+    },
+    {
+      "type": "thought",
+      "speaker": "Captain Rai",
+      "content": "Since arriving at the sanctuary, Kuan hadn't met her even once."
+    },
+    {
+      "type": "thought",
+      "speaker": "Captain Rai",
+      "content": "A one-eyed, one-armed, limping man."
+    },
+    {
+      "type": "thought",
+      "speaker": "Captain Rai",
+      "content": "What dreams could those with intact bodies expect him to have?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kuan",
+      "content": "Do your best."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kuan",
+      "content": "As Kuan walked away, he muttered,"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kuan",
+      "content": "A one-armed man cannot fight to protect others."
+    },
+    {
+      "type": "action",
+      "content": "By the time Rai turned around, Kuan had disappeared from sight."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Captain Rai",
+      "content": "Heretic!"
+    },
+    {
+      "type": "action",
+      "content": "Vanisa, restrained by the Miracle Stream, shouted, his jaw dislocated and hanging loosely."
+    },
+    {
+      "type": "sfx",
+      "content": "Shirone swung the light's energy in a full arc, slamming Vanisa into the wall with a loud thud."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Oops!"
+    },
+    {
+      "type": "thought",
+      "speaker": "Vanisa",
+      "content": "If he had been an ordinary human, every bone in his body would have shattered."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vanisa",
+      "content": "Ughhhhh…"
+    },
+    {
+      "type": "thought",
+      "speaker": "Vanisa",
+      "content": "Despite his broken form, Vanisa rose to his feet."
+    },
+    {
+      "type": "thought",
+      "speaker": "Vanisa",
+      "content": "He's a Denier."
+    },
+    {
+      "type": "thought",
+      "speaker": "Vanisa",
+      "content": "Trapped in the prison of his flesh, he had transcended death."
+    },
+    {
+      "type": "thought",
+      "speaker": "Vanisa",
+      "content": "Unlike Rian, however, his body did not regenerate."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Stop,"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Not being able to die doesn't mean you're alive. If you keep destroying your body like this, you'll just become a lump of meat."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vanisa",
+      "content": "Foolish wretch,"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vanisa",
+      "content": "Nothing will change."
+    },
+    {
+      "type": "sfx",
+      "content": "Charging again, now more like a monster than a man, Vanisa's distorted figure was once again engulfed by the light's energy."
+    },
+    {
+      "type": "sfx",
+      "content": "Gaaahhh!"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Wherever the light touched, black ash scattered."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "As expected, it doesn't purify."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "It only burned away, leaving nothing behind."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "If the light of Agape continued to pour into him… would there be anything left of him at all?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Give up. You've turned into a demon in human flesh. For demons, purification means annihilation."
+    },
+    {
+      "type": "sfx",
+      "content": "Graaagh!"
+    },
+    {
+      "type": "action",
+      "content": "Vanisa's ribs all erupted from his body, extending like spider legs, with one broken rib hanging uselessly."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Flesh, mind, spirit, emotions…"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vanisa",
+      "content": "We exist only for the glory of God!"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Damn it!"
+    },
+    {
+      "type": "sfx",
+      "content": "The light of Agape exploded, and Vanisa was hurled into the darkness of the corridor."
+    },
+    {
+      "type": "sfx",
+      "content": "Phew."
+    },
+    {
+      "type": "action",
+      "content": "Wiping the sweat from under his chin, Shirone approached to find Vanisa's body charred like coal."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vanisa",
+      "content": "Ahhh…"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Where… am I?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "In prison,"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vanisa",
+      "content": "Does this mean… I can leave now?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I guess not. God has not forgiven me."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "This was the third immortal Shirone had encountered."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "'Why can't they die?' Rian, Gaold, and now Vanisa."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vanisa",
+      "content": "I see it, Yahweh,"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vanisa",
+      "content": "God has determined your end. You will never win. You'll shed tears of blood… hahaha."
+    },
+    {
+      "type": "action",
+      "content": "With a crumble, the muscles of his face, now coal-black, broke apart."
+    },
+    {
+      "type": "sfx",
+      "content": "Grk\\u2026 grrk\\u2026"
+    },
+    {
+      "type": "action",
+      "content": "Shirone stared at the lifeless body, which could no longer convey anything, and slowly turned away."
+    },
+    {
+      "type": "sfx",
+      "content": "A wailing sound echoed through the air."
+    },
+    {
+      "type": "system_notification",
+      "content": "ΣΣΣ"
+    },
+    {
+      "type": "action",
+      "content": "By 4:30 AM, lights flickered on one by one in the Delta headquarters."
+    },
+    {
+      "type": "action",
+      "content": "By 5:00 AM, the corridors buzzed with activity as delegations from various departments of the sanctuary arrived in Delta."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Ugh, so uncomfortable."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Seriel from the World Health Organization stretched and spotted a familiar face in the distance."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Huh?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amira",
+      "content": "Wow! Amira!"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amira",
+      "content": "Oh, Seriel! It's been ages. I've heard about you."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dorothy",
+      "content": "Hello, nice to meet you."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dorothy",
+      "content": "Dorothy was Iruki's representative, while Liz attended the sanctuary as a director of Neid's group."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dorothy",
+      "content": "So, is Iruki really not coming? It's bound to come up during the public speech,"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Liz",
+      "content": "I don't know. There's no word from him. Shirone hasn't said anything, so I suppose it's fine, but…"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Liz",
+      "content": "Don't worry. He's probably just goofing off somewhere strange. That's what guys like him do."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "As small talk continued, Seriel scanned the room."
+    },
+    {
+      "type": "thought",
+      "speaker": "Seriel",
+      "content": "Amy isn't here?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Then her expression stiffened."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Well, well, look who it is."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "It was Fermi, sipping coffee as he approached."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Liz",
+      "content": "Long time no see. Still as shifty as ever? You've finally wormed your way into politics after all that scheming at school, huh?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Haha! If it helps the world, I'll gladly throw myself into the fire."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "He winked at Seriel."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "I read your paper. Your analysis on emotional disorders was excellent."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "…What are you doing right now?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "What?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Why are you talking to me? Do you think I've forgotten what you did? You turned countless people into drug addicts."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Which is why I'm talking to you. I've got a great idea…"
+    },
+    {
+      "type": "action",
+      "content": "As Fermi reached to place a hand on her shoulder, Seriel swatted his arm away."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Don't touch me."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Still as cold as ever."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Just like back in school."
+    },
+    {
+      "type": "system_notification",
+      "content": "ΣΣΣ"
+    },
+    {
+      "type": "action",
+      "content": "The staff member from Jive approached."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Staff member",
+      "content": "The sanctuary's official event is about to begin. Attendees, please make your way to the main hall."
+    },
+    {
+      "type": "action",
+      "content": "The women dispersed to their respective departments, and as Seriel passed Fermi, she ground her teeth and said,"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "You. Meet me later."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Still as cold as ever."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Just like back in school."
+    }
+  ],
+  "source_hash": "b8c4a638b7b129550690f38484b92641a56c35da00ee5c63a6e8dbc84537c76d",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T03:57:28.220045Z"
+}

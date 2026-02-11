@@ -1,0 +1,727 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The summer was fading.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Chilly winds blew in the mornings and evenings, and plants prepared to don their autumn colors.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But the days remained hot, and the students were relentless in their final push.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Only one week remained.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Classes had ended the previous week, leaving only the final exams.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Exams were held sequentially, one class per day, starting from Class Ten.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "On the sixth day, Class Five students soothed their pounding hearts as they headed to the exam hall.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's group picked at breakfast and arrived early.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The exam lasted exactly 12 hours, with only five-minute breaks.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Compared to ordinary schools, this was grueling, but for magic school students, maintaining focus was as crucial as knowledge.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The exams were divided into Types A, B, and C—same questions, different answer arrangements—to prevent cheating and lucky guesses.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone had Type A, Iruki Type B, and Nade Type C.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Assigned to different halls, they stepped into the corridor beforehand to calm their nerves.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even the troublemakers were tense—their half-year efforts hinged on this.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nade shivered despite the warm weather.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Ugh. I'm dying. Shirone, how about you?",
+      "tone": "anxious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Feel like puking. One mistake, and it's over. Especially in math.",
+      "tone": "desperate"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Stay calm. We have time. Save the nerves for the exam paper.",
+      "tone": "calm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At Iruki's words, the two steadied themselves.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But when the starting bell rang, even they paled.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Let's go. See you with smiles later.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Right. Good luck!",
+      "tone": "encouraging"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The three parted ways, promising to reunite in 12 hours.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "***",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Supernatural Psychic Science Lab.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's group was busy grading their exams.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Though the papers couldn't be leaked, Iruki had perfectly reconstructed them.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A Servant's memory knew no forgetting.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was like storing documents in mental drawers, retrievable anytime.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Iruki recited questions, Nade transcribed, and Shirone checked answers.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They worked until dawn to reconstruct all subjects.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Exhausted, they split up to tally scores.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Ugh, I'm nervous. Think I bombed a few.",
+      "tone": "anxious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Same. This is brutal. Even perfect scores in other subjects won't save us if one falls short.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "But that's why we formed the study group. Let's finish grading first.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Hours later, their scores took shape.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nade was the first to leap up.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Yes! 82 average! Cleared 80 in every subject!",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "No high marks, but balanced scores secured an 82.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The former delinquent, who'd once scoffed at Class Four, now couldn't be happier.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Iruki and Shirone stayed quiet.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "True celebration would come only if all three advanced.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Iruki leaned back, wiping sweat.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Done. 87. Got one 80 in language. One more wrong, and it'd have been over.",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Whoa! You passed too? Congrats! Class Four!",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Whatever. Feels good, though.",
+      "tone": "nonchalant"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nade and Iruki turned to Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If he passed, their dream of advancing together would come true.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But Shirone was silent.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Iruki noticed his hand had stopped moving.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Shirone? What's wrong? Did you fail?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "What's the matter? What's your score?",
+      "tone": "anxious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "86…",
+      "tone": "nervous"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Whoa, that's amazing!",
+      "tone": "surprised"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nade was genuinely surprised.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They'd aimed for all three to advance, but hearing it felt miraculous.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone, a commoner's son with no academic background, had averaged 86 after just half a year of effort.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Compared to Iruki's 87—flawless in math thanks to his Servant ability—Shirone's desperation was evident.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Iruki tilted his head.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "You… did well, right? Did you bomb a subject?",
+      "tone": "inquisitive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "That's the thing—I'm not sure.",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Not sure? What do you mean? Explain.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "The last multiple-choice math proof—what was the answer?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "That? The one linking two equations? The answer was super long.",
+      "tone": "distracted"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Iruki's eyes widened.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Don't tell me…?",
+      "tone": "alarmed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yeah, I can't remember which proof I picked. I redid it, but it's the same. I was torn between two back then.",
+      "tone": "frustrated"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "What's your score? If you got it wrong, what's your score?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "78…",
+      "tone": "nervous"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Iruki and Nade grasped the gravity.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The last question was worth 2 points.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "One mistake meant advancement or failure.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "How can you not remember? Which option did you pick?",
+      "tone": "exasperated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Option 3. But I can't check—I had Type A.",
+      "tone": "defeated"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nade snatched the test paper.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The last question's options were twenty lines long—a nightmare.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He'd surely gotten it wrong too. Probably only Iruki had aced it in Class Five.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone clutched his head.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I thought it was 2 or 3. With 10 seconds left, it hit me, but… I can't remember what it was.",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Last-second recalls happened.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nade and Iruki, having grown up in magic school, understood the feeling.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But this decided advancement.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Failing meant another half-year in Class Five.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Damn it! I can't take this!",
+      "tone": "frustrated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "What're you gonna do?",
+      "tone": "inquisitive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Check directly. Let's ask Ms. Siena. She's our homeroom teacher.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone couldn't focus either.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The three left the lab and headed to the exam hall.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Grading had taken a full day, so Class Four's exams were now underway.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "During lunch, Shirone's group slipped in and waited anxiously for the teachers.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Thirty minutes later, Siena appeared.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Teacher! Teacher!",
+      "tone": "anxious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Hmm? Why are you here? Class Five's exams ended yesterday.",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "The last multiple-choice math proof in Type A! What's the answer?",
+      "tone": "desperate"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Siena tilted her head.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Her specialty was chemistry, but all teachers reviewed exam papers at least three times.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even non-majors could handle student-level math.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Why the sudden question?",
+      "tone": "inquisitive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Please! It's really important!",
+      "tone": "pleading"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Seeing Nade's desperation, Siena recalled the question.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Its difficulty had stuck with her.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Oh, that? For Type A, it's Option 2.",
+      "tone": "matter-of-fact"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Option 2…",
+      "tone": "disbelieving"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He'd picked Option 3.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His score: 78.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A 2-point difference meant failure.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His breath caught.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Option 2? How… How could it be Option 2…",
+      "tone": "shocked"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Muttering, Shirone suddenly clutched his neck.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then, he collapsed backward.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nade barely caught him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Shirone! You okay? Snap out of it! You're Indestructible Diamond!",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Option 2? How… How could it be Option 2…",
+      "tone": "disbelieving"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As they dragged him away, Shirone kept mumbling.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Siena blinked, then chuckled and headed to the faculty office.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Those kids never run out of energy, do they?",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The office buzzed with grading teachers.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Siena sat and began grading.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then, on a whim, she pulled out the Type A math exam.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The last multiple-choice, was it?",
+      "tone": null
+    }
+  ],
+  "source_hash": "049b2c19a0e43f76b2ace4387e767710ee7f53d5be3943f31e66e01965601610",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T15:47:19.420755+00:00"
+}

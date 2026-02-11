@@ -1,0 +1,805 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "After lunch, Shirone walked through the corridors of Delta's main building, lost in thought."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'm a bit uneasy.",
+      "tone": "uneasy"
+    },
+    {
+      "type": "narrator",
+      "content": "It wasn't that he doubted the abilities of Ikael and Ashur, but the future of humanity was at stake."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I have no choice but to trust them. Now I need to focus on strategizing with Tormia.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "content": "As he hoped for Wizard's arrival, Satiel approached from the end of the corridor."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Satiel",
+      "content": "Shirone.",
+      "tone": "formal"
+    },
+    {
+      "type": "action",
+      "content": "Their relationship was strained."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Satiel",
+      "content": "Where is Ikael?",
+      "tone": "accusatory"
+    },
+    {
+      "type": "action",
+      "content": "Shirone remained silent, but Satiel had expected no answer."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Satiel",
+      "content": "You know, I have unresolved issues with Ikael. If you tell me where she is, I won't harm you. I might even help.",
+      "tone": "manipulative"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Why?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Satiel",
+      "content": "Is it because you still have some affection for me? Or because you already killed me once?",
+      "tone": "provocative"
+    },
+    {
+      "type": "action",
+      "content": "Satiel's eyes hardened."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Satiel",
+      "content": "Say what you want. I don't regret my decision. I'd do the same again.",
+      "tone": "defiant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I know, you had no choice.",
+      "tone": "empathetic"
+    },
+    {
+      "type": "action",
+      "content": "Her expression didn't change, but her aura wavered."
+    },
+    {
+      "type": "narrator",
+      "content": "The only archangel who sided with the Gaians. When Goffin chose Ikael, your sense of betrayal…"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What are you trying to say?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Satiel",
+      "content": "Because it was irreversible, one mistake led to total ruin. But now it can be undone. I'm alive now.",
+      "tone": "hopeful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It can't be undone. Even so, it doesn't change the fact that I drove you to death.",
+      "tone": "guilty"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Satiel",
+      "content": "I don't blame you.",
+      "tone": "understanding"
+    },
+    {
+      "type": "action",
+      "content": "Satiel bit her lip."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Satiel",
+      "content": "Can't we start over? The death of a child must have been a great pain for Ikael, but I'm here now. We can fix this.",
+      "tone": "pleading"
+    },
+    {
+      "type": "action",
+      "content": "The air vibrated."
+    },
+    {
+      "type": "sfx",
+      "content": "Satiel's vibration was a reverent, supernatural sound wave."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Undo it? It would be a lie to say Shirone's words didn't shake her, but it was too late."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The way back is just as far."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "She was tired, and now what moved her was a will hardened into a mission, even her anger petrified."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Goffin."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "If it could be undone."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Even so, Goffin won't return. Ikael took everything from me."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Satiel.",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "content": "His voice resonated like thunder, and Satiel frowned."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Satiel",
+      "content": "What do you want…",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "content": "At that moment, two-horned Mara, Gallio appeared beside Satiel."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gallio",
+      "content": "I found Ikael!",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "content": "His eyes, possessing extreme disintegration vision, swirled like a vortex."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You found her?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "action",
+      "content": "Even as Satiel turned to him in haste, Shirone couldn't understand the situation."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "How?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gallio",
+      "content": "Ikael!",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "content": "Satiel's expression filled with malice again, and without waiting, she broke the window and flew out."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Simultaneous event…"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone, who intended to use Amy's perception to go there, bit his lip."
+    },
+    {
+      "type": "sfx",
+      "content": "Ugh!"
+    },
+    {
+      "type": "action",
+      "content": "Due to the nature of not being able to exist in the same space, the signals were colliding."
+    },
+    {
+      "type": "sfx",
+      "content": "Blitz!"
+    },
+    {
+      "type": "action",
+      "content": "As he shouted, Thunder Dragon Blitz appeared, kneeling with a thunderclap."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Blitz",
+      "content": "You called, Messiah.",
+      "tone": "formal"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Right now…",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "content": "As Shirone was about to give instructions, he saw hundreds of flashes rising outside the window."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Follow me.",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "content": "As Shirone leaped out the window, twelve apostles followed."
+    },
+    {
+      "type": "action",
+      "content": "Aruta and Amy didn't move, but they had already exchanged many moves."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He's coming."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The imaginary Aruta threw a punch, and Amy twisted her body to counterattack."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Failed."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Amy's head exploded."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "In thousands of simulations, she had never succeeded in counterattacking."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "I can't win."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Uriel's Second Mara was naturally not weak, but his strike surpassed the category of Mara."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "I'll die."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "She hurriedly grasped her faltering energy."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Aruta couldn't attack because Amy still had the potential to counterattack."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The moment I waver, it's over."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Only the tight balance, with no margin for error, extended her life."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "There's no way to avoid his strike. The energy is so strong it feels certain."
+    },
+    {
+      "type": "sfx",
+      "content": "Huuu."
+    },
+    {
+      "type": "action",
+      "content": "Even as she barely held back tears, time passed."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "In her weakening energy, Aruta found an opening."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "His insight, based on a lifetime of understanding martial arts, guided his body."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "This is the end."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "As Aruta kicked off the ground and charged, Amy felt her consciousness fade."
+    },
+    {
+      "type": "sfx",
+      "content": "Ah…"
+    },
+    {
+      "type": "action",
+      "content": "Her mind went blank, and the unavoidable strike approached."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "With no thoughts, even if she died, she couldn't think of the word death."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Therefore…"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "She was no different from being dead, and Aruta's strike carried that meaning."
+    },
+    {
+      "type": "sfx",
+      "content": "Mahaprajna."
+    },
+    {
+      "type": "action",
+      "content": "When she first opened the realm of fire and lost consciousness, Nane had chanted sutras beside her."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Her consciousness opened, and her red eyes ignited."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Immortal Function.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "content": "In her state of forgetting even her own existence, she had become pure fire."
+    },
+    {
+      "type": "sfx",
+      "content": "Ignition."
+    },
+    {
+      "type": "action",
+      "content": "The crimson flames coiled around Aruta's arm, snaking into his mouth and incinerating his insides."
+    },
+    {
+      "type": "sfx",
+      "content": "Graaahhh!"
+    },
+    {
+      "type": "action",
+      "content": "Before he could even register the pain, his body evaporated, leaving a massive vortex of fire in his place."
+    },
+    {
+      "type": "sfx",
+      "content": "Aaaaahhhh!"
+    },
+    {
+      "type": "action",
+      "content": "Amy wept with overwhelming emotion."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "So this is what it was."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "She finally understood Shirone's heart, the meaning he had tried to convey."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Burn it all.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "content": "The flames, which scorched the vast radius to ashes, exploded outward before disappearing entirely."
+    },
+    {
+      "type": "action",
+      "content": "At the center of the destruction stood a beautiful figure, her entire body transformed into fire, with her eyes gently closed."
+    },
+    {
+      "type": "action",
+      "content": "Realizing Aruta's obliteration, Uriel slowly lowered the foot he had aimed at Ikael."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "Stand up.",
+      "tone": "calm"
+    },
+    {
+      "type": "action",
+      "content": "He hadn't intended to kill her, so Ikael carefully rose to her feet."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "I thought I had thought about this as much as anyone possibly could… but it seems I was mistaken.",
+      "tone": "reflective"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "Uriel, that's what it means to have a heart,",
+      "tone": "empathetic"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "Thoughts are just thoughts. All angels think according to the laws of the universe. But you didn't follow Satiel.",
+      "tone": "analytical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "Because you have a heart. You have the will to change things. Isn't that why you came to me?",
+      "tone": "hopeful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "Yes. To destroy you.",
+      "tone": "resolute"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "That anger is part of your heart as well. But you're hesitating, aren't you? That hesitation means you haven't fully committed.",
+      "tone": "encouraging"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "Goffin had taught her.",
+      "tone": "reflective"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "When you can throw everything away, that's when you'll find your path. Until then—",
+      "tone": "empathetic"
+    },
+    {
+      "type": "sfx",
+      "content": "Ikael!"
+    },
+    {
+      "type": "action",
+      "content": "Leading a host of angels, Satiel descended at terrifying speed, her voice full of wrath."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Satiel",
+      "content": "Die!",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "content": "As soon as she landed, she lunged forward, her fist raised high."
+    },
+    {
+      "type": "action",
+      "content": "Uriel drew his Paradise Staff."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "What—",
+      "tone": "surprised"
+    },
+    {
+      "type": "action",
+      "content": "Caught off guard, Satiel attempted to brake, but her fist smashed into the staff."
+    },
+    {
+      "type": "sfx",
+      "content": "BOOOOM!"
+    },
+    {
+      "type": "action",
+      "content": "The impact unleashed a massive shockwave that swept across the land."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Satiel",
+      "content": "What are you doing?",
+      "tone": "accusatory"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "I was speaking with Ikael.",
+      "tone": "calm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Satiel",
+      "content": "And what were you thinking? I am the archangel now. If you do not obey my command, you too will be considered a traitor.",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "Uriel glanced skyward.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "content": "Hundreds of angels hovered, activating their Judgement Halos, ready to bombard the ground."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "Looking back at Satiel, he said simply, 'Do as you please.'",
+      "tone": "calm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Satiel",
+      "content": "You—!",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "content": "As Satiel unleashed her Judgement Halo, Uriel's holy aura spread, forming rings of light."
+    },
+    {
+      "type": "action",
+      "content": "Between the two archangels, light spiraled, triggering another massive shockwave."
+    },
+    {
+      "type": "action",
+      "content": "Satiel was hurled back, and Uriel swung his Paradise Staff, casting Ragnarok."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Satiel",
+      "content": "Is this what it takes to satisfy you?",
+      "tone": "menacing"
+    },
+    {
+      "type": "sfx",
+      "content": "Even as lightning crackled and exploded, Satiel didn't attempt to block."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Satiel",
+      "content": "Instead, she issued a command: 'Kill Ikael!'",
+      "tone": "menacing"
+    },
+    {
+      "type": "sfx",
+      "content": "BOOOOM!"
+    },
+    {
+      "type": "action",
+      "content": "White lightning erupted above Satiel's head, and hundreds of angels descended to bombard the ground."
+    },
+    {
+      "type": "action",
+      "content": "The battle of the angels began."
+    },
+    {
+      "type": "action",
+      "content": "Their clashes, far more advanced than anything humans or Mara could comprehend, shook the earth with each collision of abstract concepts."
+    },
+    {
+      "type": "action",
+      "content": "Soaring through the sky at incredible speed, the Twelve Apostles called out to the one leading them."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Blitz",
+      "content": "Messiah!",
+      "tone": "formal"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Understood",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "content": "The angels' battlefield resembled a disaster one might expect to see in the depths of space."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'll take care of this. Confirm Wizard's safety first. And if possible… check on Ikael and Amy as well.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Blitz",
+      "content": "Understood.",
+      "tone": "formal"
+    },
+    {
+      "type": "action",
+      "content": "Blitz, acknowledging Shirone's orders, bowed and led the remaining Apostles as they scattered in all directions."
+    },
+    {
+      "type": "action",
+      "content": "Meanwhile, Ikael was surrounded by hundreds of angels, fending off their relentless attacks."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ceriel",
+      "content": "Respected Ikael.",
+      "tone": "formal"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "Why did you abandon us?",
+      "tone": "sad"
+    },
+    {
+      "type": "action",
+      "content": "Though she was no longer the archangel, the fact that Ikael was the origin of all angels hadn't changed."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ceriel",
+      "content": "Because of me.",
+      "tone": "guilty"
+    },
+    {
+      "type": "action",
+      "content": "For a brief moment, she hesitated."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "No, I can't allow this. This is what I've resolved to do. I fight for Shirone.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "content": "Her thoughts flashed, but the angels' attacks came even faster, pressing in around her."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ikael!",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "content": "In the frozen landscape, as if time itself had stopped, a single spark ignited."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "What is this?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "content": "At the same time as realization dawned, Amy arrived in front of Ikael, her Crimson Eye blazing bright."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Ruby Flame.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "content": "A massive sphere of fire, as radiant as the sun, engulfed the area around the angels."
+    },
+    {
+      "type": "sfx",
+      "content": "Guhhh!"
+    },
+    {
+      "type": "action",
+      "content": "Shielding his face with the Hand of God, Shirone flinched at the overwhelming heat."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Amy?",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "content": "The flames undeniably took Amy's form, but their level of power was far beyond anything he had ever seen."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "This isn't a physical fire. This is an idea."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Manipulating the very concept of fire, she had seemingly mastered an advanced form of incarnation."
+    },
+    {
+      "type": "action",
+      "content": "As the sphere of fire dissipated, Amy, back in her human form, turned to Ikael."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Are you okay?",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "content": "Ikael didn't respond, staring blankly ahead."
+    },
+    {
+      "type": "sfx",
+      "content": "Grrrr…"
+    },
+    {
+      "type": "action",
+      "content": "Dozens of angels, caught in the flames, sat collapsed on the ground, their wings of light melted away."
+    }
+  ],
+  "source_hash": "0c774056c2b73a02cd83b7154c7c22445cf21d9a7f070bf562d089e03eeee627",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T04:41:27.819808Z"
+}

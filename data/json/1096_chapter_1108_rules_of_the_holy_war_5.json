@@ -1,0 +1,551 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "Satan revealed his killing intent."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Satan",
+      "content": "What are they planning…"
+    },
+    {
+      "type": "action",
+      "content": "The captains of the guards from each nation drew their weapons."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Satan",
+      "content": "If we get caught in Vanishing, it's over. Should we strike first?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Havitz",
+      "content": "Attacking based on killing intent alone would be controversial later, but it was different if the target was Havitz."
+    },
+    {
+      "type": "action",
+      "content": "Havitz's killing intent vanished, and he calmly walked over to Uorin."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "This will be fun."
+    },
+    {
+      "type": "action",
+      "content": "Fortunately, no commotion occurred, but the onlookers felt even more uneasy."
+    },
+    {
+      "type": "narrator",
+      "content": "That was the essence of extreme evil."
+    },
+    {
+      "type": "action",
+      "content": "Paras, Mun, and Gustav entered the main building in order of arrival."
+    },
+    {
+      "type": "action",
+      "content": "The leaders of each nation left for safety."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Albino",
+      "content": "Empire of Jinchun! Enter the inner castle!"
+    },
+    {
+      "type": "action",
+      "content": "As the procession of the Jinchun Empire arrived at sunset, Shirone observed Jingang's face."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He's become even more gaunt."
+    },
+    {
+      "type": "narrator",
+      "content": "It was likely because his daughter was in hell."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Albino",
+      "content": "Jingang is a formidable man."
+    },
+    {
+      "type": "action",
+      "content": "Albino approached."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Albino",
+      "content": "No nation has escaped the war unscathed, but Jinchun still has the largest population in the world. Their brain is the Jinchun Space Agency, led by a woman named Anchal. She's an alum of yours, isn't she?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes. Anchal dropped out midway, though."
+    },
+    {
+      "type": "action",
+      "content": "Albino stroked his beard."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Albino",
+      "content": "The Triumvirate has fallen, but three empires still support this world: Kashan, Gustav, and Jinchun. Other nations will likely try to ally with one of them."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "It's true that I have a personal connection with the king of Jinchun, but he won't let personal feelings affect his decisions."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Albino",
+      "content": "You never know."
+    },
+    {
+      "type": "action",
+      "content": "Albino's laughter was irritating."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Albino",
+      "content": "Is there anything in the world not influenced by personal feelings? People claim to act for the greater good, but that too comes from the heart. There are many ways to corner someone. Especially you."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Albino."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "I want to make it clear."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Jingang sent his daughter to hell. She saved humanity. Doesn't that mean anything?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Albino",
+      "content": "I'm not trying to fight you."
+    },
+    {
+      "type": "action",
+      "content": "Albino remained calm."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Albino",
+      "content": "Once we clash, things will work out. The result will come, like mixing hot and cold water. The question is, who will drink it? You came to the Holy War as a representative of Tormia because you know the people here best. In other words, they're easy to control."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I…"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Albino",
+      "content": "Do you want to call it trust? Fine. Everyone makes their own choices. If your value is exceptional, I'll try to win your favor too. But…"
+    },
+    {
+      "type": "action",
+      "content": "Albino shrugged as he turned away."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Albino",
+      "content": "Who knows what will happen?"
+    },
+    {
+      "type": "action",
+      "content": "As Shirone watched Albino walk away, Lupist approached."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lupist",
+      "content": "Don't take it to heart. He's here for the future of Tormia's people."
+    },
+    {
+      "type": "action",
+      "content": "His words were inevitably cold."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lupist",
+      "content": "Honestly, I understand. I'm grateful you chose Tormia. It would be great if Yahweh saves humanity. But what happens after? It's back to competition between nations. I don't want to see Tormia fall when that time comes. Albino knows that too."
+    },
+    {
+      "type": "action",
+      "content": "Lupist turned his head."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lupist",
+      "content": "You are the key figure with the widest and deepest connections at the Holy War. In a way, you're like the 13th nation. Honestly, I want to use you. If you don't want that, you can refuse. But… let's not talk about betrayal."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Betrayal."
+    },
+    {
+      "type": "action",
+      "content": "As Shirone pondered, the Kingdom of Iron arrived."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lupist",
+      "content": "They have a rational political system. It's generally believed they won't stand out at the Holy War. They're moderately strong and flexible."
+    },
+    {
+      "type": "action",
+      "content": "Next to King Basak of Iron was a familiar face."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shura of the Council of Ten."
+    },
+    {
+      "type": "narrator",
+      "content": "She had descended from the moon, where she was with the Buddha."
+    },
+    {
+      "type": "action",
+      "content": "Lupist murmured,"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lupist",
+      "content": "Why did she choose Iron?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Because of Veron."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The Veron issue."
+    },
+    {
+      "type": "narrator",
+      "content": "Can humans change outcomes?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Only God can. But Veron left a possibility at the last moment."
+    },
+    {
+      "type": "action",
+      "content": "The iron spike he planted in the Kingdom of Iron was still deeply embedded in the law."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "An outcome unaffected by causes. A pure will without any color."
+    },
+    {
+      "type": "narrator",
+      "content": "It was a hint to challenge God."
+    },
+    {
+      "type": "action",
+      "content": "Around midnight, the Southern Tribal Union and the Kingdom of Arakne, representing the Ten Island Kingdoms, arrived."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lupist",
+      "content": "They're not the core nations of this Holy War. But we need to watch the south. Many tribes united during the war. Their shamanisms combined into one. While Gaold's madness reduced the number of demons, the south is the only continent that has eradicated them, which is significant."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What about Arakne?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lupist",
+      "content": "They have many beauties,"
+    },
+    {
+      "type": "action",
+      "content": "causing Shirone to look at him."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lupist",
+      "content": "Is there something wrong with what I said?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "They're famous for hosting the World Beauty Contest. But if they're among the twelve nations in the Holy War, shouldn't we take them more seriously?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lupist",
+      "content": "You misunderstand."
+    },
+    {
+      "type": "action",
+      "content": "Lupist pointed to Arakne."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lupist",
+      "content": "People are the same everywhere, but each country's philosophy differs. Arakne has studied beauty for decades. Children grow up dreaming of the World Beauty Contest. Their talent pool is vast, and this talent permeates their politics and society. It's said you can't secure even a small contract without a hostess."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "So, they're professionals."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lupist",
+      "content": "Yes. In Arakne, beauty tactics are not just improvisation but strategy. And sometimes…"
+    },
+    {
+      "type": "action",
+      "content": "Lupist's expression turned bitter."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lupist",
+      "content": "Beauty tactics can be more powerful than something like elemental bomb schematics. Especially in politics, where desire runs rampant."
+    },
+    {
+      "type": "action",
+      "content": "Shirone observed the lavishly decorated carriages in Arakne's procession."
+    },
+    {
+      "type": "action",
+      "content": "There were dozens of carriages that could hold ten people each, and Lupist was also watching them."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lupist",
+      "content": "They probably don't aim to become a leading nation. But they have enough influence to shake things up from behind the scenes. They want to gain as much as possible."
+    },
+    {
+      "type": "action",
+      "content": "The Holy War held in the Kingdom of Jive."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Kashan, Gustav, Jinchun."
+    },
+    {
+      "type": "narrator",
+      "content": "The three empires."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Iron, Mun, Paras."
+    },
+    {
+      "type": "narrator",
+      "content": "Traditional powers."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Tormia, Kessia, Corona."
+    },
+    {
+      "type": "narrator",
+      "content": "New forces participating in the Holy War for the first time."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The South and Arakne."
+    },
+    {
+      "type": "narrator",
+      "content": "Unknown variables yet to be understood."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "It's just beginning."
+    },
+    {
+      "type": "action",
+      "content": "The doors to the Holy War opened."
+    },
+    {
+      "type": "action",
+      "content": "Leaving the banquet hall, Shirone headed to Tormia's designated area as planned."
+    },
+    {
+      "type": "action",
+      "content": "Security was tight from the corridor, and Yongrae's staff guided him to the meeting room."
+    },
+    {
+      "type": "action",
+      "content": "Entering the room guarded by the Royal Guard, Pony, Albino, Lupist, and Plu were gathered around a table."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lupist",
+      "content": "Did you find it?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I wanted you to hear the briefing. Did we interrupt?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No."
+    },
+    {
+      "type": "action",
+      "content": "As Shirone took a seat at one end of the table, Plu walked to the front chart stand."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "This meeting is to check essential elements before the Holy War. Let's start the briefing."
+    },
+    {
+      "type": "action",
+      "content": "Plu took out a pointer and indicated the large letters on the chart."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "The Holy War. An international union formed by countries with significant influence worldwide. The organization of the Holy War is divided into five main parts: General Assembly, Military Department, Economic and Social Department, Religious Department, and International Court. Usually, when we talk about the Holy War, we mean the General Assembly."
+    },
+    {
+      "type": "action",
+      "content": "The pointer tapped on the chart."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "The Military Department is commonly known as Valkyrie. Until recently, Iruki from Tormia was the Chief Military Officer but is currently on leave due to emotional disease."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Albino",
+      "content": "We can't expect any favors then."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "No. However, their authority has been significantly reduced since the war. The Religious Department is overseen by the Pope of Lami faith, and the International Court is handled by Red Line Headquarters."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Albino",
+      "content": "Who's the head? I heard they select someone who has chaired associations in various countries."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Currently, it's Mr. Bebeto Socrates. Nicknamed 'Fat Pig.' He chaired Yakma Republic's Magic Association for seven years."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Albino",
+      "content": "Gaold must know him?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Yes. I attended former association chair meetings with Mr. Gaold once. They didn't seem to get along well."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lupist",
+      "content": "Who does that guy get along with?"
+    },
+    {
+      "type": "action",
+      "content": "Plu continued explaining,"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "The Holy War's subsidiary organizations include the World Climate Organization, World Health Organization, and World Communications Bureau. Delegations from these organizations will attend tomorrow's event."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Seriel was also on her way overnight."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "This concludes an overview of the Holy War. Now let's discuss its voting system."
+    },
+    {
+      "type": "action",
+      "content": "As Shirone adjusted his expression, Plu continued,"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "At the end of all Holy War events, twelve nations gather for simultaneous voting. Each nation has three voting rights: first is Rom."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Rom is one vote that can be given to one's own or another country."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "So if Tormia uses Rom for itself, other countries can't nullify it with Temika?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Correct. If Rom trading becomes too active, there's no upper limit on bidding. Simply put, you can transfer one point given to you but risk it being nullified by -1 point."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lupist",
+      "content": "Rom is key then."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Yes. For example, a country like Arakne without ambitions for leadership might sell this right at a high price. But buyers can't openly purchase due to Temika's suppression risk."
+    },
+    {
+      "type": "action",
+      "content": "As everyone pondered this, Plu continued,"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Until voting begins, twelve nations can freely negotiate these rights. The nation with the highest votes becomes the leading nation under papal approval."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Albino",
+      "content": "Heheh… if kings are replaced…"
+    },
+    {
+      "type": "action",
+      "content": "It already smelled like blood."
+    }
+  ],
+  "source_hash": "44597dd8debca842c154100acce00786c1785003a3420063893ed8303949f4e5",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T03:55:40.186350Z"
+}

@@ -1,0 +1,1411 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nade's expression twisted.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The emotions he felt when Shirone was teetering between life and death resurfaced, and a murderous intent flashed through his mind.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Not wanting to cause unnecessary commotion, Iruki stepped in to defuse the situation.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Enough. Never mind that—why are you here?",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Why am I here? I'm checking out the place where I'll be living from now on.",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "What?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone and his group's eyes widened at the unexpected response.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Exactly as I said. A magic school or whatever—I thought it'd be good to experience it.",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nade rolled up his sleeves and fired back.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "You think you can just waltz into a magic school like it's nothing? Who'd even accept someone like you?",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Canis raised a finger and pointed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "Senior.",
+      "tone": "assertive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "What?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "Call me 'Senior.' I looked into it—you're all Class Five, right? I'm Class Four.",
+      "tone": "assertive"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's group was stunned.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was likely Alphaeus who had arranged for the two to be admitted.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But starting at Class Four right after enrollment? While not unheard of, it was certainly rare.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What's so surprising? We're the disciples of the Grand Magus. We've already mastered the basics of magic. It's laughable to be treated the same as slackers like you.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's group seethed but kept their mouths shut.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Having spent over a decade mastering magic under Arcane, they couldn't help but feel dissatisfied with being labeled Class Four.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "So, from now on, I expect you to address me respectfully as 'Senior.'",
+      "tone": "assertive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ridiculous! You'll only start attending next semester anyway! By then, we'll have advanced to Class Four too!",
+      "tone": "defiant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "Oh? I heard your grades are surprisingly terrible. Honestly, I'm disappointed. To think I lost to a bunch of incompetents like you.",
+      "tone": "disdainful"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The first thing Canis had investigated about Shirone's group was their grades and social standing at school.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Contrary to his expectations of them being top contenders, they were Class Five—middle of the pack. It had been a shock.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Yet, no one in the advanced classes looked down on them. The consensus was that they could rise anytime if they put their minds to it—something he'd heard ad nauseam.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone's group gritted their teeth in silence, Canis turned away with a satisfied smirk.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "Anyway, do your best. If you manage to join as juniors, I'll be sure to take good care of you. Hahaha!",
+      "tone": "smug"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Canis's shadow stretched toward Shirone's group as he walked away, and Havist raised both hands, flipping them off with both middle fingers.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The three trembled with rage.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Cancel today's plans.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Agreed. The thought of Canis being our senior… I'd rather drop out than endure that humiliation.",
+      "tone": "resolute"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Tch, why drop out? We should advance and crush his pride instead.",
+      "tone": "determined"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Their minds were now solely focused on advancing.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But how? The end-of-term evaluation was a different beast compared to overcoming obstacles. It was the culmination of half a year's effort—no amount of last-minute cramming could guarantee success.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I've thought about this before…",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The probability of me advancing was around 30%. That's if I gave it my all in studying.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "That's if I gave it my all in studying.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "No. I'm at 58.7%. Advancement is based on end-of-term grades, but frankly, I haven't attended a single class.",
+      "tone": "nonchalant"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The three sighed in unison.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If things continued like this, they'd have no choice but to bow their heads to Canis and Arin next semester.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "So, here's an idea… What if we try this?",
+      "tone": "excited"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "What? Got a good idea?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Honestly, if we stick to our usual study methods, our chances are too low. We need to adjust our strategy.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Change our approach? But how?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "The 30% I mentioned assumes we study hard. But if we focus solely on the exams, we can push it past 50%. That means you two could hit 70% or even 80%.",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Hmm. Target the exams? I see. You mean prioritize and focus?",
+      "tone": "understanding"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Exactly. We only need to score above 80. No need to waste time on subjects we're already good at or topics that won't be tested.",
+      "tone": "clear"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The three boys, burning with determination, sprinted toward Istas.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone devoted himself to studying day and night.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Time had to be managed wisely.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With this efficiency, he targeted the exams.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Rather than understanding processes, he conquered problem types, analyzing the intent behind questions and their solutions.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In this regard, the study group was effective.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Compensating for each other's weaknesses allowed Shirone to raise his mock exam average above 70.",
+      "tone": "proud"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Of course, it wasn't all smooth sailing.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Studying revealed that certain subjects were weak not due to laziness but sheer lack of talent.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Iruki's disparity between humanities and math was especially stark.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Done.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone checked each of Iruki's answers.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Now he understood why humanities teachers recoiled at the sight of Iruki's face.",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone pointed at the test paper with a baffled expression.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "How does 'You eat pasta, I'll eat pasta' make sense? I explained auxiliary verb usage!",
+      "tone": "frustrated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Why doesn't it? 'You eat pasta! I'll eat pasta!' It's clear, isn't it? It emphasizes each as an independent subject.",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Huh? Oh, well…",
+      "tone": "skeptical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "For a moment, Shirone was taken aback—it did sound plausible.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "That's not it! Language isn't math! It's a tool for expression, not proof! You don't split sentences—you read between the lines!",
+      "tone": "passionate"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Damn it, what's that supposed to mean? Math is supreme!",
+      "tone": "defiant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Shut up! I know you're being stubborn! Admit it—even you think it's weird, right?",
+      "tone": "exasperated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Of course it's weird. But that's just sensory. Mathematically, there's no issue with the sentence.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even Iruki had to relent at that.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Do you want to advance or not?",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Ugh! Damn it!",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Iruki returned to solving problems, Shirone sighed deeply.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "If he does this in the actual exam, it'll be a disaster.",
+      "tone": "worried"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Oh, right. The practical exam is next week. Have you two practiced much?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What exam?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Damn it. You didn't even know? It's the Spirit Zone endurance test.",
+      "tone": "exasperated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Do we need to practice? Shirone and I can easily score above 80. Why, are you worried?",
+      "tone": "nonchalant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "No. But practical exams are unpredictable. Unlike other subjects, it's graded on a curve. If others do better, our scores drop. Don't you think we should at least go over it once?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Relax, relax. We don't have time.",
+      "tone": "dismissive"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Iruki ignored him and focused on problem-solving.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Nade",
+      "content": "Hmm. What to do?",
+      "tone": "worried"
+    },
+    {
+      "type": "thought",
+      "speaker": "Nade",
+      "content": "If it really seemed impossible, he could ask for help. But stealing his friends' time just for his own anxiety would be exploiting the rules.",
+      "tone": "resigned"
+    },
+    {
+      "type": "thought",
+      "speaker": "Nade",
+      "content": "Whatever. As long as I make the top 10, it's fine.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nade pushed the thought aside and started studying.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If any of them failed to pull their 33.3% weight, the study group's efficiency would collapse.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They cooperated for mutual benefit, but results were something no one could give you.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "◆ ◆ ◆",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Image Zone training grounds.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Normally, this was the time for integrated advanced class training, but only Class Five students were present today.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was the infamous practical exam period that had cornered Shirone multiple times.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With the end of the term approaching, the students' tension was higher than ever.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ethella, as always, unfolded a 20-meter Spirit Zone and began explaining.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ethella",
+      "content": "Today's evaluation is the mental pulse test. It measures how long you can sustain changes in your Spirit Zone.",
+      "tone": "clear"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She pointed to black pillars of unknown material towering in the distance, their surfaces carved with cryptic symbols.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ethella",
+      "content": "The benchmark is a diameter of 20 meters. If your Spirit Zone falls below that, you can't take the test. Not that any of you would fail to meet it.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ethella contracted her Spirit Zone.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "BOOM",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When its volume dropped below 2 cubic meters, a buzzer sounded.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ethella",
+      "content": "The buzzer marks one cycle. The measurement time is 30 seconds, and your score depends on the number of pulse cycles.",
+      "tone": "clear"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Since you rarely practice with the counter on, I'll demonstrate first.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At her signal, the Image Zone's mental pulse mode activated.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Boom! Boom! Boom! Boom!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Simultaneously, Ethella's Spirit Zone expanded and contracted repeatedly, pulsing like a heart.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ethella",
+      "content": "Whoa…",
+      "tone": "impressed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The sight of a 20-meter Spirit Zone shrinking below 2 meters and instantly expanding again was spectacular.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Though the cycles weren't fast, the repeated contractions and expansions were as intense as explosions.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Boom! Boom! Boom! Boom!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Image Zone's sound machine calculated the expansion speed, producing explosive sounds.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ethella",
+      "content": "After 30 seconds, the scoreboard displayed 30 points—one pulse per second.",
+      "tone": "clear"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "According to seniors, the cutoff for advancement was at least 90 points—three pulses per second.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The kids used Ethella's demonstration to finalize their strategies.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ethella",
+      "content": "In real combat, you'll often need to rapidly transform your Zone into various forms. Mental pulse is foundational training, so keep at it even after the exam.",
+      "tone": "clear"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Let's begin the evaluation.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Based on their previous speed gun test results, students were called from the rear.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As expected, improving in just a month or two was tough—most rankings stayed the same.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ethella",
+      "content": "Nade, do your best.",
+      "tone": "encouraging"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Whew, I'm nervous.",
+      "tone": "anxious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Encouraged by his friends, Nade stepped into the Image Zone, closed his eyes, and focused.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At the starting signal, he opened his eyes and expanded his Spirit Zone.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Whoa!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It pulsed rapidly, like the heart of a sprinter.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ethella",
+      "content": "Whoa! What's gotten into Nade?",
+      "tone": "impressed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The kids' eyes widened.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ethella",
+      "content": "He'd already passed 50 points in just 10 seconds. Five pulses per second was overwhelming to watch.",
+      "tone": "amazed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After 30 seconds, Nade's score appeared: 173.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ethella",
+      "content": "Accelerating in the last 10 seconds had helped.",
+      "tone": "impressed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nade returned, sticking out his tongue sheepishly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After high-fiving his friends, he sat down.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Whew, I thought I'd die from nerves.",
+      "tone": "relieved"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ethella",
+      "content": "Good job, Nade.",
+      "tone": "encouraging"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ethella smiled warmly as she recorded the score.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Seeing her student improve so dramatically pleased her.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Nade",
+      "content": "Well, I expected this much from the start.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nade returned, sticking out his tongue sheepishly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After high-fiving his friends, he sat down.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ethella",
+      "content": "Good job, Nade.",
+      "tone": "encouraging"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ethella smiled warmly as she recorded the score.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Seeing her student improve so dramatically pleased her.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Nade",
+      "content": "Well, I expected this much from the start.",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "No. I'm at 58.7%. Advancement is based on end-of-term grades, but frankly, I haven't attended a single class.",
+      "tone": "nonchalant"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The three sighed in unison.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If things continued like this, they'd have no choice but to bow their heads to Canis and Arin next semester.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "So, here's an idea… What if we try this?",
+      "tone": "excited"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "What? Got a good idea?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Honestly, if we stick to our usual study methods, our chances are too low. We need to adjust our strategy.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Change our approach? But how?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "The 30% I mentioned assumes we study hard. But if we focus solely on the exams, we can push it past 50%. That means you two could hit 70% or even 80%.",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Hmm. Target the exams? I see. You mean prioritize and focus?",
+      "tone": "understanding"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Exactly. We only need to score above 80. No need to waste time on subjects we're already good at or topics that won't be tested.",
+      "tone": "clear"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The three boys, burning with determination, sprinted toward Istas.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone devoted himself to studying day and night.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Time had to be managed wisely.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With this efficiency, he targeted the exams.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Rather than understanding processes, he conquered problem types, analyzing the intent behind questions and their solutions.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In this regard, the study group was effective.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Compensating for each other's weaknesses allowed Shirone to raise his mock exam average above 70.",
+      "tone": "proud"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Of course, it wasn't all smooth sailing.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Studying revealed that certain subjects were weak not due to laziness but sheer lack of talent.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Iruki's disparity between humanities and math was especially stark.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Done.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone checked each of Iruki's answers.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Now he understood why humanities teachers recoiled at the sight of Iruki's face.",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone pointed at the test paper with a baffled expression.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "How does 'You eat pasta, I'll eat pasta' make sense? I explained auxiliary verb usage!",
+      "tone": "frustrated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Why doesn't it? 'You eat pasta! I'll eat pasta!' It's clear, isn't it? It emphasizes each as an independent subject.",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Huh? Oh, well…",
+      "tone": "skeptical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "For a moment, Shirone was taken aback—it did sound plausible.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "That's not it! Language isn't math! It's a tool for expression, not proof! You don't split sentences—you read between the lines!",
+      "tone": "passionate"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Damn it, what's that supposed to mean? Math is supreme!",
+      "tone": "defiant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Shut up! I know you're being stubborn! Admit it—even you think it's weird, right?",
+      "tone": "exasperated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Of course it's weird. But that's just sensory. Mathematically, there's no issue with the sentence.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even Iruki had to relent at that.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Do you want to advance or not?",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Ugh! Damn it!",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Iruki returned to solving problems, Shirone sighed deeply.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "If he does this in the actual exam, it'll be a disaster.",
+      "tone": "worried"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Oh, right. The practical exam is next week. Have you two practiced much?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What exam?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Damn it. You didn't even know? It's the Spirit Zone endurance test.",
+      "tone": "exasperated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Do we need to practice? Shirone and I can easily score above 80. Why, are you worried?",
+      "tone": "nonchalant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "No. But practical exams are unpredictable. Unlike other subjects, it's graded on a curve. If others do better, our scores drop. Don't you think we should at least go over it once?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Relax, relax. We don't have time.",
+      "tone": "dismissive"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Iruki ignored him and focused on problem-solving.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Nade",
+      "content": "Hmm. What to do?",
+      "tone": "worried"
+    },
+    {
+      "type": "thought",
+      "speaker": "Nade",
+      "content": "If it really seemed impossible, he could ask for help. But stealing his friends' time just for his own anxiety would be exploiting the rules.",
+      "tone": "resigned"
+    },
+    {
+      "type": "thought",
+      "speaker": "Nade",
+      "content": "Whatever. As long as I make the top 10, it's fine.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nade pushed the thought aside and started studying.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If any of them failed to pull their 33.3% weight, the study group's efficiency would collapse.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They cooperated for mutual benefit, but results were something no one could give you.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "◆ ◆ ◆",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Image Zone training grounds.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Normally, this was the time for integrated advanced class training, but only Class Five students were present today.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was the infamous practical exam period that had cornered Shirone multiple times.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With the end of the term approaching, the students' tension was higher than ever.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ethella, as always, unfolded a 20-meter Spirit Zone and began explaining.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ethella",
+      "content": "Today's evaluation is the mental pulse test. It measures how long you can sustain changes in your Spirit Zone.",
+      "tone": "clear"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She pointed to black pillars of unknown material towering in the distance, their surfaces carved with cryptic symbols.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ethella",
+      "content": "The benchmark is a diameter of 20 meters. If your Spirit Zone falls below that, you can't take the test. Not that any of you would fail to meet it.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ethella contracted her Spirit Zone.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "BOOM",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When its volume dropped below 2 cubic meters, a buzzer sounded.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ethella",
+      "content": "The buzzer marks one cycle. The measurement time is 30 seconds, and your score depends on the number of pulse cycles.",
+      "tone": "clear"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Since you rarely practice with the counter on, I'll demonstrate first.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At her signal, the Image Zone's mental pulse mode activated.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Boom! Boom! Boom! Boom!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Simultaneously, Ethella's Spirit Zone expanded and contracted repeatedly, pulsing like a heart.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ethella",
+      "content": "Whoa…",
+      "tone": "impressed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The sight of a 20-meter Spirit Zone shrinking below 2 meters and instantly expanding again was spectacular.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Though the cycles weren't fast, the repeated contractions and expansions were as intense as explosions.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Boom! Boom! Boom! Boom!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Image Zone's sound machine calculated the expansion speed, producing explosive sounds.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ethella",
+      "content": "After 30 seconds, the scoreboard displayed 30 points—one pulse per second.",
+      "tone": "clear"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "According to seniors, the cutoff for advancement was at least 90 points—three pulses per second.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The kids used Ethella's demonstration to finalize their strategies.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ethella",
+      "content": "In real combat, you'll often need to rapidly transform your Zone into various forms. Mental pulse is foundational training, so keep at it even after the exam.",
+      "tone": "clear"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Let's begin the evaluation.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Based on their previous speed gun test results, students were called from the rear.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As expected, improving in just a month or two was tough—most rankings stayed the same.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ethella",
+      "content": "Nade, do your best.",
+      "tone": "encouraging"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Whew, I'm nervous.",
+      "tone": "anxious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Encouraged by his friends, Nade stepped into the Image Zone, closed his eyes, and focused.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At the starting signal, he opened his eyes and expanded his Spirit Zone.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Whoa!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It pulsed rapidly, like the heart of a sprinter.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ethella",
+      "content": "Whoa! What's gotten into Nade?",
+      "tone": "impressed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The kids' eyes widened.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ethella",
+      "content": "He'd already passed 50 points in just 10 seconds. Five pulses per second was overwhelming to watch.",
+      "tone": "amazed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After 30 seconds, Nade's score appeared: 173.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ethella",
+      "content": "Accelerating in the last 10 seconds had helped.",
+      "tone": "impressed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nade returned, sticking out his tongue sheepishly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After high-fiving his friends, he sat down.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Whew, I thought I'd die from nerves.",
+      "tone": "relieved"
+    }
+  ],
+  "source_hash": "fa79dd48b4b3121beec5ff07382dbf7f4abb2dff010cc2b0add2c935a92b09fa",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T15:43:13.651117+00:00"
+}

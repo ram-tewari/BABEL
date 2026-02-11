@@ -1,0 +1,577 @@
+{
+  "blocks": [
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Jake was triumphant. Look, this is how adults fight. In this world, in the end, the vicious, dirty, and mean ones win.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jake",
+      "content": "Hehehe. Farewell, Amy. Even if I fall to hell, I'll drag you down with me.",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siina",
+      "content": "Don't be insolent, Jake.",
+      "tone": "cold"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siina",
+      "content": "I heard from Seriel before coming. You will no longer be able to attend school.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jake",
+      "content": "Don't be so definitive. You're a teacher who teaches students, not part of the administration, right?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siina",
+      "content": "What?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jake",
+      "content": "You must know how much the Ardius family is contributing? It's more than the support funds from ten first-class nobles combined. With that in mind, can you really expel me?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Noble schools mostly operate on a donation system. This was to maintain and repair expensive equipment. If the equipment deteriorates, students' achievements drop. If grades fall, the title of prestigious school is taken away, and as a result, talented students become reluctant to enroll, creating a vicious cycle.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "History and tradition might help withstand this to some extent, but Alpheus Magic School was a new prestigious school established only 30 years ago, and desperately needed support funds from nobles.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Saad, an alumnus of Alpheus Magic School, knew this fact better than anyone. If the money from Jake's family disappeared, the school would inevitably suffer financially.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Saad",
+      "content": "Teacher Siina, I think it's premature to talk about expulsion this early. Shouldn't such matters be decided by a disciplinary committee?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siina",
+      "content": "No. Jake will be expelled. If we can't expel him, I won't be able to face the students who have dropped out. If Jake remains in school, I, as a teacher, will take responsibility and resign.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Saad imagined Siina undressing and hurriedly erased the thought. Though her cold personality wasn't to his liking, he acknowledged her magical talent as remarkable. Her leaving the school was a different matter from Jake's expulsion.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Jake shrugged and laughed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jake",
+      "content": "Hahaha! You'll leave the school? Let's see! Let's see whether you leave or I leave!",
+      "tone": "defiant"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Frost rose from Siina's shoulders. Befitting a magician of ice, her anger was as cold as ice.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siina",
+      "content": "Where do you think a teacher's salary comes from? How do you think books for the library are purchased? The money for establishing training grounds? Expensive magical devices? In the end, the world is about money! Money! There's nothing in this world that can't be achieved with money!",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At that moment, Siina swung her hand from bottom to top.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Jake looked down at his feet in bewilderment. A cold wind was felt, and then coldness raced around the ground in a circle.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jake",
+      "content": "Ugh!",
+      "tone": "pain"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Realizing it was Ice Tornado, which cools down the wind even in the atmosphere, Jake crouched and covered his face.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Chzzzzzzzzzzt!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The whirlwind of coldness ascended and trapped Jake. As the air froze, hundreds of long spines protruded.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jake",
+      "content": "Uuuugh!",
+      "tone": "pain"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Sharp icicles brushed past Jake's face, shoulders, sides, and legs. Jake couldn't move a finger, as if trapped in a mold.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Wow! Amazing.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone was genuinely impressed. Even if a magician is said to be omnipotent, controlling freezing phenomena at the molecular level is difficult. The rumor that she was a genius magician coveted by the royal palace was not an exaggeration.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siina",
+      "content": "A student lecturing a teacher? There are plenty of things in this world that money can't buy.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jake",
+      "content": "Something money can't buy? What on earth would that be?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siina",
+      "content": "Talent.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Jake flinched. Siina had struck his most painful spot in the coldest way.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siina",
+      "content": "Character. Personality. Belief. Intelligence. Friendship. Effort. Spirit. Shall I say more?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Jake wanted to scream. Why was this woman tormenting him? It seemed like he would pour out any amount of money if only he could silence her.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When Siina snapped her fingers, the Ice Tornado shattered into pieces. Ice fragments struck Jake's face.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jake",
+      "content": "Uuuugh...",
+      "tone": "pain"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Terrified, Jake couldn't even open his eyes. He had the delusion that his face might have been shattered.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siina",
+      "content": "Do you understand now, Jake? Money can't buy anything. That's why you can't possess anything.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Siina grabbed Jake by the collar and pulled him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jake",
+      "content": "Hwickk!",
+      "tone": "pain"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siina",
+      "content": "Don't be mistaken. School is not a place that teaches you in exchange for money. School is the only place that teaches you things that can't be bought with money. You've kicked away such a precious space with your own feet. Once you leave school, no one will teach you these things.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Jake felt his heart sink. He had never thought about it before. The situation of not being able to attend school.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Siina will definitely expel him. Then he won't be able to challenge anything. Thus becoming a loser, and eventually his life will also end.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Jake",
+      "content": "It's over. I...",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "From his pale face, the appearance of a boy gradually began to emerge. Jake, who looked like he was about to cry, knelt at Siina's feet and shed bitter tears.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jake",
+      "content": "I'm sorry, teacher. I was wrong. Please don't expel me. Please give me one more chance. I won't do it again. From now on, I'll really study hard.",
+      "tone": "desperate"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone's group became solemn. They understood how frightening it is to be driven out into the world as a student.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Siina bent her knees and lifted Jake up.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siina",
+      "content": "Sincerely apologize when the disciplinary committee is held. It takes that much determination to put everything back in its place. I'll be on your side, so let's take it one step at a time.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jake",
+      "content": "Thank you! Thank you!",
+      "tone": "grateful"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone realized anew that there are so many things that can't be bought with money. The numerous students here also have to run with their own strength to achieve their goals.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "What does it matter if one is a commoner or a noble?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "After all, the dreams we aspire to are also things that can't be bought with money.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The members of Black Magician were confined in the punishment room to receive treatment.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The disciplinary committee was expected to convene tomorrow, and Shirone's group had a separate meeting with the teachers.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "While Saad was preparing a statement, Shirone detailed how he subdued Black Magician. As expected, the teachers' eyes widened.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Teacher",
+      "content": "What? You suppressed anti-magic with your spirit zone?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes. I heard from Teacher Etella. A magician's anti-magic is a battle of mental strength, and it's dangerous if cast recklessly. So I think I unconsciously tried to endure it defensively.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Everyone except Amy was shocked into silence.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Of course, anti-magic is difficult to achieve full efficiency if it's not your major. But even considering that, it was a simultaneous attack from five people.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was an impossible result unless Shirone's spirit zone was stronger than all of Black Magician combined.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Siina brought her face close to Shirone. She lifted his eyelids to observe his pupils, and when no abnormal findings were detected, she breathed a sigh of relief.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siina",
+      "content": "You must never do that again. Anti-magic is much more dangerous than you think. You got through safely this time, but you could lose the ability to use magic if you're not careful.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even the strong-hearted Shirone's heart sank when he heard such words directly from Siina. Certainly, at that time, he had only thought about protecting Amy.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Amy subtly avoided eye contact. It was natural to feel guilty as the person who had put Shirone in danger.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Siina rested her chin on her hand and fell into thought. Anyway, suppressing anti-magic was an extraordinary talent. She had known from the beginning that he had excellent endurance, but she hadn't expected it to be to this extent.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "On the other hand, Saad was displeased. The fact that Shirone had succeeded in something even Amy couldn't do twisted his insides.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Saad",
+      "content": "Shirone, why didn't you report it immediately? If something like this happens, you should have reported it to a teacher. I can't understand why you went alone to rescue a senior who has a much higher class than you.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone and Amy thought that the inevitable had finally come.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "This time, Siina didn't stop Saad either. With a student having dropped out due to Black Magician's evil deeds, even small suspicions had to be resolved.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone smiled at Amy, who was looking at him as if asking for his intentions, and nodded. Even if her secret was revealed, he wouldn't resent her.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Alright. I'll tell you the truth.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The person most curious about Shirone's secret was Seriel. When did the two of them get to know each other? No, more than that, why was Amy protecting Shirone?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Actually, Shirone is... my lover.",
+      "tone": "smiling"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Saad",
+      "content": "Whaaaat? Since when? You've never shown any interest in romance. Moreover, Shirone is a freshman who just entered the school?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "We met when we were young. Then our connection continued here. Haha! It's a common story, isn't it?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Amy deliberately put on airs. This would do. Anyway, she was about to enter the graduating class, and with different class times, she wouldn't run into Shirone much.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The school would be buzzing for a while, but it wasn't a bad thing. Now that they knew she had a partner, the number of male students pestering her would decrease.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even to her, it seemed like an excellent improvisation.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "On the other hand, as the recipient, Shirone's heart was pounding. Amy was a senior and the object of admiration for students. Although he knew it was a lie to resolve the immediate situation, it was still an enormous burden.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Right, Shirone?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ah! Yes, that's right.",
+      "tone": "nervous"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Kyaaak! How is this possible? I'm completely shocked, no, moved! Hoho, I knew it all along! I wondered why this one would act so suspiciously whenever she saw Shirone. When did you start dating? Who confessed first?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "When even Seriel, Amy's friend, believed it, the teachers couldn't doubt it either. If they were lovers, it was understandable that he would have chased after Black Magician with youthful vigor.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Saad tore at his hair as he prepared the statement.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Saad",
+      "content": "The victims of this incident, Shirone and Amy, are in a, a healthy dating relationship...",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Rumors spread in no time.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Now, there was no student at Alpheus Magic School who didn't know that Shirone and Amy were lovers. It was partly due to the bulletin board posted because of Black Magician's misdeeds, but mostly because Seriel's gossipy heroic tale had stirred the hearts of women.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone, who infiltrated enemy territory alone to protect his lover. Black Magician responded with anti-magic, but he overcame it with the power of love and rescued Amy.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The villain leader Jake was overwhelmed by Shirone's gaze and apologized with tears and snot. The story concluded with the two sharing a deep kiss in the mountain under the moonlight.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Seriel! Do you want to die? What kind of rumors have you been spreading?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Kekeke! Why? It's pretty much accurate!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "It's not accurate at all! When did I kiss Shirone?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Oh my, pretending to be innocent. You're dating, so you must have kissed at least, right? A story needs a bit of artistic license, doesn't it?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Are you a playwright? Why are you arbitrarily adapting someone else's story?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "It worked out well, didn't it? Those annoying boys don't even come near you anymore.",
+      "tone": null
+    }
+  ],
+  "source_hash": "a478168f9c131b94d755410cb14d0e9d126d1cffffbe65a09a66701784335849",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T06:22:19.776734+00:00"
+}

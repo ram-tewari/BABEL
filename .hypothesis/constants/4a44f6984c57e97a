@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\PycharmProjects\BABEL\babel\render\__main__.py
+# hypothesis_version: 6.148.8
+
+[130, '%Y-%m-%d %H:%M:%S', '--chapter-map', '--template-dir', '--verbose', '=', 'RENDERING COMPLETE', '__main__', 'failed', 'json_dir', 'output_dir', 'rendered', 'store_true', 'templates']

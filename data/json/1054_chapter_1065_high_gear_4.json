@@ -1,0 +1,1099 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Those firing a crossfire at Shirone were thinking the same thing.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tenman10",
+      "content": "What is this?",
+      "tone": "confused"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It's not particularly fast or elegant.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tenman10",
+      "content": "Just a very slight difference.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tenman10, the leader of the Tenmen, observed the situation from a high place.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tenman10",
+      "content": "It's a very slight difference.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was a few centimeters gap that the AI's auto-aim couldn't catch.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tenman10",
+      "content": "It's true that he's dodging by sight. But is it possible? Even with a level 10 AI…",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Seeing bullets was not something that made sense.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tenman10",
+      "content": "It's a system error. Should I formally report it? I don't want to get involved with the operator.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The activities of the Tenmen, who hunted beginners, were also, in a sense, exploiting the system.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tenman10",
+      "content": "Tenman10 shouted, \"Eliminate the blind spots! Don't aim at the target, shoot predictively into the space!\"",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the bullets blocked the path, Shirone's steps, which were heading towards the high ground, began to falter.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Damn it…!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As he twisted his body, he saw a black bullet spinning a meter in front of him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Almost blocked.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Giving up on capturing the high ground, Shirone threw himself towards the only open path.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "The sound of breaking metal made his ears ring.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Phew!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As time returned to normal, Shirone counted numbers with his back to the enemies.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "One, two…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Focus again.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Three!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As he sprang up and turned around, black dots were embedded in the slow-moving scenery.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Argh!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With a clang, the enemy fell backward and rolled down the pile of scrap metal.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tenman10",
+      "content": "Penetration?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The hit Tenman couldn't move and soon disappeared to the starting point.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tenman10",
+      "content": "Hmm.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Something was strange.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tenman10",
+      "content": "Even if it's a system error, it's too severe. According to the Tenmen's investigation, Yahweh2's level is 3.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was a fact that could be known just by the number of creatures he had caught.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tenman10",
+      "content": "20% recoil correction is all. Even a slight curvature makes penetration impossible. Did he accurately aim at the penetration point in the split second when bullets were raining down?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "There was no conclusion.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tenman10",
+      "content": "While he was lost in thought, Shirone was eliminating the Tenmen one by one.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When the number was reduced to seven, Strongest Codename, hiding behind cover, spoke.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Strongest Codename",
+      "content": "Let's fight too.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Death Princess was reluctant.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Death Princess",
+      "content": "Are you crazy? If we get marked by those guys, we won't even be able to get out of the starting point. This codename is worth a billion galaxies.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "We're already marked. If we don't break through here, we'll have to clean our codenames again. If we can just send one squad of Tenmen back to the starting point, we can get out of the Iron Homeland.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But if we die, we'll have to start over from the starting point.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Death Princess",
+      "content": "Let's just watch and think about it if Yahweh2 wipes them out. If we get attacked, we can run away.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Destroyer707 agreed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Right. The risk is too high. There's no need to fight. Besides, that guy owes us.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Death Princess pointed to the battlefield.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Death Princess",
+      "content": "Can't you see he's dodging bullets?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Strongest Codename looked at his friends.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Strongest Codename",
+      "content": "Do you think the three of us can take him down? What if Yahweh2 kills us?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Just do it. Let's get out. If we miss this chance, who knows how long we'll be stuck here.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Damn it…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Using that as a signal, the three of them simultaneously came out from behind cover and fired their rifles.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Take this, you bastards!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the shooting came from an unexpected direction, the Tenmen's firepower was divided.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As casualties occurred, Shirone delivered a headshot to a fallen Tenman.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "100% accuracy?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tenman10's face twisted.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tenman10",
+      "content": "Annoying.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With the AI of the Tenmen limited to level 10, they couldn't suppress Yahweh2.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tenman10",
+      "content": "Just wait and see.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Jumping down from the top of the scrap pile, he ended the recording while running to the hideout.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A video file was created.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tenman10",
+      "content": "Illegal program… A large guild must be involved. East Country? Or West Country?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It didn't matter as long as he made money.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tenman10",
+      "content": "Tenman10 contacted someone using the selective option's communication function.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Communication Level 10: User Codename Sancho.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tenman10",
+      "content": "Boss.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He spoke quietly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tenman10",
+      "content": "Block the exit.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Destroyer707 was panting.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Hurry! Hurry!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The ammo belt he was carrying dangled, and the loose chin strap of his helmet knocked against his head.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Why are you in such a hurry?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "We have to get out of the Iron Homeland before the Tenmen gather!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "From now on, forget fighting. Just run to the exit.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "What if they chase us?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Death Princess",
+      "content": "Once we get out of the Iron Homeland, it's over. After that, even if we die, we'll revive at another starting point.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ah.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "We're almost there. But…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The loud gunfire from the exit darkened Strongest Codename's face.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Strongest Codename",
+      "content": "It looks hard to break through.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even though the Tenmen who had died earlier were still at the starting point, there were more than ten of them.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'll fight, so you guys escape through the exit.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "What? Then what about you?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I can fight again even if I die, but this is a good chance for you. Do as I say.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The three exchanged glances.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Strongest Codename",
+      "content": "What a funny guy.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sacrificing himself for strangers in High Gear.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Then the debt is cleared, right?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In High Gear, stealing prey was a common occurrence under the logic of power.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Tch! Making me the bad guy.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Destroyer707, pressing his helmet firmly, shouted as he rushed forward.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Just get out! Once we're out, I'll help you level up quickly!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Thanks, hero.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Strongest Codename",
+      "content": "Thanks.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's heart swelled.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's not fake.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even if everything was made up, there were people living in it.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "If that's the case, I can fight.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Taking out three grenades, Shirone pulled the safety pins with his teeth and ran.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Here!",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "As he shouted, the grenades flew, and the Tenmen began firing from all directions.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Boom!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amidst the deafening explosion, Destroyer707 and his group scattered, running in a zigzag pattern.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Ahhh! Ahhh!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even in a simulated world, the tension of running towards the goal was beyond imagination.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "I'm getting out! I will get out! If I die here, I'll be too embarrassed to continue High Gear!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Grenades exploded, and the ground shook.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Destroyer707, who had thrown himself to the ground, crawled.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "I was going to give up halfway. It's all because of that guy. When he approaches so sincerely…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It can no longer be fake.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "He got up in the smoke where he couldn't see an inch ahead and ran recklessly.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Please! Please!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Suddenly, he saw a silhouette of a person outside the smoke.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Ah!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He stopped abruptly, but couldn't avoid the collision, and the two rolled on the ground.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Hey! Are you okay?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When he opened his eyes, he saw Death Princess's face, and Strongest Codename was standing next to her.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Death Princess",
+      "content": "Could it be?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Location information appeared on Destroyer707's retina.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "We're out.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He quickly sat up and looked back towards the Iron Homeland.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "What about Yahweh2?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Among the disappearing Tenmen, he saw Yahweh2 bleeding from his thigh.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Damn it! Anyway…!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Destroyer707 prepared to run, Strongest Codename grabbed his shoulder.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Strongest Codename",
+      "content": "Stop. If you go in now, the starting point will reset. We need to stay here.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Are you crazy? We can't win that.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Destroyer707's eyes caught sight of Codename Sancho.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Parts.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sancho",
+      "content": "Sancho's right arm was a massive machine, far from looking human.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A unique item, Craner.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sancho",
+      "content": "It was a level 10 exclusive part that could be obtained at an extremely low probability in the Iron Homeland.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone, panting, glared at him, Sancho looked back at Tenman10.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sancho",
+      "content": "Is that the guy you mentioned?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tenman10, clutching his abdomen and kneeling on one knee, nodded.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tenman10",
+      "content": "Hurry up. I'm about to die. Catch him before handing him over to the operator. It'll be worth money.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Heh, money is good.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sancho",
+      "content": "As Sancho raised his right arm, dozens of cylinders attached to Craner moved simultaneously.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Yahweh2, huh? Nice codename. Kneel down. If you crawl between my legs, I'll let you go.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Why do you play like this? Fighting is content, but there's no need to humiliate.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sancho spread his arms.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sancho",
+      "content": "What's different if you get out of here? Honestly, who here hasn't been beaten by a ranker?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Destroyer707 and his group nodded.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "They issue assassination orders, dismantle items collected over years, and raise sycophants. They're no different from us.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Maybe. But the user who did that to you isn't here.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sancho",
+      "content": "Exactly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the level 10 High Gear activated, the massive Craner was lifted as lightly as a feather.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sancho",
+      "content": "It's fun.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sancho grabbed a vehicle weighing over a ton.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sancho",
+      "content": "Surprised? First time seeing parts?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The scrap metal crumpled and was firmly fixed in his grip, releasing explosive energy.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Yahhh!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the metal chunk was thrown like a cannonball, Shirone widened his eyes and threw himself.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ugh!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rolling on the ground, he fired his rifle, but Craner deflected all the bullets with its backhand.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sancho",
+      "content": "Hahaha! I'm the king here!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sancho threw massive objects indiscriminately.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Bang! Bang! Bang! Bang!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone dodged with all his might, but the feeling in his legs was disappearing.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "This is tough. That mechanical arm can't be pierced by bullets. The only way is a rear attack…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The problem was the difference in power.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Damn it! If Yahweh2 were level 10, or even level 8, he could win. Craner is a large part.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When power is concentrated on one part, the output of other parts usually decreases.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Death Princess",
+      "content": "Over there…!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sancho, who had cornered Shirone, raised his right arm menacingly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sancho",
+      "content": "This is the end!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In the slow-moving time, Shirone saw the scratches on the steel fist.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Vibration.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Simultaneously twisting his waist to the opposite side, Craner struck the scrap metal behind him with a bang.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Now!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "For the first time, Shirone got behind Sancho and immediately raised his rifle, aiming at his head.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Bang! Bang! Bang! Bang! Bang!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was an unmistakable headshot.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ugh!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The huge Sancho collapsed, and Shirone, panting, fell into thought.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Why did the parts shake?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was because he missed the sound while concentrating.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yahweh2, are you okay?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone quickly turned his head.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You guys…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Destroyer707, Strongest Codename, and Death Princess had entered the Iron Homeland.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Smoke was rising from their rifles.",
+      "tone": null
+    }
+  ],
+  "source_hash": "73ce279f3c903cd2b3b127306e8a1ed2789929d297107c6f8946230f50e856c0",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T08:53:45.629772+00:00"
+}

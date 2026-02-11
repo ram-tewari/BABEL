@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\PycharmProjects\BABEL\babel\transform\gemini_client.py
+# hypothesis_version: 6.148.8
+
+['429', 'GEMINI_API_KEY', 'application/json', 'gemini-2.5-flash', 'quota', 'rate limit']

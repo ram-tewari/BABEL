@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\google\rpc\error_details_pb2.py
+# hypothesis_version: 6.148.8
+
+[b'8\x01', 179, 226, 228, 287, 289, 339, 342, 415, 664, 718, 741, 744, 830, 893, 896, 975, 1100, 1102, 1157, 1159, 1255, 1257, 1303, 1343, 1345, 1396, 'DESCRIPTOR', '_BADREQUEST', '_DEBUGINFO', '_ERRORINFO', '_HELP', '_HELP_LINK', '_LOCALIZEDMESSAGE', '_PRECONDITIONFAILURE', '_QUOTAFAILURE', '_REQUESTINFO', '_RESOURCEINFO', '_RETRYINFO']

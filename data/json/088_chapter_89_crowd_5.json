@@ -1,0 +1,427 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The mansion of the Bastard family, one of the wealthiest in the capital, was so opulent it skirted the law forbidding nobles from outshining the royal palace.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Three hundred crystal chandeliers adorned the hall's ceiling, and marble tables with gold trim were laden with delicacies from around the world.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "To the musicians' tunes, nobles danced with partners, while elsewhere, elder statesmen chatted over wine.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ozent Clump",
+      "content": "Hello? I'm Ozent Clump. Are you here alone?",
+      "tone": "neutral"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Woman",
+      "content": "Eek!",
+      "tone": "fearful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The woman screamed and fled at the sight of Clump's creepy smile. It was literally a killer's smile.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Stunned, Clump froze as Alpheas burst out laughing and clapped his back.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Pfft! You actually did it! Oh, my sides.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ozent Clump",
+      "content": "Damn it! I'm an idiot for believing you. And where were you?",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Lovely ladies kept talking to me. Just keeping them company.",
+      "tone": "teasing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Clump glanced where Alpheas pointed. Sophisticated city girls were blushing as they sneaked peeks at him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ozent Clump",
+      "content": "Damn it. Even your backside is better-looking than my front. They're all staring at you.",
+      "tone": "jealous"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Haha! Relax. Isn't that how it is? Let's eat till we burst.",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With delicacies unseen in the provinces, Clump was eager. Since he was alone anyway, he might as well eat his fill without worrying about girls.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Clump devoured food, Alpheas sweated, entertaining nobles who came every five minutes.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Especially when the Bastard family head personally greeted him, all eyes turned.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bastard Family Head",
+      "content": "Pleasure. You must be Alpheas, the rising star.",
+      "tone": "formal"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "The honor is mine. Splendid party. Thank you for the invitation.",
+      "tone": "polite"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bastard Family Head",
+      "content": "Hohoho! Mingling with young intellects is my joy. Let's meet again.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Of course. I'd be delighted to attend anytime.",
+      "tone": "polite"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Though brief, the Bastard head exchanging more than pleasantries with a rookie mage was a mark of great favor.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Satisfied, Alpheas turned to see Clump stuffing his face like a beast. His unhinged jaw was a marvel.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ozent Clump",
+      "content": "How does your jaw not tire? Where does all that food go?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Clump pointed to his biceps while chewing.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheas shook his head and walked off.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Countless female gazes followed, but to him, it was just boring.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lips twitching, he scanned for amusement until a girl darting between tables caught his eye.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Alpheas",
+      "content": "Huh?",
+      "tone": "confused"
+    },
+    {
+      "type": "thought",
+      "speaker": "Alpheas",
+      "content": "His first thought: definitely not a mage.",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Her simple dress defied the gypsy trend, and her waist-length black hair rejected the intellectual short style.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A plate in one hand, a fork in the other, she hopped around—utterly out of place.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ozent Clump",
+      "content": "Huh? That's the family head's eldest daughter.",
+      "tone": "surprised"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Clump's words piqued Alpheas's interest.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Without looking away, he tilted his head.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ozent Clump",
+      "content": "The family head's daughter?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "You came without even knowing that? No manners, as expected.",
+      "tone": "disapproving"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ozent Clump",
+      "content": "Don't care. Just explain.",
+      "tone": "defiant"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Her name is Bastard Erina. Age 19. The Bastard family's sole headache.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Headache? A wild personality?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "No. She's… a bit slow.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Only then did Alpheas turn to Clump.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Likely true—the bear-like friend wasn't one for cruel jokes.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "An accident in childhood. Mental age around 10. Supposed to be confined, but somehow she's here.",
+      "tone": "empathetic"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheas looked back at Erina with mixed feelings.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But she, oblivious to stares, laughed innocently, greeting young men.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Like any ball, she seemed to seek a partner.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Yet no one smiled back. At best, they awkwardly greeted her before fleeing—only possible due to the Bastard name.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheas glanced at the family head across the table.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As expected, he was red-faced, suppressing rage before snapping at his wife.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bastard Family Head",
+      "content": "I told you not to bring Erina! Take her away!",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bastard Family Head's Wife",
+      "content": "Dear, bear with it. Erina loves parties. Causing a scene would be worse. Leave her—I'll sneak her out.",
+      "tone": "soothing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bastard Family Head",
+      "content": "Ugh! The shame. Our family's disgrace!",
+      "tone": "disgusted"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheas pouted.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He understood the sentiment, but calling your daughter a disgrace? Then again, as a first-class noble himself, he knew their societal standing.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Alpheas",
+      "content": "'Just like the old man at home. Nobles, huh.'",
+      "tone": "bitter"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "For three musical changes, Alpheas didn't take his eyes off Erina.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He noticed she genuinely enjoyed the party.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Just greeting people seemed enough.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But mages were a proud lot.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They smiled to her face but mocked her behind her back.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ozent Clump",
+      "content": "Clump. Hold this. No, you drink it.",
+      "tone": "irritated"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Alpheas turned to the dance floor, Clump urgently stopped him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ozent Clump",
+      "content": "What now? Please, no trouble here.",
+      "tone": "pleading"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "These idiots, just because they've read a few books, are rejecting the lady's kindness. As Bashuka's heartthrob, I'll restore her dignity.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Clump's bear-like strength spun Alpheas around.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ozent Clump",
+      "content": "Alpheas. That's cruel. Pity could humiliate her. Those people are enough. Don't make it worse.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "So simple. Do you think I'd miss that? All evil stems from discrimination. Heard that? Starting to pity her cages her life. Trust me.",
+      "tone": "convincing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "You serious? Really? Hey!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Alpheas crossed the floor, he flashed his signature killer smile at Clump.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Relax. I'm everyone's lover.",
+      "tone": "teasing"
+    }
+  ],
+  "source_hash": "c2e9c96a80f614d42fe98c19bcc391ccad7fc677bc7ca5c875c84f7899eaebe6",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T07:54:40.457763+00:00"
+}

@@ -1,0 +1,603 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "All the mages in the bunker walked towards the elevator."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Why was he disqualified? Even if Gaold blocked the Photon Cannon, it was due to Gaold's greatness, not Shirone's inadequacy."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Isn't this power sufficient?",
+      "tone": "curious"
+    },
+    {
+      "type": "narrator",
+      "content": "Or, from the beginning, what level had Gaold expected from him?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Chairman.",
+      "tone": "respectful"
+    },
+    {
+      "type": "action",
+      "content": "Everyone waiting for the elevator turned to Shirone."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Please give me one more chance.",
+      "tone": "pleading"
+    },
+    {
+      "type": "thought",
+      "speaker": "Flu",
+      "content": "How dare he ask a First-Class Archmage for a second chance? It was beyond audacity; it showed a lack of respect for the association."
+    },
+    {
+      "type": "action",
+      "content": "Gaold was already walking towards Shirone with a cold gaze."
+    },
+    {
+      "type": "thought",
+      "speaker": "Gaold",
+      "content": "He thought the same as Flu. A toy that had lost its value in play was nothing but trash."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Aren't you mistaken? This place isn't for you. You came here to prove your worth as my tool. But you couldn't even pass that.",
+      "tone": "disapproving"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone admitted he had misunderstood."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'm not asking you to treat me the same as before. If you give me another chance, I don't mind a real battle. So please, give me one more chance to demonstrate.",
+      "tone": "determined"
+    },
+    {
+      "type": "narrator",
+      "content": "Gaold's face lost all emotion. Only a cold killing intent remained."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Attack me? Are you saying you want to fight me?",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Not fight, but...",
+      "tone": "hesitant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Shut up.",
+      "tone": "angry"
+    },
+    {
+      "type": "sfx",
+      "content": "Flames surrounded him, turning the entire area into a sea of fire."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Even knowing it was an illusion, the heat felt like it was burning his flesh. His mind was filled with pain, screams, and despair, leaving no room for thought."
+    },
+    {
+      "type": "thought",
+      "speaker": "Flu",
+      "content": "This is bad. He's really going to kill him."
+    },
+    {
+      "type": "action",
+      "content": "Flu's face turned pale, guessing Shirone's state."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Those who fell into Gaold's extreme hell were crushed by terrifying fear, their minds destroyed. Over time, this dreadful ability could suffocate a person to death with just emotions."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "But Shirone wasn't consumed by fear. He didn't shed tears or tremble. He simply stared calmly at the extreme hell."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "How... how is this possible...?",
+      "tone": "curious"
+    },
+    {
+      "type": "thought",
+      "speaker": "Flu",
+      "content": "Flu couldn't comprehend Shirone's composure. Was this not the extreme hell? But Gaold's monstrous face was exactly the same as when he had terrified her."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "So this is what Flu experienced. No wonder she was scared."
+    },
+    {
+      "type": "action",
+      "content": "Shirone even had the leisure to look around."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Then, deciding the hell tour was enough, he focused forward again."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "His sharp gaze pierced through the front. Though he couldn't see it, Gaold would be standing in the real space."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Mikael Gaold..."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "When he heard about him from Flu, he thought Gaold was just an exceptionally strong mage. But seeing the hell before him, he could guess what kind of life Gaold had lived, or rather, how far he had fallen."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone closed his eyes and focused his thoughts. No matter what unfolded before him, the incarnation defined by perfect law would not waver."
+    },
+    {
+      "type": "action",
+      "content": "Shirone's eyes snapped open."
+    },
+    {
+      "type": "action",
+      "content": "The sea of fire split left and right, and the hell vanished in an instant."
+    },
+    {
+      "type": "action",
+      "content": "Gaold's face, showing the whites of his eyes and a monstrous grin, appeared."
+    },
+    {
+      "type": "sfx",
+      "content": "Hehehe, hehehehe."
+    },
+    {
+      "type": "action",
+      "content": "Gaold laughed with a scratching sound in his throat, his shoulders shaking."
+    },
+    {
+      "type": "action",
+      "content": "Then, with burning eyes, he looked at Shirone and said, 'Mental transcendence.'"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "Mental transcendence? At eighteen?",
+      "tone": "surprised"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gando",
+      "content": "Mental transcendence? At eighteen?",
+      "tone": "shocked"
+    },
+    {
+      "type": "thought",
+      "speaker": "Flu",
+      "content": "Flu was equally astonished. She knew what mental transcendence was. But the deeper she delved, the more it seemed like an undefined concept rather than an enlightenment."
+    },
+    {
+      "type": "sfx",
+      "content": "Hmm."
+    },
+    {
+      "type": "action",
+      "content": "Gaold stroked his chin, lost in thought."
+    },
+    {
+      "type": "narrator",
+      "content": "He hadn't considered Shirone for the project because he was strong. There were many stronger than Shirone globally. But his ideas were undoubtedly genius."
+    },
+    {
+      "type": "narrator",
+      "content": "Among the Unlockers, he had a unique mass-giving battery. From there, countless practical spells followed."
+    },
+    {
+      "type": "thought",
+      "speaker": "Gaold",
+      "content": "Shirone could add genius to his team. His talent for finding breakthroughs in any situation was a key code for creating variables in unfavorable conditions."
+    },
+    {
+      "type": "thought",
+      "speaker": "Gaold",
+      "content": "In that sense, turning the First-Class Archmage's mind was also a talent."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Real battle? Do you understand what that means?",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes. I know you're not someone who does things moderately. I don't mind dying.",
+      "tone": "resolute"
+    },
+    {
+      "type": "thought",
+      "speaker": "Gando",
+      "content": "Gando worried about Shirone's recklessness. A mage might speak of death lightly. But in a situation where death was certain, no mage would say such a thing."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Fine. But first, let me ask one thing.",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Why do you want to die?",
+      "tone": "menacing"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone remained silent."
+    },
+    {
+      "type": "thought",
+      "speaker": "Gaold",
+      "content": "Perhaps he was the only one seeing any possibility of life here. That fact made him shiver like the cold of a winter night."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "So, what are you imagining? What's your conclusion? Do you know why you were called? Do you think there's something behind me worth risking your life for?",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I don't know. But I have a guess.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Oh? Like what?",
+      "tone": "curious"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone thought of the Archangel Ikael. A warm and kind angel. But once, she was a powerful archangel who could destroy the ruins of Kergo."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Why did she entrust the future to him?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "There is someone I must meet at least once.",
+      "tone": "resolute"
+    },
+    {
+      "type": "thought",
+      "speaker": "Gaold",
+      "content": "He first thought of this after experiencing the events in the Kazra Kingdom. Specifically, when the security of Goffin was unlocked."
+    },
+    {
+      "type": "thought",
+      "speaker": "Gaold",
+      "content": "Behemoth, who knew the answer, disappeared with mental transcendence, but the question engraved in his mind still tormented him. That's why he had to meet Ikael."
+    },
+    {
+      "type": "thought",
+      "speaker": "Gaold",
+      "content": "Shirone's answer wasn't among Gaold's expected choices. He found Shirone interesting but felt he shouldn't go easy on him. He didn't like people who only talked big."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Are you saying you want to use the association for personal matters?",
+      "tone": "menacing"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone didn't answer. Gaold's question was emotional and missed the point. There was no need to answer such a question."
+    },
+    {
+      "type": "action",
+      "content": "Gaold turned away as if that was enough."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Fine, I'll give you one last chance. You have one hour to rest.",
+      "tone": "curious"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Casting Ataraxia must have drained a lot of his mental strength."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's okay. Instead, I have another condition.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "content": "Shirone took out Armand from his waist."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Please let me use the Diamond Armor. I think this level of merit is necessary.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "content": "Gaold looked at the sword in Shirone's hand."
+    },
+    {
+      "type": "thought",
+      "speaker": "Gaold",
+      "content": "He already knew about the object called before it came into Shirone's possession."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "I thought you were a fool, but you know your place.",
+      "tone": "amused"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Even knowing he couldn't win, giving his best meant he was staking his life on this. Anyway, it would save time, so it wasn't a bad proposal for Gaold."
+    },
+    {
+      "type": "action",
+      "content": "But just holding an object won't change anything. So let's set the rules."
+    },
+    {
+      "type": "action",
+      "content": "Gaold compressed the air in his palm."
+    },
+    {
+      "type": "action",
+      "content": "As the density increased, a transparent sphere shimmered."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "As you can see, I use air magic that anyone can learn. Among them, the Press series. I'm not talented in magic, so I don't know complicated things. I'm just a bit stronger than others, so I'm here.",
+      "tone": "amused"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "If a mage who could block Ataraxia with one hand was just a bit stronger, then all the mages in the world were dead."
+    },
+    {
+      "type": "action",
+      "content": "Gaold clenched his fist, and the air bubble burst with a pop."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Anyway, the rule is this. I'll block Ataraxia again with Vacuum Press. The difference this time is that I'll cast an attack spell on you once.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "content": "Gaold pointed at Shirone with his index and middle fingers."
+    },
+    {
+      "type": "action",
+      "content": "A small air bubble formed at his fingertips."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "The spell I'll use to attack you is Air Gun, as you can see. The principle is simple. Compress the air and release it. Is this about 10,000 Press? I don't know.",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "content": "Gaold's arm flicked up quickly."
+    },
+    {
+      "type": "sfx",
+      "content": "The air bubble, compressed with tremendous force, exploded with a deafening roar."
+    },
+    {
+      "type": "action",
+      "content": "The Air Gun passed by Shirone and crashed into the end of the bunker."
+    },
+    {
+      "type": "action",
+      "content": "Until then, Shirone hadn't even realized something had passed by."
+    },
+    {
+      "type": "action",
+      "content": "Then he felt the vibration and slowly turned around."
+    },
+    {
+      "type": "action",
+      "content": "A huge circle was caved in at the center where the Air Gun had struck, with cracks spreading in all directions."
+    },
+    {
+      "type": "action",
+      "content": "The radius of the cracks was about 20 meters."
+    },
+    {
+      "type": "action",
+      "content": "Also, although he couldn't confirm it, the Air Gun's diameter couldn't have been more than 2 centimeters."
+    },
+    {
+      "type": "action",
+      "content": "Shirone stared blankly ahead, unable to blink."
+    },
+    {
+      "type": "action",
+      "content": "Gaold was laughing, shaking the hand that had fired the Air Gun."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Well, it's a child's play spell, but it'll sting a bit if it hits.",
+      "tone": "amused"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Sting? Even the best defensive stance with Diamond Armor would result in instant death if hit. But coming from a First-Class Archmage, it didn't sound like a joke."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Anyway. Do your best.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "content": "Shirone's lips trembled with a smile."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He was a terrifyingly strong person, but that made him want to challenge him even more."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Diamond Armor.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "content": "Armand, held vertically, engulfed Shirone, and the transformation was complete in an instant."
+    },
+    {
+      "type": "action",
+      "content": "The artificial brain Wei spun around like a whirlwind and then fixed itself on Shirone's shoulder."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Let's begin.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "content": "Despite Shirone's changed appearance, Gaold remained calm."
+    },
+    {
+      "type": "action",
+      "content": "He flicked his finger, maintaining the form of the Air Gun."
+    },
+    {
+      "type": "action",
+      "content": "Shirone was drawn forward as if pulled."
+    },
+    {
+      "type": "action",
+      "content": "A halo was already forming where he stood."
+    },
+    {
+      "type": "thought",
+      "speaker": "Gaold",
+      "content": "Thanks to Wei's parallel processing ability, Ataraxia was accumulating faster than before."
+    },
+    {
+      "type": "thought",
+      "speaker": "Gaold",
+      "content": "This could be under 50 seconds."
+    },
+    {
+      "type": "action",
+      "content": "Shirone created bone-like blades from his gauntlet and swung them."
+    },
+    {
+      "type": "action",
+      "content": "However, Gaold, still focused on Ataraxia, effortlessly dodged all the attacks with just his upper body."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "As expected, I can't win with brute strength. The experience in real combat is different."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone pressed on desperately."
+    },
+    {
+      "type": "action",
+      "content": "The bunker was so vast that planting tendrils was disadvantageous."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "However, this allowed him to maximize Armand's physical enhancement abilities."
+    },
+    {
+      "type": "thought",
+      "speaker": "Flu",
+      "content": "Flu tilted her head in confusion."
+    },
+    {
+      "type": "thought",
+      "speaker": "Gando",
+      "content": "Despite both being mages, neither was casting spells."
+    },
+    {
+      "type": "thought",
+      "speaker": "Gando",
+      "content": "Gaold could only use the Air Gun once, but it was strange that Shirone insisted on close combat."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gando",
+      "content": "Why isn't he using his specialty? With parallel processing, he has one slot left, right? If he fires attack spells in succession, he might have a chance. The chairman can't use defensive magic.",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gando",
+      "content": "Because both of them are serious.",
+      "tone": "serious"
+    },
+    {
+      "type": "thought",
+      "speaker": "Gando",
+      "content": "What?"
+    }
+  ],
+  "source_hash": "1c4fa17d6009176af0bbcc1c0cdee87929ce04804c40e286fe9664114d190317",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T05:12:21.311899Z"
+}

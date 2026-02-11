@@ -1,0 +1,1039 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The group looked around.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Trees with long leaves blocked the sky above.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "From above, it seemed there were no gaps, but light squeezed through the tiniest of spaces, illuminating the world.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Moss and mushrooms grew in the shade, and the soil felt damp with moisture.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Yet, it didn't feel like their original world.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The secret to the feeling that time had stopped lay in the size of the rocks.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The age of a space can be known by the weathering of its rocks. But here, the rocks varied in size.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "There were small pebbles, but there were also countless house-sized boulders.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was impossible unless someone had moved them.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "The composition of this place might be different from where we lived. Maybe it has the durability to withstand time.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Canis had a point.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ancient artifacts were made from minerals that didn't exist in their world.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "And being an ancient artifact itself meant it was something from a time before history.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If it belonged to Heaven, then these rocks, having endured for eons, were living proof.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "So, this really is heaven?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "Let's check the Spirit Zone first.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At Amy's suggestion, each of them tested their ability to cast magic.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Spirit Zone is a realm of omnipotence, but there was an unease that the zone could be disrupted in a physically distant world.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Fortunately, their magic worked normally.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "So, this is heaven? Well, we've seen the sights; shall we go back now?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Everyone looked at Tess.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Surprised by the attention, she waved her hand awkwardly with an embarrassed smile.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Haha, no, just joking.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "No. I was seriously considering it too.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If even Rian was saying such things, it was clear how tense everyone else was.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Proving this fact, Shirone's group hadn't moved a step from the spot where they arrived.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone took a small but significant step forward and spoke.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Let's move.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Whether we fell from the sky or space folded, we saw a city. We should walk towards it, right? At least it means there's civilization.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "Where there's civilization, there's law.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "Though it was uncertain if the laws would be reasonable, it was a more practical decision than spending the night in a forest where anything could jump out.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "But how do we find the city? We don't know the direction.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I can handle that.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy's eyes turned red.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Reading the information stored in her magnetic memory, she pointed in the direction where Rian was standing.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Based on the coordinates, the city should be that way.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Amy's magnetic memory perfectly restored specific moments.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even in this situation where they flew astronomical distances.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "This was based on the fact that her ability wasn't mathematical.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Just as a compass points north regardless of the space, she also possessed a sort of magnet that could maintain her orientation amid any variables.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Following Amy, the group didn't miss the sounds emanating from the landscape.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They heard insects and birds, but oddly, nothing was visible.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Realizing it was a phenomenon not to be overlooked, they stopped when they heard rustling in the forest.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With heightened senses, Tess drew her saber and turned.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian, holding the handle of his greatsword, stood by her side.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "What is it, Tess?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "I don't know. Someone seems to be approaching us.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Are you sure it's someone? Not something?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "I don't know.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The breathing sounded human, but she couldn't be certain.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "There was no guarantee anyone lived here.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In a situation where some monster might emerge, the group's tension peaked.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Sss! Sss!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The sound of foliage rustling grew closer and faster.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Tess was sure they were being targeted.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The mages entered the Spirit Zone, and Rian drew his greatsword, lowering it to strike the moment anything emerged from the forest.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Taking a deep breath, Rian waited for the approaching entity with a puzzled expression.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Given the frequency of the sounds, it should have arrived by now.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Yet, there was only noise, and the entity hadn't shown itself.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Rian, you should step back.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "She thought of one possible scenario.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The sound was coming from much farther away than expected.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Maintaining his stance to strike, Rian stepped back when suddenly, thud! Thud! The ground shook.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Finally, pushing through the bushes, it appeared.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What, what is that?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As much as he could lift his head.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A giant.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "An eight-meter-tall giant.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Although it was scantily clad, it wore ragged pieces of cloth here and there.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Its beard reached its chest, and its face was deeply wrinkled, but its body was as robust as a young man's.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tess, strategically trying to find a vital point, checked its groin.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was smooth.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Though the face looked masculine, and there were no breasts, it lacked genitals.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "Um… we have a bit of a problem here.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "What's wrong? Worse than this?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I don't know which is worse, but this is a first for me.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "Shirone also turned to Arin.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "How would her insight view the giant now?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "I can't read its emotions.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "Whether it's angry, smiling, or sad. Everything is mixed up.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "Arin… can't read its emotions?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Impossible. It was theoretically impossible.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The ability of Insight brings all characteristics of the world to an equal level.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If someone like Sakiri from the Magic Association could block emotions, it would at least show such Insight.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "That Arin couldn't read the giant's emotions was certainly strange.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "Those who come to Purgatory… Those who deny God…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The giant's words were unintelligible.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It didn't seem they could find an interpreter.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "The only person they could rely on was Arin.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "But she shook her head again.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "I don't know.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "Canis, does that giant seem hostile?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "It does seem that way.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Could it be that Arin, who specialized in mental resonance, couldn't even sense hostility?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The reason they ventured into this unknown world was because they trusted in Arin's ability to nullify dangers.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Arin, what should we do now?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "Well, what else? We have to run!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Arin darted away, Amy stood stunned.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Canis chased after her, and the others began to retreat as well.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy, the slowest to react, looked back at the giant.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was uprooting a sapling nearly two meters tall and giving chase.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Gaaaah!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The giant's roar was as loud as a sonic cannon.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In a daze, Amy threw herself aside.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The sapling's roots brushed her collar.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "Being big, it can't follow us closely! We need to run!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Why didn't you say that earlier?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "Sorry! I didn't expect this either.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Arin didn't evade responsibility.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Now that they were in heaven, they were one team.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "As a non-combat mage, her role was to identify the enemy's nature and objectively analyze the situation to relay to the leader.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "With that function disabled, she could only apologize.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Since they were a united group, no one blamed Arin.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But they worried about the future.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Arin's mental abilities were a huge asset.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Although it was too early to conclude that her power didn't work against just one giant, the fact that things had gone awry from the start was undeniable.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Hearing the ground shake, Shirone looked back.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Thinking the giant would be slow because of its size was a miscalculation.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It had caught up quickly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "-Shirone, give the command. Should we teleport and escape?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "-That's risky. We still don't know where we are.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "-If we encounter a greater danger, we could be wiped out.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "-But we can't keep running either.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "-Honestly, I can't even see what's around us right now.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "-...That's true.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Then let's fight here.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Taking down the giant seems like the priority.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone chose the combat route, Rian and Tess turned and charged at the giant.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With Shirone at the center, Amy and Canis took their positions on either side, while Arin supported from the rear.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian, the vanguard knight, initiated the attack.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Fighting an eight-meter-tall enemy came with unpredictable variables.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Attacks from above the head were hard to predict, and they could only target areas below the knees.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Rian aimed for the Achilles tendon.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As he swung his greatsword, the giant swung the tree trunk.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Their weapons collided midair, and the trunk shattered like splintering wood.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It wasn't that he had cut it.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The giant's strength was so immense it destroyed its own weapon.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "From the impact of the clash, Rian was thrown three meters away.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He barely landed on his feet, but his legs dragged on the ground.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "The giant's strength was immense.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "But more surprising was its speed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "For a creature of eight meters to support its body, it would need hundreds of times the muscle strength of a human.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Just standing was astonishing, yet its combat movements were comparable to a predator.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Executing heretics!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Uttering incomprehensible words, the giant hurled the splintered sapling at Tess.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the sapling embedded itself in the ground, Tess leaped into the air.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The giant, in a continuous motion, punched.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It seemed impossible for Tess, suspended in midair, to dodge.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At that moment, her body flew forward, defying inertia, landing on the giant's fist.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was External Gravity.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Charging up the giant's forearm, she slashed at its left eye with her saber and jumped down.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Now!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone fired the Photon Canon.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Considering the monster's size, conserving energy wasn't an option.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A beam of light, comparable to a cannonball, struck the giant's abdomen.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The giant's body bent around the Photon Canon, lifting its legs off the ground.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Watching the giant get pushed back was hard to believe.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even Canis, who had previously been hit by the same technique, winced at the hallucination pain.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone's group thought it was over.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But as the giant's legs, now horizontal, came down, its feet crushed the ground, stopping its momentum.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Everyone was speechless.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "How on earth is it still standing after that?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The giant's expression twisted.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Its wrinkled face became terrifyingly monstrous.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "At that moment, a Fireball from Amy flew in, setting the giant's face ablaze.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Amy's judgment was spot-on.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Fire is the enemy of cells. No matter how strong, burning it was the solution.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The giant, its beard aflame, wobbled while clutching its face.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Seeing the burning giant's face, their skin crawled.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Beneath the melting skin, new skin was regenerating.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "That's Schema, isn't it?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "How can a giant use Schema?",
+      "tone": null
+    }
+  ],
+  "source_hash": "cd03c1efe019b75118a4b640ca82d3b684a8507de145ff3e889aa747bb3eb053",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T16:41:04.467230+00:00"
+}

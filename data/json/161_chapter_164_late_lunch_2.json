@@ -1,0 +1,727 @@
+{
+  "blocks": [
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Hah, I never thought a day like today would come. Maybe now, I can live a different life?",
+      "tone": "hopeful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The wounds hadn't fully healed, but at least she had broken through her shell.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "What remained was to carve out a new life while vividly recalling the pain of the past.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "What will you do now? I heard someone's after you.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "We're leaving. We started as mercenaries, and we must live as mercenaries. Our subordinates want that too. Of course, in this country, we've unfairly been labeled as a bandit group.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sadness clouded Marsha's eyes.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Marsha",
+      "content": "Mercenaries fought for a living, and she had accepted that she could die at any time.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Burying her comrades' deaths deep within, she could still smile.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Marsha",
+      "content": "She had never fought for a greater cause or for some shallow sense of justice, but she had always been proud and never avoided a challenge.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha at least wanted to grant them the title of brave warriors.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She felt that their reputation as bandits shouldn't stain their graves.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Honestly, there's a fine line between bandits and mercenaries. And in some ways, the same can be said for knights and mercenaries. They're all buried fighting for their beliefs. Politically outcast groups might be branded as evil, but the tides can always turn.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Rian shared a similar sentiment.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone or Amy, who delved into academics, might not relate, but it was a common burden for those aspiring to be knights.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "There was a time our family was threatened too for trying to remain neutral. And Tess, your father must be having a hard time too.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "True. He's a hero here, but in the colonies, he's seen as an invader. It's politics.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha smiled, realizing that Rian and Tess were sharing their experiences just to cheer her up.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Marsha",
+      "content": "Despite her lingering distrust in the world, she had come to believe in the existence of genuine people.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "'Such kind children. Shirone's friends are just like him.'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha leaned her chin on the dining table like a lazy cat, and in a rare moment of peace, she pointed a thumb at Shirone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "What about you all? Planning on some sightseeing?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ah, we're going to the Kergos Ruins.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Kergos? What are you going to do there, you young couple?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Well, actually…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone explained why they were on the island.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Listening with interest, Marsha nodded in surprise.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Wow, I didn't know that secret was there. I wasn't on the island, so I had no idea.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "To some extent. I heard stories from the locals.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "So, you want to enter the Kergos self-governing district?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "Yes. But the Room of Achievement and Sacrifice is so difficult that we're unsure if we can pass.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "So if you can't, that's it?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "Probably. I do have a backup plan, but it's not certain.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "If it's that, we can help.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Huh? The Room of Achievement and Sacrifice?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "No, even if you can't pass through that room, you can still enter the district. Falcoa seemed to have made deals with that side and Lupe. If you show Freeman Organization's pass, they'll let you in. After all, Falcoa was skilled at that kind of thing.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Shirone's group was stunned.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Doesn't that lead to a different path? If two routes exist from the start, there's no need to have the trial.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "I don't know about that. What's clear is that both paths lead to the same place. This was confirmed by those who passed through the trial.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "One place requires passing the trial, but the other doesn't. Why would they do that?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "We don't know. Maybe it's tradition. Old cultures often keep those customs. Or maybe it's to avoid suspicion.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What's the point?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "To give the impression that the self-governing district isn't that special. Hearing about the Room of Achievement and Sacrifice has already lowered our expectations.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "Anyway, it's best to confirm directly. If necessary, we can get you a pass. It can be done right now.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes, please.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone decided to accept it.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "Entering won't be a problem, but you'll need someone who knows the native language. We don't have anyone who does.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Huh? Then how did Falcoa handle it?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "After arriving on the island, he built his own network. Strictly speaking, the existing mercenary group didn't fit him. Although his private network disbanded after he died, he used to hang out with the smugglers. One of them must have acted as an interpreter.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hmm, so we need to find an interpreter.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Yuna",
+      "content": "Um, I don't know if I should say this…",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "It's fine, say anything.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Yuna",
+      "content": "My brother knows some Kergos.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Really? How did he learn it?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Yuna",
+      "content": "He took on various jobs to look after me when we were young. Before becoming a harbor recruiter, he did some tour guide work. I think he learned it then.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "That's great. Let's ask him. We'd like to help you more, but now that Marsha's back, staying on the island is risky. The Magic Association is still after us.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Shirone nodded understandingly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He didn't want to burden Marsha, who was already being pursued at a national level.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With their conversation settled, Shirone's group left before nightfall.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha placed teleportation bracelets on them.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The instructions were simple.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The bracelet had its own Spirit Zone, so they only needed to visualize the coordinates like casting magic.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone examined the bracelet Marsha had given him.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "People used these without a second thought, but the idea of linking magic tools to magic circles was truly unprecedented.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Connecting two separate Spirit Zones was an impossible feat.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "This could have been how Marsha's teleportation looked from the outside.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A person inside the spot would only see the hole in space, but from the outside, both the entrance and exit would be visible.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The Labyrinth of Space-Time. Maybe the world is already within a huge secret.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Initially, he thought her case was unique, but he realized he was Alpheas's disciple.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Further investigation revealed a connection to the Kergos Ruins.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Moreover, spatial magic was now incorporated into magical tools and spread worldwide.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone suddenly felt fear.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Maybe he was seeking something that he shouldn't, just as the headmaster had warned.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "While he was lost in thought, Marsha approached and gave her final advice.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "There's a carriage waiting at the base of the mountain. I might see you again before you leave, but be careful. And once you're back, find a healing mage to treat your wounds.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Got it. Thank you for your concern.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Hoho! Don't mention it. Not between us.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha covered her mouth and lightly slapped Shirone's arm.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Although she no longer needed to hide herself, she wasn't much different from when they first met.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Perhaps she had used falsehood as a shield, revealing herself through deception.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "We're off. If I don't see you on the island, contact the magic school.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Don't worry. Clay Marsha can find you anytime, anywhere.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha spoke vigorously with her sleeves rolled up, clearly someone who knew how to lift people's spirits.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Freeman stood by her side, ever the loyal support.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Though their dynamic seemed unequal, it felt well-matched.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When Shirone entered the forest, Marsha, who had stayed for a long time, asked,",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "The Kergos Ruins. Will they be alright?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "Probably not,",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha frowned at Freeman but he maintained his usual composure.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "They'll make it. They're strong.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With a bittersweet smile, Marsha looked up at the sky.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The sound of spatial movement tore through the forest air.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "***",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "By the time Shirone's group returned to the villa in the carriage, evening had already fallen.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zis, who had been pacing the living room despite his injuries, turned around as soon as the door opened.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Aah…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tears filled Zis's eyes.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His only sister, Yuna, had returned unharmed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Brother!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zis cried as he hugged Yuna, and the siblings clung to each other, sobbing.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Are you okay? Are you hurt?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Yuna",
+      "content": "Yes. I'm fine. My brother and sisters saved me. But what about you? What happened that you're all bandaged up?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "I'm fine. As long as you're back, nothing hurts.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In truth, Zis could barely walk, but he didn't want to show his pain to Yuna.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Her fears were far greater than his suffering.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zis looked at Shirone's group with gratitude and bowed deeply.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Thank you! Thank you so much! I won't forget this kindness.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Hoho! Forget it. Just remember what I said when we set out. If you're really grateful, show it with your actions from now on.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Huh? What do you mean?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zis blinked, confused by Tess's words, while Shirone's group and even Yuna smiled at him.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After putting the exhausted Yuna to bed, Zis returned to the table.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sipping on herbal tea, he resumed the paused conversation.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "So, you want to enter the self-governing district through the Kergos Ruins, and that's why you need an interpreter?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes. Yuna says you can help, but we want to know how proficient you are.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "For casual conversation, I can guide you.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But entering the self-governing district is…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zis stroked his chin with a concerned expression.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "What's wrong? Is there something that bothers you?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No, it's fine. I'll guide you. I don't know why you're going, but it's a special place.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Not because it's secretive but because the Galian government strictly controls access.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Are you sure about this?",
+      "tone": null
+    }
+  ],
+  "source_hash": "31834052d85b3221cc42a1d8fe6ce49c190c3c6d6540a588012fb7eca79e7197",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T16:30:32.442542+00:00"
+}

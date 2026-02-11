@@ -1,0 +1,949 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Reina blankly stared at Shirone, who was breathing heavily.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Though it couldn't be called a performance to evaluate his sense of pitch, his insight into the essence was beyond imagination.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Who is he exactly? Why would such a child be a butler...?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ah, so noisy! You witch!",
+      "tone": "defensive"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone and Reina simultaneously turned towards the corridor.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "If you're home, wash your feet and go to sleep, or play a lullaby! Don't throw hysterics elsewhere!",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Messy hair. Half-closed sleepy eyes. Rian, still drowsy, entered the room while scratching his six-pack abs.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then he tilted his head, puzzled to see Shirone sitting beside his sister.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Huh? Shirone, what are you doing here?",
+      "tone": "confused"
+    },
+    {
+      "type": "monologue",
+      "speaker": "Shirone",
+      "content": "Well, I was just...",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It would be a big deal if Reina found out he was friends with Rian.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Hahaha! Don't tell me? Did you come to get that?",
+      "tone": "teasing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's face flushed with unbearable embarrassment.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "What would Reina think of him if she found out about the crime Rian had committed? And how humiliated would she feel?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No! I just happened to come in.",
+      "tone": "nervous"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "What do you mean 'no'? Congratulations, Shirone. You've finally become a man.",
+      "tone": "teasing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian was relentless.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Of course, underwear might be as trivial as a dish towel among family members.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But for Shirone on the receiving end, it was an unbearable pressure.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "What? You two know each other?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Shirone? Yeah, he's my friend.",
+      "tone": "nervous"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Hahaha! It's okay. That witch might have a nasty temper, but she doesn't care about stuff like this.",
+      "tone": "teasing"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Is that really the case?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He knew she had an artistic and open-minded personality.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But this was potentially the most serious situation that could arise between a noble and a commoner.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "So your name is Shirone. Don't worry. If Rian says you're a friend, then you're a friend.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone didn't drop his suspicious gaze.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "While she might have felt offended as the recipient, Reina took Shirone's attitude positively.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "True trust sprouts from doubt, after all.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "But you're quite unique. How did you play like that earlier?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What? Shirone played? I thought it was just my sister's hysteria acting up.",
+      "tone": "defensive"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone frowned.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He couldn't understand why Rian would call his sister, who was so beautiful and kind, a witch or hysterical.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Shirone, don't be fooled! This woman is a witch! She might eat you someday!",
+      "tone": "teasing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian grabbed Shirone's shoulders and shook him.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His expression was too serious to dismiss as a joke.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Hehe, I'm sorry. My brother is just immature. But I'm relieved he has a friend like you, Shirone.",
+      "tone": "teasing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian walked to the table and poured water.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Between siblings, words often fell on deaf ears anyway.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Oh, no. I'm not really...",
+      "tone": "embarrassed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Reina stared at Shirone, who was scratching his head shyly.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "At 17, he should have been grown, but he was truly a pure child.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Hehe, you're really cute.",
+      "tone": "playful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "If he's that cute, why don't you take him in, sis? I'd be happy if Shirone became family. Hahaha!",
+      "tone": "teasing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's face turned red as a persimmon at Rian's mischievous joke.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The reason he didn't feel bad was that he unconsciously had a fondness for her.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "My goodness! You're close enough to give away your sister?",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "What nonsense are you saying? Of course, Shirone is like a brother to me, but I wouldn't care if a witch like you were given to just anyone. Shirone would be the one losing out.",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Oh, is that so?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Reina's body leapt up.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone felt dizzy at her jumping power, which easily surpassed a person's height.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Landing in front of Rian, Reina pulled his ear harshly.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Ow, ow, ow! It hurts! It hurts!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Got you, you culprit!",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "The one who messed with my underwear. It's you, isn't it?",
+      "tone": "accusing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "No! Why blame an innocent person?",
+      "tone": "defensive"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Reina was once a swordsmanship prodigy on par with Rai.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As such, the strength concentrated in her fingers was immense.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Fine, I did it! I was going to wear it because I ran out of underwear! Can't you spare a single pair of panties for your brother? Aaargh!",
+      "tone": "teasing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Reina mercilessly tugged his ear, the bulky Rian stood on tiptoe, unable to move.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "You call that an explanation? Your ear will be torn off if you don't confess properly.",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Go ahead, tear it off! I have nothing more to say!",
+      "tone": "defiant"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone was on pins and needles.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Regardless of who initiated it, it was a crime they committed together, so he couldn't let Rian suffer alone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Actually, it was my fault.",
+      "tone": "nervous"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Shirone, no! You don't know how terrifying this witch is! Run away quickly!",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Rian was trying to play a prank and that's what happened. There was no ill intention. But I'm truly sorry.",
+      "tone": "apologetic"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Hmm, so that's what happened.",
+      "tone": "skeptical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Reina looked at Shirone and Rian alternately with drowsy eyes.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then she snickered and hit Rian on the head.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Ouch!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "You're alive thanks to Shirone. If you do it one more time, I'll really make you deaf.",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian grumbled continuously while rubbing the top of his head.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "What wind brought this witch back home?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Haven't you heard yet? About Rai.",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "When have we ever cared about him?",
+      "tone": "disinterested"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Rai is taking the certified swordsman exam this time. I came to pick him up. I left the palace with grandfather, but he said he'd meet some friends on the way.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Certified exam?",
+      "tone": "surprised"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian's eyes shook with shock.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He had acknowledged the difference in skill.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "His brother was a genius, after all.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But had the gap widened this much?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The certified qualification was the dream of all who lived in the Kingdom of Tormia and a standard for noble ranking.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The exam is held once a year, and the number of applicants reaches a thousand.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But among them, fewer than thirty people can obtain certification.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "For comparison, there's the non-certified qualification.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It's issued by institutions designated by the royal palace; for instance, in the city of Creas, Alpheus Magic School is a representative example.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Upon graduating from the magic school, one becomes a non-certified 10th-grade magician, and thereafter, they can raise their grade by performing various achievements through associations or guilds.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The difference between certified and non-certified ultimately comes down to whether they receive recognition from the royal palace.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Therefore, there are non-certified individuals with skills that don't lag behind the certified ones, but since people tend to gravitate toward money and honor, the overall level of the certified is much higher.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The fact that more than half of the applicants in the annual certified exam already have non-certified qualifications illustrates this difference.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Hmph, good for him. As expected, geniuses are different. He gets a lot of support from home too.",
+      "tone": "teasing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Reina looked at Rian with pity.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Whether he had talent or not, he was her beloved youngest brother.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "She hoped he wouldn't be hurt by this news.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "I should go prepare dinner. The seafood from the royal palace needs to be prepared directly.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes. Goodbye.",
+      "tone": "regretful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone bowed with a regretful heart.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Since he was leaving the mansion tomorrow, he would never meet Reina again.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But the exhilaration of playing the piano with her would be something he'd never forget.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Rian, about your sister.",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Well... does she have a boyfriend or something?",
+      "tone": "curious"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone regretted asking as soon as he did.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Emotions are like beasts caged in iron; once released, they can lead to uncontrollable consequences.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Shirone, don't tell me?",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No, no! Just forget it! I just...",
+      "tone": "nervous"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Hahaha! Sis! Sis!",
+      "tone": "teasing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Rian ran out of the room, a red-faced Shirone chased after him.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Too impatient to take the stairs, Rian stuck his face out over the railing and shouted.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Sis! Shirone asked if you have a boyfri—!",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Oh, please stop!",
+      "tone": "embarrassed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone barely managed to cover Rian's mouth and dragged him back to the room by his waist.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Hmm? What was that? Boyfriend?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "It's just the children playing around. Now, we just need to steam this. I've removed the poison, so please cook it according to the recipe.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Yes, miss.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As they entered the full-scale cooking process, the maids became busy with their work again.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "However, the young man in charge of overseeing the mansion's operations frowned at the sound he had just heard.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Head butler Louis.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With his innate calculation ability and meticulous personality, he was the youngest to rise to the position of head butler in the family's history.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He wore frameless glasses that accentuated his cold impression.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Louis",
+      "content": "Shirone?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The maids might not have heard of him, but as the head butler, the name was firmly etched in his mind.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He was the contracted boy Temuran had brought for the grand library relocation work.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Louis",
+      "content": "Why with the youngest master...?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "For someone who had pledged to dedicate his life to the prosperity of the Ozent family, this was a matter he couldn't overlook.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Something he wasn't aware of was clearly happening.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With a flash in his eyes, he called a butler and gave instructions.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Louis",
+      "content": "Tell the deputy butler to come to my room immediately.",
+      "tone": "authoritative"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "From the crack of dawn, shouts echoed through the large training ground.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian was training with greater intensity than usual.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The news of Rai taking the certified exam had poured oil on his fire.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He was determined to catch up.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With that thought, he repeated countless strikes.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Kaite watched his disciple's splendid sword dance and was confident.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kaite",
+      "content": "He's definitely improved.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Physical strength, energy, technique. He had made remarkable progress in all aspects.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "With this level of skill, he could easily subdue bandits near the city.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But in a duel against someone formally trained in swordsmanship, he still had a long way to go.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The issue was the schema.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Rian's greatest strength, his impulsivity, was now acting as a disadvantage.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kaite",
+      "content": "Everyone has their own way. The drawback of not being cold-headed is nothing compared to that fiery power.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He swung a club twice as heavy as a longsword with sheer strength.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Considering air resistance, it was a strength that wouldn't be out of place wielding a greatsword.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Just imagining how the efficiency would be maximized if he could grasp the schema was already exciting.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kaite",
+      "content": "Stop! Ten minutes of rest!",
+      "tone": "authoritative"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian returned to Kaite, panting.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Kaite discovered the burning passion in his disciple's eyes.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He had such eyes on a day a year ago.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Back then, it faded quickly, but this time was different.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Rai was going to the royal palace.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Rian's flame would never wither again.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Young master! Young master!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A butler from the mansion came running breathlessly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Arriving in front of Rian, who was moistening his throat, he said without even catching his breath.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Butler",
+      "content": "It's terrible! The lady says to come to the mansion quickly!",
+      "tone": "urgent"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "My sister? What's the matter suddenly? If it's about my brother, I'm not interested. Tell her to handle it herself.",
+      "tone": "disinterested"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Butler",
+      "content": "No, it's not that. The contracted boy named Shirone is in mortal danger right now.",
+      "tone": "serious"
+    }
+  ],
+  "source_hash": "0a037e0bceec5b7b73f0419c0d9f0e49776872f1c2a0669ab504b8d8ea63d57e",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-10T10:22:31.748882"
+}

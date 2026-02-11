@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\google\ai\generativelanguage_v1beta\services\model_service\transports\rest.py
+# hypothesis_version: 6.148.8
+
+[400, 'Content-Type', 'CreateTunedModel', 'DeleteTunedModel', 'GetModel', 'GetOperation', 'GetTunedModel', 'ListModels', 'ListOperations', 'ListTunedModels', 'UpdateTunedModel', 'application/json', 'get', 'headers', 'httpRequest', 'httpResponse', 'https', 'metadata', 'method', 'payload', 'requestMethod', 'requestUrl', 'rest', 'rpcName', 'serviceName', 'status', 'uri', 'utf-8', 'v1beta', '{host}{uri}']

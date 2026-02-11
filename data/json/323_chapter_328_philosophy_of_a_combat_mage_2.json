@@ -1,0 +1,722 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "The snowball was hard enough to make his head ring."
+    },
+    {
+      "type": "action",
+      "content": "Moreover, he was standing on slippery ice."
+    },
+    {
+      "type": "action",
+      "content": "Unable to keep his balance, Jokre fell forward."
+    },
+    {
+      "type": "action",
+      "content": "The shock was brief, and anger surged."
+    },
+    {
+      "type": "thought",
+      "speaker": "Jokre",
+      "content": "Who dared to play such a prank?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jokre",
+      "content": "What the... Who did that?",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "content": "Jokre touched the back of his head and turned around."
+    },
+    {
+      "type": "action",
+      "content": "A gray-haired boy stood outside the skating rink, casually tossing snowballs."
+    },
+    {
+      "type": "action",
+      "content": "In his other hand, he held an iced coffee, quite out of place in the cold weather."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jokre",
+      "content": "No matter how unpopular you are with girls, you shouldn't mess with a couple on a date.",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "content": "Jokre squinted at the familiar face."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vivian",
+      "content": "Isn't that... Dante? Airhain Dante.",
+      "tone": "surprised"
+    },
+    {
+      "type": "action",
+      "content": "Dante entered the rink with his shoes on, gliding smoothly on one leg as he pushed off the ice."
+    },
+    {
+      "type": "action",
+      "content": "Rudvans and Vivian instinctively stepped aside to let him pass."
+    },
+    {
+      "type": "thought",
+      "speaker": "Vivian",
+      "content": "No way. It's really Dante?"
+    },
+    {
+      "type": "narrator",
+      "content": "Since she entered magic school, Dante had never lost his position as the kingdom's top student."
+    },
+    {
+      "type": "narrator",
+      "content": "When the news of his defeat by Shirone was published in the journal, every student in the kingdom was shocked."
+    },
+    {
+      "type": "action",
+      "content": "Jokre, too, had once clipped articles about Dante and pasted them in his notebook, fueling his determination."
+    },
+    {
+      "type": "thought",
+      "speaker": "Jokre",
+      "content": "But how long could he cling to memories of his school days?"
+    },
+    {
+      "type": "action",
+      "content": "Above all, being hit on the back of the head before even introducing himself was a lifetime humiliation."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Hey, you...",
+      "tone": "nonchalant"
+    },
+    {
+      "type": "action",
+      "content": "Dante ignored Jokre and approached Shirone."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Long time no see, Shirone. And Amy.",
+      "tone": "friendly"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Oh, so now you're calling your seniors by name?",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Haha! We'll be in the same graduating class next semester anyway.",
+      "tone": "joking"
+    },
+    {
+      "type": "action",
+      "content": "Amy wasn't really upset."
+    },
+    {
+      "type": "narrator",
+      "content": "During the 2000th duel, Dante had treated her with utmost respect, so his friendly attitude now felt a bit awkward."
+    },
+    {
+      "type": "action",
+      "content": "But Dante's personality was so cool that he seemed to have already erased those memories from his mind."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Fancy seeing you here. What brings you?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "As you can see, I'm here to have fun. I travel every vacation. It's my first time in Creas. Someone recommended the winter festival.",
+      "tone": "excited"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I see. Did you come alone? What about Closer and Sabina?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "They started special training as soon as vacation began. By now, they must be realizing what hell is. They're exhausting to hang out with.",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "content": "Dante shrugged, and Shirone burst into laughter."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He had been wondering if it was okay to have fun, but seeing Dante's relaxed demeanor made his own worries seem insignificant."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Dante, you're amazing as always.",
+      "tone": "admiring"
+    },
+    {
+      "type": "narrator",
+      "content": "Sometimes, when he recalled the 2000th duel, Shirone was astonished that he had defeated Dante."
+    },
+    {
+      "type": "narrator",
+      "content": "Beyond magic, Dante had star quality. The ability to captivate people's attention wasn't something that could be achieved through effort alone."
+    },
+    {
+      "type": "action",
+      "content": "As expected of someone from the capital, Vashka, he dressed well."
+    },
+    {
+      "type": "action",
+      "content": "He wore a blue coat, black skinny pants, and a purple scarf, looking both understated and radiant."
+    },
+    {
+      "type": "action",
+      "content": "He even had a piercing in one ear."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "For someone like Shirone, who was clueless about fashion, it was surprising."
+    },
+    {
+      "type": "thought",
+      "speaker": "Jokre",
+      "content": "But Jokre thought differently."
+    },
+    {
+      "type": "thought",
+      "speaker": "Jokre",
+      "content": "He had been completely ignored."
+    },
+    {
+      "type": "thought",
+      "speaker": "Jokre",
+      "content": "In front of Amy, no less. Or rather, in front of Amy's boyfriend, Shirone."
+    },
+    {
+      "type": "thought",
+      "speaker": "Jokre",
+      "content": "What angered him the most was how bright Shirone, Amy, and Dante looked together."
+    },
+    {
+      "type": "thought",
+      "speaker": "Jokre",
+      "content": "Geniuses only hang out with other geniuses? Seeing them together is really annoying."
+    },
+    {
+      "type": "action",
+      "content": "Jokre took a deep breath and spoke."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jokre",
+      "content": "Hey, Dante.",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Hmm?",
+      "tone": "nonchalant"
+    },
+    {
+      "type": "action",
+      "content": "Dante turned around, sipping his drink, seemingly having forgotten what he had done earlier."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jokre",
+      "content": "If you hit someone, shouldn't you apologize? Especially to a senior mage.",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "A senior? Who are you?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jokre",
+      "content": "Jokre, a graduate of Eins Magic School. I'm not just some promising student like you.",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "content": "Dante blinked, still sipping his drink."
+    },
+    {
+      "type": "thought",
+      "speaker": "Jokre",
+      "content": "The longer Dante remained silent, the more anxious Jokre became."
+    },
+    {
+      "type": "thought",
+      "speaker": "Jokre",
+      "content": "He couldn't help but imagine what Dante might be thinking."
+    },
+    {
+      "type": "thought",
+      "speaker": "Jokre",
+      "content": "Of course, Eins Magic School was Jokre's beloved alma mater, and he had no shame in choosing to transfer."
+    },
+    {
+      "type": "thought",
+      "speaker": "Jokre",
+      "content": "But Dante was from the Royal Magic School."
+    },
+    {
+      "type": "thought",
+      "speaker": "Jokre",
+      "content": "The kingdom's top institution."
+    },
+    {
+      "type": "thought",
+      "speaker": "Jokre",
+      "content": "Although he was now attending Alpheas Magic School to avenge his defeat by Shirone, it was still one of the top five schools."
+    },
+    {
+      "type": "thought",
+      "speaker": "Jokre",
+      "content": "Moreover, he had been the direct disciple of Olivia, a certified second-grade archmage, so Jokre knew he wouldn't be noticed."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Sorry, never heard of you. And you're the one bothering a couple having fun.",
+      "tone": "nonchalant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jokre",
+      "content": "You...!",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "content": "Jokre's eyes flared."
+    },
+    {
+      "type": "thought",
+      "speaker": "Jokre",
+      "content": "The words 'never heard of you' pierced his heart like a thorn."
+    },
+    {
+      "type": "action",
+      "content": "Rudvans and Vivian, who had hoped their names were known in the minor leagues, also looked coldly at Dante."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jokre",
+      "content": "Dante, don't be mistaken. Do you think you're something special? You're just a student. And you were thoroughly defeated by Shirone. Shirone, who is a commoner. And Amy, who was hailed as a genius, is just a repeat student.",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "You really know a lot.",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "content": "Dante's expression didn't change as he spoke."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "That's the difference between you and us. We're featured in the journal, and you buy it to read about us.",
+      "tone": "joking"
+    },
+    {
+      "type": "action",
+      "content": "Shirone's face burned with embarrassment."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "If he liked witty remarks, Dante mercilessly trampled on his opponent's weaknesses."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "It was cool if you were on his side, but hell for the other party."
+    },
+    {
+      "type": "action",
+      "content": "As expected, Jokre's group's faces twisted, and their eyes showed a hint of murderous intent."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "If they intended to provoke, it worked perfectly, but knowing it wasn't their intention made Shirone worry."
+    },
+    {
+      "type": "thought",
+      "speaker": "Jokre",
+      "content": "Damn it! Damn it! Damn it!"
+    },
+    {
+      "type": "thought",
+      "speaker": "Jokre",
+      "content": "Jokre was furious. Why was he being treated like this?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Jokre",
+      "content": "Logically, the roles should be reversed."
+    },
+    {
+      "type": "thought",
+      "speaker": "Jokre",
+      "content": "The successful graduate should be the one flaunting, while they should look at him with jealousy and envy."
+    },
+    {
+      "type": "thought",
+      "speaker": "Jokre",
+      "content": "Hmph! Pathetic fools! Do they think a school's reputation will live their lives for them?"
+    },
+    {
+      "type": "action",
+      "content": "Jokre glared at Shirone's group, wondering how to make them submit."
+    },
+    {
+      "type": "thought",
+      "speaker": "Jokre",
+      "content": "Huh? What's that..."
+    },
+    {
+      "type": "action",
+      "content": "He noticed something shiny under Shirone's coat."
+    },
+    {
+      "type": "action",
+      "content": "Upon closer inspection, it was a sword sheath."
+    },
+    {
+      "type": "thought",
+      "speaker": "Jokre",
+      "content": "Why is he carrying a sword at a festival? And isn't he a commoner? Is he allowed to carry a weapon?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Jokre",
+      "content": "Jokre pondered the reason."
+    },
+    {
+      "type": "action",
+      "content": "Then, realizing something, he burst into laughter."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jokre",
+      "content": "Hahaha! So that's it. You're just the same.",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "content": "As Jokre's demeanor suddenly changed, Dante stepped back, seemingly intimidated."
+    },
+    {
+      "type": "action",
+      "content": "Ignoring him, Jokre pointed at Shirone."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jokre",
+      "content": "Acting all confident, but you're just insecure. Why else would a commoner carry a sword? I guess you wanted to match your noble girlfriend.",
+      "tone": "accusing"
+    },
+    {
+      "type": "action",
+      "content": "Vivian looked and gasped."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vivian",
+      "content": "Oh, it's true? But isn't that illegal?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jokre",
+      "content": "Of course it's illegal! How can a commoner carry a sword? And you think you can talk big?",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "content": "Jokre approached Shirone and opened his coat."
+    },
+    {
+      "type": "action",
+      "content": "Since it was a serious crime for a commoner to carry a sword, he didn't hesitate."
+    },
+    {
+      "type": "action",
+      "content": "As the buttons tore off and the coat opened, the silver sheath of Armand was revealed at his waist."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jokre",
+      "content": "Just as I thought. Pathetic. Do you think this will make you a noble?",
+      "tone": "disgusted"
+    },
+    {
+      "type": "action",
+      "content": "Shirone's eyes turned cold."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Step back. And compensate for my coat.",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "content": "Shirone desperately tried to control his emotions."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The inner monster, sensing his anger, was trying to emerge again."
+    },
+    {
+      "type": "thought",
+      "speaker": "Jokre",
+      "content": "But Jokre, feeling victorious, continued talking."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jokre",
+      "content": "No decorations and short. It must be cheap. Well, where would someone like you get an expensive sword...",
+      "tone": "accusing"
+    },
+    {
+      "type": "action",
+      "content": "Jokre reached for the handle."
+    },
+    {
+      "type": "thought",
+      "speaker": "Jokre",
+      "content": "Since it was short, the blade would be unimpressive. He planned to draw it and repay the humiliation he had suffered."
+    },
+    {
+      "type": "action",
+      "content": "But his thoughts ended there."
+    },
+    {
+      "type": "action",
+      "content": "With a swishing sound, Jokre's movements stopped. His arms slowly rose."
+    },
+    {
+      "type": "action",
+      "content": "His eyes trembled with shock, and his skin prickled with cold."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jokre",
+      "content": "This... this is...",
+      "tone": "surprised"
+    },
+    {
+      "type": "action",
+      "content": "Rudvans and Vivian's faces turned pale with shock."
+    },
+    {
+      "type": "action",
+      "content": "Shirone's sword had drawn itself and was now pressed against Jokre's throat."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What... how did the sword...",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "content": "Not because he was angry at Jokre."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "If he had been even a moment late in controlling his emotions, Jokre's head would have been rolling on the ice."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "I was too complacent."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The precise control was an impressive feature, but its synchronization was so perfect that it was influenced by the demon's actions in the first layer of his mind."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone was a mage who had trained his mind to remain calm in any situation."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "But that didn't mean he had no emotional changes."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "In a fleeting moment of anger, Armand had drawn itself."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "His disappointment in himself made Shirone even angrier."
+    },
+    {
+      "type": "action",
+      "content": "Sensing its master's anger, Armand trembled, and Jokre heard the sword's wailing through his eardrums."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "This is your final warning. Just leave. If you act rudely again, I won't hold back.",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "content": "Jokre, feeling the pressure of death, wobbled on the ice, unable to keep his balance."
+    },
+    {
+      "type": "action",
+      "content": "He would have fallen if Rudvans hadn't come to support him."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rudvans",
+      "content": "Let's go. We're official mages. If we cause trouble here, we'll be the ones at a disadvantage.",
+      "tone": "practical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jokre",
+      "content": "Hmph! Arrogant brats! Let's see how well you do.",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "content": "Jokre continued to curse until the end."
+    },
+    {
+      "type": "action",
+      "content": "But as Rudvans pulled him away by the collar, he only looked more pathetic."
+    },
+    {
+      "type": "action",
+      "content": "It was only after Jokre's group had completely left the skating rink that Shirone sheathed Armand."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hey, no matter how angry you are, you shouldn't swing a sword.",
+      "tone": "scolding"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "You're kidding, right? This is all your fault! Why did you have to provoke them? What about my coat? You have to pay for it!",
+      "tone": "accusing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Let's move somewhere else. People are watching. The guards might come.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "How about we go to a café and have some coffee? Since I helped, you guys can treat me.",
+      "tone": "joking"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Why should we buy you coffee? And aren't you already drinking coffee?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "This is iced coffee. Let's go get something warm.",
+      "tone": "persistent"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Are you a coffee addict?",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "No, I'm a coffee enthusiast.",
+      "tone": "proud"
+    },
+    {
+      "type": "action",
+      "content": "Shirone and his friends found a café called 'Cozy Teahouse' in the shopping district and went inside."
+    },
+    {
+      "type": "action",
+      "content": "As the warmth enveloped them, their cheeks turned rosy."
+    },
+    {
+      "type": "action",
+      "content": "Shirone sat at a table and took out a sewing kit."
+    },
+    {
+      "type": "action",
+      "content": "Dante picked up the menu."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "When you travel, you should try the local specialties. Let's see, 'Warm Ice Queen Coffee'? That's a strange name.",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Skip the weird ones. I'll just have orange juice.",
+      "tone": "uninterested"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Alright? Then I'll have the Warm Ice Queen Coffee. Shirone, what about you?",
+      "tone": "persistent"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'll have hot cocoa.",
+      "tone": "simple"
+    }
+  ],
+  "source_hash": "c932a00db29f822151857eae26c280348ff862681a60bf181de2e8629dfab805",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T04:43:17.317931Z"
+}

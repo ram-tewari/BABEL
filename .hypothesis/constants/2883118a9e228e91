@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\execnet\gateway.py
+# hypothesis_version: 6.148.8
+
+[' exception: %r', ', ', '--> io.close_write', '<RInfo %r>', '<lambda>', '_cache_rinfo', 'channel', 'no', 'not-receiving', 'receive-live', 'uninitialized']

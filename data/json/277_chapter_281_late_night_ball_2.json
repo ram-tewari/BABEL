@@ -1,0 +1,565 @@
+{
+  "blocks": [
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Most of the Black Line are wanted criminals.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Seven Sins in particular were branded as world-class atrocious criminals, so they absolutely need a safe hideout to stay in one place.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Arius",
+      "content": "Working under such a lacking master, it's only a matter of time before one finds their neck on the guillotine.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As this thought crossed his mind, he couldn't help but worry about his own safety.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arius",
+      "content": "Hmm, maybe it's time to wrap things up here?",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The reason bounty hunters from the Red Line, who had been tracking him with crazed eyes, had never caught Arius until now was thanks to his beast-like instinct for knowing exactly when to strike and when to flee.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His intuition, honed by over a decade as a fugitive, was warning him that if he didn't leave now, it would be dangerous.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arius",
+      "content": "But it's a shame to end it like this....",
+      "tone": "melancholic"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ataraxia. The biggest catch in his grave robber career had been ensnared in his net.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Though material wealth played a part in why he dove into grave robbing, the greater motivator was to satisfy the intellectual hunger of an Unlocker.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In that sense, the power of Archangel Ikael was certainly something that piqued his curiosity.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arius",
+      "content": "Should I just act crazy and dive down to the first level? No, it's impossible alone. Especially since a mage's unconscious is much stronger than ordinary people's. I can't rely on Orkamph either.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Arius propped his chin and sank into thought, he slowly raised his head.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Glancing down the empty hallway, he flashed a thin smile and spoke.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arius",
+      "content": "What's the matter?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When an unknown official close to Zion revealed himself from the corner, a sneer naturally formed.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The official was neither a mage nor an assassin. But as always, his presence couldn't be felt until he showed signs of himself first.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Official",
+      "content": "There's someone who wishes to meet you, Sir Arius.",
+      "tone": "formal"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Arius knew who Zion was. But the official refrained from mentioning his master's name.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arius",
+      "content": "That's a welcome proposition. Lead the way.",
+      "tone": "polite"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the administrator turned around and took a step, Arius stared at the old man's Achilles tendon.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He walked briskly, not making a sound.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Despite appearing as light as a cat, the calves hidden beneath the robe were undoubtedly highly developed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "However, that didn't necessarily mean he was a martial arts master. It was more like the craftsmanship of someone who had spent a lifetime tending to their master's needs.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arius",
+      "content": "Haha, what an interesting place. The Royal Palace.",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The glass bottle Zion threw smashed against the gallery door.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "BOOM",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The shattered glass flew everywhere, startling the cat sleeping on the floor into the air.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Unbothered, Uorin, sitting at the table, raised a teacup to her lips and took a sip.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Why? I thought it was great. It was quite spectacular.",
+      "tone": "nonchalant"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zion glared at his sister.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Her nonchalant personality was usually cute, but in a situation like this, it's so infuriating he could die.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "I'll have to step up myself. I can't leave Shirone alone.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Uorin stroked the chin of the cat that climbed onto her lap and said.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "He was threatening though. What if he had cast magic towards the audiences' seats?",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zion flushed as he recalled the situation at the time.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "As Uorin said, it was a terrifying force. No matter how top-notch the guards were, there would have been casualties.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "That's exactly it! It was a declaration of war! It must have been revenge for me pointing a sword at him!",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Isn't that a bit of an overstatement? He could have just done that because he was angry.",
+      "tone": "skeptical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "It's the same either way! That lowlife ignored my offer! I won't let it slide!",
+      "tone": "indignant"
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "knock",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Just then, someone knocked on the door.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "Come in.",
+      "tone": "polite"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Arius opened the door and entered.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arius",
+      "content": "It's been a while, First Prince. Ah, you were here too, Young Lady.",
+      "tone": "polite"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zion snorted.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "Sit down for now. There's something I want to discuss.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Arius gestured for understanding and sat down on the chair, Uorin poured him some tea.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arius",
+      "content": "What brings you to summon me? Have you grown tired of the Objet I procured last time?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Ei, you didn't 'procure' it. You sold it to us, fair and square.",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arius",
+      "content": "Haha! If we're being precise, that's right. But you're well aware that it's not something that can simply be bought with money, yes? The Objet.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "The Objet isn't the issue.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arius",
+      "content": "Oh? Then what is it?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "Don't play dumb! It's clear now. The reason father summoned Shirone to the palace. It's to rob Acraxia, right?",
+      "tone": "accusatory"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arius",
+      "content": "It's not Acraxia, it's Ataraxia. And grave robbing, really. If you're going to say it, please call it extraction.",
+      "tone": "corrective"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "So... how far has the plan progressed?",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arius",
+      "content": "Hmm, even for the First Prince, this is a bit difficult. After all, I am a subject of His Majesty, so I can't just reveal classified information.",
+      "tone": "cautious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zion extended his hand to the north.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Armand flew into his hand as if sucked in by a magnetic force, and in one swift motion, he pointed it directly at Arius's throat.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "I'm not joking around right now. It's best you answer properly.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Arius took a leisurely sip of tea, as if only now feeling at ease with the sword aimed at him.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Arius",
+      "content": "Zion was nothing more than a brat without manners. Armand, on the other hand, was a troublesome weapon.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arius",
+      "content": "If you're asking how far it has progressed... about 49 percent, I'd say?",
+      "tone": "nonchalant"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It wasn't a lie. After all, starting is half the work, and since they haven't even started yet, 49 percent is appropriate.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Uorin let out a small chuckle as she realized the meaning of the words, but Zion seemed to think that Arius had made considerable progress and continued to press him with a surprised expression.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "Stop it at all costs. No, just eliminate Ataraxia completely. If you're a grave robber, it should be possible, right?",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arius",
+      "content": "What a pathetic bastard. How could he think of eliminating the power of an archangel that has crossed into the world just because a mere king deems it necessary?",
+      "tone": "disdainful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arius",
+      "content": "Ataraxia, even if he didn't excavate it, was a treasure trove for humanity that had to be analyzed at some point.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "I'll give you as much money as you want.",
+      "tone": "bribery"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Arius closed his mouth.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Arius",
+      "content": "He had earned a huge fortune while dealing with Zion so far. Of course, he had a tendency to enjoy grave robbing itself rather than money, but he intends to part ways with Orkamph anyway. If he made a big haul one last time and left, wouldn't he be able to secure something like a retirement fund?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arius",
+      "content": "Hmm.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lost in thought, Arius finally revealed his true nature.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As his cold, snake-like eyes emerged, Zion, despite having a sword pointed at him, couldn't help but shiver.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Arius",
+      "content": "However, the pupils hidden by Arius' narrow eyes were not directed at Zion, but at Uorin.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arius",
+      "content": "Beautiful.",
+      "tone": "admiring"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It wasn't an emotion one would normally feel for a fourteen-year-old girl, but she was truly stunning.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Arius",
+      "content": "Her mysterious appearance, combined with the halo of being a Terraje, made her a truly tempting fruit.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He had analyzed the minds of countless individuals, but Uorin remained the only one whose thoughts he couldn't fathom at all.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arius",
+      "content": "If he could dive one last time before he died, the target would be Uorin, not Ataraxia.",
+      "tone": "resigned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arius",
+      "content": "First, let me tell you the exact progress. Currently, it's impossible to extract Shirone's Ataraxia. It is encapsulated. However, if you wish, I can extract Ataraxia in its entirety and present it to you, Prince.",
+      "tone": "professional"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "Present it to me? Ataraxia?",
+      "tone": "surprised"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arius",
+      "content": "Yes. The power of an archangel would belong to Your Highness.",
+      "tone": "professional"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "If I bring you Shirone's head, can you extract Ataraxia?",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arius",
+      "content": "If you're asking whether it's possible, yes, it is. But it must be done quickly. The moment the head is severed, I need to Dive immediately. Because 'if by any chance' it leads to death, the mind also disappears.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "That fast? Life would only last about 10 seconds after decapitation.",
+      "tone": "skeptical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arius",
+      "content": "Time flows slowly in the unconscious. The door has been installed, so as soon as Shirone is decapitated, I will Dive. I'll Dive to the first level, and from there, I'll excavate the true Ataraxia. Then it will belong to Your Highness.",
+      "tone": "professional"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "No matter what, an outright assassination. Isn't that too hasty?",
+      "tone": "doubtful"
+    },
+    {
+      "type": "thought",
+      "speaker": "Arius",
+      "content": "Arius read the murderous intent that appeared in Zion's eyes and smiled with satisfaction.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arius",
+      "content": "So, how much are you willing to pay?",
+      "tone": "businesslike"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "2.7 billion gold.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arius",
+      "content": "Hmm, wasn't Armand 3 billion gold?",
+      "tone": "doubtful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "So what? Are you saying that bastard's magic is more valuable than my magic sword?",
+      "tone": "defensive"
+    }
+  ],
+  "source_hash": "d482f861ea53955ceef50b8d0ef7b511cf4d30c74c9e4d08e9a0136075acf016",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T18:18:06.952747+00:00"
+}

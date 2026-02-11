@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\google\generativeai\types\generation_types.py
+# hypothesis_version: 6.148.8
+
+['BrokenResponseError', 'GenerationConfig', 'GenerationConfigDict', 'GenerationConfigType', 'None', '```', 'data', 'executable_code', 'keys', 'language_unspecified', 'list[', 'model_version', 'ok', 'outcome_', 'response_schema', 'text', 'unspecified', 'usage_metadata']

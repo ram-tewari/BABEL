@@ -1,0 +1,1243 @@
+{
+  "blocks": [
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In some civilizations, Baalb, the god of anesthesia, was a Mara who put various creatures to sleep and transplanted their organs into his own body.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Sleep degraded creatures to the level of inanimate objects.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Any creature captured by Baalb is treated as an object and must live its entire life as an organ of the monster.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "— Progress of the Elixir of Life: 90 percent.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Baalb, weighing over 100 tons, floundered his massive body as he chased Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Something like the forelimbs of a quadruped animal sprouted from his shoulders and struck the ground.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "The Great Hall of World resounded loudly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Baalb",
+      "content": "Kiki! How is it? The strength of 260 lions. Soon, you too will become a part of my body.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "— Progress of the Elixir of Life: 91 percent.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Once it passed 90 percent, the progress was announced in 1 percent increments.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Knowing there was only 9 percent left made Shirone's heart sink.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Baalb",
+      "content": "...rone! Shirone!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He snapped back to reality at Canis's call.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "Where's your head at? If you have something prepared, do it quickly. You didn't just barge in here recklessly, did you?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "If Shirone had come merely because his magic had slightly improved, Canis was ready to cast Dark Worm on himself.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "If he were to die, he would rather die neatly than become a part of mara of sleep and suffer forever.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After hearing Canis' words, Shirone remembered the magic circle that Ikael had given him.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "But even if he could create a halo, he couldn't utilize it instantly like an angel.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I do have one thing, but...",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "Then do it! Why are you dawdling!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Twenty crab legs protruded from Baalb's lower body.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the rapidly moving legs pushed the 100-ton weight forward, Shirone and Canis simultaneously dove to the sides.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Baalb, leaping 10 meters, crushed the spot where they had been.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Great Hall of World shook, and iron dust fell from the ceiling.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I need some time. Can you stall for me?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Canis sighed.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "So it had come to this?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But how long could he hold off the two-horned Mara, who was difficult to face even with a clear mind?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "Ten seconds. I absolutely can't last more than that.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Please, just one minute.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As soon as Shirone left, Baalb swung his octopus tentacles.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The moment Canis flew like a flying squirrel, the wet tentacles broke the floor where he had been.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Baalb",
+      "content": "Kihehehe! You're excellent at running away. Well, that's the only strength of the weak.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "Hmph! Arrogant for such a dull brute.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Canis",
+      "content": "Canis calmed his mind and calculated the time.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Canis",
+      "content": "The difference in strength was extreme, but if he dedicated himself solely to evasion, it wasn't entirely hopeless.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Canis",
+      "content": "Even if a mosquito couldn't defeat a human, it could evade one for a minute, couldn't it?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian stood up, clutching his greatsword.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "I… have to go.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Rian",
+      "content": "He couldn't rest forever.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With Shirone preparing something, he had to help Canis buy time.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At that moment, Peope looked outside and shouted.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "That… Over there!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When Rian turned around, the King of Giants, Ymir, was charging with eyes blazing with anger.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was clear he was targeting Shirone, who had humiliated him.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When Rian led his broken body and tackled with all his might, Ymir's body was pushed aside.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rolling on the ground, Rian grabbed his greatsword and blocked the path to Shirone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ymir",
+      "content": "'What? Why?'",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Ymir",
+      "content": "He had charged with his life on the line, but he didn't expect Ymir to be pushed back.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Ymir",
+      "content": "It felt like he was weaker than before.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ymir",
+      "content": "I am Shirone's sword. As long as I live, you will never reach him.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Thanks to Peope's mental resonance, they could now understand each other's words.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Ymir",
+      "content": "However, Ymir looked more disappointed, his expression souring.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ymir",
+      "content": "You're mistaken. Strength doesn't exist to protect something. The essence of strength is destruction.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Ymir",
+      "content": "Since you don't realize that, you will never be able to stop me.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ymir moved like the wind.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His brute strength had diminished, but his agility seemed to have increased.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A barrage of rapid blows pounded Rian's body.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Already damaged beyond repair, Rian couldn't even counterattack.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Rian",
+      "content": "But he was satisfied with that.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Rian",
+      "content": "As long as he was alive, Ymir would never reach Shirone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Rian! Rian! Stop it, you piece of jerk!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Please stop hitting him! He'll die!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ymir's attacks didn't cease.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Ymir",
+      "content": "It was a madness unlike anything felt in ordinary combat.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The feeling of life colliding with life was transmitted to his skin.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Ymir",
+      "content": "Interesting.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Ymir",
+      "content": "This human was truly fascinating.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ymir",
+      "content": "Awesome! Destroying you is my mission!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian's body shook with a sound as if it was being torn apart.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Tess",
+      "content": "She cried out to Kariel, tears streaming down her face.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Fine! I'll bear your Nephilim! I'll give birth to as many as you want, just please stop!",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Cariel",
+      "content": "Cariel was indifferent.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "Bearing Nephilim is a given. And Ymir is not under my control.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "— Progress of the Elixir of Life: 96 percent.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ymir stopped attacking and took a deep breath.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Ymir",
+      "content": "It was shocking.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Ymir",
+      "content": "What on earth was this human made of?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Ymir",
+      "content": "He was dead.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Ymir",
+      "content": "No, he should be dead if he's a normal human being.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Ymir",
+      "content": "There was no sign of life in the sight of him standing there, unable to even raise his guard.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But he still held the greatsword.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Ymir",
+      "content": "How on earth?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Ymir",
+      "content": "All the muscles in his right arm were crushed.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Ymir",
+      "content": "It was impossible to lift iron with just the strength of the ligaments.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Ymir",
+      "content": "'No, it's just a corpse. It's simply frozen in place.'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even though it was clear he had won, it didn't feel like a victory.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ymir",
+      "content": "I'll finish you off!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ymir gritted his teeth.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He widened his stride and raised his fist, intending to strike a final blow.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At that moment, he saw Rian's greatsword rising.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It moved very slowly.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Ymir",
+      "content": "Expanding his vision, Ymir realized that only he was moving within the Great Hall of World.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Ymir",
+      "content": "This again?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Ymir",
+      "content": "With his experience in numerous wars, Ymir referred to this as the seesaw of time.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Ymir",
+      "content": "When the speed of the world suddenly increases, it is a phenomenon in which time passes relatively slowly for the receiver.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Ymir",
+      "content": "As one side sped up, the other slowed down.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Ymir",
+      "content": "In other words, it meant that as time passed slowly for Ymir, Rian's arms moved quickly and steadily.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Ymir",
+      "content": "Damn it!",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Ymir",
+      "content": "Ymir realized why the boy standing in front of him was able to move even though his body was broken.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Ymir",
+      "content": "His mind hadn't been destroyed.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Ymir",
+      "content": "That unbroken mind was directly controlling his body.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Ymir",
+      "content": "A technology that completely transcends the biological mechanism whereby the body moves when the mind gives instructions.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Ymir",
+      "content": "It was a form of Avatar Art, something only the highest-level giants could achieve.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Ymir",
+      "content": "Since Schema was originally a giant's technique, Avatar Art was also similar to a certain concept in the human world.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Ymir",
+      "content": "In Schema, swordsmen who strengthen their brains control their bodies through mental locks.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Ymir",
+      "content": "But when it goes beyond the limit, the mind and body become one, making the body follow thoughts directly.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Ymir",
+      "content": "In the human world, this phenomenon is called 'Divine Transcendence.'",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Ymir",
+      "content": "Kukuk, it would have been nice if it was like this from the start.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ymir twisted his body as he watched Rian's greatsword pointed at the ceiling.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Just as he thought he had tilted his body enough to evade, the speed of time suddenly reverted.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian's greatsword disappeared from sight.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Simultaneously, his severed right arm spun in the air.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ymir's face turned bitter.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The faster Rian moved, the slower time flowed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Not being able to dodge perfectly despite that meant it was impossible to dodge from the start.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Popopopopong!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The moment the greatsword touched the ground, Rian's right arm exploded, the torn muscle hanging off the ground and the bones were fully exposed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His body couldn't withstand the speed of Divine Transcendence.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "— Progress of the Elixir of Life: 97 percent.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Elixir of Life was nearing its end.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "And so were the lives of the humans.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Canis, who was hit by Baalb's tentacle, flew dozens of meters and crashed into the wall.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He couldn't get up.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Baalb",
+      "content": "Baalb, finish them now.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kariel",
+      "content": "Yes, Kariel-nim!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Baalb, who had defeated Canis, charged at Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The promised minute had already passed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Yet, there was still no change in Shirone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Shirone! It's dangerous!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone didn't hear a single sound.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "In the process of fully opening and reversing the Immortal Function, there was no room for nerves to intervene.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Baalb",
+      "content": "Kuhahahaha! I'll place you in my most hideous part!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A scorpion-like tail protruded from Baalb's back.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A dark droplet hung from its stinger.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was a powerful anesthetic poison that could even put a dragon to sleep.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At that moment, Shirone's eyes flashed open.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Boom! A circle with a diameter of two meters appeared, and Baalb's attack was bounced off by the shockwave.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Kariel",
+      "content": "A look of doubt crossed Kariel's face as the scene unfolded.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Kariel",
+      "content": "No way? No, that can't be.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Kariel",
+      "content": "A human couldn't wield an angel's power.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Kariel",
+      "content": "It is not something that can be understood by the human mind.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Kariel",
+      "content": "But why am I so anxious?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Kariel",
+      "content": "What was this lowly feeling of anxiety gnawing at me?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kariel",
+      "content": "Baalb! There's no time!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Baalb",
+      "content": "Kieeee!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Baalb, having heard Kariel's command, screamed and launched a physical attack.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His grotesque face was filled with terror.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone's halo spun at the speed of light, a red dot embedded itself in the center.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then, the first magic circle began to call forth numerous concepts.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Angel's Magic Circle.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Infinite Judicial Halo.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Seeing the numerous magic circles blooming like lotus flowers from the halo, Kariel was astonished.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Kariel",
+      "content": "It was indeed a Halo.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Kariel",
+      "content": "A human realizing this on their own was inconceivable.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Kariel",
+      "content": "Clearly, someone had taught him.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Kariel",
+      "content": "But just who? Which crazy angel in Heaven would teach a human the Halo?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "While Kariel was still in shock, Peope flew to the women.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Quickly!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "Got it! Just a bit longer!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The handcuffs twisted as her spiral force was applied.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Thanks to Canis cutting off more than half of it, Peope was able to destroy the handcuffs without much difficulty using her abilities.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Kariel",
+      "content": "Even during this, Kariel couldn't take his eyes off the Halo.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Kariel",
+      "content": "What was happening before his eyes was a problem more serious than Nephilim.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Kariel",
+      "content": "Betrayal of an angel was a major event that shook the very foundations of Heaven.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Kariel",
+      "content": "He had to find out who had taught it.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Kariel",
+      "content": "And then eradicate their existence.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Baalb used all his organs to press down on Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But it was as if an invisible barrier blocked his body, stopping his attack before it could touch him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Baalb",
+      "content": "Keeeek! Keeeek!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He tried his best, but it was impossible.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Kariel",
+      "content": "Just as a child cannot kill its mother, the authority of a higher existence recorded in the laws prevented any approach.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the colorful lights crashed into the Halo, countless magic circles were born, interlocking like gears.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Once the density of information exceeded 80 percent, the concepts rapidly changed, and the rotation speed increased.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The speed of the halo's rotation was so unimaginable that it felt as if it could turn the world upside down.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Baalb's face turned pale as he realized the concept contained in the magic circle.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The strength left his legs and he fell to his butt with a thud.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Baalb",
+      "content": "Hiek! Ata...! Ata...!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Baalb crawled to Kariel using all of his organs that could move.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Kariel",
+      "content": "However, he was so absent-minded that not a single organ was able to properly move on the ground.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Baalb",
+      "content": "Kariel-nim! Run away! It's the ultra-magic amplification circle Ataraxia!",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Kariel",
+      "content": "Kariel already knew.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Kariel",
+      "content": "But he didn't move.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Kariel",
+      "content": "All sorts of thoughts filled his head, and it seemed like time hadn't even passed.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Kariel",
+      "content": "Ataraxia.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Kariel",
+      "content": "The supreme magic of Heaven that had subdued countless angels.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Kariel",
+      "content": "It was Ikael's signature technique that made even the fiercest Mara scream.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Kariel",
+      "content": "She had passed such power to a human?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Kariel",
+      "content": "No, it couldn't be.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Kariel",
+      "content": "It was more plausible that his eyes were playing tricks and that Ikael, standing there in the form of a boy, was more likely.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Kariel",
+      "content": "Ikael, have you truly... gone mad?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Kariel",
+      "content": "No, she hadn't gone mad.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Kariel",
+      "content": "She truly intended to stop the war.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Kariel",
+      "content": "She had decided to stand with humanity, even abandoning the honor of being the strongest angel.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "— Progress of the Elixir of Life: 98 percent.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kariel's body trembled.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Kariel",
+      "content": "Only 2 percent remained.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Kariel",
+      "content": "And yet, Ataraxia was imminent.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Kariel",
+      "content": "He saw Shirone's eyes glaring at him.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Kariel",
+      "content": "Could a human really wield such power?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Kariel",
+      "content": "It may be an illusion.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Kariel",
+      "content": "The Elixir of Life must continue.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Kariel",
+      "content": "But if the current situation was real...",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Kariel",
+      "content": "He would be obliterated.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kariel",
+      "content": "Ikaeeeeeeel!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Kariel let out a roar of anger, Shirone's Photon Cannon fired.",
+      "tone": null
+    }
+  ],
+  "source_hash": "1744215f70ce528ea524dea0b64deed14ac9c98390d5af20b03a3e1da9dcd3b0",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T17:19:21.939131+00:00"
+}

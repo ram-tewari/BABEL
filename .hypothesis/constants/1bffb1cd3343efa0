@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\bs4\builder\_html5lib.py
+# hypothesis_version: 6.148.8
+
+['%s %s', '*', 'HTML5TreeBuilder', 'MIT', '[document_fragment]', 'encoding', 'html', 'html.parser', 'html5lib', 'name', 'override_encoding', 'publicId', 'sourceline', 'sourcepos', 'systemId', '|%s"%s"', '|%s%s="%s"', '|%s<!-- %s -->', '|%s<!DOCTYPE %s>', '|%s<!DOCTYPE >', '|%s<%s>']

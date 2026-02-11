@@ -1,0 +1,555 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "Shirone headed to the section with new magic books and looked through the advanced difficulty shelf."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Alright. I've decided on this one.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "content": "Books with titles like 'Time Lock Using Quantum Transformation' and 'Magic Circle Interference Based on Wave Principles' were lined up, just reading the titles made him feel overwhelmed."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Pass. Pass. Pass on that one too.",
+      "tone": "disinterested"
+    },
+    {
+      "type": "action",
+      "content": "Shirone stopped in front of a book on the last shelf."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hmm, what's this?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "content": "It was similar in thickness to the other books and wasn't about information magic. But what caught his attention was the title."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Laser...",
+      "tone": "intrigued"
+    },
+    {
+      "type": "action",
+      "content": "The white cover indicated it was a photonic magic book, but it had a red band to signify the laser aspect."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Let's take a look.",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "content": "The name of the developer under the title was Louis Jacquebain."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ah, Jacquebain...",
+      "tone": "impressed"
+    },
+    {
+      "type": "action",
+      "content": "When he opened the book, it was filled with complex formulas."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "This is amazing.",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "content": "It was a fusion magic combining two principles of photonic magic."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "This is what Flu meant. Magic that complements weaknesses and creates synergy.",
+      "tone": "understanding"
+    },
+    {
+      "type": "action",
+      "content": "A Photon Cannon with mass could be given a spin to achieve some degree of curvature."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "But if I master Laser Guidance Technology...",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "content": "He could hit the target no matter where it moved."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Great! This will be my first fusion magic!",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "content": "Shirone took the magic book and looked for Flu."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes, here. Two books.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "content": "Flu alternated between the two books and nodded."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "Alright. They seem to complement each other well. Let's tell Ms. Isabel and borrow them.",
+      "tone": "neutral"
+    },
+    {
+      "type": "action",
+      "content": "When they brought the books to Isabel, she issued a loan certificate."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Isabel",
+      "content": "This one is quite difficult. Are you sure?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes. I already know how to use lasers. Is it that hard?",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "content": "The laser Shirone used was different from other mages."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Isabel",
+      "content": "It's a specialized field not covered in school. Especially since it uses radio waves, it might be unfamiliar.",
+      "tone": "cautious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'll give it a try. I want to master lasers this time.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "content": "If he was determined, Isabel had no reason to stop him."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Isabel",
+      "content": "Well, using photons as attack magic is rare, so I understand your ambition. If you have any questions while studying, ask me. The Chairman instructed me to tutor you if necessary.",
+      "tone": "encouraging"
+    },
+    {
+      "type": "action",
+      "content": "Gaold's consideration was both appreciated and daunting."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Thank you. I'll probably be back soon.",
+      "tone": "grateful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Isabel",
+      "content": "Haha! Sure. Come anytime.",
+      "tone": "friendly"
+    },
+    {
+      "type": "action",
+      "content": "To avoid feeling embarrassed later, Shirone gave a heads-up and got on the elevator."
+    },
+    {
+      "type": "action",
+      "content": "The iron door of the library closed before the elevator did."
+    },
+    {
+      "type": "action",
+      "content": "As always, it felt like returning from another dimension."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "With Flu's help, Shirone got a personal training room. Strictly speaking, it was Gaold's order.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "action",
+      "content": "It wasn't as spacious as the underground bunker, but it was enough for him to unleash the Spirit Zone and train alone."
+    },
+    {
+      "type": "action",
+      "content": "A sleep capsule was installed in the corner, and the floor material was the same as the 2000 training ground."
+    },
+    {
+      "type": "action",
+      "content": "The simulation device seemed capable of analyzing magic from various angles."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hmm, it seems both easy and tricky.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "action",
+      "content": "The key was the speed of linking passive and active magic."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Let's give it a try.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "content": "Entering the training ground, Shirone cast the photonic transformation magic."
+    },
+    {
+      "type": "action",
+      "content": "With a familiar sensation, the scenery ahead warped and rushed towards him."
+    },
+    {
+      "type": "action",
+      "content": "Arriving 10 meters ahead, Shirone looked at the ceiling, lost in thought."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Oh, I see.",
+      "tone": "realization"
+    },
+    {
+      "type": "action",
+      "content": "When teleportation is activated, the slot is empty."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Does the slot need to switch much faster?",
+      "tone": "questioning"
+    },
+    {
+      "type": "action",
+      "content": "In that case, Shirone had a specialty to boast about: parallel processing."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Focusing on that, Shirone attempted Scatter Movement based on parallel processing.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "content": "By sunset, he was getting the hang of it."
+    },
+    {
+      "type": "action",
+      "content": "After recovering his mental strength for an hour in the sleep capsule, he executed the magic with maximum concentration."
+    },
+    {
+      "type": "action",
+      "content": "Finally, he shot light in eight directions simultaneously with teleportation."
+    },
+    {
+      "type": "action",
+      "content": "Moving north, the basic route of Scatter Movement, Shirone looked back, unable to hide his excitement."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I did it! I did it!",
+      "tone": "excited"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "What did you do?",
+      "tone": "neutral"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What else? Scatter Movement, of course.",
+      "tone": "oblivious"
+    },
+    {
+      "type": "action",
+      "content": "Flu walked into the training ground."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "Do it again. I'll evaluate it.",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "content": "Flu's firm tone made Shirone a bit nervous."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Okay. I'll start with the basic route...",
+      "tone": "hesitant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "No need. Do the intermediate course. Go to any of the eight directions you want.",
+      "tone": "neutral"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Let's go southeast.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "content": "While Shirone focused, Flu waited with her arms crossed."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Scatter Movement!",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "content": "As Shirone's body glowed golden, light exploded in all directions."
+    },
+    {
+      "type": "action",
+      "content": "Arriving exactly 10 meters southeast, he clenched his fist."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Success, it's a success.",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "content": "His joy was short-lived as he flinched in surprise."
+    },
+    {
+      "type": "action",
+      "content": "Flu was already in front of him, holding his shoulders with both hands."
+    },
+    {
+      "type": "action",
+      "content": "Her eyes were half-closed, calm like when she subdued a terrorist."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "Uh, um...",
+      "tone": "neutral"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "Do you know what your problem is now?",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "content": "In form, Scatter Movement was a success. But Flu had pinpointed him among the eight flashes."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "Is the linking too slow?",
+      "tone": "neutral"
+    },
+    {
+      "type": "action",
+      "content": "Flu finally let go of his shoulders."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "Yes. It's not visible, but it can be sensed in the Spirit Zone. Especially for a manipulation-type mage like me, the delay is even more apparent.",
+      "tone": "analytical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "But I did my best.",
+      "tone": "defensive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "It's not about effort. Your linking was excellent. You probably switched at a speed close to parallel processing...",
+      "tone": "analytical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "But that's the problem.",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "content": "Shirone tilted his head."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "Parallel processing is a thought method that rapidly switches two slots. While thoughts can slow down, there's no faster switching.",
+      "tone": "explaining"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "To explain your mechanism: you equip teleportation, cast it, unequip teleportation, then equip photon output and cast it.",
+      "tone": "demonstrating"
+    },
+    {
+      "type": "action",
+      "content": "Flu demonstrated by putting her fists in and out, representing the linking of the two magics."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "Going through at least three steps created a delay perceptible in the Spirit Zone.",
+      "tone": "analytical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "If there's a delay even with parallel processing, what should I do?",
+      "tone": "questioning"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "Collide them.",
+      "tone": "firm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "Collide them. Don't unequip teleportation, hit it with photon output. And as you hit, equip photon output in the slot.",
+      "tone": "demonstrating"
+    },
+    {
+      "type": "action",
+      "content": "Flu extended both fists forward."
+    },
+    {
+      "type": "action",
+      "content": "She struck her left hand with her right, causing the left hand to fly away and the right hand to take its place."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "This illustrated her earlier explanation.",
+      "tone": "demonstrating"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "That's how you finish unequipping and equipping simultaneously. It shortens the mechanism.",
+      "tone": "understanding"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "You need to do this in the realm of thought. It's about striking an existing thought with a new one. Mages call this 'Force'.",
+      "tone": "explaining"
+    },
+    {
+      "type": "action",
+      "content": "Flu demonstrated the process again, but this time, she brought her fists close together and quickly collided them, making a 'bang' sound with her mouth."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Do you understand? Skip the unequipping process and just hit it while equipping.",
+      "tone": "questioning"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "If you ever work in the field, you need to know Force. Passive-active linking is used across all series.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Force... I didn't know such a thing existed.",
+      "tone": "surprised"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "Of course not. It's a practical skill. They don't teach it in school.",
+      "tone": "neutral"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Is it dangerous?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "No, but it's less stable. You have to precisely equip the slot while colliding thoughts. It's heavily reliant on intuition, so it's not suitable for regular education.",
+      "tone": "cautious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Parallel processing is also a professional skill. It's impressive that you mastered it on your own.",
+      "tone": "admiring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "You'll probably learn Force quickly too.",
+      "tone": "encouraging"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "The key was mastering Force.",
+      "tone": "determined"
+    }
+  ],
+  "source_hash": "88de2cfe6113f390cb2028e0506b400ec90b845d418d07406d59c5715e43bd4c",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T05:16:49.641273Z"
+}

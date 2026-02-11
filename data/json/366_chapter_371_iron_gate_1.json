@@ -1,0 +1,656 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "The day of the magic school's opening arrived."
+    },
+    {
+      "type": "action",
+      "content": "Shirone woke up early, folded his blanket, and packed his things."
+    },
+    {
+      "type": "action",
+      "content": "The Kubrick ring was convenient for everyday use. He distributed various items across its six slots and placed Armand in a separate slot, just in case."
+    },
+    {
+      "type": "action",
+      "content": "As he came downstairs, Olina greeted him with a smile."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olina",
+      "content": "Are you all set? Where's your bag?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I've got it right here."
+    },
+    {
+      "type": "action",
+      "content": "Shirone showed her the ring on his palm."
+    },
+    {
+      "type": "narrator",
+      "content": "Olina, looking at her son's playful face, didn't ask any questions and turned away."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olina",
+      "content": "Come eat quickly, or you'll be late."
+    },
+    {
+      "type": "action",
+      "content": "Shirone watched his mother for a long time. She was the only one in the world, his mother."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I love you, Mom. And thank you."
+    },
+    {
+      "type": "action",
+      "content": "When Shirone hugged her waist, Olina's hand paused."
+    },
+    {
+      "type": "narrator",
+      "content": "At home, he was a doting only child. But a mother's intuition sensed the heavy burden in her son's voice."
+    },
+    {
+      "type": "thought",
+      "speaker": "Olina",
+      "content": "Something is happening again... God, please protect this child."
+    },
+    {
+      "type": "action",
+      "content": "Regaining her smile, Olina turned and playfully smacked Shirone's head."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olina",
+      "content": "You rascal."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ouch!"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olina",
+      "content": "You're too old to be acting like a baby. And don't touch a lady's belly so casually."
+    },
+    {
+      "type": "action",
+      "content": "Vincent, having finished washing his face, wiped it with a towel and said,"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vincent",
+      "content": "That's right! Shirone, I won't give up Mom to anyone. So hurry up and find your own Amy at school..."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Stop babbling and eat your breakfast."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vincent",
+      "content": "Yes, ma'am."
+    },
+    {
+      "type": "action",
+      "content": "Vincent marched to the table like a soldier. Shirone's laughter filled the kitchen."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He wished this happiness would last forever."
+    },
+    {
+      "type": "action",
+      "content": "Arriving at school in the Ogent family's carriage, Shirone saw the front gate crowded with people."
+    },
+    {
+      "type": "action",
+      "content": "It was the start of a new semester, and parents were bending down to scold their undergrown children."
+    },
+    {
+      "type": "action",
+      "content": "As the announcement for the entrance ceremony began, many students rushed past Shirone."
+    },
+    {
+      "type": "action",
+      "content": "But Shirone was in no hurry. The graduation event was at 2 PM at the Iron Gate, and his dormitory was already arranged, so he planned to spend time with his friends at the research club."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Hello?"
+    },
+    {
+      "type": "action",
+      "content": "Hearing Amy's voice, Shirone turned with a smile, but his expression quickly changed to surprise."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "W-What?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Why are you so shocked? It's like you've never seen a red-haired girl before."
+    },
+    {
+      "type": "action",
+      "content": "Amy's red hair was cut to shoulder length. It framed her cheeks and was styled asymmetrically in the front, making her look completely different."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "How do I look?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Uh, well... you look pretty."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Is that all? Do I seem more determined?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Uh, yeah. You look sharper."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Hmm, really?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "After two months, she seemed more confident."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "It suits you, but why did you cut your hair?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Just felt like it. It was annoying during training, and I wanted a fresh start."
+    },
+    {
+      "type": "action",
+      "content": "Amy was a strong candidate for graduation, having ranked fifth in last year's senior class."
+    },
+    {
+      "type": "action",
+      "content": "To break the second-year jinx, she seemed to be starting anew."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "You're early. The event is at 2 PM. Going to meet the idiot duo?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yeah. I'm meeting Iruki and Neide to go up together. What about you?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "I'm heading to the Iron Gate. Got to prepare to welcome you all. Oh, and make sure to say 'me' later."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Me?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "When Shirone pointed to himself, Amy shook her head."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "No, not you. Just say 'me.' Got it? Just say 'me.'"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What's that supposed to mean?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "You'll see at the event. You'll be really grateful to me. See you at 2 PM at the Iron Gate."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Welcome to hell."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Haha! Thanks a lot."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Amy giggled and walked off, clearly amused."
+    },
+    {
+      "type": "action",
+      "content": "Shirone shook his head, smiling."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Finally, we're standing in the same place."
+    },
+    {
+      "type": "action",
+      "content": "He understood why Amy was in such a good mood."
+    },
+    {
+      "type": "action",
+      "content": "Supernatural Psychic Science Research Club."
+    },
+    {
+      "type": "action",
+      "content": "Iruki stared at the chalkboard filled with equations, lost in thought."
+    },
+    {
+      "type": "action",
+      "content": "He had finally reached his senior year. But honestly, he had just ended up here somehow."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Becoming a mage? Me?"
+    },
+    {
+      "type": "action",
+      "content": "He always thought he could come here whenever he wanted. At least, that's what Iruki believed."
+    },
+    {
+      "type": "narrator",
+      "content": "What had held him back was the fear of how his monstrous intellect would be used in the world."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "In the end, I followed Shirone here."
+    },
+    {
+      "type": "action",
+      "content": "It wasn't a bad feeling. Even with the graduation exam a year away, he felt calm because Shirone was like a giant control mechanism installed in his brain."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Yeah, Shirone is meant to be a mage. I wonder if he's preparing well."
+    },
+    {
+      "type": "narrator",
+      "content": "Honestly, there was nothing to worry about with Shirone. With a clear goal, he would never stop."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "But Neide..."
+    },
+    {
+      "type": "narrator",
+      "content": "He probably hadn't done anything again."
+    },
+    {
+      "type": "action",
+      "content": "He was likely holed up in a storage room, tinkering with strange devices all day."
+    },
+    {
+      "type": "narrator",
+      "content": "It was unfortunate, but there was nothing to be done. Neide didn't want to become a mage."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Has it really been six years?"
+    },
+    {
+      "type": "action",
+      "content": "Six years ago, Iruki was expelled from the Royal Magic School and transferred to Alpheas Magic School."
+    },
+    {
+      "type": "narrator",
+      "content": "His personality was still difficult, so no one wanted to associate with him."
+    },
+    {
+      "type": "action",
+      "content": "Iruki also had no interest in making friends. But one person caught his eye—Neide."
+    },
+    {
+      "type": "action",
+      "content": "A boy who always sat at the back of the classroom, glaring at the chalkboard with a fierce look."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Hmm, an interesting guy."
+    },
+    {
+      "type": "action",
+      "content": "After observing Neide for a few days, Iruki shamelessly asked his classmates about him."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Classmate",
+      "content": "Neide? I don't know him well. He doesn't talk. His grades are okay, I guess."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Classmate",
+      "content": "I don't like Neide. He's creepy. Kind of perverted."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Classmate",
+      "content": "Why are you curious about Neide? It's best to leave him alone. His eyes are too scary."
+    },
+    {
+      "type": "narrator",
+      "content": "Iruki could roughly guess what Neide's school life was like."
+    },
+    {
+      "type": "action",
+      "content": "A few days later, Neide approached Iruki's desk with a cold look."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "Are you the one snooping around about me?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Snooping? Why would I investigate your butt?"
+    },
+    {
+      "type": "action",
+      "content": "Someone snickered, and Neide's fist flew into Iruki's jaw."
+    },
+    {
+      "type": "action",
+      "content": "Iruki fell with his chair and couldn't move."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "I'll ask again. Are you the one snooping around about me?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Spit."
+    },
+    {
+      "type": "action",
+      "content": "Iruki spat out blood and slowly got up."
+    },
+    {
+      "type": "action",
+      "content": "But it was a feint. He immediately lunged, trying to poke Neide's eyes with two fingers."
+    },
+    {
+      "type": "sfx",
+      "content": "Ahcho!"
+    },
+    {
+      "type": "action",
+      "content": "Iruki's arm stretched out, stopping just in front of Neide's eyes as he leaned back."
+    },
+    {
+      "type": "action",
+      "content": "Even so, Neide's expression didn't change."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "......"
+    },
+    {
+      "type": "action",
+      "content": "Iruki withdrew his arm and took a stance mimicking a snake, ready to fight."
+    },
+    {
+      "type": "action",
+      "content": "The atmosphere quickly chilled, and the lower-grade students turned pale."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "Hoo."
+    },
+    {
+      "type": "action",
+      "content": "Neide sighed, looking at Iruki's ridiculous stance."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "I'm warning you, don't take an interest in me again. I won't let it slide next time."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "I don't want to. Why should I listen to you?"
+    },
+    {
+      "type": "action",
+      "content": "A fierce look flashed in Neide's eyes."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "You... will really die."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "I know. I'm human, so I'll die someday. Are you stupid?"
+    },
+    {
+      "type": "action",
+      "content": "Neide heard the sound of his reason snapping. He didn't punch immediately because he might kill Iruki."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "Meet me after class. Come to the place I mentioned."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Oh, is this the after-school duel I've heard about? But are you sure? I'm pretty strong."
+    },
+    {
+      "type": "action",
+      "content": "Neide didn't respond and turned away."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "If Iruki was too scared to show up, that was fine."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "But if he did show up... Iruki wouldn't be able to attend school from the next day."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Ouch, that punch was strong."
+    },
+    {
+      "type": "action",
+      "content": "Iruki set his chair upright and sat down, rubbing his lips."
+    },
+    {
+      "type": "action",
+      "content": "Class started, but Neide didn't return."
+    },
+    {
+      "type": "action",
+      "content": "The weather was gloomy, and by the end of class, gray clouds covered the sky."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "It's going to rain."
+    },
+    {
+      "type": "sfx",
+      "content": "Lightning flashed, followed by thunder that tore through the sky."
+    },
+    {
+      "type": "action",
+      "content": "In the torrential rain, lightning and explosions chased each other relentlessly."
+    },
+    {
+      "type": "sfx",
+      "content": "Huff, huff."
+    },
+    {
+      "type": "action",
+      "content": "Iruki lowered his head, breathing heavily. The rain pounding on his head felt hot, and water dripped from his soaked hair."
+    },
+    {
+      "type": "action",
+      "content": "Only his eyes were alive, piercing through the darkness of the rain."
+    },
+    {
+      "type": "action",
+      "content": "Through the curtain of rain, Neide's silhouette appeared."
+    },
+    {
+      "type": "action",
+      "content": "As the lightning flickered, parts of the silhouette regained color, but the monstrous face he saw at first never fully emerged."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "This is serious."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Iruki had to admit his calculations were off."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "He knew Neide wasn't ordinary, but this was beyond normal."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Iruki's voice cut through the rain."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "What happened to you?"
+    },
+    {
+      "type": "action",
+      "content": "Splashing through the water, Neide approached. The terrifying expression was gone, replaced by a look of resignation."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "What is it? Why are you interested in me?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "It's not interest, it's exploration. I've been looking for something recently."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "Looking for what?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "As you can see, I'm a genius. A real, extraordinary genius."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Depending on how my abilities are used, they could become a disaster. I might even kill many people. So, I need someone who can control me."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "Kill many people?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "You should know. With my abilities, it's entirely possible."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "Ridiculous."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "Have you ever killed anyone?"
+    },
+    {
+      "type": "sfx",
+      "content": "A massive thunderclap shook the world."
+    },
+    {
+      "type": "action",
+      "content": "Iruki turned away from the chalkboard with a bitter smile."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "The opponent he had fought to the brink of death had now become his closest friend."
+    },
+    {
+      "type": "narrator",
+      "content": "Of course, Neide's personality softened after that incident and some time had passed."
+    },
+    {
+      "type": "action",
+      "content": "But at least from that moment, Neide accepted Iruki as a friend."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Hey, comrade. How long has it been?"
+    }
+  ],
+  "source_hash": "6bb9b58648772fb731d4176a404730457bba72ed61b87765204e7ee828d23224",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T05:22:34.272177Z"
+}

@@ -1,0 +1,979 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Raid Control (4)",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When Shirone arrived in Democracy, he received shocking news from Mafia's group.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sona",
+      "content": "What? You can only attempt one myth-level hunting ground per day?",
+      "tone": "surprised"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Yes. The system resets at midnight. You can try the same hunting ground multiple times, but the 'Moon's Incubation' event is only available after midnight.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mafia",
+      "content": "Usually, parties try one place, and if it doesn't work out, they move to regular hunting grounds.",
+      "tone": "informative"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Anyway, we have to wait until midnight to go to the Moon's Incubation. Why not contact Golden Wheel now…",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "See you then.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Cutting him off, Shirone entered the Mid Gear charging station.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "I need to wait until midnight.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Staying outside with them would only lead to pointless arguments.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Charge, please.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Paying with the credit card, Shirone entered Mid Gear, and the wires connected.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "It'll start as soon as I wake up.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It would be a moment for Shirone, but time was still passing outside.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Mafia's group, waiting outside the charging station, couldn't contain their frustration.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mafia",
+      "content": "Damn! We're just following him around. What if he changes his mind later?",
+      "tone": "frustrated"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Mafia said, 'Let's post on the bulletin board. Title it 'Legendary Item Acquired.' It's the top guild in East Country, so they can't scam us. It's minimal insurance.'",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sona",
+      "content": "I'll post it. I have the recording.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As she updated the video, DexGamsung turned to Mafia.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "DexGamsung",
+      "content": "I didn't expect him to equip a legendary item without hesitation. The guild must be seriously backing him. We can't afford mistakes in the Moon's Incubation.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mafia",
+      "content": "Do you really think another legendary item will drop? Let's stick with him for a day and then formally report to Golden Wheel.",
+      "tone": "cautious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "DexGamsung",
+      "content": "It feels off. Too much luck. I checked the bulletin board on the way, and there are rumors he's using some bug. The admin meeting cleared him, but still.",
+      "tone": "skeptical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Mafia thought for a while.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Let's do this.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The rest of the conversation was through communication, and their attitudes changed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sona",
+      "content": "Wow, guys, check the bulletin board.",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Her video had over 1,300 views in just five minutes.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Good.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If Yahweh2 was scamming them, at least public opinion would be on their side.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Clank, clank.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Engines roared continuously in a massive factory 500 meters underground.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The sky was pitch black, and the background was invisible despite the sparks flying everywhere.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Boss Creature Manufacturing Plant.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "An area not updated in High Gear, it was the main stage for Admin Number Seven.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Admin Number Seven",
+      "content": "Phew! This never ends.",
+      "tone": "exhausted"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Turning off his torch, he stood up from welding an unfinished mechanical monster.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His machine was specialized for factory work, with NO.7 marked on the shoulder guard.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Admin Number Seven",
+      "content": "Such peculiar tastes.",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Pulling up documents in augmented reality, he reviewed the portfolio provided by the Operator.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Admin Number Seven",
+      "content": "How am I supposed to meet the new update date? She plays around every day.",
+      "tone": "frustrated"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Machines completed here went through the test server before official updates.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The test server mainly corrected errors, a mind-numbingly repetitive task.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Admin Number Seven",
+      "content": "Yet he stayed up all night because…",
+      "tone": "sighed"
+    },
+    {
+      "type": "thought",
+      "speaker": "Admin Number Seven",
+      "content": "Am I a pervert?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Operator's immersion in facing his creations was unmatched.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Admin Number Seven",
+      "content": "How did I get involved with her?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It started with curiosity, then he was captivated by the Operator's exceptional design skills.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Admin Number Seven",
+      "content": "That's why it's more frustrating.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Seeing himself swayed by a teenage girl's fantasies mirrored his reality.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Admin Number Seven",
+      "content": "I ran away.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Number Seven was an undercoder addict.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Finding it hard to deal with people (especially women), he had lived here for so long he couldn't remember when it started.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Admin Number Seven",
+      "content": "Ugh, whatever. I'll finish this and quit. I'll find a place outside.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Breaking news.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A message appeared in Number Seven's augmented reality.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Admin Number Seven",
+      "content": "What now? I'm busy.",
+      "tone": "irritated"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As an admin duty, he turned off the torch and opened the bulletin board.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Wow, over 10,000 views?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He watched the video without moving until it ended.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Admin Number Seven",
+      "content": "What?",
+      "tone": "surprised"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was revealed in the admin meeting that Yahweh2 had special senses for time and space.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But even considering that, this case was hard to understand.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Admin Number Seven",
+      "content": "Obtained Michelangelo on the first try?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was possible.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Admin Number Seven",
+      "content": "But the problem was that Yahweh2 had been surrounded by controversy.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Log search.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Numerous signals in the undercoder's language flashed across his retina.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Admin Number Seven",
+      "content": "It's not a bug. No traces of illegal programs. It's clearly a probabilistic result. But…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The signal parade suddenly stopped.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Admin Number Seven",
+      "content": "This section. Couldn't he have dealt with Ergos faster? The delay is slightly longer than the average user's reaction. It's like he's aiming for something.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Admin Number Seven",
+      "content": "Is that possible?",
+      "tone": "intrigued"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Probability is probability.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even knowing the random number algorithm at the designer's level, it's still luck.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Admin Number Seven",
+      "content": "I couldn't match it even if I tried. How does he know the timing for specific results?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He muttered again.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Admin Number Seven",
+      "content": "Pattern.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Creating perfect randomness is nearly impossible.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Admin Number Seven",
+      "content": "With infinite dice rolls, symmetry breaks, and individuality forms. What we call the designer's intention. The unconscious, even deeper.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His face grew serious.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Admin Number Seven",
+      "content": "But reaching that level requires processing an amount of information comparable to the universe. This can't be calculated. Unless there's a quantum computer in his head… huh?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His thoughts paused.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Admin Number Seven",
+      "content": "…What form would that computer take? Probably not logical computation. More like… yes, intuition! A sense for specific outcomes.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Number Seven checked the logs again.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Admin Number Seven",
+      "content": "The firewall wasn't breached. So it's not magic. But also…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It is magic.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Admin Number Seven",
+      "content": "Damn, it was wordplay. If realizing something in reality is magic, it applies here too. He's adapting to High Gear at an incredible speed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If this hypothesis was true, the real world couldn't be free from simulation either.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "What is a perfect world?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Recalling the original purpose, Number Seven downloaded all logs related to Yahweh2.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Admin Number Seven",
+      "content": "Who are you?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It wasn't an admin's authority.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ascension Guild",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After Mafia's group posted the video on the bulletin board, the most outraged were the members of the Ascension Guild.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Codename Taedaecheon",
+      "content": "The Sanctuary of Ergos? That's controlled by Ascension's third team! How did Yahweh2 get in without a West Country pass?",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Codename Yagwi added, 'There's another issue. Michelangelo dropped. Our guild has only managed to get two of those items despite our efforts, and now one has gone to East Country.'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Codename RubyMix spread her arms in disbelief.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Codename RubyMix",
+      "content": "According to the report, they used a West Country Free Pass. That's managed by Ascension's first team. It means there's a traitor among us.",
+      "tone": "outraged"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Taedaecheon's single eye lit up.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Taedaecheon",
+      "content": "Impossible. We've fought fiercely against East Country in the Solar War. No one would sell out for galaxies. Who would throw away their pride for that?",
+      "tone": "disbelieving"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But the results speak for themselves. And Yahweh2 is a member of Golden Wheel, East Country's top guild. This is a serious issue.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Yagwi",
+      "content": "So who is the traitor?",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "You all know.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In the silence, RubyMix spoke.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "RubyMix",
+      "content": "Little Witch. She's the newest member and always acts unpredictably in the Solar War. She's never made a mistake, but she always keeps us on edge.",
+      "tone": "accusing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Taedaecheon stroked his chin.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Taedaecheon",
+      "content": "I thought she was just crazy at first. Her skill overshadows her personality. We need to confirm this.",
+      "tone": "cautious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Yagwi asked the Operator, 'What do you think? Honestly, you're the most suspicious of Little Witch.'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She chose silence.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Taedaecheon",
+      "content": "Alright, let's find her without delay. If she's a traitor, she'll pay.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Taedaecheon spoke, the door opened.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Little Witch",
+      "content": "Did you call for me?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was Little Witch.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "I thought I heard my codename outside. What's going on? The atmosphere seems tense.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "You… you…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They spoke indirectly due to lack of evidence, but everyone had already made up their minds.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Taedaecheon",
+      "content": "She's the traitor.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Taedaecheon bit his cigarette, Little Witch approached the Operator.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Little Witch",
+      "content": "Do you have something to say to me?",
+      "tone": "direct"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After exchanging glances for a while, the Operator finally spoke softly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The Operator",
+      "content": "…No.",
+      "tone": "soft"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then she walked towards the door.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Little Witch",
+      "content": "I'll be back shortly. Something came up.",
+      "tone": "nonchalant"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Hmm.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Little Witch watched her leave, she turned back to face them with a sigh.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Little Witch.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Three guild members were blocking her path.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Taedaecheon",
+      "content": "It's best to be honest. Did you give Yahweh2 the West Country Free Pass?",
+      "tone": "accusing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Little Witch",
+      "content": "Yes, I did. Why?",
+      "tone": "defensive"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "What!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "RubyMix shouted.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "RubyMix",
+      "content": "Do you know what you've done? You gave a legendary item to an enemy! And you call yourself Ascension?",
+      "tone": "outraged"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Oh, it's about balance. The Operator is too strong. Honestly, without her, we'd have lost to East Country long ago. What's the point of winning so disgracefully?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Taedaecheon drew his mechanical greatsword.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Taedaecheon",
+      "content": "So you're finally showing your true colors. Now that we know you're an East Country spy, it won't end well for you.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Oh? What are you going to do?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Little Witch",
+      "content": "Anyway.",
+      "tone": "nonchalant"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Casually passing between them, Little Witch sat on a sofa and crossed her legs.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Little Witch",
+      "content": "This is why you're failing. You need to make it entertaining. Is it fun if only you hog everything?",
+      "tone": "teasing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Are your last words done?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Little Witch formed her hand into a gun shape and aimed it at them, making them stop.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Little Witch",
+      "content": "…What are you doing?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A gun. This is a shooting simulation game. Don't come closer, or I'll shoot.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Heh heh heh.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Taedaecheon's shoulders shook with laughter, his eyes lit up with electricity.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Crazy…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As he raised his greatsword and took a stance, Little Witch bent her elbow and made a sound.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Pew!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Taedaecheon flinched.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But nothing happened, and RubyMix and Yagwi looked at each other in confusion.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Little Witch",
+      "content": "Huh? Why didn't it work?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "You… you…!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Feeling humiliated for flinching even momentarily, Taedaecheon charged with a roar.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "You little…!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As his greatsword infused with booster energy aimed for Little Witch's head…",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Pew!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Gah!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Taedaecheon convulsed as if electrocuted and collapsed on the floor.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "RubyMix",
+      "content": "Hey! Taedaecheon!",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "RubyMix and Yagwi rushed over but saw him disappear before they could touch him.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "'He disconnected forcibly.'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Turning with a chilling feeling, they saw Little Witch pointing her finger gun at her mouth.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Little Witch",
+      "content": "What do you think? Isn't my gun awesome?",
+      "tone": "smug"
+    }
+  ],
+  "source_hash": "014c9daa46936a953652051e84cc94082b5191110e7c89a2db7bac9ea90b1950",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T09:06:00.610283+00:00"
+}

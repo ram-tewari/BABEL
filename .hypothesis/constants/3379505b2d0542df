@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\googleapiclient\model.py
+# hypothesis_version: 6.148.8
+
+[204, 300, '%s: %s', '(gzip)', '*/*', '--request-end--', '--request-start--', '--response-end--', '--response-start--', '-headers-end-', '-headers-start-', '?', 'accept', 'accept-encoding', 'alt', 'application/json', 'body: %s', 'content-type', 'data', 'gdcl/%s gl-python/%s', 'gzip, deflate', 'json', 'media', 'proto', 'query: %s', 'user-agent', 'utf-8', 'x-goog-api-client']

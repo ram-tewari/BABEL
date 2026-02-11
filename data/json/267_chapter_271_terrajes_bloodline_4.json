@@ -1,0 +1,1165 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even past midnight, Orkamp remained in the study, unable to leave.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sitting at his desk with his face buried in his hands, he mulled over the conversations from the dinner table, going over them sentence by sentence.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Orkamp",
+      "content": "Had he misspoken? Had he provoked Terraje? What kind of variables could his words cause in the future?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Reviewing the words that were repeated every day was extremely exhausting and tiring.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But he couldn't afford to make a single mistake.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Until he could get his hands on a card strong enough to contend the Empress, he had to be cautious—overly cautious.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A voice came from behind Orkamp.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arius",
+      "content": "You called for me, Your Majesty.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A man in his mid-thirties emerged from the shadows. His thin eyes seemed to always be smiling, and seven piercings lined his ears. He had an effeminate appearance.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Morrigan Arius.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He was a sorcerer known by the nickname Grave Robber and an Unlocker who had accessed Immortal Function.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As one of the Seven Magical Sins, affiliated with the Black Line, Arius was recruited to the Kazra Kingdom five years ago for his proficiency in Scale Magic.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Unlike the Red Line, the Black Line had no formal association, nor did it have ranks or hierarchy.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Some mages formed organizations, like the Seven Magical Sins, while others, like Arius, operated independently.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Many were criminals hunted by the kingdom.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "There were some mages who caused trouble in the Red Line and crossed over to the Black Line, but they didn't amount to much compared to the notorious mass murderers within the Black Line.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If someone's name became well-known, their bounty started in the billions, and there were even guilds in the Red Line dedicated solely to hunting the Black Line.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Any country associated with the Black Line was criticized internationally, but given Kazra's political situation, there was little choice.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Though the political marriage with Terraje had ended the civil war, internal strife and external pressure from neighboring countries made things unstable.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kazra's neighboring nations would never allow it to grow unchecked, and internally, he had to be mindful of the Terraje faction.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Unable to strengthen the power of the Red Line due to foreign opposition, Orkamp turned to the Black Line as a necessary step.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Orkamp",
+      "content": "How did the task go?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arius",
+      "content": "It went smoothly. I believe we've secured most of the confidential information. Terraje won't suspect a thing.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "I see.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arius",
+      "content": "It's time to move to the next phase. From what I've observed, he's a promising prospect. Truly a prince worthy of Your Majesty.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Orkamp sighed with self-loathing.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Orkamp",
+      "content": "It was laughable—he had callously abandoned his son, only to now try to use him because he had found a way to benefit.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Arius grinned like a snake and offered consolation.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arius",
+      "content": "Don't worry. After all, you're not going to kill him, right? There won't be any problems.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "That child… said he was going to leave the palace.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arius",
+      "content": "I see. Well, Unlockers tend to care little for worldly things. They're always chasing the strange, the curious, things that slip through their fingers.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Orkamp",
+      "content": "Like you?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Arius was known as a Grave Robber, but what he sought wasn't gold or jewels.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arius",
+      "content": "Well, something like that. But it doesn't change the plan. Shirone isn't what's important—Ataraxia is.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Orkamp frowned.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Orkamp",
+      "content": "Why did it have to be that child? No, this was an opportunity. If he missed this chance, he might never break free from Terraje's grip.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Orkamp could never forget the humiliation he suffered after marrying Terraje, reduced to little more than a male prostitute.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The nightmares of that time still haunted him, and he often woke drenched in cold sweat.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The woman who had crushed his spirit, leaving him with nothing but two obstacles—Zion and Uorin—had vanished like the wind.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Terraje had plans to swallow the world.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "One of her key moves was organizing the multinational force known as Valkyrie, to challenge Heaven.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Comprising 24 nations, Valkyrie army was powerful enough to annihilate a small kingdom in just three days, and Terraje was its commander.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The reason the Kazra Kingdom has grown so rapidly in the past 20 years was also because it was able to acquire a portion of Valkyrie's shares.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "However, Orkamp didn't believe the kingdom's growth would last long.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zion was growing well, and his surname was not Orkamp, but Terraje.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Eventually, Terraje would devour Kazra, just as she had consumed him long ago.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then, one day, a report came.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A student at the magic academy in Thormia had used the powers of Heaven",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "An investigation was launched immediately, and the shocking truth was revealed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "That child was none other than Shirone, whom he had discarded 18 years ago.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Orkamp felt as if Heaven itself had intervened on his behalf.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even within the Valkyrie army, only a few individuals could wield the power of Heaven.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "According to experts, Ataraxia was a power associated with archangels, ranking as Triple S in terms of power.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "There wasn't a single person, past or present, in the Valkyrie capable of wielding a Triple S-level ability.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "And now Shirone, his own blood, had that power.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If Orkamp could make him the First Prince, he would have a weapon against Terraje.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Not only would it strengthen Kazra's position within the Valkyrie, but there was even a possibility of driving Terraje's bloodline out of the throne.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Orkamp",
+      "content": "Can Ataraxia be replicated?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arius",
+      "content": "It's my specialty. Leave it to me.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "I don't want to hurt that child. I want him to live the life he desires.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Of course, that was a lie.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The sole reason for calling Shirone was to use the power of Ataraxia to keep Terraje in check.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In that regard, the existence of Orkamp's bloodline itself was a risky element that could provoke Terraje's wrath.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Replicating Ataraxia's information and sending Shirone back was currently the best possible outcome.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In fact, if they hadn't summoned him in the first place, there would have been no need to worry about Terraje's response.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Upon hearing news about Ataraxia, Arius had infiltrated Alpheas Magic Academy.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "However, it seemed that someone sharp within the Red Line had already destroyed the black box.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As a result, the only person in this world who could wield Ataraxia was Shirone, and there was no choice but to summon him to the royal palace as a second option.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arius",
+      "content": "We're not stealing it. I'm just saying that since it's a good thing, let's share it. A son can do that much for his father, right?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Orkamp",
+      "content": "If Shirone refuses the heir position, I won't force him. But we absolutely need Ataraxia.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Arius nodded confidently.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arius",
+      "content": "Don't worry. Leave it to me. Just let me meet Shirone during the paternity test tomorrow.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Orkamp turned his head, puzzled.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Orkamp",
+      "content": "Paternity test? All the ministers will be present. We're verifying the royal bloodline, so there can't be any funny business.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arius",
+      "content": "Of course. I have no intention of interfering with the test. It's just… it's good to be sure, after all, haha. But surely, before the test, there will be an opportunity, won't there?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Only then did Orkamp nod in understanding.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The test would be conducted under strict supervision, but before the test, it would be possible for Arius to quietly approach Shirone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Orkamp",
+      "content": "I'll trust you, then.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arius",
+      "content": "Rest easy. Everything will go well.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Leaving those words behind, Arius vanished like smoke.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was a signature move of those who used Scale Magic.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The door to the study opened, and Eliza entered.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Her pale face suggested she had overheard their secretive conversation.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eliza",
+      "content": "What brings you here at this late hour?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Eliza clasped her hands together and pleaded.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eliza",
+      "content": "Dear, this is our son. I don't know what's going on, but please don't put him in danger.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "There's no need to worry. It's merely… a political matter. Don't concern yourself with it. Go back to bed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eliza",
+      "content": "How can I not be worried? Don't you feel any guilt? Please, don't hurt that child any more than you already have!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Orkamp's expression twisted with anger.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Orkamp",
+      "content": "Guilt? If we hadn't abandoned that child, Kazra would have become a vassal state of Yakma. I would've been beheaded, and you would've become a plaything for foreign officials. Is that really what you wanted?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Eliza shuddered, her face turning pale.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She knew better than anyone what happened to royalty when they lost a war.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She could never allow that to happen.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Without a word, Eliza retreated to her room.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She would continue to enjoy her current life.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She had no intention of relinquishing her position as queen, where she could have whatever she wanted.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "◆ ◆ ◆",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A village 14 kilometers from Kazra Royal Palace.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Eternal Contemplator, Armin of the Eye of Light, was staying in the small village of Toshka while carrying out a special mission.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Of course, his profession as a painter was still valid.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Although he had lost his eyesight, the Eye of Light in his eye socket allowed him to see the hidden aspects of the world.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The charcoal in his hand drew rough strokes across the canvas, reflecting the turmoil in his emotions.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Today, his hands weren't moving the way he wanted.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "An artist's work often reflects their state of mind, and as his drawing neared completion, only his unsettled heart became more apparent.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Huuu.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Armin stopped and set down the charcoal.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Armin",
+      "content": "Due to the nature of his profession, he was always aware of the world's information and also passed it along.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "To the average person, the world seemed calm, but beneath the surface, countless undercurrents were forming.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "'Shirone…'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Recently, the name most often mentioned by those who operated in the depths was none other than Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When Armin had first read about Shirone in Spirit Magazine, he had felt pleased.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He felt that the outstanding talent that he had felt at the time was finally shining.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "However, the moment he learned about the magic circle mentioned in the article, he was shocked.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He didn't know how Shirone had come to acquire the power of an Archangel, but it was an event that would certainly catch the attention of leaders from across the world.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "And just yesterday, he received intelligence that Shirone had been invited to Kazra Kingdom.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Apparently, Shirone was the son Orkamp had lost 18 years ago.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "While the truth of the rumors was unclear, if it were true, Kazra Kingdom had made an excellent choice.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "On the other hand, it was a dangerous matter for Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kazra Kingdom was under the influence of Terraje, the ruler of the Valkyries and Empress of the Kashan Empire.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "For Shirone, an incomplete mage, it was far too dangerous a current to be swept into.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "What are you doing? You said you were busy today, but you're not even painting.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Keira came in, carrying groceries she'd bought at the market.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "On paper, she was his wife, but in reality, she was his supervisor.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Seeing Armin lost in thought, Keira narrowed her eyes.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Huh? Oh.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Armin hurriedly shook off his thoughts and picked up the charcoal, but there was no hiding from Keira's sharp gaze.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even if she wasn't the most perceptive person, she, too, was someone who operated within the depths.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She likely had a good sense of what was on Armin's mind.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "….",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Without even putting down the groceries, Keira waited for Armin to confess.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But he continued to pretend as if nothing was wrong, merely waving the charcoal around.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "One of the things that irritated Keira most when dealing with Armin was the fact that she could never tell what he was thinking behind the cloth covering his eyes.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Keira",
+      "content": "You're not having any strange thoughts, are you?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Armin's hand stopped abruptly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He frowned, clearly irritated, and turned to Keira.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "Strange thoughts?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "About Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Of course, we should be monitoring him, but it's not our place to intervene.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The higher-ups have ordered us to wait until Kazra Kingdom reaches its own conclusion.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Armin threw the charcoal away carelessly and stood up.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "Kazra Kingdom is involved with Black Line mages.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "You know better than anyone what their capabilities are.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone is important to us, too.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If we wait until they reach a conclusion, it'll be too late.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Keira",
+      "content": "That's exactly why we shouldn't act.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The reason they took Shirone is…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Keira's eyes turned cold.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Keira",
+      "content": "Armin, I'll say it one more time—don't act recklessly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "This is an order, not as a comrade, but as your superior.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If you don't follow my instructions, I'll be forced to invoke the Pact Oath.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Armin clenched his jaw, glaring at Keira.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If he disobeyed her orders, the people he loved would be hurt.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Naturally, Sienna's name was on that list.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the Eye of Light hidden beneath his bandages emitted a cold glow, Keira felt a shiver run down her spine.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But she couldn't back down.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "For forty years, they had avoided conflict with the Black Line.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Upsetting the balance now would only bring about greater disaster.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Armin sighed, then walked to the window, looking out at the scenery.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Though it was winter, the sun still shone brightly, casting its powerful rays over the world.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "…So this is how it's going to be?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Keira",
+      "content": "There's no other way. It's my job.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Keira forced herself to maintain a cold tone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She didn't want to trouble a fellow sorcerer who had reached the pinnacle of Time Magic like this.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But the Pact Oath was still in effect, as dictated by the higher-ups.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It wasn't something she could decide on her own, so she had to find a way to persuade Armin by any means necessary.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was all for his sake.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "So, is it your job to bind, restrain, and imprison me?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Keira",
+      "content": "Yes! If you're angry, then go ahead and insult me.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "I'll take whatever you throw at me.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But until the orders come down, you can't go anywhere.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "That's my job.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Armin's breathing grew harsher.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Keira felt as though she were facing a growling beast and hastily brought her right hand to her bosom.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In a one-on-one confrontation, Keira might be at a slight disadvantage.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But she had something she could rely on.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Pact Oath gripped in her right hand could be activated at any moment.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ugh, this is too much.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Armin let out a deep sigh, ending the tense standoff that felt like it was draining the life out of him.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He walked over to the table and gently touched the flowers in a vase.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Flowers that had been forcibly plucked and confined in a glass bottle.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Perhaps his own situation wasn't so different from these flowers.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "Keira….",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Armin's voice was sorrowful.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Keira",
+      "content": "Armin, I'm sorry. But…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "No one can imprison me.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At that moment, Armin turned to Keira and spoke.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He then swung his hand, sending the vase crashing to the floor.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Keira's eyes instinctively followed the falling vase.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Damn it!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In that brief moment, she lost sight of Armin.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "By the time she realized it, Time Field had already been activated.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The vase, which had been falling in reverse, froze in midair, and Keira, unable to turn her gaze, was left standing motionless like a doll.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Within the frozen time, Armin had vanished from sight.",
+      "tone": null
+    }
+  ],
+  "source_hash": "5aed14a5afe91da39cdfb529f2e00e402822e466dfe4b12524d9b1a56f071ac3",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T18:09:03.725764+00:00"
+}

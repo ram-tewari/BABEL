@@ -1,0 +1,835 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The 3,000 troops responsible for guarding Laviette combed through the city in search of the intruder.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Son Yu-jeong",
+      "content": "Damn it! Where the hell is she?",
+      "tone": "frustrated"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even with the hidden-code-based security system, Son Yu-jeong's location remained undetected.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Son Yu-jeong",
+      "content": "Squad 3, check inside the buildings! Shoot on sight!",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After the security forces passed, a human-shaped bulge appeared from the gelatinous wall.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ricera",
+      "content": "Intense, huh?",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Among Son Yu-jeong's techniques was a temporary ability to merge with objects.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The String mechanism, which altered laws by vibrating her hair, was a lower-tier version of Hexa.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Son Yu-jeong",
+      "content": "I can't hide forever. I'll either have to storm the Grand Duke's castle or come up with another plan.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ricera",
+      "content": "You've got three minutes of stealth left. Can't you just keep pulling out more hair and keep going like this?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Son Yu-jeong lowered her gaze and grabbed Ricera's head before slamming it into the gelatinous wall.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Gah! Ack!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After about a minute of suffocating her, Son Yu-jeong pulled her free, leaving Ricera's head looking pitiful.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ricera",
+      "content": "Wh-Why did you do that?!",
+      "tone": "scared"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Son Yu-jeong",
+      "content": "Did you really just suggest pulling out all my hair? No way am I going bald like a monkey.",
+      "tone": "angry"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In truth, Ricera's strategy was valid.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Son Yu-jeong",
+      "content": "Even so, Son Yu-jeong hesitated to approach the Grand Duke due to the collar, Gingoa, around her neck.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Son Yu-jeong",
+      "content": "If Gingoa can be dismantled, that means it can be activated too… If that happens…",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The thought alone was horrifying.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Son Yu-jeong",
+      "content": "No way! I'd rather bite my tongue and die than be a slave for life! Should I just go back? There's probably no one in this hell who can use this thing anyway.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As she stood there, her expression constantly shifting, Ricera, who had been watching blankly, spoke again.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ricera",
+      "content": "Make up your mind already. Are we going or not? I don't want to get caught and turned into part of a wall.",
+      "tone": "frustrated"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Seeing the humans embedded alive in Laviette's buildings only made Ricera's desperation to be purified stronger.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Son Yu-jeong",
+      "content": "I'm thinking, so shut your mouth before I embed you in a wall right now.",
+      "tone": "angry"
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Kyaahaha!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Ricera closed his mouth, a dark shadow began swiftly spreading across the city.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In front of the duke's castle, Lethe turned her head.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lethe",
+      "content": "What was that?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The armored knight Kimara also sensed the unusual impact in the sound.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kimara",
+      "content": "It seems they've found the intruder. Croseide must have been dispatched, so don't worry.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lethe",
+      "content": "Really?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Since Croseide was the strongest of the Seven Generals in terms of sheer power, Lethe opened the door without concern.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "All the demons working in the castle came out to greet her, but the duke was nowhere to be seen.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Of course, Marguerite was a veteran among veterans who could share a drink with anyone in hell, but...",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Lethe",
+      "content": "Something is definitely up.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lethe",
+      "content": "Where is the duke?",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Butler Bielman answered.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bielman",
+      "content": "He is in the laboratory. You know, once he goes in, there's no telling when he'll come out.",
+      "tone": "neutral"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lethe",
+      "content": "That's why I came directly. It's really important. Can you guide me to the laboratory?",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "I haven't received such a message.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The unexpected response made the demons working in the castle exchange surprised glances.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lethe",
+      "content": "Bielman.",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lethe's eyes flashed with anger.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bielman",
+      "content": "Yes, ma'am.",
+      "tone": "obedient"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lethe",
+      "content": "Are you mistaken? Just because I'm being nice, does it seem like the duke and I are equals?",
+      "tone": "accusing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bielman",
+      "content": "Who would dare disrespect the Mother of Hell? I am merely stating the facts.",
+      "tone": "defensive"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He was prepared for annihilation and was passing the responsibility to the duke as well.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lethe",
+      "content": "Sigh.",
+      "tone": "disappointed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lethe's eyebrows furrowed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lethe",
+      "content": "Why are you being like this? Are we enemies? Bielman, it's me, Lethe. Why so serious?",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "…I apologize.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "From Bielman's unmoving stance with his gaze lowered, Lethe sensed something.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lethe",
+      "content": "Yahweh. He's here, isn't he? And Rian too. Has anyone seen them? At least the gatekeepers should know.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As she looked around, the demons swallowed nervously.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "There were few in hell who could deceive the president of the Fire Management Company with their eyes.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Yet Bielman remained calm, and Lethe couldn't find any lies in the demons' eyes.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bielman",
+      "content": "Is Yahweh really not here? No, that can't be. They've already taken action.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Bielman's gaze turned cold.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bielman",
+      "content": "I'm sorry, Lady Lethe.",
+      "tone": "apologetic"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "No demon in the castle where Marguerite resided knew Shirone's whereabouts.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bielman",
+      "content": "I serve the duke.",
+      "tone": "loyal"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Because Bielman had killed them all.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lethe",
+      "content": "This is a serious matter. Mistakes are not allowed when the fate of hell is at stake.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lethe felt frustrated and angry.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lethe",
+      "content": "Move.",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It wasn't anger at insubordination, but sadness over the years of mutual respect.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lethe",
+      "content": "If this is how it's going to be, I won't be polite anymore. I need to see the duke.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even as Lethe approached directly, Bielman didn't move an inch.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lethe",
+      "content": "Move. That's an order.",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "You know where the laboratory is. There's no need to take a long way around.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "No, I don't want to. You move.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lethe",
+      "content": "Kimara.",
+      "tone": "calling"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With a clanking sound, Kimara bowed his head.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kimara",
+      "content": "Yes, Lady Lethe.",
+      "tone": "obedient"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lethe",
+      "content": "What is the law in hell if a mere butler disobeys the orders of the president of the Fire Management Company?",
+      "tone": "accusing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "…He must be beheaded.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kimara, also loyal to the duke, spoke with a strained voice.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Kimara",
+      "content": "What's happening? Why is Bielman clashing pointlessly with Lady Lethe?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When even the Seven Generals of the duke didn't know what was happening, his judgment was...",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lethe",
+      "content": "This is your last chance. Move.",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Bielman remained silent, leaving Kimara's sword to strike his neck.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ten seconds.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was the only time Lethe could wait, reminiscing about eons of memories.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kimara made his choice.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Kimara",
+      "content": "I am the duke's knight.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ten seconds passed in vain, and Lethe gritted her teeth and turned coldly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lethe",
+      "content": "Fools!",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Bielman watched her stride towards the laboratory.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kimara didn't ask.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Kimara",
+      "content": "If the duke wishes... Kimara will ask nothing.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A small succubus, Mercede, who had been watching from the middle floor, hurried in.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mercede",
+      "content": "The president of the Fire Management Company is coming.",
+      "tone": "urgent"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Though it was bad news, Marguerite, who had anticipated this situation, responded calmly and swiftly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "So it has come to this. It's a mountain we must cross. Yahweh, come this way.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As he tore up the laboratory floor, a deep hole that looked like intestines squirmed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "Please hide for a while. I don't know how long Lady Lethe will stay, but I'll send a message separately.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The hole was narrow and damp, but Shirone, having shrunk in demon form, seemed to fit.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Wait. What about Rian? Lady Lethe is looking for him.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "That's why he must stay here. Those bound by the Karma Chain are monitored by the Fire Management Company. This laboratory is the only place in the city that can disrupt their hidden code. It's illegal, but once you leave, there's no turning back.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian spoke.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Don't worry about me, Shirone. It's an enemy we must face anyway.",
+      "tone": "resolute"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Alright. Then... be careful.",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Mercede urged.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mercede",
+      "content": "Hurry, hurry! She's coming down now.",
+      "tone": "urgent"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone entered the hole, the intestines contracted and expanded, quickly lowering him.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After hiding the hole, Marguerite opened the storage room door, revealing a mountain of corpses.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "Hide here. It will mask the smell of the living. Make no noise.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Though the sight was gruesome, Rian calmly burrowed into the corpses.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The storage door closed, and the laboratory door opened.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lethe",
+      "content": "Duke.",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Lethe turned the corner, she saw Marguerite buried in blueprints.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "Hmm? Lady Lethe? What brings you to this humble place without notice?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She didn't listen.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In the silence, her gaze meticulously scanned the laboratory.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The security forces were in a daze.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Croseide",
+      "content": "This... this can't be...",
+      "tone": "disbelieving"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The strongest demon among them, Croseide, one of the Seven Generals, was shattered.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Croseide",
+      "content": "Y-you...",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Son Yu-jung, burning like the sun, approached, exhaling smoke.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Son Yu-jung",
+      "content": "Are you done? You insignificant thing.",
+      "tone": "scornful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The entire block of Magol Street was scorched, and the encirclement radius was 500 meters.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Croseide",
+      "content": "Don't think it's over. Every demon in hell will hunt you. They'll tear you apart. They'll rip out your guts and shove them down your throat!",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Son Yu-jung raised her staff.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Son Yu-jung",
+      "content": "Sure, sure. I'll do whatever you want if I lose.",
+      "tone": "smirking"
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Hahaha!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With a bang, Croseide's face shattered in one blow, and the security forces tensed up.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Croseide",
+      "content": "This...!",
+      "tone": "disbelieving"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In the face of the veteran's defeat, the already ferocious nature of the demons fully awakened.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Graaaah!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ricera's face turned pale.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ricera",
+      "content": "We're finished! They won't stop until hell is gone.",
+      "tone": "desperate"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Son Yu-jung laughed, pulling out her hair.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Son Yu-jung",
+      "content": "Haha! That sounds fun. My great-grandfather almost destroyed the heavens too.",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Her hair glowed and wriggled.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Son Yu-jung",
+      "content": "Magic of Transformation.",
+      "tone": "proud"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Thousands of Son Yu-jungs were born in the sky and began to scatter in all directions.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Son Yu-jung",
+      "content": "Kyaahaha! Try to catch me!",
+      "tone": "mischievous"
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "The entire city echoed with the mischievous laughter of monkeys.",
+      "tone": null
+    }
+  ],
+  "source_hash": "25184fb720278af332379f095a189f86d2b4f6e47c12ed65594c9f18c9e87423",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T08:27:08.968144+00:00"
+}

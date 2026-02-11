@@ -1,0 +1,679 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After purifying Mercede into pure magic, Marguerite opened the storage room door.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "Come out.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian emerged from the unpurified body, one eye closed.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He didn't know the details of their conversation, but he could sense from the Duke's eyes that someone had died.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Rian exited the storage room, Marguerite busily gathered experimental tools.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "This was originally Mercede's task.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "We don't have much time. I had intended to study you in depth, but we must begin the modifications immediately.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Lethe would return.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Why are you doing this?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "…What do you mean?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "The succubus is dead, and Lethe has left. She must have been important to you.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "That's precisely why I'm saying this. When the president returns, it won't be like this. This is the final warning. It's the last favor she's granting us.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "That's what I want to say.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Rian",
+      "content": "Rian felt uneasy.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "If Lethe is like Satan, she wouldn't leave over something like this. She's being sincere. You know this, so why are you helping us?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Hmm.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marguerite paused.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "Lady Lethe is a good person. She's cold and fair, but she's also kind. That doesn't fit well with hell. But you mustn't forget, Lady Lethe is not a demon.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "She's the manager of this world. She's fundamentally different from us, even from Satan.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "But that doesn't change her feelings.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Feelings?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marguerite chuckled.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "Then tell me. I honestly don't know. When Mercede died, Lady Lethe stepped back despite the perilous situation for hell. Was that feelings? Or…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A terrible truth.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Is she programmed that way?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "The president said she sent the chief secretary Monoras to discuss your error. But he didn't come, and Yahweh arrived first. Do you think that's luck? I don't. Because Monoras is also a manager.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "What do you mean…",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "How can a human who lives only a few decades understand the grand order? But your master might have some suspicions. That's the level of mental ability. What I'm saying is, where does reality end and illusion begin?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marguerite checked Rian's scan information.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "Your abilities are based on the master identity code of this world. The chains of Gehenna broke because that authority transcended the system, causing an error. So, are you from the outside world?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Rian",
+      "content": "Rian couldn't answer.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "We don't know. That's the limit. Even if the outside world exists, we won't know who we are unless we directly connect with its information. You might be a program too.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "I decide and act on my own will.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "I know. But what if even that is programmed? Understand? We can't conclude this way. But the manager knows who they are. You can define them as you wish, but remember this.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The chains of Gehenna pulled from Rian's chest were held in the Duke's grasp.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "It might be different from what we imagine. That's the 0.5-dimensional wall. If you truly want to protect Yahweh, trust no one.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Rian remained silent, Marguerite examined the broken part of the chain.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "Let's begin.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Stang National Magic School",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone had promised to allow parents to observe Wizard's training under the condition that he would train her.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But perhaps it would have been better if he hadn't made that promise.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mother",
+      "content": "Oh my…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With all the teachers and students watching, Wizard was being bombarded by Shirone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Your reactions are too slow!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The seven-year-old child was repeatedly pushed back by powerful magic that could devastate the area.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Her parents, pale with fear, screamed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mother",
+      "content": "Wizard!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the Photon Cannon exploded, a loud noise echoed, and debris scattered across the wide training ground.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Hoo!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Through the smoke, Wizard could be seen casting a defensive spell and exhaling deeply.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's over.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Everyone thought so, but then Wizard's eyes lit up, and a barrier formed.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Boom!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The air curtain rippled visibly, and Wizard flew through the air and crashed to the ground.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mother",
+      "content": "Wi-Wizard?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After a long time of no movement, Wizard stood up, her broken right arm dangling.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "Haa. Haa.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She muttered softly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "I blocked it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone took another step.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "She broke her limit. Just once more…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At that moment, her mother broke free from the teachers and ran over.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mother",
+      "content": "You bastard!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone turned, her hands grabbed his collar.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mother",
+      "content": "What are you doing to my daughter! Her arm is broken! She's only seven!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You promised to let me handle it. If it's uncomfortable to watch, you don't have to be here.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mother",
+      "content": "Is that why you made that promise? To show this? You misjudged me. I don't need money or anything. End this now.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I can heal her arm. If I cast a spell…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A slap echoed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mother",
+      "content": "Oh my…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the mother, who had slapped Shirone, fumed, the teachers' faces turned pale.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "She's crazy. She hit one of the Five Great Stars.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone had deliberately offered his cheek.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ah.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The mother, coming to her senses, looked at her hand.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mother",
+      "content": "It wasn't because she had hit one of the Five Great Stars, but because she had never hit anyone before.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "My mom would have done the same.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mother",
+      "content": "Mother.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone turned back to her.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Wizard is an exceptional child. Most seven-year-olds would cry if their arm broke. They wouldn't endure it. That means she already understands pain with her mind.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Father",
+      "content": "What do you mean, understanding pain? Wizard isn't crazy. She's too scared to even cry.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's quite the opposite.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's voice rose slightly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's because she's exceptional. She can do it, so I'm making her. The things Wizard is learning now are knowledge imbued with the blood and sweat of countless talents she could never achieve alone. Because she has benefited from it, in a dangerous situation for humanity, she too…",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Must sacrifice herself.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "…I'm sorry.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Bowing his head in apology to the parents, Shirone turned and left the training ground.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mother",
+      "content": "That's it for today.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As no one saw him off, Wizard, who had finished her treatment, approached.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "Mom, Dad, what's going on?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Father",
+      "content": "Wizard!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mother",
+      "content": "Did it hurt a lot? How hard was it?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "Where's brother? Is the training over?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Father",
+      "content": "Yes, it's over. I told him to stop. I'll never leave you with someone like that again.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "Hmm.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Wizard stared at Shirone's retreating figure.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "Thanks, Mom. I almost died this time. But I'm really sorry…",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "Please don't interfere with my training from now on.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Her parents' faces went blank.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Father",
+      "content": "Wi-Wizard? What do you mean…",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "Sorry, I need to go see my brother. I have some questions about today's training.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In a hurry, Wizard broke away from the crowd and followed Shirone.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Bartok",
+      "content": "It's talent that draws her.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Bartok",
+      "content": "The only adult Wizard acknowledged.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Bartok",
+      "content": "Instinctively, she knew that following Shirone closely was the only way to survive.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Bartok",
+      "content": "There's no doubt about her potential, but I was uncertain about her disposition.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Bartok",
+      "content": "When Shirone said she might die, she smiled brightly and agreed.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Bartok",
+      "content": "The time for hesitation was short.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Bartok",
+      "content": "In the mind of a genius, all the tasks she had to handle must have flashed by.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Bartok",
+      "content": "I understand the feelings of the Five Great Stars.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "Brother!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Wizard's cheerful voice came from outside the training ground.",
+      "tone": null
+    }
+  ],
+  "source_hash": "955cc351e00f89f40f9d004f6337454f3ef4b193fed3bdbcfce480bdf8d77b9b",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T08:33:00.385866+00:00"
+}

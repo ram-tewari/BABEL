@@ -1,0 +1,641 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "Arriving at Amy's room, Shirone took a deep breath in front of the door."
+    },
+    {
+      "type": "action",
+      "content": "He listened for any sounds inside but heard nothing."
+    },
+    {
+      "type": "action",
+      "content": "When he knocked on the door, he finally heard the rustling of blankets."
+    },
+    {
+      "type": "action",
+      "content": "Clearing his throat, Shirone announced himself."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's me, Shirone. I'm coming in."
+    },
+    {
+      "type": "action",
+      "content": "The sound of the blankets moving stopped abruptly."
+    },
+    {
+      "type": "action",
+      "content": "When there was no response after a while, Shirone spoke again."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "If you don't open the door, I'll open it myself."
+    },
+    {
+      "type": "action",
+      "content": "There was a loud thud as something fell off the bed, followed by heavy footsteps."
+    },
+    {
+      "type": "action",
+      "content": "The door swung open, and Amy appeared with a flushed face."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "What, what is it? Why are you suddenly causing a commotion?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I heard you were sick, so I was worried. But you're not sick?"
+    },
+    {
+      "type": "action",
+      "content": "Amy sighed."
+    },
+    {
+      "type": "action",
+      "content": "She had long known that clumsy lies wouldn't work on Shirone."
+    },
+    {
+      "type": "action",
+      "content": "She stepped back, indicating for him to come in, and turned towards the bed."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "There seems to be a misunderstanding. I'm not avoiding people; I just wanted to rest and sort out my thoughts."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yeah, I know."
+    },
+    {
+      "type": "action",
+      "content": "Shirone chuckled and closed the door."
+    },
+    {
+      "type": "action",
+      "content": "Hearing the door close, Shakora, who was reading the newspaper, smiled."
+    },
+    {
+      "type": "sfx",
+      "content": "He passed the first hurdle."
+    },
+    {
+      "type": "action",
+      "content": "Isis also shrugged in surprise and headed upstairs with tea."
+    },
+    {
+      "type": "action",
+      "content": "Normally, she would stay in Amy's room and chat with Shirone, but this time she just set the tea tray and left."
+    },
+    {
+      "type": "action",
+      "content": "This meant she was entrusting full authority to Shirone."
+    },
+    {
+      "type": "action",
+      "content": "Sitting across the table from Amy, Shirone couldn't help but laugh when he saw the teacup."
+    },
+    {
+      "type": "action",
+      "content": "He remembered how Amy had sprayed tea on his face half a year ago."
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "But since it was a dark memory for her, she erased it from her mind and picked up the teacup."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "So, what's the matter today? You're not planning to take me to another strange place like last time, are you? I want to rest this vacation."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yeah, that's why I came. To let you rest."
+    },
+    {
+      "type": "action",
+      "content": "Amy looked puzzled."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Let me rest? How?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Let's go on a date."
+    },
+    {
+      "type": "sfx",
+      "content": "Pfffft!"
+    },
+    {
+      "type": "action",
+      "content": "The tea in Amy's mouth sprayed out like a mist, soaking Shirone's face."
+    },
+    {
+      "type": "action",
+      "content": "The spray didn't stop until all the tea in her mouth was gone."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "This is... the second time, I think."
+    },
+    {
+      "type": "action",
+      "content": "Amy, her face red, wiped her lips and stood up."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "What, what are you talking about! You fool!"
+    },
+    {
+      "type": "action",
+      "content": "She wiped her mouth with a tissue from the cabinet and threw a few more at Shirone."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Every winter, there's a festival in the Les Mountains. I've always wanted to go, so I thought we could go together if you're interested."
+    },
+    {
+      "type": "action",
+      "content": "It was certainly unexpected. Shirone, known as a model student, suggesting a trip."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Are you talking about the old castle ruins? The Ice Queen's relics. I know the place. I've never been there because I've been busy."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yeah. Let's go for a 2-night, 3-day trip to refresh ourselves. I've been feeling unmotivated lately and need to recharge. This time, there won't be any dangerous situations, so let's just have fun."
+    },
+    {
+      "type": "action",
+      "content": "Amy rested her chin on her hand and thought."
+    },
+    {
+      "type": "action",
+      "content": "The biggest concern was the 2-night, 3-day trip."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Just you and me, without any friends? Where will we sleep?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "We'll find a place to stay. We can even have discussions at night."
+    },
+    {
+      "type": "action",
+      "content": "Aha..."
+    },
+    {
+      "type": "action",
+      "content": "Amy was at a loss for words."
+    },
+    {
+      "type": "action",
+      "content": "In essence, he was suggesting they share a room, but he said it so confidently that it left no room for suspicion."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Are you...?"
+    },
+    {
+      "type": "action",
+      "content": "Amy started to say something but shook her head."
+    },
+    {
+      "type": "action",
+      "content": "Trying to clarify might just create unnecessary trouble."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Why? Is there something bothering you? I think..."
+    },
+    {
+      "type": "action",
+      "content": "No, it's fine. Wait outside. I'll get ready and come out. If you tell Dad we're going there, he'll arrange a carriage."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Okay, I'll wait downstairs."
+    },
+    {
+      "type": "action",
+      "content": "When Shirone came out sooner than expected, Shakora and Isis looked at him curiously."
+    },
+    {
+      "type": "action",
+      "content": "But after hearing Shirone's explanation, they quickly understood."
+    },
+    {
+      "type": "action",
+      "content": "Oh, the Ice Queen's relics..."
+    },
+    {
+      "type": "action",
+      "content": "Shakora reminisced about his younger days."
+    },
+    {
+      "type": "action",
+      "content": "When he was dating Isis, he had taken her to the Ice Queen's relics as a date spot."
+    },
+    {
+      "type": "action",
+      "content": "It's a beautiful place. Romantic."
+    },
+    {
+      "type": "action",
+      "content": "Yes, I've heard that. But I heard it takes some time to see everything."
+    },
+    {
+      "type": "action",
+      "content": "Shakora laughed heartily."
+    },
+    {
+      "type": "action",
+      "content": "That's part of the charm. You can't see it all in one day."
+    },
+    {
+      "type": "action",
+      "content": "Alright, go ahead. I'll arrange a carriage. If you leave now, you'll arrive by morning."
+    },
+    {
+      "type": "action",
+      "content": "Shirone sighed in relief internally."
+    },
+    {
+      "type": "action",
+      "content": "As parents, they would naturally worry about sending their daughter off alone with a boy. But Shakora even gave advice."
+    },
+    {
+      "type": "action",
+      "content": "When you get to the old castle ruins, look for a place called Snow Crystal. My wife and I stayed there. You'll make good memories."
+    },
+    {
+      "type": "action",
+      "content": "Isis looked at her husband in disbelief."
+    },
+    {
+      "type": "action",
+      "content": "She seemed about to say something, but Amy came out of her room, and the moment passed."
+    },
+    {
+      "type": "action",
+      "content": "Shirone, let's go. Dad, I'm going to the winter festival."
+    },
+    {
+      "type": "action",
+      "content": "Amy, wearing a red winter coat with rabbit fur, came down the stairs."
+    },
+    {
+      "type": "action",
+      "content": "Her hair was still steaming from how quickly she had dried it."
+    },
+    {
+      "type": "action",
+      "content": "Knowing that Amy wasn't one to dress up, Isis was quite surprised by her transformation."
+    },
+    {
+      "type": "action",
+      "content": "Shirone, too, was momentarily mesmerized by Amy's more mature appearance compared to how she looked at school."
+    },
+    {
+      "type": "action",
+      "content": "Then he came to his senses and greeted her parents."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Then, we'll be off."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shakora",
+      "content": "Alright, take care."
+    },
+    {
+      "type": "action",
+      "content": "Since it took over 10 hours to reach the Les Mountains, they had to leave now to arrive by morning."
+    },
+    {
+      "type": "action",
+      "content": "As Shirone and Amy left the mansion, Isis squinted at her husband."
+    },
+    {
+      "type": "action",
+      "content": "Snow Crystal?"
+    },
+    {
+      "type": "action",
+      "content": "Why? What's wrong with that place?"
+    },
+    {
+      "type": "action",
+      "content": "Are you serious? Do you remember how we ended up getting married? It was because you seduced me there...!"
+    },
+    {
+      "type": "action",
+      "content": "Haha! Was it? Anyway, you enjoyed it too."
+    },
+    {
+      "type": "action",
+      "content": "Isis put her hands on her hips and sighed."
+    },
+    {
+      "type": "action",
+      "content": "It seemed Shakora didn't grasp the seriousness of the situation."
+    },
+    {
+      "type": "action",
+      "content": "What are you thinking?"
+    },
+    {
+      "type": "action",
+      "content": "If we're going to use shock therapy, we might as well do it right."
+    },
+    {
+      "type": "action",
+      "content": "When the blood rushes to the head and then comes down, it clears the mind."
+    },
+    {
+      "type": "action",
+      "content": "And if it doesn't come down?"
+    },
+    {
+      "type": "action",
+      "content": "That's for Amy to decide. At eighteen, she's an adult. It's her body, so she should make her own decisions."
+    },
+    {
+      "type": "action",
+      "content": "Isis shook her head."
+    },
+    {
+      "type": "action",
+      "content": "The Karmis family's characteristic of producing exceptional talent in any chosen field meant that the family had always valued individual freedom over strict rules and regulations."
+    },
+    {
+      "type": "action",
+      "content": "Letting talent flow naturally, they believed that whatever path was chosen, it would lead to mastery."
+    },
+    {
+      "type": "action",
+      "content": "The wide spectrum of professions within the family was the Karmis family's greatest strength."
+    },
+    {
+      "type": "action",
+      "content": "The moment rules and oppression were introduced, talent would be stifled."
+    },
+    {
+      "type": "action",
+      "content": "Shakora, knowing this better than anyone, had given Amy freedom from a young age, even though it had led to some wayward behavior."
+    },
+    {
+      "type": "action",
+      "content": "But if this was the history of the Karmis family, Isis had no choice but to accept it."
+    },
+    {
+      "type": "action",
+      "content": "Are you sure you can handle the consequences? If you change your mind or blame Amy later, I'll be really angry."
+    },
+    {
+      "type": "action",
+      "content": "Handle the consequences? Why would I do that?"
+    },
+    {
+      "type": "action",
+      "content": "Shakora spread out the newspaper and pretended to read. He had already erased thoughts of his daughter from his mind."
+    },
+    {
+      "type": "action",
+      "content": "Shirone will handle it."
+    },
+    {
+      "type": "narrator",
+      "content": "The northern hemisphere of Heaven."
+    },
+    {
+      "type": "narrator",
+      "content": "The eternal frozen tundra."
+    },
+    {
+      "type": "narrator",
+      "content": "In Heaven, it is called Optros."
+    },
+    {
+      "type": "narrator",
+      "content": "It was an electromagnetic network pattern that drifted on the cold northern winds for eons."
+    },
+    {
+      "type": "narrator",
+      "content": "The fact that the pattern of information exchange was close to infinite meant that it was, in some sense, a divine existence."
+    },
+    {
+      "type": "narrator",
+      "content": "However, Optros could not become a god."
+    },
+    {
+      "type": "narrator",
+      "content": "For Optros, born in the tundra, Heaven's environment was a dull and boring place without stimulation."
+    },
+    {
+      "type": "narrator",
+      "content": "Without stimulation, there is no learning."
+    },
+    {
+      "type": "narrator",
+      "content": "Just like a baby abandoned in the mountains would become a beast if it never left the mountains."
+    },
+    {
+      "type": "narrator",
+      "content": "Thus, Optros had lived for countless years, repeating meaningless and simple information exchanges."
+    },
+    {
+      "type": "narrator",
+      "content": "Then one day, a crack appeared in Miro's space-time."
+    },
+    {
+      "type": "narrator",
+      "content": "A small change that living creatures could not even perceive."
+    },
+    {
+      "type": "narrator",
+      "content": "But for Optros, it was as thrilling and immense a stimulus as birth and death."
+    },
+    {
+      "type": "narrator",
+      "content": "A massive aurora spread across the tundra sky from the magnetic field emitted by Optros."
+    },
+    {
+      "type": "narrator",
+      "content": "A three-second crack in Miro's space-time."
+    },
+    {
+      "type": "narrator",
+      "content": "Optros broke through the gap and escaped into a new world."
+    },
+    {
+      "type": "narrator",
+      "content": "The first destination was the Les Mountains."
+    },
+    {
+      "type": "narrator",
+      "content": "The electromagnetic network that constituted it absorbed the unfamiliar environment rapidly, like the brain of a newborn child."
+    },
+    {
+      "type": "narrator",
+      "content": "The place where Optros could gather the most information was the castle ruins located halfway up the Les Mountains."
+    },
+    {
+      "type": "narrator",
+      "content": "Countless humans were wandering around, all explosively spreading information."
+    },
+    {
+      "type": "narrator",
+      "content": "At a level even it did not recognize, Optros instinctively absorbed all the information."
+    },
+    {
+      "type": "narrator",
+      "content": "The electromagnetic network flashed with infinite patterns, pioneering new territories."
+    },
+    {
+      "type": "system_notification",
+      "content": "Γùå Γùå Γùå"
+    },
+    {
+      "type": "action",
+      "content": "At dawn, Shirone and Amy arrived at the Les Mountains, grabbed a meal at a food stall, and joined the crowd at the ticket booth of the old castle ruins."
+    },
+    {
+      "type": "action",
+      "content": "The entrance to the ticket booth was also crowded with tourists."
+    },
+    {
+      "type": "action",
+      "content": "After waiting in line and buying tickets, Shirone's eyes widened at the sight before him."
+    },
+    {
+      "type": "action",
+      "content": "Wow..."
+    },
+    {
+      "type": "action",
+      "content": "The old castle ruins had been perfectly restored using ice instead of stone or soil."
+    },
+    {
+      "type": "action",
+      "content": "The sunlight reflected off the ice, making every scene sparkle like diamonds."
+    },
+    {
+      "type": "action",
+      "content": "Even the usually bold Amy blushed at the sight."
+    },
+    {
+      "type": "action",
+      "content": "Shirone was satisfied."
+    },
+    {
+      "type": "action",
+      "content": "When he had taken her to the Galliant ruins, things had gone wrong from the start. They had fought the Parrot Mercenaries and even followed them to Heaven, narrowly escaping death."
+    },
+    {
+      "type": "action",
+      "content": "Determined to make up for the hardships of that time, he vowed to make this a fun trip."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Let's go. This looks fun."
+    },
+    {
+      "type": "action",
+      "content": "Shirone and Amy walked through the snowfield."
+    },
+    {
+      "type": "action",
+      "content": "The rainbow bridges connecting the towers, the railings along the battlements, and the stairs inside the castle were all made of ice."
+    },
+    {
+      "type": "sfx",
+      "content": "'This is why they call it the winter festival.'"
+    },
+    {
+      "type": "action",
+      "content": "When the temperature rose, the structures would collapse, so the ruins had to be closed by early spring."
+    },
+    {
+      "type": "action",
+      "content": "Eventually, when summer came, the ice would melt away, leaving only the desolate remnants of the castle."
+    },
+    {
+      "type": "action",
+      "content": "Like winter memories that were a midsummer night's dream."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Shirone, let's try that."
+    },
+    {
+      "type": "action",
+      "content": "Amy pointed to a makeshift stall selling ice snacks, a specialty of the winter festival."
+    },
+    {
+      "type": "action",
+      "content": "Shirone put the cold ice snack in his mouth and chewed. It was made by freezing white snow with strawberry syrup, combining a crunchy texture with a sweet strawberry flavor."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Alright, we got our snacks. Where should we go first?"
+    },
+    {
+      "type": "action",
+      "content": "Of course, we should start by seeing the Ice Queen."
+    },
+    {
+      "type": "action",
+      "content": "Amy led Shirone to the main castle."
+    },
+    {
+      "type": "action",
+      "content": "The main castle was the least damaged part of the ruins. It had a 120-pyeong hall with staircases on both wings, but the left staircase had collapsed long ago and had been restored with ice sculptures."
+    },
+    {
+      "type": "action",
+      "content": "Would it be strange if it was warm enough not to melt the ice? With people gathered, it was definitely warmer than outside."
+    },
+    {
+      "type": "action",
+      "content": "Shirone and Amy entered the 1.5-floor corridor connecting the staircases. The Ice Queen was positioned at the central railing protruding towards the hall."
+    },
+    {
+      "type": "action",
+      "content": "Shirone approached the Ice Queen. Inside a massive block of ice stood a beautiful woman with her eyes closed."
+    }
+  ],
+  "source_hash": "a1d55b0257a4bc9d93c90c97eb8bc34048a90c9cbe5892e75794662ec0359257",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T04:38:48.628321Z"
+}

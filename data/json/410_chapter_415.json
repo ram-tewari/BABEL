@@ -1,0 +1,603 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "Shirone and his group headed towards the mainland."
+    },
+    {
+      "type": "action",
+      "content": "Although traveling on Zulu's summoned creature would be faster, it wasn't a good choice given the current conflict in Purgatory."
+    },
+    {
+      "type": "action",
+      "content": "The skies of Heaven were filled with angels, Maras, and drones, so they wanted to avoid being detected from a distance beyond Etella's spirit zone radius."
+    },
+    {
+      "type": "action",
+      "content": "Contrary to their expectations, the Forest of the Profane was eerily quiet."
+    },
+    {
+      "type": "action",
+      "content": "They had imagined angels patrolling the skies, dealing with heretics and rebels, but this was not the case."
+    },
+    {
+      "type": "thought",
+      "speaker": "Kangnam",
+      "content": "How should we interpret this? An unexpected change? Or evidence that the rebels have been wiped out?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sein",
+      "content": "Either is possible."
+    },
+    {
+      "type": "thought",
+      "speaker": "Plu",
+      "content": "Is it possible for the forest to be quiet if the rebels haven't been wiped out?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sein",
+      "content": "Logically, no. But if you think about it, Miro's disappearance is the same. Anything can happen. We have to consider that for now."
+    },
+    {
+      "type": "narrator",
+      "content": "Sein was feeling the same unease he had felt in Miro's spacetime."
+    },
+    {
+      "type": "narrator",
+      "content": "In fact, the unexpected situation in Purgatory only heightened his anxiety."
+    },
+    {
+      "type": "thought",
+      "speaker": "Sein",
+      "content": "'This is something I've been planning for 20 years. So why is it going wrong?'"
+    },
+    {
+      "type": "thought",
+      "speaker": "Sein",
+      "content": "Should he trust his current instincts?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Sein",
+      "content": "Perhaps it was just a coincidence. Anyone could match the cause to the result after the fact."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sein",
+      "content": "Don't overthink it. Just calculate both scenarios. I can do it."
+    },
+    {
+      "type": "action",
+      "content": "Etella said, stopping and turning to the right."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etella",
+      "content": "Someone's there."
+    },
+    {
+      "type": "narrator",
+      "content": "It wasn't something she sensed nearby. Information was flowing in from her spirit zone, which covered a 2-kilometer radius."
+    },
+    {
+      "type": "action",
+      "content": "About 20 individuals were moving with agility beyond the norm."
+    },
+    {
+      "type": "action",
+      "content": "The sounds of weapons clashing and explosions were transmitted through her synesthesia."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etella",
+      "content": "It seems they're in combat. About 800 meters away."
+    },
+    {
+      "type": "action",
+      "content": "Plu glanced at Gaold and asked, \"Shall we check it out?\""
+    },
+    {
+      "type": "action",
+      "content": "She needed approval to increase their mobility."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Check it out."
+    },
+    {
+      "type": "action",
+      "content": "As soon as the order was given, the entire team vanished in a flash."
+    },
+    {
+      "type": "action",
+      "content": "Zulu took charge of moving Kuan and Kangnam, and except for Shirone, everyone was a professional, so navigating the complex forest was no problem."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "How much training does it take to move like that?"
+    },
+    {
+      "type": "action",
+      "content": "When they arrived, the previous silence was replaced by a cacophony of noise filling the forest."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mecha tribe",
+      "content": "Chase them! Rip out their hearts!"
+    },
+    {
+      "type": "sfx",
+      "content": "Kyaaaah!"
+    },
+    {
+      "type": "action",
+      "content": "The Kergo tribe, clad in black armor, were emitting their characteristic shrieks as they pursued the Mecha tribe."
+    },
+    {
+      "type": "action",
+      "content": "Their movements, in harmony with their mounts, were like a storm, but the Mecha tribe was not easily caught."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "What is that?"
+    },
+    {
+      "type": "action",
+      "content": "The Mecha tribe's mobility came from mechanical devices connected to a skeletal frame outside their bodies."
+    },
+    {
+      "type": "action",
+      "content": "The frame extended from their shoulders to their arms, down their spines, and to their legs."
+    },
+    {
+      "type": "action",
+      "content": "With each movement, the joints clicked and whirred, propelling them 5 to 6 meters with each leap."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kuan",
+      "content": "Strength augmentation device, Piper. They're Mecha tribe combat soldiers."
+    },
+    {
+      "type": "action",
+      "content": "The Mecha tribe moved through the forest as if they had springs on their feet."
+    },
+    {
+      "type": "action",
+      "content": "But the Kergo tribe were also excellent hunters."
+    },
+    {
+      "type": "action",
+      "content": "One of them, driving the Mecha tribe into a trap, suddenly leaped from the forest and swung a sword."
+    },
+    {
+      "type": "sfx",
+      "content": "Hup!"
+    },
+    {
+      "type": "action",
+      "content": "A Mecha soldier raised an exd."
+    },
+    {
+      "type": "action",
+      "content": "A holographic shield spread out, creating a shockwave, but the Kergo warrior's strength was slightly superior, and the soldier staggered and fell."
+    },
+    {
+      "type": "action",
+      "content": "The Mecha soldiers gathered around their fallen comrade, looking around."
+    },
+    {
+      "type": "action",
+      "content": "The Kergo tribe had blocked their retreat and were emerging from all sides."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mecha tribe",
+      "content": "This is Recon Team 2. We're surrounded by the Kergo tribe. Requesting support."
+    },
+    {
+      "type": "action",
+      "content": "There was no response."
+    },
+    {
+      "type": "thought",
+      "speaker": "Mecha tribe",
+      "content": "But given the nature of radio communication, she couldn't be sure the request hadn't gone through."
+    },
+    {
+      "type": "thought",
+      "speaker": "Mecha tribe",
+      "content": "'Please, please...'"
+    },
+    {
+      "type": "action",
+      "content": "From 20 meters away, Shirone's group watched the situation."
+    },
+    {
+      "type": "action",
+      "content": "The Kergo tribe prided themselves on their pursuit skills, but they were powerless against Sein's Equilibrium."
+    },
+    {
+      "type": "action",
+      "content": "Even their breathing was reduced to a silent level by the Iron Wheel Eyes, rendering their senses useless."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnam",
+      "content": "Which side do we choose? Kergo or Mecha?"
+    },
+    {
+      "type": "action",
+      "content": "This was the first crossroads they faced in Heaven."
+    },
+    {
+      "type": "action",
+      "content": "The citizens were divided into three tribes: Kergo, Mecha, and Nor, each with different combat methods, cultures, and mindsets."
+    },
+    {
+      "type": "action",
+      "content": "Choosing the starting tribe would significantly impact their journey to Miro, so they needed to be cautious."
+    },
+    {
+      "type": "sfx",
+      "content": "Rustle."
+    },
+    {
+      "type": "action",
+      "content": "A Kergo warrior patrolling the perimeter of the formation appeared."
+    },
+    {
+      "type": "action",
+      "content": "The warrior's eyes widened in shock."
+    },
+    {
+      "type": "action",
+      "content": "It was natural to be surprised by the sudden appearance of 10 people in a place where even sensory schemas had detected nothing."
+    },
+    {
+      "type": "action",
+      "content": "His head snapped towards his comrades, and he took a deep breath to shout."
+    },
+    {
+      "type": "sfx",
+      "content": "Ye..."
+    },
+    {
+      "type": "action",
+      "content": "Gaold's hand moved swiftly."
+    },
+    {
+      "type": "sfx",
+      "content": "Gii..."
+    },
+    {
+      "type": "action",
+      "content": "With a thud, the Kergo warrior's head flew off."
+    },
+    {
+      "type": "action",
+      "content": "Shirone and Plu stared blankly at the headless, trembling muscular body before snapping back to reality."
+    },
+    {
+      "type": "narrator",
+      "content": "Suppressing emotions and acting rationally was a normal human response, but Gaold's reaction had been purely mechanical."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "In any situation, if you think you need to kill someone, do it. I'll handle the consequences. Even if it's the wrong choice, there's no worse situation than a team member dying."
+    },
+    {
+      "type": "narrator",
+      "content": "It was essentially Gaold issuing a license to kill."
+    },
+    {
+      "type": "narrator",
+      "content": "It was a thoroughly correct approach for team survival, but saying he wouldn't question the right or wrong of decisions was something only Gaold, who could crush any situation with force, could say."
+    },
+    {
+      "type": "narrator",
+      "content": "This was almost the only reason he was chosen as the team's commander."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnam",
+      "content": "So, we're choosing the Mecha tribe?"
+    },
+    {
+      "type": "action",
+      "content": "There were many values more important than another's death, but the Kergo tribe was an organization bound by divine law."
+    },
+    {
+      "type": "action",
+      "content": "Having already killed one, the barrier to compromise was now higher with the Kergo than with the Mecha."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "For Anke La!"
+    },
+    {
+      "type": "action",
+      "content": "Gaold's eyes twitched in displeasure."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "We're going with the Mecha."
+    },
+    {
+      "type": "action",
+      "content": "As soon as he spoke, Kuan sprang into action. This was a job for a hitman."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kuan",
+      "content": "Squad leader! We'll be wiped out at this rate!"
+    },
+    {
+      "type": "action",
+      "content": "The Mecha tribe was barely holding on, taking a beating."
+    },
+    {
+      "type": "action",
+      "content": "The Piper augmented their strength, but it was limited to large muscles, making it nearly impossible to win a close-quarters battle against the Kergo warriors, whose entire bodies were weapons."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mecha tribe",
+      "content": "Retreat! I'll hold them off!"
+    },
+    {
+      "type": "action",
+      "content": "The squad leader charged into the fray."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kergo tribe",
+      "content": "Cut off that woman's limbs and bring her torso!"
+    },
+    {
+      "type": "action",
+      "content": "The mere words made her teeth chatter."
+    },
+    {
+      "type": "action",
+      "content": "She wanted to run, but the Kergo warriors were already leaping to cut off her arms."
+    },
+    {
+      "type": "sfx",
+      "content": "Whoosh!"
+    },
+    {
+      "type": "action",
+      "content": "A powerful gust of wind swept past the Kergo warrior."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kergo tribe",
+      "content": "What...!"
+    },
+    {
+      "type": "action",
+      "content": "The Kergo warriors' heads popped off their bodies like corks from bottles."
+    },
+    {
+      "type": "thought",
+      "speaker": "Kuan",
+      "content": "Seven left."
+    },
+    {
+      "type": "action",
+      "content": "Spinning in midair, Kuan identified the remaining enemies."
+    },
+    {
+      "type": "action",
+      "content": "He had killed six with one strike, and no one knew there had been twelve subtle changes in that strike."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kuan",
+      "content": "An enemy! Kill him!"
+    },
+    {
+      "type": "action",
+      "content": "Only after losing half their strength did the Kergo tribe realize the attacker's presence and moved."
+    },
+    {
+      "type": "action",
+      "content": "Kuan's body continued its strange movements, bound by threads of external force extending in three directions."
+    },
+    {
+      "type": "action",
+      "content": "He swung like a pendulum, then suddenly shot forward, spraying blood from the bodies of four warriors he passed."
+    },
+    {
+      "type": "thought",
+      "speaker": "Kuan",
+      "content": "Three left."
+    },
+    {
+      "type": "action",
+      "content": "Another warrior's head was severed."
+    },
+    {
+      "type": "thought",
+      "speaker": "Kuan",
+      "content": "Two."
+    },
+    {
+      "type": "action",
+      "content": "The enraged Kergo squad leader's eyes widened."
+    },
+    {
+      "type": "action",
+      "content": "They also used external force, but only as a supplementary means to cut enemies. Kuan's bizarre movements, which felt like mockery, were a first."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kergo tribe",
+      "content": "Don't mock Kergo's techniques!"
+    },
+    {
+      "type": "action",
+      "content": "As the squad leader swung his crescent blade, Kuan's path curved like magnets repelling each other, and he flew past the leader."
+    },
+    {
+      "type": "sfx",
+      "content": "Haha! Got you!"
+    },
+    {
+      "type": "action",
+      "content": "A warrior with a ponytail, who had been lying in wait, swung his sword at the incoming Kuan."
+    },
+    {
+      "type": "sfx",
+      "content": "Huh?"
+    },
+    {
+      "type": "action",
+      "content": "But there was no resistance."
+    },
+    {
+      "type": "action",
+      "content": "Looking up, he saw Kuan floating in midair, unmoving."
+    },
+    {
+      "type": "action",
+      "content": "Kuan glared at the ponytailed warrior in annoyance, then slowly turned his gaze aside."
+    },
+    {
+      "type": "action",
+      "content": "Simultaneously, his body spun like a top, drawing him towards the squad leader as if winding a thread."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mecha tribe",
+      "content": "Captain! Behind you!"
+    },
+    {
+      "type": "action",
+      "content": "Before the squad leader could react, Kuan's sword took his head."
+    },
+    {
+      "type": "action",
+      "content": "As the external force dissipated, Kuan landed and spun, throwing his sword."
+    },
+    {
+      "type": "action",
+      "content": "The sword flew faster than an arrow, piercing the falling ponytailed warrior's chest and pinning him to a tree."
+    },
+    {
+      "type": "action",
+      "content": "With the Kergo tribe annihilated, the forest fell silent."
+    },
+    {
+      "type": "action",
+      "content": "The dazzling battle had lasted barely five seconds."
+    },
+    {
+      "type": "action",
+      "content": "Shirone's group finally entered the scene."
+    },
+    {
+      "type": "thought",
+      "speaker": "Kuan",
+      "content": "Damn it! How much of a mess have I become?"
+    },
+    {
+      "type": "action",
+      "content": "In the past, he would have cut them all down before a single breath of external force ended."
+    },
+    {
+      "type": "action",
+      "content": "But now, one remained, and the last one was dealt with using an improvised throw."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Mr. Kuan, are you okay? Are you injured...?"
+    },
+    {
+      "type": "action",
+      "content": "As Siena approached, Kuan quickly wiped the expression from his face."
+    },
+    {
+      "type": "thought",
+      "speaker": "Kuan",
+      "content": "He had no desire for her sympathy."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kuan",
+      "content": "I'm sorry. It seems my balance isn't perfect yet."
+    },
+    {
+      "type": "action",
+      "content": "Siena tilted her head in confusion."
+    },
+    {
+      "type": "thought",
+      "speaker": "Siena",
+      "content": "As a mage, she couldn't possibly understand what Kuan had done wrong."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "You were amazing. I haven't seen much swordsmanship, but I feel like my perspective has broadened."
+    },
+    {
+      "type": "action",
+      "content": "To Kuan, her words were embarrassing."
+    },
+    {
+      "type": "action",
+      "content": "He just gave a bitter smile and walked past her, leaving Siena to wonder if she had made a mistake."
+    },
+    {
+      "type": "action",
+      "content": "Meanwhile, the Mecha tribe gripped their weapons nervously as Gaold approached."
+    },
+    {
+      "type": "action",
+      "content": "Although these newcomers had saved their lives, it was difficult to clearly identify friend from foe in Purgatory."
+    },
+    {
+      "type": "action",
+      "content": "Moreover, if a single swordsman had wiped out the Kergo squad, they were clearly outmatched in terms of skill."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mecha tribe",
+      "content": "Who are you? Heretics?"
+    },
+    {
+      "type": "action",
+      "content": "Gaold looked at Sein."
+    },
+    {
+      "type": "action",
+      "content": "Some team members knew the language of Heaven, but more than half needed translation."
+    },
+    {
+      "type": "action",
+      "content": "As Sein's mental magic translated the woman's words, Gaold took another step forward."
+    },
+    {
+      "type": "action",
+      "content": "At the same time, the Mecha tribe flinched and stepped back."
+    },
+    {
+      "type": "action",
+      "content": "The Pipers attached to their bodies clicked and whirred, adjusting the angles of their joint connections with each movement."
+    }
+  ],
+  "source_hash": "a7b966cc4bbacff9ec93f0d794d38133c48a4cca0f9921979d6cb2daee11e9bc",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T06:06:59.217637Z"
+}

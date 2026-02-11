@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\google\ai\generativelanguage_v1beta\services\model_service\transports\rest_base.py
+# hypothesis_version: 6.148.8
+
+['$alt', '/v1beta/models', '/v1beta/tunedModels', 'body', 'delete', 'get', 'https', 'method', 'patch', 'post', 'query_params', 'scheme', 'tuned_model', 'uri']

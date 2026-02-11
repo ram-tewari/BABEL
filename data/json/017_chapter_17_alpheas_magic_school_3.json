@@ -1,0 +1,811 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheas Magic School (3)",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vincent",
+      "content": "Of course, that's out of the question. I am my father's son. I will never become someone else's adopted child.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Sh-Shirone.",
+      "tone": "calm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Vincent's voice trembled with emotion.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "His son's tone left no room for doubt. No, it even carried a hint of displeasure at being asked such a thing.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The family members were taken aback by Shirone's firm stance.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was a difficult issue, but such a clear answer meant there wasn't even a shred of conflict in his heart.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Klump, his demeanor now cold, fixed his gaze on Shirone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Klump",
+      "content": "Are you truly sure? This is a golden opportunity to become a noble. Not everyone gets such luck.",
+      "tone": "skeptical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "If it means changing fathers, I'd rather live as a commoner.",
+      "tone": "resolute"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Klump",
+      "content": "Commoners can't enter magic school.",
+      "tone": "matter-of-fact"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Then I won't enter magic school.",
+      "tone": "firm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Klump",
+      "content": "If you don't enter magic school, you can't become a mage.",
+      "tone": "logical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Then I won't become a mage.",
+      "tone": "unwavering"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Klump",
+      "content": "Shirone!",
+      "tone": "exasperated"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Klump shot to his feet, his eyes blazing.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone's stubbornness frustrated him. For a boy whose mind usually worked so swiftly, why was he being so obstinate about such a simple matter?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Klump",
+      "content": "Is it guilt holding you back? The world isn't so forgiving. To succeed, sometimes you must give things up. Or is your dream so trivial?",
+      "tone": "accusatory"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Perhaps it is.",
+      "tone": "calm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Klump",
+      "content": "What?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No matter how grand my dream may be, it's something I inherited from my parents. They are the roots that nourish me, allowing me to dream. Every opportunity I've had—being accepted by the Ozent family, becoming a butler, even learning to read—was possible because of my parents. Compared to the infinite opportunities they've given me, this single chance is nothing. To deny those roots now and seek nourishment elsewhere is no different from telling me to wither and die.",
+      "tone": "passionate"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The living room fell silent.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But a storm raged in everyone's hearts.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Reina wiped away tears, and Rian smiled with pride for his friend.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Klump's eyes wavered as he looked down at Shirone.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Klump",
+      "content": "How can such a child exist...?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He was the one who had misjudged. Had he been wrong from the start? Even without anyone's help, wouldn't this boy have become a mage regardless?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "His potential was vast—no, infinite. Even the honor of the Ozent family was just a fleeting opportunity for him.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "No one could hold him. Not unless he chose to hold them first.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After persuading everyone, Shirone finally smiled.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I appreciate the offer. But I cannot accept it. My parents are the two people here in this room.",
+      "tone": "grateful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vincent",
+      "content": "Please... accept Shirone into the Ozent family.",
+      "tone": "pleading"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Father.",
+      "tone": "calm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Vincent shut his eyes tightly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vincent",
+      "content": "Please accept Shirone as your adopted son! I beg you!",
+      "tone": "desperate"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "No one thought Vincent was a pathetic parent. They would have done the same for their own families.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Klump",
+      "content": "I understand your feelings, but there's nothing we can do. After such words from your son, how could we disregard his heart?",
+      "tone": "empathetic"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vincent",
+      "content": "Shirone... Shirone isn't actually our child.",
+      "tone": "revelatory"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Everyone's eyes widened at Vincent's revelation.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But no one was more shocked than Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It wasn't just about the secret of his birth. Anyone here could have guessed it vaguely. His appearance and build were completely different from his parents'.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But this statement went beyond paperwork—it was a matter of the parent-child bond. For his son's dream, Vincent was willing to give up being his father.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vincent",
+      "content": "My wife and I can't have children. Shirone came to us by chance. As you've seen, he's clearly a noble's child. He's too good for a son like me. Becoming a noble's adopted child would be him finding his rightful place, not denying his roots.",
+      "tone": "explanatory"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The logic was sound, so the room fell into deep thought.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But Shirone, looking hurt, shouted.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Dad!",
+      "tone": "anguished"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vincent",
+      "content": "Sh-Shirone?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What are you doing? How could you say such a thing without discussing it with me? You've never mentioned this before!",
+      "tone": "indignant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vincent",
+      "content": "S-sorry, Shirone. The reason I didn't tell you—",
+      "tone": "apologetic"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Do you know why I never asked? Because everyone has only one father. And one mother. How many parents do you plan to give me? Thanks to you, I might end up with six!",
+      "tone": "exasperated"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Vincent was stunned.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Two adoptive parents, his current two, and the two who abandoned him—six in total.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Seeing it that way, he realized the absurdity of what he was doing to his child.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vincent",
+      "content": "I-I just didn't want you to give up your dreams because of me—",
+      "tone": "defensive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Who's giving up? Opportunities will come again and again! Do you have any idea how it feels to be abandoned by your parents twice?",
+      "tone": "anguished"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tears welled in Shirone's eyes.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Vincent finally understood.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Vincent",
+      "content": "He had forgotten, blinded by his son's intelligence and depth, that his boy was only 17.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vincent",
+      "content": "Shirone, I'm sorry! What have I done? I'll never entrust you to anyone else. I'll make sure your dreams come true!",
+      "tone": "reconciliatory"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Dad!",
+      "tone": "tender"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Vincent hugged Shirone tightly, and the boy buried his face in his father's chest, wiping away tears.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "How scared he must have been. How hurt, hiding his feelings as the deep-thinking child he was.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Ozent family watched the reunion warmly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Family Head Bishop, especially moved, was a father who had raised four children alone after losing his wife early.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Bishop quietly said to Klump:",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bishop",
+      "content": "It seems we have no choice but to ask for your help, Father.",
+      "tone": "resigned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Klump",
+      "content": "Demanding favors from an old man like me? Even the scholarly families are at a loss against Alpheas's stubbornness.",
+      "tone": "skeptical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Klump groaned and shook his head.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But his expression wasn't entirely displeased—he seemed to have some confidence.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Klump",
+      "content": "Then, as family head, I'll issue an order. Let's try to break through the special admissions process. I hear there's an old debt between you.",
+      "tone": "resolute"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bishop",
+      "content": "Hmph! That old geezer owes me more than one or two favors. The problem is, he's not the type to bend the rules.",
+      "tone": "exasperated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Klump",
+      "content": "Is it absolutely impossible?",
+      "tone": "inquisitive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bishop",
+      "content": "Kuk. Who knows? For a stickler like him, brute force might be the only way.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Bishop smiled silently.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He remembered his own predicament—being forced into the family head position by that very 'brute force.'",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "◆ ◆ ◆",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone stayed with the Ozent family until Rian's departure.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Whether he would pass the special admissions process was uncertain, but even if he did, enrollment would begin early next year, leaving him six months to spend with his parents.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At the Ozent family's main gate, an antique four-horse carriage awaited departure.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It would take the family to the royal capital.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian was already aboard, and Klump would join them midway after meeting with Alpheas, the magic school's headmaster.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian, reluctant to part with Shirone, shed tears.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Whether magic school or swordsmanship school, the duration wasn't fixed. Without passing the graduation exam, one could spend years there, making their reunion uncertain.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Shirone, you must become a mage! I'll write to you!",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Got it. It's not like we'll never see each other again—you can visit sometimes. Stop crying.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "You'll definitely graduate! I guarantee it!",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Reina smacked her foolish younger brother's head.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "You focus on graduating! You're the one I'm worried about!",
+      "tone": "exasperated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Oww! I'll work hard too! I'll become the greatest knight and be Shirone's sword!",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Shirone believed him without doubt.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Though not a genius like Rian, he possessed many things Rian lacked.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Reina ruffled Shirone's hair.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Shirone, don't worry and enjoy your time with your family for now. Grandfather will definitely get you admitted. He doesn't make empty promises.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes. And... thank you for everything.",
+      "tone": "sincere"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone spoke sincerely. No matter how close he and Rian were, without Reina's help, things wouldn't have gone so smoothly.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Reina",
+      "content": "Reina suddenly realized she didn't want to part with Shirone either.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Though four years younger, he never seemed childish—a testament to his maturity.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Shirone, once you graduate from magic school...",
+      "tone": "incomplete"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Reina trailed off and simply smiled.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No. Let's both do our best. You'll definitely become a mage.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes. Please take care of Rian.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Hehe, don't worry. With the knight's oath, he'll work hard even without my nagging.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Reina took one last look at Shirone and boarded the carriage.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The four horses stamped their hooves, and as the carriage moved, Rian stuck his head out the window.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Shirone, you're the best! Wreck everyone at magic school!",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You too! You have to graduate!",
+      "tone": "encouraging"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "And so, Shirone's year and a half as a butler came to an end.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Now that it was over, he felt a pang of sadness, much like when he had left home.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The imposing Ozent mansion, which had once intimidated him, now felt like a symbol of his good fortune.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Young master, let's go. I'll take you home.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A carriage awaited Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Only then did it feel real—he was going home.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone bowed to the Ozent mansion.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Thank you for everything.",
+      "tone": "grateful"
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "◆ ◆ ◆",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheas Magic School.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At noon, during classes, two old men sat facing each other in the headmaster's office, sipping tea.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "One was a large man with blue hair; the other, slightly hunched, gazed out the window with a gentle smile.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Fifty-year friends—Mirhi Alpheas and Ozent Klump.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Their conversation had stalled thirty minutes ago. Specifically, Klump was waiting for Alpheas's response.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "No matter how long it took, it was Alpheas's turn to speak, so Klump remained silent.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Even for you, I can't grant such a request.",
+      "tone": "firm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Klump",
+      "content": "Even for me? Do you know how much I suffered because of you in my youth?",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Hehe! To hear you boast—you must be desperate. But the special admissions process wasn't made to cater to nobles. Countless requests come in yearly, but even special admissions have their conditions.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Klump",
+      "content": "Kuk. Interesting. A nobles' backdoor, you say? But this time is different.",
+      "tone": "intrigued"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheas grew uneasy.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The mischief in Klump's eyes signaled another headache.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "I'm not asking you to take in some troublemaker. Quite the opposite. My youngest grandson has a friend—a remarkable talent. Reminds me of you in your youth.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Klump",
+      "content": "The youngest grandson—that reckless, stubborn Rian? Just like you in your youth.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "If he's so talented, why not enroll normally? I assume there's an issue.",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Klump",
+      "content": "A big one. He's not a noble.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheas's eyes widened.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Not because a commoner was being recommended, but because a fleeting moment from five years ago flashed in his mind.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Don't tell me... a blond boy with blue eyes?",
+      "tone": "intrigued"
+    }
+  ],
+  "source_hash": "193289e38e5a24cc9f5f03ff7818fa8f18574853d1c93695477aacbdcbff6f37",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-10T10:22:31.776535"
+}

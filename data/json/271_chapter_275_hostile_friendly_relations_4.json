@@ -1,0 +1,733 @@
+{
+  "blocks": [
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But Shirone was different.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In her opinion, the significance of <Daily Gift> lies in the fact that one can feel the anticipation of a gift every day, rather than the value of material goods.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In that sense, Shirone's tendency to explore the Objet resonated with her own self when she first got her hands on <Daily Gift>.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "That's right. That's why I once invited a Schema master. I can't reveal their name, but they were a world-class professional gambler. Over ten days, they spun the roulette ten times with the exact same force, but the results were always different. Still, I believe this remains valid as a form of gambling.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "Why? Did you discover some other feature?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zion, unable to suppress his boredom, let out a yawn.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Of course, he understood the importance of deciphering the Objet's <instructions>.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But he can leave such tedious work to the subordinates. The royal family can just buy the Objets and enjoy them.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Regardless, Uorin's gaze was solely focused on Shirone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "It's because of statistics. It's been exactly 1,003 days since I got my hands on this roulette. In other words, excluding today, I've spun it 1,002 times. Among those, a Miracle occurred twice. Modest Gifts 823 times, Pleasant Gifts 171 times, and Excessive Gifts 6 times.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone realized what Uorin was trying to say.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Aha, the probability and statistics roughly match. Then the variables should be considered fair. Perhaps those variables are of a nature that humans cannot control...?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Exactly! The fact that the statistics follow probability means there's no trickery involved. Therefore, this Objet retains its value as a gambling tool.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone rested his chin on his hand, lost in thought.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Statistically, fair rules exist. But even the world's best gambler couldn't produce the same value. This suggested that the variable operated in a realm beyond human control.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "An extremely sensitive sensor, perhaps? Something muscle power alone can't influence?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Yes. That's the opinion of the experts too. They said it would be a quantum-level error.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The quantum level.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was certainly impossible to control the weight of electrons, which are lighter than atoms, with muscle strength. This meant that despite its childish appearance, the Objet was extremely precise.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone examined <Daily Gift> more closely than before.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "On the outside, it just looked like an old antique. A crude wooden case. A miniature clown was smiling, and childish drawings were drawn on the hemispherical surface.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Suddenly, an image of children in a gypsy village gleefully spinning the roulette came to mind.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Normally, it would be a pleasant sight, but now, for some reason, it felt eerily unsettling.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What kind of gift does Miracle give?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "I can't tell you that.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone stared blankly at her.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then, as if nothing had happened, Uorin stuck out her tongue playfully and returned to her usual cute expression.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Hehe, just kidding. It's no fun if I tell you in advance. Ah geez, now hurry up and spin it.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hmm, should I?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone also stopped analyzing and prepared to test it out.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He flicked his finger, knowing full well that human strength couldn't control it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He had to leave everything to chance. Heading toward a childish future filled with nothing but excitement.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Then I'll start.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone placed his finger on the end of the pointer and flicked it.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Tiririri. The sound, reminiscent of a toy, rang out as the arrow spun.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Uorin's eyes sparkled as she watched.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "This time, even Zion seemed interested, as he crossed his arms and fixed his gaze on the roulette.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As soon as the pointer stopped, Uorin jumped up and slammed the table.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Wow! This is an Excessive Gift! This has a 4% probability!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone was too caught up in the tension to even feel the joy of winning such a low-probability reward.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The roulette had spun exactly according to its Guideline. What would happen next?",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Knock, knock!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone turned to the door at the sound of knocking.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But no matter how long he waited, he couldn't feel any further presence.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "It's here! Oppa, go out and look quickly!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone walked quickly to the door.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But it took quite a long mental preparation to open the door.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As he pulled the doorknob, a view of a rectangular cavern lit by torches appeared.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "There wasn't a single sign of life—no one, not even a fly.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "This was an enclosed space. He didn't even hear the sound of the first door opening. Then who on earth knocked?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Oppa, show me quickly. I'm curious.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Uorin urged, Shirone picked up the gift with an uneasy feeling and placed it on the table.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zion and Uorin both craned their necks like turtles to get a better look.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "It's yours, so you open it, Oppa.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone pulled on the red ribbon, and with a smooth sound, the wrapping untied itself.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was a rather romantic scene, but Shirone, treating it as if it might explode, carefully handled the gift.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Huh? What's this?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Inside the gift box was a porcelain doll.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was a 3-body proportion girl with black hair reaching down to her ankles. Her eyelashes were long, and her eyes made of processed jewels looked like real human eyes.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Although it wasn't a particularly grotesque shape, Shirone felt an intense sense of disgust so strong that he didn't even want to touch it.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "They say humans feel the greatest fear at the midpoint between the unfamiliar and the familiar.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The porcelain doll was no exception.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The proportions were messed up and it lacked life, but the hair, eyelashes, and eyes were so lifelike that it induced a strange fear in the observer.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Oh, this?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Uorin, whose hand reached out to the doll without realizing it, paused and looked at Shirone's expression.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She was worried that he might feel burdened if she showed interest after saying she would give him the gift.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's okay. I don't know what it is, so you take a look.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Uorin carefully took out the doll, worried that a crack might form on the surface.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zion followed it with his gaze.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "It's El Crouch's seamless jointed doll.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Huh? El Crouch?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Uorin held the doll up to the ceiling light, inspecting the interior of its porcelain face.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As expected, there were no signs of seams, confirming it as an authentic piece.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "El Crouch is a doll maker. They're famous for not using adhesives. Only twelve of Crouch's works have been made public, and they all have owners. I own four of them myself. In other words, this one is an undisclosed piece. If it went to auction, it would start at no less than 100 million gold.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What? 100 million gold?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's eyes widened in shock.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "For reference, the annual living expenses of a commoner family in the Kingdom of Thormia were roughly 100 gold.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone's household, before joining Ogent Family as house servants, had once lived on just 50 gold a year.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was a tremendous amount even when considering a mage's income, not a commoner's.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The annual salary of a mage who has just entered the professional stages is around 4,000 gold, and even for a certified 6th-rank mage, the average annual salary does not exceed 200,000 gold.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In simple terms, it was the amount of money that Teacher Sienna would have to work hard for 500 years to save.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "From the 5th-rank and above, classified as mid-level, the annual salary varied greatly depending on their skills, but considering that the annual salary of a 3rd-rank archmage at Kazra Royal Palace was around 30 million, 100 million was an amount that would change the look in the eyes of any noble.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Wait, come to think of it...",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "The amount wasn't the issue. How could one of El Crouch's works be selected as a gift?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "A piece of art is a tangible item that exists in the world. Unless the gift had been pre-arranged, this would suggest that some object from a specific location had been instantly transported here.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "…How is this possible?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Because it is Objet. Excessive Gifts are chosen based on their rarity. Once, we even received a deep-sea fish that had a face resembling a human. It died immediately. Excessive Gifts do not necessarily mean expensive items. In that sense, an El Crouch doll is a tremendous material gain. Because this can be sold.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Um, so about this...",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Shirone could guess without even hearing it.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "She had said she already collected four dolls. To others, it might look hideous, but to a true collector, they would be nothing short of beloved treasures.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "If you want it, you can have it. I don't mind giving it as a gift.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Huh? N- No! There's no need to go that far! I was just going to buy this for 100 million. But I figured you wouldn't like that kind of deal...",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Haha! You're right. I don't need money. Just take it. The Objet is yours anyway.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even for Shirone, giving up something worth 100 million gold wasn't easy.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "However, if the target of the concession was Uorin, the highest authority in Kazra, then it was worth giving up.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "No matter how good money was, it wouldn't be more valuable than his life.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As expected, Zion's face contorted.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zion",
+      "content": "Why would she go into debt to a rival competing with her own brother for the throne? No matter how immature he was, this time his thinking was too shortsighted.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "A sudden ominous thought crossed Zion's mind.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zion",
+      "content": "Uorin had always been a dutiful younger sister who listened to her older brother's words well. Despite being the direct heir of Terraje Family, she had never once disregarded him.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zion",
+      "content": "But today, something felt off.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zion",
+      "content": "Uorin was the one who chose the meeting location with Shirone.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zion",
+      "content": "Of course, since she enjoyed showing off her Objets, it made sense that she picked the gallery. But why, out of all the Objets available, did she choose Daily Gift?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zion",
+      "content": "Because it's the most probability-based Objet...",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zion",
+      "content": "If Shirone had gotten the 75% Modest Gift, it wouldn't have been an issue at all.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zion",
+      "content": "But the result was an Excessive Gift of a whopping 4 percent.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zion",
+      "content": "Moreover, the gift was a porcelain doll of El Crouch, whom Uorin cherished so much.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zion",
+      "content": "Uorin isn't a fool who would go into debt with just anyone. Could it be that she was testing Shirone's probability? If so, it means she's weighing between me and Shirone...",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The very thought made Zion's throat burn.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It's a delusion. A simple coincidence. That's what he should think.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zion",
+      "content": "How can it not be a coincidence that Uorin chose <Daily Gift> when Shirone had a 4% chance of winning?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zion",
+      "content": "Besides, she was the daughter of Terraje. Even if she appeared indifferent, she couldn't be without the ambition of a conqueror. Even if she liked Shirone, she wasn't a child empty-headed enough to betray her own brother who held the power in Kazra.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Aah, it's really pretty. Thank you, Shirone Oppa.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Looking at Uorin happily hugging the porcelain doll, Shirone understood why older brothers cared for their younger sisters.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Uorin, I don't think you should spin this roulette again.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Huh? Why not?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It doesn't make sense. No magic can violate the principle of equivalent exchange. Even Rule Eater is a form of mental equivalent exchange. But these Objets are too bizarre. If you keep getting gifts like this, someday there might be a price to pay.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Hmmm, I understand what you're saying. But if you think about it that way, nothing in this world is 100% safe. For example, more people have died from kitchen knives than from Objets.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "But there are fewer Objet users than kitchen knife users. 1 out of 10 people dying is different from 10 out of 100 people dying. You can't judge by numbers alone. Besides, from what I've heard, it seems there are definitely people who die from Objets, right?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "This Objet first appeared in the world 240 years ago. And among the people who owned this item, some indeed met miserable deaths.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "◆ ◆ ◆",
+      "tone": null
+    }
+  ],
+  "source_hash": "c8e4f2efa8312bd64297c105cf45b24e26d3d49f2c4d113e3afc267a0f5c563a",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T18:12:59.194666+00:00"
+}

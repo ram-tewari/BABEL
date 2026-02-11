@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\PycharmProjects\BABEL\babel\sanitize.py
+# hypothesis_version: 6.148.8
+
+[500, 50000, '"', '#', "'", '.', '.html', '.xhtml', ':', 'Chapter 1', 'Level Up', 'Processing timestamp', 'Status Window', '[""]', '[System]', '[^a-z0-9_-]', '\\n{3,}', '^Ch\\.\\s*\\d+', '^Ch\\s+\\d+', '^Chapter\\s+\\d+', '^Ep\\.\\s*\\d+', '^Episode\\s+\\d+', '^\\d+$', '_', '_-', 'arc', 'babel.sanitize', 'book', 'get_type', 'href', 'html.parser', 'latin-1', 'litrpg', 'part', 'r', 'script', 'short_chapter', 'stat_sheet', 'style', 'title', 'utf-8', 'volume', 'w', '‘', '’', '“', '”']

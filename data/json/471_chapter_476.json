@@ -1,0 +1,802 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "It went in!"
+    },
+    {
+      "type": "thought",
+      "speaker": "Gaold",
+      "content": "Gaold was certain."
+    },
+    {
+      "type": "action",
+      "content": "The moment the thrilling explosion of the Vacuum Press occurred at his fingertips, he clearly felt that Uriel had been shaken."
+    },
+    {
+      "type": "narrator",
+      "content": "It was a certainty delivered by ten million times the pain."
+    },
+    {
+      "type": "action",
+      "content": "There wasn't a speck of dust left nearby, but the wrinkles in the atmosphere had completely obscured his vision."
+    },
+    {
+      "type": "action",
+      "content": "As the air spread outwards, a backdraft incomparable to a typhoon swept through the battlefield, which had momentarily fallen into a vacuum state."
+    },
+    {
+      "type": "action",
+      "content": "The air swirled and gathered, turning into turbulence and creating hundreds of vortices."
+    },
+    {
+      "type": "action",
+      "content": "In the movement of that wind, Uriel, who was crouching and defending his body with the Nirvana Shield, was visible."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "Is this really human technology?",
+      "tone": "curious"
+    },
+    {
+      "type": "narrator",
+      "content": "Uriel knew that superiority in martial arts alone did not guarantee victory, having fought countless battles."
+    },
+    {
+      "type": "narrator",
+      "content": "Even if it was just a hypothesis, it wouldn't be shameful for a human with technology that even angels couldn't predict to be temporarily pushed back."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Ugh!",
+      "tone": "agitated"
+    },
+    {
+      "type": "action",
+      "content": "Gaold, with his white hair flying, charged repeatedly."
+    },
+    {
+      "type": "narrator",
+      "content": "The Vacuum Press was a powerful defensive technique, but depending on its use, it could also become a bomb that exploded with ultra-high-density air pressure."
+    },
+    {
+      "type": "action",
+      "content": "The Nirvana Shield clashed with the Vacuum Press with a loud noise."
+    },
+    {
+      "type": "sfx",
+      "content": "BOOM"
+    },
+    {
+      "type": "action",
+      "content": "As the frictional heat burned the air, a massive fire cloud rose as if a bomb had exploded."
+    },
+    {
+      "type": "narrator",
+      "content": "The intense heat reached those on the fortress walls, and Sein, who was breaking Erg's magic circle, became even more anxious."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sein",
+      "content": "Damn it. He might be dead.",
+      "tone": "worried"
+    },
+    {
+      "type": "action",
+      "content": "The air literally turned into fire."
+    },
+    {
+      "type": "narrator",
+      "content": "It was a power that even the great Gaold might not survive."
+    },
+    {
+      "type": "action",
+      "content": "Sein activated the Sun and Moon Wheel and shouted."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sein",
+      "content": "Cover me!",
+      "tone": "urgent"
+    },
+    {
+      "type": "action",
+      "content": "As two gears penetrated Erg, Sein's consciousness was completely cut off from external information."
+    },
+    {
+      "type": "action",
+      "content": "To protect the defenseless Sein, Zulu and Armin arrived."
+    },
+    {
+      "type": "action",
+      "content": "A slow magic field unfolded, and Zulu's summoned cougar swung its sharp claws at the approaching enemies."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zulu",
+      "content": "We can't hold out much longer here either.",
+      "tone": "concerned"
+    },
+    {
+      "type": "narrator",
+      "content": "There was no way to confirm Gaold's life or death, and the battle on the fortress walls was gradually being pushed back."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zulu",
+      "content": "Is this the power of an angel?",
+      "tone": "curious"
+    },
+    {
+      "type": "narrator",
+      "content": "The gap between angels and fallen angels was like heaven and earth, but their abilities, derived from their concepts, had a distinctiveness that set them apart from any mage's magic."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zulu",
+      "content": "We were never meant to win from the start.",
+      "tone": "resigned"
+    },
+    {
+      "type": "narrator",
+      "content": "Zulu said, commanding the cougar."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zulu",
+      "content": "We just need to focus on buying time. There's still one more chance left.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zulu",
+      "content": "Do you think Gaold is alive?",
+      "tone": "inquisitive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zulu",
+      "content": "No.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "content": "Zulu looked at Kangnan, who was fighting the fire giant mage Urotas at the forefront of the battlefield."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zulu",
+      "content": "It's not about living or dying. It's about whether you can give up or not.",
+      "tone": "philosophical"
+    },
+    {
+      "type": "sfx",
+      "content": "Boom! Boom! Boom!"
+    },
+    {
+      "type": "action",
+      "content": "Every time Urotas's fist struck the ground, Kangnan felt her heart sink."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "The Seal of Fire!",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "content": "When Urotas, who had stopped his attack, clasped his hands and cast a spell, a burning seal of fire was engraved on Kangnan's forearm."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "Damn!",
+      "tone": "painful"
+    },
+    {
+      "type": "action",
+      "content": "The fire immediately materialized and began to burn, draining the strength from Kangnan's arm."
+    },
+    {
+      "type": "narrator",
+      "content": "Urotas's magic was seal magic."
+    },
+    {
+      "type": "narrator",
+      "content": "It was the ability to engrave a seal on the target with the gaze of fire and burn the control right."
+    },
+    {
+      "type": "narrator",
+      "content": "Once the seal was engraved, it was as if the nerves were cut off, making it impossible to move."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "I will avenge my clan!",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "content": "Realizing that this was not an opponent she could fight with stubbornness alone, Kangnan twisted her body flexibly and dug into the opponent's chest."
+    },
+    {
+      "type": "action",
+      "content": "When the straight and domineering attack unique to the Rammoai was launched, Urotas hurriedly widened the distance and cast the seal magic again."
+    },
+    {
+      "type": "action",
+      "content": "As fire burned on her right thigh and she lost control, Kangnan stomped the ground with her opposite foot as if striking it."
+    },
+    {
+      "type": "action",
+      "content": "She darted forward like an arrow and struck Urotas's side with a whip-like kick, pushing the giant's body back."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Urotas",
+      "content": "Ugh!",
+      "tone": "painful"
+    },
+    {
+      "type": "sfx",
+      "content": "Ugh!"
+    },
+    {
+      "type": "action",
+      "content": "Urotas's eyes burned with fire as a seal was engraved on Kangnan's solar plexus."
+    },
+    {
+      "type": "sfx",
+      "content": "Ugh!"
+    },
+    {
+      "type": "action",
+      "content": "As the fire burned and the control right was momentarily burned away, her heart stopped for a moment."
+    },
+    {
+      "type": "action",
+      "content": "When Urotas's fist flew in, Kangnan covered her face with both arms."
+    },
+    {
+      "type": "action",
+      "content": "It was a reflexive movement she had reached after countless repetitions every day."
+    },
+    {
+      "type": "action",
+      "content": "As the impact pierced through her guard, Kangnan's consciousness blurred."
+    },
+    {
+      "type": "sfx",
+      "content": "Ugh!"
+    },
+    {
+      "type": "action",
+      "content": "When she came to, what she saw was the towering fortress wall."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "I am…",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "content": "She couldn't become like that person."
+    },
+    {
+      "type": "action",
+      "content": "Even though she had risked everything, she couldn't even stay at the edge of where he had reached."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "Hmph!",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "content": "Kangnan clenched her fists and stood up."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "Emotions didn't matter.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "content": "She had come here, abandoning everything, to achieve one purpose."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "I will definitely… definitely bring him back.",
+      "tone": "determined"
+    },
+    {
+      "type": "narrator",
+      "content": "By now, the battle on the fortress wall had reached its climax."
+    },
+    {
+      "type": "action",
+      "content": "When Shina's ice magic bound the Maras, Kuan flew in and cut down their frozen bodies."
+    },
+    {
+      "type": "action",
+      "content": "Etella was blasting the giant Mara's body with Yin-Yang Wave Fist, and Zulu and Armin were using all their skills to block the bizarre abilities of the fallen angels."
+    },
+    {
+      "type": "action",
+      "content": "And Sein… finally reached the central processing unit of the first-class Mara Erg."
+    },
+    {
+      "type": "action",
+      "content": "As he passed through the tangled circuits like a net, he deactivated all connections with the Sun and Moon Wheel."
+    },
+    {
+      "type": "action",
+      "content": "As the light of the magic circles in reality gradually dimmed, Kariel's face twisted slightly."
+    },
+    {
+      "type": "narrator",
+      "content": "They were holding out much longer than he had expected."
+    },
+    {
+      "type": "narrator",
+      "content": "For someone who regarded humans as insignificant as insects, it was truly unpleasant."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kariel",
+      "content": "I want to sweep them away right now, but…",
+      "tone": "resigned"
+    },
+    {
+      "type": "narrator",
+      "content": "But Kariel's way of thinking was fundamentally different from Uriel's."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kariel",
+      "content": "There is a much simpler solution.",
+      "tone": "determined"
+    },
+    {
+      "type": "narrator",
+      "content": "Realizing it was time to execute the second plan, Kariel approached Miro and extended his hand."
+    },
+    {
+      "type": "action",
+      "content": "If he detonated the magic circle implanted in her head, her face would explode entirely."
+    },
+    {
+      "type": "narrator",
+      "content": "Even after guessing Kariel's intention, Miro silently watched the battlefield."
+    },
+    {
+      "type": "action",
+      "content": "In front of the Hall of Corruption, the ground was uneven with large and small craters created by Gaold's atmospheric pressure, and deep valleys formed wherever Uriel's touch reached."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Miro",
+      "content": "You've gotten stronger, Gaold.",
+      "tone": "teasing"
+    },
+    {
+      "type": "action",
+      "content": "Looking at Gaold, who was sprawled on the ground, Miro smiled for the first time."
+    },
+    {
+      "type": "narrator",
+      "content": "Gaold was strong, but he couldn't defeat an archangel."
+    },
+    {
+      "type": "narrator",
+      "content": "That was the fundamental concept."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Miro",
+      "content": "Why am I doing this? I'm just a woman too.",
+      "tone": "self-doubting"
+    },
+    {
+      "type": "narrator",
+      "content": "Just the fact that Gaold could fight an archangel for over a minute showed how far he had come."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Miro",
+      "content": "Still, honestly, it was a bit touching.",
+      "tone": "emotional"
+    },
+    {
+      "type": "action",
+      "content": "As the magic circle in her head prepared to detonate and sent vibrations, Miro slowly closed her eyes."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Miro",
+      "content": "Goodbye, everyone.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "content": "Gaold looked at the sky with empty eyes."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Let's stop.",
+      "tone": "resigned"
+    },
+    {
+      "type": "narrator",
+      "content": "Had he ever poured out so much of himself in his life?"
+    },
+    {
+      "type": "narrator",
+      "content": "It was a sense of accomplishment that made him feel like he had achieved something, even though he had achieved nothing."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Yes, let's give up. It was never mine from the start.",
+      "tone": "resigned"
+    },
+    {
+      "type": "narrator",
+      "content": "When he thought about it, it was simple."
+    },
+    {
+      "type": "narrator",
+      "content": "Why couldn't he forget her? It was just a matter of changing his mind, like flipping his palm."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "I should become the chairman again. I'll meet a woman much better than Miro. I could become incredibly wealthy. I could have the most powerful authority in the world. I'm sick of it.",
+      "tone": "self-pitying"
+    },
+    {
+      "type": "action",
+      "content": "Gaold shed hot tears."
+    },
+    {
+      "type": "narrator",
+      "content": "It was the end."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "If he could just forget Miro… the world would be his.",
+      "tone": "longing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Just Miro…",
+      "tone": "yearning"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Ugh! Ugh!",
+      "tone": "anguished"
+    },
+    {
+      "type": "action",
+      "content": "Gaold gritted his teeth."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Damn it! Because I can't do that…!",
+      "tone": "desperate"
+    },
+    {
+      "type": "narrator",
+      "content": "He needed nothing."
+    },
+    {
+      "type": "narrator",
+      "content": "Not a woman, not wealth, not honor, not even happiness."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "I'm going through this hell because of that!",
+      "tone": "resolute"
+    },
+    {
+      "type": "narrator",
+      "content": "Only Miro."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "If he could laugh with her for just one day, no, even for one minute, he would pay any price.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Damn it. Why can't I even have that…?",
+      "tone": "anguished"
+    },
+    {
+      "type": "action",
+      "content": "The dark thoughts reignited his hell, engulfing the world in flames."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Are you still going to try?",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "content": "Gaold stood up from his lying position."
+    },
+    {
+      "type": "action",
+      "content": "With his entire nervous system writhing like a monster, he bent his upper body and compressed the Vacuum Press as he sprang forward."
+    },
+    {
+      "type": "sfx",
+      "content": "Boom!"
+    },
+    {
+      "type": "action",
+      "content": "As the scorching wind that seemed to melt his skin swept through, Miro's eyes opened again."
+    },
+    {
+      "type": "action",
+      "content": "Kariel also looked at the battlefield with interest but soon widened his eyes and turned his head."
+    },
+    {
+      "type": "sfx",
+      "content": "Clang! Clang! Clang!"
+    },
+    {
+      "type": "action",
+      "content": "Erg's magic circles shattered in succession, and Sein's consciousness returned to reality."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sein",
+      "content": "Now! Go in!",
+      "tone": "urgent"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sein",
+      "content": "Damn it…!",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "content": "Kariel accelerated the detonation of the magic circle implanted in Miro's head."
+    },
+    {
+      "type": "action",
+      "content": "As the loud noise from her brain echoed, Miro's brow furrowed, and sweat dripped from her temples."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Miro",
+      "content": "Run! Quickly!",
+      "tone": "urgent"
+    },
+    {
+      "type": "action",
+      "content": "As Sein's group rushed towards Miro, the fallen angels hurriedly ran in to form a barrier of flesh."
+    },
+    {
+      "type": "action",
+      "content": "The angels' desperation was evident from their single-minded focus on just filling the space, without considering either attack or defense."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sein",
+      "content": "Confirm Miro's condition, and then break through! There's no time!",
+      "tone": "urgent"
+    },
+    {
+      "type": "action",
+      "content": "Kuan, Etella, and Shina gave their all to open a path."
+    },
+    {
+      "type": "action",
+      "content": "As soon as a very narrow path was opened, everyone infiltrated through it."
+    },
+    {
+      "type": "sfx",
+      "content": "Boom!"
+    },
+    {
+      "type": "action",
+      "content": "A fallen angel descended from the sky at top speed and blocked the path again."
+    },
+    {
+      "type": "action",
+      "content": "She landed almost crouching, raising her red eyes, which lacked pupils, and grabbed her wrist."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fallen Angel",
+      "content": "Pulse Barrier!",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "content": "As everyone's biological rhythms synchronized and their movements stopped for a moment, Sein's face turned pale."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sein",
+      "content": "Too late!",
+      "tone": "resigned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sein",
+      "content": "Yaaah!",
+      "tone": "battle cry"
+    },
+    {
+      "type": "action",
+      "content": "At that moment, a piercing battle cry was heard from below the fortress wall."
+    },
+    {
+      "type": "action",
+      "content": "Kangnan, with one knee raised, flew like a cannonball and struck the fallen angel's cheek, sending her flying."
+    },
+    {
+      "type": "narrator",
+      "content": "There were about 0.8 seconds left until Miro's head would explode."
+    },
+    {
+      "type": "narrator",
+      "content": "In that brief moment, the only person who could finish all the calculations was Sein."
+    },
+    {
+      "type": "action",
+      "content": "Sein, who had widened the gap with his nerve reaction speed, finally broke through the path and reached Miro."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kariel",
+      "content": "Hmph, it's already too late.",
+      "tone": "resigned"
+    },
+    {
+      "type": "narrator",
+      "content": "Kariel, who was thinking even faster, smirked."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kariel",
+      "content": "0.4 seconds! Can I make it?",
+      "tone": "determined"
+    },
+    {
+      "type": "narrator",
+      "content": "There was barely enough time to equip the Sun and Moon Wheel."
+    },
+    {
+      "type": "narrator",
+      "content": "0.3 seconds."
+    },
+    {
+      "type": "action",
+      "content": "The iron wheel turned, and Sein's consciousness began to focus on Miro."
+    },
+    {
+      "type": "narrator",
+      "content": "0.2 seconds."
+    },
+    {
+      "type": "narrator",
+      "content": "At that moment, the servant's calculation made a definite decision."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sein",
+      "content": "About 0.03 seconds too late.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "content": "As emotions surged faster than light, his chest tightened."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sein",
+      "content": "Damn it…!",
+      "tone": "anguished"
+    },
+    {
+      "type": "narrator",
+      "content": "0.1 seconds."
+    },
+    {
+      "type": "action",
+      "content": "The magic circle attached to Miro emitted a radiant glow and burned intensely."
+    },
+    {
+      "type": "sfx",
+      "content": "Stop."
+    },
+    {
+      "type": "action",
+      "content": "And… time stopped."
+    },
+    {
+      "type": "action",
+      "content": "Stop."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "Huh? Huh?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "content": "A tear fell belatedly, and Sein, despite being a servant, momentarily lost his composure."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sein",
+      "content": "But no one could blame him.",
+      "tone": "empathetic"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Miro",
+      "content": "Hurry! Escape!",
+      "tone": "urgent"
+    },
+    {
+      "type": "action",
+      "content": "As Armin shouted, Sein and Miro, who were looking at each other, moved simultaneously."
+    },
+    {
+      "type": "action",
+      "content": "Miro reached out her hand, but Sein hugged her waist."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sein",
+      "content": "Sorry, Gaold. Please understand this.",
+      "tone": "apologetic"
+    },
+    {
+      "type": "action",
+      "content": "And without a moment to look back, he cast a teleportation spell and flew outside the fortress wall."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Gaold!",
+      "tone": "anguished"
+    },
+    {
+      "type": "action",
+      "content": "As Gaold, who was on the ground, looked up, Sein, overwhelmed with emotion, shouted with a contorted face."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sein",
+      "content": "Let's gooooo!",
+      "tone": "battle cry"
+    }
+  ],
+  "source_hash": "33bce47dabb537fe9c500ee5e1e734aa95353401764686f14f95a13f838befa6",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T07:00:55.317589Z"
+}

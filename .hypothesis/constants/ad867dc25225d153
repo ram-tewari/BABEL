@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\PycharmProjects\BABEL\babel\pipeline\orchestrator.py
+# hypothesis_version: 6.148.8
+
+[0.0, 2.0, 4.0, 130, '400', '401', '403', '429', '503', 'Aborted', 'Failed', 'INFO', 'Interrupted by user', 'Omnibus.html', 'Path to log file', 'Phase 1', 'Phase 2', 'PipelineConfig', 'Success', 'babel.log', 'clean_dir', 'config', 'connection', 'data', 'data/clean', 'data/json', 'data/render', 'failed', 'filename', 'html', 'index', 'input_file', 'invalid api key', 'json', 'json_dir', 'log_file', 'network', 'output_dir', 'r', 'render_dir', 'render_failed', 'timeout', 'title', 'traceback', 'utf-8']

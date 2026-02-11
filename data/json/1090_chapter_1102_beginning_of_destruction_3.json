@@ -1,0 +1,799 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "A petite woman with a hood arrived at the square overlooking the Vatican."
+    },
+    {
+      "type": "action",
+      "content": "Candler Eden."
+    },
+    {
+      "type": "narrator",
+      "content": "Named after an ancient city, she was a Yora who practiced love."
+    },
+    {
+      "type": "action",
+      "content": "Eden removed her hood and gazed at the top of the towering spire."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eden",
+      "content": "That's not it.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "content": "Slowly lowering her gaze, she passed the entrance of the Vatican and sensed the unseen underground."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eden",
+      "content": "Underground.",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "content": "The faint but distinct smell of evil lingered, noticeable only with concentration."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eden",
+      "content": "My feeling was right. But why is such an aura lurking in the Vatican?",
+      "tone": "inquisitive"
+    },
+    {
+      "type": "narrator",
+      "content": "After hearing Havitz's inner voice through Nemesis, Eden had been plagued by nightmares."
+    },
+    {
+      "type": "action",
+      "content": "One day, while chasing demons with Dante, she heard a strange rumor."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eden",
+      "content": "Satanism.",
+      "tone": "concerned"
+    },
+    {
+      "type": "narrator",
+      "content": "The founder was Giyorgi, a demon surprisingly formed from Yahweh's discarded emotions."
+    },
+    {
+      "type": "action",
+      "content": "After parting ways with Dante, she investigated Satanism, and the trail of evil led her here."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eden",
+      "content": "The Vatican.",
+      "tone": "resolute"
+    },
+    {
+      "type": "narrator",
+      "content": "The Lami faith upholds the will of good."
+    },
+    {
+      "type": "action",
+      "content": "Holy Knights made significant contributions in the war against demons, and priests cared for the needy."
+    },
+    {
+      "type": "narrator",
+      "content": "Leaving countless questions behind, Eden pulled her hood back on."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eden",
+      "content": "I will confirm it with my own eyes.",
+      "tone": "determined"
+    },
+    {
+      "type": "narrator",
+      "content": "She would destroy Satanism, the spiritual foundation of Satan, and escape her dreadful nightmares."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eden",
+      "content": "Oh, Yora.",
+      "tone": "devout"
+    },
+    {
+      "type": "action",
+      "content": "She kissed the cross pendant within a circular frame and headed towards the Vatican."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eden",
+      "content": "Protect me.",
+      "tone": "pleading"
+    },
+    {
+      "type": "narrator",
+      "content": "This way."
+    },
+    {
+      "type": "action",
+      "content": "The head priest who guided Shirone's group to the Pope's office still looked uneasy."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Head Priest",
+      "content": "What are you planning?",
+      "tone": "concerned"
+    },
+    {
+      "type": "narrator",
+      "content": "The Lami faith, Yora faith, and Teraphos faith were the world's three major religions."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Head Priest",
+      "content": "The Yora faith doesn't expand its organization, and the Teraphos faith fell along with the Teraphos Vatican. A few radicals cause terror, but it's not at a dangerous level.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "narrator",
+      "content": "Only the Lami faith remained steadfast in these turbulent times."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Head Priest",
+      "content": "This is proof that Cria created the universe. But since when…",
+      "tone": "curious"
+    },
+    {
+      "type": "narrator",
+      "content": "The name Yahweh began to spread rapidly, beyond control."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Head Priest",
+      "content": "We should have nipped it in the bud from the start.",
+      "tone": "regretful"
+    },
+    {
+      "type": "narrator",
+      "content": "Once the leading nation of the world was decided at this Holy War, the Pope of the Lami faith would certify it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Head Priest",
+      "content": "A chance to become the world's only religion.",
+      "tone": "ambitious"
+    },
+    {
+      "type": "narrator",
+      "content": "At the cusp of this unprecedented achievement, Yahweh had come to the Vatican."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Head Priest",
+      "content": "Once again, please behave reverently before the Pope. If you speak carelessly because you believe in a different god, the Lami faith will act according to its doctrine.",
+      "tone": "cautionary"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "Hmph! Anyway, those Holy Knights…",
+      "tone": "disdainful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Neide.",
+      "tone": "calming"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I understand. It will be a short conversation. If I get the answer I want, I'll leave quietly.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "narrator",
+      "content": "The head priest grew even more anxious."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Head Priest",
+      "content": "What answer does he seek?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "content": "Lingering in front of the Pope's office wasn't a good look, so he knocked politely."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Head Priest",
+      "content": "Pope, you have visitors.",
+      "tone": "formal"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pope",
+      "content": "Let them in.",
+      "tone": "authoritative"
+    },
+    {
+      "type": "action",
+      "content": "A deep voice followed by the door opening revealed the kind-looking Constantine."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Constantine",
+      "content": "So you are the philanthropist of the era, Yahweh. I've heard the rumors, but you look much younger in person.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I've heard of your reputation as well. You've greatly aided in the war against demons. Thank you.",
+      "tone": "grateful"
+    },
+    {
+      "type": "action",
+      "content": "Constantine offered a seat."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Constantine",
+      "content": "There's no need for thanks. Compared to what you've done, it's nothing. Please, sit.",
+      "tone": "generous"
+    },
+    {
+      "type": "narrator",
+      "content": "As Shirone sat, he thought."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He doesn't seem to crave honor. Well… he was never like that even in his youth.",
+      "tone": "reflective"
+    },
+    {
+      "type": "narrator",
+      "content": "He knew about Constantine's younger days through Omega."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The Pope of Strength.",
+      "tone": "respectful"
+    },
+    {
+      "type": "narrator",
+      "content": "Constantine's divine power was among the strongest in the Vatican."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He's not someone who would be swayed by evil. So why do I feel…",
+      "tone": "inquisitive"
+    },
+    {
+      "type": "narrator",
+      "content": "The smell of Satan here?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pope",
+      "content": "So, Yahweh.",
+      "tone": "authoritative"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pope",
+      "content": "You wanted to see me before the Holy War. Do I not meet your standards?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I have no right to judge others. I'm just curious about something.",
+      "tone": "humble"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pope",
+      "content": "Is that so? A bit disappointing.",
+      "tone": "disapproving"
+    },
+    {
+      "type": "narrator",
+      "content": "Having lived his life without shame, Shirone's answer felt unsatisfactory to him."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Alright, ask anything. As you know, I must leave for the Holy War soon.",
+      "tone": "resolute"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pope",
+      "content": "What are you hiding?",
+      "tone": "accusatory"
+    },
+    {
+      "type": "action",
+      "content": "At the direct question, the Pope closed his mouth but his expression remained steady."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hmm. What am I hiding? From you? Let's see… what could I be hiding?",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "action",
+      "content": "As he walked around the room, the Pope looked back at Shirone."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pope",
+      "content": "When I was a child, I broke a friend's toy and didn't confess. Ah, during my adolescence, I had a crush on the girl next door. Not something a servant of God should do, but I had impure thoughts. And…",
+      "tone": "vulnerable"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It doesn't matter.",
+      "tone": "dismissive"
+    },
+    {
+      "type": "narrator",
+      "content": "Humans are swayed by desires. What I want to know is more fundamental."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "The Holy Code.",
+      "tone": "inquisitive"
+    },
+    {
+      "type": "action",
+      "content": "The Pope's eyebrows twitched."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pope",
+      "content": "The martyr code. I heard that Lami faith's Holy Knights are trained from a very young age.",
+      "tone": "defensive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Constantine",
+      "content": "Yahweh, I tried to understand you. But why do you question our doctrine?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'm not questioning it, I'm asking. Don't you think it's wrong? You remember breaking a friend's toy clearly, but why don't you mention this?",
+      "tone": "inquisitive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pope",
+      "content": "Because it's not wrong.",
+      "tone": "firm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Constantine",
+      "content": "The Lami faith has fought against evil. The Holy Knights are at the forefront of that battle. What's wrong with training them? I don't know why you're nitpicking, but as the Pope of the Lami faith, I have no doubts about our doctrine.",
+      "tone": "defensive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Then I can't accept the Lami faith.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "content": "As the Pope's face contorted further, the furniture shook as if an earthquake had struck."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Amazing.",
+      "tone": "impressed"
+    },
+    {
+      "type": "narrator",
+      "content": "Despite being a force against evil, his power affected even the indifferent."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Most demons would be crushed by this.",
+      "tone": "reflective"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pope",
+      "content": "Creating a peaceful world is our shared goal, isn't it? Why are you doing this? Do you think I should follow your methods too?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I know all of history before I was born. Of course, that includes the Lami faith.",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pope",
+      "content": "It doesn't matter what god you believe in. Religion exists for humanity. But the Holy Knights are different. They're not a religion. What the Lami faith has done to them is…",
+      "tone": "defensive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Brainwashing.",
+      "tone": "accusatory"
+    },
+    {
+      "type": "narrator",
+      "content": "Perhaps the Pope wasn't an exception either."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "They undergo harsh training, mentally arm themselves, and use their powerful divine power to defeat evil. Isn't that how the Lami faith has grown?",
+      "tone": "inquisitive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pope",
+      "content": "We've saved countless people. We've protected the world from evil. Is that so wrong?",
+      "tone": "defensive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "The biggest mistake is making them incapable of thinking it's wrong. That's brainwashing.",
+      "tone": "accusatory"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pope",
+      "content": "Humans are weak!",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "content": "The Pope shouted."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Has brought evil to this holy place.",
+      "tone": "accusatory"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pope",
+      "content": "…What do you mean?",
+      "tone": "confused"
+    },
+    {
+      "type": "narrator",
+      "content": "Evil in the Vatican?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Humans are weak. Easily swayed by desires. But if you try to suppress it forcibly, you fall into greater temptation. It nurtures evil.",
+      "tone": "instructive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pope",
+      "content": "Now I understand.",
+      "tone": "resigned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Don't go to the Holy War.",
+      "tone": "firm"
+    },
+    {
+      "type": "narrator",
+      "content": "Shirone was firm."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Stay here and confirm the evil the Lami faith has brought in. That's the right course.",
+      "tone": "resolute"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pope",
+      "content": "It's time.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "content": "As if blocking his ears, Constantine ignored Shirone's words."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Constantine",
+      "content": "Your plan has failed. I'm going to the Holy War to work for the world. If you join me, we can be good friends. But if you try to tarnish the Lami faith for your gain, I'll fight you with my honor and conviction.",
+      "tone": "defiant"
+    },
+    {
+      "type": "action",
+      "content": "The door closed with a thud."
+    },
+    {
+      "type": "action",
+      "content": "The three left in the Pope's office were tense, unable to reflect on the conversation."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "…It's intense.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "The killing intent was palpable from outside the door.",
+      "tone": "ominous"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "If we delay, they'll storm in. What do we do? Fight or flee?",
+      "tone": "urgent"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "We can't leave now.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "content": "Shirone stood up."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I know the Pope's stance, but I need to confirm it myself. What's happening in the Vatican?",
+      "tone": "inquisitive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "Is there really evil here? The Pope didn't seem to notice.",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "It's the Vatican. Detecting evil is like a seesaw of law. You adapt to the temperature if you're in water for a long time, but a newcomer feels it as hot or cold.",
+      "tone": "explanatory"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Being an outsider makes you more sensitive.",
+      "tone": "insightful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Yes. And the stronger the evil, the fainter its aura. It's cunning. Havitz isn't even detectable.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "action",
+      "content": "There was a knock."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Come out now. The Pope has left for the Holy War, so there's no reason to stay.",
+      "tone": "formal"
+    },
+    {
+      "type": "action",
+      "content": "Iruki activated Spirit Zone."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Seven.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "content": "The magic restriction device was no problem for him, even hacking the hidden code of the abyss."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "Don't make a big scene. If word spreads that Shirone caused trouble in another sect, public opinion at the Holy War will worsen.",
+      "tone": "cautious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "But we can't just take it. As long as we don't kill them, right?",
+      "tone": "questioning"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "…Well, for now.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "content": "With permission, Neide lowered his center of gravity, ready to charge."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Going? Really going?",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Alright!",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "content": "As the door shattered, six blades came in from all sides."
+    },
+    {
+      "type": "thought",
+      "speaker": "Neide",
+      "content": "Expected this.",
+      "tone": "anticipatory"
+    },
+    {
+      "type": "action",
+      "content": "Neide's body, enveloped in lightning, dodged the attacks with superhuman reflexes."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Leon",
+      "content": "Capture them!",
+      "tone": "commanding"
+    },
+    {
+      "type": "action",
+      "content": "Among the Holy Knights on special duty were Leon and Seina from the patrol team."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seina",
+      "content": "Eliminate the heretics!",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "content": "Their killing intent pushed Neide, who had been holding back, to his limit."
+    },
+    {
+      "type": "thought",
+      "speaker": "Neide",
+      "content": "These guys…",
+      "tone": "disdainful"
+    },
+    {
+      "type": "sfx",
+      "content": "Boom!"
+    },
+    {
+      "type": "action",
+      "content": "The lightning of Thunder God surged, breaking the ceiling and sweeping the corridor."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ugh!",
+      "tone": "pained"
+    },
+    {
+      "type": "action",
+      "content": "The powerful lightning made the Holy Knights tremble, gripping their swords."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Neide!",
+      "tone": "urgent"
+    },
+    {
+      "type": "action",
+      "content": "Regaining his senses, Neide quickly adjusted his power."
+    },
+    {
+      "type": "thought",
+      "speaker": "Neide",
+      "content": "Oops.",
+      "tone": "apologetic"
+    },
+    {
+      "type": "narrator",
+      "content": "Thunder God was powerful but had the drawback of losing control the longer it was maintained."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Now! Let's go!",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "content": "While the Holy Knights were still in shock, Shirone's group ran in the opposite direction."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Leon",
+      "content": "Damn it!",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "content": "Leon punched the floor."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Leon",
+      "content": "Summon all the paladins of the Oracle Management Department. We can't let them leave the Vatican.",
+      "tone": "commanding"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Hehehe, no need for that.",
+      "tone": "teasing"
+    },
+    {
+      "type": "action",
+      "content": "At the eerie voice from behind, the seven Holy Knights turned quickly."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Hehehehe. Hehehe.",
+      "tone": "maniacal"
+    },
+    {
+      "type": "action",
+      "content": "A man with lips torn to his ears, holding twin scythes, laughed maniacally."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seina",
+      "content": "The Laughing Man.",
+      "tone": "terrified"
+    },
+    {
+      "type": "action",
+      "content": "The most secretive organization in the Vatican."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seina",
+      "content": "The Heresy Management Department.",
+      "tone": "ominous"
+    }
+  ],
+  "source_hash": "7fc78d27ec4da2da5b0d90c2aaa156b5aeb97e1ee9de983edf3baa55d70ee6cd",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T03:49:28.245664Z"
+}

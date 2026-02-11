@@ -1,0 +1,1039 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone stared at the giant eye that had appeared between the gates of the Maika ruins.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Though obscured by an opaque barrier, it clearly looked like an eye and seemed alive.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Who are you?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "There was no response, but Shirone realized that communication might not be possible.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As he walked sideways along the gate, the eye surprisingly followed him.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "It's watching me.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You know I'm here. Show me some proof, anything.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Just because the gate of an ultra-ancient civilization had opened didn't mean it was proof of the outside world.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "I need to hear it directly. Even if it's not a sound, anything that can serve as evidence.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Unless something beyond a mechanical response came from inside the gate, it was meaningless.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At that moment, the eye blinked.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Is that the outside world? If you can't speak, blink twice.",
+      "tone": "hopeful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "There was no response.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "No matter what he said, the eye seemed to operate independently of Shirone's presence.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Frustrated at being unable to take a step closer to the final truth, Shirone grew angry.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Tell me. Why do we exist? Where did we come from, and where are we going?",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Looking at the indifferent eye, he wondered if it had ever been interested at all.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "I can't give up.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone tried every method that came to mind.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The result was a complete failure.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "None of his attempts elicited a meaningful response, leading Shirone to mental exhaustion.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "This is hard.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Perhaps everything Shirone tried was just one simple thing to the eye.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "No matter what a bug does, to a human eye, it just seems to squirm.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sitting down, Shirone looked around the Maika ruins, devoid of human traces.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "It's a lonely place.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The feeling that there was truly nothing there seemed like evidence of a god's indifference.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "There was a god with a heart.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lost in thought for a moment, Shirone asked the eye with a bitter smile.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Is Goffin there?",
+      "tone": "bitter"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He didn't expect anything, just felt a longing.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "McClain Goffin. He's my dad. I hope he's doing well. I miss him.",
+      "tone": "longing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At that moment, the eye blinked twice for the first time.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Huh?",
+      "tone": "surprised"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "For the first time since arriving, a groundbreaking change occurred, and Shirone stood up abruptly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Did you just answer? If you know something…!",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Before he could finish, the eye disappeared behind the barrier, and Shirone bit his lip.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Come back. Come back.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Whether or not his thoughts were conveyed, the eye reappeared.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Screech…!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A powerful high-frequency sound burst forth, causing Shirone to grimace and step back.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ugh!",
+      "tone": "painful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It seemed to be trying to communicate, but even the Ultima System couldn't decipher it.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Don't try to understand.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even the smallest fragment of the signal from the eye would surpass the teachings of the Ultima System.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Emotions close to questioning were conveyed, and after a moment, the high frequency stabilized.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Sanctuary.",
+      "tone": "hopeful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's eyes widened.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "I can interpret it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Like the information received during the Gyorgi incident, it was clearly a protocol of this world.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "…Forbidden Silverfinger Inraklemac.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As soon as he heard that, a tremendous roar erupted, blowing Shirone's mind away.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "No! I can't end it here…!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He tried to endure, but the entire Maika ruins were disintegrating into dust.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ugh!",
+      "tone": "painful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone, enveloped in a magnetic field, returned to reality, Poine rushed over.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Poine",
+      "content": "Messiah! Are you alright?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Gasp! Gasp!",
+      "tone": "breathless"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Barely aware of reality, Shirone replayed the recent events in his mind.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I heard it.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Poine",
+      "content": "What? What do you mean…",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nothing was clear yet, but the shock of the moment was vivid in his memory.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It was trying to convey something to me.",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Poine and Kaos struggled to understand, Kalt's voice was heard.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kalt",
+      "content": "...Is that so.",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When Shirone looked up, Kalt was leaning back in his chair with an ecstatic expression.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kaos",
+      "content": "What happened?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Behind Kalt's chair, brain matter and blood were splattered like shotgun pellets.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Poine",
+      "content": "His head exploded. Then you reappeared immediately.",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Climbing the steps, Shirone reached Kalt, whose dying gaze moved slowly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kalt",
+      "content": "Did that eye… speak to you?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Since gaining the ultimate sense through OOPArts, one question had endlessly tormented him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Kalt.",
+      "tone": "empathetic"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He felt a sense of kinship.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Though he didn't know Kalt's philosophy or thoughts, the emotions conveyed through the electric field were the same.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Where did we come from?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Perhaps since opening the Spirit Zone, he had been running solely to find that answer.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "It's frustrating.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Living each day, eating, sleeping, reproducing, yet not knowing who we are.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Humans, humanity… That fact was unbearable.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "At least I'm glad. To confirm it before dying. No, even dying is funny.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The life faded from Kalt's eyes.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Did I… really live in this world?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was his final words.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone, setting aside the fact that Kalt was a pirate, gently closed his eyelids.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "It was a dangerous journey.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When forcibly cut off from the information of the ultra-ancient civilization, Kalt's brain had exploded…",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "What if it were me?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He might not have been easily defeated, but he couldn't guarantee safety against the outside world.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "I need to find it myself.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He needed a way to safely connect without being dominated by OOPArts.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Brother, brother.",
+      "tone": "empathetic"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Freed from confinement, Jakra approached Kalt with disbelief.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jakra",
+      "content": "He's really dead?",
+      "tone": "disbelieving"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Confirming the headless body behind the chair, he raised his hands.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jakra",
+      "content": "Hahaha! My brother is dead! It's over! From today, I'm the king of Dionas!",
+      "tone": "maniacal"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Other pirates joined in.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kaos",
+      "content": "Damn! I thought I'd die of frustration! He kept spouting nonsense every day!",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Watching the scene, Kaos asked.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Arrest them all… and handle the rest as you see fit.",
+      "tone": "authoritative"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Hearing Shirone's words, Jakra pressed his temples, revealing his killing intent.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jakra",
+      "content": "Haha! It's too late! My power… huh?",
+      "tone": "maniacal"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Other pirates mimicked Jakra, but the spatial jump didn't work.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "OOPArts was only with Kalt. Without his cognition, you're just ordinary humans.",
+      "tone": "disappointed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the pirates stood frozen in shock, Shirone spoke to Cairns.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Bring in the refugees. I'll handle the diplomatic procedures. And Langi…",
+      "tone": "authoritative"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Cairns, quick to understand, bowed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cairns",
+      "content": "Nothing will happen to her. If she wishes, I'll send her back to the homeland immediately.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Was Langi a problem?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If Arachne could exercise authority over Dionas, it was a tremendous opportunity.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "'Of course, it will be a debt in the Holy War…'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Politics is like that.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone left the castle, passing the pirates, Poine hurried after him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Poine",
+      "content": "Messiah, what should we do?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "For now… how about taking a break?",
+      "tone": "relieved"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They hadn't had a single peaceful day while protecting 20,000 refugees.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Poine",
+      "content": "A good decision. But what next?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "We do what we can.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Finding evidence of the outside world didn't change today's tasks.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It would be a lie to say I'm not troubled. But someday, we'll find the ultimate answer. And…",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone looked at Poine.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "To reach that day, we must live first. Day by day, doing our best.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "And so, they would continue living.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Poine",
+      "content": "Indeed.",
+      "tone": "reassured"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Realizing that the heart of philanthropy still existed in the world, Poine smiled in relief.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lunar Surface",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nane looked down at the human planet.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Nane",
+      "content": "'Looked down?' Direction was meaningless on the moon, floating alone in space, but it felt that way.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "What is important?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "From the moon, the tragedies on that blue planet seemed like someone else's problem…",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Nane",
+      "content": "Why must there be suffering?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nane felt even more sorrow.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nane",
+      "content": "Buddha.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shura saw the swords of the sermon, densely planted within a 100-meter radius, begin to tremble.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shura",
+      "content": "It's getting dangerous.",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The sermons provided an environment for living beings to survive in space, and their destruction would be disastrous.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Kiaaa! Kiaaa!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The space creature 'Destura,' made of mental energy, was drawn to Nane's thoughts.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destura",
+      "content": "Grrr! Bu…ddha!",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As its scythe-like hand broke through the barrier, golden electricity spread like cracks.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nane",
+      "content": "Is the universe rejecting me?",
+      "tone": "desperate"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Destura, which materialized through others' thoughts, was the main obstacle to humanity's escape from the planet.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shura",
+      "content": "'When specific thoughts perceive the universe, these creatures inevitably gather. Truly a terrifying species.'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "According to her research, even dragons attempting to escape the planet 600 years ago were captured and torn apart by Destura.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Kraaa! Kraaa!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the giant creature pushed its upper body through the barrier, air began to escape through the cracks.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shura",
+      "content": "I'll stop it.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shura crossed her hands, ready to use her Gestalt ability, when Nane spoke.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nane",
+      "content": "A guest is coming.",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shura maintained her stance and looked towards the planet.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shura",
+      "content": "What?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Like a meteor piercing the atmosphere, something glowing red was heading towards the moon.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shura",
+      "content": "'Escaping the planet's gravity alone would be difficult.'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Watching a bit longer, Shura recognized the figure engulfed in flames and sighed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shura",
+      "content": "Ah, of all times…",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The stone monkey's avatar, Son Yujeong, was extending her staff infinitely as she approached.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Drawn by the moon's gravity, she landed and retracted her staff, speaking harshly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Son Yujeong",
+      "content": "Finally found you. Damn it.",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nane, understanding her lip movements, smiled.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nane",
+      "content": "If she's the granddaughter of the Thunder Monkey, it's not surprising she reached the moon…",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Destura, which had been targeting Buddha, shifted their focus to her.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Son Yujeong",
+      "content": "Do you know where you are?",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Burning like heated iron, she observed the monsters and pulled out another staff.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Son Yujeong",
+      "content": "Previously split in two by Rian, she could adjust its length, effectively having two.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nane chuckled.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nane",
+      "content": "Dual staff?",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Son Yujeong, holding a staff in each hand, tilted her head and muttered.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Son Yujeong",
+      "content": "What a bunch of trash…",
+      "tone": "disdainful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the 8-meter-tall Destura raised its arms on the lunar surface,",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Kiiii!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Son Yujeong, eyes emitting a golden glow, bared her monkey fangs and leaped.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In the near-vacuum silence, her two staffs began to relentlessly beat the Destura.",
+      "tone": null
+    }
+  ],
+  "source_hash": "147e16b3fc09ccc319d7934b562c46d435f58abc11f8616d76f31337cf5656bf",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T08:15:54.827449+00:00"
+}

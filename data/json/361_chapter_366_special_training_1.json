@@ -1,0 +1,658 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "Shirone was officially registered as an intern and began staying at the association."
+    },
+    {
+      "type": "action",
+      "content": "Kangnan thought it was safer to announce this before any strange rumors started circulating."
+    },
+    {
+      "type": "action",
+      "content": "The first thing Shirone did was write a letter to send home."
+    },
+    {
+      "type": "action",
+      "content": "Kangnan reviewed it, and it was approved."
+    },
+    {
+      "type": "action",
+      "content": "After sending the telegram in the city and returning, he found Flu waiting on the third floor."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "Did you send the letter?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes, they said it would take about five days. Were you waiting for me?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "Yes, the Chief Secretary asked me to."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone was still reeling from the shock of his meeting with Gaold."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Hearing that Kangnan had requested something made him nervous."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "From today, I'll be helping with your training."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone had expected some form of assistance from Gaold while he was here, but he hadn't anticipated being taught directly by a professional mage."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The reason he couldn't be happy about it was that it was Flu, the nagger, who would be helping him."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "Why the face? Are you sick?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No, it's just so sudden."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "What's sudden? The special training or me?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Both, actually."
+    },
+    {
+      "type": "sfx",
+      "content": "Flu laughed heartily."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "Well, you're stuck with me. But don't worry too much. I won't be teaching you directly."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What do you mean?"
+    },
+    {
+      "type": "action",
+      "content": "Flu rummaged through her inner pocket, sticking out her tongue and rolling her eyes, indicating it was buried deep."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "Ta-da! I got this from the Chief Secretary. Do you know what this is?"
+    },
+    {
+      "type": "action",
+      "content": "In Flu's hand was a large golden key."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Well, it looks like a key, but..."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "This is the key to the Magic Association's library! Without the Chairman's approval, no one can enter this area!"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone took a moment to react. He needed to understand what the library was to know whether to be excited or not."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What are you waiting for? Let's go."
+    },
+    {
+      "type": "action",
+      "content": "Although it was Gaold's consideration for Shirone, it was Flu who was jumping with excitement."
+    },
+    {
+      "type": "action",
+      "content": "She led Shirone to the 16th floor of the association."
+    },
+    {
+      "type": "action",
+      "content": "When the elevator doors opened, a solid iron door blocked their way."
+    },
+    {
+      "type": "action",
+      "content": "Out of habit, Shirone almost walked into it."
+    },
+    {
+      "type": "action",
+      "content": "Flu laughed, as if she had expected it, and inserted the key."
+    },
+    {
+      "type": "action",
+      "content": "The door opened automatically, revealing a grand sight."
+    },
+    {
+      "type": "action",
+      "content": "The entire 16th floor was a library, with bookshelves stretching out in perfect rows like reflections between two mirrors."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Isabel",
+      "content": "Welcome. You must be the intern."
+    },
+    {
+      "type": "action",
+      "content": "A graceful woman in her mid-thirties appeared from beyond the iron door."
+    },
+    {
+      "type": "action",
+      "content": "She wore a formal black suit, her black hair neatly tied up. She had light makeup, pink lipstick, thinly groomed eyebrows, and large, deep eyes with double eyelids."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "Hello, Ms. Isabel."
+    },
+    {
+      "type": "action",
+      "content": "Flu bowed politely and gestured for Shirone to come forward."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Isabel",
+      "content": "Introduce yourself. This is Isabel, the head librarian and a certified third-class mage."
+    },
+    {
+      "type": "action",
+      "content": "Shirone was startled and bowed."
+    },
+    {
+      "type": "action",
+      "content": "The disparity between her rank and youthful appearance was jarring."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hello, I'm Arian Shirone."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Isabel",
+      "content": "Yes, I've heard about you from the Chairman. You're a promising talent, so work hard. Come in, I'll show you around the library."
+    },
+    {
+      "type": "action",
+      "content": "Isabel turned, and Flu and Shirone followed her inside."
+    },
+    {
+      "type": "action",
+      "content": "This is the floor where the magic books are stored. There are about 28,000 volumes. We have most of the regulated magic registered in the kingdom."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "28,000 volumes?"
+    },
+    {
+      "type": "action",
+      "content": "Shirone couldn't hide his amazement as he looked around."
+    },
+    {
+      "type": "action",
+      "content": "Every book here represented a magic developed by someone. He trembled with excitement."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "See, I told you. It's a huge privilege to be here."
+    },
+    {
+      "type": "action",
+      "content": "Shirone barely heard Flu's words."
+    },
+    {
+      "type": "action",
+      "content": "The library had thin books of ten pages and thick ones of up to a thousand pages. The covers and designs varied by attribute and series, and the heights were all different."
+    },
+    {
+      "type": "action",
+      "content": "It looked like an artistic representation of the myriad magics in the world."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Ah, that's why an archmage has to manage this."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Magic books contained detailed information about specific magics."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "If one could enter the Spirit Zone and had an exceptional mind, they could learn new magic through self-study."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "High-level magic books would be incredibly expensive, and the value of 28,000 volumes was beyond imagination."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'm sorry. I couldn't believe it at first. Ms. Isabel looks too young to be an archmage."
+    },
+    {
+      "type": "action",
+      "content": "Isabel covered her mouth and chuckled."
+    },
+    {
+      "type": "action",
+      "content": "Most mages were proud, but she seemed pleased to be told she looked young."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Isabel",
+      "content": "I understand. But being an archmage doesn't necessarily mean being strong or destructive. I'm in an administrative role. The Red Line rank is determined by reputation and achievement points."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Isabel",
+      "content": "When I first came to the library, I was only a certified seventh-class mage. After organizing 1,500 magic books over ten years and my mentor retired, I became a third-class mage. My achievement points skyrocketed, but my reputation is still low."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Achievements and reputation varied greatly by profession."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Some high-ranking mages were powerful in combat, while others specialized in different areas."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Having worked in the library for ten years, Isabel likely had little practical experience."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "But Shirone was impressed by her in a different way."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "1,500 volumes..."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The process of registering regulated magic involved interviews or correspondence with the magic developer."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Once the principles and capabilities were documented in a thesis format, Isabel reviewed, summarized, and bound them into magic books."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "This required an exceptional understanding of magic and extensive knowledge."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Indeed, anyone who organized 1,500 magic books over ten years would become an archmage."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He knew enduring those ten years was extremely difficult."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "In that sense, Isabel deserved to be a certified third-class archmage."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Isabel",
+      "content": "Anyway, just think of me as a friendly sister. Honestly, the title of archmage is a bit burdensome."
+    },
+    {
+      "type": "action",
+      "content": "Having only met formidable and extraordinary archmages, Shirone found this refreshing."
+    },
+    {
+      "type": "action",
+      "content": "Thanks to this, he could explore the library more comfortably."
+    },
+    {
+      "type": "action",
+      "content": "Magic books were broadly categorized by system and then further subdivided chronologically."
+    },
+    {
+      "type": "action",
+      "content": "There were very old ones and those leading the latest trends."
+    },
+    {
+      "type": "action",
+      "content": "Seeing a copy of a photonic magic book gave him a slight thrill."
+    },
+    {
+      "type": "action",
+      "content": "After the introduction, Isabel returned to her desk, leaving them to explore freely."
+    },
+    {
+      "type": "action",
+      "content": "As she leaned over her desk, a pen moved on its own beside her."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Having worked in the grand library of Ozend, Shirone could imagine how much Isabel's work speed had accelerated over ten years."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "With that level of skill, organizing 1,500 volumes in ten years isn't impossible."
+    },
+    {
+      "type": "action",
+      "content": "Flu patted Shirone's back."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "Hey, what are you staring at? Ms. Isabel is married. Is she your type?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Absolutely not."
+    },
+    {
+      "type": "action",
+      "content": "Flu, ignoring him, trembled with excitement."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "The Chief Secretary said you could look at anything. Let's start by choosing the magic you'll practice."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Take anything and learn it. Shirone guessed Gaold's intention."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "In addition to training, he wanted Shirone to find hints for magic that could destroy Heaven."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "But giving him free access to the library was unexpected."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Gaold's promise to spare no support seemed genuine."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Flu, being smart, likely knew Shirone's special training was related to Gaold's project. But as she had vowed before entering the Chairman's office, she showed no sign of it."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Or maybe she's genuinely enjoying this..."
+    },
+    {
+      "type": "action",
+      "content": "They went to the section with photonic magic books, Shirone's specialty."
+    },
+    {
+      "type": "action",
+      "content": "Flu scanned the books on the shelves, offering advice."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "Don't bother with overly simple magic. It's inefficient. For example, what's the point of learning 'Have Fun Making Ping Pong Balls with Photons!'? It might be useful for a performance magician, but not for you."
+    },
+    {
+      "type": "action",
+      "content": "Shirone took the three-page book Flu mentioned."
+    },
+    {
+      "type": "action",
+      "content": "It described a game of bouncing light balls off mirrors, fun for the whole family and great for dieting."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Magic developed too long ago is also not worth it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "There are many countermeasures for outdated magic. And you don't have time to learn high-difficulty magic. It would take at least six months, and you have to return to school."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "Ah, I see."
+    },
+    {
+      "type": "action",
+      "content": "Flu's practical advice snapped him to attention."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He had to consider the time needed to learn the magic."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The key was to find magic he could master while at the association."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "Of course, the choice is yours. Preferences affect capabilities."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "But you need guidelines. First, choose magic that complements your weaknesses."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "Second, choose magic that synergizes with what you can already do."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Flu",
+      "content": "Third, balance quality and quantity. That should do it."
+    },
+    {
+      "type": "action",
+      "content": "So Shirone visited the library daily, browsing through the books."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The sooner he chose a magic, the more time he'd have to practice, but he wanted to choose carefully since this opportunity was rare."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "There were so many. It would take years just to look at the photonic series."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "It was a different world. Like a child in a candy store, he couldn't focus."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "No, stay calm. If I run out of time and can't learn anything, I'll regret it."
+    },
+    {
+      "type": "action",
+      "content": "Having adapted to the classification system, Shirone focused on finding magic that fit the guidelines."
+    },
+    {
+      "type": "action",
+      "content": "He then found an intriguing title in the ten-year-old magic section."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Advanced Teleportation Techniques: Scatter Movement."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Hmm, teleportation."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He was interested because he considered teleportation one of his specialties."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The fact that the book wasn't too thick also influenced his choice."
+    },
+    {
+      "type": "action",
+      "content": "The clean white cover indicated it was a photonic magic book, and below the title was the name of the magic developer, Kindra Buki."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Kindra Buki. Never heard of them."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Though he didn't know the person, Shirone respected them."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Registering independently developed magic as a regulated magic was up to the mage's discretion until their death."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Therefore, while there are countless unregistered spells in the world, mages who willingly share the essence of their magic for the benefit of future generations are particularly admirable."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Without them, there would be nothing to learn at magic schools."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Well then, I'll read it carefully."
+    },
+    {
+      "type": "action",
+      "content": "With a reverent heart, Shirone opened the book and read for about ten minutes."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Oh... I see."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "It was quite an ingenious spell."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "This will definitely work. It will be effective in real combat."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Scatter Movement is a spell that disperses photon output in all directions immediately upon casting teleportation."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "To the opponent, it appears as if the mage is spreading out in all directions, creating an illusion."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Hmm, so it uses passive magic and then transitions to active magic."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Since passive magic has a lasting effect, it can be implemented simultaneously with active magic."
+    },
+    {
+      "type": "action",
+      "content": "From the middle of the book, detailed techniques and principles were laid out."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "As Shirone continued reading, a brilliant idea suddenly struck him."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "What if I combine this with the God Particle?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "In other words, instead of dispersing photon output, he could fire Photon Cannons in all directions while teleporting."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "If Buki intended Scatter Movement as a distraction tactic, Shirone could evolve it into a movement technique with offensive capabilities."
+    }
+  ],
+  "source_hash": "6e28d3938f44fea99a5b99676be77f437dfc0aebfb6a86357976ca09cafa8f63",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T05:15:58.909487Z"
+}

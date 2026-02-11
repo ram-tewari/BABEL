@@ -1,0 +1,415 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Infinite (3)",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Emi",
+      "content": "How foolish… truly foolish…!",
+      "tone": "anger"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He was the one who reached out first, who handed her coffee, only for her to coldly reject him.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As if turning away from the regret-filled scenes, Emi tightly shut her eyes.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then, with all her might, she screamed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Emi",
+      "content": "Shirone!",
+      "tone": "desperation"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone smiled.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He was relieved that Emi had regained her memories.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At the very least, he could depart as Shirone, remaining in someone's memory until the very end.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Thank you, Emi.",
+      "tone": "gratitude"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's tears fell onto Emi's cheek.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Emi",
+      "content": "Why are you crying, Shirone?",
+      "tone": "concern"
+    },
+    {
+      "type": "thought",
+      "speaker": "Emi",
+      "content": "Something was wrong.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then, the moment she saw the light of life gradually fading from Shirone's eyes, she realized.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Emi",
+      "content": "Shirone! No!",
+      "tone": "desperation"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'm sorry. I couldn't keep my promise.",
+      "tone": "regret"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone, holding Emi in his arms, fully unleashed the Immortal Function.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As his consciousness expanded infinitely, his sense of self began to fade, dissolving like ink in water.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Goodbye, everyone….",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Father, mother, the members of the Ozent family, friends from school.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Like Master….",
+      "tone": "longing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Harvest",
+      "content": "Yes, and like that boy.",
+      "tone": "acknowledgment"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At the center of the 400 scattered students, Shirone lay collapsed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He had vowed not to harm anyone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "And he had upheld that belief until the very end.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kanis approached Harvest and checked his condition.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanis",
+      "content": "How are you holding up?",
+      "tone": "concern"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Harvest",
+      "content": "What do you think? I'm dying. Without a host, I can't survive.",
+      "tone": "resignation"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "Make a master-servant contract with me. Kanis won't be able to endure after exhausting his mental energy.",
+      "tone": "practicality"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Harvest",
+      "content": "Sorry, but that's not happening.",
+      "tone": "firmness"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "What? Why not? You'll vanish like this!",
+      "tone": "urgency"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Harvest",
+      "content": "My master is Kanis.",
+      "tone": "assertion"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Harvest's words pierced Kanis's heart.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Now, it was his turn to raise the banner of his own beliefs.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Could he endure? If he faltered, both of them would lose their lives.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanis",
+      "content": "Harvest. I'll take you as my subordinate. But I won't forgive betrayal a second time.",
+      "tone": "determination"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Harvest",
+      "content": "Kukuku. Understood, Master.",
+      "tone": "submission"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "Kanis! It's too dangerous! If something goes wrong…!",
+      "tone": "concern"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Arin stopped herself.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kanis's liquid form was hardening as mud seeped into it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Would he one day gain an unshakable heart? Like the image of Shirone she had seen through her mirror.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kanis placed his hand on Harvest.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the subordinate contract took effect, Harvest began siphoning what little life force remained.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kanis's consciousness faded into darkness as his eyes slowly closed.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "◆ ◆ ◆",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheus stood somberly apart from Kanis and his group.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Though the students had narrowly escaped death, the losses were too great.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "Headmaster.",
+      "tone": "formality"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etella",
+      "content": "Etella, I am a sinner.",
+      "tone": "self-blame"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etella",
+      "content": "Don't blame yourself too much. If a life where even mistakes are unforgivable is a sin, then the very existence of humanity is sinful.",
+      "tone": "philosophy"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheus shook his head.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Everyone makes mistakes. But responsibility always follows.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Like Akein, he had no intention of running away.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "I was the one who elevated dark magic to the ranks of grand magic. Harvest could be called revolutionary in the field of memory transfer. Abyss Nova will be registered as a regulated spell by the Magic Association.",
+      "tone": "reflection"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Before Akein's corpse, Alpheus clasped his hands in mourning.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "The eternal boy, Archmage Akein. The path of magic you walked will live on in future generations.",
+      "tone": "eulogy"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When Alpheus opened his eyes, he seemed lighter.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etella",
+      "content": "Headmaster, what do you plan to do now?",
+      "tone": "concern"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "What can I say? I, too, am merely waiting for judgment. Rather than punishment, shouldn't we first honor today's hero?",
+      "tone": "reflection"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheus glanced around in search of Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The boy had a knack for astonishing people.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even Alpheus couldn't confidently say he could teleport 400 people at once.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "We have a problem!",
+      "tone": "urgency"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Emi was sobbing near where Shirone had collapsed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sensing the unusual atmosphere, Alpheus and Etella quickened their steps.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In the distance, Iruki and Nade were running toward them.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But before they could arrive, Emi screamed first.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Emi",
+      "content": "Shirone isn't breathing!",
+      "tone": "desperation"
+    }
+  ],
+  "source_hash": "075d0019176dffaa207171671ac9d60c89801f03fa6eb31ab6f236d19049d554",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T08:01:52.303016+00:00"
+}

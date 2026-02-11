@@ -1,0 +1,1063 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone is a strong kid. He's not the type to be discouraged by a single loss; if anything, he'll gain even more from it. A true teacher should also teach how to learn from defeat.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "I will take this as an excuse from a 4th-rank loser.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Kukuku, well, in any case, today I'm just a spectator today. Shirone and Dante. This will be really interesting.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Finally, the time for the match arrived.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Sienna, who was in charge of the referee, walked to the center of Heaven's Trial, the atmosphere in the training ground became solemn.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In a moment, the greatest talent of Alpheas Magic Academy and the greatest talent of the kingdom will clash.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Mark, who was trembling as if he were having trouble breathing, looked over at Iruki sitting beside him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mark",
+      "content": "Ugh, I feel like my blood is drying up. Senior, do you think Senior Shirone can win?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "I think both of them will have their opportunities. Shirone has a wider variety of offensive magic, but Dante's tactical execution can't be underestimated. If the number of magic circles increases, it could put Shirone in a tough spot.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even from Iruki, who could be called his closest aide, a hopeful assessment did not come out.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Just as Mark was about to complain with a gloomy expression, the students suddenly erupted in cheers.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone and Dante were walking up to the side of Heaven's Trials.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sienna, who was in charge of the refereeing, greeted the former and current principals with courtesy, then called Shirone and Dante to the center of Heaven's Trials.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The faces of the students who had been watching the two people meet with interest turned pale.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "This was because Shirone was approaching Dante beyond the designated location.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Oops!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone quickly snapped back to reality and stopped walking, but by then, Dante's face was already right in front of him.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He had been so deep in thought that he hadn't noticed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The students, interpreting Shirone's actions as a provocation, became even more excited, but those who knew Shirone's personality had a different take.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was obvious that he was nervous.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In response to the unusual situation, Kilain gave a sympathetic smile.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kilain",
+      "content": "Hoho! How is that good? In this day and age, who still tries such cheap provocations?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "There had been many challengers who had tried similar tactics against Dante in the past.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Each time, Dante had calmly countered, leaving his opponents humiliated.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kilain",
+      "content": "Huhu, Dante, I wonder what kind of performance you'll start with today… Huh?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A look of confusion appeared on Kilain's face.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dante wasn't moving either; he was just staring intently at Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even though Sienna was explaining the rules, it didn't seem like either of them was listening.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dante's friends were also puzzled, as they had never seen him like that before.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Savina",
+      "content": "Dante, don't you think he looks a little nervous?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Savina",
+      "content": "That's not like him. He was in good condition just this morning, right? Let's wait a bit; maybe it's just part of his showmanship.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "He can't help but be nervous.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mark",
+      "content": "Huh? He can't help but be nervous?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Mark turned his head with shocked eyes.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He was so nervous that he was surprised by whatever Iruki said.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Shirone has never lost in competition. Although he's only been learning magic for a short time, he's been overcoming highly difficult obstacles to get here.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Of course, Dante has also spent a long time at the top, achieving an almost impossible record.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Now, these two are about to clash.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Defeat is a record engraved in a person's life. It changes the direction of their life in some way.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "But neither of them has experienced defeat yet.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "They've both maintained an abnormal career where even a single mistake wasn't allowed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "They don't want to lose that.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "And today, one of the two will have their careers completely ruined.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "They will live their lives with the record of defeat engraved on their minds.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Mark was dumbfounded.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Was this the world where geniuses lived?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Having been defeated at the age of fifteen, he was in a state where he couldn't even grasp the feeling.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But he didn't feel any regret.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He only hoped that Shirone, who had defeated him, would win again, and his heart pounded so hard it almost hurt.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mark",
+      "content": "Ugh. This is driving me crazy. When are they going to start?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sienna, who had explained the rules, instructed everyone to keep their distance.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But neither of them moved.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was as if they couldn't hear her.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sienna",
+      "content": "Both of you! Return to your designated positions and wait.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "All sorts of thoughts crossed Dante's mind.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Who on earth is this boy?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At first, he said he didn't want to fight, that he didn't care about power or fame, but now he was glaring as if he was ready to devour him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "No. Let's not think about it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dante suddenly came to his senses.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Having never lost in 472 matches, it was easy to assume he wouldn't lose now.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He just had to crush Shirone like he had with every other challenger.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sienna",
+      "content": "Shirone! Dante! Follow the referee's instructions!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Only after Sienna shouted fiercely did the two come to their senses and back away without breaking eye contact.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Upon reaching his designated position, Dante took a deep breath and moved his body to shake off the tension.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The 60-meter distance seemed farther than usual.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But he has defeated all the strong mages and climbed up.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If he fought like usual, it is a match he cannot lose.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "Yes, I just need to fight my way.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "His only option is to strike first.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "Let's use that to my advantage.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "As a Target type, I have the speed advantage.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He accelerated his Four-Way Zone to the maximum and deployed a teleportation magic circle under Shirone's feet.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It wouldn't cause much of an impact, but it was the best way to disrupt his balance.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After that, he would simply adapt to the situation as he always had.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sienna",
+      "content": "And now, Shirone versus Dante, Dante versus Shirone…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sienna's words were buried in the loud cheers.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In ten seconds, they would collide.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It felt as though the very air temperature had risen from the heat of the moment.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sienna gave up on giving a signal by voice and raised her hand instead.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The students' cheers grew even louder, and both Shirone and Dante locked their gazes on her hand signal.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sienna",
+      "content": "Begin!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dante unleashed a super-fast Sequencing.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The numbers began at one and quickly reached ten thousand as his Target Type Spirit Zone extended, engulfing Shirone.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "Got him…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Just as Dante thought that, his eyes widened in shock.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dozens of Photon Cannons had already reached right in front of him.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dante quickly switched his omniscience and deployed a defensive magic circle.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The barrage of Photon Cannons pounded against the magic circle.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was then that he realized what was happening.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "Immortal Function!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "From the start, Immortal Function was opened.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In addition, Photon Cannon was fired nonstop without regard.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The physical force was on par with Earth Magic, and the speed was just as fast.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Experiencing it firsthand, Dante found it an incredibly annoying magic.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Every time a crack appeared in his defensive magic circle, information was accumulated and repaired, but he could no longer endure it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When Dante teleported to escape, Shirone, who had been rapidly firing the Photon Cannons, also used photonization to follow him.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Two streaks of light painted the sky above Heaven's Trials.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The students were stunned by the barrage of attacks—no, it was more like a one-sided display of firepower—right from the start.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Iruki burst into a hollow laugh.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Of course, it was a good strategy.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "However, he didn't expect that Shirone, who has a cautious nature, would stake something so early.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mark",
+      "content": "It seems like he's trying to prevent Dante from even thinking about casting a magic circle from the beginning.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mark",
+      "content": "This is amazing. Is this really the same person who had a teleportation contest with me last semester?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Probably not.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Anyway, not giving the opponent any time to use their skills shows that Shirone is serious.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "With things like this, the outcome is unpredictable.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone pressured Dante with dazzling movements.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Using the Patrol technique to block him from the sides, he then cast Rainbow Drop in reverse, soaring into the sky.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dozens of photon clusters were created every second beneath him, trailing behind.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone fired them all.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Photon Cannons dominated the space, Dante had no choice but to descend to the ground as his only escape route.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Though aerial bombardments followed, he didn't dare look up.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "Damn it! Let me use some magic too! This guy is completely insane!",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "No, maybe this was better.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "Anyway, Shirone couldn't maintain Immortal Function for long.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "If Dante could just survive the initial onslaught, victory would be his.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "Yes, at this rate, it won't last more than 30 minutes at most.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "If I can just hold out for 30 minutes...!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Photon Cannons raked the ground in a line as they fell.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dante changed direction and checked Shirone's position.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dozens of photon clusters were pouring down on the spot where he expected Shirone to be.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "Damn it! Forget 30 minutes, I can't even hold out for 5!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After blocking the first bombardment with a defensive magic circle, he used the delay between the first and second bombardments to find an escape route and slip through the barrage.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "However, there was nowhere else to move.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Without realizing it, he had been pushed to the outskirts of Heaven's Trials.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone used the Patrol technique to dominate the space, cornering Dante at the very edge.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When it looked like Dante might escape, Shirone hurled a compressed photon in his hand.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A streak of light shot out.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dante, unable to escape the corner, hastily deployed another defensive magic circle.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The weight of this attack was on a whole different level compared to the previous ones.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When the second and third attacks struck the same spot, cracks began to form even as Dante tried to reinforce the magic circle.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "No matter how nervous he is, has his mind gone rigid too?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "He should know after facing someone like this.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "There's no way you can stop that with a hastily made magic circle.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the magic circle that had been blocking Dante shattered into pieces, Shirone rushed forward in a straight line as if compressing space into a point.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dante, rather than trying to dodge, chose to stay put to buy himself time to prepare.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He spread a magic circle in all directions to block the approach, but Shirone lowered his body and unleashed Photon Explosion.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ugh!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the barrage of 30 pulses per second pounded the magic circles, Dante felt as if his mind was being torn apart.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He had seen Photon Explosion used in tactical training, but since it was only used for defense, he didn't think it would be that powerful.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "However, after experiencing it firsthand, he realized that it was truly a large-scale destruction magic.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His mind was shaken as all seven magic circles were shattered.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dante covered his face and looked ahead over his wrist.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But Shirone was nowhere to be seen.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As he lowered his gaze, he locked eyes with Shirone, who was crouched down with a photon compressed in his hand.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone darted into Dante's range, swinging his hand.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The afterimage of the photon trailed behind him.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "For a mage, two seconds is enough time to enhance an attack's power.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dante, without time to think of anything else, quickly deployed a defensive magic circle.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Photon Cannon, thrown from close range, smashed through the magic circle in one strike and hit him in the abdomen.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dante felt dizzy for a moment, but after quickly checking his condition, he realized the impact wasn't as severe as he had feared.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "Tch! At least I managed to block it! Now I just need to...!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At that moment, Shirone grabbed Dante's collar with both hands and activated photonization.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Without even having time to register the unexpected physical confrontation, Dante was forced to move at the speed of light.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the photonization wore off, Dante found himself disoriented, unable to tell where he was.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He frantically searched for Shirone's location.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When he turned around, Shirone was nowhere to be seen, and countless photon bullets filled his field of vision.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Kwakwakwakwakwakwakwakwakwang!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Photon Cannon struck, the spot where Dante had been was filled with blinding white light.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The students tried to shield their eyes with their fingers, but they still couldn't make out what was happening.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone stopped his attack and caught his breath.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Only five minutes had passed since the battle began.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dante, with seven magic circles spread out in front of him, covered his face with both arms.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "However, the light from the magic circles soon dimmed and shattered like glass.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "One of Dante's knees buckled, hitting the ground with a thud.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The students' eyes widened in shock.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "While Dante had managed to deploy his magic circles, it was clear they hadn't completely blocked the attack.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "It finally hit. This one's triggered Impact judgment.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dante was known for never giving up the initiative in any situation.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Once the battle began, his genius-level tactics would usually neutralize the opponent's attacks, allowing him to finish them off with a counter.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "However, Shirone succeeded in delivering an attack that could be considered an effective hit, breaking through the iron wall-like defense barrier.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Of the 500 people gathered at the venue, not a single person uttered a word.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even Kilain, who had watched Dante since he was a child, and his friends wore expressions of disbelief.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "472 matches, 472 wins.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dante, who boasted an undefeated record, had been brought to his knees within just five minutes.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A gust of wind swept through Heaven's Trials, reflecting the brutal intensity of the battle.",
+      "tone": null
+    }
+  ],
+  "source_hash": "d84fd4a29485068b87444f9eaf2ae0c0bf1e898d15b7c2a6bc7d277550ec14fe",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T17:46:01.475161+00:00"
+}

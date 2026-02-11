@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\proto\message.py
+# hypothesis_version: 6.148.8
+
+['.', '.*float_precision.*', '3', '4', '5', '6', '<locals>', 'AttrsMeta', 'Message', '_', '_\\w', '__bool__', '__contains__', '__dict__', '__getattr__', '__getstate__', '__module__', '__qualname__', '__setstate__', '__weakref__', '_meta', '_pb', '_pb_options', '_{}', 'copy_from', 'deserialize', 'float_precision', 'from_json', 'ignore', 'index', 'key', 'map_entry', 'meta', 'name', 'package', 'parent_name', 'pb', 'serialize', 'to_dict', 'to_json', 'value', 'wrap', '{pascal_key}Entry', '{prefix}.{name}']

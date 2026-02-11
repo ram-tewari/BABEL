@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\google\ai\generativelanguage_v1beta\services\retriever_service\async_client.py
+# hypothesis_version: 6.148.8
+
+['_credentials', 'chunk.name', 'corpus.name', 'credentialsInfo', 'credentialsType', 'document.name', 'get_cred_info', 'grpc_asyncio', 'name', 'parent', 'serviceName', 'universeDomain', 'universe_domain']

@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\google\generativeai\responder.py
+# hypothesis_version: 6.148.8
+
+['$defs', '$ref', 'ValueType', 'additionalProperties', 'any', 'anyOf', 'array', 'auto', 'boolean', 'defs/', 'format', 'format_', 'function', 'integer', 'items', 'mode', 'mode_any', 'mode_auto', 'mode_none', 'none', 'null', 'nullable', 'number', 'object', 'parameters', 'properties', 'required', 'result', 'string', 'title', 'type', 'type_', 'type_array', 'type_boolean', 'type_integer', 'type_number', 'type_object', 'type_string', 'type_unspecified', 'unspecified']

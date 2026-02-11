@@ -1,0 +1,601 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "Reina, having given the instructions, lifted Shirone's arm over her shoulder and stood up."
+    },
+    {
+      "type": "action",
+      "content": "With Ataraxia gone, the nobles would likely rise up. However, since the highest-ranking nobles were subdued by the attendants, there was no major commotion yet."
+    },
+    {
+      "type": "action",
+      "content": "Even so, someone blocked her path. It was Bosun, who had stabbed Shirone in the abdomen."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "What are you doing? The battle is over. If you don't step aside, we'll behead the nobles we've captured."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bosun",
+      "content": "Bo-Bosun! Step aside quickly. Let them go for now!"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Noble",
+      "content": "Yes! Move aside! Move aside, I say!"
+    },
+    {
+      "type": "action",
+      "content": "The nobles with swords at their necks urged Bosun."
+    },
+    {
+      "type": "narrator",
+      "content": "But Bosun didn't budge. Even if all the nobles here died, he couldn't let Shirone live."
+    },
+    {
+      "type": "monologue",
+      "speaker": "Bosun",
+      "content": "The world is divided by power and intelligence, and humans are either wolves or sheep. If Shirone were a gentle sheep, even with the ultimate intelligence of an archangel's ability, he could be kept alive and used. But Shirone wasn't a sheep. Even if it was an impulsive situation, someone willing to blow up the entire palace was far more dangerous in the future."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Noble",
+      "content": "'Today's incident has clearly divided the factions in the palace. If Zion doesn't become king, it's all over.'"
+    },
+    {
+      "type": "narrator",
+      "content": "Even within Kazra, most of the Teraje faction, except for Uorin, were Zion's subordinates. There was no way Teraje would show mercy to a defeated prince."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "How about negotiating instead?"
+    },
+    {
+      "type": "narrator",
+      "content": "Amy was stunned by Bosun's shamelessness. Who was the first to draw a sword while talking about negotiation just moments ago?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bosun",
+      "content": "How can you say that? Move aside!"
+    },
+    {
+      "type": "action",
+      "content": "Bosun didn't expect them to agree. But he needed to buy time."
+    },
+    {
+      "type": "narrator",
+      "content": "Shirone was already half-dead. In a situation where every second counted, time was the most terrifying weapon."
+    },
+    {
+      "type": "action",
+      "content": "Reina saw through Bosun's strategy. But she couldn't decisively order the nobles to be beheaded."
+    },
+    {
+      "type": "narrator",
+      "content": "Bosun had already deemed Shirone the greatest threat. If the nobles were killed, Shirone would die too. Reina, who had to save Shirone at all costs, had to find another way."
+    },
+    {
+      "type": "action",
+      "content": "As Reina and Bosun glared at each other, a strong wind blew in from the entrance of the grand hall."
+    },
+    {
+      "type": "sfx",
+      "content": "With a sound like burning fire, figures in black clothes flew in like a swarm of bats."
+    },
+    {
+      "type": "action",
+      "content": "Thirty figures landed in the center of the grand hall. They all wore owl masks and carried identical swords at their waists."
+    },
+    {
+      "type": "action",
+      "content": "The nobles, seeing the triangular badges on their collars, widened their eyes in disbelief."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Noble",
+      "content": "Th-Those are...?"
+    },
+    {
+      "type": "narrator",
+      "content": "They were the Wind Guards, the Empress Teraje's personal guard."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wind Guard",
+      "content": "Why are the Wind Guards here?"
+    },
+    {
+      "type": "narrator",
+      "content": "The Wind Guards weren't an army. As the Empress's swords, they never moved without her orders."
+    },
+    {
+      "type": "action",
+      "content": "A chilling voice emerged from the center of the formation."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wind Guard",
+      "content": "As of this moment, we are taking custody of Shirone. Additionally, all decision-making authority regarding the internal affairs of the Kingdom of Kazra is revoked."
+    },
+    {
+      "type": "action",
+      "content": "The nobles murmured among themselves."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Noble",
+      "content": "Revoking internal authority meant stripping all the nobles here of their power."
+    },
+    {
+      "type": "action",
+      "content": "They waited, expecting someone to object or raise a question, but only silence followed."
+    },
+    {
+      "type": "action",
+      "content": "Realizing no one had the courage to step forward, the nobles bowed their heads in unison."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Noble",
+      "content": "We accept the order."
+    },
+    {
+      "type": "narrator",
+      "content": "They couldn't oppose a decision made by the ruler of Kashan."
+    },
+    {
+      "type": "action",
+      "content": "The Wind Guards were the Empress's swords. Their presence alone proved that the Empress's command was not an empty threat."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bosun",
+      "content": "Please wait a moment. Are you saying this is truly the Empress's decision?"
+    },
+    {
+      "type": "action",
+      "content": "Like the other nobles, he wasn't rejecting the Empress's order. But something felt off."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wind Guard",
+      "content": "I've heard that the Wind Guards wear owl masks and have triangular badges on their left chest."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bosun",
+      "content": "...What are you trying to say?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bosun",
+      "content": "I'm saying it's easy to impersonate them. Handing over the ruling authority is a serious matter for the kingdom. If you received orders from the Empress, you should have brought an official document. Can you show it to us?"
+    },
+    {
+      "type": "action",
+      "content": "The nobles looked at the Wind Guards."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Noble",
+      "content": "There is no official document. The order will come."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bosun",
+      "content": "Hmm, that makes it even more suspicious. How can we hand over the ruling authority without proof? Do you have any identification?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wind Guard",
+      "content": "We do."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bosun",
+      "content": "May we see it?"
+    },
+    {
+      "type": "action",
+      "content": "The Wind Guards triangular formation converged into a single line."
+    },
+    {
+      "type": "sfx",
+      "content": "It looked as if thirty people had merged into one."
+    },
+    {
+      "type": "action",
+      "content": "That one figure then seemed to split into hundreds, creating afterimages as they flew towards Bosun."
+    },
+    {
+      "type": "sfx",
+      "content": "A black storm swirled around him."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bosun",
+      "content": "Ugh!"
+    },
+    {
+      "type": "action",
+      "content": "The first sword struck Bosun's chin, lifting his face vertically."
+    },
+    {
+      "type": "action",
+      "content": "As his face rose, thirty swords slashed his body without a single collision."
+    },
+    {
+      "type": "sfx",
+      "content": "The slashes were so fast that the air vibrated like a bee's wings."
+    },
+    {
+      "type": "action",
+      "content": "The Wind Guards, having delivered nearly a thousand slashes per second, leaped back to their original positions, forming a perfect triangular formation."
+    },
+    {
+      "type": "action",
+      "content": "The nobles stared at Bosun in shock. Or rather, what was left of him."
+    },
+    {
+      "type": "action",
+      "content": "His body had been reduced to pieces smaller than fingernails."
+    },
+    {
+      "type": "sfx",
+      "content": "Blood slowly seeped from the minced flesh."
+    },
+    {
+      "type": "action",
+      "content": "Something fell from the air with a splat."
+    },
+    {
+      "type": "action",
+      "content": "It was Bosun's face."
+    },
+    {
+      "type": "action",
+      "content": "Though his eyes were gone, anyone could see the expression of shock."
+    },
+    {
+      "type": "action",
+      "content": "His wide-open mouth shriveled as it soaked in blood."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Noble",
+      "content": "No one can impersonate the Wind Guards."
+    },
+    {
+      "type": "action",
+      "content": "The nobles couldn't object."
+    },
+    {
+      "type": "action",
+      "content": "The display of skill was perfect proof that they were the Wind Guards."
+    },
+    {
+      "type": "narrator",
+      "content": "In reality, the Wind Guards' tactics were impossible to imitate."
+    },
+    {
+      "type": "narrator",
+      "content": "To replicate the movement of the wind, each individual's skill had to be the best."
+    },
+    {
+      "type": "action",
+      "content": "They were the ones who embodied fluid dynamics with their human bodies."
+    },
+    {
+      "type": "action",
+      "content": "A hundred such experts formed the strongest swordsmanship group on the continent, the Wind Guards."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ekkashi",
+      "content": "Master Bosun!"
+    },
+    {
+      "type": "action",
+      "content": "Ekkashi ran forward, veins bulging."
+    },
+    {
+      "type": "action",
+      "content": "Kneeling before the minced remains of Bosun, he reached out with trembling hands to touch the face, then glared at the Wind Guards."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ekkashi",
+      "content": "You bastards...!"
+    },
+    {
+      "type": "action",
+      "content": "How could they be so cruel?"
+    },
+    {
+      "type": "narrator",
+      "content": "Even if he had doubted the Empress's swords, Bosun had fought hard to make Zion king."
+    },
+    {
+      "type": "action",
+      "content": "He didn't deserve to die in such a gruesome manner for a single mistake."
+    },
+    {
+      "type": "action",
+      "content": "Ekkashi grabbed the broken Freeze."
+    },
+    {
+      "type": "action",
+      "content": "But then he looked at them with eyes filled with fear."
+    },
+    {
+      "type": "thought",
+      "speaker": "Ekkashi",
+      "content": "A dark aura rose from the Wind Guards' triangular formation."
+    },
+    {
+      "type": "action",
+      "content": "Only Ekkashi could see the hallucination."
+    },
+    {
+      "type": "thought",
+      "speaker": "Ekkashi",
+      "content": "His brain, exposed to the killing intent of thirty people, was tricked into thinking he was facing death."
+    },
+    {
+      "type": "thought",
+      "speaker": "Ekkashi",
+      "content": "I must fight... for Master Bosun..."
+    },
+    {
+      "type": "action",
+      "content": "His heart felt like it was turning to stone."
+    },
+    {
+      "type": "sfx",
+      "content": "With a clatter, Freeze fell, and Ekkashi dropped to the ground, vomiting everything inside him."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ekkashi",
+      "content": "Ugh! Ugh!"
+    },
+    {
+      "type": "action",
+      "content": "The Wind Guards didn't even glance at him."
+    },
+    {
+      "type": "narrator",
+      "content": "They had been instructed by Teraje to handle things appropriately, but it wasn't their fault."
+    },
+    {
+      "type": "narrator",
+      "content": "They had responded appropriately to the weak killing intent."
+    },
+    {
+      "type": "thought",
+      "speaker": "Wind Guard",
+      "content": "They couldn't help that Ekkashi's level was far below their expectations."
+    },
+    {
+      "type": "thought",
+      "speaker": "Wind Guard",
+      "content": "Foolish boy."
+    },
+    {
+      "type": "narrator",
+      "content": "The report had described him as a promising 6th-level magician in Kazra."
+    },
+    {
+      "type": "thought",
+      "speaker": "Wind Guard",
+      "content": "But given the nature of the 6th level, where the gap in skill was the largest, it wasn't surprising."
+    },
+    {
+      "type": "thought",
+      "speaker": "Wind Guard",
+      "content": "Even considering that, he's weak. There must have been some trickery."
+    },
+    {
+      "type": "narrator",
+      "content": "Kazra's magical power was weak, so the state might have supported him."
+    },
+    {
+      "type": "thought",
+      "speaker": "Wind Guard",
+      "content": "For example, pooling points earned by other magicians and giving them to Ekkashi."
+    },
+    {
+      "type": "narrator",
+      "content": "In any case, Ekkashi's journey as a combat magician was over."
+    },
+    {
+      "type": "thought",
+      "speaker": "Wind Guard",
+      "content": "Having been exposed to the Wind Guards' signature collective killing intent, 'Gaksi,' he would be haunted by the fear of death for the rest of his life."
+    },
+    {
+      "type": "action",
+      "content": "With Bosun dead and Ekkashi collapsed, the nobles retreated on their own."
+    },
+    {
+      "type": "action",
+      "content": "The personal bodyguards, having seen Ekkashi fall on his own, didn't dare show any resistance."
+    },
+    {
+      "type": "action",
+      "content": "Once the area was cleared, the Wind Guards moved again."
+    },
+    {
+      "type": "action",
+      "content": "They fluttered like particles of air and flew towards Shirone."
+    },
+    {
+      "type": "action",
+      "content": "Reina, supporting Shirone, trembled in fear within the black storm."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wind Guard",
+      "content": "We will take Shirone. The continent's top experts will treat him. We will return him by tomorrow morning."
+    },
+    {
+      "type": "sfx",
+      "content": "With a sound like a strong wind blowing inside her ear, the Wind Guards moved away."
+    },
+    {
+      "type": "action",
+      "content": "They circled the grand hall like a rapid current and exited through the door."
+    },
+    {
+      "type": "action",
+      "content": "Everyone present could see the movement of the wind."
+    },
+    {
+      "type": "system_notification",
+      "content": "ΓÇö The Wheel of Causality (1) ΓÇö"
+    },
+    {
+      "type": "action",
+      "content": "Huff! Huff!"
+    },
+    {
+      "type": "action",
+      "content": "Arius ran through the inner garden."
+    },
+    {
+      "type": "action",
+      "content": "Though it was late at night and pitch dark, he didn't trip over any roots thanks to his Spirit Zone."
+    },
+    {
+      "type": "thought",
+      "speaker": "Arius",
+      "content": "But even as one of the Seven Great Magicians, his heart was ordinary."
+    },
+    {
+      "type": "action",
+      "content": "Out of breath, he stopped running and cast Flicker."
+    },
+    {
+      "type": "action",
+      "content": "He reappeared in a completely different direction from where he intended to go."
+    },
+    {
+      "type": "action",
+      "content": "Falling off balance, he curled up like a shrimp and rolled on the ground."
+    },
+    {
+      "type": "sfx",
+      "content": "It was his twentieth failure."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arius",
+      "content": "Damn it! Damn it!"
+    },
+    {
+      "type": "thought",
+      "speaker": "Arius",
+      "content": "The timeline of the inner castle was subtly distorted."
+    },
+    {
+      "type": "thought",
+      "speaker": "Arius",
+      "content": "Even a discrepancy of about one ten-thousandth of a second was fatal for the highly precise Flicker magic."
+    },
+    {
+      "type": "thought",
+      "speaker": "Arius",
+      "content": "That guy is chasing me."
+    },
+    {
+      "type": "action",
+      "content": "Armin of the Radiant Eye."
+    },
+    {
+      "type": "thought",
+      "speaker": "Arius",
+      "content": "He hadn't confirmed it, but if it was a blind magician specializing in time magic, it had to be him."
+    },
+    {
+      "type": "thought",
+      "speaker": "Arius",
+      "content": "Now, he had two options: run and climb over the castle wall or break through Armin's time distortion."
+    },
+    {
+      "type": "thought",
+      "speaker": "Arius",
+      "content": "But the latter wasn't a good choice."
+    },
+    {
+      "type": "thought",
+      "speaker": "Arius",
+      "content": "Even a slight mistake would land him in a completely different place from his escape route."
+    },
+    {
+      "type": "narrator",
+      "content": "The magic control device hadn't been activated yet, but the king's residence was filled with various magic traps."
+    },
+    {
+      "type": "thought",
+      "speaker": "Arius",
+      "content": "He had memorized the route over the past five years, or he wouldn't have found his way now."
+    },
+    {
+      "type": "thought",
+      "speaker": "Arius",
+      "content": "Run. Are you going to stop breathing just because it's annoying?"
+    },
+    {
+      "type": "action",
+      "content": "Arius chose to rely on his physical strength."
+    },
+    {
+      "type": "thought",
+      "speaker": "Arius",
+      "content": "He would think about losing Armin once he reached the inner castle gate."
+    },
+    {
+      "type": "thought",
+      "speaker": "Arius",
+      "content": "Once he escaped Kazra, the world would become interesting."
+    },
+    {
+      "type": "thought",
+      "speaker": "Arius",
+      "content": "Armin had broken the agreement."
+    },
+    {
+      "type": "thought",
+      "speaker": "Arius",
+      "content": "If this fact spread, even the magicians of the Black Line, known for their madness, would have to unite."
+    },
+    {
+      "type": "thought",
+      "speaker": "Arius",
+      "content": "A bloody storm would sweep across the continent."
+    },
+    {
+      "type": "thought",
+      "speaker": "Arius",
+      "content": "That would be interesting in its own way..."
+    },
+    {
+      "type": "thought",
+      "speaker": "Arius",
+      "content": "But what fascinated Arius more than a chaotic world was the discovery of Goffin's trace."
+    },
+    {
+      "type": "thought",
+      "speaker": "Arius",
+      "content": "Something countless scholars had searched the world for but never found was hidden deep within a boy's mind."
+    }
+  ],
+  "source_hash": "d13bd28136ac74d8822e4718807907d586e2023c57c6220229dd6654b21b3a15",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T03:53:57.181906Z"
+}

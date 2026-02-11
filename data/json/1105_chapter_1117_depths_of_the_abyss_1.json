@@ -1,0 +1,723 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "Kaden put all his strength into it, but his fist ended up slicing through empty air."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kaden",
+      "content": "Huh? Empty air?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "content": "His movement stopped, but the people in the banquet hall were busy looking around."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus",
+      "content": "What? What's going on?",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "content": "Not only Marcus, but the positions of everyone in the banquet hall had changed."
+    },
+    {
+      "type": "action",
+      "content": "Uorin frowned."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Ugh.",
+      "tone": "disapproving"
+    },
+    {
+      "type": "action",
+      "content": "Shirone noticed her expression but focused on assessing the situation first."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Did something just…?",
+      "tone": "inquisitive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lupist",
+      "content": "I don't know.",
+      "tone": "unsure"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lupist",
+      "content": "Something definitely happened, but I don't know what. Was I standing next to you?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "content": "Shirone retraced his steps."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The process of getting here. I met Lupist in the hallway after leaving the room…"
+    },
+    {
+      "type": "action",
+      "content": "As he finished recalling, he felt a chill."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "I definitely moved."
+    },
+    {
+      "type": "action",
+      "content": "He had shifted about 3 centimeters from his remembered position."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Moreover, among those whose positions had changed, his was the shortest distance."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "I wasn't forcibly moved. If something moved, it was probably her mind."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "I came here of my own will. Something happened that changed my mind."
+    },
+    {
+      "type": "action",
+      "content": "It felt like one of two events had been chosen, like a quantum superposition."
+    },
+    {
+      "type": "narrator",
+      "content": "Thus, those without temporal perception would feel an awkward sense of déjà vu."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lupist",
+      "content": "Can you explain it?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I have a guess. But what's hard to understand is the scale; it's too large.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "action",
+      "content": "Quantum superposition only affects where Shirone's actions occur…"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "But now, everyone's positions have changed. In other words, the entire event has been twisted."
+    },
+    {
+      "type": "narrator",
+      "content": "It's beyond the level of temporal perception."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "This is the result of hundreds of wills being twisted simultaneously. Who could do this?",
+      "tone": "incredulous"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lupist",
+      "content": "Indeed.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "content": "Lupist rested his chin on his hand."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lupist",
+      "content": "As you said, it's not spatial movement. I'm standing here of my own will. But I have no memory of getting here. I was definitely over there.",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "content": "He pointed to a corner of the banquet hall."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lupist",
+      "content": "Plu was next to me, and I was meeting with an official from the Kingdom of Mun. The memory is clear. But the problem is, despite that, I feel like I came here of my own will.",
+      "tone": "perplexed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "That's the key.",
+      "tone": "insightful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Is it possible to accept a sudden change in position without memory?",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "There is a similar case.",
+      "tone": "reflective"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shagal of the Swift Sword. His life was filled with memories implanted by Ra Enemy. That made him a murderer, and now he's fallen into hell."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "So, we've all experienced the same phenomenon as Shagal, to varying degrees.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lupist",
+      "content": "Yes. Shagal's entire life was taken. Anyway, changing the cause to control the result requires authority at the level of Anke Ra.",
+      "tone": "understanding"
+    },
+    {
+      "type": "action",
+      "content": "Lupist summarized."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lupist",
+      "content": "So, the current situation involves a power that changes the mind and quantum signals. And its power is…",
+      "tone": "inquisitive"
+    },
+    {
+      "type": "action",
+      "content": "His gaze turned to the floor."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lupist",
+      "content": "Enough to push Yahweh's mind by 3 centimeters?",
+      "tone": "doubtful"
+    },
+    {
+      "type": "action",
+      "content": "Considering everyone's positions had changed significantly, Shirone had almost stayed in place."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "A mind that doesn't waver under any variable."
+    },
+    {
+      "type": "action",
+      "content": "But the fact that even Yahweh's steps had moved slightly was serious."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lupist",
+      "content": "The system has changed…",
+      "tone": "serious"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "This is definitely the work of the outside world. It's too soon to share this information."
+    },
+    {
+      "type": "action",
+      "content": "Of course, some knew, and one of them might have reached the correct answer."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Uorin."
+    },
+    {
+      "type": "action",
+      "content": "When Shirone turned his gaze, Uorin was hurriedly leaving the banquet hall."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Still, questions remain.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lupist",
+      "content": "Yes. It's the result of everyone's will changing. Minds twisted, and I'm here. But then…",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "content": "He pointed at Kaden."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lupist",
+      "content": "Why did he swing his fist? If Marcus wasn't in front of him, his right hand shouldn't have moved.",
+      "tone": "incredulous"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Yes, this is strange."
+    },
+    {
+      "type": "action",
+      "content": "As Shirone turned his head, Kaden looked at his right hand, frowning."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "What did I do?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He remembered Marcus harassing Maya, but he understood that Marcus wasn't in front of him."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "It was just a delusion. That guy never actually approached me. So why did I…"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Was I so angry just thinking about it? Is that really it?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "His right hand gave no answer."
+    },
+    {
+      "type": "action",
+      "content": "As everyone felt similar confusion, Fermi's cold gaze focused on Kaden."
+    },
+    {
+      "type": "thought",
+      "speaker": "Fermi",
+      "content": "So that's it."
+    },
+    {
+      "type": "thought",
+      "speaker": "Fermi",
+      "content": "It was one of the unanalysed keywords obtained from the Apocalypse."
+    },
+    {
+      "type": "thought",
+      "speaker": "Fermi",
+      "content": "Breakout."
+    },
+    {
+      "type": "action",
+      "content": "A phenomenon of escaping the prison called the body, which allowed no gaps."
+    },
+    {
+      "type": "action",
+      "content": "Uorin's face was covered in cold sweat as she left the banquet hall."
+    },
+    {
+      "type": "thought",
+      "speaker": "Uorin",
+      "content": "This is impossible. How could this happen…"
+    },
+    {
+      "type": "action",
+      "content": "When the positions of the people in the banquet hall changed, her foresight twisted sharply."
+    },
+    {
+      "type": "thought",
+      "speaker": "Uorin",
+      "content": "The future has changed."
+    },
+    {
+      "type": "action",
+      "content": "The lines of light swayed to the point of blinding, and a tremendous shock hit her brain."
+    },
+    {
+      "type": "thought",
+      "speaker": "Uorin",
+      "content": "The system. Changing it itself is beyond human capability. If it's possible…"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Uorin—",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "content": "She flinched."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "...Hmph.",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "content": "She knew he would follow her, but she still felt a bit disappointed."
+    },
+    {
+      "type": "thought",
+      "speaker": "Uorin",
+      "content": "He only seeks me out at times like this."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You know what happened just now, don't you?",
+      "tone": "inquisitive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "I don't. And even if I did, I have no reason to explain it to you. We're competitors.",
+      "tone": "defensive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "From a god's perspective.",
+      "tone": "mysterious"
+    },
+    {
+      "type": "action",
+      "content": "He had shared the secret of the outside world with Fermi, so Uorin must have heard it too."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "This is something only a god can do. But I don't know exactly what happened.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Sigh.",
+      "tone": "exasperated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Follow me.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "content": "She led him to the Kashan area, checked the surroundings, and entered her room."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "No one will come for the next 35 minutes.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "content": "There were no traces of any significant events in the hallway, as seen through her foresight."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "In other words, we only have 35 minutes. I'll explain briefly. I also have information from you.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Twelve countries gathered in the banquet hall. Some, like mine, had their kings attend, but a few didn't. The culprit is likely from one of those countries.",
+      "tone": "analytical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Mun. Southern. And…",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Paras.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Yes. If a god's power was at work in the banquet hall, Paras, with the Pyramid of Truth, is a strong candidate. You can guess that King Kitra entered the pyramid.",
+      "tone": "informed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It seems the emotional disease was cured too. The question is, how did they change the system?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "The Zodiac.",
+      "tone": "enigmatic"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "The movement of the stars.",
+      "tone": "mysterious"
+    },
+    {
+      "type": "action",
+      "content": "Some people had left the banquet hall, including Jin Kang, the emperor of Jincheon."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jin Kang",
+      "content": "Explain.",
+      "tone": "impatient"
+    },
+    {
+      "type": "action",
+      "content": "Anchal, who had approached, bowed and spoke."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Anchal",
+      "content": "The Jincheon Space Agency is investigating. Nothing special has happened. But…",
+      "tone": "cautious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Anchal",
+      "content": "But?",
+      "tone": "hesitant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Anchal",
+      "content": "The position of the stars has changed.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "content": "Jin Kang's expression turned displeased, and Anchal quickly continued."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Anchal",
+      "content": "Actually, it's not enough to say they've changed. They might not have changed at all, but…",
+      "tone": "cautious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Anchal",
+      "content": "Explain properly.",
+      "tone": "respectful"
+    },
+    {
+      "type": "action",
+      "content": "Anchal understood Jin Kang's frustration but had no better explanation."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Anchal",
+      "content": "As Your Majesty felt, some event was suppressed into the realm of delusion. But if it was an event that might have actually happened…",
+      "tone": "analytical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Anchal",
+      "content": "The position of the stars is different from before?",
+      "tone": "inquisitive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jin Kang",
+      "content": "Hmm, the position of the stars is different.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jin Kang",
+      "content": "What does that mean?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "content": "Uorin continued."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "The first universe.",
+      "tone": "mysterious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "All the actions of atoms from that moment created the current celestial bodies. Humans, and all beings in this universe, are bound by that law.",
+      "tone": "enlightened"
+    },
+    {
+      "type": "action",
+      "content": "She opened the window."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Fish exist because there is water. Birds exist because there is the sky. Ancient humans realized this and named it fate.",
+      "tone": "philosophical"
+    },
+    {
+      "type": "action",
+      "content": "Stars twinkled in the night sky."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Stars themselves don't have special power. It's just that the celestial bodies created by those initial conditions determine how certain humans live.",
+      "tone": "analytical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Kaden was born under the fate of the Southern Cross…",
+      "tone": "informed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "To be precise, Kaden's birth was determined from the beginning of the universe, and the result is the constellation we see now.",
+      "tone": "enlightened"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "A specific pattern created by the position of the stars.",
+      "tone": "mysterious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "The law changes. The beginning of the universe, the initial cause, changes, so the result changes too.",
+      "tone": "insightful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Yes. Moving a planet would cause a big problem. But if it's different from the start, there's no sense of incongruity.",
+      "tone": "analytical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Human logic is based on causality. I was born, I have parents, my parents have parents…",
+      "tone": "philosophical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "And finally, when you reach the beginning of the universe, human logic ends.",
+      "tone": "enlightened"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Conversely, because human logic starts from there, no matter what result comes out now, it doesn't seem strange.",
+      "tone": "insightful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Because it's a result reached by strictly following causality.",
+      "tone": "understanding"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "That's why everyone in the banquet hall believed they were there of their own will, despite having different memories.",
+      "tone": "analytical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Yes. There are memory errors. But that's not all. The change in people's positions in the banquet hall is a universal-scale change.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "The change might be infinitesimal, but Paras likely has the ability to make fine adjustments.",
+      "tone": "informed"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Nane said it was just the beginning. But did Fermi know that beginning would be Paras?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Shirone, I can't figure out what Kitra is thinking. We need to uncover the secrets of the outside world faster than Paras.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "We're exploring the Pyramid of Truth, but it will take time. We need to resolve it before the Holy War ends…",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "There's one more thing.",
+      "tone": "mysterious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Hmm?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "In Ymir's dream. The quantum signals being blocked means it's connected to the outside world, right?",
+      "tone": "informed"
+    },
+    {
+      "type": "action",
+      "content": "Shirone fell silent at her cold analysis."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Come to think of it…"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "What are those who entered the dream to excavate Ultima doing now?"
+    }
+  ],
+  "source_hash": "720e570117c888e8abdc0ac0c2d3df4b2b3590d016aab720545be2151fb48882",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T04:33:21.918417Z"
+}

@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\google\generativeai\client.py
+# hypothesis_version: 6.148.8
+
+['0.0.0', 'COLAB_RELEASE_TAG', 'GEMINI_API_KEY', 'GOOGLE_API_KEY', 'Model', 'ServiceAsyncClient', 'ServiceClient', '_', '_async', 'api_key', 'cache', 'client_info', 'client_options', 'credentials', 'displayName', 'file', 'file_async', 'genai-py', 'generative', 'generative_async', 'metadata', 'model', 'name', 'operations', 'permission', 'permission_async', 'retriever', 'retriever_async', 'transport', 'utf-8']

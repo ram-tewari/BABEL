@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\google\ai\generativelanguage_v1beta\services\cache_service\transports\grpc.py
+# hypothesis_version: 6.148.8
+
+['OK', 'get_cached_content', 'get_operation', 'grpc', 'list_cached_contents', 'list_operations', 'metadata', 'payload', 'request', 'requestMethod', 'response', 'rpcName', 'serviceName', 'status', 'utf-8']

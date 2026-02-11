@@ -1,0 +1,85 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Evil Strikes Back (2)",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Aganos of the Imperial City.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Emperor Gando of Kashan never failed to pay his morning respects to Wuorin.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gando",
+      "content": "Mother, I'm entering.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As he opened the door, Wuorin was lying on a bed large enough to roll over ten times.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She was not asleep.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wuorin",
+      "content": "Still at it?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It seemed she had spent the night in 'Under Coder' again.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even though she had been absorbed in virtual reality before, it had become more severe since she stepped down from the throne.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wuorin",
+      "content": "Mother.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "O ......hmm.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Slowly opening her eyelids, she vaguely stared at the ceiling's design before sitting up.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wuorin",
+      "content": "Ah, my head. What time is it? Could you ask Kido to bring some honey water?",
+      "tone": null
+    }
+  ],
+  "source_hash": "7468e80e62a51a1b780fe467697de8adfceb4ef21f0ce179878324108b0369bb",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T08:06:02.270708+00:00"
+}

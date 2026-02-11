@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\PycharmProjects\BABEL\babel\pipeline\reporter.py
+# hypothesis_version: 6.148.8
+
+[0.0, 3600, '##', '%Y-%m-%d', '%Y-%m-%d %H:%M:%S', 'Aborted', '^### ISSUE-', 'utf-8']

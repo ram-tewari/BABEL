@@ -1,0 +1,1039 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Along the coast of the Kingdom of Dionas, numerous artillery installations could be seen.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Beyond the dense jungle lay the royal castle, and colorful birds flew in the sky.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone, aboard Arachne's ship, initially prohibited the refugees from approaching.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "There might be cannon fire. Let's wait here while I go ashore.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "The sound of a cannon echoed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's party turned to see that what had been fired into the sky was a firework filled with confetti.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Soon, lively music played, and a fast boat approached quickly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Stop!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The knights of Arachne aboard the fast boat spoke with the pirates and returned.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Knight",
+      "content": "King Kalt of Dionas has sent a welcome letter. He invites us to the royal castle.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Cairns read the letter and crumpled the paper.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cairns",
+      "content": "Hmph! How shameless. After sending his brother to attack us, now he invites us in?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Perhaps he thought fighting at sea was his only chance. Anyway, we're going. What about Arachne?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cairns",
+      "content": "…Of course, we must go. But the ship will not dock. We can't bring the treasure into unknown territory.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Thus, a small team consisting of Cairns, his attendants, Shirone, and the apostles was formed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Langi",
+      "content": "I'll go too.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cairns",
+      "content": "Let me come along. It will help. First impressions are important.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cairns",
+      "content": "You?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Cairns was displeased, as she was the most important asset in the negotiations.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Langi",
+      "content": "This is enemy territory. If you're in danger, it could put us at a disadvantage diplomatically.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Langi",
+      "content": "I don't feel safer here. The safest place is…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Langi hugged Shirone's arm.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Langi",
+      "content": "Right here, isn't it?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Cairns was at a loss for words.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cairns",
+      "content": "Is that alright?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Let's go together. We have Jakra in our custody. I'm not sure how valuable he is as a hostage, but…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Thus, eleven people boarded Dionas's fast boat and landed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As they crossed the jungle, they saw a complex path connected by planks between the trees.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "There were countless small outposts, and an unmistakable sense of hostility emanated from within.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Poine smiled.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Poine",
+      "content": "Their hostility is almost embarrassing. Not that it would have gone unnoticed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The rough path required Langi and Cairns to receive magical assistance several times to reach the castle.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Langi",
+      "content": "This is the royal castle?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was a brick building that might have been fashionable 300 years ago, and its size was comparable to a monastery in the central continent.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Poine",
+      "content": "His Majesty is a humble man. He seeks a simple life without greed for wealth or power.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Poine laughed at the envoy's explanation.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Poine",
+      "content": "Such a man orders the kidnapping of a young maiden? Not that a pirate's word means much.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cairns",
+      "content": "Do not insult His Majesty. Trying to read his thoughts will only lead to death.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The truth of this was evident from the terrified Jakra.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When the castle gates opened, pirates lined up along a red carpet.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was indeed a display befitting the wealth of a great pirate, but Shirone focused on the man before him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Kalt.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A man with disheveled red hair raised his palm to greet them.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kalt",
+      "content": "Welcome, travelers, to the sanctuary of peace.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "While most people spoke in whole tones, Kalt's speech was mostly in half-tones.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kalt",
+      "content": "Worry not. As long as I am here, nothing will harm you.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His strange intonation was unsettling, artistic, and repulsive.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I am one of the Five Great Stars of the Ivory Tower.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Your brother, Jakra, attacked our ship. You need to explain.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kalt glanced indifferently at his brother.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kalt",
+      "content": "You wouldn't claim ignorance, would you? He confessed everything last night.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Mm! Mm!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Jakra, breaking even the mental technique, shook his head, clearly not in his right mind.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kalt",
+      "content": "Yes, I sent my brother. To welcome my soul mate, Langi.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kalt placed his hand on his chest and bowed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kalt",
+      "content": "Thank you for bringing her here. You are still as beautiful as ever, Langi.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Langi felt a shiver run through her body.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Langi",
+      "content": "Oh, I see you've trimmed your bangs. About 2 centimeters, no, 2.3 centimeters.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "While Langi didn't mind a meticulous man, this was too much.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Langi",
+      "content": "Your eyelashes. The thirteenth one is bent by about 0.7 degrees. Where did the fine hair on your wrist, 7.3 centimeters up, go? It's my favorite.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was mentally nauseating.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kalt",
+      "content": "There's no need to fear. I won't touch you. I don't need to.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kalt's eyelids began to twitch.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kalt",
+      "content": "Because I already feel it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He spoke slowly, almost crawling out the words, drooling as he continued.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kalt",
+      "content": "I feel everything. Your body, your reactions, your thoughts… Ah, I just became one with you. Integration. It feels amazing.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Langi's face was tearful.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Langi",
+      "content": "I hate this. I'd rather die.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Integration.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What are you?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The ability to perceive everything about Langi could be explained by the effects of an electromagnetic field.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "And it reminded Shirone of a special sensory concept he knew.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Ultima System.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The ultimate sense might be electrical.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The Ultima System he had accepted in Babel was also electrical.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "If the universe was born from electricity, it's not strange for the ultimate sense to be electrical.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The unique, first one.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kalt",
+      "content": "Who am I?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kalt",
+      "content": "One who feels the waves of the world. One who is nothing. One who could be a god or mere compost.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Similar to when I absorbed the Ultima System in Babel. Impossible to explain with just the five senses, but…",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He could feel it.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "If that immense feeling had dominated him for over ten years, it was understandable that he wasn't sane.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You don't seem to know, so I'll tell you. Kalt, you're sick. You need treatment.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kalt",
+      "content": "Treatment? I'm sick?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes. It's because of the OOPArts. I don't know how you got it, but it made you this way. I can help. Where is it?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He spoke sincerely.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was why Kalt, who had ignored everyone else, was silent.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kalt",
+      "content": "I'm sick…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The sensation conveyed by Shirone's voice, felt as a wave, was true.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "The pirates raised their weapons.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pirate",
+      "content": "Your Majesty! Don't be fooled! They want to steal the OOPArts from us!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In truth, they had never seen the OOPArts.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Since Kalt's personality changed 13 years ago, everything had gone well.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kalt",
+      "content": "OOPArts? Ah, you mean Maika.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kalt reached out to the air with a distant gaze.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kalt",
+      "content": "It's a beautiful place. Can you see it? It's here, floating in the air.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He snapped back to reality and looked at Shirone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kalt",
+      "content": "Do you want to see it? Shall I show you?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "This time, Poine intervened.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Poine",
+      "content": "Messiah, it's dangerous. We shouldn't act without a complete analysis.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "It was a reasonable statement, but Shirone's frequency was already resonating with Kalt.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You can go to Maika?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kalt",
+      "content": "No, not go. They're calling. Yes, it feels like they're calling.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "They.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Words spoken with the five senses could become entirely new at the level of the eleven senses…",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Alright. I need to see for myself.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If Kalt had returned safely, there was no reason he couldn't go.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kalt",
+      "content": "Come this way.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kalt pressed his temples, and blue electricity began to swirl in his eyes.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After a moment, he stuck out his tongue, revealing a thin, rectangular metal plate.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What's that?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Arachne officials murmured, but Shirone wasn't particularly surprised.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Living beings can't create machines. Therefore, quantum phenomena. Maybe Kalt…",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Had already become an OOPArts?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kalt",
+      "content": "Messiah, this is dangerous. Please don't implant foreign objects in your body.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's fine. It's just a material made with the five senses. I can control it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone examined the metal plate Kalt handed him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What do I do now?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kalt",
+      "content": "I don't know. Just… stick it in your head? That's what I did with my subordinates.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone pressed the chip behind his ear.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "It won't go in.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It seemed he had to pierce the bone, but could that be called a function?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kalt",
+      "content": "It's okay. Trust me.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kalt's hazy eyes didn't inspire confidence, but Shirone applied pressure with his fingers.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Hup!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Did he really pierce the bone?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "That didn't happen, but electricity flowed through the metal plate, invading Shirone's mind.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Gasp!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's eyes flashed blue, and a magnetic field enveloped him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kaos",
+      "content": "Messiah!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kaos and Poine, who had leaped forward, felt a familiar shock and grimaced.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Grrr!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If it progressed further, their memories would be damaged, but the two apostles reached out until the end.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kaos",
+      "content": "Me…ssi…ah…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Just before Kaos's hand, wrapped in electricity, touched Shirone, Kalt muttered.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kalt",
+      "content": "Meet them.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Ahhh!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the two apostles risked their lives, Shirone's body vanished in an instant.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kaos",
+      "content": "Where? Where did he go?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kaos, eyes tightly shut, pointed his sword at Kalt.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kaos",
+      "content": "First and last chance. Where did the Messiah go? If you don't want to die, you'd better tell me.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kalt",
+      "content": "I don't know.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kalt had a somewhat sullen expression.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kalt",
+      "content": "Perhaps... a terrible truth.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The ultra-ancient civilization of Maika.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Gasp! Gasp!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone waited until the blue tint enveloping his retinas disappeared.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As his vision cleared, he looked around.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Maika.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He was certain because it was unlike any place in Omega.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The city, built in terraces, had numerous buildings like a real civilization.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "It's not a civilization.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But upon entering the buildings, there were no traces of anyone having lived there.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "This is... a kind of device.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The entire city felt like a machine built for a single purpose.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At the center, two horn-like curved towers stood 20 meters high.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "…I don't understand.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The towers were inscribed with characters, but none could be deciphered.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The Ultima System doesn't work.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Faced with the definitive evidence that these signals didn't exist in the universe, Shirone shuddered.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "If there is an outside world…",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The closest imagination would be a higher layer implemented based on the mechanism of the void.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "But that doesn't matter.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "No matter how far you descend from reality, the end of imagination is still reality.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "No one knows until they go there themselves.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone took a deep breath.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Focus. What's there isn't important. What's truly important is…",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Why does it exist?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Like a distant memory, the city began to shake, and electricity flowed through the ground.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Ugh!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As he felt the current and gritted his teeth, an opaque barrier formed between the two towers.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Inside the barrier, a giant eye was staring at Shirone.",
+      "tone": null
+    }
+  ],
+  "source_hash": "fd385fb8e0bd37a9bc406917608bf8683be7c965f1cbca504e18f87091e3abaf",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T08:15:01.457368+00:00"
+}

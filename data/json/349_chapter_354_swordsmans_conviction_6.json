@@ -1,0 +1,605 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "After spending a day at the mansion, Shirone headed to the dining room with Rian and Tess."
+    },
+    {
+      "type": "action",
+      "content": "Clump was seated at the head of the table, reading a newspaper, while Reina was busy preparing breakfast."
+    },
+    {
+      "type": "action",
+      "content": "Shirone rubbed his sleepy eyes and greeted them with a bow."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Good morning.",
+      "tone": "polite"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Morning. Let's eat.",
+      "tone": "hungry"
+    },
+    {
+      "type": "action",
+      "content": "Rian, rubbing his hungry stomach, sat down and asked Reina,"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Where's Rai?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "He left at dawn. Do you think he's as idle as you?",
+      "tone": "teasing"
+    },
+    {
+      "type": "action",
+      "content": "As usual, she started with a joke, but this time there was a hint of concern."
+    },
+    {
+      "type": "narrator",
+      "content": "As an older sister, she couldn't help but worry about her younger brother leaving on a knight's quest."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Hey, I only dropped out yesterday! And I'm leaving right after breakfast.",
+      "tone": "defensive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Why don't you rest for a few days? Shirone is here too.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No, I need to head back soon as well.",
+      "tone": "determined"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He couldn't explain the details due to his promise with Kangnan."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Moreover, he was still curious why the chairman wanted to see him."
+    },
+    {
+      "type": "action",
+      "content": "Since it was the day Rian was leaving, the atmosphere was quite solemn."
+    },
+    {
+      "type": "action",
+      "content": "However, Rian himself devoured three plates of chicken stew and hurriedly packed his things."
+    },
+    {
+      "type": "action",
+      "content": "His belongings were simple: a backpack with some clothes and a day's worth of food."
+    },
+    {
+      "type": "action",
+      "content": "With a leather scabbard strapped to his body and the greatsword on his back, he approached Clump in the living room."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Grandfather.",
+      "tone": "respectful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Clump",
+      "content": "Yes, are you ready?",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "content": "There was one thing left to address."
+    },
+    {
+      "type": "narrator",
+      "content": "The fact that he had defeated Rai would give him great courage for his journey."
+    },
+    {
+      "type": "narrator",
+      "content": "But there was something he needed to clarify."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "What did Rai mean yesterday?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Clump",
+      "content": "Why didn't he use swordsmanship? You know, don't you?",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Oh, that.",
+      "tone": "nonchalant"
+    },
+    {
+      "type": "action",
+      "content": "Clump smacked his lips and put down his teacup."
+    },
+    {
+      "type": "narrator",
+      "content": "He had been putting it off to avoid giving Rian false hopes, but now that Rian was leaving on a knight's quest, it was time to tell him."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Clump",
+      "content": "The sword you carry is not an ordinary one. Have you heard of an object?",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "An object?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "content": "Rian's eyes widened as he drew the greatsword."
+    },
+    {
+      "type": "action",
+      "content": "The functions of precise control and Vajra Armor that Shirone had demonstrated the previous night flashed through his mind, making his heart race."
+    },
+    {
+      "type": "action",
+      "content": "Shirone and Tess also came into the living room, intrigued by the conversation, and focused on the greatsword."
+    },
+    {
+      "type": "action",
+      "content": "It was a sword with no special features other than its imposing design."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "So this is an object? Is that why it wasn't destroyed? What abilities does it have?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Clump",
+      "content": "The official name of that sword is . Its abilities are as impressive as its name.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Clump",
+      "content": "To put it bluntly, it cannot be destroyed.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "content": "Silence filled the living room."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "And?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Clump",
+      "content": "What do you mean, 'and'? It can't be destroyed. Whether it falls into lava, gets cut with a saw, or hit with a hammer, it won't break.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Isn't that amazing?",
+      "tone": "impressed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Clump",
+      "content": "In a way, it was a swordsman's dream.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "But it's still an object. If a sword breaks, can't you just buy a new one?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Clump",
+      "content": "Foolish. Do you know how important a weapon's durability is in real combat?",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Even in yesterday's duel, it would have been much harder without .",
+      "tone": "understanding"
+    },
+    {
+      "type": "action",
+      "content": "Rian acknowledged this."
+    },
+    {
+      "type": "narrator",
+      "content": "In fact, he had already been saved by once."
+    },
+    {
+      "type": "narrator",
+      "content": "It was when he blocked Ymir's straight punch."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Ymir had crumpled the steel-made Signa and Exde like paper, but he couldn't destroy my greatsword.",
+      "tone": "impressed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "If not for , Ymir's punch would have gone through the sword and shattered my body.",
+      "tone": "grateful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Clump",
+      "content": "That's the kind of sword it is.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Rai didn't avoid using swordsmanship; he couldn't.",
+      "tone": "understanding"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Clump",
+      "content": "When he was young, he really wanted that sword.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Then why didn't you give it to Rai?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Clump",
+      "content": "He doesn't like crude things. It wouldn't suit him.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "content": "The answer was different from what Rian had expected."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Who said that? Stop pretending to read minds.",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Clump",
+      "content": "Heh heh, what did you expect? That I prepared it especially for you?",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "You made me nervous for nothing. I thought you had some life-and-death experience.",
+      "tone": "disappointed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Clump",
+      "content": "Hahaha! Do you think I'm crazy to risk my life for a sword?",
+      "tone": "laughing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "By the way, how much did you pay? Since it's an object, maybe around 2 million gold?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Clump",
+      "content": "That? 80 million gold.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "content": "Clang! Rian dropped the greatsword."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Damn! Are you crazy? You paid 80 million for a sword that just doesn't break? You could buy hundreds of fine swords with that money!",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Clump",
+      "content": "It's an object, you fool! And it's my money, so why do you care?",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "If you're going to treat it like that, give it back! Or pay me 80 million!",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Clump",
+      "content": "No way! You gave it to me, so that's it. No take-backs!",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "content": "Rian hurriedly picked up the greatsword and hugged it, afraid someone might take it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Clump",
+      "content": "What kind of swordsman throws his sword on the ground? That sword is too good for you!",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Hang it in my room!",
+      "tone": "defiant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Clump",
+      "content": "Why? Afraid it might break? Didn't you say a true sword is held by the heart?",
+      "tone": "teasing"
+    },
+    {
+      "type": "action",
+      "content": "Shirone and Tess watched the argument in disbelief."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "They're so alike.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Indeed.",
+      "tone": "laughing"
+    },
+    {
+      "type": "action",
+      "content": "After arguing for a while, they finally stopped, exhausted."
+    },
+    {
+      "type": "action",
+      "content": "In the end, Rian won."
+    },
+    {
+      "type": "action",
+      "content": "He sheathed the greatsword and tied the leather strap tighter than usual, as if to show Clump."
+    },
+    {
+      "type": "action",
+      "content": "After a moment of huffing, Clump smiled, remembering something."
+    },
+    {
+      "type": "narrator",
+      "content": "It was a moment he had waited 18 years for."
+    },
+    {
+      "type": "narrator",
+      "content": "Seeing it with his own eyes made the old man's heart swell with emotion."
+    },
+    {
+      "type": "thought",
+      "speaker": "Clump",
+      "content": "The more I see him, the more he resembles me.",
+      "tone": "emotional"
+    },
+    {
+      "type": "narrator",
+      "content": "He had little talent for swordsmanship, but Rian was always meant to be the owner of ."
+    },
+    {
+      "type": "narrator",
+      "content": "He hadn't paid 80 million gold for its functions."
+    },
+    {
+      "type": "narrator",
+      "content": "An indestructible sword was the perfect symbol of the Ozent family's conviction."
+    },
+    {
+      "type": "action",
+      "content": "And in this moment, all his philosophy was passed to Rian through ."
+    },
+    {
+      "type": "thought",
+      "speaker": "Clump",
+      "content": "It's strange. When I went back after paying 80 million gold, the village had vanished.",
+      "tone": "reflective"
+    },
+    {
+      "type": "thought",
+      "speaker": "Clump",
+      "content": "Of course, if 80 million gold had come to a mountain village, the entire village could have moved to a better place.",
+      "tone": "reflective"
+    },
+    {
+      "type": "thought",
+      "speaker": "Clump",
+      "content": "However, there was a subtle feeling Clump couldn't share with Rian.",
+      "tone": "reflective"
+    },
+    {
+      "type": "thought",
+      "speaker": "Clump",
+      "content": "Perhaps he had only been lying injured in the mountains, and the month he spent going back and forth between the village and the house was actually a dream he wandered through in a state of unconsciousness.",
+      "tone": "reflective"
+    },
+    {
+      "type": "action",
+      "content": "In any case, it was one of the most inexplicable events in Clump's life."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Grandfather, I'm off now.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Clump",
+      "content": "Yes. The most important thing is to protect yourself.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Remember that what you gain from real combat isn't always victory.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "content": "It was advice to avoid fights when possible."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Taking your grandfather's advice to heart, Rian bowed sincerely.",
+      "tone": "respectful"
+    },
+    {
+      "type": "thought",
+      "speaker": "Rian",
+      "content": "Thank you, Grandfather, for believing in your foolish grandson until the end.",
+      "tone": "grateful"
+    },
+    {
+      "type": "action",
+      "content": "Rian left the mansion, accompanied by his family's and friends' farewells."
+    },
+    {
+      "type": "action",
+      "content": "A carriage was waiting at the front gate."
+    },
+    {
+      "type": "action",
+      "content": "After briefly contemplating his destination, Rian made up his mind and turned to Shirone."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Shirone, do your best. Even though I dropped out, just think of it as me graduating first.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Sure. Take care of yourself. Keep in touch.",
+      "tone": "encouraging"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Tess, I'm off.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "You jerk. You didn't even discuss it with me...",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Sorry. I didn't think it through.",
+      "tone": "apologetic"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "This is the last time I'll tolerate it. If you treat me this coldly when you return...",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "I'll come back stronger.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Alright. Come back stronger.",
+      "tone": "resigned"
+    },
+    {
+      "type": "thought",
+      "speaker": "Tess",
+      "content": "You don't have to become stronger. Just come back alive...",
+      "tone": "emotional"
+    },
+    {
+      "type": "action",
+      "content": "Having said his goodbyes to everyone, Rian got into the carriage."
+    },
+    {
+      "type": "action",
+      "content": "True to his nature, he didn't look back once."
+    },
+    {
+      "type": "action",
+      "content": "As the carriage departed, the four left behind felt an emptiness."
+    },
+    {
+      "type": "action",
+      "content": "That was Rian's presence."
+    },
+    {
+      "type": "action",
+      "content": "Shirone watched the receding carriage and prayed."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Come back as a great swordsman, Rian. I'll do my best too.",
+      "tone": "encouraging"
+    },
+    {
+      "type": "action",
+      "content": "May good fortune be with Rian on his journey."
+    }
+  ],
+  "source_hash": "cbfc7bd6a566ef04a0d8270d98681dbe38d69204b637ae1dfedcf1d209dd4ca5",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T05:05:22.671677Z"
+}

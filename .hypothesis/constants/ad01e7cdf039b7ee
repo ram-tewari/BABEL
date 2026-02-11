@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\google\ai\generativelanguage_v1beta\services\text_service\transports\rest.py
+# hypothesis_version: 6.148.8
+
+[400, 'BatchEmbedText', 'Content-Type', 'CountTextTokens', 'EmbedText', 'GenerateText', 'GetOperation', 'ListOperations', 'application/json', 'headers', 'httpRequest', 'httpResponse', 'https', 'metadata', 'method', 'payload', 'requestMethod', 'requestUrl', 'rest', 'rpcName', 'serviceName', 'status', 'uri', 'utf-8', '{host}{uri}']

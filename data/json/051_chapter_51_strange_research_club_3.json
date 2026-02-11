@@ -1,0 +1,145 @@
+{
+  "blocks": [
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "My specialty is computational physics. Based on the scale, speed, and form of the space you described, such phenomena couldn't occur unless it was the universe. The numbers are too vast to manifest on a continental scale.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "But how could I dream of that? If it's psychological regression, it's based on my memories—but I've never been to space.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "That may be true, but memories can exist without direct experience. And from here, it's back to Neid's expertise.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Iruki spoke, a thought suddenly struck Shirone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Transcendental awareness…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Neid nodded.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "Right. In the soul transmission experiment, the inmate knew the political situations of various countries during his month unconscious. How? If the soul were like a homing pigeon, could it have flown around gathering stories? Maybe, but that's too human-centric. Eyes and ears are precise biological organs. The soul wouldn't have such things. The soul is likely a unique material. When electrically decomposed, it triggered strange interactions—combining with other information or transcending spacetime to travel instantly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Iruki agreed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Electrons can't be observed and measured simultaneously. It's like plucking a guitar string—you can't pinpoint its exact position. They exist only as probabilities within vibrational ranges. This is called quantization. If the soul were ionized, even the universe wouldn't matter. In a world where time and distance correlations break down.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone slowly shook his head. Though nothing was resolved, the logic and evidence presented eased his fears.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hmm. I think I get it now. Thanks. You guys really live up to the Supernatural Parapsychology Club's name.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "Haha! Don't be so surprised. Anyway, don't worry too much. It's not a curse—it's probably related to the Immortal Function. Let's investigate that further.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone nodded and made up his mind.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Alright! I'm joining the Supernatural Parapsychology Club.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Neid had no reason to refuse. With Shirone, the club would have three members—enough to qualify for official status and reinstated funding.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "We'd love to have you. Right, Iruki?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Hmm. For the club's future, Shirone's a great addition. But will the faculty approve? Given its notorious reputation, many teachers will oppose it.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "Leave that to me. We'll just sneak in the paperwork. Let's go, now!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Unable to wait, Neid rushed out. Shirone smiled and followed Iruki.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Before closing the door, he glanced back at the research room. Though dusty and more like a storage room, thinking of it as his club now gave it a certain charm.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "But we'll have to clean it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone turned off the lights and closed the door. The silent, dark room gave no hint of activity.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The dust on the sofa swirled quietly where Shirone had sat.",
+      "tone": null
+    }
+  ],
+  "source_hash": "1c16b2e57ccabca1a4f42d06019405e7ea757874fafd6eb5f72a4f3e08fccb52",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T06:33:06.030946+00:00"
+}

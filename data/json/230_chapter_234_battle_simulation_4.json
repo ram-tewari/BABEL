@@ -1,0 +1,1003 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Olivia stood before the students who had gathered at the training grounds.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Since this is our first class, I'll explain everything to you directly. The sudden change in the curriculum may have confused you. However, a mage must be strong. You may already be somewhat familiar with 'Heaven's Trial.' It's a system developed by Louis Jacquebain, a pioneer in magical engineering, designed to simulate real combat scenarios even in a training environment.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The name Jacquebain echoed loudly in Neid's mind, as if amplified by a loudspeaker.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Jacquebain was the world's greatest magical engineer, the creator of the revolutionary masterpiece 'Image Zone.'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Thanks to the advent of the Image Zone, Spirit Zones became visible, and this system evolved into what is now known as Heaven's Trial.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "While the world celebrates the illustrious reputation of combat mages, who is it that made these mages what they are today?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If it weren't for the device created by name, the level of mages would have stagnated for 30 years.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Thad, please bring the master bracelets.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Thad brought two bracelets. Olivia put them on her wrist and then showed them to the students.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Here are a red bracelet and a blue bracelet. Each bracelet has different functions, so make sure not to swap them with your friends. The red bracelet converts the mage's status into information, and the blue bracelet converts external conditions into information.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "These two sets of information are sent to the tower to create a virtual world. Now, it's your turn to try.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The students received a pair of bracelets. As they put them on their wrists, red and blue lights illuminated.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Then, from now on, I will activate Heaven's Trial.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the administrator activated the system, the ground began to shake as if an earthquake had occurred.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The height of the physical blocks on the floor changed, creating a complex terrain that simulated a natural environment.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When an unfamiliar virtual landscape was superimposed on the environment, the students stared in awe, their mouths agape.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They had heard about it from their graduating seniors, but experiencing it in person was incomparable in terms of realism.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The virtual landscape depicted the streets of the city of Creas.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Although no one was passing by, the scenery of hundreds of houses closely packed together was realistic enough to be believed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "The cityscape isn't quite right. Please change the scenery.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The arrangement of the blocks began to shift.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The blocks along the northeastern edge, covering about a quarter of the total area, descended simultaneously.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Water filled the hollow and formed a lake, and from there the surrounding landscape changed into a forest.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was a pristine mountain landscape untouched by human hands.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "As expected from a prestigious academy. Even with Heaven's Trial, creating a lake is challenging.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Over 80 percent of the natural features are physical blocks, but the scenery is entirely virtual.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The blue bracelet receives information and transmits it to your brain.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "So, if you take off the bracelet, only the physical blocks will remain.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Take a moment to look around. I'll give you about 10 minutes.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The students lined up and entered Heaven's Trials.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The fact that they didn't break ranks even though no one had told them to do so was proof that they were nervous.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even the stones lying around, which they were used to seeing in the mountains, felt novel.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone and his group went over to the lake to examine it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When Nade touched a tree, the blue bracelet lit up, transmitting the texture to him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Amazing. This isn't even a physical block, are you really saying it's virtual?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Even the leaves look real.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone plucked a leaf.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It didn't disappear but remained in his palm as if it were real.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Iruki approached the lake, scooped up some water with his hand, and drank it.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "How is it? Does it taste like water?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Not only that, but it actually quenched my thirst.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Of course, it's an illusion. The brain decided it was water.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "This could be dangerous.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "What if it wasn't water but fire instead?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Would the brain perceive the heat and cause the body to burn?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Since it wasn't real fire, it might not go that far.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "However, it wasn't something he could be sure of.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Shirone looked back at Nade, who was knowledgeable in such matters.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Yes! It's very similar to the mechanism of Spirit Zone!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "It's really amazing! Louis Jacquebain embodied the human mind through a mechanical device.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "If a biologist's dream is to replace human organs with artificial ones, then an engineer's ultimate goal is a machine that can think like a human.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Although it was still far off, it seemed that at least Jacquebain had succeeded in converting the human mind into information.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "When they decided to open the Heaven's Trials to the advanced class, I heard there was a lot of opposition from the faculty.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Now I understand why. You could die if you're not careful.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Yes, you could die.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Before they realized it, Olivia had approached them.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "If I could die….",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "But don't worry.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Except for the graduation exam, the synchronization rate won't be set to 100%.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Currently, the filter is turned off for demonstration purposes, but when you experience it, the rate will be around 50%.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Even at 50%, it's not necessarily safe, is it?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "You're surprisingly cautious, Iruki.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "I don't want to be a fool who rushes in without knowing and ends up dying.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Olivia stared at Iruki.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He was once regarded as being on par with Dante.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "However, she recalled that Royal Magic Academy was not a place that could tolerate the students' arrogance, and he ended up dropping out.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Now all that's left is his three-inch tongue? How pitiful.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Olivia looked back at her students and said.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Iruki is correct.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "The Heaven's Trials are dangerous.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "However, it is a risk that can be controlled.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Royal Magic Academy already conducts training close to real combat by freely adjusting the synchronization rate from 1% to 100% depending on the student's level.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "I am not saying you should take unnecessary risks, but I want to emphasize that the risks can be controlled.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "There was no need to apply a high synchronization rate.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Since it's an educational setting, practicing at an appropriate level would naturally enhance one's practical skills.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the students returned to their places, Olivia began the official lesson on Heaven's Trials.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "The bracelet I am wearing is different from yours; it is a master version.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "It is designed to control various functions of Heaven's Trials.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A 60-centimeter-long red gauge appeared above Olivia's head.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "This is a percentage quantification of my mental strength.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Of course, you won't be able to see the gauge during the practice session.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "First, I'll explain what role it plays.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Teacher Sade, please summon a monster.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The master bracelet shares its functions.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even if one teacher were to put students in danger, the system is designed so that as long as other teachers are wearing the master bracelet, no dangerous situation would arise.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Thad",
+      "content": "Understood.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Thad",
+      "content": "But, um... which one should I summon?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In an awkward situation like being asked to choose a lunch menu, Thad decided to leave the choice to Olivia.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Hmm, is it version 6.2?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Thad",
+      "content": "Yes, it's the latest version.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Thad",
+      "content": "We updated the information 10 days ago.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Then, demons must have been added.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Let's go with a succubus.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The students' eyes widened in shock.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student",
+      "content": "S- Succubus? You can really summon a succubus?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Demons are a powerful species, far beyond ordinary monsters.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "They are found in secluded places like ancient towers or underground labyrinths that have been untouched by humans.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Such areas are restricted by the state, only accessible to parties ranked level 6 or higher.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was generally accepted that the gods appearing in mythology had the characteristics of the demon tribe, and that they were a projection of the collective consciousness of ancient people.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The fact that no new demons have emerged in modern times, when individuality is emphasized, also supports the established theory.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In ancient times, the concepts of good and evil were ambiguous, so taboos beyond imagination were practiced.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The intensity of the stimuli that people of that era enjoyed was so strong that even modern wars couldn't replicate it, and the sublimation of that desire was the demon race, known as the ancient gods.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Given that the succubus is thought to have originated from orgiastic rituals, it was only natural for the curious students to feel nervous.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Then let's begin.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Having found the code name for the succubus, Thad transmitted the information to the central control room.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As beams of light shot out from the four spires, a translucent figure flickered in the tranquil scenery and then solidified into a succubus.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The students stared without even blinking.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They had anticipated this moment, having encountered succubi more in novels or myths than in scholarly texts, but the actual appearance was far from what they expected—more horrifying than they had imagined.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The nearly naked female body was bruised and blue, with grotesque bat wings sprouting from its back.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Its eyes were narrow and slanted, the nose a perfect pig snout, and the teeth so crooked that even with its mouth closed, the lips jutted out.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The lips, bluish like a corpse's, added to the grotesque appearance.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student",
+      "content": "I- Is that really a succubus?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The male students grimaced in disgust.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "No matter how beautiful the body, the other monstrous features were repulsive.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Olivia examined the succubus's face closely.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She had received reports as an inspector for the Teachers' Association, but this was her first time seeing it in person.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Recognizing the familiar features of the succubus she had once defeated in her youth, Olivia nodded in approval.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Hmm, this seems adequate.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Given how little data we have on demons, I was skeptical.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Olivia clapped her hands to draw the students' attention.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Alright, everyone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "This might be your first time seeing a succubus.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "This is what they look like.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The monsters simulated by Heaven's Trials are updated based on the information provided by numerous explorers and scholars.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "This is my first time seeing the demon version.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Now, let's see how well it replicates its dream-manipulating abilities.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Thad switched to test mode, the succubus's appearance began to change.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The students opened their mouths with dumbfounded faces.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Saliva even oozed out from the mouths of the boys in particular.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The succubus now had straight black hair, pale white skin, and a delicate, beautiful face.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "And, of course, it was completely naked.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Thad",
+      "content": "Um, Principal.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Thad",
+      "content": "There are still young students here, isn't this a bit inappropriate…?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Thad spoke, Olivia stepped aside so they could get a closer look.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "So, what do you think?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Would you call this beautiful?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A thunderous cheer erupted from the male students.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student",
+      "content": "Wow! This is the best!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student",
+      "content": "This is really the best!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student",
+      "content": "I don't think I would get bored even if I took classes like this all day.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Olivia smiled sweetly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "In that case, you're all dead.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The room fell silent, as if cold water had been thrown over them.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "No matter how it looks, a demon's essence remains the same.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "And what is a demon?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "They are grotesque mistakes made by humans who lived a long time ago.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "When you encounter a demon, there's only one thing to consider: Can you kill it or not?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "The moment you make any other judgment, your head will be rolling on the ground.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Olivia nodded to Thad, the succubus returned to her original hideous form.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The students felt a chill run down their spines at the thought that they had momentarily been entranced by such a monstrosity.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "There's a saying: 'Seeing is believing.'",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "The succubus's appearance can shake Spirit Zone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "To confront a demon, you need a party of at least level 6 or higher.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "At that level, a single moment of carelessness can lead to annihilation.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Whether a swordsman gets distracted or a healer rushes to aid the wounded, a mage must not falter.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "It's because we stay cool-headed and vigilant that our comrades can perform their duties to the fullest.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "That's why the mage is the top priority for survival in a party and must be the last to die, if at all.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The students were fully engaged, listening intently.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was the first time they had received such a brutally honest lesson about what happens on the front lines.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "This, too, was part of Olivia's practical, real-world-focused education.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "So, what do you think?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "This is the effectiveness of Heaven's Trials.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "No matter how much I explain it in words, it is a world apart from seeing it with your own eyes.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Of course, you won't be fighting demons anytime soon, but combat in Heaven's Trials is one of your graduation exam subjects.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "If you make such a mistake in the Colosseum, you will fail.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Sending a magician who makes such errors into the field would lead to the deaths of their comrades.",
+      "tone": null
+    }
+  ],
+  "source_hash": "cd577fc52ecfbffc60ad5df8eb6f90709735b5d54b050f38c9a73b5d1e4421e6",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T17:33:20.844577+00:00"
+}

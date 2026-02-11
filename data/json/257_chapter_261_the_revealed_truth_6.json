@@ -1,0 +1,631 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The students unconsciously took a step back.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The voice of the elderly man, who seemed like he could enter a coffin tomorrow, was louder than a young man's shout.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "However, once they grasped the meaning behind the old man's words, the shock was even greater than his volume.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Kingdom of Kazra was a nation located north of the Kingdom of Thormia.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "What business could an official emissary, who carries the king's orders, have at a provincial academy instead of the Royal Magic Academy?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The students' confusion was soon cleared up by the next words of Ordos.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ordos",
+      "content": "Is Arian Shirone present in this place? If so, come forward and heed the command of the king!",
+      "tone": "commanding"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The students, acting as though this was a grave duty, started searching for Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But Shirone was nowhere to be seen.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Once the initial shock settled, a strange thought occurred. Why was an emissary from the Kingdom of Kazra looking for Shirone?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheas turned to the student next to him and said.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Could you go and fetch Shirone? It seems like an urgent matter.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student",
+      "content": "Huh? Ah, yes!",
+      "tone": "eager"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The student hurriedly darted off to search for Shirone.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Of course, he had no idea where Shirone could be, and finding him in this vast campus seemed almost impossible.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But in the rush of the moment, his legs moved before he could think.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Arian Shirone! Is Shirone not here? This is the king's command! Come quickly and receive the royal decree!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ordos shouted as if deeply irritated.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Naturally, being an emissary of the Kingdom of Kazra, charged with executing the king's orders, meant he held a position beyond reproach by anyone present.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "No matter how renowned Alpheas was in the magic society, his authority was granted by the state. No organization could outrank the state itself.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "However, since it was as if the king of a foreign country had personally stepped forward, the students of the noble families who had read the treatise on imperialism over and over again were unable to make a sound.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ordos",
+      "content": "Shirone! Why are you not coming forward quickly!",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I've brought Shirone.",
+      "tone": "calm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A beautiful voice cut through Ordos's harsh shout.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Olivia, the current principal of Alpheas Magic Academy, walking hand in hand with Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Since Shirone always visited the Supernatural Psychic Science Research Group after classes, finding him hadn't been difficult.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Iruki and Neid followed closely behind.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone, wearing a bewildered expression, scanned his surroundings.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nearly the entire academy had gathered, and standing at the forefront were formidable-looking bodyguards and a large carriage.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "On the way, Olivia had only mentioned that someone was looking for him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Shirone, go on. That man is an emissary from the Kingdom of Kazra.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Huh? An emissary?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone, finally realizing what was happening, looked up at Olivia in shock.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "While Shirone had come to trust Olivia, especially after she had helped when Killain caused trouble, hearing that a royal emissary was involved made him anxious.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Olivia gently patted his back, reassuring him.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Trusting Olivia, Shirone took a deep breath and walked toward Ordos.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ordos glared at Shirone with hollow eyes.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Though his eyes were hollow, it felt as though his brain was being penetrated.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone had the eerie feeling that he couldn't tell a lie.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As soon as he had that thought, Ordos asked in his characteristic raspy voice.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ordos",
+      "content": "Are you Arian Shirone?",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes, I am.",
+      "tone": "firm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ordos",
+      "content": "Lying in front of me is to insult the Kingdom of Kazra! I will ask again! Are you certain that you are Arian Shirone?",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes! I'm certain!",
+      "tone": "defensive"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone found himself shouting without realizing it.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He didn't understand why Ordos had to shout at such close range, but the impact was undeniable.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As his mind turned blank, he responded automatically as if he was under a trance.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ordos stretched out his hand toward the assistant standing behind him.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The assistant handed him a scroll bearing the royal seal, which Ordos unfurled, raising his head arrogantly and shouting.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ordos",
+      "content": "Arian Shirone! Before delivering the king's decree, I will ask you a few questions. Be aware that lying or giving false testimony may cost you your life. Do you understand?",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes, I understand.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Although Shirone was uncomfortable with Ordos's threatening attitude, there was no choice but to comply since it was the king's command.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Of course, he had nothing to be ashamed of since he had not committed any sins in his life.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ordos",
+      "content": "Arian Shirone, son of a hunter living on the middle slopes of the Valley of Dawn, is that correct?",
+      "tone": "accusing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes, that's right.",
+      "tone": "defensive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ordos",
+      "content": "Arian Vincent and Arian Olena's son, found in a stable, is that correct?",
+      "tone": "accusing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes, that's right.",
+      "tone": "resigned"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "There are no surnames that have any particular meaning for commoners.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Vincent and Olena shared the same surname because they belonged to the Arian ethnicity.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Though their people were little-known, any ethnographer would immediately recognize that they were commoners.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ultimately, Ordos's words showed no consideration for Shirone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes, that's right.",
+      "tone": "sighing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone answered with a sigh.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He could feel the disgusted looks of the other students, but he had already braced himself for this.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "However, Ordos seemed obsessed with humiliating Shirone, relentlessly highlighting the most demeaning details.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ordos",
+      "content": "You were raised at two months old by the hunter Vincent, who lives in the Thorn Mines area on the middle slopes of the Origin Mountains. You were abandoned in a stable. From then on, you learned hunting skills from your father. Later, you entered the service of Ogent Family as a low-ranking butler for two years, and it was through them that you became a guest and gained admission to this magic academy. Is all of that true?",
+      "tone": "accusing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "One of the students burst into laughter.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Puhahahaha! A low-ranking butler!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The laughter died down quickly as others stared, but it was clear the other students were also snickering internally.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "A low-ranking servant was essentially a servant who mopped floors in a noble household.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nade looked around, trying to memorize the face of the student who had laughed earlier.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Iruki also frowned, seeming offended by Ordos's words.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone sighed again.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "When he first stepped forward, he had been flustered, but by now, he fully grasped his situation.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Everyone was mocking him.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was horrible to see the friends who had laughed and talked with him not too long ago now looking at him as if he were a bug.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ordos",
+      "content": "Answer me, Shirone! Is all of this true?",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes, it is... true.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As soon as Shirone finished speaking, the students began to murmur.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Most of the responses were scornful and mocking, and only a few looked at Shirone with pity.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Among those few were Canis and Arin, listening from a distance away from the crowd.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "That's unexpected. Shirone was a commoner?",
+      "tone": "disbelieving"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "Hmph, so what? Nobles are always annoying. All they know how to do is flaunt their family name.",
+      "tone": "bitter"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "But not everyone is like that. Iruki and Nade, as well as Dante's group, are also upset. Especially Dante. It's surprising; I thought he didn't like Shirone.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "At least Shirone had the title of 'commoner,' but they were nothing more than rootless bastards.",
+      "tone": "bitter"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Canis looked at Dante with disgust and spat out as if it didn't matter at all.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "Tch, what does it matter where they come from to those magic-crazed lunatics? That's what's normal for aspiring mages. No, it's even more annoying. They're born with a silver spoon in their mouth, so who are they to pity anyone?",
+      "tone": "disgusted"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "Hey... Amy is coming too.",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Two women were hurriedly running toward the place Arin was pointing.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They were Amy and her best friend, Seriel.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Amy, what the hell is going on?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "I don't know! We'll see when we get there.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy and Seriel pushed their way through the crowd of students.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Since Shirone's official lover had arrived, the students quietly made way without a word.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Shirone! What in the world is...!",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy stopped in her tracks, and Shirone placed one knee on the ground, listening to the royal emissary.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ordos, as if he had only been whispering until now, shouted at the top of his lungs.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ordos",
+      "content": "King Orkamp IV of Kazra decrees! All of Arian Shirone's actions match the information we have received in Kazra. Thus, there is a strong possibility that you are the first prince, who went into hiding during the kingdom's crisis 18 years ago! Therefore, we invite you to the kingdom. Respond without hesitation and prove your rightful claim as the first prince! That is all! Orkamp IV!",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Iruki and Nade shouted simultaneously.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Whaaaaat?!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The shock felt by other students was similar.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "When the foreign emissaries came and started digging into Shirone's past, everyone thought it was just a simple scouting offer.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Although rare, it's not unheard of for kingdoms to recruit talent from other kingdoms depending on their needs.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But Shirone was a royal. Not just any royalty, but the first prince, a direct heir to the royal bloodline.",
+      "tone": null
+    }
+  ],
+  "source_hash": "0eefbe6673ef8387ba273b06e16440872c520d7c9e3f5f2db5b4ac3239a76b6c",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T17:58:49.018682+00:00"
+}

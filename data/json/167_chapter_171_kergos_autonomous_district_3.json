@@ -1,0 +1,979 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Outsiders trampled over Kergos with all sorts of excuses and justifications.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Many women lost their purity under the guise of security inspections.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "No matter how twisted his comrade's hatred became, it was impossible to side with the outsiders.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "I will begin the inspection now. You, come here and raise your arms.",
+      "tone": "authoritative"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy stood her ground, refusing and wary at the same time.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "If the man had not been a master, I would have struck him the moment I was insulted.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "But his killing intent was unusual.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If a fight broke out, it would cause chaos, and this was not a suitable place for such an act.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "This is too much to watch.",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian stepped in front of Amy.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Although Amy might be better at assessing the situation, if the opponent intended to humiliate a woman, it was right for him to step in.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Even though Falcoa is dead, Freeman's organization remains strong. If you treat us like this, you won't escape unscathed either.",
+      "tone": "determined"
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Rian's strategy of leveraging Freeman's influence was clever.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "However, the Kergonians were more belligerent than expected.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Mahatu's face turned red, as if his reverse scale had been touched.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "Is this a challenge? Come at me as much as you want. Kergonians do not run away.",
+      "tone": "defiant"
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "-Everyone, step back. Mahatu is focusing his mind.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Arin informed them through the mental channel.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "By the time she finished speaking, everyone could feel it.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even the usually insensitive Rian sensed the powerful aura.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy aimed her Spirit Zone at Mahatu.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Depending on how high Mahatu's killing intent soared, my combat strategy would be decided.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Bwooouuuu!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At that moment, a horn sound echoed from the other side of the cave.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was loud enough to reach deep into the winding tunnel, giving a sense of its volume.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the horn's sound spread throughout the cave, Mahatu looked at the entrance with surprised eyes.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His comrades' reactions were even more severe. They trembled as if they couldn't believe it.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "Mahatu, that's the horn of Jin-Gok. What in the world...?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Before his comrade could finish speaking, Mahatu leaped forward.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "Damn it! Why is the horn of Jin-Gok sounding? Has a war broken out?",
+      "tone": "frantic"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The horn of Jin-Gok was the highest level of alert set by the Kergos tribe.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Upon hearing this sound, all tribesmen must gather at the source of the sound immediately.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "There were no exceptions, and noncompliance would be punished.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Once the natives disappeared, Amy's group fell into confusion as well.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "What is this? Something must be happening outside.",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "We should go check it out. It's dangerous to stay in a dead-end.",
+      "tone": "cautious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy's group left the cave and headed towards the source of the sound.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They arrived at a massive plaza where seven tunnels converged.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Natives were gathering, but there were so many that it was hard to see what was happening.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The noise of the crowd made it difficult to communicate.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They hoped for a mental channel, but Arin was just staring at the platform.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Old Man",
+      "content": "Kneel and worship! The messenger of the god who will save us has come!",
+      "tone": "authoritative"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "An old man on the platform shouted.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At his command, over a thousand people knelt and shouted in unison.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Old Man",
+      "content": "We welcome the messenger of the god.",
+      "tone": "enthusiastic"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The crowd seemed to collapse, revealing the old man and Shirone standing in front of him.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's eyes met Amy's as he looked around.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Although they had only been apart for two hours, he had experienced so many absurd situations that he could hardly contain his emotions.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Amy.",
+      "tone": "relieved"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The people who had been shouting for the god's messenger fell silent.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The silence spread out in concentric circles, and some people looked at Amy.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Among them was Mahatu.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy felt she would never forget the look of confusion on his face.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Shirone.",
+      "tone": "calm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The natives' gazes returned to Shirone, intent on not missing a single word from his mouth.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What's with these people? I can't understand a word they're saying.",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Seeing Shirone almost on the verge of tears, Amy scratched her eyebrow.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "How should I know?",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "***",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone moved forward, the crowd parted like bamboo being split.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The fact that they moved in perfect unison even while bowing was a sign of their tension.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's face was haggard.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Being exposed to an unknown language for two hours was exhausting.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I was about to die from frustration. Every time I said something, they bowed, so I ended up not saying a single word. Why are these people acting like this towards me?",
+      "tone": "exasperated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "I don't know. We just got here ourselves. Did you pass the test?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yeah, I think so, but there's a bit of a problem.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "A problem? What problem?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Explaining the scene from the Room of Achievement and Sacrifice would take too long, and this wasn't a good time.",
+      "tone": "diplomatic"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The old man who had blown the horn approached Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Following behind the old man was Mahatu.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Mahatu",
+      "content": "His mind was in turmoil.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Mahatu",
+      "content": "If Shirone was indeed the god's messenger, it meant he had opened all eight dimensions of the Mirror of Time, but seeing a fluffy-haired boy was shocking.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "-Absolute obedience to the god's messenger.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "This was something he had heard countless times since childhood.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Unlike the religious beliefs of outsiders, for Kergonians, the god was a real power to be obeyed like subjects to a king.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Mahatu quickened his pace and approached Shirone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "Revered god's messenger, forgive my presumption, but are these people your comrades?",
+      "tone": "respectful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Zis approached to translate, Mahatu raised his hand to stop him.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Mahatu",
+      "content": "No, if there's someone using mental magic, let them enable me to communicate with the god's messenger directly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Mahatu realized this when Amy's voice had grown louder.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Usually, when talking through an interpreter, speech becomes simple and short, but some parts seemed to be understood quite accurately in Kergosian.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Arin's Spirit Zone permeated Mahatu's shadow.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone was startled by the voice echoing in his head but quickly understood what was happening and nodded.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Mahatu, understanding that they were ready, repeated his question.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes. They are my friends.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Mahatu nodded heavily.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Mahatu",
+      "content": "He wasn't afraid of dying, but offending the god's messenger's friends was a mistake that could endanger the entire tribe's fate.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The downfall of Kergos wasn't due to the lupe uprising or the volcanic eruption.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Officially, that's what was said, but the hidden truth was that no one knew.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Kergonians had angered an angel.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "And the boy standing before him was the descendant of that angel.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The 500-year-old tale passed down through generations was deeply rooted in the subconscious fear of the current Kergonians.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Mahatu's expression changed from defeat to fear, and then, as if he had made up his mind, he resumed his original expression, knelt deeply, and shouted.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "Forgive me! Please kill me! I have greatly offended your comrades!",
+      "tone": "desperate"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Offended? How did you offend them? You didn't use violence, did you?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's vigilance triggered by their almost fanatical behavior, made him snap.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Oh, it's nothing much. Just a little skirmish. You know, the kind we usually have.",
+      "tone": "dismissive"
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Amy's words were almost like slang.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "There had indeed been a conflict, but the situation was complicated, and she hoped they could move past it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Mahatu looked up at Amy gratefully.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Relieved that he hadn't jeopardized his race, he stepped back and made way for the old man.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Introducing himself as Hashid, an elder of the Kergos tribe, the old man posed a meaningful question to Shirone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Hashid",
+      "content": "Did you come with the message from Lord Miro?",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone recalled the scene from the Room of Achievement and Sacrifice.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Although it had passed quickly, each fragment of information was vivid.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "When Shirone nodded, the elder turned and leaned on his staff.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The gathered natives awaited his answer.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Hashid",
+      "content": "At last, the god's messenger has come to Kergos!",
+      "tone": "enthusiastic"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's group covered their ears.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As soon as Hashid finished speaking, the natives roared like warriors.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The cave echoed with sound, threatening to burst the ceiling.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amidst the cries of joy, the sound of weeping occasionally mixed in.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Barefooted people approached and knelt before Shirone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Old Man",
+      "content": "God's messenger, my child is sick. Please heal them.",
+      "tone": "desperate"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With Arin's channel connected to Mahatu, she could understand the woman's plea.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But Shirone didn't have the ability to heal the sick.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A nearby old man, crawling on his knees, held out his hands, begging.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Old Man",
+      "content": "Please give us food! My family is starving.",
+      "tone": "pleading"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "This started a chain reaction as more people arrived.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Old Man",
+      "content": "Grant me eternal life!",
+      "tone": "desperate"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Old Man",
+      "content": "Please spare my daughter Atore! She has a fiancé!",
+      "tone": "pleading"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Old Man",
+      "content": "Make me a woman!",
+      "tone": "desperate"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Arin, unable to bear the cacophony, covered her eyes as well.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The sight conveyed through her telepathy was so saturated with red it was like watching boiling lava.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If she absorbed any more of the people's desperation, her mind would collapse.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "Canis! The voices are too loud!",
+      "tone": "panicked"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Close the channel. You might get hurt.",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone, trapped by the crowd, couldn't move.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Though Arin canceled her telepathy, making translation impossible, the emotional waves continued to press against her heart.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It felt like collective hypnosis.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The key emotion was madness.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone looked to Hashid and Mahatu for help, but they could only look at their kin with sorrowful eyes.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Old Man",
+      "content": "Everyone, be silent!",
+      "tone": "authoritative"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A man's shout cut through the noise, bringing instant silence.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A young man accompanied by burly warriors walked from the northern tunnel.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Though not tall, his bulging muscles overwhelmed even his guards.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His long hair was tied back, and his face bore golden tattoos.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Arin finally opened her eyes.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The emotions she perceived through her telepathy were of reverence.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But that wasn't all.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "There was also fear.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The emotion was typical of someone facing an iron-fisted ruler.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The man was undoubtedly the leader of Kergos.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kadum",
+      "content": "I am Kadum, chieftain of Kergos. I will take care of you from now on.",
+      "tone": "authoritative"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone consulted his friends.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "No one opposed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "To achieve anything in the self-governing district, they had to meet this person at least once.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "We'll handle it from here. It might be dangerous.",
+      "tone": "cautious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zis nodded without showing any discomfort.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was his lack of unnecessary pride that made Shirone's group trust him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Be careful. The self-governing district seems very different from the Kergos I know.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yeah. There won't be any trouble. Thanks for translating.",
+      "tone": "grateful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "I'm glad I could help. Once this is over, come to my house. Yuna and I will have plenty of good food ready.",
+      "tone": "friendly"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone requested Kadum to escort Zis to the ruins.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Several people eagerly volunteered to guide Shirone, wanting to follow his orders.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Arin picked someone trustworthy.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zis left the self-governing district with a large warrior.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kadum led Shirone's group into the cave.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even after walking for 20 minutes, they hadn't reached their destination.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If this path were a dead-end, any traveler would have collapsed by now.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A maze doesn't just involve complex design.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The scale of the self-governing district's labyrinth was overwhelming.",
+      "tone": null
+    }
+  ],
+  "source_hash": "e092175cc66ba55d8ea8a02093df7728c51f80e5066b37d911c577fe6b905f45",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T16:35:49.339054+00:00"
+}

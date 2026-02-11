@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\ruamel\yaml\error.py
+# hypothesis_version: 6.148.8
+
+['\x00\r\n\x85\u2028\u2029', ' ... ', ':\n', 'CommentMark', 'FileMark', 'MarkedYAMLError', 'MarkedYAMLWarning', 'ReusedAnchorWarning', 'StringMark', 'UnsafeLoaderWarning', 'YAMLError', '^', 'buffer', 'column', 'index', 'line', 'name', 'once', 'pointer']

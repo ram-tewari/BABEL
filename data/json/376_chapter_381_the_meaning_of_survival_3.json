@@ -1,0 +1,760 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "Collie left the Virtual Zone, and the 30 students divided into red and blue teams."
+    },
+    {
+      "type": "action",
+      "content": "Shirone took a deep breath to calm his nerves."
+    },
+    {
+      "type": "narrator",
+      "content": "The survival evaluation wasn't about fighting people or monsters."
+    },
+    {
+      "type": "narrator",
+      "content": "There was no way to win against nature."
+    },
+    {
+      "type": "narrator",
+      "content": "Pain was an inevitable fate, and now there were only 10 seconds left until that pain began."
+    },
+    {
+      "type": "action",
+      "content": "Perhaps because of this, some students who had experienced it last year already had pale faces."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Damn. If it weren't for this, I'd stay in the senior class for 10 years.",
+      "tone": "resigned"
+    },
+    {
+      "type": "narrator",
+      "content": "The number one subject that senior class students wanted to avoid."
+    },
+    {
+      "type": "narrator",
+      "content": "That was the survival test."
+    },
+    {
+      "type": "action",
+      "content": "-Transmitting information to the Virtual Zone. Standby time: 5 seconds."
+    },
+    {
+      "type": "action",
+      "content": "4 seconds. 3 seconds..."
+    },
+    {
+      "type": "action",
+      "content": "As the female guide's voice was heard, various reactions appeared: students closing their eyes tightly, loosening their shoulders and necks, or calming their minds with a composed expression."
+    },
+    {
+      "type": "action",
+      "content": "Shirone also stared straight ahead, calming his mind."
+    },
+    {
+      "type": "action",
+      "content": "Then someone tapped his arm. It was Iruki."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "See you on the other side, Shirone.",
+      "tone": "bitter"
+    },
+    {
+      "type": "action",
+      "content": "-Data transmission complete. Activating the Virtual Zone extreme cold program."
+    },
+    {
+      "type": "action",
+      "content": "The scenery began to ripple beyond Iruki's bitter smile."
+    },
+    {
+      "type": "action",
+      "content": "The landscape of the Virtual Zone disappeared in an instant like turning the pages of a picture book, and the summit of a snowy mountain appeared."
+    },
+    {
+      "type": "action",
+      "content": "Shirone looked around in surprise."
+    },
+    {
+      "type": "action",
+      "content": "Cold wind entered his nose, and the snow covering the ground sparkled in the sunlight."
+    },
+    {
+      "type": "action",
+      "content": "The sky felt close enough to touch."
+    },
+    {
+      "type": "action",
+      "content": "The snowy mountains surrounding him like walls had a vivid color, as if they were coated with condensed milk."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Is this... the first stage of survival?",
+      "tone": "curious"
+    },
+    {
+      "type": "narrator",
+      "content": "Even students above Class Two were experiencing the situation for the first time, as the survival program was reset for each evaluation."
+    },
+    {
+      "type": "action",
+      "content": "Iruki turned around and pointed with his finger."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "It starts from there.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "content": "Shirone's eyes widened as he looked in that direction."
+    },
+    {
+      "type": "action",
+      "content": "A massive avalanche, something he had never seen before and would likely never see again, was slowly descending."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Damn it!",
+      "tone": "alarmed"
+    },
+    {
+      "type": "action",
+      "content": "Boyle, Pandora, and several other students cast teleportation spells and flew in the opposite direction."
+    },
+    {
+      "type": "action",
+      "content": "But Shirone and a few others just stood there."
+    },
+    {
+      "type": "narrator",
+      "content": "The avalanche was approaching much more slowly than expected. It was falling from an enormous height. The fact that it looked so massive meant that an unimaginable amount of snow was coming."
+    },
+    {
+      "type": "sfx",
+      "content": "BOOM"
+    },
+    {
+      "type": "action",
+      "content": "The astronomical mass of snow landed on the summit, pushing the air outward."
+    },
+    {
+      "type": "sfx",
+      "content": "A gale strong enough to tear off cheeks swept through, and a 300-meter-high snowstorm engulfed the summit in 0.1 seconds."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ugh!",
+      "tone": "painful"
+    },
+    {
+      "type": "action",
+      "content": "Shirone gritted his teeth and steadied his mind."
+    },
+    {
+      "type": "action",
+      "content": "The avalanche, flowing faster than a torrent, mercilessly pushed him off the summit."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "No! Get a grip!"
+    },
+    {
+      "type": "action",
+      "content": "Swallowing the snow that entered his mouth, Shirone pushed through the snow."
+    },
+    {
+      "type": "sfx",
+      "content": "Phwa! Phwa!"
+    },
+    {
+      "type": "action",
+      "content": "The snow was larger than an iceberg, and he was falling towards the unseen ground below."
+    },
+    {
+      "type": "action",
+      "content": "At the top of the snow mass, Shirone stuck his face out."
+    },
+    {
+      "type": "sfx",
+      "content": "Phwa! Phwa!"
+    },
+    {
+      "type": "action",
+      "content": "Spitting out everything in his mouth and opening his eyes, he saw the round sun embedded in the clear sky."
+    },
+    {
+      "type": "action",
+      "content": "Flying into the sky, Shirone maintained the Fly spell and surveyed the surroundings."
+    },
+    {
+      "type": "action",
+      "content": "Students who had made the same decision as Shirone were popping out of the falling snow one by one."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Shirone!",
+      "tone": "urgent"
+    },
+    {
+      "type": "action",
+      "content": "Turning his head at Iruki's voice, he saw him covered in snow, pointing and shouting."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Slowly descend...!",
+      "tone": "urgency"
+    },
+    {
+      "type": "action",
+      "content": "Before he could finish, the snow waterfall swallowed Iruki."
+    },
+    {
+      "type": "action",
+      "content": "Shirone's startled gaze turned upward. The once clear sky was now completely blocked by white snow."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "This is insane...!",
+      "tone": "alarmed"
+    },
+    {
+      "type": "action",
+      "content": "A white torrent flowed through the spot where Shirone had been."
+    },
+    {
+      "type": "sfx",
+      "content": "Ahhh, ahhh..."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It hurts... Help...",
+      "tone": "painful"
+    },
+    {
+      "type": "action",
+      "content": "Collie looked sympathetically at the students rolling around in the Virtual Zone."
+    },
+    {
+      "type": "thought",
+      "speaker": "Collie",
+      "content": "How hard it must be. These children who were raised so preciously."
+    },
+    {
+      "type": "narrator",
+      "content": "The outcome depended on the final survivor, but no student would easily give up the evaluation for that reason."
+    },
+    {
+      "type": "narrator",
+      "content": "Since individual achievements, not just team results, were disclosed to the association and scouts, they would try to endure with all their might."
+    },
+    {
+      "type": "thought",
+      "speaker": "Collie",
+      "content": "This might be a situation they never need to face in their lives. But the world they will live in is even harsher. Simply because it's reality, life becomes hell."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "It seems to have started already.",
+      "tone": "matter-of-fact"
+    },
+    {
+      "type": "action",
+      "content": "Collie quickly unfolded his arms and turned around."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "Principal.",
+      "tone": "respectful"
+    },
+    {
+      "type": "action",
+      "content": "Alpheus, accompanied by Vice Principal Olivia, was watching the Virtual Zone."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "They've all entered a semi-conscious state. Well, that's to be expected.",
+      "tone": "neutral"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Even professionals dread this. It's a subject that less prestigious schools with fewer graduates don't even adopt.",
+      "tone": "disapproving"
+    },
+    {
+      "type": "narrator",
+      "content": "The survival evaluation was a controversial subject even within the association."
+    },
+    {
+      "type": "narrator",
+      "content": "While it was good to assess practical abilities, there was a risk of students being broken before they could even sprout."
+    },
+    {
+      "type": "narrator",
+      "content": "Students who didn't graduate were still valuable members of society in the long run. If there were no magicians to open magic shops, become teachers, join the security forces, perform guild commissions, or handle administrative complaints, the magical society couldn't function."
+    },
+    {
+      "type": "narrator",
+      "content": "Therefore, the association had instructed that only the top five prestigious schools, which received more than ten graduation tickets, conduct the survival evaluation."
+    },
+    {
+      "type": "narrator",
+      "content": "Since it was a subject only the chosen ones took, it became a staple topic at alumni reunions."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "This is the program provided by the association this year, right? Is it currently the first stage, 'Snow Extreme'?",
+      "tone": "inquisitive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "Yes. There are 2 minutes left. It will feel like 2 hours to the students.",
+      "tone": "matter-of-fact"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "But there are no dropouts yet. This will reduce the differentiation among low scorers. I'll have to suggest raising the difficulty in the future.",
+      "tone": "disapproving"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "Ugh!",
+      "tone": "painful"
+    },
+    {
+      "type": "action",
+      "content": "Shirone, seeing the rock rushing towards him, fell with his arms covering his face."
+    },
+    {
+      "type": "action",
+      "content": "A sharp pain jolted his arm bones, and his nose stung. A snow mass hit him on the head."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "My arm, it's broken."
+    },
+    {
+      "type": "action",
+      "content": "Even though he had wrapped himself in an air shield, he fell too fast to absorb the impact completely."
+    },
+    {
+      "type": "action",
+      "content": "Lying on the rock, he looked up to see his broken arm bone protruding through the skin."
+    },
+    {
+      "type": "narrator",
+      "content": "It was a virtual world, so it would soon be reconstructed, but the pain transmitted through his nerves was more annoying than in reality."
+    },
+    {
+      "type": "sfx",
+      "content": "Hoo! Hoo! Hoo!"
+    },
+    {
+      "type": "action",
+      "content": "He had landed on a protruding rock in the middle of a cliff."
+    },
+    {
+      "type": "action",
+      "content": "It was better this way. He hoped time would pass and the first stage would end."
+    },
+    {
+      "type": "sfx",
+      "content": "Crack. Crack."
+    },
+    {
+      "type": "action",
+      "content": "As if mocking his thoughts, the rock began to crack and show signs of collapse."
+    },
+    {
+      "type": "action",
+      "content": "Shirone grabbed his broken arm and shook his shoulders."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Heh, heh heh.",
+      "tone": "resigned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Is this a regular subject? Are they trying to kill us?",
+      "tone": "bitter"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He could imagine the expressions of students if the survival subject was chosen for the graduation exam."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He suddenly felt a deep respect for all the graduates."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Alright, let's see this through to the end.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "content": "With eyes filled with determination, Shirone lifted his head."
+    },
+    {
+      "type": "action",
+      "content": "As the rock broke, his body fell to the ground."
+    },
+    {
+      "type": "sfx",
+      "content": "Splash!"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "What?"
+    },
+    {
+      "type": "action",
+      "content": "Hearing the sound of water, Shirone opened his eyes."
+    },
+    {
+      "type": "action",
+      "content": "He felt a coldness that seemed to shatter his mind."
+    },
+    {
+      "type": "action",
+      "content": "Students, regardless of team, were sinking into the foam."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Is this the second stage?"
+    },
+    {
+      "type": "narrator",
+      "content": "There was a process for transitioning from the first to the second stage, but those in a semi-conscious state couldn't perceive it."
+    },
+    {
+      "type": "narrator",
+      "content": "It was designed to leave no room for mental recovery."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Why can't I use magic?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He couldn't enter his Spirit Zone. Of course, since this world was virtual, magic wasn't actually blocked."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Let's get to the surface."
+    },
+    {
+      "type": "action",
+      "content": "Flailing like a frog, Shirone headed for the surface. He felt like he would freeze to death if he stayed underwater any longer."
+    },
+    {
+      "type": "action",
+      "content": "As he reached out near the surface, his eyes widened in shock."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He couldn't get out."
+    },
+    {
+      "type": "action",
+      "content": "What he felt was a cold, hard ice wall."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "What? How do I get out?"
+    },
+    {
+      "type": "action",
+      "content": "He saw a blurry shadow on the ice above. Bringing his eyes closer, he saw a young boy squatting."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "I need to get out. I'm running out of breath."
+    },
+    {
+      "type": "action",
+      "content": "He pounded on the ice wall as if asking for help."
+    },
+    {
+      "type": "action",
+      "content": "The boy, after staring for a while, nodded as if he understood and pointed somewhere."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "There? I should go there?"
+    },
+    {
+      "type": "action",
+      "content": "Shirone confirmed by pointing in that direction."
+    },
+    {
+      "type": "action",
+      "content": "The boy nodded again and started moving as if to show the way."
+    },
+    {
+      "type": "action",
+      "content": "Shirone pushed against the ice wall, following the boy. Meanwhile, the cold water was choking him."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "This is bad. I can't hold on any longer."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He wanted to reach the surface and breathe freely right away. But the boy's pace was excruciatingly slow."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Hurry! Hurry! I can't..."
+    },
+    {
+      "type": "action",
+      "content": "The time he could hold his breath by willpower had ended. Now, he simply couldn't breathe because there was no air."
+    },
+    {
+      "type": "action",
+      "content": "His body trembled with the fear of cold and death."
+    },
+    {
+      "type": "action",
+      "content": "Finally, the boy stopped. He looked down at Shirone and pointed to a spot a few steps away."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "There!"
+    },
+    {
+      "type": "action",
+      "content": "Shirone swam with all his might. Even though there were only 3 meters left, it felt incredibly far."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Got it! Finally...!"
+    },
+    {
+      "type": "action",
+      "content": "Feeling a burst of joy, Shirone reached out towards the exit."
+    },
+    {
+      "type": "sfx",
+      "content": "Thud."
+    },
+    {
+      "type": "action",
+      "content": "A solid ice wall blocked him again."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "What...?"
+    },
+    {
+      "type": "action",
+      "content": "His mind went blank. Shirone looked up at the boy on the ice for an explanation."
+    },
+    {
+      "type": "action",
+      "content": "The boy grabbed his belly and laughed, then leaned in close to Shirone's face and stuck out his tongue."
+    },
+    {
+      "type": "sfx",
+      "content": "Gulp!"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "No. Stay calm."
+    },
+    {
+      "type": "action",
+      "content": "He hurriedly suppressed the anger that was burning his mind."
+    },
+    {
+      "type": "action",
+      "content": "The boy, taunting him with his tongue in the fresh air, was infuriating."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "But getting angry wouldn't improve the situation."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Show me again. Where's the exit?"
+    },
+    {
+      "type": "action",
+      "content": "Shirone knocked on the ice wall with desperate eyes."
+    },
+    {
+      "type": "action",
+      "content": "Even with someone in urgent need at his feet, the boy stroked his chin as if pondering."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "No, no. Losing my cool means the end."
+    },
+    {
+      "type": "action",
+      "content": "The boy finally made a decision. He looked back at Shirone and shook his head, indicating he wouldn't show him."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Control your anger. I'm a magician."
+    },
+    {
+      "type": "action",
+      "content": "The light of life in Shirone's pupils began to fade. As oxygen failed to reach his brain, his bodily functions started to shut down."
+    },
+    {
+      "type": "sfx",
+      "content": "Gurgle!"
+    },
+    {
+      "type": "action",
+      "content": "A bubble of air escaped from his organs and floated out of his mouth."
+    },
+    {
+      "type": "action",
+      "content": "Cold water flowed into his stomach, replacing the lost air."
+    },
+    {
+      "type": "action",
+      "content": "It felt like his cells were freezing."
+    },
+    {
+      "type": "action",
+      "content": "His swimming stopped, and his hand, which had been touching the ice wall, slowly fell away."
+    },
+    {
+      "type": "action",
+      "content": "He saw the boy laughing as he sank."
+    },
+    {
+      "type": "action",
+      "content": "The boy stared intently at Shirone's face as he was sucked into the abyss."
+    },
+    {
+      "type": "action",
+      "content": "Then, as if making a decision, the boy nodded and raised a trident from who knows where."
+    },
+    {
+      "type": "sfx",
+      "content": "Crash!"
+    },
+    {
+      "type": "action",
+      "content": "With one strike, the ice wall shattered."
+    },
+    {
+      "type": "action",
+      "content": "That sight was captured in Shirone's dying eyes."
+    },
+    {
+      "type": "action",
+      "content": "As the frozen nerves slowly transmitted the fact to his brain, his legs started to move again, and his body began to float up."
+    },
+    {
+      "type": "sfx",
+      "content": "Phwaaah! Gah! Gahhh!"
+    },
+    {
+      "type": "action",
+      "content": "Breaking the surface, Shirone gulped down air desperately. At that moment, nothing else mattered."
+    },
+    {
+      "type": "sfx",
+      "content": "Huff! Huff!"
+    },
+    {
+      "type": "action",
+      "content": "After about a minute, he finally regained his senses."
+    },
+    {
+      "type": "action",
+      "content": "The ice was peaceful, and the boy had disappeared."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Phwa! Phwa!",
+      "tone": "relieved"
+    },
+    {
+      "type": "action",
+      "content": "Students were surfacing one by one. Not far away, he saw Amy."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "She made it."
+    },
+    {
+      "type": "action",
+      "content": "Amy, with a look of near-death on her face, took deep breaths. Then she noticed Shirone and made eye contact."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Haha!",
+      "tone": "relieved"
+    },
+    {
+      "type": "action",
+      "content": "Shirone laughed. Life was really tough."
+    },
+    {
+      "type": "action",
+      "content": "And that was his last memory of the second stage, 'Ice Prison.'"
+    }
+  ],
+  "source_hash": "ab49c0f4bf861ab2967bbe94b011fa7bfae85aa2cbc6abc67e043da4eb95acd7",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T05:31:49.620113Z"
+}

@@ -1,0 +1,1249 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At first, Amy blinked, not understanding, then, catching on to what Tess meant, she turned her head away with an embarrassed look.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Suddenly talking nonsense. What does Shirone have to do with my graduation?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "But it's true. Shirone is still in Class Four, and you're in the Advanced Class. Plus, with your skills, you'll definitely be able to graduate next year. Then, won't you leave for the capital?",
+      "tone": "matter-of-fact"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At the mention of leaving for the capital, Amy's heart suddenly started racing.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "She had never thought about it before. But realistically, it wasn't something that would happen in the far-off future.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "It has nothing to do with me.",
+      "tone": "defensive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Oh, is that so?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy spoke in a cold voice, but Tess couldn't feel any sincerity in her tone.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "After a moment of silence, Amy, as Tess had expected, spilled what was on her mind.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Still... we made a promise. That he would definitely catch up to me. That was the condition for speaking comfortably to each other.",
+      "tone": "emotional"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Hooh.",
+      "tone": "surprised"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "If they had gone as far as making such a promise, their feelings for each other couldn't be taken lightly.",
+      "tone": "analytical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Hmm. Of course, Shirone is amazing. But he moved up to Class Four in just half a year, right? No matter how much of a genius he is, it can't be that easy to graduate, can it?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy knew too. The achievements Shirone had made so far were something ordinary people couldn't even imitate.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "An 18-year-old boy who had lived without knowing magic had reached Class Four in just half a year.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It might be greedy to expect more from him.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy looked at Shirone's back, who was ahead.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Had he ever thought about this? If he really graduated, would Shirone miss her?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was difficult to take a step ahead among people who were doing their best.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But Shirone had already taken several steps ahead.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Maybe he was running, burning all his talent to its limit.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Knowing this, Amy couldn't help but feel upset.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She glared at Shirone's back with a piercing gaze and conveyed in her heart.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Hurry up and catch up. If you fall behind, I really won't let it go.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After finishing their secretive conversation, the two hurried their steps to catch up with Shirone and Rian.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Reunited, Shirone's group shared various stories as they climbed the hill towards the villa.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Shh. Quiet.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Why all of a sudden...?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy looked back at Tess, initially thinking it was another one of her pranks.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But seeing her serious expression, she immediately kept quiet.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "There's someone in front of the villa. Judging by the lung capacity, it's a man. If he's of average build, then probably between 170 to 175 cm tall.",
+      "tone": "matter-of-fact"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian grasped the hilt of the straight sword on his back.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "I don't feel any hostility, but better be prepared just in case.",
+      "tone": "cautious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tess walked silently like a cat, and the others slowly followed her.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Upon reaching the villa, they saw someone standing in front of the door.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The silhouette, seen only in outline, stood motionless, looking elsewhere.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's group advanced without letting their guard down.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But before they took a few steps, the silhouette collapsed to the ground, losing strength.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The group exchanged glances and hurried to the door.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The nighttime visitor was Zis.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His face was so battered it was hard to find a spot that wasn't injured.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Ugh! Ah, it hurts!",
+      "tone": "painful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Are you okay? Who did this to you?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Get, get away!",
+      "tone": "defensive"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zis pushed Shirone away.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He didn't want to show weakness in front of Amy, at least.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Knowing who had put him in this state, he couldn't get angry.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zis slumped down with his back against the door.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone approached to support him again, Zis forced a painful smile and chuckled.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Out playing till this time? You're really living the life.",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Despite Zis's critical condition, Tess remained on guard until the end.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He was the one who had lured Amy into danger with a strange method the night before.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even if he was injured, she had no intention of trusting him.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "On the other hand, Amy approached without hesitation.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "What happened to you? Tell me. Did Falcoa do this?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Instead of answering Amy, Zis raised his head and glared fiercely at Shirone.",
+      "tone": "aggressive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "He felt good being able to stare down Shirone confidently.",
+      "tone": "confident"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was Amy's life he had protected by hitting rock bottom in his life.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Wouldn't it be okay for him to be the protagonist for at least a minute to explain the whole story?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Hey, you. Listen carefully. Take good care of your woman.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What are you talking about?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone tilted his head in confusion, but Zis scowled fiercely.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He had been suspecting since the conversation in the carriage.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The fact that he couldn't clearly define the relationship between the two.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "That made him even angrier.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He didn't understand why he had to suffer because of Shirone, who had everything he didn't.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "It's about Amy, you bastard! If you've messed up like that, see it through to the end!",
+      "tone": "aggressive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I have no idea what you're talking about. Amy and I have been together all day today.",
+      "tone": "defensive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Bring her, even if you have to kill her. Mix the Lupe of Mortality into a drink and give it to Amy. She'll have to drink it anyway.",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "This is insane...!",
+      "tone": "outraged"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian clenched his fists like a tiger, his eyes wide with rage.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The others felt the same anger.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Of course, Amy wasn't foolish enough not to know Falcoa's trickery.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But considering her pride and the abilities of the Red Eye, it could have led to a terrible situation.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Crazy. I knew he wasn't normal, but he really went too far.",
+      "tone": "disgusted"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "So, that drink...",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "I threw it in the trash. I told him I couldn't do it. Do you get it now? I was the one who protected Amy. Not you, but me! I risked my life to protect her! Do you understand, you idiot?",
+      "tone": "aggressive"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's group was silent, unable to retort, not even wanting to.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone knelt to be eye-level with Zis.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Zis, we are...",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "That's why!",
+      "tone": "aggressive"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's words, screaming at the top of his lungs.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shouting with all his might, he felt a pain as if his ribs were breaking.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But the reason for his tears pouring out like a waterfall wasn't the pain.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Please, help me.",
+      "tone": "pleading"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's group couldn't say a word, merely looking down at Zis prostrate before them.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "My sister... I think she's been taken. When I came to my senses and went to the shop, they said she'd gone home, but she wasn't there either. So I've been looking for her... but no one would help me. Please, find my sister. I beg you.",
+      "tone": "pleading"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zis, having made his plea to Shirone's group, burst into tears, repeating 'please' over and over.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone watched, feeling both anger and sorrow seep into him.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "How long had he wandered the streets in such a mess?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Who would care about a back-alley girl?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He could vividly imagine Zis calling out his sister's name, ignored by everyone's indifference.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "My sister. My everything...",
+      "tone": "emotional"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Do you have any idea where they might have taken your sister?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Thank you! Thank you so much!",
+      "tone": "grateful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zis bowed his head repeatedly, expressing his gratitude in the only way he knew how.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Watching with disapproval, Amy grabbed Zis's arm and helped him to his feet.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Enough. Do it as you usually do. Acting like this suddenly makes us look even weirder. Let's go inside. We'll start by treating your wounds and talk.",
+      "tone": "firm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "But my sister...",
+      "tone": "pleading"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Idiot! If we rush in recklessly, we'll be the ones in trouble! If she was taken on her way home, we still have plenty of time. If necessary, we'll fly there, so let's start with the treatment.",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy led Zis into the villa, holding him up.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "While the girl, Yuna, was a concern, attending to the wounds came first.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Zis lay on the bed, Tess began to remove his clothes.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Ugh! Ah, it hurts.",
+      "tone": "painful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Of course, it hurts. You've been beaten up like this. They really didn't hold back. Just bear with it a little. I need to check your organs too.",
+      "tone": "matter-of-fact"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tess pressed down hard on Zis's abdomen.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Ughhhhh!",
+      "tone": "painful"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It must have been excruciating, but Zis endured desperately.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He knew the faster the treatment finished, the sooner he could go to save Yuna.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Lucky. There's a crack in the ribs, but the rest are just simple bruises. The organs are safe too. You're surprisingly tough.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Zis smiled bitterly. Although he wasn't good at fighting, years of being attacked by various nobles had made him quite resilient to beatings.",
+      "tone": "bitter"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Tess wrapped the bandages, Zis explained the situation.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Considering Yuna's work hours and the time she would have returned home, the abduction would have occurred around two hours ago.",
+      "tone": "matter-of-fact"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "They must have taken her to their hideout, so she wouldn't have arrived yet. But I'm not even hoping for us to be on time. I just... if only Yuna is alive...",
+      "tone": "pleading"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "No, it's okay. They'll be moving by carriage, so if we borrow horses and ride, we can easily catch up. Where exactly is their hideout? It seems quite far from here.",
+      "tone": "firm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "I've never been there myself. I heard it's on the north side of the island, but I'm not even sure about that.",
+      "tone": "hesitant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "No, it must be there.",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Alright, then let's go. Can you stay here alone?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Are you sure you're okay? I know it's ironic to say this after asking for help, but those guys are really strong.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Idiot! If we rush in recklessly, we'll be the ones in trouble! If she was taken on her way home, we still have plenty of time. If necessary, we'll fly there, so let's start with the treatment.",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy led Zis into the villa, holding him up.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "While the girl, Yuna, was a concern, attending to the wounds came first.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Zis lay on the bed, Tess began to remove his clothes.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Lucky. There's a crack in the ribs, but the rest are just simple bruises. The organs are safe too. You're surprisingly tough.",
+      "tone": "bitter"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Of course, it hurts. You've been beaten up like this. They really didn't hold back. Just bear with it a little. I need to check your organs too.",
+      "tone": "matter-of-fact"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tess pressed down hard on Zis's abdomen.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Ughhhhh!",
+      "tone": "painful"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It must have been excruciating, but Zis endured desperately.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He knew the faster the treatment finished, the sooner he could go to save Yuna.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Lucky. There's a crack in the ribs, but the rest are just simple bruises. The organs are safe too. You're surprisingly tough.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Zis smiled bitterly. Although he wasn't good at fighting, years of being attacked by various nobles had made him quite resilient to beatings.",
+      "tone": "bitter"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Tess wrapped the bandages, Zis explained the situation.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Considering Yuna's work hours and the time she would have returned home, the abduction would have occurred around two hours ago.",
+      "tone": "matter-of-fact"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "They must have taken her to their hideout, so she wouldn't have arrived yet. But I'm not even hoping for us to be on time. I just... if only Yuna is alive...",
+      "tone": "pleading"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "No, it's okay. They'll be moving by carriage, so if we borrow horses and ride, we can easily catch up. Where exactly is their hideout? It seems quite far from here.",
+      "tone": "firm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "I've never been there myself. I heard it's on the north side of the island, but I'm not even sure about that.",
+      "tone": "hesitant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "No, it must be there.",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Alright, then let's go. Can you stay here alone?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Are you sure you're okay? I know it's ironic to say this after asking for help, but those guys are really strong.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Idiot! If we rush in recklessly, we'll be the ones in trouble! If she was taken on her way home, we still have plenty of time. If necessary, we'll fly there, so let's start with the treatment.",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy led Zis into the villa, holding him up.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "While the girl, Yuna, was a concern, attending to the wounds came first.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Zis lay on the bed, Tess began to remove his clothes.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Ugh! Ah, it hurts.",
+      "tone": "painful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Of course, it hurts. You've been beaten up like this. They really didn't hold back. Just bear with it a little. I need to check your organs too.",
+      "tone": "matter-of-fact"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tess pressed down hard on Zis's abdomen.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Ughhhhh!",
+      "tone": "painful"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It must have been excruciating, but Zis endured desperately.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He knew the faster the treatment finished, the sooner he could go to save Yuna.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Lucky. There's a crack in the ribs, but the rest are just simple bruises. The organs are safe too. You're surprisingly tough.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Zis smiled bitterly. Although he wasn't good at fighting, years of being attacked by various nobles had made him quite resilient to beatings.",
+      "tone": "bitter"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Tess wrapped the bandages, Zis explained the situation.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Considering Yuna's work hours and the time she would have returned home, the abduction would have occurred around two hours ago.",
+      "tone": "matter-of-fact"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "They must have taken her to their hideout, so she wouldn't have arrived yet. But I'm not even hoping for us to be on time. I just... if only Yuna is alive...",
+      "tone": "pleading"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "No, it's okay. They'll be moving by carriage, so if we borrow horses and ride, we can easily catch up. Where exactly is their hideout? It seems quite far from here.",
+      "tone": "firm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "I've never been there myself. I heard it's on the north side of the island, but I'm not even sure about that.",
+      "tone": "hesitant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "No, it must be there.",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Alright, then let's go. Can you stay here alone?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Are you sure you're okay? I know it's ironic to say this after asking for help, but those guys are really strong.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Idiot! If we rush in recklessly, we'll be the ones in trouble! If she was taken on her way home, we still have plenty of time. If necessary, we'll fly there, so let's start with the treatment.",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy led Zis into the villa, holding him up.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "While the girl, Yuna, was a concern, attending to the wounds came first.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Zis lay on the bed, Tess began to remove his clothes.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Ugh! Ah, it hurts.",
+      "tone": "painful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Of course, it hurts. You've been beaten up like this. They really didn't hold back. Just bear with it a little. I need to check your organs too.",
+      "tone": "matter-of-fact"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tess pressed down hard on Zis's abdomen.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Ughhhhh!",
+      "tone": "painful"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It must have been excruciating, but Zis endured desperately.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He knew the faster the treatment finished, the sooner he could go to save Yuna.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Lucky. There's a crack in the ribs, but the rest are just simple bruises. The organs are safe too. You're surprisingly tough.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Zis smiled bitterly. Although he wasn't good at fighting, years of being attacked by various nobles had made him quite resilient to beatings.",
+      "tone": "bitter"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Tess wrapped the bandages, Zis explained the situation.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Considering Yuna's work hours and the time she would have returned home, the abduction would have occurred around two hours ago.",
+      "tone": "matter-of-fact"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "They must have taken her to their hideout, so she wouldn't have arrived yet. But I'm not even hoping for us to be on time. I just... if only Yuna is alive...",
+      "tone": "pleading"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "No, it's okay. They'll be moving by carriage, so if we borrow horses and ride, we can easily catch up. Where exactly is their hideout? It seems quite far from here.",
+      "tone": "firm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "I've never been there myself. I heard it's on the north side of the island, but I'm not even sure about that.",
+      "tone": "hesitant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "No, it must be there.",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Alright, then let's go. Can you stay here alone?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Are you sure you're okay? I know it's ironic to say this after asking for help, but those guys are really strong.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Idiot! If we rush in recklessly, we'll be the ones in trouble! If she was taken on her way home, we still have plenty of time. If necessary, we'll fly there, so let's start with the treatment.",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy led Zis into the villa, holding him up.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "While the girl, Yuna, was a concern, attending to the wounds came first.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Zis lay on the bed, Tess began to remove his clothes.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Ugh! Ah, it hurts.",
+      "tone": "painful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Of course, it hurts. You've been beaten up like this. They really didn't hold back. Just bear with it a little. I need to check your organs too.",
+      "tone": "matter-of-fact"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tess pressed down hard on Zis's abdomen.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Ughhhhh!",
+      "tone": "painful"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It must have been excruciating, but Zis endured desperately.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He knew the faster the treatment finished, the sooner he could go to save Yuna.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Lucky. There's a crack in the ribs, but the rest are just simple bruises. The organs are safe too. You're surprisingly tough.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Zis smiled bitterly. Although he wasn't good at fighting, years of being attacked by various nobles had made him quite resilient to beatings.",
+      "tone": "bitter"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Tess wrapped the bandages, Zis explained the situation.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Considering Yuna's work hours and the time she would have returned home, the abduction would have occurred around two hours ago.",
+      "tone": "matter-of-fact"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "They must have taken her to their hideout, so she wouldn't have arrived yet. But I'm not even hoping for us to be on time. I just... if only Yuna is alive...",
+      "tone": "pleading"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "No, it's okay. They'll be moving by carriage, so if we borrow horses and ride, we can easily catch up. Where exactly is their hideout? It seems quite far from here.",
+      "tone": "firm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "I've never been there myself. I heard it's on the north side of the island, but I'm not even sure about that.",
+      "tone": "hesitant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "No, it must be there.",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Alright, then let's go. Can you stay here alone?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Are you sure you're okay? I know it's ironic to say this after asking for help, but those guys are really strong.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Idiot! If we rush in recklessly, we'll be the ones in trouble! If she was taken on her way home, we still have plenty of time. If necessary, we'll fly there, so let's start with the treatment.",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy led Zis into the villa, holding him up.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "While the girl, Yuna, was a concern, attending to the wounds came first.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Zis lay on the bed, Tess began to remove his clothes.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Ugh! Ah, it hurts.",
+      "tone": "painful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Of course, it hurts. You've been beaten up like this. They really didn't hold back. Just bear with it a little. I need to check your organs too.",
+      "tone": "matter-of-fact"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tess pressed down hard on Zis's abdomen.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Ughhhhh!",
+      "tone": "painful"
+    }
+  ],
+  "source_hash": "db3becc3ca918d0a82b7999788edb5292567f53a55728b53cc9020ec33443f91",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T16:14:22.261049+00:00"
+}

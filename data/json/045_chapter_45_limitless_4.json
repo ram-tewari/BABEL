@@ -1,0 +1,745 @@
+{
+  "blocks": [
+    {
+      "type": "dialogue",
+      "speaker": "Shirone's teacher",
+      "content": "No need. Just call me, and I'll come anytime.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone realized once again who he was learning from. Even Samuel, who had already graduated, was only an unofficial 10th-class mage. But the female teacher before him was a 6th-class mage, and a nationally certified one at that.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Just how strong is our teacher?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The other students seemed to have realized this as well, maintaining a reverent posture even after Samuel left.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etella",
+      "content": "Now, everyone. Did you all see the demonstration of verbal magic?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Students",
+      "content": "Yes!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The answer echoed louder than usual, and Etella nodded with satisfaction.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etella",
+      "content": "The reason I showed you verbal magic in advance is because it's closely related to what we'll learn today: strengthening the Spirit Zone. Now, you should be able to answer this question: What's the best way to strengthen your thoughts?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Students",
+      "content": "Speech!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etella",
+      "content": "Correct. It's speech. Because thoughts are formed through language. Can anyone express this in another way?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Students from Class Four",
+      "content": "It means thoughts can be seen.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etella",
+      "content": "Exactly. Everyone, try to recall any thought right now. You'll probably be able to see it with your eyes.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The students nodded as if they understood what it felt like after trying it themselves.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etella",
+      "content": "Why is it important to see thoughts with your eyes? Because it allows you to reflect. In other words, a verbal mage absorbs the words they've spoken to strengthen their thoughts.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Etella raised her index finger and continued.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etella",
+      "content": "The basic system of verbal magic is simple. Speak, reflect. Speak, reflect. By continuously amplifying meaning this way, you strengthen your magical power.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student from Class Seven",
+      "content": "Teacher, does that mean we'll learn verbal magic too?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etella",
+      "content": "Do you want to learn verbal magic?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student from Class Seven",
+      "content": "Yes. That demonstration earlier was so cool.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etella",
+      "content": "Finding something that suits your aptitude is very important. But unfortunately, verbal magic is a specialized field, so it won't be covered in advanced classes.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student from Class Seven",
+      "content": "But then how do we strengthen the Spirit Zone? Isn't it done through verbal magic?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etella",
+      "content": "You've pointed it out very well. What I'm about to explain is exactly that. Verbal magic is used to enhance the power of specific spells. There are countless spells in the world, and each has its own language. But the Spirit Zone is a pure mental activity, so you don't need to learn verbal or ultrasonic magic. So, how do you strengthen the Spirit Zone?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Etella paused and stepped onto the Image Zone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etella",
+      "content": "It's a unique concentration technique called the numerical sequence. Raise your hand if you've ever counted from 1 to 100, either in your mind or out loud.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "More than half raised their hands.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etella",
+      "content": "Good. Now, raise your hand if you've counted from 1 to 1,000.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The students craned their necks and looked around. The entire Class Four raised their hands, but hardly any from the lower classes did.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etella",
+      "content": "A numerical sequence is literally the technique of listing numbers. Unlike language, numbers are symbols with an immutable status. That's why they pair well with the Spirit Zone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student",
+      "content": "Does counting numbers improve concentration?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etella",
+      "content": "Yes. But simply counting isn't enough. The basics are the same as verbal magic: speak and reflect. However, in the case of numerical sequences, it's more like think and reflect. You can't succeed unless you focus on each number.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "This was why Etella had introduced verbal magic first. While advanced techniques differed entirely, the basic concept of strengthening was almost identical between numerical sequences and verbal magic.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etella",
+      "content": "The faster you unfold the numbers, the stronger the Zone becomes. Performing a numerical sequence can enhance activation probability, power, precision, and more. But remember, numerical sequences aren't a cure-all. The Spirit Zone can only be elevated through rigorous mental discipline. So, don't focus too much on technical strengthening. Now, I'll demonstrate a numerical sequence.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After finishing her explanation, Etella expanded a Spirit Zone about 10 meters in diameter for teaching purposes.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etella",
+      "content": "Starting now, I'll perform a numerical sequence. I'll strengthen this Spirit Zone using only the sequence. Since it's not verbal magic, I'll only announce every 10th increment. Here we go. 1.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The moment Etella uttered the first number, the Spirit Zone swelled as if filled with air.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etella",
+      "content": "100.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student",
+      "content": "100? Did she just say 100?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "For the numerical sequence to be effective, each number had to be precisely savored. Yet, she had counted to 100 in just two seconds—an astonishing speed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etella",
+      "content": "400.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The children's eyes widened. The acceleration had begun, and the zero-to-hundred time for certain intervals had shortened dramatically.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etella",
+      "content": "1,100. 1,700. 2,400.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's jaw dropped. Could a human count numbers that fast? In less than 20 seconds, she had added 1 a staggering 2,400 times.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Spirit Zone had grown into a sphere 40 meters in diameter. All achieved solely through the numerical sequence.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When the count reached 10,000, Etella stopped. The Spirit Zone quickly shrank back to its original size.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Her ability to count to 10,000 in one go was proof of why she was the youngest bishop in the Carthis Council.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "This is incredible. How much mental training does it take to reach such a level?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Students witnessing Etella's numerical sequence for the first time were shocked. Even her beautiful appearance paled in comparison to her talent.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etella",
+      "content": "Did you see? The faster you perform the numerical sequence, the greater the strengthening effect. Since it's merely a technique, you won't gain much efficiency if your Spirit Zone's discipline is lacking. But I believe you'll all be able to use it effectively.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Hearing her words, Shirone cheered inwardly. With the numerical sequence, he could use active magic through mental concentration stronger than the Spirit Zone's durability.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etella",
+      "content": "The numerical sequence starts with counting from 1 to 100 as the baseline. The time it takes to reach 100 is called the 'zero-to-hundred.' Before you get used to it, don't drag out the numbers too long; focus on shortening the zero-to-hundred.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After class, Shirone found a secluded spot. The numerical sequence, simple as it was, proved difficult in practice.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It took him 7 seconds to count from 1 to 100. A decent result for a first attempt.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Counting itself isn't the problem. Should I try higher numbers? No, she said to focus on shortening the zero-to-hundred first.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Given Etella's nature, she must have tailored the numerical sequence's difficulty precisely to the students' level.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "That means there's a much higher level. What is it? There must be a special method.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lost in thought, Shirone snapped his fingers.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "I don't need to count one by one. Instead, I should process numbers in chunks while savoring them.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Unbeknownst to him, this was the basic concept of information magic: modularization. It involved grouping individual numbers into units for batch processing.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone immediately began experimenting. To integrate numbers, he needed insight, not calculation. As the number of digits processed within the same time increased, the Spirit Zone's performance noticeably improved.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After breaking through the zero-to-hundred at an incredible speed, Shirone switched the Square Method to offensive mode. The moment his numerical sequence reached a thousand, he took magical action and cast a spell.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A flash of light burst forth, drawing the students' attention. A mass of photons shot out from Shirone's palm.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student",
+      "content": "Whoa! What was that?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student",
+      "content": "Photon output. Maybe he's testing targeting with it.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student",
+      "content": "But why learn that? Photon output isn't practical in real combat.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student",
+      "content": "Doesn't matter. The Image Zone's target activates any spell. Even healing removes the target. It might actually be advantageous for the exam. Honestly, that was incredibly fast.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The students shared their impressions. Neid and Iruki sat side by side, discussing their thoughts.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "Shirone's amazing. Specialized in defense, yet incredible at offense too. Maybe he'll climb to the top group after this exam.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "I don't know, 342 points isn't much, right?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "But it's good for a first attempt. He couldn't even do photon output until yesterday.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Whether it's his first try or not doesn't matter. What's truly important is the ability to grasp the core, right? That's what's impressive.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "Huh? What's gotten into you? You're praising Shirone?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Give credit where it's due. Anyway, this'll be a good experiment. We'll see who's superior in this exam.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "What's your plan?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Instead of answering, Iruki stood and walked to the Image Zone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Teacher Etella, may I try?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etella",
+      "content": "Iruki, you?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "I'll just practice and come down. The magic barrier's active anyway.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Since it was exam prep, restricting specific students would be unfair. Reluctantly, she agreed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etella",
+      "content": "Alright. Go ahead. But no accidents.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Iruki bowed and entered the Image Zone. His appearance drew everyone's attention. After preparing, he switched the Square Method to evasion mode.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The children murmured. No one expected him to use evasion mode for a targeting exam.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone was equally surprised. Evasion mode allowed the fastest movement among the Square Methods, but capturing multiple targets required at least offensive mode to score.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "What do you think? Pretty impressive, right?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "That was amazing. The Servant Syndrome—I had no idea you could calculate targets' paths mathematically.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Hmph, is that all? Disappointing.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Grouping numbers into modules to speed up the numerical sequence. Definitely something only you can do.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone was shocked Iruki already knew. And uneasy. Because he had no clue how Iruki had done it.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Want me to tell you my method?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Are you just giving it away? I thought you were seriously competing with me.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Doesn't matter. Knowing won't help you do it.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Honestly, it's nothing special. I just used logarithms to reduce the units.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Logarithms…? Ah, I see.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "There was such a method. And as Iruki said, knowing didn't mean replicating it.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Logarithms can simplify astronomical numbers. This was just practice. The real battle is the practical exam.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Logarithms were symbols meant to simplify complex calculations. Applying them to something as simple as a numerical sequence made it impossibly complex for even mathematicians to compute mentally.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Yet Iruki could do it. With his Servant Syndrome, he converted all natural numbers into fractions and calculated them.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Performing a numerical sequence under logarithms? Is that even humanly possible?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "For the first time, Shirone felt he'd underestimated things. Carthis Amy, the Ozent family members—he'd met many geniuses, but none as extreme as Iruki.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "How about it? Still think you can beat me?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'm not studying to beat anyone. If I do my best, it doesn't matter who wins.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Textbook answer. Whatever. I always knew you were like that. But watch your mouth next time. It's really annoying hearing idealistic nonsense from someone with no skill.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone gritted his teeth. What was so dissatisfying? He just wanted to say life was precious. If that was idealism, he'd have to prove it.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Fine, got it! Let's compete. I'll definitely beat you in this exam.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Haha! Try all you want.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone was about to retort when classmates swarmed Iruki, leaving him silent.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Classmates",
+      "content": "Iruki, you're amazing. How did you do it? Can you teach me?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Classmate",
+      "content": "With skills like that, why hide them? Want to join our research club? With you, we could finish our project in a month.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Praise poured in. Shirone understood. Iruki's demonstration in the Image Zone was that shocking.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Shirone, the insight you showed at the unbridgeable gap was truly impressive. But…",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "My computations are faster than insight.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone swallowed hard. He'd faced many rivals since entering magic school, but never such a formidable opponent.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "Cheer up. Irresponsible as it sounds, it's fascinating to watch. I'm friends with both, so I don't care who wins.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I don't mind competition, but this is different. Iruki just hates me.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "Haha! What can you do? That's just how he is. But you're amazing for making him go all out. You two are probably the only ones in Class Five who can break records.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Really? There's a highest score? What is it?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "Let's see… I think it was 987?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's eyes bulged.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "987?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "Forget his own score—even Iruki, using logarithms, had barely passed 500. How fast did one have to be to score 987 in a minute? It was unimaginable.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "That's insane. Who did it? Must've graduated, right?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "Huh? What are you talking about? You're dating her—Senior Amy.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "***",
+      "tone": null
+    }
+  ],
+  "source_hash": "afb5c4b44e4178008d75ad06d8abe84051e331f995f26d73136d33aff91ae876",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T06:30:38.623616+00:00"
+}

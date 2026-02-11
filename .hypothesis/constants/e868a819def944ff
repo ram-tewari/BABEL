@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\ruamel\yaml\scalarfloat.py
+# hypothesis_version: 6.148.8
+
+['ExponentialCapsFloat', 'ExponentialFloat', 'ScalarFloat', 'anchor', 'e_sign', 'e_width', 'exp', 'm_lead0', 'm_sign', 'prec', 'underscore', 'width']

@@ -1,0 +1,721 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Those are Maras, the second entities of causality. They are also known as the Upholder of Law.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Right, those are horns. But not actual horns, they're thought-forms. The more horns they have, the higher their rank among Mara. They are given unique abilities from birth. The source of that power is the horn.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "◆ ◆ ◆",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tabu",
+      "content": "Arrrgh! This can't be! I can't be defeated by this...!",
+      "tone": "anger"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tabu crouched down with all his might.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "As his immense physical power strained against the chains, the resistance was immediately transmitted to Shirone's brain.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was a formidable force.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone increased the tensile strength of Shining Chain with his Indestructible Diamond.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tabu's body stretched out, releasing a scream of rage as the chains dug into his tough exterior.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tabu",
+      "content": "Keuaaaaa!",
+      "tone": "rage"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The cost of resistance was high. The light chains broke through Tabu's solid surface and burrowed in.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His limbs twisted grotesquely, and his back bent at an impossible angle, as if it would break at any moment.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tabu",
+      "content": "Kukuku, kukukuku.",
+      "tone": "confusion"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Tabu was dumbfounded.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Never in his life had he been in such a humiliating state. And to think, it was caused by a mere human.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tabu",
+      "content": "Alright, you've got me. But what now? How long can you hold out?",
+      "tone": "challenge"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Considering Tabu's durability, the only way to eliminate him was with Laser.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "However, the problem was that no other magic could be cast while maintaining Shining Chain.",
+      "tone": null
+    },
+    {
+      "type": "monologue",
+      "speaker": "Shirone",
+      "content": "Although Iruki could use Double Spirit Zone due to his unique cognitive circuits, it was extremely difficult for a normal human to think of two things simultaneously. Of course, there are rules that make exceptions, but most magic inevitably involves delays.",
+      "tone": null
+    },
+    {
+      "type": "monologue",
+      "speaker": "Shirone",
+      "content": "For instance, no other magic could be cast during teleportation. In particular, Shining Chain was a continuous magic that consumed mental power in real time like Fire Wall, so it was impossible to attack Tabu with other magic.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tabu",
+      "content": "Where did you take my friends?",
+      "tone": "accusation"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tabu",
+      "content": "They've gone to the Angel's Resting Place to birth Nephilim. Kukuku, too bad. They're not your children.",
+      "tone": "taunt"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's eyes went bloodshot.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The word Nephilim didn't even register. He didn't know the details, but he could tell something terrible was happening.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tabu flicked his tongue from the root, wagging it.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tabu",
+      "content": "Kekeke! Give up! You, who are in trouble even with one Mara, will never be able to save them. By now, those girls must be in a pitiful state... Ugh!",
+      "tone": "gloating"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the chain of light tightened with great force, Tabu's neck bent as if it were going to break.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's teeth ground together with a creaking sound.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tabu",
+      "content": "Kuhahaha! Thrilling, isn't it? But how about listening a bit more? This is an incredibly fun story! It's truly a forbidden fruit!",
+      "tone": "amusement"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone pushed the tensile strength to its limit.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He didn't know where the limit was, but at that moment, he just wanted to stop Tabu from speaking.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tabu",
+      "content": "Kuaahh!",
+      "tone": "pain"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A scream erupted.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The irresistible force began to crush his body.",
+      "tone": null
+    },
+    {
+      "type": "monologue",
+      "speaker": "Tabu",
+      "content": "This was his end.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tabu",
+      "content": "Don't get cocky. I'll be back. When human corruption reaches its peak, I'll come for you! I will surely... Arrgh!",
+      "tone": "menace"
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Kkadeudeuk!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A chilling sound emanated from Tabu's entire body.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Unlike the breaking of human bones, it was the sound of solid rock being crushed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When Shining Chain vanished, only Tabu's mangled corpse remained. His body was grotesquely twisted, like a clay doll crushed by hand.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Canis was shocked by the power of Shining Chain.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If Tabu could be crushed, it could easily crush any living being. Like a rabbit caught in a trap, they have no choice but to be deprived of their right to life and death.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As soon as Tabu was annihilated, Shirone collapsed to the ground, clutching the soil with both hands and trembling.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He felt no thrill from successfully casting the magic, nor any sense of accomplishment from defeating Tabu.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy, Tess, and Arin have been kidnapped. And it was said that they were to give birth to Nephilim.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "An overwhelming surge of fury pounded in his chest. It was the first time he felt so disgusted with himself.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Peope flew to Shirone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "You… Are you okay?",
+      "tone": "concern"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Peope gathered courage and asked, but Shirone didn't even respond.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Listening closely, she could hear him mumbling, 'It's all my fault.'",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "You idiot! Why did you make things so complicated? Even if he's a fallen angel, his authority surpasses Shamain's laws. What will happen to the people of this district now? It's all because of you...",
+      "tone": "anger"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's face was a mess as he lifted his head.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Anger, frustration, and sadness were all mixed together, making him look like someone falling off a cliff.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Because of me… Because of me, Amy... Tess… Arin.... It's all because of me.",
+      "tone": "despair"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Peope couldn't nag any more.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone's eyes no longer had the light of the living. There was no trace of the person who had denied Elixir of Life and shouted at Ikirin.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "The girls are safe. At least for now.",
+      "tone": "hope"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone looked back at Ikirin. Unable to move due to the Price of False Authority, she was lost in serious thought.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Safe? How can you say they're safe?",
+      "tone": "skepticism"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Canis said.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "The reason Ikasa took the women is because they are virgins. He implants angelic information into the bodies of women who haven't borne children to conceive Nephilim.",
+      "tone": "explanation"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Isn't that even more dangerous? Regardless of what you think, humans value chastity.",
+      "tone": "concern"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "What you're worried about won't happen. Angels consider it disgraceful to have relations with humans.",
+      "tone": "reassurance"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Conversely, doesn't that mean it's possible? In the worst-case scenario, there's no guarantee it won't happen.",
+      "tone": "skepticism"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Possibility and probability are different. Angels are a hermaphroditic species. So, while they can have relations with humans, they never do anything that would tarnish their honor, no matter the situation.",
+      "tone": "explanation"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone regained hope from Ikirin's words.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If angels are rulers who uphold principles and beliefs, there is still a chance for a rescue.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Moreover, depending on the situation, Amy and the others may be able to create variables.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Shirone, how do you feel? Are you a bit calmer now? I've never seen you so angry before.",
+      "tone": "concern"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Sorry, I got too excited. I should have thought about rescuing our friends first.",
+      "tone": "apology"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "It's okay. I wasn't in my right mind either.",
+      "tone": "understanding"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Anyone would have felt the same. Just as Amy was precious to Shirone, Tess was a dependable friend to Rian. Canis also had someone he absolutely had to protect.",
+      "tone": null
+    },
+    {
+      "type": "monologue",
+      "speaker": "Canis",
+      "content": "'Arin...' Canis' heart was burning like never before. He had protected Arin even through the horrific life in Radum. Yet, she was taken away so easily. Why couldn't he have rushed at Ikasa immediately? Because he had become weak. Thoughts of hope, a happy future, those things had made his heart soft. 'Arin, just wait a little longer.' Canis decided to return to the mindset of when he was a wild dog in Radum. If given another chance, he planned to focus on destroying the enemy without hesitating to sacrifice his life.",
+      "tone": "determination"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Tell me. How do we get to Angel Haven?",
+      "tone": "determination"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "What do you plan to do if you know? Are you really thinking of going to rescue them?",
+      "tone": "skepticism"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Of course, I should go. Do you know how to get there?",
+      "tone": "determination"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "There's no way they'll let you in! Don't you get it? Whether you're heretic or Nephilim, if you go there, you'll die!",
+      "tone": "anger"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You won't know unless you try.",
+      "tone": "challenge"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "Get a grip, you fool! The place you're trying to go is the Sixth Heaven, Zebul! It's where real angels reside!",
+      "tone": "exasperation"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Angels are strong. Not just stronger than anyone, but beings born at the pinnacle of life forms.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Peope, if you were taken by someone, how scared would you be?",
+      "tone": "empathy"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "What are you talking about, suddenly?",
+      "tone": "confusion"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What do you think you'd be thinking? Wouldn't you desperately hope someone would come to rescue you? Wouldn't you gather courage from the thought that your friends wouldn't abandon you?",
+      "tone": "empathy"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone bit his lip.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Maybe we won't be able to save them. But we can't extinguish their hope. If we give up here, there will be nothing left for those who were captured.",
+      "tone": "determination"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Peope",
+      "content": "You idiot! Why do humans consider the impossible to be beautiful?",
+      "tone": "exasperation"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A Meccan man approached.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Meccan man",
+      "content": "Angel Haven is located in the Sixth Heaven, Zebul. Geographically, it's right next to Shamain. However, you can't enter directly because it's five levels higher. You need to go through the proper procedures, starting from the Second Heaven, which would take a few days.",
+      "tone": "explanation"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "We don't need procedures. How long would it take in a straight line?",
+      "tone": "challenge"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Meccan man",
+      "content": "A straight line, huh. Crossing Heaven's barriers is impossible anyway, but if you went straight from here to the Sixth Heaven, it would take about a day.",
+      "tone": "explanation"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was much farther than expected. Considering Ikasa's flight speed, he would have already reached his destination by now.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In a situation where it was unclear whether Zebul would enter or not, a one-day delay was tantamount to a death sentence for the girls.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Meccan man",
+      "content": "There is one way.",
+      "tone": "hope"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Meccan man",
+      "content": "What is it?",
+      "tone": "curiosity"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Meccan man",
+      "content": "You go to the First District from here. It's the innermost district in Shamain. Because it is close to the center of Heaven, you can shorten the time by entering Zebul along the central road from there.",
+      "tone": "explanation"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Heaven is divided into six segments like slices of a pie, centered around Araboth. Therefore, the closer you are to Araboth, the shorter the arc length, which drastically reduces travel distance.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "How long would it take to get to the First District from here?",
+      "tone": "curiosity"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Meccan man",
+      "content": "About 12 hours?",
+      "tone": "explanation"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone became dejected again. Though shorter than a day, it was still too far to try anything.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Meccan man",
+      "content": "If we go the normal way, that is. Within Shamain, there's a portal managed by the Nors. By using the Spot of Light, you can reach the First District instantly.",
+      "tone": "hope"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "There was such a way. Shirone, who had used the Spot of Light to travel in Purgatory, realized this was the only solution.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Please take us there. Is there any other problem?",
+      "tone": "request"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Meccan man",
+      "content": "If I had to nitpick, it would be that it's strictly controlled by the divine subjects. But I can sort that out for you, because I'm the controller who works there.",
+      "tone": "reassurance"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone trembled, not even having the presence of mind to laugh at the joke.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "For the first time, he harbored hope.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Perhaps… perhaps he can save his friends.",
+      "tone": "hope"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Canya approached, crying.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canya",
+      "content": "I'm sorry, Shirone. This is all because of my family. But... thank you. Really...",
+      "tone": "gratitude"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone wiped away Canya's tears.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "As a result of denying the Elixir of Life, his friends are in danger, but how could she blame the divine subjects? Those in real power are invisible, hiding behind the system.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's not your fault. I will definitely save my friends, so don't worry.",
+      "tone": "reassurance"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canya",
+      "content": "Wait!",
+      "tone": "urgency"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lena came running from the crossroads of the square.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lena",
+      "content": "I brought these just in case. I thought they might help.",
+      "tone": "concern"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She was holding Signa and Exud, the Meca equipment.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Meca items are personalized with encryption, but the sword and shield were public equipment, so anyone could use them.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lena",
+      "content": "Although lending them was forbidden by law, no one cared now that the Elixir of Life had been broken.",
+      "tone": "justification"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Rian would need the equipment.",
+      "tone": "necessity"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "While mages have gimmicks to manipulate phenomena, which could create variables in battles against strong enemies, swordsmen rely solely on straightforward combat power. Thus, equipment played a significant role.",
+      "tone": null
+    }
+  ],
+  "source_hash": "d79582dcd0fca4d746e3adfcfcf7d4f28ecdfba671468f23a9ae91fd1e835073",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T17:03:57.667110+00:00"
+}

@@ -1,0 +1,715 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone guessed the situation.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Destroyer707 and his group had slightly altered Craner's trajectory with their concentrated fire.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "They came back to save me.",
+      "tone": "grateful"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The angle was only about 10 degrees, but for Shirone in a state of extreme concentration, it was the only escape route.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Thanks to you…",
+      "tone": "grateful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You idiot!",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Suddenly, Destroyer707's eyes widened, and he immediately turned and ran.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "What are you doing? Run!",
+      "tone": "panicked"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When Shirone looked back, the Tenmen who had returned to the starting point were firing their rifles.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ugh!",
+      "tone": "painful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Limping on his numb leg, Shirone threw himself towards the exit.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As he crossed the boundary, the gunfire ceased.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's over. We're safe now.",
+      "tone": "relieved"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "While Death Princess sighed in relief, Shirone looked back at the Iron Homeland.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tenman10, supported by his subordinates, was approaching the exit.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tenman10",
+      "content": "It's no use. The starting point has already changed. Even if they kill us, we'll just revive.",
+      "tone": "resigned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "You, Yahweh2.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tenman10, who had stopped at the boundary, asked, \"East Country or West Country? Whatever your affiliation, join our guild. We'll support you up to the Magnan level, and after that, guarantee 10% of the profits.\"",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Magnan means level 260. Are they serious? Supporting from level 1 would cost a fortune in galaxies.",
+      "tone": "skeptical"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The highest level he had reached before cleaning his codename was 183.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "I'm not interested in the Tenmen.",
+      "tone": "disinterested"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tenman10 frowned.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tenman10",
+      "content": "What are you talking about? Of course, it's the main base. The Tenmen activities are just… never mind. Think carefully. Our guild's influence is among the top five in the homeland.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Destroyer707 and his group's expressions darkened.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "This is a threat.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even large guilds rarely issue assassination orders to specific users.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "There needs to be a justification, and if public opinion worsens, it becomes difficult to maintain the guild.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "But justification can be fabricated. Especially for someone like Yahweh2.",
+      "tone": "skeptical"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Just dodging bullets as a bio was enough to cause a scandal in the homeland.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No.",
+      "tone": "firm"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If you have a main base, you're even worse. Not revealing your guild's name is for that reason, right? Do whatever you want. I'll crush you.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tenman10",
+      "content": "You'll regret this.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tenman10 had more to say, but High Gear stopped before he could.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As his body turned into a corpse and disappeared to the starting point, his subordinates retreated, pointing fingers.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Be careful. We'll remember your codename.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After the Tenmen disappeared from view, Shirone turned back to the Electronic Wasteland.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Let's go. We need to reach Atogram by tomorrow at least. Will you take me there?",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Huh? Oh, sure.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "I thought he was naive, but he's surprisingly bold.",
+      "tone": "impressed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Iron Homeland, Starting Point.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When Tenman10 opened his eyes, Sancho was frowning beside him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sancho",
+      "content": "Boss.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tenman10",
+      "content": "…What happened?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sancho",
+      "content": "They left. I suggested scouting, but it didn't work. They're not afraid of assassination orders. Must be from a large guild.",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tenman10",
+      "content": "Damn, how did one person break through? Rumors will spread soon, and it's embarrassing.",
+      "tone": "disappointed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sancho",
+      "content": "That bastard headshotted me? Did you record everything? Report it to the operator immediately.",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tenman10",
+      "content": "Will it be okay? The video can't be edited. Our voices will be in it too.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sancho",
+      "content": "Hmph! What can they do? But exploiting a system error is different. It's a permanent ban. He won't be able to set foot here again.",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tenman10",
+      "content": "…Alright.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tenman10 opened the operator suggestion page at the top of the augmented reality.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Do we have to spend the night in the Electronic Wasteland? Is Atogram that far?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Death Princess",
+      "content": "Hmm, is it far? It takes about three hours if you run, but if you're over level 100, it's a 30-minute cut. The problem is the low level.",
+      "tone": "analytical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Strongest Codename",
+      "content": "The problem is the height, not the distance. The end of the Electronic Wasteland is surrounded by a wall. To jump over it, High Gear's output needs to be at least level 10.",
+      "tone": "explanatory"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ah, so we need to level up as we go. Are there any prey here?",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Death Princess",
+      "content": "Of course. Parts are hard to find, but in the beginning, you can earn a decent amount of galaxies. The standard is to save money here and buy a beginner's package in Atogram.",
+      "tone": "explanatory"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "I don't get it. Is this really your first time? How did you have the guts to stand up to Tenman10? If they make a kill list at their main base, it's over for all of us.",
+      "tone": "skeptical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I told you, a friend is waiting for me in Atogram. He'll probably solve it.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "That dealer? What's his codename? If he's capable, I might know him too.",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yolga's Son.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The three turned their heads simultaneously.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "What! Yolga's Son?",
+      "tone": "surprised"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yeah. We don't get along well, but he's reliable in this area. Don't worry too much…",
+      "tone": "reassuring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "What are you talking about! He's an East Country ranker! And he's ranked 4th in duels! Is that Yolga really your friend?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Probably… We're classmates, after all.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Death Princess",
+      "content": "So when we get to Atogram, can we meet him too? Will you introduce us?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Of course. I can't let you guys suffer because of me.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Suffer? This is rather…",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Not just any ranker, but Yolga's Son. This is huge. We must join East Country.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When he searched for Yolga's Son, the guild emblem filled the ranking section.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "East Country Guild Rank 1. Golden Wheel.",
+      "tone": "impressed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What? Why is everyone grinning?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Huh? It's nothing. Anyway, I get it now. Is your goal to become a ranker too? Don't pretend you don't know me later.",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Actually, I didn't come here to become a ranker. It's personal; I need to beat someone.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "That happens. A showdown in High Gear. So, your opponent is from the West Country, right? What's their codename? I'll look it up.",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Operator.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Silence fell.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "There was no need to search, but his mind was in chaos.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Is it a fake…",
+      "tone": "doubtful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "No, it's the real Operator. I've heard he's the strongest in High Gear.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "This guy really knows nothing. Otherwise, he wouldn't use such a common expression like 'the strongest.'",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Alright. Speaking as a veteran, your chances of beating Operator alone are zero. It's not that I'm underestimating you; it's just how High Gear's system works.",
+      "tone": "explanatory"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Death Princess",
+      "content": "As your level increases, so does your engine output. But that's the simplest part. When the AI level goes up, combat convenience improves significantly.",
+      "tone": "explanatory"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Even if the levels are the same, the performance of parts varies greatly. And depending on how you set the selective options, the results can be completely different. Do you understand now? How long do you think it will take to match all these elements? Operator is an early user. That means he's one of the best machines High Gear can offer.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Strongest Codename",
+      "content": "His combat sense is also top-notch. Being undefeated in the duel rankings means that.",
+      "tone": "explanatory"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "This wasn't a world where gritting your teeth would get you anywhere.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "But I can't give up. I will win. How do I meet Operator?",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Destroyer707",
+      "content": "Alright, if you're really serious about it…",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He discarded the empty magazine, inserted a new one into his rifle, and snapped it into place.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "You have to hunt like crazy.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Operator's Meeting Room.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Twelve screens, each representing a department, were set up around the round table.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They were also mavericks of the undercoder, so they never revealed their real faces.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "A system-related suggestion has come in…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The voice was modulated.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "It's about what happened in the Iron Homeland. I'll play the recorded video, and then we can discuss it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The video played simultaneously on all twelve screens.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Eliminate the blind spots! Don't aim at the target, shoot predictively into the space!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The video, recorded from Tenman10's perspective, showed Shirone struggling.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The operators remained silent.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Even after Shirone headshotted Sancho and the conversation at the boundary of the Iron Homeland ended.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Number Seven",
+      "content": "Alright.",
+      "tone": "resigned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Number Seven",
+      "content": "It's not my specialty, but I thought we blocked all forms of magic. Did the firewall get breached?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Yo妖",
+      "content": "No. There's no sign of infiltration or attack. The meta-process is also intact.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Number Seven",
+      "content": "Then what is that? Is that a person? How did he dodge something faster than Mach?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Smile",
+      "content": "According to the logs, it seems extreme time distortion occurred in a state of intense concentration. In other words, his neural transmission speed was faster than the bullet's speed…",
+      "tone": "explanatory"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Number Seven",
+      "content": "So!",
+      "tone": "excited"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Number Seven",
+      "content": "We blocked all magic and schema, so how is that possible? Is he a god or what?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Black Circle",
+      "content": "The user's codename being Yahweh2 is also significant. Is it the Yahweh I know?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gear",
+      "content": "As the tutorial manager, I have no obligation to answer. However, I guarantee on my honor that he is not someone who would exploit system loopholes.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Number Seven",
+      "content": "What's with the serious tone? Who's Yahweh? Is it a person's name? Is he handsome?",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gear",
+      "content": "Don't you know how the world works? Stop eating Dream Star and go for a walk.",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Number Seven",
+      "content": "Are you picking a fight with me?",
+      "tone": "defensive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lollipop",
+      "content": "Alright, enough! The review shows it's not a system error. However, there's room for interpretation based on judgment criteria. Our design motto is that all users are given equal opportunities in High Gear, right?",
+      "tone": "explanatory"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Yo妖",
+      "content": "But we can't interfere with individual perceptions. Even in the same situation, reactions vary based on sensory differences. Denying Yahweh2's senses is denying the individuality of all existing users.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Smile",
+      "content": "As long as it doesn't deviate from the design intent, it's fine. In fact, the Tenmen who reside in the Iron Homeland can't be said to adhere to High Gear's motto either.",
+      "tone": "explanatory"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Number Seven",
+      "content": "That's because it's fun. It's fun.",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Number Seven",
+      "content": "Anyway, since we're talking about design intent, what does our lady think?",
+      "tone": "curious"
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Is there something you want to say, Number Seven?",
+      "tone": null
+    }
+  ],
+  "source_hash": "e6f5887eba99f1868e6268f36187a53710ca733c19b5250c19d22c6c00c8863d",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T08:54:38.329067+00:00"
+}

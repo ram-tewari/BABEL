@@ -1,0 +1,713 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "A barren plain where the wind carried a strong sulfur smell."
+    },
+    {
+      "type": "action",
+      "content": "The desolate land had no vegetation, and dark clouds stretched to the horizon, spitting lightning."
+    },
+    {
+      "type": "action",
+      "content": "It was a dry, eerie, and empty place."
+    },
+    {
+      "type": "action",
+      "content": "The 3rd Special Mobile Unit descended on beams of light, landing with a force unlike any Elizer they had experienced before."
+    },
+    {
+      "type": "action",
+      "content": "Feeling as if he had been thrown by an uncontrollable force, Shirone rolled on the ground."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ouch, my head. Are you okay, senior?",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "content": "Shirone's eyes widened as he took in the surroundings."
+    },
+    {
+      "type": "action",
+      "content": "Eight rectangular panels, each 4 meters high, were erected in all directions. Beyond the panels, 2-meter-long spikes were densely packed as far as the eye could see."
+    },
+    {
+      "type": "sfx",
+      "content": "BOOM"
+    },
+    {
+      "type": "action",
+      "content": "When lightning struck, powerful electricity flowed through the panels, causing an explosion of light inside the area they enclosed."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "A team member",
+      "content": "This isn't a natural area where essence gathers. It's a device designed to collect light artificially."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "A team member",
+      "content": "Was it made by the Mecha tribe?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "A team member",
+      "content": "No one knows who made it. It existed before the citizens lived in Heaven. Only the angels know what happened in this forsaken land.",
+      "tone": "mysterious"
+    },
+    {
+      "type": "sfx",
+      "content": "BOOM"
+    },
+    {
+      "type": "action",
+      "content": "As the lightning split into thousands of branches and was absorbed by the ground, the earth glowed a bluish hue, like swarming insects."
+    },
+    {
+      "type": "action",
+      "content": "When a powerful white light burst from the panels, Shirone squinted and gave an order."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Let's move away. It could be dangerous to stay here.",
+      "tone": "cautious"
+    },
+    {
+      "type": "action",
+      "content": "The 3rd Special Mobile Unit avoided the lightning zone, dodging thousands of spikes."
+    },
+    {
+      "type": "action",
+      "content": "Although they all had the ability to fly, the air was dangerous in such an environment."
+    },
+    {
+      "type": "action",
+      "content": "They arrived at a crater 4 kilometers from the light essence."
+    },
+    {
+      "type": "action",
+      "content": "It looked as if something had crashed at a terrifying speed, leaving a deep depression in the ground."
+    },
+    {
+      "type": "action",
+      "content": "Sweeping the ground at the center revealed a metal plate, indicating something was buried deep underground."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "A team member",
+      "content": "So this is why it's called the Tomb of Angels.",
+      "tone": "excited"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "A team member",
+      "content": "Yes. For centuries, many heretics have tried to excavate this site, but all efforts were in vain.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "A team member",
+      "content": "Some even tried to excavate the entire area, but anyone who dug too deep was electrocuted. Records say hundreds were killed.",
+      "tone": "grim"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "So we need to break this seal.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "content": "Shirone examined the metal plate closely."
+    },
+    {
+      "type": "action",
+      "content": "Though the form was different, it was clearly written in the angels' language, Hena."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "As a Nephilim, Shirone might be able to open it. In fact, he probably could."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Let's open it. If it gets dangerous, we can leave immediately.",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Plu wanted to go in.",
+      "tone": "eager"
+    },
+    {
+      "type": "thought",
+      "speaker": "Plu",
+      "content": "The fact that heretics had risked their lives for centuries to excavate this place meant there was something of great value buried here."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Alright, let's start.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "content": "As Shirone placed his hand on the metal plate and activated the Immortal Function, the Hena script glowed, and a massive beam of light shot skyward."
+    },
+    {
+      "type": "action",
+      "content": "As the team members stepped back, a deep rumbling from underground vibrated through their feet."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "A team member",
+      "content": "Damn! Let's move back.",
+      "tone": "alarmed"
+    },
+    {
+      "type": "action",
+      "content": "At a team member's stern suggestion, Shirone quickly exited the crater."
+    },
+    {
+      "type": "sfx",
+      "content": "Rumble!"
+    },
+    {
+      "type": "action",
+      "content": "As the metal plate vibrated, a vast amount of soil poured down, and something began to rise."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "A team member",
+      "content": "What is that?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "content": "The 3rd Special Mobile Unit watched as a massive bell-shaped structure emerged from the ground, covered in Hena script on its sturdy metal surface."
+    },
+    {
+      "type": "action",
+      "content": "The 3-meter-high structure split open at the bottom, revealing an entrance."
+    },
+    {
+      "type": "action",
+      "content": "After waiting for a while and seeing no immediate danger, Shirone leaped to the entrance."
+    },
+    {
+      "type": "action",
+      "content": "Above the dark entrance, letters were engraved on a metal plate."
+    },
+    {
+      "type": "action",
+      "content": "Since it wasn't Hena, Shirone sent a drone to decode it. The translation was transmitted to his mind."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ba…bel?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "A team member",
+      "content": "The team members murmured simultaneously.",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Babel. What does it mean?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "A team member",
+      "content": "We don't know. It's in the citizens' language, but we've never heard it before.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Let's go in. Our goal is to explore, after all.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "content": "Leading the way, Shirone cast Shining Magic and entered the structure."
+    },
+    {
+      "type": "action",
+      "content": "Stairs led downward, and as they descended, a corridor stretched out before them."
+    },
+    {
+      "type": "action",
+      "content": "Lights installed at 1-meter intervals lit up as they stepped forward, extending into the darkness."
+    },
+    {
+      "type": "action",
+      "content": "Shirone stared in awe."
+    },
+    {
+      "type": "action",
+      "content": "It stretched endlessly. Judging by the distance, the structure above ground was just the tip of the iceberg."
+    },
+    {
+      "type": "action",
+      "content": "They arrived at a circular space, with a metal plate above the entrance inscribed with the citizens' language: Control Room."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "A team member",
+      "content": "Hmm, Control Room. At least we can understand that.",
+      "tone": "joking"
+    },
+    {
+      "type": "action",
+      "content": "Despite the team member's joke, no one laughed as they entered."
+    },
+    {
+      "type": "action",
+      "content": "Lights flickered on, revealing devices connected by wires, reminiscent of those seen in the Great World War."
+    },
+    {
+      "type": "action",
+      "content": "Beyond the devices was a massive conical pillar. A similar pillar descended from the ceiling, with an electric mass seemingly trapped between their tips."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "A team member",
+      "content": "That…!",
+      "tone": "awed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Hmm, what is that? The power source for this place?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "A team member",
+      "content": "'Foolish. It's not something so trivial.'",
+      "tone": "teasing"
+    },
+    {
+      "type": "thought",
+      "speaker": "Plu",
+      "content": "The team members all silently mocked Plu's ignorance."
+    },
+    {
+      "type": "thought",
+      "speaker": "Plu",
+      "content": "What they were seeing was the result of the unique characteristics of the Plateau of Corruption, a device that collected lightning on a massive scale, and the passage of time, creating the rarest spirit in purgatory."
+    },
+    {
+      "type": "action",
+      "content": "The team members exchanged cautious glances."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Due to the nature of their unit, often dispatched to remote areas, they had their own regulations."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "If they acquired a special item during a mission, the highest-ranking member would decide its disposition, and rewards would be distributed based on mission performance."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "While such rules were rarely followed in the field, there was no better way to maintain order."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "A team member",
+      "content": "'That's mine.'",
+      "tone": "greedy"
+    },
+    {
+      "type": "thought",
+      "speaker": "A team member",
+      "content": "They hadn't even properly started the mission, so according to the rules, they would have to hand over the precious electric spirit to Shirone."
+    },
+    {
+      "type": "thought",
+      "speaker": "A team member",
+      "content": "But the electric spirit was a once-in-a-lifetime, or even a once-in-a-rebellion, opportunity."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "A team member",
+      "content": "Let's check it out first!",
+      "tone": "excited"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "A team member",
+      "content": "Muttering a flimsy excuse, a team member dashed forward.",
+      "tone": "reckless"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Wait! Don't approach recklessly…!",
+      "tone": "alarmed"
+    },
+    {
+      "type": "sfx",
+      "content": "BOOM"
+    },
+    {
+      "type": "action",
+      "content": "Before Plu could finish, the team member reached out to contract with the electric spirit."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "A team member",
+      "content": "'Got it. With this, I…!'",
+      "tone": "excited"
+    },
+    {
+      "type": "thought",
+      "speaker": "A team member",
+      "content": "Had his heart ever raced this fast?"
+    },
+    {
+      "type": "thought",
+      "speaker": "A team member",
+      "content": "The overwhelming anticipation was electrifying."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "A team member",
+      "content": "I'll contract with it!",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "content": "As he shouted, spheres shot out from the walls."
+    },
+    {
+      "type": "sfx",
+      "content": "BOOM"
+    },
+    {
+      "type": "action",
+      "content": "The man instinctively covered his face as the spheres struck with a series of loud pops, shaking his body."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "A team member",
+      "content": "Ugh…!",
+      "tone": "painful"
+    },
+    {
+      "type": "action",
+      "content": "Shirone looked around in shock."
+    },
+    {
+      "type": "action",
+      "content": "The steel walls were pitted with as many indentations as there were spheres."
+    },
+    {
+      "type": "action",
+      "content": "Yet, none of the spheres had fallen around the man."
+    },
+    {
+      "type": "action",
+      "content": "They had shot out from the walls and embedded themselves in the opposite wall."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "'Couldn't even react. They all pierced through.'"
+    },
+    {
+      "type": "sfx",
+      "content": "Thud!"
+    },
+    {
+      "type": "action",
+      "content": "The man's knees hit the floor."
+    },
+    {
+      "type": "action",
+      "content": "As his arms fell limply, his face revealed holes matching the wall's indentations."
+    },
+    {
+      "type": "action",
+      "content": "Everyone heightened their vigilance."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It said Control Room. Why are there traps?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "A team member",
+      "content": "They're not traps.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "sfx",
+      "content": "Thunk! Thunk! Thunk! Thunk!"
+    },
+    {
+      "type": "action",
+      "content": "As Shirone finished speaking, the control room's walls began to detach sequentially."
+    },
+    {
+      "type": "action",
+      "content": "They weren't traps. The earlier attack was just a procedure to remove the fixed steel doors."
+    },
+    {
+      "type": "action",
+      "content": "Inside the compartmentalized walls were 2-meter-tall steel golems, standing like corpses in coffins."
+    },
+    {
+      "type": "action",
+      "content": "Their recessed eyes lit up with red light as they grabbed the walls and stepped out."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "A team member",
+      "content": "Those who approach Babel will face divine wrath.",
+      "tone": "ominous"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "A team member",
+      "content": "We'll annihilate them with Gardin.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "A team member",
+      "content": "Though only effective in special conditions like lightning storms, Gardin was known as one of the most destructive group spells."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "A team member",
+      "content": "Even steel golems could be fought in a place where an electric spirit was present."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "A team member",
+      "content": "Stand back! We're going to incinerate them!",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "content": "Despite their words, the team members extended their hands forward without giving Shirone and Plu time to retreat."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "A team member",
+      "content": "Here we go! Gardin!",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "content": "Shirone flinched and stopped, while Plu looked at the team members in confusion."
+    },
+    {
+      "type": "action",
+      "content": "Despite their grand declaration, no magic was cast from their hands."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "A team member",
+      "content": "What? Why isn't the essence…?",
+      "tone": "confused"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Group magic was impossible without precise Spirit Force connection. Yet, not a single spark of electricity gathered."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's not an electric spirit.",
+      "tone": "realization"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "A team member",
+      "content": "Eliminate those who approach Babel.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "content": "The golems, speaking in mechanical voices, scattered to target different individuals."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "A team member",
+      "content": "Fight! Everyone, prepare!",
+      "tone": "alarmed"
+    },
+    {
+      "type": "action",
+      "content": "Plu drew Phoenix and struck the ground, casting Phoenix Fire."
+    },
+    {
+      "type": "action",
+      "content": "Fiery blasts spread in all directions, striking the golems, but their metal bodies remained unscathed."
+    },
+    {
+      "type": "action",
+      "content": "In the confined space, the Nor warriors could only dodge the golems' attacks with basic wind magic."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Shirone! Destroy them with lasers!",
+      "tone": "urgent"
+    },
+    {
+      "type": "action",
+      "content": "Plu called for support, but Shirone remained frozen in place."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Shirone! What are you doing? It's dangerous!",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "content": "Five golems marched forward, shaking the ground."
+    },
+    {
+      "type": "action",
+      "content": "As a massive fist flew towards Shirone, a shadow crossed his face."
+    },
+    {
+      "type": "sfx",
+      "content": "Boom!"
+    },
+    {
+      "type": "action",
+      "content": "The ground shook."
+    },
+    {
+      "type": "action",
+      "content": "It wasn't the vibration of the control room but the tremor caused by forty golems halting their movements."
+    },
+    {
+      "type": "action",
+      "content": "Shirone looked up at the golem's fist, which had stopped right in front of him."
+    },
+    {
+      "type": "action",
+      "content": "The golem's red eyes flickered rapidly, as if calculating something."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Target category: Human."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Attribute: Nephilim."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Code search: Iris pattern recognition."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Data search: Phase 1. Complete. Phase 2. Complete."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Result…Result…Result…"
+    },
+    {
+      "type": "action",
+      "content": "The golem's vast amount of stored data was thoroughly searched, leading to a single conclusion."
+    },
+    {
+      "type": "sfx",
+      "content": "Thud! Thud! Thud! Thud!"
+    },
+    {
+      "type": "action",
+      "content": "All the golems simultaneously extinguished their red lights and collapsed forward."
+    },
+    {
+      "type": "action",
+      "content": "The weight was so immense that the room shook as if the structure might collapse."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "A team member",
+      "content": "What happened? Why did they suddenly…?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "What happened? Why did the golems fall?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I don't know.",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "You don't know? Then why didn't you attack?",
+      "tone": "accusatory"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone was pondering the same thing. Why hadn't he felt threatened by the golems?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "'Just like that time…'"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "When Behemoth merged with his avatar, the physical memories disappeared, but the integrated feeling remained. It was the same now. An emotion, not language, conveyed the situation."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Senior, I don't know why, but…",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I feel like I've been here before.",
+      "tone": "realization"
+    }
+  ],
+  "source_hash": "6afc72c78bfdfcd454e0a6df484b697e576f9f6d49b8bce740498e11cc2b23a7",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T06:16:52.710053Z"
+}

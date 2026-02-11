@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\cryptography\x509\base.py
+# hypothesis_version: 6.148.8
+
+[160, 1950, '_attributes', 'big', 'value must be bytes']

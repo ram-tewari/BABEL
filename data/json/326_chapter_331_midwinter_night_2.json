@@ -1,0 +1,506 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "The way she was dressed, it seemed like she could freeze to death at any moment, making her an amusing sight for the drunken onlookers."
+    },
+    {
+      "type": "action",
+      "content": "However, the woman paid no attention to the stares and continued to preach her message to the people."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lyria",
+      "content": "The end of the world is approaching. This place is dangerous. Everyone, leave the ruins quickly.",
+      "tone": "serious"
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "The end of the world? What is she talking about out of nowhere?"
+    },
+    {
+      "type": "narrator",
+      "content": "Every ancient ruin has its share of people who get so caught up in cults that they give up on life."
+    },
+    {
+      "type": "narrator",
+      "content": "The Ice Queen herself was a legend fabricated for the festival, so the idea of danger was absurd."
+    },
+    {
+      "type": "action",
+      "content": "The tourists seemed to think the same, as no one was listening seriously."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "If it's the end of the world, it doesn't matter where we go, right? If we leave here, where should we go? Surely you don't mean we should die in the arms of our nagging wives at home? Hahaha!",
+      "tone": "joking"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lyria",
+      "content": "Now that you mention it, that's true. That would be the worst.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Miss, if you need attention, why not stop talking nonsense and dance instead?",
+      "tone": "teasing"
+    },
+    {
+      "type": "narrator",
+      "content": "The woman, seemingly accustomed to such disregard, didn't change her expression and retorted while looking straight at them."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lyria",
+      "content": "It's not a lie. It's an oracle from the goddess Akeanis, who governs the melody of time.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Akeanis? Never heard of that religion.",
+      "tone": "skeptical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lyria",
+      "content": "You must believe me! Soon, the birth pangs of the end will occur here. Everyone will die!",
+      "tone": "urgent"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Alright, alright, we believe you. But let's go inside first. We can talk over a drink.",
+      "tone": "conciliatory"
+    },
+    {
+      "type": "action",
+      "content": "When a large man put his arm around the woman's shoulder, she pushed him away with both hands and shouted."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lyria",
+      "content": "Don't lay your unholy hands on me!",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Hey! This girl... Come on, let's go inside. I'm not a bad guy.",
+      "tone": "calm"
+    },
+    {
+      "type": "action",
+      "content": "The woman reached into a cylindrical container slung horizontally under her backpack and pulled out something, pressing it against the man's neck."
+    },
+    {
+      "type": "action",
+      "content": "At first glance, it looked like a quiver, but the contents were thin iron rods about 50 centimeters long."
+    },
+    {
+      "type": "action",
+      "content": "The ends were sharp like awls, and a small bell dangled from a ring on the opposite end."
+    },
+    {
+      "type": "action",
+      "content": "Feeling the genuine threat, the large man quickly withdrew his hands and stepped back."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Whoa, what a temper.",
+      "tone": "surprised"
+    },
+    {
+      "type": "action",
+      "content": "As the situation escalated, the tourists who had been indifferent began to gather with interest."
+    },
+    {
+      "type": "action",
+      "content": "Dante overheard the men standing behind him exchanging crude jokes."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "She's crazy. She looks fine, though. What do you think, should we have some fun with her tonight?",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lyria",
+      "content": "Forget it. You might get hurt dealing with a woman like that. Who knows what could happen?",
+      "tone": "cautious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "But it's a shame. She's a rare beauty.",
+      "tone": "admiring"
+    },
+    {
+      "type": "action",
+      "content": "Dante observed the woman closely."
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "Akeanis..."
+    },
+    {
+      "type": "narrator",
+      "content": "Even Dante, who had a keen interest in the supernatural, had never heard the name before."
+    },
+    {
+      "type": "narrator",
+      "content": "Well, there were thousands of religions in the world, so it was impossible to know the names of all the gods they worshipped."
+    },
+    {
+      "type": "action",
+      "content": "The woman kept repeating the same message like a parrot."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lyria",
+      "content": "The end is near. Leave the old ruins quickly! If you don't, everyone will die. I'm telling the truth!",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Will leaving solve the problem?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "action",
+      "content": "The people's attention turned to Dante."
+    },
+    {
+      "type": "action",
+      "content": "He was the first to take the woman's words seriously, so he drew more attention."
+    },
+    {
+      "type": "action",
+      "content": "Dante stepped forward and spoke."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "If the end is really coming, there must be a way to solve it, right? Running away won't fix anything.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "content": "The woman, realizing Dante was younger than her, turned her head away in disappointment and addressed the crowd again."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lyria",
+      "content": "I am Lyria, a totemist and mage of the Akeanis Shrine. Tonight, an exorcism will be attempted here. If it fails, it could be dangerous. So please leave this place quickly.",
+      "tone": "serious"
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "Dante was more interested in the fact that she was a mage than in being ignored."
+    },
+    {
+      "type": "narrator",
+      "content": "Mages worked in exorcism circles, and their sealing formations were similar to mages' magic circles."
+    },
+    {
+      "type": "narrator",
+      "content": "That's why Dante, who specialized in information magic, had studied exorcism to some extent."
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "While mages materialize phenomena through equivalent exchange, mages strengthen an aspect of logic through the power of will."
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "The two are similar but different."
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "In a situation where a fire needs to be extinguished, a mage would create water. But a mage would strengthen the will of water to suppress the will of fire."
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "Controlling the balance of the source."
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "Mages call this the law."
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "It doesn't have the sharpness of magical change, but it can encompass a broader range of phenomena."
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "Despite this, it doesn't receive much attention because the ability itself isn't logical."
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "Mages, specifically white mages, fight to eradicate the world's evil."
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "But good and evil are artificial distinctions created after humans were born."
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "So how can mages seal evil?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lyria",
+      "content": "There is no time! Leave this place before the day ends. Your lives are at stake!",
+      "tone": "urgent"
+    },
+    {
+      "type": "action",
+      "content": "Lyria pleaded earnestly, but the people paid no attention."
+    },
+    {
+      "type": "action",
+      "content": "Seeing no one else stepping forward, Dante approached her again."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Can I help?",
+      "tone": "helpful"
+    },
+    {
+      "type": "narrator",
+      "content": "Lyria sighed softly without looking at him."
+    },
+    {
+      "type": "thought",
+      "speaker": "Lyria",
+      "content": "'Kids these days.'"
+    },
+    {
+      "type": "thought",
+      "speaker": "Lyria",
+      "content": "She had encountered boys hitting on her like this while traveling for exorcisms more than once."
+    },
+    {
+      "type": "thought",
+      "speaker": "Lyria",
+      "content": "The job of an exorcist seemed to spark quite a bit of curiosity among young people."
+    },
+    {
+      "type": "thought",
+      "speaker": "Lyria",
+      "content": "Judging by the boy's appearance, he was handsome and stylish. He even had a piercing, suggesting he was quite experienced."
+    },
+    {
+      "type": "thought",
+      "speaker": "Lyria",
+      "content": "'But this time, you picked the wrong person, kid.'"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lyria",
+      "content": "This isn't something a kid like you should get involved in. Go home quickly if you don't want to cause your parents any trouble.",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "content": "As Dante was about to respond, someone in the crowd spoke up."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Man",
+      "content": "Hey, isn't that Dante? The kingdom's top mage prospect, Airhain Dante.",
+      "tone": "recognizing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Man",
+      "content": "Huh? That boy's a mage? He doesn't look like it.",
+      "tone": "skeptical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Man",
+      "content": "No, he's still a student. But I've heard even professionals can't mess with him.",
+      "tone": "impressed"
+    },
+    {
+      "type": "action",
+      "content": "To the general public, mages were mysterious beings."
+    },
+    {
+      "type": "action",
+      "content": "Moreover, the title of the kingdom's best in any field wasn't given lightly, so people paid attention."
+    },
+    {
+      "type": "action",
+      "content": "Lyria finally adjusted her expression and looked at Dante."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lyria",
+      "content": "As a mage, she knew much more about the magical society than the average person, so her feelings of disregard disappeared."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "The kingdom's top student?",
+      "tone": "modest"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Well, maybe second best now?",
+      "tone": "joking"
+    },
+    {
+      "type": "narrator",
+      "content": "The man from the magic supply company knew that a boy named Shirone had defeated Dante."
+    },
+    {
+      "type": "narrator",
+      "content": "But the nostalgia for the champion doesn't fade easily."
+    },
+    {
+      "type": "narrator",
+      "content": "Especially since Dante had boasted an undefeated record since childhood, his popularity didn't wane quickly."
+    },
+    {
+      "type": "action",
+      "content": "Lyria didn't care whether Dante was first or second. What mattered was that he was a knowledgeable mage and the first to take her seriously."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "This isn't the best place. How about we go inside and have a drink?",
+      "tone": "suggestive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lyria",
+      "content": "If you're trying to hit on me, find someone else.",
+      "tone": "firm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "What are you talking about? Hit on you?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lyria",
+      "content": "Then why are you trying to help me?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "My specialty is magic circles. You deal with sealing formations, right? I'm interested. It might help my studies.",
+      "tone": "helpful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lyria",
+      "content": "Magic circles?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "If the boy was telling the truth, he could indeed be helpful.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lyria",
+      "content": "And if he was the kingdom's top prospect, it meant he was the best at handling magic circles at the student level.",
+      "tone": "impressed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Alright. Let's go inside. But I won't drink.",
+      "tone": "agreeable"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lyria",
+      "content": "Suit yourself. I just need a beer.",
+      "tone": "relieved"
+    },
+    {
+      "type": "action",
+      "content": "Lyria finally shook the snow off her head and followed Dante into the bar."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Man",
+      "content": "Damn... lost to a kid who hasn't even dried behind the ears.",
+      "tone": "disbelieving"
+    },
+    {
+      "type": "narrator",
+      "content": "The old ruins were not only a date spot for couples but also a place for lonely singles to find connections."
+    },
+    {
+      "type": "narrator",
+      "content": "The many young men who had tried to hit on Lyria watched the two with envious eyes."
+    },
+    {
+      "type": "system_notification",
+      "content": "8 PM."
+    },
+    {
+      "type": "action",
+      "content": "The old ruins were eerily quiet."
+    },
+    {
+      "type": "action",
+      "content": "Moonlight glistened on the ice statues."
+    },
+    {
+      "type": "action",
+      "content": "Even the laughter from the distant shopping district sounded reverent here."
+    },
+    {
+      "type": "action",
+      "content": "Breaking the night's silence, two figures nimbly jumped over the crumbling walls and entered the deserted ruins."
+    },
+    {
+      "type": "action",
+      "content": "Dante's expression was serious."
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "If what he had heard in the bar was true, the old ruins were far from safe."
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "Seeing the future? Is that even possible?"
+    }
+  ],
+  "source_hash": "e19d322f9f8662b9f92168cc2c86dc70b33122274224dbf530a4a1bf0f1204d1",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T04:45:49.988527Z"
+}

@@ -1,0 +1,643 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tess's battle was nearing its end.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The lightweight sabre couldn't break through the carapace of the Dokgakgui, but it was perfect for targeting gaps.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tess jabbed between the carapace plates, slowing the creature's movements, then landed a decisive blow by plunging the sabre into its single eye.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Twisting the blade, Tess brought the Dokgakgui to its knees.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Seeing the fight dragging on, Amy erected a Fire Wall around them.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Since the beasts lacked intelligence, fleeing would have been the best outcome.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "However, unexpectedly, one of them broke through the wall of fire.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Harvest grabbed the Dokgakgui's body, which had swelled in size, and snapped its spine.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Arin sighed in relief upon realizing that her initial spell was working.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She cast Mind Control on four of the Dokgakgui, and two of them began to tremble.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Under the influence of Mind Control, the two Dokgakgui turned and started attacking their comrades.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With the monsters fighting each other, the group no longer needed to battle.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian and Tess, who had finished off their respective Dokgakgui, gathered their weapons and returned to Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When Amy dispelled the Fire Wall, the group could see the bloodbath among the Dokgakgui.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They used their horns, legs, and even jaws to stab, trample, and defeat one another.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The number of monsters was equal, so Arin's skill in controlling the Dokgakgui was crucial.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Initially unfamiliar with the creatures, she quickly adapted and used their long horns for individual assault tactics.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Witnessing the carnage, the group shuddered.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "For Kanya and Rena, in particular, it was a shocking sight.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A creature that followed the laws of the forest was now violating those same laws by killing its own kind.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was a day of many strange occurrences in the Forest of the Profane.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Having won the battle, Arin exhaled deeply.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Mind Control continually drained her mental strength, and making the creatures fight also transferred their battle intent to her, adding to her mental fatigue.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Dokgakgui under Arin's control looked towards Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kanya and Rena quickly stepped back, but the creatures simply assumed a posture of submission.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Arin pondered what to do with the remaining Dokgakgui.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The high success rate of Mind Control through her initial spell was Arin's strength but also her weakness.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "High emotional synchronization meant she could vividly sense the emotions of the creatures she controlled.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "This was a fate shared by all mind-type mages who dealt with the mental states of others.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Arin hesitated.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "No matter how monstrous, it was painful to mercilessly kill creatures that had fought for her.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Can't we just keep them? Even having just two would make us feel a lot safer.",
+      "tone": "soft"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "No. We can't waste our mental energy on creatures like these. Now that we know Mind Control works, Arin should focus on that. She also needs to maintain her mental channel constantly.",
+      "tone": "firm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Hmm, what about letting them go?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "They'd come back to attack us. The worst case is they'd bring others.",
+      "tone": "cautious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "I see. So, unfortunately, we have to kill them. Can't we just make them fight each other to the death?",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tess's suggestion made Arin bite her lip.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "This was different from controlling the Dokgakgui to kill other Dokgakgui.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With the high emotional synchronization and the added feelings from fighting alongside them, her internal conflict grew stronger.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Then I'll do it. Just hold them in place.",
+      "tone": "resolute"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "No, this is something Arin must do. As a mind mage aiming for higher realms, she can't remain weak forever.",
+      "tone": "firm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "Relying on her initial spell to stand out had its limits. To reach her goal, she needed to overcome situations like this.",
+      "tone": "encouraging"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "Arin, remember the promise we made when we were taken to the Magic Association. Our mentor is no longer here. We need to become stronger. This isn't a place where we can afford to show sympathy.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Arin closed her eyes and took a deep breath.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Canis was right. She had to decide whether to rely on her initial spell or to dominate it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was a difficult choice, but one she needed to face.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Arin walked the Dokgakgui to the edge of the forest.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then, she made them stab each other's eyes with their horns.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The two Dokgakgui fell, facing each other.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Though still breathing, they could no longer move, leaving no other way to deliver a fatal blow.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Arin forced a smile.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Harvest",
+      "content": "Watching her, Harvest recalled the time they had faced each other through a glass barrier.",
+      "tone": "reflective"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Harvest",
+      "content": "The judgment that she was too weak for a mage still lingered, but compared to when she feared everything, she had become a completely different person.",
+      "tone": "admiring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Harvest",
+      "content": "Arin's strength is also her weakness. She easily resonates with others' minds, but that's why she can't become ruthless. Arcane always regretted this aspect.",
+      "tone": "understanding"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Harvest",
+      "content": "But now she's changing. Arin will manage well.",
+      "tone": "encouraging"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone, sharing in Arin's sadness, felt reassured hearing Harvest and Canis's conversation.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Though he had chosen a tough profession, he had companions who would stay with him for life.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Anyway...",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone began, turning around as his friends directed their gazes towards Kanya and Rena.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The two women flinched.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The six pairs of eyes showed waves of emotion that didn't match the situation.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "They're humans.",
+      "tone": "accusing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rena",
+      "content": "Yeah, they're humans. They even have swords and shields.",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Swords and shields. I was dying to see those. The thought of talking to giants uprooting trees made me dizzy.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "What are you saying? Who are you people?",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Arin connected to the Spirit Zone and attempted telepathy.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Kanya's thoughts were transmitted, Arin used her initial spell to convey them to Shirone's group.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Uh, so, we came from another place...",
+      "tone": "cautious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kanya's fierce gaze stopped Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Understanding the previously incomprehensible words, Kanya's tension rose.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "What did you do? Is this magic too? Are you Nor?",
+      "tone": "accusing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Nor? What's that?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Instead of answering, Kanya extended her right arm.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A drone flew down from the sky.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The beetle-like device landed on her wrist, then detached into sections, forming a gauntlet.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "Language decoding.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A light appeared on the back of the gauntlet.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "Say that again.",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "That was enough.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kanya bent her arm to check the gauntlet.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "No data. Decoding failed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After checking the drone's information, she drew her arc.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Pulling the handle, she aimed a red dot at Shirone's forehead.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "W-What are you doing? Suddenly?",
+      "tone": "alarmed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Rena! These aren't our subjects! We must fight!",
+      "tone": "alarmed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rena",
+      "content": "B-But sister... they saved our lives.",
+      "tone": "reluctant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "Now I understand. The Dokgakgui are here because of them. They disrupted the forest's law.",
+      "tone": "accusing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rena",
+      "content": "You better speak honestly if you don't want your head blown off by the arc. What did you do in this forest? Who are you?",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "We're humans too!",
+      "tone": "desperate"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "How can I believe that? You don't speak our language! And you're not heretics either!",
+      "tone": "accusing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "But we can communicate. Isn't that enough?",
+      "tone": "hopeful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "So let's talk it out. If we can understand each other, we can find a peaceful solution instead of pointing those weird weapons.",
+      "tone": "cautious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Peace? In the Forest of the Profane? You really are suspicious.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "The Forest of the Profane?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Is that the name of this forest?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After Arin's explanation, silence followed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A tense standoff continued for a while.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "We don't understand. Get it? We really came from somewhere else.",
+      "tone": "desperate"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "Are you really... from another place?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "We've been saying that.",
+      "tone": "hopeful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "No, I mean...",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "Kanya's expression turned serious.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Though just a childhood tale, there was a story about humans from a land ruled by the heavens.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They were descendants of the divine, but unable to feel the presence of gods, they lived short, suffering lives as mortals.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "◆ ◆ ◆",
+      "tone": null
+    }
+  ],
+  "source_hash": "0f1178ce87761bd9c5272807f58ca5b363e0c25ab3e5b46f5c1e0fe442c6ea03",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T16:43:41.000144+00:00"
+}

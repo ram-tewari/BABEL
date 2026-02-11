@@ -1,0 +1,871 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone burst into laughter, Zion's face turned red.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A lowly commoner looking down on him and laughing? He had never experienced such humiliation in his life.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zion",
+      "content": "What did he mean by no sons? Only daughters? Then who was he? Was there such a thing as a child without parents?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zion's face twisted like a wounded beast.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "Shut up! How would someone like you know that? You're insane. You've gone mad after being consumed by that monster! Who are you to speak about my mother like that?",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Didn't Teraje tell you? You must have been a truly pathetic fool. She respects ability above all else, even if you're not her child. But it seems you weren't even worth that.",
+      "tone": "condescending"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "When did you meet my mother?",
+      "tone": "accusing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zion, losing his temper, charged.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He had lived his whole life with the pride of being Teraje's son. And now he was being called a shell?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zion",
+      "content": "No, it was the ramblings of a madman. How could a commoner like him have ever met Teraje, the emperor of the continent?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "I am royalty! A bastard like you has no right to speak to me!",
+      "tone": "defiant"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the blade of Zion's gauntlet approached Shirone's neck, a photon cannon struck Zion's abdomen.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zion spat out a mouthful of blood and was thrown 10 meters into a sack of flour.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Cough! Cough!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The sack tore open, and flour poured over Zion like a waterfall.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His face, covered in flour and blood, looked like that of a clown.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "Armand reported: Combat ineffective.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was the only information Zion could comprehend.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone walked over, holding a photon cannon in his palm.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Humans love such things. Kings, bloodlines, heritage, families. But Teraje, whom you follow, once said this to me.",
+      "tone": "philosophical"
+    },
+    {
+      "type": "thought",
+      "speaker": "Zion",
+      "content": "Shirone mimicked Teraje's tone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's photon cannon grew stronger.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Half out of his mind, Zion seemed unaware that it was a spell meant to attack him. He stared at the light with a dazed expression.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone grinned, holding the photon cannon.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Talent is bestowed by the heavens.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The photon cannon fell in a brutal arc.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Tears streamed down Zion's face as he watched the light's trajectory in despair.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A powerful shockwave shook the food storage.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The photon cannon, buried in Armand's fibers, tore through Zion's organs until it exhausted all its power and dissipated.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Flour spread in a ring, creating a thick fog.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy and Reina anxiously scanned the white smoke.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A shadow appeared, and Shirone emerged.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy couldn't bring herself to speak.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Even if that boy was Shirone, the aura emanating from him felt like holding a ticking time bomb—dangerous and unstable.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'm going to the surface. You need to run as fast and as far as you can. I'll handle things here.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The moment of truth had arrived.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Run fast and far? Such words were only spoken in the face of natural disasters like typhoons or earthquakes.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "What are you planning to do? Whoever you are, you need to treat your injuries. That body belongs to Shirone!",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I am Shirone.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone tilted his head back to look at the ceiling.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His cold gaze slowly descended to Amy.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Are you disappointed?",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy couldn't breathe, unable to say a word.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Shirone channeled his immense rage to strengthen his mind.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "The sound of blood vessels bursting was eerily audible beneath his skin.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As he cast a laser, a beam as thick as a log shot up to the ceiling.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The rapid accumulation of thermal energy caused the ceiling to shake.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Shirone! Wait...!",
+      "tone": "alarmed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "It's dangerous! We need to run!",
+      "tone": "alarmed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Reina grabbed Amy's wrist and ran for the exit.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As they left the food storage, an explosion echoed from Shirone's direction.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The shockwave sent them rolling on the ground.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They turned their heads to see a massive rock blocking the entrance to the food storage.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The court musicians' music turned discordant.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As an earthquake shook the grand hall, women screamed and collapsed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The men also looked around in fear.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Orkamp",
+      "content": "An earthquake? Kazra isn't on a fault line, is it?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Guard",
+      "content": "Everyone, get down! Get under the tables!",
+      "tone": "urgent"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At the guards' shouts, the nobles crawled under the tables.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Those who got there first fought with those who arrived later, resembling a bullfight.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The earthquake lasted about a minute before stopping.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The nobles, regaining their composure, crawled out from under the tables with embarrassed expressions.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Orkamp and Eliza, supported by the guards, also looked pale.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Orkamp",
+      "content": "There had never been an earthquake reported in Kazra's history.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A sense of foreboding crossed Orkamp's mind.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The north side of the grand hall exploded with a bang.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Bricks flew in all directions, and smoke filled the air.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A few nobles, already on edge, lost their composure. They fell to the ground, flailing their arms and legs meaninglessly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The first to grasp the situation were the palace guards and the nobles' personal bodyguards.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Guard",
+      "content": "An attack? What's happening?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The guards searched for the head of security, Ritney Walker.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He had been there just moments ago but was nowhere to be found.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The chain of command was in disarray.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Deputy Commander",
+      "content": "If it were terrorists from an enemy nation, the security level needed to be raised to the highest.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But there were too many factors to consider before making such a decision without orders from a superior.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Deputy Commander",
+      "content": "For a moment, nothing happened.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The nobles tried to maintain their dignity. They hid their true feelings and peered into the hole in the floor.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But when a figure emerged, they fell back in shock.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Orkamp",
+      "content": "Is that... Shirone?",
+      "tone": "surprised"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Orkamp muttered with a puzzled expression.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The person who had wrecked the grand hall was none other than Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He remembered seeing Shirone dancing with Reina just an hour ago. Why was he doing this now?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Orkamp",
+      "content": "Shirone, what on earth are you doing?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The guards blocked Orkamp's path.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Guard",
+      "content": "Your Majesty, don't approach. Something is wrong.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even Orkamp could see that Shirone looked different from an hour ago.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His eye color had changed, making him look like a different person, but the most striking difference was his expression.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone never showed such emotional expressions. He always maintained a calm poker face, but now he looked pained and angry.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Modern castles are quite durable. Humans have come a long way.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A guard approached, ready to draw his sword.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Guard",
+      "content": "Sir Shirone, using magic inside the castle is strictly forbidden!",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Without turning, Shirone fired a photon cannon.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The guard dived and rolled on the floor. The photon cannon's beam chased him, scraping the marble floor.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "From now on, no one speaks without my permission. I make the decisions.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's seriousness was proven by his earlier attack.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If the guard had reacted a moment later, he would have been torn apart by the photon cannon.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The atmosphere in the grand hall turned icy.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The nobles looked around, confused and unable to understand.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "For days, they had assessed Shirone as a herbivore—docile and honest, an easy prey.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But now, even the most experienced nobles found Shirone's presence ferocious and wild.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The guards, unable to find Walker, awaited orders from the deputy commander.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But someone who had always stayed out of responsibility couldn't make such a critical decision.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Guard",
+      "content": "Deputy Commander, what should we do? Give us orders!",
+      "tone": "urgent"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The deputy commander anxiously rolled his eyes.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The main forces were stationed outside the inner castle, so even if contacted, it would take time for them to arrive.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was abnormal for an incident to occur in the heart of the castle, the grand hall.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Deputy Commander",
+      "content": "The control device is a last resort. Why not leave it to us?",
+      "tone": "frustrated"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The deputy commander turned his head, feeling as if he had found a savior.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kazra's head of magic, Aimar Bosun, was approaching.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bosun",
+      "content": "Ah, are you sure?",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bosun",
+      "content": "We've been closely monitoring Shirone's movements. It seems he's finally showing his true colors. But we can handle it. With the security chief's permission, may we use magic?",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Deputy Commander",
+      "content": "Of course. If you could take care of it...",
+      "tone": "relieved"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was much better to share the responsibility than to bear it alone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Besides, Bosun had significant influence in the palace, so he wouldn't ignore any fallout.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Bosun gave a fake smile and walked towards Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "One by one, his subordinates emerged from the group of nobles and followed behind him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bosun",
+      "content": "I'll stay by your side, sir.",
+      "tone": "loyal"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The spot next to Bosun was taken by his closest aide, Mito Ekkashi.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Standing at 153 centimeters, with thick eyelids and eyes that slanted sharply, he had a childlike face.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Having roamed numerous battlefields since childhood, he had risen to the rank of certified 6th-level magician in Kazra's magic department at the age of twenty-three.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Of course, there were extreme geniuses like Olifer Shina, who became a certified 6th-level magician at the age of twenty.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But such individuals were rare, even on a kingdom scale, appearing perhaps once in a decade.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ekkashi was certainly considered the future of Kazra.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bosun",
+      "content": "This is an unexpected opportunity, sir.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bosun",
+      "content": "Hmm, unexpected events can easily turn into disasters. But this time, you might be right.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Casting magic in the royal court was a serious crime.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Moreover, Shirone had attacked a royal guard and uttered treasonous words, effectively branding himself a condemned criminal.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "So, what has made the first prince candidate so angry?",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone glared coldly at Bosun.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "An hour ago, he had wanted to punch him. But now, he felt no such desire. He only wanted to kill him.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "So, you're the one driving me mad.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Bosun's heart raced at the pure, 100% killing intent that didn't seem human.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But he didn't lose his composure.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He turned slightly and spoke to the royal guard.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bosun",
+      "content": "Escort His Majesty to safety. I'll handle this.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Understood. Your Majesty, please come.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Orkamp shook off the guard's hand.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Orkamp",
+      "content": "Who said anything about running away? Who do you think is the king here?",
+      "tone": "defiant"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "I-I'm sorry!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sensing his mistake, the guard knelt.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In the urgency of the situation, he had followed Bosun's words.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Under different circumstances, it might have been overlooked.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But considering Bosun was part of the Teraje faction, it was indeed a reckless move.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "◆ ◆ ◆",
+      "tone": null
+    }
+  ],
+  "source_hash": "c50f316a73560ff126a973a349e9565d2018895535ba0bf08f997ede436496b9",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-07T21:14:23.616878+00:00"
+}

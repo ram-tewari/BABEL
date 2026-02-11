@@ -1,0 +1,665 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "After undressing, Shirone walked through a long tunnel."
+    },
+    {
+      "type": "action",
+      "content": "Jets of gas sprayed from the walls, sterilizing his body."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Wary of any hidden intentions, Shirone held his breath and quickly made his way through the tunnel."
+    },
+    {
+      "type": "action",
+      "content": "Entering the next chamber, he found himself in a large cave."
+    },
+    {
+      "type": "action",
+      "content": "Sunlight streamed through numerous holes in the ceiling, resembling a starry night sky."
+    },
+    {
+      "type": "action",
+      "content": "After briefly admiring the ceiling, Shirone focused on the strange object before him."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What is this?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "content": "A large, gel-like substance sat there like a giant pudding."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Elderly Voice",
+      "content": "It's a procedure to coat your sterilized body. Just walk through it.",
+      "tone": "calm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hmm.",
+      "tone": "neutral"
+    },
+    {
+      "type": "action",
+      "content": "Shirone sent his drone ahead, took a deep breath, and plunged into the gel."
+    },
+    {
+      "type": "action",
+      "content": "It was slippery like actual pudding, making it easy to walk through, though it felt quite strange."
+    },
+    {
+      "type": "action",
+      "content": "Sensitive areas were stimulated, causing a slight blush on his face."
+    },
+    {
+      "type": "action",
+      "content": "In the next room, a warm space bathed in red light awaited him."
+    },
+    {
+      "type": "action",
+      "content": "The gel quickly dried, perfectly coating Shirone's entire body."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ah, I see.",
+      "tone": "neutral"
+    },
+    {
+      "type": "action",
+      "content": "The sterilization was 99.99% complete."
+    },
+    {
+      "type": "action",
+      "content": "In the final room, Shirone was surprised to see many people bustling about."
+    },
+    {
+      "type": "action",
+      "content": "Over ten glass tubes filled with various colored liquids bubbled, with hoses carrying the fluids in all directions."
+    },
+    {
+      "type": "action",
+      "content": "On the tables were glass instruments for experiments and parts of unknown creatures, still stained with blood."
+    },
+    {
+      "type": "action",
+      "content": "People in white lab coats moved busily, and the bald man from earlier stood by with Shirone and Plu's clothes, looking displeased."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Commander Raesis",
+      "content": "Where is this?",
+      "tone": "friendly"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Where is this?",
+      "tone": "neutral"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Commander Raesis",
+      "content": "How was the Nor's sterilization system? Perfect, right?",
+      "tone": "friendly"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes, it's quite systematic.",
+      "tone": "neutral"
+    },
+    {
+      "type": "action",
+      "content": "At that moment, the opposite door opened, and Plu entered."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Ugh.",
+      "tone": "surprised"
+    },
+    {
+      "type": "action",
+      "content": "She barely managed to suppress a sound of surprise."
+    },
+    {
+      "type": "action",
+      "content": "Unlike Shirone, Plu seemed unfazed by the bustling environment and immediately surveyed the surroundings."
+    },
+    {
+      "type": "action",
+      "content": "Spotting Shirone, she walked over briskly."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "You got here quickly. Everything okay?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes.",
+      "tone": "neutral"
+    },
+    {
+      "type": "action",
+      "content": "Plu glanced down at Shirone."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "'Well, if he couldn't manage this, he'd just be a kid.'"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone had also firmly refused to remove his ring when asked."
+    },
+    {
+      "type": "action",
+      "content": "However, he didn't check Plu's hand."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He trusted her."
+    },
+    {
+      "type": "action",
+      "content": "After confirming Shirone was safe, Plu examined the equipment around them."
+    },
+    {
+      "type": "thought",
+      "speaker": "Plu",
+      "content": "'A biological laboratory. What are they researching here?'"
+    },
+    {
+      "type": "action",
+      "content": "The sight of scholars dissecting unknown biological specimens reminded her of the underground labs at the Magic Association."
+    },
+    {
+      "type": "thought",
+      "speaker": "Plu",
+      "content": "If the source of the blood scent in Raesis's perfume was here, it meant she spent a lot of time in this place."
+    },
+    {
+      "type": "thought",
+      "speaker": "Plu",
+      "content": "There was no reason for the scent to linger just for measuring Spirit Force."
+    },
+    {
+      "type": "thought",
+      "speaker": "Plu",
+      "content": "'Hmm, definitely suspicious.'"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Commander Raesis",
+      "content": "Sorry if it startled you. We should have been more considerate of a woman. But this is the only lab connected to the disinfection room. We need uncontaminated hair and blood samples.",
+      "tone": "apologetic"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "A physical exam is unavoidable. But for someone saying that, you're quite bundled up, aren't you?",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Commander Raesis",
+      "content": "Haha! Well, I am the commander. Just wait a bit. We'll finish quickly and give you your clothes.",
+      "tone": "friendly"
+    },
+    {
+      "type": "action",
+      "content": "A woman with a syringe approached and drew blood from Shirone and Plu in turn. Two others collected their hair samples."
+    },
+    {
+      "type": "action",
+      "content": "Raesis seemed pleased with their calm demeanor."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Commander Raesis",
+      "content": "I've studied your magic. It's a system that combines the Nor's spirit and the Mecha's knowledge. But I think you're closer to the Nor.",
+      "tone": "analytical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "On what basis do you say that?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Commander Raesis",
+      "content": "Because you understand the insignificance of the body. The Nor are a race immersed in the spiritual world. Here, we have many naked and dismembered bodies. When you dissect a human body, it's just a collection of functions. What's truly important is here.",
+      "tone": "philosophical"
+    },
+    {
+      "type": "action",
+      "content": "Raesis tapped her head."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Commander Raesis",
+      "content": "But the Mecha didn't understand that. They happily melted and hammered metal, creating strange things. Biological experiments are the same. But they despised it and rejected the Nor as primitive.",
+      "tone": "analytical"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone could guess where the rift between the Mecha and Nor had started."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The Bald Man",
+      "content": "The sample collection is complete.",
+      "tone": "professional"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "When do we measure the Spirit Force?",
+      "tone": "neutral"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Commander Raesis",
+      "content": "We'll start now. Look at this.",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "content": "The Nor scholars placed portions of the collected blood and hair into a blue liquid."
+    },
+    {
+      "type": "action",
+      "content": "As it bubbled and turned into a thick greenish liquid, Raesis pointed to an elixir separator."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Commander Raesis",
+      "content": "It's a secret Nor potion. By mixing Green, Yellow, and White Elixirs in specific ratios and fusing them with biological cells, it creates a substance that reveals biological traits. Neutralizing it in distilled water allows us to measure affinity.",
+      "tone": "explanatory"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Interesting.",
+      "tone": "neutral"
+    },
+    {
+      "type": "action",
+      "content": "Plu leaned in, resting her chin on her hand, watching closely."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Commander Raesis",
+      "content": "Don't feel pressured. A low affinity doesn't mean you're less skilled. It's just an evaluation of your magical potential.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Potential."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "For Shirone and Plu, who were still new to the magical society, it was a constant concern."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "And since it was a method impossible in the real world, they couldn't hide their curiosity, even beyond the mission."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Do we do it now?",
+      "tone": "neutral"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Commander Raesis",
+      "content": "No. According to tradition, newcomers measure their affinity in front of the Nor. If done privately, it could cause issues later. Your rank will be determined by the percentage, and with hard training, you can be promoted.",
+      "tone": "explanatory"
+    },
+    {
+      "type": "action",
+      "content": "Shirone and Plu went outside."
+    },
+    {
+      "type": "action",
+      "content": "Most of the headquarters staff had gathered in the open area."
+    },
+    {
+      "type": "action",
+      "content": "In the center were two drums connected to glass tubes that curved up from the ground, reaching 10 meters high."
+    },
+    {
+      "type": "action",
+      "content": "As they examined the setup, the bald man struggled in with two 20-liter water containers."
+    },
+    {
+      "type": "action",
+      "content": "They contained the biological traits of Shirone and Plu."
+    },
+    {
+      "type": "action",
+      "content": "Pouring them into the drums, the silver liquid in the underground glass tubes rose to exactly zero."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Commander Raesis",
+      "content": "Now we begin the tradition of welcoming new members!",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "content": "All the Nor turned to her."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Commander Raesis",
+      "content": "I guarantee there is no deception in measuring Spirit Force. Their ranks will be determined by today's results. Let's begin the affinity measurement.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "I'll go first.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "content": "The bald man explained the procedure."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The Bald Man",
+      "content": "Place your hands in the drum and prepare your mind to cast magic. The liquid's pressure will change, raising the glass tube's level.",
+      "tone": "professional"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Hmm, so I just need to enter the Spirit Zone?",
+      "tone": "neutral"
+    },
+    {
+      "type": "action",
+      "content": "As Plu placed her hands in the liquid, the bald man, recalling his struggles, smirked."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The Bald Man",
+      "content": "For reference, my affinity is 16%.",
+      "tone": "proud"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "So?",
+      "tone": "neutral"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The Bald Man",
+      "content": "That's in the top 20% of the Nor. No matter how inferior your magic is, rank is determined by potential. So you'd better give it your all. It won't be easy under my command.",
+      "tone": "motivational"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The Bald Man",
+      "content": "Hehe, I saw you earlier. Quite impressive.",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "So much for the insignificance of the body.",
+      "tone": "skeptical"
+    },
+    {
+      "type": "thought",
+      "speaker": "Plu",
+      "content": "She had never trusted Raesis's words, sensing they were always hiding something."
+    },
+    {
+      "type": "thought",
+      "speaker": "Plu",
+      "content": "Biological experiments, human bodies—no matter how plausible it sounded, humans were still humans."
+    },
+    {
+      "type": "thought",
+      "speaker": "Plu",
+      "content": "There's definitely something going on."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Let's begin.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "content": "As Plu entered the Spirit Zone, the liquid bubbled, and the glass tube's level rose sharply."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Commander Raesis",
+      "content": "Twenty-eight…",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "content": "An affinity of 28%."
+    },
+    {
+      "type": "action",
+      "content": "Murmurs spread through the crowd."
+    },
+    {
+      "type": "action",
+      "content": "At 28%, Plu's affinity was among the top ranks in the Nor headquarters."
+    },
+    {
+      "type": "thought",
+      "speaker": "Plu",
+      "content": "Even if she started learning ancient magic now, she had the potential to become a powerful magician in a few years."
+    },
+    {
+      "type": "action",
+      "content": "The bald man, who had been staring at the glass tube with his mouth agape, slowly turned to Plu."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Looking forward to working with you, my subordinate.",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The Bald Man",
+      "content": "N-no, I mean…",
+      "tone": "embarrassed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Don't worry. I'm not interested in your body. Not that there's much to see, haha!",
+      "tone": "teasing"
+    },
+    {
+      "type": "action",
+      "content": "Leaving the bald man blushing to his scalp, Plu returned to her spot."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "'As expected of Senior Plu.'"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "The top graduate of the Royal Magic School."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Do well. Show them your true power.",
+      "tone": "encouraging"
+    },
+    {
+      "type": "action",
+      "content": "As Shirone approached the device, the noise from Plu's measurement instantly died down."
+    },
+    {
+      "type": "action",
+      "content": "The light of Sector 73, the symbol of the rebels."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Whew.",
+      "tone": "relieved"
+    },
+    {
+      "type": "action",
+      "content": "Shirone took a deep breath and placed his hands in the liquid."
+    },
+    {
+      "type": "action",
+      "content": "As the tense atmosphere pressed on his heart, he focused and entered the Spirit Zone."
+    },
+    {
+      "type": "sfx",
+      "content": "Boom!"
+    },
+    {
+      "type": "action",
+      "content": "The liquid in the drum boiled over and shot up like a fountain, splashing everywhere."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Huh? What?",
+      "tone": "surprised"
+    },
+    {
+      "type": "action",
+      "content": "The Nor looked up in astonishment."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Commander Raesis",
+      "content": "This can't be…",
+      "tone": "disbelieving"
+    },
+    {
+      "type": "action",
+      "content": "An affinity of 42%."
+    },
+    {
+      "type": "action",
+      "content": "Such a high number had never been seen or heard of in Nor history."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The Bald Man",
+      "content": "What? Is it broken?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Commander Raesis",
+      "content": "42%? Is that even possible?",
+      "tone": "disbelieving"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "But in terms of magical affinity, or talent, it was unparalleled.",
+      "tone": "neutral"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The Bald Man",
+      "content": "There must be a mistake! How can it be 42%? That's not a realistic number!",
+      "tone": "disbelieving"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "But he wasn't foolish enough to waste the sudden opportunity to bolster Raesis's standing.",
+      "tone": "neutral"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Go for it.",
+      "tone": "encouraging"
+    },
+    {
+      "type": "action",
+      "content": "Turning back, Shirone fully unleashed his Immortal Function."
+    },
+    {
+      "type": "action",
+      "content": "The liquid level in the glass tube began to rise rapidly."
+    },
+    {
+      "type": "action",
+      "content": "70%. 80%. 90%."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Commander Raesis",
+      "content": "Huh? What?",
+      "tone": "disbelieving"
+    },
+    {
+      "type": "action",
+      "content": "The Nor's heads tilted back completely."
+    },
+    {
+      "type": "action",
+      "content": "Finally, with a loud pop, the glass tube shattered, and the silver liquid sprayed brilliantly."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Whew, is it over now?",
+      "tone": "relieved"
+    },
+    {
+      "type": "action",
+      "content": "No one spoke."
+    },
+    {
+      "type": "action",
+      "content": "In everyone's mind, only one thought filled their heads."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Commander Raesis",
+      "content": "Nephilim.",
+      "tone": "awed"
+    }
+  ],
+  "source_hash": "fa2866f4a4d6efc0a366c827cade5c01e87c2ce08ee3efa918b9a31272f82c01",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T06:15:08.611887Z"
+}

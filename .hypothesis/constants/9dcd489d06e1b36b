@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\ruamel\yaml\tokens.py
+# hypothesis_version: 6.148.8
+
+[',', ', col: ', ', line: ', '-', ':', '<alias>', '<anchor>', '<block end>', '<comment>', '<directive>', '<document end>', '<document start>', '<scalar>', '<stream end>', '<stream start>', '<tag>', '?', '[', ']', '_column', '_comment', '_mark', '_value', 'comment: ', 'encoding', 'end_mark', 'line: ', 'name', 'plain', 'pre_done', 'start_mark', 'style', 'value', '{', '}']

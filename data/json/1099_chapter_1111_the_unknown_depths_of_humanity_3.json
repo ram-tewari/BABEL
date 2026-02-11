@@ -1,0 +1,432 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "Kanis, how long are we going to stay here?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanis",
+      "content": "In the narrow chamber of the pyramid, Kanis and Arin sat side by side, leaning against the wall."
+    },
+    {
+      "type": "action",
+      "content": "A considerable amount of time had passed, but neither had the will to move."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanis",
+      "content": "It can't be,"
+    },
+    {
+      "type": "narrator",
+      "content": "This insane space is trying to drive us mad. Think about it—twins? Do you and I look anything alike?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "They did. Not identical, but as fraternal twins, it wasn't impossible."
+    },
+    {
+      "type": "action",
+      "content": "Arin lowered her head."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "What's going to happen to us?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanis",
+      "content": "There's no point in thinking about it! Nothing changes. Arin, think about the years we've spent together!"
+    },
+    {
+      "type": "narrator",
+      "content": "Someone more precious than life itself."
+    },
+    {
+      "type": "thought",
+      "speaker": "Kanis",
+      "content": "I want you. I wanted to spend my entire life with you. And now you\"re telling me we share the same blood?"
+    },
+    {
+      "type": "action",
+      "content": "Overcome by anger, Kanis grabbed Arin's shoulders and kissed her roughly."
+    },
+    {
+      "type": "narrator",
+      "content": "It was bold, but if it were Arin, she might have accepted it willingly."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "No!"
+    },
+    {
+      "type": "action",
+      "content": "But she pushed him away, and Kanis fell back onto the ground, looking stunned."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanis",
+      "content": "Why… why did you do that?"
+    },
+    {
+      "type": "action",
+      "content": "Reading Kanis's emotions through her empathy, she began to cry."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "I'm sorry. I love you too, but… just in case…"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanis",
+      "content": "No! That's impossible! We agreed to live believing it wasn't true!"
+    },
+    {
+      "type": "narrator",
+      "content": "Though they'd never spoken the words aloud."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "We did, but now we know. At least, until we're completely sure…"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanis",
+      "content": "You…"
+    },
+    {
+      "type": "action",
+      "content": "Kanis was about to shout in frustration when—"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ares",
+      "content": "There you are."
+    },
+    {
+      "type": "action",
+      "content": "From the darkness emerged a pair of glowing red eyes."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "Ares,"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ares",
+      "content": "Is everyone safe? We need to find Shirone."
+    },
+    {
+      "type": "action",
+      "content": "Muttering as he approached, Ares paused, surprised by the looks on their faces."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ares",
+      "content": "What happened? Why do you both look so pale?"
+    },
+    {
+      "type": "action",
+      "content": "Neither of them answered."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ares",
+      "content": "I see. It got to you too."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "Ares, did you… see the past as well?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ares",
+      "content": "Yes. I keep resetting it with my ability, but it's a horrible task. The timeline in this place is warped. The fact that we're all separated is proof of that."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanis",
+      "content": "Why is this happening to us?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ares",
+      "content": "There's no reason,"
+    },
+    {
+      "type": "action",
+      "content": "He examined the glowing runes running along the wall."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ares",
+      "content": "This is just that kind of place. It seems all causality is dismantled here, regardless of time. It's almost like…"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "God's perspective?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ares",
+      "content": "Exactly. From outside the universe, even time would look like just one thread. Maybe there really is a god living here."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanis",
+      "content": "Let's go,"
+    },
+    {
+      "type": "action",
+      "content": "I'm going to meet them myself and find out why they're doing this to us. I'll fix it. If there really is a god…"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanis",
+      "content": "He clenched his fists."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanis",
+      "content": "I'll kill them if I have to."
+    },
+    {
+      "type": "action",
+      "content": "Each member of the World Health Organization delegation had been assigned a private room."
+    },
+    {
+      "type": "action",
+      "content": "Seriel, placing her large bag on the desk, was frustrated that her mood had been ruined so early in the morning."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Annoying,"
+    },
+    {
+      "type": "narrator",
+      "content": "The face of Fermi flashed in her mind."
+    },
+    {
+      "type": "thought",
+      "speaker": "Seriel",
+      "content": "If Amy found out, she'd probably try to kill him."
+    },
+    {
+      "type": "action",
+      "content": "Her cheeks burned at the thought, but another crossed her mind."
+    },
+    {
+      "type": "thought",
+      "speaker": "Seriel",
+      "content": "Would she, though?"
+    },
+    {
+      "type": "narrator",
+      "content": "Everyone has secrets."
+    },
+    {
+      "type": "thought",
+      "speaker": "Seriel",
+      "content": "If one were to dismantle the causes and effects of a person's life, it would reveal countless impulses, shame, and fleeting joys beyond anyone's imagination."
+    },
+    {
+      "type": "thought",
+      "speaker": "Seriel",
+      "content": "Back then, we had no idea the world would turn out like this."
+    },
+    {
+      "type": "action",
+      "content": "Sitting on the edge of her desk, she lit a cigarette."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Why did I start smoking?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Seriel",
+      "content": "Perhaps that, too, was just another… Cause."
+    },
+    {
+      "type": "narrator",
+      "content": "It was during Seriel's final year at school."
+    },
+    {
+      "type": "action",
+      "content": "The day after the 19th week of training, they were given a rare day off."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Strengthening my Spirit Zone. What about you?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "I'm thinking about grabbing some coffee."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Alright, then… let's go to the café."
+    },
+    {
+      "type": "narrator",
+      "content": "Unlike the tireless Amy, Seriel was an ordinary person who needed rest."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "I'm thinking about grabbing some coffee."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Got it. Go to the bookstore."
+    },
+    {
+      "type": "action",
+      "content": "Not wanting to interrupt Amy's training, Seriel found an excuse to slip away."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Haha, no way. It's a dangerous book. Someone without immunity like you would be in trouble. See you tomorrow!"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Hey! Seriel!"
+    },
+    {
+      "type": "action",
+      "content": "Amy called out urgently, but Seriel was already rounding the corner of the hallway."
+    },
+    {
+      "type": "thought",
+      "speaker": "Seriel",
+      "content": "Could she have stopped her?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Seriel",
+      "content": "For a moment, the thought crossed her mind, but the tasks ahead left no room for distraction."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "…Back to training."
+    },
+    {
+      "type": "action",
+      "content": "Meanwhile, Seriel, relieved not to have become a nuisance, sighed as she stepped outside."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "I'll just have some fun on my own."
+    },
+    {
+      "type": "action",
+      "content": "Feeling free, she left the school and arrived at a run-down bookstore."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Hello."
+    },
+    {
+      "type": "action",
+      "content": "Far from the noble district and occasionally receiving banned books, this was her little hideout."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bookstore owner",
+      "content": "It's over there, in the corner."
+    },
+    {
+      "type": "action",
+      "content": "The bookstore owner, despite her face being hidden by large glasses and a scarf, recognized her immediately."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "There it is. The sequel to The Primal Snare."
+    },
+    {
+      "type": "narrator",
+      "content": "A dark love story between a nobleman and a maid, devoid of any romance."
+    },
+    {
+      "type": "action",
+      "content": "It was classified as adult material due to its decadent and explicit descriptions, but for Seriel, a lifelong reader of romance novels, it was nothing shocking."
+    },
+    {
+      "type": "action",
+      "content": "From the very first page, the characters from the previous book were engaged in an intimate encounter."
+    },
+    {
+      "type": "action",
+      "content": "Swallowing hard, she read on, completely engrossed in the story."
+    },
+    {
+      "type": "thought",
+      "speaker": "Seriel",
+      "content": "The roles have reversed."
+    },
+    {
+      "type": "action",
+      "content": "The maid, now holding a whip, approached the nobleman bound in chains."
+    },
+    {
+      "type": "thought",
+      "speaker": "Seriel",
+      "content": "Her breath made every hair on the man's body stand on end. Her tongue, moist like jelly slipping between her red lips, licked his nape…"
+    },
+    {
+      "type": "action",
+      "content": "Startled by the sudden voice, Seriel slammed the book shut."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Ah! Wh-who is it?"
+    },
+    {
+      "type": "action",
+      "content": "Turning, she saw a familiar face she didn't want to see."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Fermi?"
+    },
+    {
+      "type": "action",
+      "content": "As she lowered her large glasses to confirm, Fermi waved cheerfully."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Hello."
+    },
+    {
+      "type": "action",
+      "content": "That same mischievous smile on his face."
+    }
+  ],
+  "source_hash": "96c9d513b1027786ad3bd868ea80963a6eae55220685eb9e515d4fc134ba7b10",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T03:58:07.510446Z"
+}

@@ -1,0 +1,607 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Galliant Island (4)",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hey, stop that!",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone stepped forward and shouted.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gamos",
+      "content": "What's this? You little brat, where do you get off meddling?",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Gamos turned to Shirone with a look of astonishment.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It seemed a nobody had appeared out of nowhere, but it turned out to be just a boy not yet in his twenties, holding grocery bags in both hands.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Please let that lady go. Everyone is watching, and the guards will be here soon.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gamos",
+      "content": "Gahaha! The guards? Do you even know who I am?",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Who you are doesn't change anything. If you keep this up, I'll go and call the guards myself.",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Gamos loosened his grip, the woman quickly escaped and hid behind Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Though he was just a boy, he was the only one in the crowd she could rely on.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Please save me. That man was trying to...",
+      "tone": "pleading"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Gamos frowned and approached.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gamos",
+      "content": "What a nuisance. Kid, I'm a trader on Galliant Island. This woman tried to steal from me. She even broke a valuable porcelain piece.",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Porcelain?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone blinked in confusion.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If what the man said was true, then the woman standing behind him was a thief.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gamos",
+      "content": "Right. I did demand her body as compensation. But since she damaged the goods, she must make amends, right? Calling the guards will only get her arrested.",
+      "tone": "accusing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Is what he's saying true?",
+      "tone": "incredulous"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The woman",
+      "content": "Yes, I'm sorry. But I really needed that porcelain. I'm telling the truth.",
+      "tone": "apologetic"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hahaha! There's no situation where someone 'needs' porcelain that badly. You mean you needed the money. I was just trying to help her earn some. Now you see, kid? It's best not to get involved with such women. Unless, of course, you're looking for a one-night stand, right folks?",
+      "tone": "teasing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The crowd laughed along with Gamos, though the situation hardly seemed funny.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The tension that had built up among the onlookers suddenly dissipated.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gamos",
+      "content": "Just go enjoy your meal with your friends. Don't meddle in adult affairs, or you'll end up like this.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The woman clutched Shirone's arm, pleading.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Maybe you should turn yourself in? The guards can handle this.",
+      "tone": "practical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The woman",
+      "content": "I can't! He has the entire island under his control. Please, trust me.",
+      "tone": "desperate"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "How much was the porcelain worth?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The woman",
+      "content": "I'm not sure, but it might be around 50 silver.",
+      "tone": "hesitant"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Paying 50 silver to help the woman wasn't difficult for him. But was it right to pay off someone's guilt just because he had the money?",
+      "tone": "doubtful"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Just as he had no right to judge someone's guilt, he also had no right to pardon it.",
+      "tone": "reflective"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone made up his mind and approached Gamos.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'll pay the porcelain's cost on her behalf. So please, let her go.",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Gamos raised an eyebrow in surprise.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gamos",
+      "content": "Oh, so you plan to take her for yourself? I suppose a young lad like you couldn't find such a beauty for 50 silver anywhere else?",
+      "tone": "scoffing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's brow furrowed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Gamos' insinuation that he had lascivious intentions annoyed him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I have no such thoughts. Do you think everyone is like you?",
+      "tone": "indignant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gamos",
+      "content": "Then why step in? She's a thief. Just hand her over to the guards, and it's done.",
+      "tone": "accusing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's not my place to judge what she's done. I'm using the 50 silver because I believe the punishment shouldn't exceed the crime. If you have any other intentions towards this woman, please accept this money and let it end here.",
+      "tone": "principled"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Moved by Shirone's words, the woman's eyes lit up.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Gamos, however, scoffed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gamos",
+      "content": "Here's the 50 silver. Now, please forgive her.",
+      "tone": "scoffing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Gamos stared at the silver coins in Shirone's palm.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He wasn't pleased.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The woman was too good to let go, and he didn't like Shirone's attitude.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gamos",
+      "content": "There is no need for you to compensate. Money's not important to me. I do have one condition though.",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "A condition? What is it?",
+      "tone": "cautious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gamos",
+      "content": "You seem to be playing the noble hero for this woman. Then you can apologize to me on her behalf, right? Bow to me, right here in front of everyone.",
+      "tone": "sneering"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The crowd's attention focused on Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was rare for someone to endure humiliation for another, but Shirone readily stepped forward.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Alright. If that will make you forgive her, I'll apologize.",
+      "tone": "resolute"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gamos",
+      "content": "Don't just say it, bow. Offer your apology properly.",
+      "tone": "sneering"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone deeply bowed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I apologize on behalf of this lady for the theft of the porcelain. Please forgive her.",
+      "tone": "sincere"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Gamos looked down at Shirone with arrogance, then suddenly burst into a sneer, stepping forward and swinging an uppercut.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone reflexively stepped back, avoiding the fist that whooshed past his face, stirring the air.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gamos",
+      "content": "What are you doing?",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Gamos pointed at Shirone, chuckling.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gamos",
+      "content": "See? He dodged. He wasn't sincerely apologizing to me. If he was truly willing to save this woman, he could have taken the hit. But he avoided it because he was afraid. Do you understand now? The world isn't so simple. If you can refute, do so. You're just pretending to be good.",
+      "tone": "accusing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The crowd agreed with Gamos.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If Shirone really wanted to save the woman, he could have endured the punch. But he dodged, which meant his actions were hypocritical.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Whispers of disdain filled the air.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gamos",
+      "content": "So it was all an act. You put on quite a show, only to reveal your true colors.",
+      "tone": "sneering"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gamos",
+      "content": "These days, kids are too presumptuous. They think they look so great acting all high and mighty.",
+      "tone": "accusing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone couldn't comprehend the crowd's reaction.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What's wrong with me dodging?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gamos",
+      "content": "Still playing dumb! Everyone here is disappointed in you. You acted like some great hero of justice, but it was all a facade.",
+      "tone": "accusing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone was bewildered.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What are you talking about? Even if it's pretense, doing good deeds is far better than doing harm like you.",
+      "tone": "principled"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Gamos was at a loss for words.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even those who had jeered were taken aback by Shirone's response.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The woman",
+      "content": "I was right. This kid... he's a mage.",
+      "tone": "realization"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Mages don't debate 'who is right?' They consider 'what is right?'",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "This boy doesn't justify himself. He acknowledges facts and deduces the truth, a thought process common among mages.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The crowd, humiliated by Shirone's retort, was left speechless.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Just as I thought. They didn't lift a finger to help, only eager to criticize someone else's good deeds. That's why they fail.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was time to move.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "While the crowd's attention was focused on Shirone and Gamos, the best course of action was to slip away.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The woman slowly moved along the wall, then quickly turned the corner and disappeared.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Gamos's face was flushed with anger.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "From his entrance to this moment, the boy had been nothing but a thorn in his side, even challenging his worldview in front of everyone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gamos",
+      "content": "Kid, you've messed with the wrong person.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Gamos's voice turned grave, shedding his trader's guise for his true, harsh tone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The alert bodyguards unsheathed their swords, the presence of the sharp blades alone enough to invoke fear of death.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gamos",
+      "content": "Waiting for what? Go on, give him a good thrashing!",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At Gamos's command, the bodyguards charged from both sides, not intending to kill but ready to strike if necessary.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Dust kicked up in the eyes of one bodyguard, followed by a stone hitting the other's forehead.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone turned to see the woman, who had vanished earlier, standing at the entrance of the alley, armed with a pile of stones.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She launched a barrage of stones, causing the bodyguards to hesitate.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Seizing the moment, she grabbed Shirone's wrist and pulled him into the alley.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The woman",
+      "content": "Let's run! Follow me!",
+      "tone": "urgency"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Uh, but...",
+      "tone": "hesitant"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone had been aware of the woman's absence but chose to ignore it, believing it was for the best.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The woman",
+      "content": "Why did you come back?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hurry! We don't want to get entangled with them!",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They raced through the maze-like alleys, quickly losing the bodyguards thanks to the woman's familiarity with the area.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "From the market, Gamos's voice echoed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gamos",
+      "content": "Chase them down! I'll make them pay!",
+      "tone": "menacing"
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "◆ ◆ ◆",
+      "tone": null
+    }
+  ],
+  "source_hash": "37426e76eef1cdba122e81767fcf83a552adc3963710ccade264e7e45909afbe",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T16:00:50.783155+00:00"
+}

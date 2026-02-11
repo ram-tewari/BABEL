@@ -1,0 +1,655 @@
+{
+  "blocks": [
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You said Goffin. Is it the same Goffin who created Goffin's Gate? Why did Miro call out his name at the last moment?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ikael blinked in surprise.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It was unexpected that Shirone had heard that voice. But she soon continued explaining in a calm tone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Goffin was the first gatekeeper who protected your world from Heaven's army. Miro is, so to speak... Goffin's successor.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What? Are you saying Miro wasn't the first?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The circumstances were different, but essentially, yes.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Their circumstances were different, but essentially, yes. McLaine Guffin, he's probably one of the most brilliant humans in your world. No, he was more exceptional than any Nephilim. That's probably why he separated humans from God.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "So where is that person now?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ikael shook her head.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "He left for a place I cannot oversee, leaving behind a successor named Miro.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "But that means….",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Yes. She must forever act as the barrier in a place where time does not flow. Otherwise, Shirone's world will be destroyed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's lips trembled.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The last time he saw Miro's face, it came to mind vividly.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "How would she feel, isolated from the world and forced to face indefinite loneliness?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "At that moment, a terrifying thought crossed his mind.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Conversations he had with the headmaster began to resurface one by one.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At that time, Alpheas' face looked sorrowful. No, sometimes he wore a terrifying expression, as if he were angry.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "What if Miro didn't choose that path herself? What if she was forced into isolation by someone?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone got goosebumps thinking about that.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "This couldn't even be called a crime. It was a decision that condemned a single human to an eternal hell.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "How long will Miro have to…?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even now, Heaven's army is fully prepared to fight the final war. It might not take long. That's because the coordinates are recorded in the Meta Gate that Shirone's party brought.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's mind went blank.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Miro had blocked Heaven's gate using Scale Magic. But the Meta Gate was practically opening a new gate to Heaven.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No way... That can't be….",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "No. It is possible. With the Meta Gate, Heaven's technology can easily bypass Miro's space-time.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone felt as if his heart was breaking.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "This wasn't just a matter of life and death for them. It was the potential annihilation of all humanity.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He couldn't believe it was true. What on earth had they done?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "That's why I'm trying to help. Shirone's friends are captured in the Great Hall of World. Kariel will implant Nephilim information into the bodies of the girls.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Why? You said they were preparing for the final war! What do the Nephilim have to do with this?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Because the situation has changed. Miro is not a Nephilim. Yet she opened the Immortal Function on her own. Such cases are extremely rare, but it happens frequently in Shirone's world.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "That was why Shirone had been confused when he heard the word Nephilim at Nors Shelter. There were too many Unlockers to be descendants of angels.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It means Shirone's world has moved far from Ra's will. Goffin bought time so humans could understand the essence of the world. And now, that will has passed on to Miro.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Of course, the time she defended your world is pitiful compared to Goffin. But considering the speed of growth, it is a level that cannot be overlooked.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone also agreed with that statement.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The speed of magical development was indeed accelerating. It was at the point where it was being analyzed that the achievements of the past 100 years were outpaced by the last 10 years.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "So, this time, humans won't be easily defeated.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "That's right. Although they are a minority, the rulers of the human world are probably aware of the existence of Heaven. They are probably preparing in some way. Right now, they need more Nephilim, even if it's just one more.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone trembled.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The idea of injecting angelic information into human bodies to annihilate humanity was unbearable.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He couldn't stand the thought of Amy giving birth to someone for such a reason.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Why did you stand by and let this happen? As an archangel, couldn't you ask for their release?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ikael looked at Shirone with sad eyes.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "Ah….",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "That's right. Why does Miro hate Ikael? Because she was the angel who commanded Heaven's army. Ikael, too, was once an archangel who punished humans.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "Yes, I am an angel. If the final war happens... I will also have to fight against humans.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone felt like all the strength was leaving his body.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Was this how it would end? Would he have to watch his friends suffer without getting any help from Heaven?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "If… it was before I met Goffin.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ikael gave a wry smile and stuck out her tongue.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "Don't worry, Shirone. I want to help you. Unlike angels, humans have limitless potential. I believe that the final war must never happen.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone had a blank expression but then realized the weight of her words.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If an archangel who had risen to the rank of chief archangel were to stand on the side of humanity, there would be hope even if the final war broke out.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "She mentioned before meeting Goffin. While Shirone couldn't ask what sins Ikael had committed, he could guess it was related to him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "However, don't be too reassured. I am a being with my power sealed. Moreover, I can't even leave my room, so even if I want to help Shirone, I can't provide direct assistance.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "But… I can't defeat an angel with my own strength.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "That's right. Angels are strong. Moreover, Kariel is a powerful archangel, so strong that even before I lost my power, I couldn't recklessly confront him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Then what should we do now?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She wouldn't have brought this up just to demoralize him. Shirone clinging for a glimmer of hope and waited for her to come up with a solution.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "There is one way. It might increase our chances of saving your friends a little bit.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Really? What is it?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It's the angel's magic circle. Shirone, you need to master it.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You mean... Halo?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "That's right. Angels activate their abilities by accumulating information in their halo. If Shirone learns how to do it, you might be able to create a single opportunity at a crucial moment.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone recalled the events at Shamain. The awe he had felt when Ikasa unleashed her halo still lingered in his body.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "And now he was being told to master it himself?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "He didn't think it was possible, because humans don't have Over Spirit.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Without a Holy Light Body, there is no space to engrave the information, so how could he create a magic circle?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "Of course, it won't be easy. Shirone will have to overcome at least three obstacles to use the angel's magic circle.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ikael said, holding up three fingers.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "First, creating a Holy Light Body. Although human spirit resides within the body, I know that it can be taken out through a special method. Can you do it?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Shirone nodded. The concept Ikael had mentioned was a Deviate Type of Four-Way Zone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Indeed, the Deviate Type could potentially mimic the angel's Over Spirit to some extent.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "The problem starts from now. Even if you create a Holy Light Body, unfolding a halo is on a different level. You need to draw a perfect circle. If the circle is even slightly distorted, the computation speed of light will significantly slow down, and if it slows down by even 0.1%, the angel's abilities cannot be manifested.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Humans cannot draw a perfect circle. But in the realm of the mind, it's not impossible. Grasping the mathematical concept of a circle is crucial.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "It wasn't an easy task, but it was a hurdle that had to be overcome.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "That's the first hurdle. The second is even more serious. An angel's abilities come from the immense amount of information embedded in the halo. In mathematical terms, it's a quantity that a human couldn't record even in a lifetime.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone recalled the scene where Ikael caused the Galliant volcano to erupt. The ability to increase a dormant volcano's activity by 20,000 times and trigger an eruption was beyond human capability.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Even if I can draw a perfect circle, what about the equations? A human mind can't calculate such enormous information in an instant to cause a volcanic eruption.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "But there is insight. Here's what we'll attempt. We will do spirit union. I will become Shirone and execute the halo. That experience will then transfer to Shirone's mind, becoming part of your experience.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone felt nauseated.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "If it was to save his friends, he didn't mind losing his spirit. He had risked his life from the beginning. However, if even Ikael was in danger, it was a decision he couldn't make rashly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Even if I fail….",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone, don't think about anything else. I said I would help you. Don't worry about me, and for now, just think about saving your friends.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What is the third hurdle?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even if the magic circle's equation is completed, whether you can withstand it is another issue. If your mental endurance is not enough, Shirone will be destroyed. Of course, this is separate from my own danger. However, if you cannot endure, it would be better not to attempt this in the first place.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Don't worry about that. I'll definitely endure.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He was confident about this last hurdle. Ever since he entered the magic academy, his mental endurance had always been his strength.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Besides, having reached the state of Indestructible Diamond, he believed he could withstand it to some extent.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "You don't understand. I know that Shirone has a mental power that never breaks down. But that alone might not be enough.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "How can something unbreakable still break? That seems like a contradiction.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "No. The former and the latter are on different levels of concept. If it were a vessel that could hold Shirone's spirit, its current durability would be sufficient. But an angel's concept, born from a higher dimension, is different in quality. The vessel may be sufficient to hold water, but if that water freezes, any vessel will break.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was a mountain beyond a mountain. Of the three hurdles she presented, none were easy to overcome.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No, perhaps this was normal.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "Since this was a task for humans to master the archangel's magic circle, it was necessary to bear this level of risk from the beginning.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "The halo will cause your mind to explode from within, Shirone. The choice is yours. If you want to attempt this despite knowing the risks, I will help you.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "For an angel, the collapse of the mind was equivalent to the annihilation of life.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "If Ikael was willing to risk everything to help, Shirone had no reason to refuse.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It was for his friends, but the chance to learn an archangel's true intentions would never come again.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'll try. No, please let me. I'll accept whatever the outcome may be.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "I understand. The magic that I'm going to use on Shirone from now on is called Possession. It involves merging spirit and dominating the human. It is usually used by dispatched angels to convey Ra's will.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Shirone had read about Possession through various texts. At the time, he was half-believing, but now that an archangel had spoken directly about it, there was no room for doubt.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "If Possession is successful, my spirit and Shirone's will merge. If I harbor any malicious intent, it will be easy to harm you, Shirone. Likewise, if you lose your purity, that malice will seep into me.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was a warning that if they were not careful with each other, something irreversible could happen.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Shirone nodded again without hesitation. He knew Ikael would never harbor any malicious intent.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Moreover, even if he lost his purity, she was not a weak angel who couldn't control it.",
+      "tone": null
+    }
+  ],
+  "source_hash": "8206288f0637061695102790312cf68505d1ac114bec796cd7356231a5dd95eb",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T17:12:29.121546+00:00"
+}

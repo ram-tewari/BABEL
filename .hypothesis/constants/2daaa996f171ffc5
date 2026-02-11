@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\google\ai\generativelanguage_v1beta\services\text_service\transports\base.py
+# hypothesis_version: 6.148.8
+
+[1.0, 1.3, 10.0, 60.0, ':', ':443', 'TextServiceTransport', '_ignore_credentials', 'default_scopes', 'scopes', 'with_gdch_audience']

@@ -1,0 +1,349 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In a high-end restaurant where the sweet music of a musician could be heard, Cairns enjoyed his lamb.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cairns",
+      "content": "Where did Langi go?",
+      "tone": "concerned"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "At just thirty-four years old, he was the third in line for power in the kingdom and served as the Minister of Foreign Affairs.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Benahar",
+      "content": "She said she had some business and went to the refugee ship. Should I call her back?",
+      "tone": "inquiry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cairns",
+      "content": "The refugee ship, huh.",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Pausing his chewing, he pondered for a moment before nodding and speaking.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cairns",
+      "content": "She went to meet that guy Shirone. One of the Five Great Stars of the Ivory Tower. What kind of person is he?",
+      "tone": "intrigued"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The magician in a suit standing by Cairns' side bowed politely.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Benahar",
+      "content": "Yes. He is one of the world's four superhumans and the head of the Ivory Tower's Unified Space Management Department. Currently, he is…",
+      "tone": "formal"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Cairns waved his knife.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cairns",
+      "content": "Ah, no need to recite what's on paper. How strong is he? If you fought him, who would win?",
+      "tone": "dismissive"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even if it seemed like a childish question, it was different when one reached a certain level.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Benahar",
+      "content": "He is strong. As one of the stars of the Ivory Tower, it's natural, but he has stepped into the realm of infinity, the highest level of magic.",
+      "tone": "respectful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cairns",
+      "content": "Oh? That much?",
+      "tone": "surprised"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was unheard of for his secretary to concede to any magician's name.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Benahar",
+      "content": "He is not an opponent I can guarantee victory against. But if I were to fight with everything on the line…",
+      "tone": "cautious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The secretary's name was Benahar.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Benahar",
+      "content": "I would predict my slight advantage.",
+      "tone": "confident"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He was at the pinnacle of the mercenary world and had defeated many certified first-class archmages.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cairns",
+      "content": "Interesting.",
+      "tone": "intrigued"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Cairns said as he cut his lamb.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cairns",
+      "content": "No matter how great the Ivory Tower is, they are still magicians. Set up a meeting. I'll try to recruit him.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Benahar",
+      "content": "Bringing him here won't be a problem. If he refuses, we can use force. However, most stars of the Ivory Tower are not driven by material desires. Negotiations might be difficult…",
+      "tone": "cautious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Cairns clicked his tongue and shook his head.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cairns",
+      "content": "Tsk tsk tsk.",
+      "tone": "disapproving"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Do you know what most people misunderstand? They believe there are humans who are beyond money, women, power, and such. But there are no such humans. Because they are human.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He made a circle with his fingers.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cairns",
+      "content": "Some people will fall for just 100 gold. But some will snort even at 1 billion gold. So is negotiation impossible?",
+      "tone": "philosophical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Benahar listened attentively.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cairns",
+      "content": "No. If they refuse 1 billion, offer 10 billion. If they refuse 10 billion, offer 100 billion. It's ultimately a matter of quantity and quality. You understand what this means, right?",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Benahar",
+      "content": "Of course.",
+      "tone": "understanding"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Cairns had invested 28 billion gold to hire Benahar.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cairns",
+      "content": "There can't be a man beyond women either. How could that be a living being? Of course, some might act high and mighty. Then what should you do? Push with irresistible charm. Tailor it to their appearance, body, personality, preferences, intelligence, dignity, interests—everything about that person.",
+      "tone": "philosophical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Benahar realized anew.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Benahar",
+      "content": "Politicians aren't sane either.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The reason it couldn't be dismissed as bluffing was that Cairns was currently the Minister of Foreign Affairs.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cairns",
+      "content": "Life is all the same for everyone. It's just a matter of degree. Negotiation starts from there.",
+      "tone": "philosophical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Cairns put down his utensils and wiped his mouth.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cairns",
+      "content": "Bring that man Shirone before me. After about 30 minutes with him, I'll have an estimate.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Benahar",
+      "content": "Yes, sir.",
+      "tone": "obedient"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Benahar left the restaurant, staff came in with carts to clear the dishes.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cairns",
+      "content": "Thank you for the meal.",
+      "tone": "grateful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Handing over gold coins with a gentle smile made the staff bow even lower.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Cairns",
+      "content": "Always the same reaction. Humans are no different from machines—machines driven by desire.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Cairns was ambitious.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Cairns",
+      "content": "The child who once dreamed of world domination had demonstrated exceptional skill and became a minister in his mid-twenties.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Cairns",
+      "content": "The king of Arachne is just a stepping stone. Through this expedition, I will make a great leap.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The pinnacle of the world was unfolding before him.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Langi suddenly clapped her hands as if she remembered something.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Langi",
+      "content": "Oh right! I have something to return to you.",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She took out a book from her diagonally slung bag and handed it to Shirone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Huh? What's this?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Langi",
+      "content": "It's the book you left at the hotel during the World Beauty Pageant. I've kept it all this time.",
+      "tone": "smiling"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Turning it over revealed the title 'The Archmage Who Defeats Dragons' on the cover.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "An interesting book.",
+      "tone": "intrigued"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Feeling thorns in Poyne's words, Shirone gave an awkward smile.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I just bought it out of boredom during my travels. Oh! It must have been at the hotel.",
+      "tone": "embarrassed"
+    }
+  ],
+  "source_hash": "e323c37a3dbafa6506027cc9d6032197bb403c581770e030a6701b9fd8363b12",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T08:09:20.462669+00:00"
+}

@@ -1,0 +1,648 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "Middle East. Kingdom of Paras."
+    },
+    {
+      "type": "action",
+      "content": "On the western map of Paras, the cradle of ancient civilization, the world's largest Akkad Desert is marked in ochre."
+    },
+    {
+      "type": "action",
+      "content": "An endless sea of sand."
+    },
+    {
+      "type": "narrator",
+      "content": "It is extremely difficult for any living creature to survive in this place, heated over eons of time."
+    },
+    {
+      "type": "action",
+      "content": "Yet, there were human footprints on the smooth, cream-like sand."
+    },
+    {
+      "type": "action",
+      "content": "The footprints led to a giant pyramid, an ancient ruin, standing tall like a mirage."
+    },
+    {
+      "type": "action",
+      "content": "The center of the Akkad Desert had dried up all its oases, making it unapproachable even for travelers, but a few people knew that this was the dungeon where the world's most famous magician resided."
+    },
+    {
+      "type": "action",
+      "content": "A dungeon with an infiltration difficulty of A2."
+    },
+    {
+      "type": "action",
+      "content": "Walking leisurely inside was Kangnan, the former chief secretary of the Tormia Magic Association."
+    },
+    {
+      "type": "action",
+      "content": "Wherever she passed, monsters of 5th tier or higher were embedded in the walls, writhing."
+    },
+    {
+      "type": "sfx",
+      "content": "The sound of high heels clicking on the stone floor echoed oppressively, crushing their groans."
+    },
+    {
+      "type": "action",
+      "content": "After a long battle, Kangnan's clothes were in disarray."
+    },
+    {
+      "type": "action",
+      "content": "Her buttons were missing, leaving her front open, and her stockings were torn in places."
+    },
+    {
+      "type": "action",
+      "content": "In her right hand, she held a long horn, one of the dozens attached to the tail of a monstrous creature."
+    },
+    {
+      "type": "action",
+      "content": "The tail was connected to a green body weighing at least 2 tons, with the end of the body being the hideously collapsed snout of the desert king, the Basilisk, dragging along with its tongue hanging out."
+    },
+    {
+      "type": "action",
+      "content": "Dragging."
+    },
+    {
+      "type": "action",
+      "content": "Kangnan's appearance, dragging a monster more than 20 times her size, was certainly unusual, but her light steps made it seem like a trivial matter."
+    },
+    {
+      "type": "action",
+      "content": "Arriving at the end of the labyrinth, Kangnan pushed open a stone door."
+    },
+    {
+      "type": "action",
+      "content": "It was a vast cavern, with numerous creatures that inhabited the desert mummified and mounted like tree bark."
+    },
+    {
+      "type": "action",
+      "content": "At a table 80 meters away, someone wearing a turban was engrossed in their work, their back turned."
+    },
+    {
+      "type": "action",
+      "content": "Instead of knocking, Kangnan dragged the Basilisk's tail and threw it."
+    },
+    {
+      "type": "sfx",
+      "content": "Boom!"
+    },
+    {
+      "type": "action",
+      "content": "A majestic echo reverberated through the cavern."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "If you knew I was coming, couldn't you just let me in?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "content": "The person in the turban finally turned around."
+    },
+    {
+      "type": "action",
+      "content": "It was a slender woman wearing a desert-colored cloak."
+    },
+    {
+      "type": "action",
+      "content": "Her large, long eyes had no double eyelids, and her chin was delicately slender."
+    },
+    {
+      "type": "action",
+      "content": "She was sucking on a pacifier, creating a mysterious atmosphere in contrast to her deep, dark eyes."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zulu",
+      "content": "It's been a while, Kangnan.",
+      "tone": "friendly"
+    },
+    {
+      "type": "action",
+      "content": "The woman's name was Zulu."
+    },
+    {
+      "type": "action",
+      "content": "A certified level 1 grand magician of the Kingdom of Paras and the world's strongest summoning magician, capable of summoning a lich, a 1st tier monster."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "Yes. It seems you've been well.",
+      "tone": "polite"
+    },
+    {
+      "type": "action",
+      "content": "Kangnan spoke in Middle Eastern, but Zulu insisted on using the continental language."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zulu",
+      "content": "I haven't gone out much since then.",
+      "tone": "humble"
+    },
+    {
+      "type": "action",
+      "content": "She still had the habit of adding honorifics to certain endings."
+    },
+    {
+      "type": "action",
+      "content": "It didn't match the grammar of the continental language, but if it had been a habit from the beginning, it couldn't be helped."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "Sit. I'll bring something to drink.",
+      "tone": "polite"
+    },
+    {
+      "type": "action",
+      "content": "Kangnan moved with a wary expression."
+    },
+    {
+      "type": "action",
+      "content": "With Zulu's skills, she could create water on the spot, but the problem was that she didn't."
+    },
+    {
+      "type": "action",
+      "content": "It seemed that a level 1 grand magician developed their own unique rationality, different from common sense."
+    },
+    {
+      "type": "action",
+      "content": "As expected, Zulu poured an unidentified liquid into a laboratory beaker and placed it on the table."
+    },
+    {
+      "type": "action",
+      "content": "Kangnan's expression was uneasy as she looked at it."
+    },
+    {
+      "type": "action",
+      "content": "If it wasn't magic, water in the desert was more valuable than jewels."
+    },
+    {
+      "type": "action",
+      "content": "Even if it wasn't drinking water, a vast amount of moisture was needed to operate the experimental devices in the cavern."
+    },
+    {
+      "type": "action",
+      "content": "The mummified monsters around, squeezed dry without a drop of moisture, weren't just a quirky taste."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zulu",
+      "content": "I wouldn't give something like that to someone visiting after a long time. This is very precious water.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "action",
+      "content": "Kangnan tilted the beaker slightly to taste it."
+    },
+    {
+      "type": "action",
+      "content": "As her tongue began to get wet, a sense of euphoria rose from her throat."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "It's good. So, what is this?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zulu",
+      "content": "It's my urine.",
+      "tone": "nonchalant"
+    },
+    {
+      "type": "action",
+      "content": "Kangnan spat out the water she had been holding in her mouth."
+    },
+    {
+      "type": "action",
+      "content": "Not spilling it on the floor was a sign of her enthusiastic acceptance of the level 1 grand magician's hospitality."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zulu",
+      "content": "Don't worry. It's distilled.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "Of course, it should be. But I think I have plenty of this in my body.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zulu",
+      "content": "Hehe. You're still the same, Kangnan.",
+      "tone": "affectionate"
+    },
+    {
+      "type": "narrator",
+      "content": "Zulu recalled the first time she met Kangnan ten years ago."
+    },
+    {
+      "type": "action",
+      "content": "She had been much more rustic and youthful in appearance, but her sharpness, which had tamed the mad Gaold, was no less than it was now."
+    },
+    {
+      "type": "thought",
+      "speaker": "Zulu",
+      "content": "'You've grown a lot.'"
+    },
+    {
+      "type": "narrator",
+      "content": "Back then, Kangnan was a bleeding wolf. A beast full of hostility, baring its fangs at anyone."
+    },
+    {
+      "type": "action",
+      "content": "But now, much of that aggressiveness had been tempered."
+    },
+    {
+      "type": "action",
+      "content": "If she had come down to the 19th floor of the pyramid without Gaold, it meant she had overcome her inner demons."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "The elements of nature are cyclical. There are cycles within cycles. Drinking water is not about possessing it but about entering the great cycle of life and death and creating another cycle. When you entrust yourself to the perfect cycle, with nothing to discard or keep, you can become one with nature.",
+      "tone": "contemplative"
+    },
+    {
+      "type": "action",
+      "content": "Kangnan listened to Zulu's words."
+    },
+    {
+      "type": "action",
+      "content": "She wasn't a magician, but truth meets at the pinnacle."
+    },
+    {
+      "type": "action",
+      "content": "There was nothing to discard from the teachings of a level 1 grand magician."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "Is that the secret to controlling the king of the dead?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "content": "A lich is a thought-form created from the will of a grand magician."
+    },
+    {
+      "type": "action",
+      "content": "Therefore, it is known that it cannot clear the final stage of summoning, which is annihilation, as it is already a dead entity."
+    },
+    {
+      "type": "action",
+      "content": "There were rumors in academia that Zulu herself had become a lich and that the summoned creature was just a doppelganger, but having seen Zulu summon a lich ten years ago, Kangnan knew it was a lie."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "How is that possible?",
+      "tone": "intrigued"
+    },
+    {
+      "type": "action",
+      "content": "Zulu turned her head with sad eyes."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zulu",
+      "content": "This place is the land of death.",
+      "tone": "melancholic"
+    },
+    {
+      "type": "action",
+      "content": "That was all the explanation, but Kangnan understood."
+    },
+    {
+      "type": "action",
+      "content": "A magician who realized the cycle of emptiness and fulfillment had no reason to hide the secret of summoning."
+    },
+    {
+      "type": "action",
+      "content": "It was just too vast to be encapsulated in words, as it was their entire life."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "I see.",
+      "tone": "contemplative"
+    },
+    {
+      "type": "action",
+      "content": "The pyramid cavern was Zulu's cradle."
+    },
+    {
+      "type": "action",
+      "content": "Abandoned here as a baby, she survived without anyone's help."
+    },
+    {
+      "type": "action",
+      "content": "Did the dungeon monsters become her parents?"
+    },
+    {
+      "type": "action",
+      "content": "Zulu wasn't sure."
+    },
+    {
+      "type": "action",
+      "content": "When she became aware, she was still alone, with only a small pacifier left by her parents."
+    },
+    {
+      "type": "action",
+      "content": "From then on, Zulu lived in the vast dungeon as her home."
+    },
+    {
+      "type": "action",
+      "content": "Death was always on her shoulder. When she slept, when she needed to eat, even when she breathed."
+    },
+    {
+      "type": "action",
+      "content": "It was a different kind of survival from what people in slums like Radum experienced."
+    },
+    {
+      "type": "action",
+      "content": "To Zulu, survival wasn't a desire for life but just another form of death."
+    },
+    {
+      "type": "narrator",
+      "content": "Kangnan had also lived a rough life, but she couldn't even imagine what Zulu's life had been like."
+    },
+    {
+      "type": "action",
+      "content": "Spending her childhood with hundreds of monsters in a dungeon where food and water were scarce."
+    },
+    {
+      "type": "action",
+      "content": "It might have been inevitable that Zulu became the world's strongest summoning magician."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "I came to ask for a favor.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "content": "Getting to the point, Kangnan bowed her head to the table and pleaded."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "Please help Gaold.",
+      "tone": "pleading"
+    },
+    {
+      "type": "action",
+      "content": "Zulu stared into the distance, lost in thought."
+    },
+    {
+      "type": "action",
+      "content": "Then she slowly opened her mouth and replied in Middle Eastern."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zulu",
+      "content": "Alright.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "content": "Kangnan's head shot up at the unexpectedly quick acceptance."
+    },
+    {
+      "type": "action",
+      "content": "In reality, getting Zulu out of the pyramid was extremely difficult."
+    },
+    {
+      "type": "action",
+      "content": "Many grand magicians, even the royal family of Paras, had begged her to become their close aide, but she had refused them all."
+    },
+    {
+      "type": "action",
+      "content": "Moreover, Zulu was unaware of the current situation."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "The situation has changed suddenly...",
+      "tone": "apologetic"
+    },
+    {
+      "type": "action",
+      "content": "Zulu recalled the first time she met Gaold."
+    },
+    {
+      "type": "action",
+      "content": "He doesn't try to empty anything. Even when he's about to explode from being too full, even when he's in unbearable pain, he clings to everything and refuses to let go."
+    },
+    {
+      "type": "action",
+      "content": "Kangnan remained silent and listened."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zulu",
+      "content": "The reason he could endure was that he was waiting for the time to pour everything out. Now might be that time. If this is part of the great cycle, I think it's time for Gaold to find peace.",
+      "tone": "empathetic"
+    },
+    {
+      "type": "action",
+      "content": "Kangnan struggled to hold back her tears."
+    },
+    {
+      "type": "action",
+      "content": "Why did those words, understanding that wretched human, bring tears to her eyes?"
+    },
+    {
+      "type": "action",
+      "content": "Was it sympathy for the madman abandoned after 20 years of hardship?"
+    },
+    {
+      "type": "action",
+      "content": "Or..."
+    },
+    {
+      "type": "action",
+      "content": "Zulu smiled with childlike, beautiful eyes."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zulu",
+      "content": "Being with Gaold always brings interesting things.",
+      "tone": "playful"
+    },
+    {
+      "type": "action",
+      "content": "Kangnan raised the corners of her mouth with wet eyes."
+    },
+    {
+      "type": "action",
+      "content": "That's it. A pure obsession that ordinary people could never understand."
+    },
+    {
+      "type": "action",
+      "content": "Perhaps she was captivated by the madness of someone who had bet everything on one thing."
+    },
+    {
+      "type": "action",
+      "content": "Zulu stood up and prepared to leave."
+    },
+    {
+      "type": "action",
+      "content": "She put the pacifier in her mouth and packed two water bottles in a small bag."
+    },
+    {
+      "type": "action",
+      "content": "It was a modest load for the departure of a level 1 grand magician."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zulu",
+      "content": "Let's go. If we ride Kaidra, we'll reach the continent quickly.",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "content": "Kangnan watched Zulu's back as he left the Great Hall and bowed her head in the characteristic manner of the Rammuai."
+    },
+    {
+      "type": "action",
+      "content": "He was a person she respected in a different way from Gaold."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "Thank you.",
+      "tone": "grateful"
+    },
+    {
+      "type": "action",
+      "content": "Kangnan looked at the beaker on the table."
+    },
+    {
+      "type": "action",
+      "content": "Circulation. You must empty to fill. If you can't fill, you can't empty."
+    },
+    {
+      "type": "action",
+      "content": "Taking a deep breath, she picked up the beaker and drank more than half of the water in one go."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "Ugh.",
+      "tone": "disgusted"
+    },
+    {
+      "type": "action",
+      "content": "She still couldn't get used to it."
+    },
+    {
+      "type": "action",
+      "content": "The taste was definitely water, but the subtlety of the One Mind Principle was not something just anyone could achieve."
+    },
+    {
+      "type": "action",
+      "content": "Wiping her uncomfortable mouth with her tongue, Kangnan followed Zulu out of the Great Hall."
+    },
+    {
+      "type": "action",
+      "content": "Shirone went to the principal's office as soon as the sun rose."
+    },
+    {
+      "type": "action",
+      "content": "Gaold's first request was to deliver a note to Alpheas."
+    },
+    {
+      "type": "action",
+      "content": "Seeing Shirone suddenly appear, Alpheas looked surprised, but after reading the note, he nodded silently."
+    },
+    {
+      "type": "action",
+      "content": "Shirone also left the principal's office without saying a word."
+    },
+    {
+      "type": "action",
+      "content": "By now, kingdom intelligence agents would be stationed around the school."
+    },
+    {
+      "type": "action",
+      "content": "Without confirmation that Gaold was coming, the security wouldn't be as tight as in the capital, but it was still too dangerous for Gaold to act alone."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "The principal will take care of it.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "content": "With Alpheas, who had been through many battles, he could be reassured."
+    },
+    {
+      "type": "action",
+      "content": "Moreover, Olivia, a certified second-class grand mage, was also there, so they would find a way."
+    },
+    {
+      "type": "action",
+      "content": "It wasn't the time to worry about Gaold."
+    },
+    {
+      "type": "action",
+      "content": "Shirone was a suspect involved with Gaold, and if he wasn't careful, she could end his life without achieving anything."
+    },
+    {
+      "type": "action",
+      "content": "In the face of the global crisis of Heaven, no one would care about Shirone's safety."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ikael...",
+      "tone": "longing"
+    },
+    {
+      "type": "action",
+      "content": "She had a reason to meet him at least once, even if it meant abandoning everything, but the situation was different from a year ago."
+    },
+    {
+      "type": "action",
+      "content": "Even if he returned alive, he would be a fugitive for life."
+    },
+    {
+      "type": "action",
+      "content": "The fortunate thing was that Shirone still had the initiative."
+    },
+    {
+      "type": "action",
+      "content": "Having discovered the possibility of Heaven's destruction, Gaold would classify Shirone as a key figure in the project, which meant at least the foundation for survival was laid."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "First, I need to gather information. I have to proceed cautiously, solving one thing at a time.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "content": "If the situation had grown uncontrollably large, a more short-sighted approach might be more effective."
+    },
+    {
+      "type": "action",
+      "content": "The best way was to grope blindly and solve the immediate problems."
+    }
+  ],
+  "source_hash": "41ada4ea14cf66586b5a8e2bdf35986d9b80e82e622060fb677dda98ee72ff9a",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T05:54:19.034955Z"
+}

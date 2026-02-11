@@ -1,0 +1,289 @@
+{
+  "blocks": [
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The tragedy might never have happened.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He'd been as honest and pure as Shirone.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But he'd lost his light.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The genius beloved by the gods had fallen because of a coward like her.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "I see your point.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Siena emerged from her memories.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "I won't pressure Shirone to withdraw.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Before that, when will you respect the president's opinion?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Hmph. Save the wordplay. You have a month. Without credible research, the club dissolves. The legacy of countless graduates ends with you.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Neid's heart dropped.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "This wasn't just about being kicked out.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The club's alumni, despite their troublemaker reputations, held key positions in the magical society.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The current Magic Association chairman, Michael Gaold, was their pride.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If the club ended with them, they'd have no face to show their seniors.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Neid",
+      "content": "Damn it. What do we do?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "A month was just political lip service to ease the dissolution.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The club had never held a formal presentation—how could they prove the existence of ghosts or gods?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Cornered, Neid abandoned pride and begged.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "Professor! Give us a chance! Isn't there another way besides a presentation? You know our club's value lies in its existence! We're the only ones challenging the logic-obsessed magical society!",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Siena remained unmoved.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Then challenge it. No compromises. The faculty's decision is final. Make the right choice.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Siena left, the iron door clanged shut.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The kids slumped onto the sofa, dazed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Isthas mechanism whirred, returning the lab to its original location.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "Gauge Symmetry (1)",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "A leisurely holiday.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Normally, Shirone would spend his days off in the library, but today he sat blankly in the central park.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Iruki and Neid sat beside him, listlessly sipping juice.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What time is it?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "Dunno. Not night, though.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Genius.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Silence fell.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone sighed, followed by two more sighs.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Finally, he stood and glared at them.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What's the plan for the club? Shouldn't we brainstorm presentation topics instead of lazing around?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "Right. Let's think. What research could the school approve?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "As far as I know, we've never held a presentation. Sure, we've caused plenty of incidents, but the school would never recognize those as research.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Supernatural psychic science couldn't be elevated to a professional field.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If it could, it would've spread as science long ago.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sitting back down, Shirone's mind went blank.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He glanced at passing girls' legs and averted his eyes from well-developed women, but his thoughts were empty.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "Huh? Guys, look.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Neid pointed casually.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A stunning woman—never seen at school—headed for the gates.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She wore an ivory trench coat and heels, her permed purple hair cascading to her waist.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Biologically well-designed. Who is she?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "A senior? Kids our age don't dress that mature.",
+      "tone": null
+    }
+  ],
+  "source_hash": "8b8db4026253b1e7642bae518aa37ab3a27feddefb918fd5677af420b4da5064",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T06:34:49.082559+00:00"
+}

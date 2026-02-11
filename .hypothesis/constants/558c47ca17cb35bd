@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\ruamel\yaml\emitter.py
+# hypothesis_version: 6.148.8
+
+[128, 65535, '\x00', '\x00 \t\r\n\x85\u2028\u2029', '\x07', '\x08', '\n\x85\u2028\u2029\x07', '\x1b', ' \n\x85\u2028\u2029\x07', '!', '!!', '"', '"\\\x85\u2028\u2029\ufeff', '#', '#,[]{}&*!|>\'"%@`', '&', "'", '\'"', "''", '*', '+', ',', ',[]{}', '-', '---', "-;/?:@&=+$,_.~*'()[]", '-_', '...', '0', '9', ':', '>', '?', '?:', 'A', 'Emitter', 'EmitterError', 'L', 'N', 'P', 'Z', '[', '\\', '\\U%08X', '\\u%04X', '\\x%02X', ']', '_', '_emitter', 'a', 'b', 'e', 'encoding', 'f', 'flush', 'n', 'null', 'pre_done', 'r', 'style', 't', 'tag is not specified', 'tag:yaml.org,2002:', 'typ', 'utf-16', 'v', 'version', 'write', 'z', '{', '|', '|>', '}', '~', 'ÿ', '\ud7ff', '\ue000', '\ufeff', '�', '\uffff', '𐀀', '\U0010ffff']

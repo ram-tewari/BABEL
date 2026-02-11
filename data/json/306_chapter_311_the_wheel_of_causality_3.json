@@ -1,0 +1,694 @@
+{
+  "blocks": [
+    {
+      "type": "dialogue",
+      "speaker": "Assassin",
+      "content": "I knew this would happen."
+    },
+    {
+      "type": "action",
+      "content": "As the woman tried to break free, Zenoger mercilessly smashed her head against the wall."
+    },
+    {
+      "type": "sfx",
+      "content": "A dull thud sounded repeatedly"
+    },
+    {
+      "type": "action",
+      "content": "The porcelain-like skin covering her face completely shattered."
+    },
+    {
+      "type": "action",
+      "content": "It revealed a grotesque face, or rather, it was indistinguishable as male or female."
+    },
+    {
+      "type": "action",
+      "content": "It had no eyebrows or eyelids, just eyeballs embedded in the sockets that moved from side to side."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zenoger",
+      "content": "Hehehe, a face specialized for disguise? You are as hideous as me."
+    },
+    {
+      "type": "action",
+      "content": "For the first time, the mysterious assassin spoke."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Assassin",
+      "content": "Ah, you must be seeing this for the first time. I have seen your hideous face to my fill."
+    },
+    {
+      "type": "action",
+      "content": "Zenoger's expression soured."
+    },
+    {
+      "type": "narrator",
+      "content": "It was a line he had once said to Arius."
+    },
+    {
+      "type": "narrator",
+      "content": "If it was a psychological battle, he shouldn't be shaken."
+    },
+    {
+      "type": "narrator",
+      "content": "However, a sudden thought crossed his mind."
+    },
+    {
+      "type": "narrator",
+      "content": "Every child of Teraje was assigned one bodyguard, but he had never seen Uorin's bodyguard."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zenoger",
+      "content": "No, that can't be right. It didn't escape my senses. Where were you hiding?"
+    },
+    {
+      "type": "action",
+      "content": "The assassin's voice shifted again as she spoke."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Assassin",
+      "content": "What are you talking about? I've always been behind you."
+    },
+    {
+      "type": "action",
+      "content": "Zenoger's face turned pale."
+    },
+    {
+      "type": "narrator",
+      "content": "He knew exactly who owned the voice."
+    },
+    {
+      "type": "narrator",
+      "content": "It was an unnamed administrator who relayed orders under Zion's command."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zenoger",
+      "content": "Damn it! So that's what it was!",
+      "tone": "frustrated"
+    },
+    {
+      "type": "narrator",
+      "content": "Specialized disguise, unique walking technique, a line previously said to Arius."
+    },
+    {
+      "type": "narrator",
+      "content": "When piecing together all the circumstances, it was clear that the assassin was sent by Uorin."
+    },
+    {
+      "type": "monologue",
+      "speaker": "Zenoger",
+      "content": "Stay calm. After all, my combat ability is superior. I must not fall for psychological tricks."
+    },
+    {
+      "type": "action",
+      "content": "Zenoger used his six arms to suppress areas where the opponent's strength was amplified."
+    },
+    {
+      "type": "narrator",
+      "content": "The assassin, whose muscles were even burnt away for the sake of disguise, had no escape."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zenoger",
+      "content": "From now on, answer my questions. If you lie, I will tear off your limbs. Does Uorin know where the Spatur family is hiding?",
+      "tone": "threatening"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Assassin",
+      "content": "...She knows."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zenoger",
+      "content": "Is that so? Tell me where. Answer quickly! You, being her personal guard, must know.",
+      "tone": "urgent"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Assassin",
+      "content": "The Mountain of Echoes. The Valley of True Names."
+    },
+    {
+      "type": "narrator",
+      "content": "Zenoger felt as if his heart was collapsing."
+    },
+    {
+      "type": "narrator",
+      "content": "If Uorin knew the hiding place, it meant that a punitive force had already been sent. By tomorrow morning, the Spatur family would be erased from history."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Assassin",
+      "content": "Give up. Even if you escape from here, there's nowhere that will take you in."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zenoger",
+      "content": "Ugh... Ughhh! Shut up!",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "content": "Zenoger did not give up."
+    },
+    {
+      "type": "narrator",
+      "content": "If his clan was to be annihilated, he had to survive even more."
+    },
+    {
+      "type": "narrator",
+      "content": "If it all ended like this, where would the value of a clan that had forsaken humanity for a thousand years be found?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zenoger",
+      "content": "Die! Damn you!",
+      "tone": "enraged"
+    },
+    {
+      "type": "action",
+      "content": "Zenoger raised his left central arm, sharpening his hand like a spear, and swiftly plunged into the assassin's chest, grabbing the heart."
+    },
+    {
+      "type": "action",
+      "content": "The assassin's body twitched as the heart burst, and her eyes shook with shock."
+    },
+    {
+      "type": "sfx",
+      "content": "Clang!"
+    },
+    {
+      "type": "action",
+      "content": "One of the porcelain dolls from El Crouch's collection on the shelf shattered."
+    },
+    {
+      "type": "action",
+      "content": "The body rolled off the shelf, causing a secondary crack."
+    },
+    {
+      "type": "action",
+      "content": "Uorin, who was sitting at the table, blinked slowly as if she hadn't heard anything."
+    },
+    {
+      "type": "action",
+      "content": "Then, she walked to the cabinet and pulled out a strong liquor."
+    },
+    {
+      "type": "action",
+      "content": "She filled half a crystal glass and returned to the table, sitting down, crossing her legs, and flicking her white calves as she sank into thought."
+    },
+    {
+      "type": "thought",
+      "speaker": "Uorin",
+      "content": "Hmm..."
+    },
+    {
+      "type": "action",
+      "content": "The breaking of the porcelain doll."
+    },
+    {
+      "type": "narrator",
+      "content": "It meant that another life had been extinguished."
+    },
+    {
+      "type": "action",
+      "content": "The crystal glass gently parted her cherry-like lips and went in."
+    },
+    {
+      "type": "action",
+      "content": "The clear liquid flowed down, moistening her tongue, then escaped."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Such a boring night.",
+      "tone": "indifferent"
+    },
+    {
+      "type": "action",
+      "content": "Zenoger glared at the assassin with terrifying eyes."
+    },
+    {
+      "type": "narrator",
+      "content": "He had killed countless people before, but this was the first event that transcended his understanding."
+    },
+    {
+      "type": "narrator",
+      "content": "He had stabbed the solar plexus and burst the heart. He could still feel the heart cooling in his hand. But why..."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zenoger",
+      "content": "Why aren't you dying?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Assassin",
+      "content": "I died once."
+    },
+    {
+      "type": "narrator",
+      "content": "Zenoger received the assassin's words somewhere between understanding and insight."
+    },
+    {
+      "type": "narrator",
+      "content": "A fleeting curiosity passed through his mind, but it was just a momentary thought."
+    },
+    {
+      "type": "narrator",
+      "content": "There's nothing someone about to leave this world needs to know."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zenoger",
+      "content": "So you were an assassin.",
+      "tone": "resigned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Assassin",
+      "content": "It's not the people who kill."
+    },
+    {
+      "type": "action",
+      "content": "The assassin swung her only free left hand."
+    },
+    {
+      "type": "action",
+      "content": "A flash streaked, and with a thud, Zenoger's head flew off."
+    },
+    {
+      "type": "sfx",
+      "content": "thud"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Assassin",
+      "content": "It's the circumstances that kill."
+    },
+    {
+      "type": "action",
+      "content": "The assassin watched as Zenoger's head bounced on the floor, then pulled Zenoger's arm from her chest."
+    },
+    {
+      "type": "action",
+      "content": "Zenoger's body glowed harshly on the floor, and a fountain of blood sprayed from the severed neck."
+    },
+    {
+      "type": "action",
+      "content": "The assassin showed no emotion."
+    },
+    {
+      "type": "narrator",
+      "content": "Even if she had any, her face wouldn't have been able to express it."
+    },
+    {
+      "type": "narrator",
+      "content": "Dollmaker El Crouch."
+    },
+    {
+      "type": "narrator",
+      "content": "Very few knew that he had been immersed in black magic 200 years ago."
+    },
+    {
+      "type": "narrator",
+      "content": "During the days when he was renowned for his jointless doll technology, a woman visited him."
+    },
+    {
+      "type": "narrator",
+      "content": "Surprisingly, the visitor was Teraje, who ruled the continent."
+    },
+    {
+      "type": "narrator",
+      "content": "The two had a lengthy conversation, and the day after Teraje left, Crouch died. At least officially."
+    },
+    {
+      "type": "narrator",
+      "content": "Hundreds of dignitaries crowded the funeral, but while they were shedding tears, Crouch was on a small boat heading to a country in the East."
+    },
+    {
+      "type": "narrator",
+      "content": "At Teraje's command, he arrived at the dollmaker's household."
+    },
+    {
+      "type": "narrator",
+      "content": "Already well-versed in black magic, he quickly mastered the art of dollmaking."
+    },
+    {
+      "type": "narrator",
+      "content": "The art of imbuing dolls with affection."
+    },
+    {
+      "type": "narrator",
+      "content": "The method of creating a perpetual motion machine, which a demon had told him."
+    },
+    {
+      "type": "narrator",
+      "content": "The technique of fitting mechanisms into the bodies of the dead, and more."
+    },
+    {
+      "type": "narrator",
+      "content": "Crouch mastered it all and left the East."
+    },
+    {
+      "type": "narrator",
+      "content": "When he returned home, 180 years had passed."
+    },
+    {
+      "type": "narrator",
+      "content": "But having transformed his body into a doll, he could no longer die even if he wanted to."
+    },
+    {
+      "type": "narrator",
+      "content": "He first collected his earlier creations."
+    },
+    {
+      "type": "narrator",
+      "content": "Only in dolls crafted with the soul of a dollmaker could he distribute life."
+    },
+    {
+      "type": "narrator",
+      "content": "However, most of his works had been sold, and he could recover only a few."
+    },
+    {
+      "type": "narrator",
+      "content": "At that point, Teraje gave her first command: to take care of her daughter Uorin."
+    },
+    {
+      "type": "narrator",
+      "content": "Uorin liked Crouch, and from then on, she began collecting El Crouch's porcelain dolls."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crouch",
+      "content": "Miss Uorin, it's me."
+    },
+    {
+      "type": "action",
+      "content": "Crouch knocked on Uorin's door."
+    },
+    {
+      "type": "narrator",
+      "content": "It was a needless act for an assassin who could infiltrate anywhere, but today, formal greetings were appropriate."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Come in."
+    },
+    {
+      "type": "action",
+      "content": "Crouch slowly opened the door and entered."
+    },
+    {
+      "type": "action",
+      "content": "Leaning her arms on the back of the chair, Uorin, slightly intoxicated, greeted him with a seductive smile that had not been seen before."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "So, what brings you to my room?"
+    },
+    {
+      "type": "action",
+      "content": "Crouch smiled happily, but lacking muscles to show his expression, he couldn't convey that it was meant as a funny joke."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crouch",
+      "content": "I have eliminated the dogs of Spatur, Princess Uorin.\nNo..."
+    },
+    {
+      "type": "action",
+      "content": "Unable to be satisfied just with bowing, Crouch knelt and prostrated himself on the floor."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crouch",
+      "content": "Empress Teraje.",
+      "tone": "reverent"
+    },
+    {
+      "type": "action",
+      "content": "Uorin chuckled and turned to look out the window."
+    },
+    {
+      "type": "action",
+      "content": "It was still dark outside, but signs of dawn were visible."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "You are quick-witted.",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "content": "Crouch shook his head and honestly confessed."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crouch",
+      "content": "To be honest, I didn't know until yesterday. I realized it when the wind guards came. Even I, who is with you 24 hours a day, was deceived. When did you awaken?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "Two years ago."
+    },
+    {
+      "type": "sfx",
+      "content": "Crouch clicked his tongue."
+    },
+    {
+      "type": "narrator",
+      "content": "As a dollmaker, he knew every detail about human facial expressions."
+    },
+    {
+      "type": "narrator",
+      "content": "Not missing even the slightest movement of facial muscles, it was shocking that he had not known Uorin had awakened for two years."
+    },
+    {
+      "type": "thought",
+      "speaker": "Crouch",
+      "content": "Well... it's been an eternity."
+    },
+    {
+      "type": "narrator",
+      "content": "Teraje is the 'Mitochondrial Eve.'"
+    },
+    {
+      "type": "narrator",
+      "content": "Mitochondria are passed only from mother to child."
+    },
+    {
+      "type": "narrator",
+      "content": "Following this lineage, one can eventually meet the ancestor of all humanity, known as Mitochondrial Eve."
+    },
+    {
+      "type": "narrator",
+      "content": "Long ago, a woman's mitochondria underwent a strange mutation."
+    },
+    {
+      "type": "narrator",
+      "content": "An absolute genetic ability to pass on 100% of her memories to her offspring."
+    },
+    {
+      "type": "narrator",
+      "content": "Teraje's daughter fully awakens the memories of her ancestors after the age of ten."
+    },
+    {
+      "type": "narrator",
+      "content": "When a mother gives birth, the child becomes the mother again."
+    },
+    {
+      "type": "narrator",
+      "content": "It was as if one human being was living eternally by means of reproduction."
+    },
+    {
+      "type": "narrator",
+      "content": "She must have existed before she was known as Teraje."
+    },
+    {
+      "type": "narrator",
+      "content": "Perhaps even during the time when she was just a primate."
+    },
+    {
+      "type": "narrator",
+      "content": "That's why she does not know the moment of her own creation."
+    },
+    {
+      "type": "narrator",
+      "content": "However, she retained the history from her creation onward in her mind."
+    },
+    {
+      "type": "narrator",
+      "content": "From the beginning of humanity until now."
+    },
+    {
+      "type": "narrator",
+      "content": "That's why she was the only human with residual deja vu of McClain Goffin."
+    },
+    {
+      "type": "narrator",
+      "content": "Teraje had long known that merely replicating herself would ultimately lead to extinction."
+    },
+    {
+      "type": "narrator",
+      "content": "She could catch a disease, become entangled in wars, or be swept away by natural disasters."
+    },
+    {
+      "type": "narrator",
+      "content": "She strived to enhance the efficiency of her species."
+    },
+    {
+      "type": "narrator",
+      "content": "After 4,000 years of breeding experiments, she discovered how to selectively incorporate her father's genes into the modified body."
+    },
+    {
+      "type": "narrator",
+      "content": "From then on, Teraje became superior in every aspect."
+    },
+    {
+      "type": "narrator",
+      "content": "She inherited the superior traits of handsome men, becoming more beautiful, and inherited the blood of the absolute, gaining a strong will."
+    },
+    {
+      "type": "narrator",
+      "content": "The bargaining skills of a wealthy merchant, the physical prowess of a great swordsman, the intellectual abilities of a great mage—she absorbed all traits that could dominate the world into her body, passed them on to the next generation, and repeatedly reawakened the same memories."
+    },
+    {
+      "type": "narrator",
+      "content": "In this self-replicating process, Teraje grew stronger."
+    },
+    {
+      "type": "narrator",
+      "content": "Since these traits did not manifest in her son, she herself established a nation in the body of a woman."
+    },
+    {
+      "type": "narrator",
+      "content": "Now, she reigns as the Empress of Kashan and one of the Three Emperors."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Teraje",
+      "content": "It's been a while, Crouch. The handsome face of the young man has been greatly damaged.",
+      "tone": "nostalgic"
+    },
+    {
+      "type": "action",
+      "content": "Crouch, recognizing that these were the words of Teraje who visited him 200 years ago and not the fourteen-year-old Uorin, respectfully bowed his head."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crouch",
+      "content": "With the help of Her Majesty, I have gained immortality. To a dollmaker, a face is just wrapping paper. My pride lies in the organs that make up my body.",
+      "tone": "humble"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Teraje",
+      "content": "Hehe, that's so like you. Indeed... you were like that the day we first met.",
+      "tone": "amused"
+    },
+    {
+      "type": "narrator",
+      "content": "Uorin would remember everything, but Crouch's memory was foggy."
+    },
+    {
+      "type": "action",
+      "content": "Unable to respond immediately, he broke the awkward silence with a question."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crouch",
+      "content": "The funeral procession has come. You must have anticipated and summoned it, Your Majesty. Did you know that Shirone would survive?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "content": "Uorin approached the window and pulled back the curtain."
+    },
+    {
+      "type": "action",
+      "content": "The garden viewed from the apartment was still peacefully asleep."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Teraje",
+      "content": "Politics is not about giving one thing and getting another. It's about making an offer where no matter what the opponent chooses, you win. It would have been good if Shirone lived, but it wouldn't have been a bad outcome if he died either.",
+      "tone": "philosophical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crouch",
+      "content": "I see."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Teraje",
+      "content": "But, I can say this: he had enough merit to survive."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crouch",
+      "content": "I understand you've tested him several times."
+    },
+    {
+      "type": "action",
+      "content": "Uorin looked up at the ceiling, reminiscing about that time."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Teraje",
+      "content": "Initially, I tested his luck. When I spun the 'Daily Gift,' he won an excessive gift. I thought that might be possible."
+    },
+    {
+      "type": "action",
+      "content": "Crouch tilted his head, seemingly puzzled."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crouch",
+      "content": "Did you also know that a piece I created would arrive as a gift?",
+      "tone": "puzzled"
+    },
+    {
+      "type": "action",
+      "content": "Uorin nodded."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Teraje",
+      "content": "The world is like a gumball machine. Inside the machine, blue and red events are mixed. Those outside cannot tell in what pattern the gumballs will come out. That's what humans are. They just go to the machine and turn it without knowing what will come out. Crouch, do you believe in luck?",
+      "tone": "philosophical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crouch",
+      "content": "Luck, huh? Well, looking back, I think I have been lucky.",
+      "tone": "reflective"
+    },
+    {
+      "type": "action",
+      "content": "Uorin continued with a smile."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Teraje",
+      "content": "There's no such thing as luck. Nor is there such thing as misfortune. It's already predetermined which gumballs will come out in what order inside the box. The feeling of luck or misfortune is just because humans can't see inside the box. For some, it may continually be blue gumballs, while for others, it might always be red. Of course, most people will alternate between blue and red. And all of that is what constitutes human life, life itself.",
+      "tone": "philosophical"
+    }
+  ],
+  "source_hash": "5d533467db8806447a25fa1930c03027ffba642cdd4cc88be7907b7b81136705",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T03:58:02.821056Z"
+}

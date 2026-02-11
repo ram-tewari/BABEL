@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\google\ai\generativelanguage_v1beta\services\retriever_service\transports\rest.py
+# hypothesis_version: 6.148.8
+
+[400, 'BatchCreateChunks', 'BatchDeleteChunks', 'BatchUpdateChunks', 'Content-Type', 'CreateChunk', 'CreateCorpus', 'CreateDocument', 'DeleteChunk', 'DeleteCorpus', 'DeleteDocument', 'GetChunk', 'GetCorpus', 'GetDocument', 'GetOperation', 'ListChunks', 'ListCorpora', 'ListDocuments', 'ListOperations', 'QueryCorpus', 'QueryDocument', 'UpdateChunk', 'UpdateCorpus', 'UpdateDocument', 'application/json', 'headers', 'httpRequest', 'httpResponse', 'https', 'metadata', 'method', 'payload', 'requestMethod', 'requestUrl', 'rest', 'rpcName', 'serviceName', 'status', 'uri', 'utf-8', '{host}{uri}']

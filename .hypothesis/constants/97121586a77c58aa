@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\ruamel\yaml\tag.py
+# hypothesis_version: 6.148.8
+
+['!!', '%', '_yaml_tag', 'binary', 'bool', 'float', 'int', 'map', 'null', 'omap', 'pairs', 'seq', 'set', 'str', 'timestamp']

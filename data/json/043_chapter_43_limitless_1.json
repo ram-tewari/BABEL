@@ -1,0 +1,373 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone went to the faculty office after being called by Siena.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She took him to the teachers' lounge and offered him tea.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Here, since you treated me last time, it's my turn to treat you.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Haha! Thank you.",
+      "tone": "amused"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Since joining Class Five, Shirone had become quite sociable. Lately, he often joked around with his classmates.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "So, why did you call me?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "I saw your report card. You're maintaining your growth. It's especially encouraging that your highest score is in chemistry, the subject I teach.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hehe, well, it's only a one-point difference.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even Siena, his homeroom teacher, hadn't predicted Shirone would maintain such a steady rise. With an average in the mid-40s and a deviation of less than 2 points per subject, it meant he could continue improving for the foreseeable future.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "If you keep this up, you'll settle into the upper-middle ranks by next month. Once that happens, the school will take notice of your study methods.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No, I wasn't aiming for attention.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Of course I know. That's why I called you today—to make a proposal.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "A proposal?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "You know there's a practical exam every two months, right? This month, there's a targeting test. Do you know what that is?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes. Amy took it when she was in Class Four. It's a test to hit targets within a time limit. Amy was especially fast since she's a targeting type. It was really cool.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Siena smiled at Shirone, whose eyes sparkled.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Right. Amy seems to be doing well in the graduation class. It must be hard being apart from your girlfriend.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The advanced and graduation classes had different curriculums, making it difficult to meet. They could date on weekends, but they weren't officially dating, and even that was hard to schedule.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "As long as I know she's doing her best, it's fine. As her boyfriend, I should support her.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Few couples were as wholesome as Shirone and Amy. If they kept this up, the school might even encourage their relationship.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Right. Let's wrap up the small talk. The reason I called you today is about the practical exam. Do you know any active magic besides teleportation?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No. As you can see from my grades, I'm still below the standard… Oh! Right!",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone realized belatedly. To take the practical exam, he needed to be able to use active magic. It didn't have to be offensive magic, but the only magic Shirone had learned was teleportation, a passive magic with a lasting effect.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Active magic, on the other hand, had one-time effects and included various types like Fire, Wind Cutter, Healing, Ice Sword, Lightning Bolt, and Atomic Bomb.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Didn't he need at least one type of magic that could hit a target to take the exam?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone was in a tight spot.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What should I do? I was so focused on studying that I didn't even think about it.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Don't worry. Since you've mastered Rainbow Drop, you should be able to handle simple active magic.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "But my theory grades average 45. You said it's hard to activate anything without at least 60.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "True. But there's one thing left. One that's close to 100 points.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "So far, Shirone hadn't scored above 50 in any theory exam, let alone 100. But he immediately understood. As Siena said, one thing remained.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ah! Photonization Theory!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Right. Teleportation is a practical evaluation, so it's overlooked, but you've studied Photonization Theory enough to apply it as active magic.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I see! Thank you, Teacher.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "As your homeroom teacher, it's my duty to advise you. No need to thank me. If you ever face difficulties, come talk to me anytime.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Okay. Then I'll consult you right away. What kind of active magic can be developed from Photonization Theory?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Siena smiled as if she'd expected this.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Have you heard of photon emission?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I read about it. It's shooting photons, right?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was a phenomenon called 'photon ejection.' However, without physical force, shooting them didn't cause any particular effect. It could light up the surroundings if you were lost in the mountains, but it'd be much easier to just use a lighting spell.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even the great discovery of Photonization Theory had starkly different efficiency depending on whether it was active or passive.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But the ivory towers leading the magical society believed photon emission was the future of magic. Nothing was faster than light. Moreover, its direct-line nature could revolutionize information fields.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Based on these trends, Siena persuaded Shirone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "The future of photon emission is bright. By the time you graduate, it might already have achieved significant results. It wouldn't hurt to learn it in advance.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Okay. Then I'll practice.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone agreed without hesitation.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He needed active magic to take the practical exam, and photon emission was the only thing he could learn right away.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After the meeting, Shirone headed to the training ground. With the exam approaching, time was tight even if he started practicing now.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone extended his hand and focused. Magic was a phenomenon occurring in the Spirit Zone, so no specific action was necessary, but performing an action could enhance concentration.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Mages called this 'magical action.'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He activated magic in a photonized state, but no emission occurred.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "While defensive types found teleportation easy, photon emission was specialized for offensive types.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "It requires much higher concentration than teleportation.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After dozens of attempts, Shirone collapsed to the ground in failure.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Passive magic depended on how strongly you maintained your spirit, while active magic required instantaneous mental compression.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It wasn't that the Spirit Zone shrank, but it felt like applying immense pressure to squeeze something out.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "However, the Spirit Zone's durability was too strong, making it hard to grasp the sensation.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "This is why aptitude is so important.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Etela had once mentioned in passing that there were ways to technically strengthen the Spirit Zone, but Shirone hadn't attended detailed classes back then, having just enrolled.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The Spirit Zone is an extremely sensitive mental state. The limit of concentration. But how do you strengthen it further?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With these questions in mind, Shirone trudged back to his dorm.",
+      "tone": null
+    }
+  ],
+  "source_hash": "f1b3cb58347f0c70fcb7622adf3aa7333d2e6781e3f624a7072e482accc7c6a7",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T06:29:10.214381+00:00"
+}

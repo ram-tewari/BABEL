@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\attr\_config.py
+# hypothesis_version: 6.148.8
+
+["'run' must be bool.", 'get_run_validators', 'set_run_validators']

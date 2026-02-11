@@ -1,0 +1,865 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tess tried hard to suppress her laughter upon noticing the suddenly quiet demeanor of the two.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "After being around the robust and straightforward companions from the Swordsmanship Academy, meeting students from the Magic Academy felt like she was dealing with younger siblings, despite being the same age.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "By the way, Amy, you're quite impressive too. When did you master your Schema?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Before entering the Magic Academy, I had about 2 years of training.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Wow, it's rare to master Schema at a young age. There are many who say it's not good for growth, right?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "It wasn't exactly training. It just… happened somehow.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "From Amy's response, Tess understood. While Spirit Zone prodigies are common due to the mental domain, mastering Schema is challenging at a young age due to the physical strain.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "However, with the Red Eyes' self-recollection, it's possible to precisely control the body without undergoing rigorous training.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Ah, you're using Red Eyes that way, huh? That's really cool.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "It's nothing great, really. It's just a bit of enhanced strength without any build. Compared to you, it's child's play. You were really fast earlier. If the acceleration had continued, we wouldn't have been able to cast Teleportation in time.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Ah, well, I'm a specialist, but you're a mage, right? And besides, Rian still hasn't mastered his Schema yet. Now I see why the Karmis family is famous across the continent.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone, surprised, turned to look at Rian.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Rian, you haven't learned Schema? Then what about chopping wood at my house? I thought you were using Schema because you didn't say anything.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Hahaha! Did Rian do that? According to Teacher Kuan, it's just stupidly strong muscles. You should have seen him at the Swordsmanship Academy… during the final exam…",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Ah, really! Why are you so interested in other people's private lives?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Haha! Well, that's…",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The atmosphere lightened thanks to the interruption, and everyone started sharing stories from their school life. Despite being in different fields, they were all students, which kept the conversation flowing endlessly.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "This way, they were getting to know each other better.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "◆ ◆ ◆",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Upon arriving at the Creas Harbor, Shirone and his companions looked for a ship heading to Galliant Island.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A large ship docked at Dock No. 6 was ready to set sail, with its sails unfurled.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Since all the kingdom's schools were on break around the same time, there were more tourists than usual.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Swept up by the crowd, Shirone found a spot on the third deck.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Although there were passenger rooms below, it was their first time on a ship, so they wanted to enjoy the scenery along the way.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The crashing waves and salty wind welcomed them.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was only after the harbor disappeared below the horizon that they truly felt adrift at sea.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "How long will it take?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "I heard it's about a 5-hour journey by ship from Creas Harbor.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "I see. We could have had to leave tomorrow if we were a bit late. There are more people heading to the island than I thought.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone mentioned, the deck was bustling with people.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Half were merchants, but there were also tourists dressed as nobles, and quite a few from places besides Creas.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "It seems Rian was right; the island is famous. I wonder what it's like?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "I've done some research.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Oho? As expected, very thorough.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Indeed. I didn't even think to look it up.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ah, well, I'm a specialist, but you're a mage, right? And besides, Rian still hasn't mastered his Schema yet. Now I see why the Karmis family is famous across the continent.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone awkwardly scratched his head, which made Amy glare at him disapprovingly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Didn't you say you were going to explore the ruins? You didn't do any preliminary research?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Haha! Well, that's…",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "There are two types of travelers: those who leave spontaneously and those who meticulously research before departing.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The former seeks the romance of the unknown, while the latter values efficiency.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Amy belonged to the latter group.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "However, Shirone didn't fit into either category. It was his first trip, and everything was new and exciting.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Let me tell you about Galliant Island, where we're heading. Its area is 1,500 square kilometers.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "The island is crescent-shaped, with a natural cliff on the north side, so ships must dock at the harbor on the south.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "The west side has residential areas and resorts mixed together, and the Kergos Ruins are on the east side of the island.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "The Kergos Ruins are ancient temples built by the Kergos people, who had a civilization 2,000 years ago.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "The Kergos people?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes. They're extinct now, but a few indigenous people still live in a self-governing district in the center of the island.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "They're generally dark-skinned, short, with sunken eyes and small pupils.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Oh, and they have tattoos praising Ankhara on their faces.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Who's Ankhara?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "The name of an ancient god worshiped by the Kergos people.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "And, um… the indigenous people chew a tough root called Ruph, which causes hallucinations.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "They call Ruph 'the awakening agent of the gods' and used it for divine communion in a trance.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "The cause of their civilization's downfall is known to be religious conflicts, but some believe internal strife arose from excessive Ruph use.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Interesting. A hallucinogen led to the downfall of a civilization.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Abused under the name of a god, most likely.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Right, my brother said… the site managers are mostly Kergos people, so we'll be able to see them.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "However, we can't enter the indigenous self-governing district since it's off-limits to outsiders.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Oh, but my brother…",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes? What did your brother say?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Shirone asked, curious.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The brother Amy mentioned was likely Ares, the explorer. Having traveled the world, he was likely well-informed about the Kergos Ruins.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "He said this: 'The downfall of a civilization is not for scholars to decide. If you wish to know more about them, you must offer something more valuable than the entrance fee.'",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Shirone nodded thoughtfully.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hmm, does that mean there's something even more incredible in the self-governing district than in the Kergos Ruins?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "It's not certain.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "My brother always talks like that.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "He thinks he seems more mysterious by being cryptic.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Haha! I do find this more exciting.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Something more valuable than the entrance fee. What could it be?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's heart raced with excitement.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Both from Alpheas and Ares's words, it was clear the Kergos Ruins were more than just a tourist spot.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone could barely contain his excitement like a child, Rian was pleased for a different reason.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With his lord full of enthusiasm, the duty of a guardian knight became even more significant.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Shirone, when do you plan to visit? We're not going straight there upon arrival, right?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yeah, we should have fun first since it's a vacation.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Then we should find accommodation first.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Let's head to the resort area once we disembark at the harbor.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "There's a place on the west beach where we can swim.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's full of sights to see and famous seafood restaurants.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Eager to explore the southern lands, Tess clenched her fists in excitement, trembling with anticipation.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Ugh, I can't wait!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "There were still over 4 hours left until arrival.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But the thrill of travel quickly consumed the time, and soon the island they were longing for came into view.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Wow! Look, there's Galliant Island!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Passengers at the bow pointed towards the distant island and exclaimed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Responding to their calls, Shirone and his friends rushed to the front of the deck.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The northern cliffs of Galliant Island greeted them.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The dense foliage seemed split by a sword, revealing a sheer rock face that jutted out abruptly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The passengers cheered with excitement.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "We're finally here! It's really magnificent, isn't it?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Wow! The water looks wonderful! I can't wait to go swimming!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "However, the merchants remained sprawled out with their goods, well aware that the harbor was on the southern side of the island, and they still had a 30-minute journey ahead to circle around.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Galliant Harbor.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The harbor was bustling with a sea of people.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Merchants disembarking from the ship and island merchants rushing towards it tangled up, creating chaos.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Relative to the traders, tourists had no choice but to disembark later.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone and his group also waited for the crowd to thin before setting foot on land.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The warmth of the south was immediately noticeable upon disembarkation.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "While Creas had already entered early autumn, Galliant Island was still basking in summer.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After the traders cleared out, the harbor was filled with people from other professions.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They were hawkers trying to attract tourists to their stores.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Hawker",
+      "content": "Come, come to Dolphin Inn! Enjoy a pleasant holiday with the cheapest lodging rates on the island! And my wife's cooking is to die for!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Hawker",
+      "content": "Want to try authentic southern seafood? Come to our restaurant! We also have carriages ready for a comfortable journey!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Hawker",
+      "content": "Need help with your luggage? Sturdy porters at your service!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone and his group were overwhelmed by the cacophony of hawkers.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Though no one had approached them directly yet, they were certainly attracting attention.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Being young scored them high marks, and their high-quality clothes and weapons made them prime targets for hawkers.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Of course, not all those eyeing them were honest merchants.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Across the dock, in a back alley, a few groups engaged in less lawful ways of making money were scouting for potential victims.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Hehehe, let's see who we can fleece today.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A boy named Zis scanned the crowd with keen eyes.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Behind him, two friends were also surveying the area.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The difference between these hawkers and those outside was that these boys didn't own shops.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They were street urchins making money purely through their wits.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Island urchins differ fundamentally from their mainland counterparts.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In the vast expanse of the sea, adhering to societal norms won't get you even a crumb of bread; that was their way of life.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Especially Zis, who had been rebellious from a young age, enduring all kinds of abuse.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His pride had led to numerous beatings by nobles.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But those experiences now served as useful tools for making money.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Wow, it's crowded today because of the holiday. Zis, we're going to make a killing today, right?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Even so, half of them are penniless. They might look flashy, but you have to choose carefully to succeed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Zis was cautious in selecting his target.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "However, his friends, needing to earn their daily quota, were growing impatient.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Zis, hurry up and choose. Others will snatch them away.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zis's eagle eyes swiftly scanned the harbor but stopped before completing a full sweep.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A group of four peers caught his attention, especially a redhead girl who captivated him.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even from this distance, her distinct features made her noticeably pretty.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Hey, hey, let's target that group. See? Two guys, two girls.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Really? Even with that big guy there? And he's carrying a sword, you know. Let's just pick someone else.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "You guys, seriously. Who do you think I am? The ruler of the harbor, Lord Zis.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "The bigger they are, the more cowardly they tend to be. Otherwise, who in their right mind would bring a sword to a tourist spot?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Look, can't you tell? They're just students. Students can't lay a finger on us.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "We'll go in strong, so back me up. And don't grovel to nobles, no matter what. You have to dominate such kids.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zis led his two friends out of the alley towards the dock.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They were anxious that other hawkers might snatch their prey, but as the girl's face became clearer, all such worries vanished.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zis",
+      "content": "What's with this girl? She's gorgeous…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Falling for a girl from afar was a natural romance for an island boy.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But this was the first time he felt something beyond love, almost a reverence.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zis quickly composed himself and approached.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If he hesitated, another hawker might steal her away.",
+      "tone": null
+    }
+  ],
+  "source_hash": "abd7cb34449e4ada59b91f02224ddde8416f18fe967566a8ed5f4e68343aca6f",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T15:58:15.910722+00:00"
+}

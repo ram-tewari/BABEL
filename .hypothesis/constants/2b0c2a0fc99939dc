@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\cryptography\hazmat\primitives\asymmetric\types.py
+# hypothesis_version: 6.148.8
+
+['PRIVATE_KEY_TYPES', 'PUBLIC_KEY_TYPES']

@@ -1,0 +1,638 @@
+2026-02-03 21:57:09,967 - babel.pipeline.orchestrator - INFO - Phase 0: Starting sanitization of C:\Users\rooma\Downloads\Infinite Mage\Infinite Mage(ai tl by ayden, grammar fix by yellownugget).epub
+2026-02-03 21:57:24,244 - babel.pipeline.orchestrator - INFO - Phase 0: Sanitized 1266 chapters successfully
+2026-02-03 21:57:24,322 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 1: Encountering Magic (1)
+2026-02-03 21:57:24,340 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 1 (Chapter 1: Encountering Magic (1)): Transformer.__init__() missing 1 required positional argument: 'gemini_client'
+2026-02-03 21:57:24,399 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 21:57:24,400 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 2: Encountering Magic (2)
+2026-02-03 21:57:24,412 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 2 (Chapter 2: Encountering Magic (2)): Transformer.__init__() missing 1 required positional argument: 'gemini_client'
+2026-02-03 21:57:24,541 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 21:57:24,542 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 3: Encountering Magic (3)
+2026-02-03 21:57:24,572 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 3 (Chapter 3: Encountering Magic (3)): Transformer.__init__() missing 1 required positional argument: 'gemini_client'
+2026-02-03 21:57:24,660 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 21:57:24,660 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 4: Meeting Magic (4)
+2026-02-03 21:57:24,734 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 4 (Chapter 4: Meeting Magic (4)): Transformer.__init__() missing 1 required positional argument: 'gemini_client'
+2026-02-03 21:57:24,904 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 21:57:24,905 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 5: Meeting Magic (5)
+2026-02-03 21:57:24,930 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 5 (Chapter 5: Meeting Magic (5)): Transformer.__init__() missing 1 required positional argument: 'gemini_client'
+2026-02-03 21:57:25,102 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 21:57:25,102 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 6: A Life-Risking Opportunity (2)
+2026-02-03 21:57:25,201 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 6 (Chapter 6: A Life-Risking Opportunity (2)): Transformer.__init__() missing 1 required positional argument: 'gemini_client'
+2026-02-03 21:57:25,346 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 21:57:25,347 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 7: A Life-Risking Opportunity (3)
+2026-02-03 21:57:25,371 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 7 (Chapter 7: A Life-Risking Opportunity (3)): Transformer.__init__() missing 1 required positional argument: 'gemini_client'
+2026-02-03 21:57:25,579 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 21:57:25,580 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 8: A Life-Risking Opportunity (4)
+2026-02-03 21:57:25,606 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 8 (Chapter 8: A Life-Risking Opportunity (4)): Transformer.__init__() missing 1 required positional argument: 'gemini_client'
+2026-02-03 21:57:25,820 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 21:57:25,821 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 9: An Opportunity More Valuable Than Life (5)
+2026-02-03 21:57:25,869 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 9 (Chapter 9: An Opportunity More Valuable Than Life (5)): Transformer.__init__() missing 1 required positional argument: 'gemini_client'
+2026-02-03 21:57:26,135 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 21:57:26,135 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 10: First Steps Toward a Dream (1)
+2026-02-03 21:57:26,159 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 10 (Chapter 10: First Steps Toward a Dream (1)): Transformer.__init__() missing 1 required positional argument: 'gemini_client'
+2026-02-03 21:57:26,413 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 21:57:26,414 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 11: First Steps Toward a Dream (3)
+2026-02-03 21:57:26,445 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 11 (Chapter 11: First Steps Toward a Dream (3)): Transformer.__init__() missing 1 required positional argument: 'gemini_client'
+2026-02-03 21:57:26,811 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 21:57:26,813 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 12: First Steps Toward a Dream (4)
+2026-02-03 21:57:26,863 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 12 (Chapter 12: First Steps Toward a Dream (4)): Transformer.__init__() missing 1 required positional argument: 'gemini_client'
+2026-02-03 21:57:27,154 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 21:57:27,154 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 13: First Steps Toward a Dream (5)
+2026-02-03 21:57:27,183 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 13 (Chapter 13: First Steps Toward a Dream (5)): Transformer.__init__() missing 1 required positional argument: 'gemini_client'
+2026-02-03 21:57:27,535 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 21:57:27,536 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 14: First Step Toward the Dream (6)
+2026-02-03 21:57:27,581 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 14 (Chapter 14: First Step Toward the Dream (6)): Transformer.__init__() missing 1 required positional argument: 'gemini_client'
+2026-02-03 21:57:28,025 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 21:57:28,026 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 15: First Step Toward the Dream (7)
+2026-02-03 21:57:28,051 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 15 (Chapter 15: First Step Toward the Dream (7)): Transformer.__init__() missing 1 required positional argument: 'gemini_client'
+2026-02-03 21:57:28,685 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 21:57:28,688 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 16: Alpheas Magic School (2)
+2026-02-03 21:57:28,719 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 16 (Chapter 16: Alpheas Magic School (2)): Transformer.__init__() missing 1 required positional argument: 'gemini_client'
+2026-02-03 21:57:29,201 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 21:57:29,202 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 17: Alpheas Magic School (3)
+2026-02-03 21:57:29,231 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 17 (Chapter 17: Alpheas Magic School (3)): Transformer.__init__() missing 1 required positional argument: 'gemini_client'
+2026-02-03 21:57:29,802 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 21:57:29,802 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 18: Alpheas Magic School (4)
+2026-02-03 21:57:29,824 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 18 (Chapter 18: Alpheas Magic School (4)): Transformer.__init__() missing 1 required positional argument: 'gemini_client'
+2026-02-03 21:57:30,431 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 21:57:30,431 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 19: Learning Magic (2)
+2026-02-03 21:57:30,463 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 19 (Chapter 19: Learning Magic (2)): Transformer.__init__() missing 1 required positional argument: 'gemini_client'
+2026-02-03 21:57:31,178 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 21:57:31,179 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 20: Learning Magic (3)
+2026-02-03 21:57:31,230 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 20 (Chapter 20: Learning Magic (3)): Transformer.__init__() missing 1 required positional argument: 'gemini_client'
+2026-02-03 21:57:31,824 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 21:57:31,825 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 21: Learning Magic (4)
+2026-02-03 21:57:31,869 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 21 (Chapter 21: Learning Magic (4)): Transformer.__init__() missing 1 required positional argument: 'gemini_client'
+2026-02-03 21:57:32,602 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 21:57:32,604 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 22: Learning Magic (5)
+2026-02-03 21:57:32,639 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 22 (Chapter 22: Learning Magic (5)): Transformer.__init__() missing 1 required positional argument: 'gemini_client'
+2026-02-03 21:57:35,094 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 21:57:35,099 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 23: Cold Boy and Hot Girl (1)
+2026-02-03 21:57:35,100 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 23 (Chapter 23: Cold Boy and Hot Girl (1)): Transformer.__init__() missing 1 required positional argument: 'gemini_client'
+2026-02-03 21:57:37,004 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 21:57:37,005 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 24: The Cold Boy and the Hot Girl (3)
+2026-02-03 21:57:37,005 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 24 (Chapter 24: The Cold Boy and the Hot Girl (3)): Transformer.__init__() missing 1 required positional argument: 'gemini_client'
+2026-02-03 21:57:37,880 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 21:57:37,881 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 25: The Cold Boy and the Hot Girl (4)
+2026-02-03 21:57:37,881 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 25 (Chapter 25: The Cold Boy and the Hot Girl (4)): Transformer.__init__() missing 1 required positional argument: 'gemini_client'
+2026-02-03 21:57:38,925 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 21:57:38,926 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 26: Things Money Can't Buy (1)
+2026-02-03 21:57:38,926 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 26 (Chapter 26: Things Money Can't Buy (1)): Transformer.__init__() missing 1 required positional argument: 'gemini_client'
+2026-02-03 21:57:40,042 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 21:57:40,043 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 27: Things Money Can't Buy (2)
+2026-02-03 21:57:40,043 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 27 (Chapter 27: Things Money Can't Buy (2)): Transformer.__init__() missing 1 required positional argument: 'gemini_client'
+2026-02-03 21:57:41,185 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 21:57:41,186 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 28: Thorn in the Eye (1)
+2026-02-03 21:57:41,186 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 28 (Chapter 28: Thorn in the Eye (1)): Transformer.__init__() missing 1 required positional argument: 'gemini_client'
+2026-02-03 21:57:42,300 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 21:57:42,300 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 29: Thorn in the Eye (2)
+2026-02-03 21:57:42,301 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 29 (Chapter 29: Thorn in the Eye (2)): Transformer.__init__() missing 1 required positional argument: 'gemini_client'
+2026-02-03 21:57:43,624 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 21:57:43,625 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 30: Thorn in the Eye (3)
+2026-02-03 21:57:43,625 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 30 (Chapter 30: Thorn in the Eye (3)): Transformer.__init__() missing 1 required positional argument: 'gemini_client'
+2026-02-03 21:57:44,146 - babel.pipeline.orchestrator - INFO - Pipeline interrupted by user (Ctrl+C)
+2026-02-03 21:59:49,857 - babel.pipeline.orchestrator - INFO - Phase 0: Starting sanitization of C:\Users\rooma\Downloads\Infinite Mage\Infinite Mage(ai tl by ayden, grammar fix by yellownugget).epub
+2026-02-03 22:00:04,749 - babel.pipeline.orchestrator - INFO - Phase 0: Sanitized 1266 chapters successfully
+2026-02-03 22:00:04,817 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 1: Encountering Magic (1)
+2026-02-03 22:00:04,843 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 1 (Chapter 1: Encountering Magic (1)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:04,920 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:04,920 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 2: Encountering Magic (2)
+2026-02-03 22:00:04,941 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 2 (Chapter 2: Encountering Magic (2)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:04,983 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:04,983 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 3: Encountering Magic (3)
+2026-02-03 22:00:04,985 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 3 (Chapter 3: Encountering Magic (3)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:04,999 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:05,000 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 4: Meeting Magic (4)
+2026-02-03 22:00:05,032 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 4 (Chapter 4: Meeting Magic (4)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:05,047 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:05,048 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 5: Meeting Magic (5)
+2026-02-03 22:00:05,076 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 5 (Chapter 5: Meeting Magic (5)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:05,092 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:05,093 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 6: A Life-Risking Opportunity (2)
+2026-02-03 22:00:05,095 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 6 (Chapter 6: A Life-Risking Opportunity (2)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:05,112 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:05,113 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 7: A Life-Risking Opportunity (3)
+2026-02-03 22:00:05,117 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 7 (Chapter 7: A Life-Risking Opportunity (3)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:05,135 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:05,135 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 8: A Life-Risking Opportunity (4)
+2026-02-03 22:00:05,137 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 8 (Chapter 8: A Life-Risking Opportunity (4)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:05,150 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:05,151 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 9: An Opportunity More Valuable Than Life (5)
+2026-02-03 22:00:05,152 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 9 (Chapter 9: An Opportunity More Valuable Than Life (5)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:05,171 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:05,172 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 10: First Steps Toward a Dream (1)
+2026-02-03 22:00:05,204 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 10 (Chapter 10: First Steps Toward a Dream (1)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:05,219 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:05,219 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 11: First Steps Toward a Dream (3)
+2026-02-03 22:00:05,249 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 11 (Chapter 11: First Steps Toward a Dream (3)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:05,264 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:05,265 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 12: First Steps Toward a Dream (4)
+2026-02-03 22:00:05,297 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 12 (Chapter 12: First Steps Toward a Dream (4)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:05,312 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:05,313 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 13: First Steps Toward a Dream (5)
+2026-02-03 22:00:05,316 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 13 (Chapter 13: First Steps Toward a Dream (5)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:05,336 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:05,337 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 14: First Step Toward the Dream (6)
+2026-02-03 22:00:05,375 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 14 (Chapter 14: First Step Toward the Dream (6)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:05,390 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:05,391 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 15: First Step Toward the Dream (7)
+2026-02-03 22:00:05,394 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 15 (Chapter 15: First Step Toward the Dream (7)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:05,413 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:05,414 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 16: Alpheas Magic School (2)
+2026-02-03 22:00:05,448 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 16 (Chapter 16: Alpheas Magic School (2)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:05,462 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:05,463 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 17: Alpheas Magic School (3)
+2026-02-03 22:00:05,492 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 17 (Chapter 17: Alpheas Magic School (3)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:05,522 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:05,522 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 18: Alpheas Magic School (4)
+2026-02-03 22:00:05,526 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 18 (Chapter 18: Alpheas Magic School (4)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:05,558 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:05,558 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 19: Learning Magic (2)
+2026-02-03 22:00:05,590 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 19 (Chapter 19: Learning Magic (2)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:05,626 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:05,627 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 20: Learning Magic (3)
+2026-02-03 22:00:05,664 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 20 (Chapter 20: Learning Magic (3)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:05,685 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:05,687 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 21: Learning Magic (4)
+2026-02-03 22:00:05,718 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 21 (Chapter 21: Learning Magic (4)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:05,743 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:05,743 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 22: Learning Magic (5)
+2026-02-03 22:00:05,746 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 22 (Chapter 22: Learning Magic (5)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:05,763 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:05,764 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 23: Cold Boy and Hot Girl (1)
+2026-02-03 22:00:05,791 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 23 (Chapter 23: Cold Boy and Hot Girl (1)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:05,808 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:05,808 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 24: The Cold Boy and the Hot Girl (3)
+2026-02-03 22:00:05,810 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 24 (Chapter 24: The Cold Boy and the Hot Girl (3)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:05,832 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:05,833 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 25: The Cold Boy and the Hot Girl (4)
+2026-02-03 22:00:05,864 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 25 (Chapter 25: The Cold Boy and the Hot Girl (4)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:05,881 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:05,882 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 26: Things Money Can't Buy (1)
+2026-02-03 22:00:05,912 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 26 (Chapter 26: Things Money Can't Buy (1)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:05,928 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:05,928 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 27: Things Money Can't Buy (2)
+2026-02-03 22:00:05,959 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 27 (Chapter 27: Things Money Can't Buy (2)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:05,979 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:05,979 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 28: Thorn in the Eye (1)
+2026-02-03 22:00:06,014 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 28 (Chapter 28: Thorn in the Eye (1)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:06,036 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:06,037 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 29: Thorn in the Eye (2)
+2026-02-03 22:00:06,068 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 29 (Chapter 29: Thorn in the Eye (2)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:06,086 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:06,087 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 30: Thorn in the Eye (3)
+2026-02-03 22:00:06,089 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 30 (Chapter 30: Thorn in the Eye (3)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:06,182 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:06,184 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 31: Instant Movement (1)
+2026-02-03 22:00:06,185 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 31 (Chapter 31: Instant Movement (1)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:06,321 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:06,322 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 32: Instant Movement (2)
+2026-02-03 22:00:06,355 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 32 (Chapter 32: Instant Movement (2)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:06,481 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:06,481 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 33: Instant Movement (3)
+2026-02-03 22:00:06,512 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 33 (Chapter 33: Instant Movement (3)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:06,714 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:06,714 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 34: Instant Movement (5)
+2026-02-03 22:00:06,743 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 34 (Chapter 34: Instant Movement (5)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:06,927 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:06,928 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 35: The Uncrossable Bridge (2)
+2026-02-03 22:00:06,930 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 35 (Chapter 35: The Uncrossable Bridge (2)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:07,174 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:07,175 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 36: The Uncrossable Bridge (3)
+2026-02-03 22:00:07,204 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 36 (Chapter 36: The Uncrossable Bridge (3)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:07,474 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:07,475 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 37: The Uncrossable Bridge (4)
+2026-02-03 22:00:07,477 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 37 (Chapter 37: The Uncrossable Bridge (4)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:07,792 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:07,793 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 38: The Uncrossable Bridge (5)
+2026-02-03 22:00:07,824 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 38 (Chapter 38: The Uncrossable Bridge (5)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:08,176 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:08,177 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 39: Another Genius (1)
+2026-02-03 22:00:08,179 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 39 (Chapter 39: Another Genius (1)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:08,567 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:08,567 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 40: Another Genius (2)
+2026-02-03 22:00:08,569 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 40 (Chapter 40: Another Genius (2)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:09,014 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:09,015 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 41: Another Genius (3)
+2026-02-03 22:00:09,042 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 41 (Chapter 41: Another Genius (3)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:09,521 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:09,522 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 42: Another Genius (4)
+2026-02-03 22:00:09,575 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 42 (Chapter 42: Another Genius (4)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:10,142 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:10,143 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 43: Limitless (1)
+2026-02-03 22:00:10,145 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 43 (Chapter 43: Limitless (1)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:10,696 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:10,697 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 44: Limitless (2)
+2026-02-03 22:00:10,726 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 44 (Chapter 44: Limitless (2)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:11,296 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:11,296 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 45: Limitless (4)
+2026-02-03 22:00:11,327 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 45 (Chapter 45: Limitless (4)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:11,982 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:11,983 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 46: Limitless (5)
+2026-02-03 22:00:11,984 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 46 (Chapter 46: Limitless (5)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:12,702 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:12,703 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 47: Limitless (6)
+2026-02-03 22:00:12,742 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 47 (Chapter 47: Limitless (6)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:13,407 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:13,408 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 48: Limitless (7)
+2026-02-03 22:00:13,434 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 48 (Chapter 48: Limitless (7)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:14,202 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:14,204 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 49: Strange Research Club (1)
+2026-02-03 22:00:14,238 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 49 (Chapter 49: Strange Research Club (1)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:15,041 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:15,042 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 50: Strange Research Club (2)
+2026-02-03 22:00:15,074 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 50 (Chapter 50: Strange Research Club (2)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:16,072 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:16,072 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 51: Strange Research Club (3)
+2026-02-03 22:00:16,075 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 51 (Chapter 51: Strange Research Club (3)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:17,309 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:17,310 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 52: Overflow (2)
+2026-02-03 22:00:17,312 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 52 (Chapter 52: Overflow (2)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:18,454 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:00:18,455 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 53: Overflow (3)
+2026-02-03 22:00:18,498 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 53 (Chapter 53: Overflow (3)): GEMINI_API_KEY environment variable not set. Please set it to your Google AI API key.
+2026-02-03 22:00:18,993 - babel.pipeline.orchestrator - INFO - Pipeline interrupted by user (Ctrl+C)
+2026-02-03 22:03:29,327 - babel.pipeline.orchestrator - INFO - Phase 0: Starting sanitization of C:\Users\rooma\Downloads\Infinite Mage\Infinite Mage(ai tl by ayden, grammar fix by yellownugget).epub
+2026-02-03 22:03:44,180 - babel.pipeline.orchestrator - INFO - Phase 0: Sanitized 1266 chapters successfully
+2026-02-03 22:03:44,242 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 1: Encountering Magic (1)
+2026-02-03 22:03:45,306 - babel.pipeline.orchestrator - INFO - Transform attempt 1/3 for Chapter 1: Encountering Magic (1)
+2026-02-03 22:04:32,481 - babel.pipeline.orchestrator - INFO - Phase 1: Completed Chapter 1: Encountering Magic (1)
+2026-02-03 22:04:32,481 - babel.pipeline.orchestrator - INFO - Phase 2: Rendering Chapter 1: Encountering Magic (1)
+2026-02-03 22:04:32,547 - babel.pipeline.orchestrator - INFO - Phase 2: Completed Chapter 1: Encountering Magic (1)
+2026-02-03 22:04:32,548 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 2: Encountering Magic (2)
+2026-02-03 22:04:33,267 - babel.pipeline.orchestrator - INFO - Transform attempt 1/3 for Chapter 2: Encountering Magic (2)
+2026-02-03 22:05:24,843 - babel.pipeline.orchestrator - INFO - Phase 1: Completed Chapter 2: Encountering Magic (2)
+2026-02-03 22:05:24,843 - babel.pipeline.orchestrator - INFO - Phase 2: Rendering Chapter 2: Encountering Magic (2)
+2026-02-03 22:05:24,898 - babel.pipeline.orchestrator - INFO - Phase 2: Completed Chapter 2: Encountering Magic (2)
+2026-02-03 22:05:24,899 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 3: Encountering Magic (3)
+2026-02-03 22:05:25,648 - babel.pipeline.orchestrator - INFO - Transform attempt 1/3 for Chapter 3: Encountering Magic (3)
+2026-02-03 22:05:51,726 - babel.pipeline.orchestrator - INFO - Phase 1: Completed Chapter 3: Encountering Magic (3)
+2026-02-03 22:05:51,727 - babel.pipeline.orchestrator - INFO - Phase 2: Rendering Chapter 3: Encountering Magic (3)
+2026-02-03 22:05:52,963 - babel.pipeline.orchestrator - INFO - Phase 2: Completed Chapter 3: Encountering Magic (3)
+2026-02-03 22:05:53,217 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 4: Meeting Magic (4)
+2026-02-03 22:05:54,671 - babel.pipeline.orchestrator - INFO - Transform attempt 1/3 for Chapter 4: Meeting Magic (4)
+2026-02-03 22:05:56,422 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 1.0s
+2026-02-03 22:05:57,423 - babel.pipeline.orchestrator - INFO - Transform attempt 2/3 for Chapter 4: Meeting Magic (4)
+2026-02-03 22:06:01,080 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 2.0s
+2026-02-03 22:06:03,081 - babel.pipeline.orchestrator - INFO - Transform attempt 3/3 for Chapter 4: Meeting Magic (4)
+2026-02-03 22:06:20,682 - babel.pipeline.orchestrator - ERROR - All 3 retry attempts exhausted for Chapter 4: Meeting Magic (4)
+2026-02-03 22:06:20,683 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 4 (Chapter 4: Meeting Magic (4)): Transformation failed after all retries
+2026-02-03 22:06:20,852 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:06:20,854 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 5: Meeting Magic (5)
+2026-02-03 22:06:23,051 - babel.pipeline.orchestrator - INFO - Transform attempt 1/3 for Chapter 5: Meeting Magic (5)
+2026-02-03 22:06:40,479 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 1.0s
+2026-02-03 22:06:41,480 - babel.pipeline.orchestrator - INFO - Transform attempt 2/3 for Chapter 5: Meeting Magic (5)
+2026-02-03 22:07:43,254 - babel.pipeline.orchestrator - INFO - Phase 1: Completed Chapter 5: Meeting Magic (5)
+2026-02-03 22:07:43,256 - babel.pipeline.orchestrator - INFO - Phase 2: Rendering Chapter 5: Meeting Magic (5)
+2026-02-03 22:07:43,368 - babel.pipeline.orchestrator - INFO - Phase 2: Completed Chapter 5: Meeting Magic (5)
+2026-02-03 22:07:43,371 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 6: A Life-Risking Opportunity (2)
+2026-02-03 22:07:45,738 - babel.pipeline.orchestrator - INFO - Transform attempt 1/3 for Chapter 6: A Life-Risking Opportunity (2)
+2026-02-03 22:08:02,836 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 1.0s
+2026-02-03 22:08:03,837 - babel.pipeline.orchestrator - INFO - Transform attempt 2/3 for Chapter 6: A Life-Risking Opportunity (2)
+2026-02-03 22:08:22,454 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 2.0s
+2026-02-03 22:08:24,455 - babel.pipeline.orchestrator - INFO - Transform attempt 3/3 for Chapter 6: A Life-Risking Opportunity (2)
+2026-02-03 22:08:41,982 - babel.pipeline.orchestrator - ERROR - All 3 retry attempts exhausted for Chapter 6: A Life-Risking Opportunity (2)
+2026-02-03 22:08:41,983 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 6 (Chapter 6: A Life-Risking Opportunity (2)): Transformation failed after all retries
+2026-02-03 22:08:42,034 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:08:42,036 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 7: A Life-Risking Opportunity (3)
+2026-02-03 22:08:44,137 - babel.pipeline.orchestrator - INFO - Transform attempt 1/3 for Chapter 7: A Life-Risking Opportunity (3)
+2026-02-03 22:09:01,708 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 1.0s
+2026-02-03 22:09:02,709 - babel.pipeline.orchestrator - INFO - Transform attempt 2/3 for Chapter 7: A Life-Risking Opportunity (3)
+2026-02-03 22:09:21,358 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 2.0s
+2026-02-03 22:09:23,359 - babel.pipeline.orchestrator - INFO - Transform attempt 3/3 for Chapter 7: A Life-Risking Opportunity (3)
+2026-02-03 22:09:40,930 - babel.pipeline.orchestrator - ERROR - All 3 retry attempts exhausted for Chapter 7: A Life-Risking Opportunity (3)
+2026-02-03 22:09:40,931 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 7 (Chapter 7: A Life-Risking Opportunity (3)): Transformation failed after all retries
+2026-02-03 22:09:40,993 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:09:40,994 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 8: A Life-Risking Opportunity (4)
+2026-02-03 22:09:43,284 - babel.pipeline.orchestrator - INFO - Transform attempt 1/3 for Chapter 8: A Life-Risking Opportunity (4)
+2026-02-03 22:10:00,529 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 1.0s
+2026-02-03 22:10:01,530 - babel.pipeline.orchestrator - INFO - Transform attempt 2/3 for Chapter 8: A Life-Risking Opportunity (4)
+2026-02-03 22:10:20,095 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 2.0s
+2026-02-03 22:10:22,097 - babel.pipeline.orchestrator - INFO - Transform attempt 3/3 for Chapter 8: A Life-Risking Opportunity (4)
+2026-02-03 22:10:39,692 - babel.pipeline.orchestrator - ERROR - All 3 retry attempts exhausted for Chapter 8: A Life-Risking Opportunity (4)
+2026-02-03 22:10:39,693 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 8 (Chapter 8: A Life-Risking Opportunity (4)): Transformation failed after all retries
+2026-02-03 22:10:39,766 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:10:39,768 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 9: An Opportunity More Valuable Than Life (5)
+2026-02-03 22:10:42,082 - babel.pipeline.orchestrator - INFO - Transform attempt 1/3 for Chapter 9: An Opportunity More Valuable Than Life (5)
+2026-02-03 22:10:59,359 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 1.0s
+2026-02-03 22:11:00,360 - babel.pipeline.orchestrator - INFO - Transform attempt 2/3 for Chapter 9: An Opportunity More Valuable Than Life (5)
+2026-02-03 22:11:19,162 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 2.0s
+2026-02-03 22:11:21,164 - babel.pipeline.orchestrator - INFO - Transform attempt 3/3 for Chapter 9: An Opportunity More Valuable Than Life (5)
+2026-02-03 22:11:38,729 - babel.pipeline.orchestrator - ERROR - All 3 retry attempts exhausted for Chapter 9: An Opportunity More Valuable Than Life (5)
+2026-02-03 22:11:38,729 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 9 (Chapter 9: An Opportunity More Valuable Than Life (5)): Transformation failed after all retries
+2026-02-03 22:11:38,765 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:11:38,766 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 10: First Steps Toward a Dream (1)
+2026-02-03 22:11:39,856 - babel.pipeline.orchestrator - INFO - Transform attempt 1/3 for Chapter 10: First Steps Toward a Dream (1)
+2026-02-03 22:11:58,707 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 1.0s
+2026-02-03 22:11:59,708 - babel.pipeline.orchestrator - INFO - Transform attempt 2/3 for Chapter 10: First Steps Toward a Dream (1)
+2026-02-03 22:12:18,378 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 2.0s
+2026-02-03 22:12:20,379 - babel.pipeline.orchestrator - INFO - Transform attempt 3/3 for Chapter 10: First Steps Toward a Dream (1)
+2026-02-03 22:12:38,277 - babel.pipeline.orchestrator - ERROR - All 3 retry attempts exhausted for Chapter 10: First Steps Toward a Dream (1)
+2026-02-03 22:12:38,277 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 10 (Chapter 10: First Steps Toward a Dream (1)): Transformation failed after all retries
+2026-02-03 22:12:38,337 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:12:38,339 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 11: First Steps Toward a Dream (3)
+2026-02-03 22:12:40,748 - babel.pipeline.orchestrator - INFO - Transform attempt 1/3 for Chapter 11: First Steps Toward a Dream (3)
+2026-02-03 22:12:57,908 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 1.0s
+2026-02-03 22:12:58,909 - babel.pipeline.orchestrator - INFO - Transform attempt 2/3 for Chapter 11: First Steps Toward a Dream (3)
+2026-02-03 22:13:17,526 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 2.0s
+2026-02-03 22:13:19,526 - babel.pipeline.orchestrator - INFO - Transform attempt 3/3 for Chapter 11: First Steps Toward a Dream (3)
+2026-02-03 22:13:37,034 - babel.pipeline.orchestrator - ERROR - All 3 retry attempts exhausted for Chapter 11: First Steps Toward a Dream (3)
+2026-02-03 22:13:37,034 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 11 (Chapter 11: First Steps Toward a Dream (3)): Transformation failed after all retries
+2026-02-03 22:13:37,060 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:13:37,060 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 12: First Steps Toward a Dream (4)
+2026-02-03 22:13:38,162 - babel.pipeline.orchestrator - INFO - Transform attempt 1/3 for Chapter 12: First Steps Toward a Dream (4)
+2026-02-03 22:13:56,673 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 1.0s
+2026-02-03 22:13:57,674 - babel.pipeline.orchestrator - INFO - Transform attempt 2/3 for Chapter 12: First Steps Toward a Dream (4)
+2026-02-03 22:14:16,234 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 2.0s
+2026-02-03 22:14:18,235 - babel.pipeline.orchestrator - INFO - Transform attempt 3/3 for Chapter 12: First Steps Toward a Dream (4)
+2026-02-03 22:14:35,829 - babel.pipeline.orchestrator - ERROR - All 3 retry attempts exhausted for Chapter 12: First Steps Toward a Dream (4)
+2026-02-03 22:14:35,829 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 12 (Chapter 12: First Steps Toward a Dream (4)): Transformation failed after all retries
+2026-02-03 22:14:35,880 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:14:35,882 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 13: First Steps Toward a Dream (5)
+2026-02-03 22:14:37,970 - babel.pipeline.orchestrator - INFO - Transform attempt 1/3 for Chapter 13: First Steps Toward a Dream (5)
+2026-02-03 22:14:55,539 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 1.0s
+2026-02-03 22:14:56,541 - babel.pipeline.orchestrator - INFO - Transform attempt 2/3 for Chapter 13: First Steps Toward a Dream (5)
+2026-02-03 22:15:15,033 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 2.0s
+2026-02-03 22:15:17,034 - babel.pipeline.orchestrator - INFO - Transform attempt 3/3 for Chapter 13: First Steps Toward a Dream (5)
+2026-02-03 22:15:34,576 - babel.pipeline.orchestrator - ERROR - All 3 retry attempts exhausted for Chapter 13: First Steps Toward a Dream (5)
+2026-02-03 22:15:34,576 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 13 (Chapter 13: First Steps Toward a Dream (5)): Transformation failed after all retries
+2026-02-03 22:15:34,640 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:15:34,642 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 14: First Step Toward the Dream (6)
+2026-02-03 22:15:36,875 - babel.pipeline.orchestrator - INFO - Transform attempt 1/3 for Chapter 14: First Step Toward the Dream (6)
+2026-02-03 22:15:54,208 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 1.0s
+2026-02-03 22:15:55,209 - babel.pipeline.orchestrator - INFO - Transform attempt 2/3 for Chapter 14: First Step Toward the Dream (6)
+2026-02-03 22:16:13,778 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 2.0s
+2026-02-03 22:16:15,778 - babel.pipeline.orchestrator - INFO - Transform attempt 3/3 for Chapter 14: First Step Toward the Dream (6)
+2026-02-03 22:16:33,325 - babel.pipeline.orchestrator - ERROR - All 3 retry attempts exhausted for Chapter 14: First Step Toward the Dream (6)
+2026-02-03 22:16:33,325 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 14 (Chapter 14: First Step Toward the Dream (6)): Transformation failed after all retries
+2026-02-03 22:16:33,356 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:16:33,357 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 15: First Step Toward the Dream (7)
+2026-02-03 22:16:34,762 - babel.pipeline.orchestrator - INFO - Transform attempt 1/3 for Chapter 15: First Step Toward the Dream (7)
+2026-02-03 22:16:52,899 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 1.0s
+2026-02-03 22:16:53,900 - babel.pipeline.orchestrator - INFO - Transform attempt 2/3 for Chapter 15: First Step Toward the Dream (7)
+2026-02-03 22:17:12,369 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 2.0s
+2026-02-03 22:17:14,370 - babel.pipeline.orchestrator - INFO - Transform attempt 3/3 for Chapter 15: First Step Toward the Dream (7)
+2026-02-03 22:17:31,872 - babel.pipeline.orchestrator - ERROR - All 3 retry attempts exhausted for Chapter 15: First Step Toward the Dream (7)
+2026-02-03 22:17:31,872 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 15 (Chapter 15: First Step Toward the Dream (7)): Transformation failed after all retries
+2026-02-03 22:17:31,914 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:17:31,915 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 16: Alpheas Magic School (2)
+2026-02-03 22:17:33,014 - babel.pipeline.orchestrator - INFO - Transform attempt 1/3 for Chapter 16: Alpheas Magic School (2)
+2026-02-03 22:17:51,546 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 1.0s
+2026-02-03 22:17:52,547 - babel.pipeline.orchestrator - INFO - Transform attempt 2/3 for Chapter 16: Alpheas Magic School (2)
+2026-02-03 22:18:11,097 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 2.0s
+2026-02-03 22:18:13,098 - babel.pipeline.orchestrator - INFO - Transform attempt 3/3 for Chapter 16: Alpheas Magic School (2)
+2026-02-03 22:18:30,789 - babel.pipeline.orchestrator - ERROR - All 3 retry attempts exhausted for Chapter 16: Alpheas Magic School (2)
+2026-02-03 22:18:30,789 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 16 (Chapter 16: Alpheas Magic School (2)): Transformation failed after all retries
+2026-02-03 22:18:30,854 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:18:30,857 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 17: Alpheas Magic School (3)
+2026-02-03 22:18:33,239 - babel.pipeline.orchestrator - INFO - Transform attempt 1/3 for Chapter 17: Alpheas Magic School (3)
+2026-02-03 22:18:50,416 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 1.0s
+2026-02-03 22:18:51,417 - babel.pipeline.orchestrator - INFO - Transform attempt 2/3 for Chapter 17: Alpheas Magic School (3)
+2026-02-03 22:19:09,978 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 2.0s
+2026-02-03 22:19:11,979 - babel.pipeline.orchestrator - INFO - Transform attempt 3/3 for Chapter 17: Alpheas Magic School (3)
+2026-02-03 22:19:29,504 - babel.pipeline.orchestrator - ERROR - All 3 retry attempts exhausted for Chapter 17: Alpheas Magic School (3)
+2026-02-03 22:19:29,505 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 17 (Chapter 17: Alpheas Magic School (3)): Transformation failed after all retries
+2026-02-03 22:19:29,574 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:19:29,576 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 18: Alpheas Magic School (4)
+2026-02-03 22:19:31,749 - babel.pipeline.orchestrator - INFO - Transform attempt 1/3 for Chapter 18: Alpheas Magic School (4)
+2026-02-03 22:19:49,081 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 1.0s
+2026-02-03 22:19:50,087 - babel.pipeline.orchestrator - INFO - Transform attempt 2/3 for Chapter 18: Alpheas Magic School (4)
+2026-02-03 22:20:08,642 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 2.0s
+2026-02-03 22:20:10,643 - babel.pipeline.orchestrator - INFO - Transform attempt 3/3 for Chapter 18: Alpheas Magic School (4)
+2026-02-03 22:20:28,390 - babel.pipeline.orchestrator - ERROR - All 3 retry attempts exhausted for Chapter 18: Alpheas Magic School (4)
+2026-02-03 22:20:28,391 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 18 (Chapter 18: Alpheas Magic School (4)): Transformation failed after all retries
+2026-02-03 22:20:28,451 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:20:28,455 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 19: Learning Magic (2)
+2026-02-03 22:20:31,377 - babel.pipeline.orchestrator - INFO - Transform attempt 1/3 for Chapter 19: Learning Magic (2)
+2026-02-03 22:20:48,098 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 1.0s
+2026-02-03 22:20:49,099 - babel.pipeline.orchestrator - INFO - Transform attempt 2/3 for Chapter 19: Learning Magic (2)
+2026-02-03 22:21:07,686 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 2.0s
+2026-02-03 22:21:09,687 - babel.pipeline.orchestrator - INFO - Transform attempt 3/3 for Chapter 19: Learning Magic (2)
+2026-02-03 22:21:27,367 - babel.pipeline.orchestrator - ERROR - All 3 retry attempts exhausted for Chapter 19: Learning Magic (2)
+2026-02-03 22:21:27,367 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 19 (Chapter 19: Learning Magic (2)): Transformation failed after all retries
+2026-02-03 22:21:27,406 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:21:27,407 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 20: Learning Magic (3)
+2026-02-03 22:21:28,669 - babel.pipeline.orchestrator - INFO - Transform attempt 1/3 for Chapter 20: Learning Magic (3)
+2026-02-03 22:21:47,046 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 1.0s
+2026-02-03 22:21:48,047 - babel.pipeline.orchestrator - INFO - Transform attempt 2/3 for Chapter 20: Learning Magic (3)
+2026-02-03 22:22:06,589 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 2.0s
+2026-02-03 22:22:08,590 - babel.pipeline.orchestrator - INFO - Transform attempt 3/3 for Chapter 20: Learning Magic (3)
+2026-02-03 22:22:26,137 - babel.pipeline.orchestrator - ERROR - All 3 retry attempts exhausted for Chapter 20: Learning Magic (3)
+2026-02-03 22:22:26,137 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 20 (Chapter 20: Learning Magic (3)): Transformation failed after all retries
+2026-02-03 22:22:26,206 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:22:26,209 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 21: Learning Magic (4)
+2026-02-03 22:22:28,430 - babel.pipeline.orchestrator - INFO - Transform attempt 1/3 for Chapter 21: Learning Magic (4)
+2026-02-03 22:22:45,754 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 1.0s
+2026-02-03 22:22:46,756 - babel.pipeline.orchestrator - INFO - Transform attempt 2/3 for Chapter 21: Learning Magic (4)
+2026-02-03 22:23:05,260 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 2.0s
+2026-02-03 22:23:07,261 - babel.pipeline.orchestrator - INFO - Transform attempt 3/3 for Chapter 21: Learning Magic (4)
+2026-02-03 22:23:24,813 - babel.pipeline.orchestrator - ERROR - All 3 retry attempts exhausted for Chapter 21: Learning Magic (4)
+2026-02-03 22:23:24,814 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 21 (Chapter 21: Learning Magic (4)): Transformation failed after all retries
+2026-02-03 22:23:24,865 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:23:24,866 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 22: Learning Magic (5)
+2026-02-03 22:23:26,002 - babel.pipeline.orchestrator - INFO - Transform attempt 1/3 for Chapter 22: Learning Magic (5)
+2026-02-03 22:23:44,904 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 1.0s
+2026-02-03 22:23:45,905 - babel.pipeline.orchestrator - INFO - Transform attempt 2/3 for Chapter 22: Learning Magic (5)
+2026-02-03 22:24:04,411 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 2.0s
+2026-02-03 22:24:06,412 - babel.pipeline.orchestrator - INFO - Transform attempt 3/3 for Chapter 22: Learning Magic (5)
+2026-02-03 22:24:24,005 - babel.pipeline.orchestrator - ERROR - All 3 retry attempts exhausted for Chapter 22: Learning Magic (5)
+2026-02-03 22:24:24,006 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 22 (Chapter 22: Learning Magic (5)): Transformation failed after all retries
+2026-02-03 22:24:24,053 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:24:24,055 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 23: Cold Boy and Hot Girl (1)
+2026-02-03 22:24:25,151 - babel.pipeline.orchestrator - INFO - Transform attempt 1/3 for Chapter 23: Cold Boy and Hot Girl (1)
+2026-02-03 22:24:43,690 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 1.0s
+2026-02-03 22:24:44,691 - babel.pipeline.orchestrator - INFO - Transform attempt 2/3 for Chapter 23: Cold Boy and Hot Girl (1)
+2026-02-03 22:25:03,257 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 2.0s
+2026-02-03 22:25:05,258 - babel.pipeline.orchestrator - INFO - Transform attempt 3/3 for Chapter 23: Cold Boy and Hot Girl (1)
+2026-02-03 22:25:22,873 - babel.pipeline.orchestrator - ERROR - All 3 retry attempts exhausted for Chapter 23: Cold Boy and Hot Girl (1)
+2026-02-03 22:25:22,873 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 23 (Chapter 23: Cold Boy and Hot Girl (1)): Transformation failed after all retries
+2026-02-03 22:25:22,908 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:25:22,909 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 24: The Cold Boy and the Hot Girl (3)
+2026-02-03 22:25:23,979 - babel.pipeline.orchestrator - INFO - Transform attempt 1/3 for Chapter 24: The Cold Boy and the Hot Girl (3)
+2026-02-03 22:25:42,484 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 1.0s
+2026-02-03 22:25:43,484 - babel.pipeline.orchestrator - INFO - Transform attempt 2/3 for Chapter 24: The Cold Boy and the Hot Girl (3)
+2026-02-03 22:26:02,032 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 2.0s
+2026-02-03 22:26:04,033 - babel.pipeline.orchestrator - INFO - Transform attempt 3/3 for Chapter 24: The Cold Boy and the Hot Girl (3)
+2026-02-03 22:26:21,554 - babel.pipeline.orchestrator - ERROR - All 3 retry attempts exhausted for Chapter 24: The Cold Boy and the Hot Girl (3)
+2026-02-03 22:26:21,555 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 24 (Chapter 24: The Cold Boy and the Hot Girl (3)): Transformation failed after all retries
+2026-02-03 22:26:21,596 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:26:21,598 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 25: The Cold Boy and the Hot Girl (4)
+2026-02-03 22:26:22,694 - babel.pipeline.orchestrator - INFO - Transform attempt 1/3 for Chapter 25: The Cold Boy and the Hot Girl (4)
+2026-02-03 22:26:41,182 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 1.0s
+2026-02-03 22:26:42,183 - babel.pipeline.orchestrator - INFO - Transform attempt 2/3 for Chapter 25: The Cold Boy and the Hot Girl (4)
+2026-02-03 22:27:00,775 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 2.0s
+2026-02-03 22:27:02,775 - babel.pipeline.orchestrator - INFO - Transform attempt 3/3 for Chapter 25: The Cold Boy and the Hot Girl (4)
+2026-02-03 22:27:20,337 - babel.pipeline.orchestrator - ERROR - All 3 retry attempts exhausted for Chapter 25: The Cold Boy and the Hot Girl (4)
+2026-02-03 22:27:20,338 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 25 (Chapter 25: The Cold Boy and the Hot Girl (4)): Transformation failed after all retries
+2026-02-03 22:27:20,399 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:27:20,400 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 26: Things Money Can't Buy (1)
+2026-02-03 22:27:22,653 - babel.pipeline.orchestrator - INFO - Transform attempt 1/3 for Chapter 26: Things Money Can't Buy (1)
+2026-02-03 22:27:39,994 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 1.0s
+2026-02-03 22:27:40,995 - babel.pipeline.orchestrator - INFO - Transform attempt 2/3 for Chapter 26: Things Money Can't Buy (1)
+2026-02-03 22:27:59,575 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 2.0s
+2026-02-03 22:28:01,576 - babel.pipeline.orchestrator - INFO - Transform attempt 3/3 for Chapter 26: Things Money Can't Buy (1)
+2026-02-03 22:28:19,209 - babel.pipeline.orchestrator - ERROR - All 3 retry attempts exhausted for Chapter 26: Things Money Can't Buy (1)
+2026-02-03 22:28:19,210 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 26 (Chapter 26: Things Money Can't Buy (1)): Transformation failed after all retries
+2026-02-03 22:28:19,243 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:28:19,245 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 27: Things Money Can't Buy (2)
+2026-02-03 22:28:20,349 - babel.pipeline.orchestrator - INFO - Transform attempt 1/3 for Chapter 27: Things Money Can't Buy (2)
+2026-02-03 22:28:38,794 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 1.0s
+2026-02-03 22:28:39,795 - babel.pipeline.orchestrator - INFO - Transform attempt 2/3 for Chapter 27: Things Money Can't Buy (2)
+2026-02-03 22:28:58,306 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 2.0s
+2026-02-03 22:29:00,307 - babel.pipeline.orchestrator - INFO - Transform attempt 3/3 for Chapter 27: Things Money Can't Buy (2)
+2026-02-03 22:29:17,841 - babel.pipeline.orchestrator - ERROR - All 3 retry attempts exhausted for Chapter 27: Things Money Can't Buy (2)
+2026-02-03 22:29:17,841 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 27 (Chapter 27: Things Money Can't Buy (2)): Transformation failed after all retries
+2026-02-03 22:29:17,871 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:29:17,872 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 28: Thorn in the Eye (1)
+2026-02-03 22:29:19,005 - babel.pipeline.orchestrator - INFO - Transform attempt 1/3 for Chapter 28: Thorn in the Eye (1)
+2026-02-03 22:29:37,398 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 1.0s
+2026-02-03 22:29:38,399 - babel.pipeline.orchestrator - INFO - Transform attempt 2/3 for Chapter 28: Thorn in the Eye (1)
+2026-02-03 22:29:56,937 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 2.0s
+2026-02-03 22:29:58,937 - babel.pipeline.orchestrator - INFO - Transform attempt 3/3 for Chapter 28: Thorn in the Eye (1)
+2026-02-03 22:30:16,473 - babel.pipeline.orchestrator - ERROR - All 3 retry attempts exhausted for Chapter 28: Thorn in the Eye (1)
+2026-02-03 22:30:16,473 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 28 (Chapter 28: Thorn in the Eye (1)): Transformation failed after all retries
+2026-02-03 22:30:16,516 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:30:16,517 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 29: Thorn in the Eye (2)
+2026-02-03 22:30:17,630 - babel.pipeline.orchestrator - INFO - Transform attempt 1/3 for Chapter 29: Thorn in the Eye (2)
+2026-02-03 22:30:36,025 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 1.0s
+2026-02-03 22:30:37,026 - babel.pipeline.orchestrator - INFO - Transform attempt 2/3 for Chapter 29: Thorn in the Eye (2)
+2026-02-03 22:30:55,587 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 2.0s
+2026-02-03 22:30:57,587 - babel.pipeline.orchestrator - INFO - Transform attempt 3/3 for Chapter 29: Thorn in the Eye (2)
+2026-02-03 22:31:15,123 - babel.pipeline.orchestrator - ERROR - All 3 retry attempts exhausted for Chapter 29: Thorn in the Eye (2)
+2026-02-03 22:31:15,124 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 29 (Chapter 29: Thorn in the Eye (2)): Transformation failed after all retries
+2026-02-03 22:31:15,156 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:31:15,157 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 30: Thorn in the Eye (3)
+2026-02-03 22:31:16,265 - babel.pipeline.orchestrator - INFO - Transform attempt 1/3 for Chapter 30: Thorn in the Eye (3)
+2026-02-03 22:31:34,724 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 1.0s
+2026-02-03 22:31:35,725 - babel.pipeline.orchestrator - INFO - Transform attempt 2/3 for Chapter 30: Thorn in the Eye (3)
+2026-02-03 22:31:54,210 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 2.0s
+2026-02-03 22:31:56,211 - babel.pipeline.orchestrator - INFO - Transform attempt 3/3 for Chapter 30: Thorn in the Eye (3)
+2026-02-03 22:32:13,725 - babel.pipeline.orchestrator - ERROR - All 3 retry attempts exhausted for Chapter 30: Thorn in the Eye (3)
+2026-02-03 22:32:13,726 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 30 (Chapter 30: Thorn in the Eye (3)): Transformation failed after all retries
+2026-02-03 22:32:13,753 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:32:13,754 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 31: Instant Movement (1)
+2026-02-03 22:32:14,856 - babel.pipeline.orchestrator - INFO - Transform attempt 1/3 for Chapter 31: Instant Movement (1)
+2026-02-03 22:32:33,254 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 1.0s
+2026-02-03 22:32:34,255 - babel.pipeline.orchestrator - INFO - Transform attempt 2/3 for Chapter 31: Instant Movement (1)
+2026-02-03 22:32:52,788 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 2.0s
+2026-02-03 22:32:54,789 - babel.pipeline.orchestrator - INFO - Transform attempt 3/3 for Chapter 31: Instant Movement (1)
+2026-02-03 22:33:12,292 - babel.pipeline.orchestrator - ERROR - All 3 retry attempts exhausted for Chapter 31: Instant Movement (1)
+2026-02-03 22:33:12,293 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 31 (Chapter 31: Instant Movement (1)): Transformation failed after all retries
+2026-02-03 22:33:12,320 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:33:12,321 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 32: Instant Movement (2)
+2026-02-03 22:33:13,393 - babel.pipeline.orchestrator - INFO - Transform attempt 1/3 for Chapter 32: Instant Movement (2)
+2026-02-03 22:33:31,857 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 1.0s
+2026-02-03 22:33:32,858 - babel.pipeline.orchestrator - INFO - Transform attempt 2/3 for Chapter 32: Instant Movement (2)
+2026-02-03 22:33:51,488 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 2.0s
+2026-02-03 22:33:53,489 - babel.pipeline.orchestrator - INFO - Transform attempt 3/3 for Chapter 32: Instant Movement (2)
+2026-02-03 22:34:10,997 - babel.pipeline.orchestrator - ERROR - All 3 retry attempts exhausted for Chapter 32: Instant Movement (2)
+2026-02-03 22:34:10,998 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 32 (Chapter 32: Instant Movement (2)): Transformation failed after all retries
+2026-02-03 22:34:11,034 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:34:11,037 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 33: Instant Movement (3)
+2026-02-03 22:34:12,017 - babel.pipeline.orchestrator - INFO - Transform attempt 1/3 for Chapter 33: Instant Movement (3)
+2026-02-03 22:34:30,949 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 1.0s
+2026-02-03 22:34:31,949 - babel.pipeline.orchestrator - INFO - Transform attempt 2/3 for Chapter 33: Instant Movement (3)
+2026-02-03 22:34:50,616 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 2.0s
+2026-02-03 22:34:52,617 - babel.pipeline.orchestrator - INFO - Transform attempt 3/3 for Chapter 33: Instant Movement (3)
+2026-02-03 22:35:10,128 - babel.pipeline.orchestrator - ERROR - All 3 retry attempts exhausted for Chapter 33: Instant Movement (3)
+2026-02-03 22:35:10,128 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 33 (Chapter 33: Instant Movement (3)): Transformation failed after all retries
+2026-02-03 22:35:10,168 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:35:10,170 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 34: Instant Movement (5)
+2026-02-03 22:35:11,232 - babel.pipeline.orchestrator - INFO - Transform attempt 1/3 for Chapter 34: Instant Movement (5)
+2026-02-03 22:35:29,748 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 1.0s
+2026-02-03 22:35:30,749 - babel.pipeline.orchestrator - INFO - Transform attempt 2/3 for Chapter 34: Instant Movement (5)
+2026-02-03 22:35:49,390 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 2.0s
+2026-02-03 22:35:51,391 - babel.pipeline.orchestrator - INFO - Transform attempt 3/3 for Chapter 34: Instant Movement (5)
+2026-02-03 22:36:09,003 - babel.pipeline.orchestrator - ERROR - All 3 retry attempts exhausted for Chapter 34: Instant Movement (5)
+2026-02-03 22:36:09,003 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 34 (Chapter 34: Instant Movement (5)): Transformation failed after all retries
+2026-02-03 22:36:09,041 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:36:09,042 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 35: The Uncrossable Bridge (2)
+2026-02-03 22:36:10,103 - babel.pipeline.orchestrator - INFO - Transform attempt 1/3 for Chapter 35: The Uncrossable Bridge (2)
+2026-02-03 22:36:28,568 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 1.0s
+2026-02-03 22:36:29,568 - babel.pipeline.orchestrator - INFO - Transform attempt 2/3 for Chapter 35: The Uncrossable Bridge (2)
+2026-02-03 22:36:48,120 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 2.0s
+2026-02-03 22:36:50,121 - babel.pipeline.orchestrator - INFO - Transform attempt 3/3 for Chapter 35: The Uncrossable Bridge (2)
+2026-02-03 22:37:07,624 - babel.pipeline.orchestrator - ERROR - All 3 retry attempts exhausted for Chapter 35: The Uncrossable Bridge (2)
+2026-02-03 22:37:07,625 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 35 (Chapter 35: The Uncrossable Bridge (2)): Transformation failed after all retries
+2026-02-03 22:37:07,651 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:37:07,652 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 36: The Uncrossable Bridge (3)
+2026-02-03 22:37:08,577 - babel.pipeline.orchestrator - INFO - Transform attempt 1/3 for Chapter 36: The Uncrossable Bridge (3)
+2026-02-03 22:37:27,148 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 1.0s
+2026-02-03 22:37:28,149 - babel.pipeline.orchestrator - INFO - Transform attempt 2/3 for Chapter 36: The Uncrossable Bridge (3)
+2026-02-03 22:37:46,518 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 2.0s
+2026-02-03 22:37:48,519 - babel.pipeline.orchestrator - INFO - Transform attempt 3/3 for Chapter 36: The Uncrossable Bridge (3)
+2026-02-03 22:38:05,926 - babel.pipeline.orchestrator - ERROR - All 3 retry attempts exhausted for Chapter 36: The Uncrossable Bridge (3)
+2026-02-03 22:38:05,926 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 36 (Chapter 36: The Uncrossable Bridge (3)): Transformation failed after all retries
+2026-02-03 22:38:05,965 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:38:05,966 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 37: The Uncrossable Bridge (4)
+2026-02-03 22:38:06,980 - babel.pipeline.orchestrator - INFO - Transform attempt 1/3 for Chapter 37: The Uncrossable Bridge (4)
+2026-02-03 22:38:25,359 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 1.0s
+2026-02-03 22:38:26,360 - babel.pipeline.orchestrator - INFO - Transform attempt 2/3 for Chapter 37: The Uncrossable Bridge (4)
+2026-02-03 22:38:44,954 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 2.0s
+2026-02-03 22:38:46,955 - babel.pipeline.orchestrator - INFO - Transform attempt 3/3 for Chapter 37: The Uncrossable Bridge (4)
+2026-02-03 22:39:04,405 - babel.pipeline.orchestrator - ERROR - All 3 retry attempts exhausted for Chapter 37: The Uncrossable Bridge (4)
+2026-02-03 22:39:04,405 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 37 (Chapter 37: The Uncrossable Bridge (4)): Transformation failed after all retries
+2026-02-03 22:39:04,438 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:39:04,439 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 38: The Uncrossable Bridge (5)
+2026-02-03 22:39:05,460 - babel.pipeline.orchestrator - INFO - Transform attempt 1/3 for Chapter 38: The Uncrossable Bridge (5)
+2026-02-03 22:39:23,951 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 1.0s
+2026-02-03 22:39:24,952 - babel.pipeline.orchestrator - INFO - Transform attempt 2/3 for Chapter 38: The Uncrossable Bridge (5)
+2026-02-03 22:39:43,347 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 2.0s
+2026-02-03 22:39:45,348 - babel.pipeline.orchestrator - INFO - Transform attempt 3/3 for Chapter 38: The Uncrossable Bridge (5)
+2026-02-03 22:40:02,760 - babel.pipeline.orchestrator - ERROR - All 3 retry attempts exhausted for Chapter 38: The Uncrossable Bridge (5)
+2026-02-03 22:40:02,760 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 38 (Chapter 38: The Uncrossable Bridge (5)): Transformation failed after all retries
+2026-02-03 22:40:02,791 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:40:02,792 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 39: Another Genius (1)
+2026-02-03 22:40:03,856 - babel.pipeline.orchestrator - INFO - Transform attempt 1/3 for Chapter 39: Another Genius (1)
+2026-02-03 22:40:22,222 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 1.0s
+2026-02-03 22:40:23,222 - babel.pipeline.orchestrator - INFO - Transform attempt 2/3 for Chapter 39: Another Genius (1)
+2026-02-03 22:40:41,584 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 2.0s
+2026-02-03 22:40:43,585 - babel.pipeline.orchestrator - INFO - Transform attempt 3/3 for Chapter 39: Another Genius (1)
+2026-02-03 22:41:01,121 - babel.pipeline.orchestrator - ERROR - All 3 retry attempts exhausted for Chapter 39: Another Genius (1)
+2026-02-03 22:41:01,121 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 39 (Chapter 39: Another Genius (1)): Transformation failed after all retries
+2026-02-03 22:41:01,185 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:41:01,187 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 40: Another Genius (2)
+2026-02-03 22:41:02,325 - babel.pipeline.orchestrator - INFO - Transform attempt 1/3 for Chapter 40: Another Genius (2)
+2026-02-03 22:41:20,569 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 1.0s
+2026-02-03 22:41:21,570 - babel.pipeline.orchestrator - INFO - Transform attempt 2/3 for Chapter 40: Another Genius (2)
+2026-02-03 22:41:40,103 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 2.0s
+2026-02-03 22:41:42,104 - babel.pipeline.orchestrator - INFO - Transform attempt 3/3 for Chapter 40: Another Genius (2)
+2026-02-03 22:41:59,506 - babel.pipeline.orchestrator - ERROR - All 3 retry attempts exhausted for Chapter 40: Another Genius (2)
+2026-02-03 22:41:59,506 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 40 (Chapter 40: Another Genius (2)): Transformation failed after all retries
+2026-02-03 22:41:59,566 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:41:59,568 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 41: Another Genius (3)
+2026-02-03 22:42:00,636 - babel.pipeline.orchestrator - INFO - Transform attempt 1/3 for Chapter 41: Another Genius (3)
+2026-02-03 22:42:19,156 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 1.0s
+2026-02-03 22:42:20,157 - babel.pipeline.orchestrator - INFO - Transform attempt 2/3 for Chapter 41: Another Genius (3)
+2026-02-03 22:42:38,556 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 2.0s
+2026-02-03 22:42:40,557 - babel.pipeline.orchestrator - INFO - Transform attempt 3/3 for Chapter 41: Another Genius (3)
+2026-02-03 22:43:52,805 - babel.pipeline.orchestrator - ERROR - All 3 retry attempts exhausted for Chapter 41: Another Genius (3)
+2026-02-03 22:43:52,805 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 41 (Chapter 41: Another Genius (3)): Transformation failed after all retries
+2026-02-03 22:43:52,837 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 22:43:52,837 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 42: Another Genius (4)
+2026-02-03 22:43:53,985 - babel.pipeline.orchestrator - INFO - Transform attempt 1/3 for Chapter 42: Another Genius (4)
+2026-02-03 22:43:59,964 - babel.pipeline.orchestrator - INFO - Pipeline interrupted by user (Ctrl+C)
+2026-02-03 23:27:59,657 - babel.pipeline.orchestrator - INFO - Phase 0: Starting sanitization of C:\Users\rooma\Downloads\Infinite Mage\Infinite Mage(ai tl by ayden, grammar fix by yellownugget).epub
+2026-02-03 23:28:37,797 - babel.pipeline.orchestrator - INFO - Phase 0: Sanitized 1266 chapters successfully
+2026-02-03 23:28:38,092 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 1: Encountering Magic (1)
+2026-02-03 23:28:38,129 - babel.pipeline.orchestrator - INFO - Using Ollama (local AI) for transformation
+2026-02-03 23:28:40,273 - babel.pipeline.orchestrator - INFO - Transform attempt 1/3 for Chapter 1: Encountering Magic (1)
+2026-02-03 23:28:55,929 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 1.0s
+2026-02-03 23:28:56,930 - babel.pipeline.orchestrator - INFO - Transform attempt 2/3 for Chapter 1: Encountering Magic (1)
+2026-02-03 23:29:12,819 - babel.pipeline.orchestrator - WARNING - Transformation returned None, retrying after 2.0s
+2026-02-03 23:29:14,820 - babel.pipeline.orchestrator - INFO - Transform attempt 3/3 for Chapter 1: Encountering Magic (1)
+2026-02-03 23:29:28,733 - babel.pipeline.orchestrator - ERROR - All 3 retry attempts exhausted for Chapter 1: Encountering Magic (1)
+2026-02-03 23:29:28,733 - babel.pipeline.orchestrator - ERROR - Phase 1 failed for chapter 1 (Chapter 1: Encountering Magic (1)): Transformation failed after all retries
+2026-02-03 23:29:28,764 - babel.pipeline.orchestrator - INFO - Continuing to next chapter (fail-soft)
+2026-02-03 23:29:28,765 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 2: Encountering Magic (2)
+2026-02-03 23:29:28,765 - babel.pipeline.orchestrator - INFO - Using Ollama (local AI) for transformation
+2026-02-03 23:29:30,824 - babel.pipeline.orchestrator - INFO - Transform attempt 1/3 for Chapter 2: Encountering Magic (2)
+2026-02-03 23:46:20,455 - babel.pipeline.orchestrator - INFO - Phase 0: Starting sanitization of data\clean\001_chapter_1_encountering_magic_1.txt
+2026-02-03 23:46:20,479 - babel.pipeline.orchestrator - INFO - Phase 0: Sanitized 1 chapters successfully
+2026-02-03 23:46:20,563 - babel.pipeline.orchestrator - INFO - Phase 1: Transforming Chapter 1:
+2026-02-03 23:46:20,588 - babel.pipeline.orchestrator - INFO - Using Ollama (local AI) for transformation
+2026-02-03 23:46:22,648 - babel.pipeline.orchestrator - INFO - Transform attempt 1/3 for Chapter 1:
+2026-02-03 23:46:34,358 - babel.pipeline.orchestrator - INFO - Phase 1: Completed Chapter 1:
+2026-02-03 23:46:34,358 - babel.pipeline.orchestrator - INFO - Phase 2: Rendering Chapter 1:
+2026-02-03 23:46:34,500 - babel.pipeline.orchestrator - INFO - Phase 2: Completed Chapter 1:
+2026-02-03 23:46:34,503 - babel.pipeline.orchestrator - INFO - Generating Omnibus.html...
+2026-02-03 23:46:34,535 - babel.pipeline.orchestrator - ERROR - Omnibus generation failed: 'ChapterEntry' object is not subscriptable

@@ -1,0 +1,811 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Galliant Island (5)",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Falcoa",
+      "content": "I lost 5 gold. Taking back what you've given is the worst thing in the world. That woman should compensate for the loss.",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Falcoa lifted Zis's face.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With his chin raised to the point of breaking his back, Zis couldn't even breathe.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A little more, and his spine could have snapped.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Falcoa",
+      "content": "Does it hurt? It must hurt. I'm incredibly strong, you know.",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Please... spare me.",
+      "tone": "pleading"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Falcoa",
+      "content": "Should I make it not hurt? Chew on this. Then it won't hurt at all.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even in his difficult situation, Zis turned his gaze.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In Falcoa's hand was a root.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Having grown up on the island, he knew what it was.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was Lupe, the awakening agent of the natives.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As a drug used for contacting spirits, its addictive properties were incomparable to other narcotics.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Weren't there theories that even the Kergoians perished due to excessive use of Lupe?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Please, I beg you. Anything but that...",
+      "tone": "desperate"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zis pleaded earnestly.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Once addicted to Lupe, one's life was essentially over.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He would lead a life in the gutter, and his only family, his younger sister, would inevitably end up on the streets.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Falcoa, as if he knew this would happen, put the Lupe he offered to Zis into his own mouth.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "What about its addictiveness? If one couldn't live without Lupe, then just enjoy it for life.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Falcoa",
+      "content": "What a coward. This is a divine awakening agent. Anyway, what will you do now? Will you bring her?",
+      "tone": "sneering"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Bring who?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Falcoa",
+      "content": "That red-haired girl. She looked fresh. Probably could sell her for a high price, heh. Of course, we'd have to offer her as used goods.",
+      "tone": "sickening"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zis was appalled.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "To think of trafficking a noble, no less. But given Falcoa's mental state under the influence of Lupe, it was entirely plausible.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zis",
+      "content": "'He's insane. Not in his right mind.'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Falcoa was the team leader of the Freeman organization.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "For a mere underling like Zis, he was the highest-ranking person he could contact.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Although he had never seen Freeman himself, there was a clause in the directives he issued that prohibited human trafficking.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "But doing such a thing would get us expelled from the organization. The code of conduct states... Arg!",
+      "tone": "frustrated"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A shoe with studs turned Zis's jaw.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His mind spun, and he couldn't think of anything.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Falcoa grabbed Zis's head and lifted it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The moment he heard the cold voice, Zis's focus returned.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Falcoa",
+      "content": "Or what? Will you bring your younger sister?",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "That, that's...",
+      "tone": "terrified"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zis's body trembled.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "A mix of anger and fear rose, an indescribable emotion.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His younger sister was an irreplaceable treasure.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He didn't want to show her such a filthy world.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Falcoa",
+      "content": "Ah, didn't I say? I actually like your sister. Introduce her to me this time, will you?",
+      "tone": "sickening"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A rotten smell came from Falcoa's mouth as he chewed on the Lupe.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "***",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone and the woman successfully lost Gamos's bodyguards after running through alleys for 30 minutes.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "True to their training, they were fast, but psychological warfare using blind spots to run circles around them proved effective.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The two leaned against a wall, catching their breath for a while.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They had run so much that their mouths tasted of blood, and their legs were shaky.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The woman looked at Shirone, who was panting, and smiled.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Heh, you're surprisingly fit? You look so delicate; I thought you'd give up running.",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "If I give up, I'll get caught. I'm dying of exhaustion. But are you... okay?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "I'm Marsha. I'm seasoned in running away, so this is nothing. Let's go somewhere to rest. I'm so thirsty, I could use a beer. I'll buy you one as a thank you.",
+      "tone": "friendly"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone was puzzled.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even though they were on the run, Marsha didn't seem tense.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "And suggesting to drink beer meant she had money.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then why resort to stealing?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ah, I should probably get going.",
+      "tone": "polite"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "We can't wander around now anyway. Let's wait at a bar I know. Gamos might be brutal but he's dumb and forgets quickly. If we hold out for an hour, he'll be too distracted to chase us.",
+      "tone": "practical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "And I'm actually scared. Can you just stay by my side for a bit?",
+      "tone": "vulnerable"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha bit her tongue and winked playfully.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone wasn't swayed by her cute looks, but he decided to go along with her.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Alright. But I have companions waiting, so I can't stay long.",
+      "tone": "firm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Fine. Let's just wait until Gamos's men give up. Come this way.",
+      "tone": "friendly"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha led Shirone through winding alleys to a dingy bar.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It seemed unlikely anyone would come here for a drink, yet it was bustling with people.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Hmm, this place never changes, even after years.",
+      "tone": "nostalgic"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Weren't you a regular here? You said you knew this bar...",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Ah, I used to come here often. It's been three years since I've been on Galliant Island. A friend of mine lives here.",
+      "tone": "casual"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I see. I thought you were a local because you knew the way so well.",
+      "tone": "surprised"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Heh, I never forget a road I've seen. Running away is a part of my life.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Marsha and Shirone took their seats at the bar, rough-looking men turned to look at them all at once.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The sight of a beautiful woman and a young boy together seemed out of place.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "People are staring.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Don't mind them. This bar is only for the island's troublemakers. If something happens, this place is the first to receive news, so we can find out when Gamos gives up.",
+      "tone": "practical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Isn't that more dangerous? His men could barge in here.",
+      "tone": "worried"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Gamos rules the island but he's not a troublemaker. So, this place is... kind of like a resistance. A community of fate, perhaps?",
+      "tone": "mysterious"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "'It can't be done with just a system. Maybe a pact or rules. But why? They have nothing to gain?'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone stared, Marsha gave an awkward smile, her eyes crinkling.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Ugh, I can't stand it. Yeah, that's right. This bar is colluding with the Galliant self-government. Even the officials turn a blind eye to what happens here.",
+      "tone": "bitter"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "So, it was like that. But why would the government do such a thing?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Money. Money laundering, slush fund creation, circulating lobbying funds. It's called the 'Island Gate'. Maybe it's a system created by the insular nature of the island? There was an agreement. In exchange for circulating funds in the underworld, the safety of the criminals is guaranteed. Mutual aid. Well, isn't that how the world works? Hehe!",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha flicked the toothpick in her mouth.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Her seagull-like curved eyes somehow seemed sorrowful.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "It's funny when you think about it, isn't it? Everyone talks about punishing criminals, but in the end, it's the criminals who fatten their own pockets. Breaking down large sums of money into digestible pieces, like the microbes of society. Without microbes, life would perish.",
+      "tone": "philosophical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone had no response.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The social system that goes against human nature was too complex and varied for an 18-year-old boy to judge.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "I've been too serious. You said your name was Shirone, right? What brings you to the island?",
+      "tone": "friendly"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I came to have fun with friends. Wanted to go to the beach and visit historic sites.",
+      "tone": "casual"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Kergos Ruins? I've been there before. Ah, I was young back then, but now I'm already twenty-seven. I might end up dying an old maid. How old are you?",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'm 18.",
+      "tone": "proud"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Oh, older than I thought? You really look young.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You look young for your age too. Uh, is it okay if I call you 'miss'?",
+      "tone": "polite"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Of course. Everything starts with 'miss'. Later, if we become lovers, you can call me anything, hohoho!",
+      "tone": "playful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone lifted the corners of his mouth in disbelief.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "To an 18-year-old boy, a 27-year-old woman was an unreachable adult.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But aside from that, Marsha was much more intelligent and rational than expected.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The conversation was enjoyable, and with his guard down, Shirone shared the incidents that happened at the port.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Ah, you got caught by a street hawker. They are notorious. But 5 gold was too much.",
+      "tone": "practical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes. In the end, it led to a disagreement with a friend, and I'm not feeling good about it. They must be waiting for me now. I'll probably get scolded when I return.",
+      "tone": "worried"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha checked the time and asked the bartender:",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "What's the situation with Gamos?",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When the bartender acted as if he hadn't heard and just wiped glasses, Marsha placed a silver coin down.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then, as if he had never been silent, the bartender spoke up:",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bartender",
+      "content": "According to the news that came in 10 minutes ago, it has spread all around the main roads. Probably about 40 men blocking all passages.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Still? That man is really persistent.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bartender",
+      "content": "Gamos's alerts usually fade quickly. Seems he blew his top today.",
+      "tone": "practical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha turned to Shirone with a broad grin.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Anyway, it's best to deal with street hawkers moderately and avoid them. They belong to some kind of organization. Once you get involved, it becomes hard to handle the consequences.",
+      "tone": "practical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I see. I hadn't thought that far.",
+      "tone": "impressed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Hehe, why would you need to? You're here to have fun, right? But there's always danger lurking in tourists' fun. The island is small and closed off. To share limited resources, there's inevitably fiercer competition than inland.",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone took note.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He planned to stay on the island for ten days, so he would meet many hawkers.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Thanks to Marsha's advice, he was better prepared; otherwise, dealing with them like today could lead to bigger problems.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'm not sure if I should ask this, but I'm too curious.",
+      "tone": "hesitant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Phew, I was nervous about when you'd ask. But Shirone, a woman's measurements aren't to be heard but imagined in the mind.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No, that's not it! Why did you steal the pottery?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Huh?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You don't seem like someone who would stoop to petty theft. And you said you had no money, which was a lie. It wasn't even a useful item, so why the pottery...",
+      "tone": "accusing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha rested her chin on her hand, lost in thought.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Hmm.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Is that even possible?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "It is. It's called kleptomania. Of course, it wasn't like that from the start. I was an orphan.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's heart fluttered at the unexpected revelation.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha, like him, was abandoned by her biological parents.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "But it was far from a comfortable life. The mercenary band was full of strange folks. I think I was eleven when a notorious brute in the band tried to lay hands on me. Luckily, my adoptive father found out first and beat him up.",
+      "tone": "bitter"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Of course. Any parent would do that if their daughter was almost harmed.",
+      "tone": "supportive"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Hehe, would they really?",
+      "tone": "sarcastic"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "What?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha looked down at the bar with sad eyes.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It seemed her eyes were moistening.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "I was given a piece of bread and a glass of water every day. My adoptive father gave me nothing else. No clothes, no sweets, no toys. In the end, he was just raising me. That's when I started stealing others' belongings. One day, I was caught stealing an apple, but he calmly compensated for it. However, as soon as we got home, he changed and started beating me. Without a word, until I passed out.",
+      "tone": "bitter"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "That's terrible. If he could compensate, why didn't he just buy it in the first place? And why didn't you ask him to buy it for you?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "He wanted that. Submission to him. The only resistance I could muster was stealing things every day. Of course, I was beaten to death when caught. It was a dreadful routine. Then one day, I gave up on everything. So, I said to my adoptive father.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha supported her chin as if recalling that time.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "You can kill me if you want.",
+      "tone": "resigned"
+    }
+  ],
+  "source_hash": "8e236cc4d864fba172c141940ae8306fce6edb1e685e48aa5ee289e1282c55b5",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T16:01:48.618442+00:00"
+}

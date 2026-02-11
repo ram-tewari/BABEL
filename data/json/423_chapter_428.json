@@ -1,0 +1,745 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "Plu couldn't understand what Shirone was saying."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You've been here before?"
+    },
+    {
+      "type": "narrator",
+      "content": "Babel was known as the Tomb of Angels, a place that existed even before the citizens lived in Heaven."
+    },
+    {
+      "type": "narrator",
+      "content": "It was impossible for nineteen-year-old Shirone to have been here."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'm not sure, but…"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Hmm, maybe it's déjà vu?"
+    },
+    {
+      "type": "narrator",
+      "content": "Normally, it wouldn't be something to dwell on, but considering the steel golems had collapsed just before attacking Shirone, it wasn't something to ignore."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Let's move to another place. This area is too dangerous."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Wait. Are we just going to leave that behind?"
+    },
+    {
+      "type": "action",
+      "content": "A team member pointed to the electricity above the cone."
+    },
+    {
+      "type": "narrator",
+      "content": "Even if it wasn't an electric spirit, it was too valuable to abandon."
+    },
+    {
+      "type": "action",
+      "content": "Plu felt the same but had a bad feeling about it."
+    },
+    {
+      "type": "narrator",
+      "content": "The deceased team member wasn't weak, yet he couldn't even react before being torn apart by the shrapnel."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Shirone, what do you think?"
+    },
+    {
+      "type": "narrator",
+      "content": "Shirone stared intently at the glowing electricity."
+    },
+    {
+      "type": "narrator",
+      "content": "It wasn't clear, but a faint sense of familiarity, like a distant memory, washed over him."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Have I seen that before?"
+    },
+    {
+      "type": "action",
+      "content": "As Shirone searched his memories, he muttered, \"Ultima.\""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Huh? Shirone, what did you say?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What?"
+    },
+    {
+      "type": "narrator",
+      "content": "Shirone turned with a surprised expression."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "You just muttered something. Ultima?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Did I?"
+    },
+    {
+      "type": "action",
+      "content": "Plu nodded."
+    },
+    {
+      "type": "narrator",
+      "content": "She was meticulous, so it must be true, but Shirone genuinely couldn't remember."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "We should check it out."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "You know it could be dangerous, right?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "That's why we need to confirm it. The control device for Babel's traps might be in the control room."
+    },
+    {
+      "type": "action",
+      "content": "It made sense."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Alright. But I'll do the investigation."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Senior, that's…"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Listen to me. This is the kind of task a second-in-command handles."
+    },
+    {
+      "type": "action",
+      "content": "Plu approached the electricity, ready to take the risk to protect Shirone at all costs."
+    },
+    {
+      "type": "action",
+      "content": "She gently touched the electricity with Phoenix, and it crackled angrily but didn't react further."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hmm, it doesn't seem dangerous."
+    },
+    {
+      "type": "action",
+      "content": "At that moment, a team member leaped forward and grabbed the electricity with his hand."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Team Member",
+      "content": "It's mine!"
+    },
+    {
+      "type": "narrator",
+      "content": "It was the man with the long philtrum, assigned by Raesis to monitor Shirone."
+    },
+    {
+      "type": "narrator",
+      "content": "Despite his cold demeanor, he was just a human driven by greed."
+    },
+    {
+      "type": "action",
+      "content": "As the electricity flowed into his arm, he was convinced it was a spirit and shouted, \"Spirit, contract with me!\""
+    },
+    {
+      "type": "sfx",
+      "content": "Blue light spread through the control room as the spirit's power seeped into him."
+    },
+    {
+      "type": "action",
+      "content": "As the immense concept filled his mind, his eyes rolled back involuntarily."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Team Member",
+      "content": "This… this is… incredible…"
+    },
+    {
+      "type": "action",
+      "content": "As he muttered in ecstasy, his face suddenly exploded with a pop."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Foolish. How could he just grab it without checking?"
+    },
+    {
+      "type": "narrator",
+      "content": "It wasn't a lack of patience. The Nor's desire for spirits was that strong."
+    },
+    {
+      "type": "narrator",
+      "content": "Shirone and Plu, who could cast magic anytime through the Spirit Zone, couldn't understand that mindset."
+    },
+    {
+      "type": "action",
+      "content": "When Plu glared at the last remaining team member, he shook his head and raised his hands, stepping back."
+    },
+    {
+      "type": "narrator",
+      "content": "Nothing was more valuable than life, so it was a wise choice."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Shirone, do you still want to continue?"
+    },
+    {
+      "type": "narrator",
+      "content": "Plu asked, suggesting they stop, but Shirone felt more certain after the man's death."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Those who accessed this place were likely angels or Nephilim. The Immortal Function is fundamental here. The steel golems appeared because someone other than a Nephilim entered."
+    },
+    {
+      "type": "narrator",
+      "content": "Plu agreed that Shirone was probably right, given the circumstances."
+    },
+    {
+      "type": "narrator",
+      "content": "But with two deaths already, she had to caution him."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Be careful. There could still be unforeseen dangers."
+    },
+    {
+      "type": "action",
+      "content": "Nodding, Shirone reached out to the electricity."
+    },
+    {
+      "type": "narrator",
+      "content": "It didn't sting, and the electricity climbed up his hand like a living creature."
+    },
+    {
+      "type": "sfx",
+      "content": "Gasp!"
+    },
+    {
+      "type": "narrator",
+      "content": "He heard a rushing sound in his head, like a drill boring into his skull."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Ultima System - Universal Integrated Information System."
+    },
+    {
+      "type": "narrator",
+      "content": "In terms of the law, it was number 1."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Unique concepts, unmatched by anything else, tore through his mind at the speed of light."
+    },
+    {
+      "type": "sfx",
+      "content": "Ugh!"
+    },
+    {
+      "type": "action",
+      "content": "Shirone realized why the man's head had exploded. His own head felt like it might do the same."
+    },
+    {
+      "type": "narrator",
+      "content": "As he opened the Immortal Function, an immense sense of liberation washed over him, and the concepts of Ultima flowed into the infinite passage."
+    },
+    {
+      "type": "narrator",
+      "content": "His mind emptied."
+    },
+    {
+      "type": "action",
+      "content": "Only a thin, blue thread of light connected him to the outside of the passage."
+    },
+    {
+      "type": "action",
+      "content": "The last remaining team member approached, swallowing nervously."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Team Member",
+      "content": "What… what was that spirit?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Say that again."
+    },
+    {
+      "type": "narrator",
+      "content": "Hearing the man's voice without the drone's translation mode confirmed it."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "I was curious about the spirit's attribute."
+    },
+    {
+      "type": "narrator",
+      "content": "He couldn't understand the pronunciation, but the meaning seeped into his mind."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Who created this system?"
+    },
+    {
+      "type": "narrator",
+      "content": "It wasn't about the citizens' language. Any symbol in existence could be integrated and decoded into a single signal."
+    },
+    {
+      "type": "action",
+      "content": "When Shirone placed his hand on the cone, the electricity pierced his hand, activating the machinery."
+    },
+    {
+      "type": "action",
+      "content": "The flow of information was as clear as blood vessels."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "So that's the control device."
+    },
+    {
+      "type": "action",
+      "content": "Nodding at Plu's words, Shirone connected to the main circuit and explored Babel."
+    },
+    {
+      "type": "narrator",
+      "content": "The structure's layout, vast enough to be called a fortress, freely appeared in his mind."
+    },
+    {
+      "type": "sfx",
+      "content": "Thud! Thud!"
+    },
+    {
+      "type": "action",
+      "content": "Opening the control room wall revealed a tube-shaped glass chamber."
+    },
+    {
+      "type": "action",
+      "content": "A red cylindrical light shot up, spinning rapidly."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "That's the main elevator."
+    },
+    {
+      "type": "action",
+      "content": "The elevator, similar to the one in Aravot, transported the three of them 100 meters underground in an instant."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Wow, it's huge."
+    },
+    {
+      "type": "action",
+      "content": "The control room was so vast it was hard to see the end."
+    },
+    {
+      "type": "action",
+      "content": "A massive screen, likely ten times larger than life, floated in front, with a conical pillar similar to the one in the control room beside it."
+    },
+    {
+      "type": "action",
+      "content": "Shirone placed his hand on it without hesitation."
+    },
+    {
+      "type": "narrator",
+      "content": "Why did he feel like he'd been here before? Perhaps the answer lay here."
+    },
+    {
+      "type": "action",
+      "content": "Accessing the control room records through the Ultima System, the screen lit up."
+    },
+    {
+      "type": "narrator",
+      "content": "Shirone calmly searched, but to Plu, the pages seemed to flip rapidly, leaving afterimages."
+    },
+    {
+      "type": "action",
+      "content": "At some point, the screen stopped, displaying strange characters, neither Hena nor the citizens' language."
+    },
+    {
+      "type": "narrator",
+      "content": "Only Shirone's pupils moved, following the text."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Through the Ultima's single signal, the meaning was conveyed in a way he could understand."
+    },
+    {
+      "type": "action",
+      "content": "Record: Babel Project."
+    },
+    {
+      "type": "action",
+      "content": "Light Year Omega 133 - The first humanity, Gaia, overcame all biological challenges such as gender, disposition, and individuality, achieving an integrated mental system."
+    },
+    {
+      "type": "action",
+      "content": "Omega 187 - Gaia attempted to leave the photon system through the Ultima System but was blocked by Anke Ra's Akashic Record barrier."
+    },
+    {
+      "type": "action",
+      "content": "Omega 201 - Gaia declared war on Heaven. Ultima System clashed with Akashic Record."
+    },
+    {
+      "type": "action",
+      "content": "Omega 387 - Anke Ra attempted the first reset. Gaia thwarted it with the Ultima System."
+    },
+    {
+      "type": "action",
+      "content": "Omega 412 - Anke Ra's second reset attempt failed."
+    },
+    {
+      "type": "action",
+      "content": "Omega 666 - Gaia lost the final war. 90% of Gaia's population perished."
+    },
+    {
+      "type": "action",
+      "content": "Omega 689 - First resistance began. Gaia succeeded in implementing Halo by analyzing the angels' infinite algorithm."
+    },
+    {
+      "type": "action",
+      "content": "Omega 717 - Gaia created a strategic weapon to eliminate Anke Ra, named Babel."
+    },
+    {
+      "type": "action",
+      "content": "Omega 738 - Babel entered mass production."
+    },
+    {
+      "type": "action",
+      "content": "Omega 777 - Gaia lost the second resistance."
+    },
+    {
+      "type": "action",
+      "content": "Omega 799 - Gaia's representative (record deleted) proposed the second photon system exit possibility."
+    },
+    {
+      "type": "action",
+      "content": "Ultima System approval granted."
+    },
+    {
+      "type": "action",
+      "content": "Omega 892 - (record deleted) met with Anke Ra. Talks failed."
+    },
+    {
+      "type": "action",
+      "content": "Omega 927 - Anke Ra dismantled the Ultima System with the Elixir of Life."
+    },
+    {
+      "type": "action",
+      "content": "Gaia split into Kergos, Nor, and Mecha."
+    },
+    {
+      "type": "action",
+      "content": "Omega 987 - (record deleted) announced Ikael's (record deleted) to the citizens."
+    },
+    {
+      "type": "action",
+      "content": "Heaven fell into chaos."
+    },
+    {
+      "type": "action",
+      "content": "Omega 999 - The last Gaia (record deleted) exited the photon system."
+    },
+    {
+      "type": "action",
+      "content": "End of record."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "What is this…"
+    },
+    {
+      "type": "action",
+      "content": "Shirone stared blankly."
+    },
+    {
+      "type": "narrator",
+      "content": "The file recorded events between Gaia, the first humanity, and Anke Ra before the citizens were born."
+    },
+    {
+      "type": "narrator",
+      "content": "Gaia, who achieved an integrated mental system, created an ancient weapon called Babel to kill Anke Ra."
+    },
+    {
+      "type": "narrator",
+      "content": "But after losing the final war, Gaia split into three races: Kergos, Nor, and Mecha."
+    },
+    {
+      "type": "narrator",
+      "content": "The timeline was divided into percentages, so it was unclear how long a year was, but one thing was certain."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The last remaining Gaia, the one marked as (record deleted), left this record."
+    },
+    {
+      "type": "narrator",
+      "content": "There are two types of record deletions. One is Gaia's name, and the other is the significant crime Ikael committed."
+    },
+    {
+      "type": "action",
+      "content": "The screen reset."
+    },
+    {
+      "type": "action",
+      "content": "A single sentence, likely left by the last Gaia, flashed."
+    },
+    {
+      "type": "action",
+      "content": "Beyond infinity."
+    },
+    {
+      "type": "action",
+      "content": "As Shirone stared intently at it, Plu couldn't hold back and approached."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "What are you looking at? You can't even understand it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'll explain later. There's something we need to check. Follow me."
+    },
+    {
+      "type": "action",
+      "content": "Activating the control device opened a path through the iron wall."
+    },
+    {
+      "type": "action",
+      "content": "Babel lay at the end of that path, the ultimate weapon created by the first humanity to kill a god."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "What will it look like?"
+    },
+    {
+      "type": "action",
+      "content": "As they passed through the corridor, they entered a chamber resembling a womb."
+    },
+    {
+      "type": "action",
+      "content": "A spotlight-like beam of light illuminated something kneeling below."
+    },
+    {
+      "type": "action",
+      "content": "It was a sleek, black metallic woman, connected to numerous wires descending from the ceiling."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "An angel…"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No. It's Babel."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Babel?"
+    },
+    {
+      "type": "narrator",
+      "content": "Babel isn't the name of this place. It's an ancient weapon that mimics an angel's abilities."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What are you talking about? You've been saying strange things for a while now. Explain properly…"
+    },
+    {
+      "type": "sfx",
+      "content": "Whirrrrr!"
+    },
+    {
+      "type": "action",
+      "content": "The facility's systems activated, and power flowed through the wires into Babel, as relayed by the Ultima System."
+    },
+    {
+      "type": "narrator",
+      "content": "In this area where lightning struck continuously, there was no issue with power supply, but the output was immense."
+    },
+    {
+      "type": "action",
+      "content": "Babel's body began to vibrate intensely as it absorbed the entire structure's power."
+    },
+    {
+      "type": "narrator",
+      "content": "It was like a fetus finally being born, having absorbed all its mother's nutrients through the womb."
+    },
+    {
+      "type": "action",
+      "content": "Babel's slender neck straightened, and her kneeling legs rose as if in zero gravity."
+    },
+    {
+      "type": "action",
+      "content": "Standing over 2 meters tall with a slender figure, her blue wings expanded, revealing her beautiful face."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ikael?"
+    },
+    {
+      "type": "action",
+      "content": "Babel's eyes lit up with a red glow, and a bright white halo spun above her head, emitting a high-pitched noise close to a roar."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Sh-Shirone, let's get out of here."
+    },
+    {
+      "type": "narrator",
+      "content": "Plu's shoulders trembled."
+    },
+    {
+      "type": "narrator",
+      "content": "The power she felt was beyond imagination, truly mimicking an angel."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Was the chairman planning to fight something like this?"
+    },
+    {
+      "type": "action",
+      "content": "Babel, hovering about a meter above the ground, took in the sight of the three people below."
+    },
+    {
+      "type": "action",
+      "content": "Babel program activated. Applying Kariel algorithm."
+    },
+    {
+      "type": "action",
+      "content": "Primary objective: Eliminate intruders."
+    },
+    {
+      "type": "sfx",
+      "content": "Crackle!"
+    },
+    {
+      "type": "action",
+      "content": "Babel's form shifted into an electric tangle and vanished. At the same time, a blade-like hand stopped right in front of Shirone's face."
+    },
+    {
+      "type": "sfx",
+      "content": "Only after hearing the clear sound of the fingertips did Shirone realize his situation."
+    },
+    {
+      "type": "action",
+      "content": "His arm was frozen in place, and Babel's face slowly approached, examining him."
+    },
+    {
+      "type": "action",
+      "content": "Warning! Warning!"
+    },
+    {
+      "type": "action",
+      "content": "Higher algorithm deems attack impossible."
+    },
+    {
+      "type": "narrator",
+      "content": "Cause analysis: Gaia Code Number 2 detected. Checking Ultima System application. Confirmed."
+    },
+    {
+      "type": "action",
+      "content": "Result: Absolute non-aggression target."
+    },
+    {
+      "type": "action",
+      "content": "Babel, locking eyes with Shirone, slowly withdrew her hand and stepped back with metallic clanks."
+    },
+    {
+      "type": "action",
+      "content": "Reapplying Kariel algorithm."
+    },
+    {
+      "type": "action",
+      "content": "Secondary objective: Eliminate all citizens."
+    },
+    {
+      "type": "sfx",
+      "content": "Whirrrrr!"
+    },
+    {
+      "type": "action",
+      "content": "As the halo spun, Babel's body lightly floated."
+    },
+    {
+      "type": "action",
+      "content": "Just as the terrified trio looked up, electricity enveloped Babel, and she shot through the ceiling with a deafening roar."
+    },
+    {
+      "type": "sfx",
+      "content": "Ugh!"
+    },
+    {
+      "type": "action",
+      "content": "The three, regaining their balance in the shaking room, could only stare blankly at the perfectly round hole in the ceiling."
+    },
+    {
+      "type": "action",
+      "content": "The black angel had descended."
+    }
+  ],
+  "source_hash": "f5b0d9b9e6cacc8242f4fd54c78ca0e54837bf51c184eadc90539ebe3d65e009",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T06:18:37.285259Z"
+}

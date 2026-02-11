@@ -1,0 +1,1581 @@
+{
+  "blocks": [
+    {
+      "type": "dialogue",
+      "speaker": "Lucia",
+      "content": "Ughhh!",
+      "tone": "pain"
+    },
+    {
+      "type": "action",
+      "content": "Shirone looked down at the writhing Lucia."
+    },
+    {
+      "type": "action",
+      "content": "He wore a sorrowful expression."
+    },
+    {
+      "type": "narrator",
+      "content": "The emotional disease that started in Tormia had reached the Vatican, carried by the wind."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "It means it has almost circled the planet."
+    },
+    {
+      "type": "narrator",
+      "content": "No one could escape it."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The guidelines from the World Health Organization can control the emotional disease to some extent. But for Lucia…"
+    },
+    {
+      "type": "narrator",
+      "content": "There was nothing left to give up."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "No, she can't give up. All the guidelines she follows in the name of God."
+    },
+    {
+      "type": "action",
+      "content": "Glen was out of his mind."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Glen",
+      "content": "Lucia, just hold on a little longer! I'll cure you! I'll definitely take you to the Pyramid of Truth…!"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucia",
+      "content": "Oww! Aaaah!",
+      "tone": "pain"
+    },
+    {
+      "type": "action",
+      "content": "Shirone asked coldly:"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What happened?",
+      "tone": "cold"
+    },
+    {
+      "type": "action",
+      "content": "Earth Dragon Argan answered in a low voice:"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Earth Dragon Argan",
+      "content": "There are rumors that a pilgrim who approached the Pyramid of Truth was cured of the emotional disease."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I hadn't heard that."
+    },
+    {
+      "type": "narrator",
+      "content": "If it were true, Seriel would have intervened."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Earth Dragon Argan",
+      "content": "It seems the Kingdom of Paras controlled the information. But recently, more pilgrims have been coming. It's only a matter of time before the information spreads beyond the borders."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "…So the king allowed access."
+    },
+    {
+      "type": "narrator",
+      "content": "It was a decision to reveal the truth of the pyramid before the situation became uncontrollable."
+    },
+    {
+      "type": "action",
+      "content": "Ares spoke:"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ares",
+      "content": "Sorry for not telling you earlier. Initially, I wanted to explore the pyramid out of pure curiosity. Then the emotional disease broke out, and Glen and Lucia joined. Lucia's situation is special. She can't hold on any longer."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ares",
+      "content": "There are a few treatments for the emotional disease. First, the World Health Organization's guidelines. And I've heard that someone named Giyorgi can alleviate the symptoms."
+    },
+    {
+      "type": "action",
+      "content": "Shirone's eyes sharpened."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ares",
+      "content": "But he's a demon. The Lami faith would never accept that method. Then I heard rumors about Yahweh. I don't know if it's true, but you also…"
+    },
+    {
+      "type": "action",
+      "content": "Ares hesitated for a moment."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ares",
+      "content": "…have the ability to suppress the emotional disease?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes."
+    },
+    {
+      "type": "action",
+      "content": "Glen turned his head and shouted:"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Glen",
+      "content": "Ares! Don't say such nonsense! A priest of the Lami faith receiving help from Yahweh!",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucia",
+      "content": "Aaaah!",
+      "tone": "pain"
+    },
+    {
+      "type": "action",
+      "content": "Lucia couldn't hold back her screams."
+    },
+    {
+      "type": "action",
+      "content": "Glen's face turned pale."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Glen",
+      "content": "Lucia! Lucia!",
+      "tone": "distressed"
+    },
+    {
+      "type": "action",
+      "content": "Watching this, Shirone said:"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "But I can't cure it completely either. If she doesn't receive regular blessings from me, it will relapse."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ares",
+      "content": "…I see."
+    },
+    {
+      "type": "action",
+      "content": "Ares reached into his inner pocket."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ares",
+      "content": "Our last resort, the one we found in the southern continent, is this."
+    },
+    {
+      "type": "action",
+      "content": "He pulled out a vial and a syringe."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ares",
+      "content": "Angel's Tears, Angel."
+    },
+    {
+      "type": "action",
+      "content": "He presented all four methods to counter the emotional disease and said:"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ares",
+      "content": "I brought it just in case. We can endure it, but Lucia won't give up on anything."
+    },
+    {
+      "type": "action",
+      "content": "Even in pain, Lucia shook her head weakly at Ares's words."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucia",
+      "content": "No, Glen. A priest shouldn't rely on such things… I'll endure it… Aaaah!",
+      "tone": "pain"
+    },
+    {
+      "type": "narrator",
+      "content": "Everyone afflicted with the emotional disease knew it was not a pain they could endure."
+    },
+    {
+      "type": "action",
+      "content": "Glen choked up:"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Glen",
+      "content": "Lucia, just this once. Take this medicine. Then I'll take you to the Pyramid of Truth…"
+    },
+    {
+      "type": "action",
+      "content": "Lucia gave a faint smile."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucia",
+      "content": "Glen, I will definitely return to the Vatican. The Pope… will acknowledge me."
+    },
+    {
+      "type": "action",
+      "content": "The Papal States."
+    },
+    {
+      "type": "narrator",
+      "content": "North of the Mediterranean lies the Vatican, the headquarters of the world's largest religion, Ramianism."
+    },
+    {
+      "type": "action",
+      "content": "Shirone, Iruki, and Neide arrived in the Papal States early in the morning, having paused their pilgrimage across the central continent."
+    },
+    {
+      "type": "action",
+      "content": "Neide glanced around nervously."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "Do you think it'll be alright? If they realize you're Yahweh, the Vatican won't leave you alone."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "There's no choice. The Holy War is about to begin. If I don't meet the Pope now, I won't get another chance."
+    },
+    {
+      "type": "narrator",
+      "content": "As Yahweh, who had fought demons during their pilgrimage, Shirone was now a globally recognized figure."
+    },
+    {
+      "type": "narrator",
+      "content": "The Vatican could not ignore him, and they had frequently deployed the Holy Knights to hinder him."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "The Vatican..."
+    },
+    {
+      "type": "action",
+      "content": "The tall spires, exuding an aura of reverence, soon came into view."
+    },
+    {
+      "type": "sfx",
+      "content": "Extra! Extra!"
+    },
+    {
+      "type": "action",
+      "content": "Bald priests carrying bundles of newspapers distributed them to passersby."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What's going on?"
+    },
+    {
+      "type": "narrator",
+      "content": "The Vatican's official newspaper often reported significant events from dioceses worldwide, but a special edition was rare."
+    },
+    {
+      "type": "action",
+      "content": "Iruki approached the priests on Shirone's behalf."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Can I have one, please?"
+    },
+    {
+      "type": "action",
+      "content": "The priest, focused solely on handing out newspapers, passed one to him without a glance."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Hmm."
+    },
+    {
+      "type": "action",
+      "content": "Iruki scanned the headline: 'An Impending Holy War: World Leaders Stake Humanity's Future on God's Decree.'"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "So, it's come to this.",
+      "tone": "murmuring"
+    },
+    {
+      "type": "narrator",
+      "content": "The Holy War would determine humanity's leading nations."
+    },
+    {
+      "type": "narrator",
+      "content": "Public opinion largely believed this would be the last Holy War, given the dire global circumstances."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Twelve nations will participate this time."
+    },
+    {
+      "type": "narrator",
+      "content": "Eligibility was based on factors like GDP, population, and military strength."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "In the past, the Triumvirate Nations led the Holy War as permanent council members. This time, the 12 nations will compete as non-permanent members, with Pope Constantine observing. Once a leading nation is chosen, it will be officially recognized by Ramianism."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "The leading nation will be decided by power dynamics, but religion ensures rapid acceptance of the results worldwide. With the Pope's declarations protected under international law, it's a strategic move."
+    },
+    {
+      "type": "narrator",
+      "content": "Ramianism's influence was so pervasive that even non-believers equated 'God' with the Ramian God."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "It's a win for the Vatican too. In this apocalyptic era, where new religions are gaining traction, this is their chance to reclaim dominance over the religious sphere."
+    },
+    {
+      "type": "action",
+      "content": "Shirone nodded."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I agree that uniting the world's powers is necessary. But it won't be as simple as it sounds..."
+    },
+    {
+      "type": "action",
+      "content": "Neide flipped through the newspaper."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "Every article is about the Emotion Disease. Their intelligence network is incredible. Just reading this paper gives you a snapshot of global issues."
+    },
+    {
+      "type": "action",
+      "content": "Then Shirone's eyes caught an article."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Wait a second. Look at this..."
+    },
+    {
+      "type": "action",
+      "content": "The article's headline read: 'Where Is Priestess Lucia?'"
+    },
+    {
+      "type": "action",
+      "content": "Shirone read every word carefully."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Interesting. The Vatican's top priestess, once called the 'Essence of God,' has been excommunicated?",
+      "tone": "muttering"
+    },
+    {
+      "type": "narrator",
+      "content": "Lucia, a devout believer who rose to priesthood, was renowned as the Vatican's greatest priestess."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "She must've been extraordinarily gifted. Even infamous criminals reportedly knelt before her."
+    },
+    {
+      "type": "action",
+      "content": "Shirone kept reading:"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "She's cursed by demons. Not only did she injure High Priest Maximus, the Vatican's third-ranking official, but..."
+    },
+    {
+      "type": "action",
+      "content": "The article concluded with claims that the brilliant Priest Glen had succumbed to Lucia's temptations."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "A joint escape, huh? Since it's written from the Vatican's perspective, we can't trust it entirely. It could've been a romantic elopement. High-ranking priests and paladins are bound by vows of celibacy, after all."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "But they're not high-ranking yet. Though they probably would've been someday. Shirone, why does this article matter?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I know them."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "A simultaneous event?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes. They're in the Paras Kingdom right now. I was wondering why they were so fixated on the Pyramid of Truth..."
+    },
+    {
+      "type": "action",
+      "content": "The Vatican."
+    },
+    {
+      "type": "action",
+      "content": "Atop the highest spire, Pope Constantine overlooked the Papal States."
+    },
+    {
+      "type": "sfx",
+      "content": "Knock on the door."
+    },
+    {
+      "type": "action",
+      "content": "A communication priest from the Diocesan Administration arrived."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Communication Priest",
+      "content": "Your Holiness, the special edition has been distributed. Soon, the entire world will know."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pope Constantine",
+      "content": "Well done.",
+      "tone": "serene smile"
+    },
+    {
+      "type": "action",
+      "content": "He seemed to radiate light."
+    },
+    {
+      "type": "narrator",
+      "content": "He was known as the world's strongest clergyman."
+    },
+    {
+      "type": "narrator",
+      "content": "A peculiar title for a clergyman, but fitting in these demon-plagued times."
+    },
+    {
+      "type": "thought",
+      "speaker": "Communication Priest",
+      "content": "He's the one who can stand against all demons and lead us to God's path."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pope Constantine",
+      "content": "I've read the special edition. It was well done."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Communication Priest",
+      "content": "You honor us, Your Holiness. Your decision to follow WHO guidelines was a profound and inspiring choice."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pope Constantine",
+      "content": "And Lucia?"
+    },
+    {
+      "type": "action",
+      "content": "The priest flinched."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Communication Priest",
+      "content": "It diverged slightly from my intentions. Not that I underestimate her abilities..."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Communication Priest",
+      "content": "My apologies. But if Your Holiness shows favoritism toward Lucia, it will undermine the Vatican's authority. After all, she—"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pope Constantine",
+      "content": "Favoritism?"
+    },
+    {
+      "type": "action",
+      "content": "Realizing his mistake, the priest bowed deeply."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Communication Priest",
+      "content": "I'm sorry!"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pope Constantine",
+      "content": "It's alright. Everyone makes mistakes. Following God doesn't make us God. Many forget that, even High Priest Maximus."
+    },
+    {
+      "type": "action",
+      "content": "The priest hesitated."
+    },
+    {
+      "type": "narrator",
+      "content": "He knew it was risky for Constantine to criticize the Vatican's third-ranking official."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pope Constantine",
+      "content": "Haha! Does it matter? I'm not reprimanding anyone. Maximus, Lucia, even myself—we all make mistakes. Life is complicated.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Communication Priest",
+      "content": "That's why we have doctrine, Your Holiness. To adhere to God's will. Lucia violated that doctrine, and her excommunication was justified."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pope Constantine",
+      "content": "Poor girl...",
+      "tone": "pity"
+    },
+    {
+      "type": "action",
+      "content": "Constantine's eyes gleamed as he asked:"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pope Constantine",
+      "content": "Tell me, why do you believe in God?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Communication Priest",
+      "content": "...Pardon me?"
+    },
+    {
+      "type": "narrator",
+      "content": "Such a question seemed almost blasphemous coming from the Pope himself."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pope Constantine",
+      "content": "If we wish to create a good world, isn't it enough to simply live kindly? Even if God created us, isn't it enough to live gratefully? Why, then, do we believe in God?"
+    },
+    {
+      "type": "action",
+      "content": "Finally, the priest's expression turned serious."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Communication Priest",
+      "content": "I don't know..."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pope Constantine",
+      "content": "Because we hope this isn't the end."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pope Constantine",
+      "content": "We believe in God because we yearn for eternity, seeking to transcend fleeting emptiness. That is the task given to us as religious leaders."
+    },
+    {
+      "type": "action",
+      "content": "The priest shrank slightly under the weight of his words."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pope Constantine",
+      "content": "People easily forget death, but we cannot. Clergy aren't responsible for life—we're responsible for death."
+    },
+    {
+      "type": "action",
+      "content": "Pope Constantine spoke about the certainty of endlessness."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pope Constantine",
+      "content": "Can you take responsibility for another's death? Can I take responsibility for humanity's death?"
+    },
+    {
+      "type": "monologue",
+      "speaker": "Pope Constantine",
+      "content": "The one who accepts responsibility will be the one used by God."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pope Constantine",
+      "content": "I wish to see Lucia. And Glen, too."
+    },
+    {
+      "type": "action",
+      "content": "After hesitating, the priest finally bowed and said:"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Communication Priest",
+      "content": "I'll prepare an article for the next issue."
+    },
+    {
+      "type": "action",
+      "content": "Nagnag Oasis."
+    },
+    {
+      "type": "narrator",
+      "content": "Lucia's screams were so harrowing that everyone in the tavern had fled, leaving only Shirone, Ares, and their companions anxiously waiting for her decision."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucia",
+      "content": "No. The pain won't stop. Lucia won't abandon anything.",
+      "tone": "gasping, determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucia",
+      "content": "Angel."
+    },
+    {
+      "type": "action",
+      "content": "Before Ares could act, Glen grabbed the syringe and injected the substance himself."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucia",
+      "content": "Glen, I...",
+      "tone": "protesting"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Glen",
+      "content": "I'm sorry, Lucia."
+    },
+    {
+      "type": "action",
+      "content": "Unable to watch any longer, Glen pressed the needle into her frail arm."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucia",
+      "content": "No! No!",
+      "tone": "protesting, in pain"
+    },
+    {
+      "type": "action",
+      "content": "Even as she writhed in pain, her resistance was fierce."
+    },
+    {
+      "type": "action",
+      "content": "Then, suddenly, her eyes widened, and she gasped deeply."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucia",
+      "content": "Ahhhhhh!",
+      "tone": "pain/shock"
+    },
+    {
+      "type": "action",
+      "content": "Brilliant light enveloped her."
+    },
+    {
+      "type": "action",
+      "content": "The veins protruding on her face began to subside."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ares",
+      "content": "Shirone..."
+    },
+    {
+      "type": "action",
+      "content": "Ares stepped back."
+    },
+    {
+      "type": "action",
+      "content": "Glen turned toward Shirone, his face filled with astonishment."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Glen",
+      "content": "Yahweh..."
+    },
+    {
+      "type": "action",
+      "content": "A Miracle Stream was flowing."
+    },
+    {
+      "type": "system_notification",
+      "content": "Γùå Γùå Γùå"
+    },
+    {
+      "type": "action",
+      "content": "Glen frowned."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Glen",
+      "content": "What are you doing?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Lucia will be fine for now."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Glen",
+      "content": "I mean, what are you doing! Do you think she endured this because of the pain?",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's better than Angel."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Glen",
+      "content": "You're wrong! I'd rather use drugs than accept help from a heretic. In the Lami faith, we must never…",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucia",
+      "content": "Glen."
+    },
+    {
+      "type": "action",
+      "content": "Lucia's changed voice made Glen flinch."
+    },
+    {
+      "type": "action",
+      "content": "He turned his head."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucia",
+      "content": "I'm okay now."
+    },
+    {
+      "type": "action",
+      "content": "Seeing the calm in her eyes, Glen couldn't say anything."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Glen",
+      "content": "Why?"
+    },
+    {
+      "type": "action",
+      "content": "He clenched his fist."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I know that Yahweh's criteria for treating the emotional disease are those who fight for the world."
+    },
+    {
+      "type": "narrator",
+      "content": "Without such criteria, people all over the world would cling to Yahweh."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Glen",
+      "content": "But we are priests of the Lami faith. Helping you means denying our faith."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You don't need to deny it. I just suppressed Lucia's emotional disease."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Glen",
+      "content": "You broke your own rules! If you save Lucia, you have to save others too! But you can't do that. The whole world will condemn you!",
+      "tone": "accusing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Then let them condemn me."
+    },
+    {
+      "type": "action",
+      "content": "Glen's expression turned blank."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "The important thing is to achieve better results, not to stick to my rules. I'm not doing this to be loved or recognized by anyone. I just…"
+    },
+    {
+      "type": "narrator",
+      "content": "He had one wish."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I just want everyone to be happy."
+    },
+    {
+      "type": "action",
+      "content": "A moment of silence followed."
+    },
+    {
+      "type": "action",
+      "content": "The apostles watched Shirone with reverence."
+    },
+    {
+      "type": "action",
+      "content": "Glen bowed his head."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Glen",
+      "content": "Damn…"
+    },
+    {
+      "type": "action",
+      "content": "A hand rested on his shoulder."
+    },
+    {
+      "type": "action",
+      "content": "When he turned his head, he saw Lucia, supported by Ares, smiling."
+    },
+    {
+      "type": "narrator",
+      "content": "Her expression said it all."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucia",
+      "content": "I'm sorry."
+    },
+    {
+      "type": "action",
+      "content": "Glen turned back to Shirone and said:"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Glen",
+      "content": "I lost my reason in my haste. Give me a chance to explain. Lucia and I…"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I know. I read about you in the Vatican's official newspaper. I heard you were excommunicated."
+    },
+    {
+      "type": "action",
+      "content": "Lucia spoke:"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucia",
+      "content": "Glen and I are in love. But to become senior priests, we must follow the vow of celibacy. High Priest Maximus told me to break up with Glen. I got angry, and then…"
+    },
+    {
+      "type": "action",
+      "content": "She raised her left hand."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucia",
+      "content": "A new ability manifested."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ability?"
+    },
+    {
+      "type": "action",
+      "content": "Glen explained:"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Glen",
+      "content": "Lucia has incredibly powerful abilities, unmatched even in the Vatican. That's why the High Priest disliked me. Because Lucia's future was at risk because of me."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucia",
+      "content": "Glen."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Glen",
+      "content": "I'm not resentful. I would have done the same. Anyway, Lucia has an amazing ability. They call her the Right Hand of God."
+    },
+    {
+      "type": "action",
+      "content": "Lucia approached Shirone."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucia",
+      "content": "I'll show you."
+    },
+    {
+      "type": "action",
+      "content": "Frigi and Argan started to move."
+    },
+    {
+      "type": "action",
+      "content": "Shirone stopped them."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's okay. I want to know too."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucia",
+      "content": "My right hand…"
+    },
+    {
+      "type": "action",
+      "content": "When Lucia gently grasped Shirone's wrist, all the strength drained from his body."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Huh?"
+    },
+    {
+      "type": "action",
+      "content": "Lucia supported Shirone and laid him on the ground."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucia",
+      "content": "It relaxes all living beings to the extreme."
+    },
+    {
+      "type": "narrator",
+      "content": "It wasn't confinement."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "It feels like a pleasant exhaustion. I can't move a finger, but there's no anxiety."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucia",
+      "content": "No one has ever escaped this state. Not even Yaksha or Banya."
+    },
+    {
+      "type": "narrator",
+      "content": "It was indeed powerful."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "But you can escape it."
+    },
+    {
+      "type": "action",
+      "content": "As Shirone, deep in thought, raised his hand, Glen's eyes widened."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Glen",
+      "content": "How?"
+    },
+    {
+      "type": "action",
+      "content": "Lucia helped Shirone up and said:"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucia",
+      "content": "Scholars call it an extraordinary phenomenon, but in the Lami faith, we call it a miracle."
+    },
+    {
+      "type": "narrator",
+      "content": "Both were matters of faith."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucia",
+      "content": "I can touch the mind of the subject. It feels like water. That's where it is decided. Unlike the mind, the heart has no defenses, so to overcome the Right Hand of God, the heart itself must be strong."
+    },
+    {
+      "type": "action",
+      "content": "Lucia looked bitter."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucia",
+      "content": "When I grabbed your wrist, honestly, I was dizzy. It felt like I was sinking into the ocean, not just touching water."
+    },
+    {
+      "type": "narrator",
+      "content": "She felt Yahweh's heart."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucia",
+      "content": "I have reformed many villains with this ability. But during my scolding by High Priest Maximus, a new ability awakened, perhaps because of a bad heart."
+    },
+    {
+      "type": "action",
+      "content": "Lucia raised her other hand."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucia",
+      "content": "The Left Hand of the Devil."
+    },
+    {
+      "type": "narrator",
+      "content": "The reason a priest of the Lami faith called it the Devil's Hand was because it was true."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucia",
+      "content": "Any living being touched by my left hand twists and crumples itself. I quickly withdrew my hand, but High Priest Maximus's elbow was broken."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "…That's incredible."
+    },
+    {
+      "type": "action",
+      "content": "Lucia nodded at Shirone's honest response."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucia",
+      "content": "Yes. The strength of the ability matches the Right Hand of God. I won't deny the name Devil. I feel ashamed and nauseous, but…"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "That's the nature of the ability."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucia",
+      "content": "Yes. Like the extraordinary phenomenon, the miracle is also a function of the heart. I was excommunicated for it, but I'm sure. If I can subdue the Devil's Left Hand, it will prove my faith."
+    },
+    {
+      "type": "narrator",
+      "content": "That was her story."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucia",
+      "content": "Yahweh, no, Shirone. Our beliefs may differ, but I saw that your heart is not different from mine. So please…"
+    },
+    {
+      "type": "action",
+      "content": "She bowed her head."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucia",
+      "content": "Take me to the Pyramid of Truth."
+    },
+    {
+      "type": "action",
+      "content": "Ares's beard lifted with his smile."
+    },
+    {
+      "type": "action",
+      "content": "Glen looked away, muttering:"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Glen",
+      "content": "…It will be helpful."
+    },
+    {
+      "type": "action",
+      "content": "Shirone exchanged glances with Kanis, Arin, and Zulu, then nodded."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Alright."
+    },
+    {
+      "type": "action",
+      "content": "The Kingdom of Jive."
+    },
+    {
+      "type": "action",
+      "content": "Two days before the Holy War, rulers from across the world began arriving in the Kingdom of Jive."
+    },
+    {
+      "type": "action",
+      "content": "A towering man in his mid-thirties, seated on the throne with a finely groomed beard, declared:"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "King Gith",
+      "content": "Tomorrow is the eve of the festival."
+    },
+    {
+      "type": "narrator",
+      "content": "This was King Gith, the Steel King, who had overthrown King Mayer and ascended to the throne through an election."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "King Gith",
+      "content": "It will also be the day I become king of the world."
+    },
+    {
+      "type": "narrator",
+      "content": "Jive's annual GDP stood at 3,224 trillion gold, with 44 trillion allocated to defense."
+    },
+    {
+      "type": "narrator",
+      "content": "The nation boasted nine certified First-Class Mages and had produced the era's enlightened leader, Nane."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Satiel",
+      "content": "Hey, King!"
+    },
+    {
+      "type": "action",
+      "content": "The doors burst open."
+    },
+    {
+      "type": "action",
+      "content": "A towering archangel strode in."
+    },
+    {
+      "type": "narrator",
+      "content": "Satiel, Archangel of Disintegration, dwarfed the humans around her."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Satiel",
+      "content": "How much longer do you intend to make me wait? I'm eager to disintegrate Ikael."
+    },
+    {
+      "type": "action",
+      "content": "A ripple of unease crossed Gith's otherwise composed expression."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "King Gith",
+      "content": "By tomorrow, you'll be free to act. Consider this a test of patience for your vengeance."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Satiel",
+      "content": "Patience? I wasn't supposed to negotiate with humans in the first place. The angels under me could handle this easily."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "King Gith",
+      "content": "You may destroy the target, but you cannot annihilate what lies within. Trust me, Ikael will shed tears of blood before this is over."
+    },
+    {
+      "type": "narrator",
+      "content": "The one thing Ikael could not endure was seeing Shirone fall into ruin—a task only humans could achieve."
+    },
+    {
+      "type": "narrator",
+      "content": "This was why Satiel had allied with Jive."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "King Gith",
+      "content": "Everything is proceeding as planned."
+    },
+    {
+      "type": "narrator",
+      "content": "The Holy War being hosted in Jive was no coincidence; the Triumvirate Nations had swiftly approved it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "King Gith",
+      "content": "They likely have their intelligence networks in place, but knowing changes nothing. Angels don't break contracts."
+    },
+    {
+      "type": "narrator",
+      "content": "Satiel's forces were already considered part of Jive's arsenal."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Official",
+      "content": "Your Majesty, the participating nations are arriving. Tormia, Kashan, and Corona have crossed the border."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "King Gith",
+      "content": "Hmm."
+    },
+    {
+      "type": "thought",
+      "speaker": "King Gith",
+      "content": "Feeling like the center of the world wasn't unpleasant."
+    },
+    {
+      "type": "action",
+      "content": "Gith rose from his throne."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "King Gith",
+      "content": "Excellent. Let's go greet them, shall we?"
+    },
+    {
+      "type": "action",
+      "content": "The Procession of Nations."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Announcer",
+      "content": "Presenting! The Kingdom of Tormia!"
+    },
+    {
+      "type": "action",
+      "content": "The gates of Jive's outer walls opened."
+    },
+    {
+      "type": "action",
+      "content": "Tormia's delegation entered on horseback."
+    },
+    {
+      "type": "action",
+      "content": "King Pony rode in the center, flanked by Shirone and the Guardian Corps, who formed a defensive barrier."
+    },
+    {
+      "type": "action",
+      "content": "Captain Ozentr Rai issued orders:"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Captain Ozentr Rai",
+      "content": "Watch for snipers. React immediately to any suspicious activity. I'll take full responsibility for the outcome."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Subordinates",
+      "content": "Yes, sir!"
+    },
+    {
+      "type": "action",
+      "content": "His subordinates scanned the area sharply."
+    },
+    {
+      "type": "action",
+      "content": "An elderly voice chuckled nearby."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Merkodain Albino",
+      "content": "The new captain seems tense."
+    },
+    {
+      "type": "narrator",
+      "content": "This was Merkodain Albino, head of Tormia's think tank, Dragon Lightning."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Merkodain Albino",
+      "content": "Don't expend all your energy at the start. Every nation here is effectively at war. Nobody pushes others off the tightrope."
+    },
+    {
+      "type": "action",
+      "content": "Rai remained steadfast."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Captain Ozentr Rai",
+      "content": "Tormia is a relatively small nation. Anything could happen. Don't worry—I won't lose focus."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Merkodain Albino",
+      "content": "Reassuring."
+    },
+    {
+      "type": "narrator",
+      "content": "Tormia's annual GDP was 1,700 trillion gold, with 24 trillion dedicated to defense."
+    },
+    {
+      "type": "narrator",
+      "content": "The nation had three certified First-Class Mages, along with the era's benevolent figure Yahweh, the righteous Miro, and exclusive technology for elemental bombs."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Merkodain Albino",
+      "content": "A leadership nation, hmm?"
+    },
+    {
+      "type": "action",
+      "content": "Albino's smile twisted into something grotesque as he gazed beyond the Guardian Corps."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Merkodain Albino",
+      "content": "A gamble worth taking."
+    },
+    {
+      "type": "action",
+      "content": "Meanwhile, Shirone's attention was drawn to the procession from the Kingdom of Corona passing in the distance."
+    },
+    {
+      "type": "narrator",
+      "content": "Corona's entourage included numerous residents of the Ivory Tower, along with some of the Stars."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Minerva isn't here. Is she too preoccupied holding back Baal? Or is she…"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "…keeping an eye on Sing?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lupist",
+      "content": "Shirone."
+    },
+    {
+      "type": "action",
+      "content": "Lupist approached, accompanied by Plu and Dante."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lupist",
+      "content": "What about Gaold?"
+    },
+    {
+      "type": "narrator",
+      "content": "If Miro and Gaold joined Tormia, the balance of power would shift drastically."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "There's no connection yet. Let's wait a bit longer. If he were dead, I wouldn't be here either."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lupist",
+      "content": "...True."
+    },
+    {
+      "type": "action",
+      "content": "Shirone glanced behind him."
+    },
+    {
+      "type": "action",
+      "content": "A procession of officials was followed by the military, and behind them trailed the entertainers."
+    },
+    {
+      "type": "action",
+      "content": "Court musician Reina led the group, alongside Maya and Kaiden."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Where's Kuan? Is he with the teachers?"
+    },
+    {
+      "type": "narrator",
+      "content": "Among the educators attending the Humanity's Future Forum was Siena."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He wouldn't approach me in person. Then again, maybe he's closer than I realize."
+    },
+    {
+      "type": "action",
+      "content": "In the Skies."
+    },
+    {
+      "type": "action",
+      "content": "Contrary to Shirone's thoughts, Kuan had left the Tormia procession and was high above, observing the Kashan Empire's convoy."
+    },
+    {
+      "type": "action",
+      "content": "His gaze locked onto the Wind General guarding Wuorin."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kuan",
+      "content": "Time to cut their momentum."
+    },
+    {
+      "type": "action",
+      "content": "Meanwhile, Captain Kido of the Guardian Corps frowned."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Captain Kido",
+      "content": "This is irritating. Feels like someone's watching us from above. Should I bring them down?"
+    },
+    {
+      "type": "action",
+      "content": "The Wind General remained silent."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wuorin",
+      "content": "Let it go. You won't catch them anyway."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Captain Kido",
+      "content": "Are you mocking me? Why even appoint me as captain if this is how you treat me?",
+      "tone": "annoyed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wuorin",
+      "content": "Haha! Because I'm bored. This Holy War looks stressful enough as it is.",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "content": "As Kido glared, another officer, Gando, pointed ahead."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gando",
+      "content": "Your Majesty, look there."
+    },
+    {
+      "type": "action",
+      "content": "In the vast square leading to Jive's inner city, the delegations of Tormia, Corona, and Kashan converged."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wuorin",
+      "content": "Who enters first?"
+    },
+    {
+      "type": "action",
+      "content": "King Woodlai of Corona smiled diplomatically."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "King Woodlai",
+      "content": "Shall we avoid unnecessary pride contests and enter in the order we arrived?"
+    },
+    {
+      "type": "narrator",
+      "content": "Corona had arrived five seconds earlier."
+    },
+    {
+      "type": "action",
+      "content": "Wuorin smirked."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wuorin",
+      "content": "Still, this is the Holy War. Shouldn't there be some special treatment? Kashan will go first."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "King Woodlai",
+      "content": "Special treatment?",
+      "tone": "questioning"
+    },
+    {
+      "type": "action",
+      "content": "Woodlai's lips curled."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "King Woodlai",
+      "content": "True, this is Corona's first Holy War. But surely the Empress of Kashan knows it's not because of weak national power."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wuorin",
+      "content": "Is that so? I wasn't aware there were nations stronger than Kashan."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "King Woodlai",
+      "content": "Haha! Fine, if the fallen empire's princess insists on preserving her pride, I'll indulge her this once.",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "content": "Just then, smoke rose behind Wuorin."
+    },
+    {
+      "type": "action",
+      "content": "Everyone's heart sank."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crowd",
+      "content": "What's going on?"
+    },
+    {
+      "type": "narrator",
+      "content": "Why hadn't anyone noticed?"
+    },
+    {
+      "type": "action",
+      "content": "Seated behind Wuorin was a man calmly inhaling a narcotic asker."
+    },
+    {
+      "type": "sfx",
+      "content": "Phew."
+    },
+    {
+      "type": "action",
+      "content": "Shirone's eyes sharpened."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Satan."
+    },
+    {
+      "type": "narrator",
+      "content": "It was Gustav Havitz."
+    }
+  ],
+  "source_hash": "a4c30b27d9594a5d0f0b9f6cf85d5c1986d3814a7bfeda1411b007dc47299c7f",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T03:48:25.306977Z"
+}

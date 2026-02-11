@@ -1,0 +1,887 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "Amy pointed her finger at Screamer."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Who else would I be talking to? Honestly, the martial artist's killer strategy failed, didn't it? I could understand up to that point, but why take it out on an innocent team member?",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "content": "Screamer's face went blank."
+    },
+    {
+      "type": "narrator",
+      "content": "No matter how emotional he was, he usually considered the context."
+    },
+    {
+      "type": "action",
+      "content": "In contrast, Shirone's group was pushing forward recklessly without any plan."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Are they all crazy?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Screamer",
+      "content": "If you let emotions take over, you'll only be used."
+    },
+    {
+      "type": "action",
+      "content": "And Screamer immediately found a way."
+    },
+    {
+      "type": "narrator",
+      "content": "This was an opportunity."
+    },
+    {
+      "type": "thought",
+      "speaker": "Screamer",
+      "content": "If he could easily gain 20 points at the cost of losing 5, it wasn't a bad deal."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Screamer",
+      "content": "Any team with Maya will lose."
+    },
+    {
+      "type": "action",
+      "content": "Having made his decision, Screamer made a proposal."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Screamer",
+      "content": "Fine, if you're so confident, how about we test it?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Test it?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Screamer",
+      "content": "You know there's an overall evaluation in two weeks, right? Hill Capture. If you can beat me with Maya on your team, I'll acknowledge it."
+    },
+    {
+      "type": "action",
+      "content": "Hill Capture involves placing flags in both camps and balancing offense and defense to capture the opponent's flag."
+    },
+    {
+      "type": "narrator",
+      "content": "In the graduation exam, it's 15 vs. 15, but in the group evaluation, it's a 5 vs. 5 mini-game."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "As expected of the senior class. They really know how to dig in."
+    },
+    {
+      "type": "action",
+      "content": "Shirone saw through Screamer's strategy."
+    },
+    {
+      "type": "narrator",
+      "content": "He planned to include Maya, whom he considered a weak link, in their team to secure 20 points."
+    },
+    {
+      "type": "action",
+      "content": "As Shirone hesitated to answer, Screamer grinned."
+    },
+    {
+      "type": "action",
+      "content": "His red tongue flicked out."
+    },
+    {
+      "type": "thought",
+      "speaker": "Screamer",
+      "content": "This was why you shouldn't rush in blindly."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Screamer",
+      "content": "What? Are you scared now that it's time to do it? After all that big talk?"
+    },
+    {
+      "type": "action",
+      "content": "After a long pause, Shirone spoke."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's true that Maya's sound magic is below average."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Screamer",
+      "content": "Haha! Finally admitting it! So, you realize you're at a disadvantage..."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "But."
+    },
+    {
+      "type": "action",
+      "content": "Shirone's face twisted in disdain."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "She's still better than having someone like you on the team."
+    },
+    {
+      "type": "action",
+      "content": "Screamer closed his mouth and wiped his expression."
+    },
+    {
+      "type": "action",
+      "content": "His eyes, which once made gangsters tremble, glared at Shirone."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Screamer",
+      "content": "Does that mean you're accepting?"
+    },
+    {
+      "type": "action",
+      "content": "Shirone turned to his friends."
+    },
+    {
+      "type": "action",
+      "content": "Guys."
+    },
+    {
+      "type": "action",
+      "content": "Iruki, Nade, and Amy stepped forward, flanking Shirone."
+    },
+    {
+      "type": "action",
+      "content": "Amy wiggled her fingers and said,"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Yeah, let's do it. You'll need the best team to stand a chance. But you'll still get crushed."
+    },
+    {
+      "type": "action",
+      "content": "The one who was most taken aback by the situation was Maya."
+    },
+    {
+      "type": "thought",
+      "speaker": "Maya",
+      "content": "She had failed the evaluation and been scolded."
+    },
+    {
+      "type": "action",
+      "content": "Normally, that would be the end of it, but now it had escalated beyond her control."
+    },
+    {
+      "type": "thought",
+      "speaker": "Maya",
+      "content": "She was grateful to Shirone's group for standing up for her, but she didn't want to be a burden."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Maya",
+      "content": "Wait, I didn't mean for this to..."
+    },
+    {
+      "type": "action",
+      "content": "Before she could finish, Nade pulled her into a hug."
+    },
+    {
+      "type": "action",
+      "content": "As Maya's face turned red and she tried to speak, Nade raised his fist and shouted at Screamer."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Let's settle this!"
+    },
+    {
+      "type": "action",
+      "content": "Nade's voice echoed loudly."
+    },
+    {
+      "type": "thought",
+      "speaker": "Maya",
+      "content": "There were no regrets."
+    },
+    {
+      "type": "thought",
+      "speaker": "Maya",
+      "content": "It felt like all the pent-up frustration from the senior class was being released."
+    },
+    {
+      "type": "thought",
+      "speaker": "Screamer",
+      "content": "'Yeah, this is how Shirone's group should be.'"
+    },
+    {
+      "type": "action",
+      "content": "Maya, on the other hand, turned pale."
+    },
+    {
+      "type": "thought",
+      "speaker": "Maya",
+      "content": "But she couldn't dampen the fiery spirit of Shirone's group."
+    },
+    {
+      "type": "action",
+      "content": "Screamer controlled his anger."
+    },
+    {
+      "type": "thought",
+      "speaker": "Screamer",
+      "content": "Logically, it was as good as a victory."
+    },
+    {
+      "type": "thought",
+      "speaker": "Screamer",
+      "content": "They would lose 20 points, and he would gain 20."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Screamer",
+      "content": "See you in two weeks."
+    },
+    {
+      "type": "action",
+      "content": "Screamer left the training ground."
+    },
+    {
+      "type": "action",
+      "content": "The students were stunned, unable to believe what had just happened."
+    },
+    {
+      "type": "thought",
+      "speaker": "Sabina",
+      "content": "'What are they, a bunch of brawlers?'"
+    },
+    {
+      "type": "action",
+      "content": "Sabina, standing next to Dante, sighed."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sabina",
+      "content": "This is crazy. Why do they keep causing trouble? With Maya, they're obviously at a disadvantage. Now Nade's going to lose 20 points. Shouldn't Shirone have stopped them?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "You didn't know?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Shirone is the leader of the troublemakers."
+    },
+    {
+      "type": "action",
+      "content": "Shirone's group gathered at the Paranormal Science Research Club for a relaxing time."
+    },
+    {
+      "type": "action",
+      "content": "With training and Gaold's mission, Shirone barely had enough time in a day, but he joined his friends to clear his mind."
+    },
+    {
+      "type": "action",
+      "content": "Lying on the sofa, staring at the ceiling on a holiday felt incredibly refreshing."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Why hadn't he appreciated such moments before, always complaining about boredom?"
+    },
+    {
+      "type": "action",
+      "content": "Shirone recalled the events from a few days ago."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "So, Maya is a commoner. I didn't know."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Me neither. I looked into it after that day, and it turns out she's an outsider."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "An outsider?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "She's from the Mystique Tribe, a small ethnic group from the south."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "About 200 of them settled in Tormia, cultivating their traditional herb, Kapura, for medicinal use."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "But 20 years ago, it was classified as a drug, and they lost everything."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "They couldn't integrate into society, burdened with debt and the stigma of being a drug tribe."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "I see. So Maya's family must be struggling."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Probably. She has seven siblings."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "The tribe pooled their money to support her."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "If she becomes a magician, it would improve the Mystique Tribe's reputation."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "But how did she get into the magic school?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Teacher Collie recommended her."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "I don't know the details, but there must have been some connection, like with you."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Though Collie was a strict head teacher in the senior class, he was kind-hearted and likely helped Maya."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "There were rumors at the time."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "But when her grades turned out to be unimpressive, it just faded away."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Was that a blessing in disguise?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Anyway, it's really unfortunate."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "She must feel immense pressure."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "The tribe's expectations are on her, and she can't graduate."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Seeing her gulping down meat with water to increase her volume was pitiful."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone felt the same."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Want to see what Maya used to look like?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Huh? How?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Back then, Nade collected a lot. Remember? The picture book."
+    },
+    {
+      "type": "action",
+      "content": "Shirone suddenly remembered."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Oh, the one published by the Women's Anatomy Research Club?"
+    },
+    {
+      "type": "action",
+      "content": "Nade sat up from the sofa."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "That's right! We're in the senior class now."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Most of the repeaters would be in there."
+    },
+    {
+      "type": "action",
+      "content": "Without waiting for a response, Nade dove under the desk."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "The latest issue is the most accurate. Issue 48, page 8."
+    },
+    {
+      "type": "action",
+      "content": "Iruki, who never forgot, said,"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Issue 48? That's last year's."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Maya would have been overweight then."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "You'll see. Just get it."
+    },
+    {
+      "type": "action",
+      "content": "Nade rummaged through the picture books piled in the safe."
+    },
+    {
+      "type": "action",
+      "content": "Since Shirone joined, he had lost interest, but he couldn't bring himself to throw them away."
+    },
+    {
+      "type": "action",
+      "content": "Let's see. Issue 48, Issue 48..."
+    },
+    {
+      "type": "action",
+      "content": "Ah, here it is."
+    },
+    {
+      "type": "action",
+      "content": "Nade placed the picture book on the table, and Shirone and Iruki leaned in."
+    },
+    {
+      "type": "action",
+      "content": "Page 8 showed Maya's previous appearance."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Wow..."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "For a work by the Women's Anatomy Research Club, it was modest and portrayed her in a sacred manner."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "But that wasn't why they were surprised."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Is this really Maya? She's so pretty."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "I remember. I wondered who she was when I saw this picture."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Maya started gaining weight in her second year of the senior class."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "But the Women's Anatomy Research Club seems to only draw her previous appearance."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "That's strange. Do they like Maya?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Maybe. But it feels more like respect than affection."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Who are they, the Women's Anatomy Research Club?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "I don't know."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "If they're caught, they're expelled immediately."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "But they must be in the senior class."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "They couldn't draw the senior class while being in the advanced class."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Thinking about it gave him chills."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Let's check the others."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Based on last year, there should be girls in the senior class now."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Page 14 has Pony, page 16 has Suabi, and the last page has Dorothy."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You really remember this because of your servant, right?"
+    },
+    {
+      "type": "action",
+      "content": "Nade pointed to the page."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Hey, it's Pony."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Pony's appearance was the same as now."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Her symmetrical part emphasized her high forehead, and her golden hair framed her face."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Wearing a dress that exposed her shoulders and collarbone, she exuded royal elegance."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Oh, here's Suabi."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Kneeling by a stream, Suabi was covered with a blanket over her bare body."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "A bird perched on her cupped hands, and she wore a beautiful smile never seen at school."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's Dorothy? She looks so different here."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Dorothy wore a black woolen knit, pulling up the hem with a rebellious expression."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Her slender waist and cute belly button were exposed, and she wore only underwear, highlighting her long, giraffe-like legs."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Her tin doll, which she never parted with, was hugging her neck."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I've always thought, but these drawings are amazing."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "They look just like the real thing."
+    },
+    {
+      "type": "action",
+      "content": "Nade closed the picture book with a snap."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Man, there are so many beauties at this school, but how come none of them are our partners?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Shirone has one."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "N-no! I mean, I don't really..."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Wait, didn't you say you went on a trip with Amy?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Did nothing really happen?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Nothing had happened, but why was his face heating up?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Huh? Nothing?"
+    },
+    {
+      "type": "action",
+      "content": "Shirone's face turned red."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Seriously? That sounds suspicious."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "You better come clean!"
+    },
+    {
+      "type": "action",
+      "content": "Shirone glanced around."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ugh, whatever!"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'm going to sleep! I'm so tired these days."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Wake me up in an hour!"
+    },
+    {
+      "type": "action",
+      "content": "Sleep was the best way to clear his mind."
+    },
+    {
+      "type": "action",
+      "content": "When Shirone woke up, he got up from the sofa."
+    },
+    {
+      "type": "action",
+      "content": "His friends had already left for the dormitory."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What time is it?"
+    },
+    {
+      "type": "action",
+      "content": "A note was left on the table."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "We left early."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You looked tired, so get some rest and meet us at the dining hall later."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "And whatever you do, don't look at the red book in the safe under the table."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's amazing."
+    },
+    {
+      "type": "action",
+      "content": "Yawning, Shirone crumpled the note and stood up."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Still, that nap felt great."
+    },
+    {
+      "type": "action",
+      "content": "He gathered his toiletries and headed to the senior class building."
+    },
+    {
+      "type": "action",
+      "content": "He planned to wash up at school and then go to the dining hall."
+    },
+    {
+      "type": "action",
+      "content": "As he finished brushing his teeth and washing his face, the bell rang, signaling 5 o'clock."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yawn."
+    },
+    {
+      "type": "action",
+      "content": "Yawning away the remnants of sleep, he walked down the hallway when he heard music from somewhere."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What's that?"
+    },
+    {
+      "type": "action",
+      "content": "Someone was singing in the music room at the end of the hall."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It wasn't a classical piece but a popular song."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Wow, they're really good."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The singing was impressively skilled."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "'Could it be a professional singer?'"
+    },
+    {
+      "type": "action",
+      "content": "When he opened the music room door, he saw Maya playing the piano and singing."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It was a lively rhythm and blues song called 'Nothing is More Beautiful Than You,' which she used to hum while wandering through the village."
+    },
+    {
+      "type": "action",
+      "content": "As soon as he opened the door, her voice hit him, sending chills down his spine."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Nothing is more beautiful than you"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "It wasn't just that she sang well."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Even though he knew nothing about music, he was certain of it the moment he heard her."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Maya's singing was something special."
+    }
+  ],
+  "source_hash": "9c91f2c063ba72f6d07ad50284f29ab8e8ac2f64ac00413f42dda43061afac8b",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T05:38:14.794016Z"
+}

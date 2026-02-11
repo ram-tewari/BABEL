@@ -1,0 +1,1237 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kanis glared at the white radiance burning in Shironé's palm.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Its overwhelming presence was undeniable.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Of course, he had the belligerence to charge toward death without hesitation.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But he also believed that even in death, he should at least break even.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Habi",
+      "content": "I say we fight. Let's go.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shironé",
+      "content": "That magic... How fast is it? We might not be able to dodge.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanis",
+      "content": "Then you block it.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Habi",
+      "content": "If I can't block it, you die. If you die, I disappear too. We'll have to fight eventually, but there are too many variables.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Exchanging thoughts at the speed of thought was a tremendous advantage in battle.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But when opinions diverged to extremes, it became impossible to decide what to do.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shironé",
+      "content": "How did things come to this?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "An unexpected voice shattered the tension.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shadows poured like water from the cliff, and a gaunt old man rose from the surface of the dark waters.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Archmage Akein.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "His face twisted as he took in the scene at a glance.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The only reason he'd been able to focus on Etella was his confidence that the situation here had already been resolved.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Akein had trusted Kanis.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Or more precisely, he'd trusted Habist, who was bound to Kanis.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But upon arriving, the reality was completely different from his expectations.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lucas lay in a pathetic heap, while Kanis and Habist were being threatened by a single rookie.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Akein",
+      "content": "Forgive me, Master.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Akein was not a forgiving man.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ignoring Kanis's apology, he turned coldly and glared at Shironé.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Akein",
+      "content": "I knew he looked familiar.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He resembled Alpheus.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Not in face or appearance, but in the aura he exuded.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His audacity to speak boldly even under the Archmage's gaze was the same.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Akein",
+      "content": "Did you plan all this?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shironé",
+      "content": "You're quite insolent for a brat. What's your name?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Akein",
+      "content": "I don't want to give my name to a murderer. Release the mind control and leave the school. If you don't, I won't let you go.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Akein burst into laughter.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He wasn't angry.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But his criteria for killing someone wasn't rage—it was how much amusement he could derive.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In that sense, Shironé was a ripe fruit, ready to be plucked.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Akein",
+      "content": "Sorry, but I can't lift the mind control. Because Alpheus's disciples must die.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Feeling the killing intent, Shironé shuddered and instinctively fired a Photon Cannon.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was clearly a misfire.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Akein dodged it effortlessly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Only after confirming the magic had dissipated did he turn back.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Spirit Zone radius of 52.7 meters. Impressive. Quite advanced for your age.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even if it was light, as long as it had mass, its speed couldn't exceed the limits of physics.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But the basic speed of photon output was still far faster than any flying object.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dodging a Photon Cannon in an instant and measuring the Spirit Zone's radius was beyond human senses.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shironé",
+      "content": "Stop, Shironé.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Etella emerged from the mountains.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Her clothes were torn, revealing her skin, and she was covered in dirt from head to toe.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etella",
+      "content": "Don't act rashly. Akein is dangerous.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Akein's brow furrowed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Their battle had been enjoyable, but he'd long since discarded the memory of food trampled underfoot.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Akein",
+      "content": "How shameless of the defeated. If you've been spared, you should cherish your life.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shironé and the others were shocked.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Could it be that Etella, their teacher, had lost to this skeletal old man?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Bishop of the Carusis Council.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Joner, an authority on Spirit Zones.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A publicly recognized 6th-class mage.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "None of her titles were easily earned.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "This can't be. Teacher Etella...?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Neide wondered if such a thing was possible.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Of course, there were 5th and even 4th-class mages in the world, but what kind of realm surpassed Etella?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was unimaginable.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shironé",
+      "content": "Are you okay, Teacher?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "I'll manage. But it'll take time to recover.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shironé",
+      "content": "What happened? Who is that man? Why is he doing this?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Viltor Akein. An Archmage who reached unofficial 3rd-class forty years ago.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The group's eyes wavered.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Any magic school student knew what an unofficial 3rd-class meant.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Mage rankings were divided into ten tiers, but the fame and achievement points required to advance skyrocketed at certain intervals.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Specifically, from 7th to 6th-class, and from 4th to 3rd-class.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If 6th-class was the executive level of magical society, 3rd-class was a position capable of leading a kingdom's core facilities.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Considering Alpheus, a publicly recognized 4th-class mage, was only the headmaster of a private school, it was clear how high Akein's standing was.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Akein",
+      "content": "Akein holds a grudge against the Headmaster. He won't back down until he achieves his goals.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etella",
+      "content": "Enough blabbering. Whining to your disciple will only make you more pathetic.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etella",
+      "content": "I have no interest in胜负. I'm a teacher. To protect my students, I'll do anything.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Akein",
+      "content": "Oh? And what can you do? Even at full strength, you couldn't defeat me. Do you really think you can stop me now?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etella",
+      "content": "Your bluff is excessive, Akein.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Akein's expression darkened.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Clearly, I couldn't stop you. But you don't have the mental energy left to focus on battle either, do you?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etella",
+      "content": "Etella's words were half-right.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Akein's magical power, after casting the Dark Servant, was only a tenth of his normal state.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But a tenth of an Archmage's power was more than enough to sweep away the exhausted Etella and her fledgling students.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Akein",
+      "content": "Times have changed. I indulged you because you were cute, and now you dare to yap at me?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Akein summoned his magical power.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The tenth he'd reserved to kill Alpheus—it didn't matter.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Troublesome calculations didn't suit his outlook on life.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanis",
+      "content": "Master, leave this to me.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kanis intervened.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Abyss Nova consumed an immense amount of mental energy, something ordinary mages wouldn't even attempt.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Having cast such a spell and fought afterward, even his master couldn't be in normal condition.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Akein frowned at Kanis.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even a disciple challenging his authority was unacceptable.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But after a moment's thought, he turned to Shironé with an intrigued expression.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Akein",
+      "content": "Hey, brat. You're also Alpheus's disciple, right?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shironé",
+      "content": "Don't you dare speak the Headmaster's name, murderer.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Keukuku! Is that so? You seem to respect him greatly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shironé",
+      "content": "Whether you're an Archmage or 3rd-class, it doesn't matter. Compared to the Headmaster, you're not even a mage.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Puhahaha! PUHAHAHA!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Akein roared with laughter.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But his eyes burned with fury.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Akein",
+      "content": "Alpheus. How hypocritically have you lived? Don't you know? You have no right to be respected.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Having made his decision, Akein nodded.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Akein",
+      "content": "Fine. Watching disciples fight is entertaining too. Kanis. Duel him.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Yes. Thank you, Master.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kanis finally relaxed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "This was his chance to redeem his earlier failures.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Habi",
+      "content": "- Kanis. Reconsider. It's better to leave this to Akein.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanis",
+      "content": "- What are you talking about? I've already disappointed Master. Even if I die, I have to defeat Shironé.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Habi",
+      "content": "- Habist. Answer me. Not even you can defy me this time. We're fighting, no matter what.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Habist remained silent.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "This had never happened before, and it was unsettling.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But with Akein watching, he couldn't show weakness.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Using Dark Port, Kanis instantly closed the distance to Shironé.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shironé teleported to the edge of the cliff, avoiding collateral damage to the students.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shironé",
+      "content": "Hmph! Planning an aerial battle?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The night sky, shrouded in darkness, wasn't unfavorable for Kanis and his Dark Port either.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A thousand meters above the cliff, the two clashed like birds of prey, unleashing their firepower.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shironé condensed seven photons and fired them simultaneously.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Photon Cannons from the Infinite Realm were several times more powerful than before, but the recoil was equally immense.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With each cast, his consciousness flickered.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Infinite Realm was indeed a double-edged sword, threatening both his enemy and his own mind.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etella",
+      "content": "What on earth...?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Etella stared blankly at the sky.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The photon output, generating shockwaves, was something she'd never seen before.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The dazzling beams of Photon Cannons split the night sky.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was like slashing a golden pen across a black canvas.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "He's incredible. But is this really okay?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "We have to trust him. He did well during the presentation too.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "But this is different. It's a life-or-death situation now. He might cross the line without realizing it.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etella",
+      "content": "What do you mean? Has Shironé entered the Immortal Function before?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Huh? Well, actually... he's been doing it casually lately.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Etella sighed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even after warning him about the risk of death, he didn't seem to care.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But then again, without such passion, his rapid growth would've been impossible.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "***",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kanis, dodging the barrage of Photon Cannons, was more flustered than ever.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Why wasn't Shironé tiring?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was as if his mental limits had been erased.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Habi",
+      "content": "- Habi! We'll lose at this rate!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "No response came from Habist.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "This had never happened before, and it was ominous.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Worse, he didn't know why.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Habist wasn't foolish enough to stay silent during battle just because of a disagreement.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanis",
+      "content": "- Habist! Answer me!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A Photon Cannon grazed Kanis.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He twisted his waist, but it was clearly a delayed reaction.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He'd avoided being hit, but only because Shironé had missed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanis",
+      "content": "What's this?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Over a dozen beams shot toward him.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But again, their aim was off.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kanis finally realized.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The flashes were eliminating all the darkness he could use for Dark Port.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Kanis",
+      "content": "This is insane...!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If he couldn't land a hit, he'd trap and pummel his opponent instead.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It made sense, but wasn't it too brute-force?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He'd already fired over 200 Photon Cannons, a spell notorious for mental strain.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Yet Shironé showed no signs of exhaustion—in fact, the number of beams was increasing.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Kanis",
+      "content": "Just how vast is his mental power?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The thought sent a chill down his spine.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dozens of Photon Cannons filled his vision, and despair welled up inside him.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The cluster of beams blocked all possible escape routes via Dark Port.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Kanis",
+      "content": "I can't dodge this. It's over.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He was more frustrated and resentful than afraid of death.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The thought of losing to a light mage in front of his master was terrifying.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanis",
+      "content": "- Annoying. Akein.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Habi",
+      "content": "- Habi?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "For the first time since the aerial battle began, the mental channel opened.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Habist blocked the Photon Cannons with his body.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The consecutive shockwaves made the demonic creature tremble, emitting eerie groans.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Realizing surface absorption wasn't enough, Habist opened his body wide and swallowed the Photon Cannons whole.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His slender waist ballooned like a inflating as he struggled to digest the photons.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Gradually, his body shrank back to its original form.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanis",
+      "content": "Guh...!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kanis bent forward, his face twisted in shock.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The reason Habist could absorb the Photon Cannons was that he'd drawn on Kanis's mental energy.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But doing so without permission violated their master-servant contract.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanis",
+      "content": "- Habist?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Habi",
+      "content": "- Focus and prepare!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Having drained Kanis's mental energy, Habist lunged at Shironé, slashing with his claws.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Unaccustomed to close combat, Shironé was cornered.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Habist's speed matched Shironé's teleportation.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "How was this possible?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He seemed far stronger than Kanis.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etella",
+      "content": "Shironé! Stop! Habist is going to explode!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lost in his trance, Shironé barely heard Etella's warning and halted his energy output.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But the chain reaction within Habist had already begun.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His grotesquely twisting form foretold secondary and tertiary explosions.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Akein",
+      "content": "Hahaha! Farewell! Must be disgusting to die with trash like me! This ends everything!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanis",
+      "content": "- Kanis. I'm sorry.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kanis's face froze.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Habi",
+      "content": "- I'll release the contract.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Habist absorbed the last remnants of Kanis's mental energy and severed their bond.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The emptiness of a departing soul overwhelmed Kanis, and he collapsed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanis",
+      "content": "W-why... Habi...?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Habist soared into the sky.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "How many seconds until detonation? Three? Two?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Memories embedded as vibrations resurfaced as he raced toward his end.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Habi. Habi. Habi.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Habist",
+      "content": "The voice that had called out incessantly would never be heard again.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Kukuku. Kanis. That's your problem. You pretend to be so strong.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Having no life to begin with, death held no fear.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But he was worried.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The betrayal he'd felt through their mental link still resonated as if they were one.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But now, with no way to convey it, Habist could only hope.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "That Kanis wouldn't be too hurt.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "BOOOOOOM!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A colossal explosion, capable of annihilating the world's darkness, erupted.",
+      "tone": null
+    }
+  ],
+  "source_hash": "3a3993eb389090e0159ca82014a413b58f7443b5d91e19b5a109dc0bf1797f08",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T07:56:34.042096+00:00"
+}

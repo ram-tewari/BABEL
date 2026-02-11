@@ -1,0 +1,559 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zion looked back at Amy and sneered.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "Hmph, serves you right. You should've known better who to mess with.",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "You coward! Hurry up and untie me!",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "Don't worry, I'll let you out soon enough. But first, enjoy the show.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zeon half-turned and ordered Zenogre.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zeon",
+      "content": "Bring me Shirone's head.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zenogre climbed up the spider web where Shirone was tied, wearing a sinister smile.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Using his mimicry ability to control his center of gravity, he moved freely across the steel wire without so much as a scratch.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Amy! Amy!",
+      "tone": "desperate"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even in this life-threatening situation, Shirone called out for Amy.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Seeing this, Zion felt even more delighted.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zion",
+      "content": "Although he wanted to torment Amy in front of Shirone, his desire to own Ataraxia as soon as possible was just as strong.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "'Wait, but where's Arius?'",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Everything was perfectly set up, so he should have appeared by now.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zion",
+      "content": "He felt a flicker of unease, but it made no sense for a Scale Mage, who controlled time and space, to be late.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zion",
+      "content": "Most likely, he was planning to appear with a flashy entrance at the very last moment.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zion",
+      "content": "'Tch, always with the theatrics. Just can't help himself, can he?'",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It wasn't like Zion didn't know his personality from the beginning.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Arius had his professional pride, so whatever happened, he would handle the job properly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zion looked around one last time and made a throat-slitting gesture.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zenogre, looming over Shirone, licked his lips, extending his tongue like he was going to lick his face.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But Shirone, without even looking at him, mustered all his strength to shout toward Amy.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Amy! Run!",
+      "tone": "desperate"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zenogre",
+      "content": "Kekeke, how pitiful. But you're going to die anyway.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zenogre spread his arms and legs wide, positioning himself as if to crush Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "There was a sound of something popping from his side, and two new arms emerged from inside his collar.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's face went pale at the sight.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zenogre",
+      "content": "Keke, what's wrong? Grossed out? I can grow up to six arms, you know.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zenogre pulled steel wire from his mouth with his new arms and skillfully circled it around Shirone's neck.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zenogre",
+      "content": "There won't be any pain. I'm the best in the industry.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Sensing death, Shirone closed his eyes.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It seemed his short 18 years of life would end here.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Amy! Ig…!",
+      "tone": "desperate"
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Snip!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Before Shirone could finish speaking, Zenogre pulled the wire with both arms while laughing grotesquely.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The spider web dug into Shirone's skin, leaving a thin, ring-like mark on his neck.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Crackling sound of electricity from behind Zenogre.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was the distinctive hum of Scale Mage's signature magic, Flicker.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zion",
+      "content": "'As expected.'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zion clicked his tongue at Arius's antics.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zion",
+      "content": "In any case, the timing was impeccable, so there was no reason to be angry.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "Hm?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "A puzzled look crossed Zion's eyes.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zion",
+      "content": "It wasn't Arius. No, was it Arius? With the face covered by a mask, it was impossible to tell.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "What's with that get-up?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Without a word, the masked figure rolled forward and blocked the way to Reina and Amy.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zion",
+      "content": "'Not Arius? Then where is that bastard? Shirone is already dead...'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zeon hurriedly turned his head towards Zenogre.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Although he wore his usual unsettling grin, his face now held a strange, subtly twisted expression, unlike anything one could normally see from him.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone too had his eyes wide open while facing Amy.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "And most importantly, the steel wire... remained frozen, slightly buried in Shirone's skin, as if frozen in time.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Crackling sound of Flicker Magic was heard.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Arius materialized into the space, he tumbled across the ground, coming to a stop beside Zion.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arius",
+      "content": "Damn it! Am I late?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "What! What's going on? Who is that person?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arius",
+      "content": "I don't know. He's undoubtedly an Unlocker specializing in Time Magic.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arius",
+      "content": "I tried to shake him off somehow, but they kept disrupting the coordinates...",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zion",
+      "content": "'Damn it. The compatibility is terrible.'",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zion",
+      "content": "For someone specializing in spatial magic, a time specialist was their natural nemesis.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zion",
+      "content": "No, then again, the reverse was also true—it was a relationship as opposed as fire and water.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zion",
+      "content": "A relationship like fire and water where both parties are reluctant to accept each other.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Arius",
+      "content": "Calculating the time to descend to first-stage primal consciousness...",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Arius swallowed dryly.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Arius",
+      "content": "This wasn't over yet.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Arius",
+      "content": "There would be unconscious pressure since the brain wasn't completely separated from the body, but anyway, Shirone had received a near-death shock.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Arius",
+      "content": "Furthermore, by the time he reached the first level, Shirone's condition would likely worsen.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Arius",
+      "content": "So as long as they secured a strong position, they still had a good chance.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arius",
+      "content": "Your Highness, I'm opening the Door.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "What? Now?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arius",
+      "content": "There's still a chance. But as it happens, I will need some help. When I enter, please follow immediately.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Arius cast the Door Magic just outside Temporal Field.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As his Spirit Zone materialized, a two-meter-high oval sphere appeared.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Arius leaped inside, and Zion, grinding his teeth in frustration, hesitated for a moment.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "Damn it! What a pain!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zion withdrew his tentacles and dove into the door.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Only then did the masked figure unfold from their crouched position and stand up.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After thinking for a moment, they ran toward the Door without looking back.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Masked Figure",
+      "content": "Wait!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The masked figure stopped at the door and looked back at Amy.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Masked Figure",
+      "content": "Take me with you, too! It's like a gateway to Heaven, right? I've been there once. I can help save Shirone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Are you sure? It'll be hot.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Masked Figure",
+      "content": "Tha- That's… if you could just release me…",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Masked Figure",
+      "content": "Ignite.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Huh?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Don't you know Ignite? Aren't you a fire mage? Sticky spider webs are weak to fire. You could have escaped by burning it with flame magic.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy looked at the masked figure in astonishment.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Who was this person, who could cut only the web with a precise Wind Cutter?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Reina landed gracefully, then approached Amy.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She also looked at the masked figure with a puzzled look.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Though they didn't seem bad, she maintained her guard since their identity was unknown.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The masked figure examined the Door's condition.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Energy fields were radiating intensely from the edges of the portal—a sign that its time was running out.",
+      "tone": null
+    }
+  ],
+  "source_hash": "cb25ba13a37897d61bb7bbf8205685fb751a3890e5bb2eb80fa96c48b92f83f1",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T18:25:58.220121+00:00"
+}

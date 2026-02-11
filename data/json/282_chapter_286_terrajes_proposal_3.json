@@ -1,0 +1,853 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Reina ran at full speed toward the annex.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Quick, quick!",
+      "tone": "urgent"
+    },
+    {
+      "type": "thought",
+      "speaker": "Reina",
+      "content": "If Teraje Faction had made a move against Shirone's parents, the situation would become serious.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Reina",
+      "content": "On the other hand, she felt guilty. She should have been a little more careful.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "No, this was the best we could do. We strengthened all the security measures...",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Reina",
+      "content": "That would mean the enemy acted without regard for the consequences.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Reina",
+      "content": "The thought crossed her mind that perhaps all the attendants had been wiped out.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Reina",
+      "content": "The puzzling part was why now, of all times.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The timing of sending assassins on the first day had been perfect.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But now they were fully prepared on this side.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Reina",
+      "content": "In a situation where getting caught would reverse the tide, there was no reason to employ a high-risk, low-return approach.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Entering the annex, Reina turned toward Vincent's quarters.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At the same time, she bumped into an attendant from Ogent Family around the corner.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Attendant",
+      "content": "Ah! Miss Reina!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Reina pushed past the attendant and ran to the room.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": null,
+      "content": "Move! What happened?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As she opened the door and entered, Vincent and Olena looked at her with puzzled expressions.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It didn't seem like there had been any commotion.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Vincent was in the middle of carving a piece of wood, and beside him, Olena was drinking cocoa wrapped in a blanket.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vincent",
+      "content": "Lady Reina, is something wrong? You don't look well.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Ah, well...",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Reina",
+      "content": "The two were safe. Then why had Amy followed Zion?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Attendant",
+      "content": "Miss, what on earth is the matter? Why are you suddenly rushing here?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Reina quickly recovered her composure.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Oh, um... I just wanted to check in and make sure everything was okay, so I came by for a routine patrol.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The attendant heaved a sigh of relief.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Attendant",
+      "content": "Phew, I thought something serious had happened. I was just about to go report. Everything is fine here.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olena",
+      "content": "Is something wrong? What about Shirone?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As expected, a mother's instinct about her child was sharp.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "He's still at the banquet hall. Don't worry, he's having a good time with Amy.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Reina",
+      "content": "At the mention of Amy, Olena seemed to relax.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olena",
+      "content": "I see. Don't worry. We're doing just fine here.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Hoho! Yes, well then, rest comfortably. I'll return soon.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Forcing a smile, Reina left the room and immediately headed in the opposite direction.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Reina",
+      "content": "Shirone's parents were safe. But Amy would have had no way to confirm that fact.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Reina",
+      "content": "That meant she must have been threatened. But why Amy?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Reina suddenly stopped walking and spoke aloud.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Shirone.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Reina",
+      "content": "It was the worst-case scenario.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Reina",
+      "content": "The fact that no particular danger was detected in the banquet hall was the effect of the Ataraxia demonstration, meaning that most Neutral Faction had become favorable to Orkamph.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Reina",
+      "content": "But that had caused Zion to draw his real sword.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Reina",
+      "content": "No matter how much she thought about it, there was only one reason why he separated Amy—even lying about something that would be discovered right away.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Reina",
+      "content": "He intended to end it tonight.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Reina",
+      "content": "I thought things would pass smoothly, but for Zion to take action himself. That's why no intel came through.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "There was no time to waste.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Since the attendant had just left Vincent's quarter, it had been over 20 minutes since she had last seen Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Reina unfolded Sound of Silence, a Schema Ear technique.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With her hearing enhanced, she began to pick up even the smallest sounds in the royal palace.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Reina",
+      "content": "It was too late to try following Shirone's trail now.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Reina",
+      "content": "Wherever high decibels were heard, that would be the center of the incident.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy followed Zion into the underground gallery.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Whether the palace underground was originally quiet or Zion had taken care of it beforehand, not even an ant was passing by.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "On reflection, it made sense.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "The banquet was going late into the night, so the attendants who weren't on duty were likely asleep.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Amy thought this was rather fortunate.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Zion may be royalty, but his actual fighting power was at the level of nobles his age.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Having received elite magical training from a young age, Amy felt confident she could overpower him if the opportunity arose.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Therefore, this silence worked to her advantage.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "She could beat Zion without worrying about others' eyes.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "If possible, even killing him...",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "It was unsettling to think about hurting someone, but with Shirone's parents being held captive, that hesitation was a luxury she couldn't afford.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With a gentlemanly smile, Zion led Amy deeper into the gallery's cavern.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Amy noticed that the door was double-layered and had the same thought as Shirone would have.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "If I need to break through the doors, I should save at least two magics.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "But even that concern faded when she saw the peaceful atmosphere of the gallery.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was a room filled with all sorts of items.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "She didn't know what they were used for, but at least they weren't the kind of tools meant for torture or harm.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy examined the northern display case, which was the only part that could be used as a weapon.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Only an expert would know how well the blade was sharpened, but the sword reflected in her eyes emanated sharpness on its own.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Where are Shirone's parents?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "Parents? Well, why would I know about that?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "You deceived me?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zion checked the time.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zion",
+      "content": "The next hour was the window for assassination.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zion",
+      "content": "The reason they hadn't set a definite assassination time was that they had planned the strategy with minimal personnel.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zion",
+      "content": "Some flexibility in the situation was inevitable, but on the other hand, it had the advantage of being able to respond flexibly to variables.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zion",
+      "content": "One hour....",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zion",
+      "content": "Suddenly, he felt a tinge of regret.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zion",
+      "content": "Amy was truly a fine woman.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zion",
+      "content": "Wouldn't an hour with such beauty feel like a fleeting moment?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zion",
+      "content": "Regardless, while he wasted time here, Zenogre and Arius would finish their task.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zion",
+      "content": "All he had to do was wait and collect the Ataraxia that would roll into his lap.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "I apologize for lying. But I believe you'll understand. A little harmless deception is necessary when trying to charm a beautiful woman, don't you think?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "I'll be leaving. I'll decline such invitations from now on.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "Oh? I wonder if you can say that after seeing this?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When Zion opened his fist, a necklace with a yellow cross pendant dangled down.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "The precision of the craftsmanship alone made it clear that it was a valuable item.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "But Amy had no idea how many had fallen for such tricks, but Carmis Family was also a renowned house in Thormia Kingdom.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Even if he offered her a diamond, she was confident she wouldn't bat an eye.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "What are you doing right now? Do you really think this would win my favor?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "Something like this? Why don't you look more closely?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy shot him a glare and inspected the pendant.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "There was no way royalty would carry anything made from alloy, so it was certainly pure gold.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "A quick look suggested that about 500 gold coins would need to be melted down to produce this size.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "A pearl was set in the center, but unusually, it had a metallic iron color.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "It was far from the beautiful luster of natural pearls.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Though the form was perfect, it was clearly not something a woman would wear for aesthetics.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "What is this? What's so special about it…?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Amy suddenly realized.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "She remembered reading about it in a book.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "A pearl with a dark iron color. It was a pearl from the Heavenly Emperor Clam that lived in the Alcantra deep sea.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "According to geologists, the Alcantara Trench was the deepest part of the ocean in the world.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Because not a speck of light enters and the water pressure is enormous, fishermen can't harvest them, and only national projects involving mages can access it.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "The durability of the clams that survive that pressure was said to create chemical substances harder than diamonds.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "In other words, it was one of the hardest substances in the world.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Moreover, its flawless spherical shape made it highly versatile for industrial use.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Of course, not many people would buy such things with money, but from what she read in books, Heavenly Emperor Clam pearls could replace the ball bearings of ancient weapons, so they were worth at least 200 million each.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "As such, these pearls were sometimes used as currency in large transactions between kingdoms, where transporting vast amounts of gold coins was impractical.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "So this is a Heavenly Emperor Clam pearl...",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "The reason ancient weapons from prehistory still exist today is believed to be that they were made from the hardest stone in Heavens.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "However, no matter how advanced an ancient weapon was, its moving parts would eventually wear down.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "To replace those parts, they needed durability at least equal to Heavenly Emperor Clam pearls.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "One ball bearing alone was worth 200 million gold.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "One could guess how much budget kingdoms were pouring into maintaining ancient weapons' functions.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Hmph. So that's what this is about.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zion",
+      "content": "Zion assumed her silence was due to her inner conflict.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zion",
+      "content": "How could she not be? What he had offered wasn't merely a jewel but currency traded between nations.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "As expected, you have refinement. Most nobles exchange diamonds as their marriage vows, symbolizing an unbreakable love. But this, this is Heavenly Emperor Clam's pearl, far harder than any diamond.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "Only direct royal lineage could use it as a betrothal gift. So, how about it? Shall we promise our future with this?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zion prepared to put the necklace on her, flashing a greasy smile.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "I'm sorry. While I'm grateful for Your Highness's favor, I cannot accept such a burdensome gift.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zion wore a dumbfounded expression.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "Then how about this? I'll let you bear my child. You could become royalty.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Amy was dumbfounded.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "This wet-behind-the-ears kid...",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Though nobles had political marriages, royalty took it one step further.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "They acted as if their blood was of some extraordinary value.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Well, maybe it was. Even now, women lined up wanting to bear princes.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "But Amy had no desire to become royalty. So Zion's words felt nothing short of an insult.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "I'll be leaving. I don't think we have anything more to discuss, Your Highness.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy walked to the door without waiting for a response.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "Why you……!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zion, wounded in his pride, yanked her wrist forcefully.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy hurriedly shook off his hand and stepped back.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Her wrist stung from how hard he had gripped it.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "What do you think you're doing?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Her voice was filled with emotion, but it was Zion who was truly furious.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "How dare you reject me? You, just a mere noble!",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Amy felt like she had heard a novel insult.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Even Thormia's royalty deferred to Carmis Family. But such thoughts rather made Amy more realistic.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "After all, standing here was not just any royalty but a son of Teraje.",
+      "tone": null
+    }
+  ],
+  "source_hash": "8b3eb3a7177079e911a1d61ede8bc3e04fc814bef56e87975ad3e4a24666df5e",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T18:22:03.344849+00:00"
+}

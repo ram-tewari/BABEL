@@ -1,0 +1,937 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The mountain animals were torn apart, their remains hanging from branches like laundry.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Among them were even fierce predators.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The arriving children covered their mouths. Not screaming was commendable enough for hunters.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Martin",
+      "content": "A-Altol. What happened? Did the Cowbear really do this?",
+      "tone": "concerned"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Martin's voice trembled, and Lumina turned away, eyes tightly shut.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Let's go. This isn't something we can handle.",
+      "tone": "cautious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Martin",
+      "content": "No, we need to see more. We have to know what's going on.",
+      "tone": "insistent"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Altol! This is serious!",
+      "tone": "urgent"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Altol",
+      "content": "That's why we're going! If this thing stays in the mountains, the game will flee! We'll starve!",
+      "tone": "firm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Martin",
+      "content": "I get that, but it's too dangerous. Let's report it to the city.",
+      "tone": "hesitant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Report? Have you gone soft hanging out with nobles? Who'd care about hunters?",
+      "tone": "scoffing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Martin",
+      "content": "Idiot, that's what I'm saying! This isn't some minor incident. Look at those animals. Don't you see how dangerous this is?",
+      "tone": "exasperated"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Martin interjected. \"S-Shirone. Altol. Look over there.\"",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The bushes rustled.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone and Altol nocked arrows simultaneously, aiming at the sound.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Rustle. Rustle.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The shaking leaves heightened the tension. The children readied their weapons, waiting for the mystery creature to appear.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When it did, their arrows instinctively aimed higher.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Altol",
+      "content": "T-this can't be…",
+      "tone": "terrified"
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Grrrr.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A wolf-like monster over two meters tall hunched before them, muscles bulging like boulders.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Its waist was slender, arms reaching its knees, and its hooked claws were as long as a human pinky.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Reverse-jointed legs supported its body like a cat's, making it agile.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Martin",
+      "content": "A… monster.",
+      "tone": "awed"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Evolutionists believed all animals, including humans, descended from a single origin. But monsters came from an entirely different lineage. They were stronger, faster, and even intelligent.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Wolf-like, bipedal… an Ulk.'",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone recalled his studies. Ulks lacked language but could express hundreds of emotions through sounds. They lived in tribes, exhibiting social behavior.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With their claws, speed, and strength, they were balanced monsters even hunters avoided when in groups.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "But why here? This region has no monsters.'",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Only one explanation came to mind: the Ulks had lost a tribal war and migrated here. The wounds covering the creature's body supported this. Its fur was matted with blood—impossible to tell how much was its own.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The children's ragged breaths reminded Altol of his duty as leader. He had to act.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Altol",
+      "content": "It's still a living thing. A headshot will kill it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Altol took a deep breath and fired.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "The Ulk, aware of the threat, simply tilted its head, dodging effortlessly. Then it laughed, scratching its throat.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Grrr. Grrrr.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The children gasped. But the real horror was yet to come.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Crack!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Ulk shattered a tree trunk with its jaws. Then it roared at Altol.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Grrraaah!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Altol",
+      "content": "Damn it! Run!",
+      "tone": "panicked"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Seeing the display of raw power, Altol abandoned all thought of firing again.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They fled toward the summit, Shirone lingering to fire one last arrow.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Grrraaah!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The provocation enraged the Ulk, but it bought the others time.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The creature lunged, claws aimed at Shirone's skull.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Grrraaah!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's body flashed, teleporting him into the air.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Grr?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Ulk stared as Shirone hovered above.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Not here. The summit.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Altol urged the struggling children onward. Choosing not to descend was wise—they'd have tumbled downhill.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Altol",
+      "content": "Faster! Run!",
+      "tone": "urgent"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They abandoned their gear, sprinting uphill.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lumina",
+      "content": "Shirone? Where is he?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Altol",
+      "content": "He's buying time! Just move!",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Altol worried for Shirone, but panic wouldn't help. His priority was the others.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Grrraaah!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As they reached the summit, the Ulk's roar echoed from below.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Altol",
+      "content": "If the monster was here, Shirone had either escaped or died.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Altol",
+      "content": "Damn it! Nowhere to hide!",
+      "tone": "desperate"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The summit was a flat clearing ending in a cliff. Twenty meters wasn't insurmountable, but they had no time to climb down.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Altol! It's coming!",
+      "tone": "urgency"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Ulk scaled the slope, claws scraping the ground.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sunlight glinted off its muscular frame.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Altol stepped forward as bait.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Altol",
+      "content": "Over here!",
+      "tone": "defiant"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But with the cliff at their backs, escape was impossible.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Altol turned, fists raised.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Altol",
+      "content": "Even his trained muscles were child's play against a monster.",
+      "tone": "resigned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Altol",
+      "content": "Screw this! I don't care anymore!",
+      "tone": "defeated"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As he swung, the Ulk vanished.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Altol",
+      "content": "Run!",
+      "tone": "urgency"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Altol whirled around.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone was suddenly there, grappling with the Ulk.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "H-how?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He tried to help, but Shirone teleported again, leaving him stunned.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Whoa. That's magic, right?",
+      "tone": "amazed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The children gaped as Shirone blinked around the Ulk, dodging every attack.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Grrraaah!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Frustrated, the Ulk turned toward the group.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Aaaah!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The terrified children scattered—except Lumina, frozen in place.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Altol",
+      "content": "Lumina! Run!",
+      "tone": "urgency"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lumina",
+      "content": "A…ah…",
+      "tone": "terrified"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone reached out, combining photon output with omnipresence.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "But Lumina was outside the Spirit Zone's range.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "No! Too far!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He reshaped the zone into a cross, finally sensing the Ulk.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Photon Output!",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "A flash struck the Ulk's eyes. It howled, shielding its face.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "He did it! Shirone beat it!",
+      "tone": "triumphant"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The dazzling light made them think the monster was dead.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "But Shirone knew photons had no physical force.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Lumina! Run! Now!",
+      "tone": "urgency"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lumina",
+      "content": "What? It just shoots light?",
+      "tone": "confused"
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Grrraaah!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Ulk recovered and pounced.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Its claws snagged Lumina's hair tie, freeing her locks.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone grabbed the Ulk's waist and teleported.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Grrraaah!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They soared skyward, then plummeted toward the cliff.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Ulk thrashed, but Shirone kept teleporting, disorienting it.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He'd set the teleportation vector downward—a forbidden technique.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "What now? If we fall, it won't die.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Teleporting canceled kinetic energy, making the fall harmless. But releasing the magic meant facing the Ulk's fury.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "I need mass…!",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Then, a shiver ran down Shirone's spine. An overwhelming sensation flooded his mind—fragments of thought: the universe's birth, gauge symmetry, a swirling vortex above his bed.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Mass wasn't force. It was the power to breach cosmic symmetry.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The void he'd felt upon returning from infinity—the missing piece was gravity.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "As omnipresence aligned, the dissonance resolved. The condition for magic was met.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone photonized the Ulk and hurled it downward.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Grra…!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The impact silenced its cry. The body bounced with a hollow thud.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone landed gracefully with Rainbow Drop, staring at the corpse.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Haah. Haah.",
+      "tone": "triumphant"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Matter wasn't born with mass. Another element granted and erased it—a particle beyond human perception.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The Higgs boson.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "That was the truth Shirone had grasped in infinity, the reason for broken symmetry.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Got it. I finally understand.",
+      "tone": "triumphant"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His fists clenched, trembling with emotion so intense it brought tears.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Kyaaaah!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A scream echoed from the cliff.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No way…?",
+      "tone": "surprised"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Ulks were social creatures. It was unlikely to travel alone.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "No!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He teleported back to the summit, freezing at the sight.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dozens of Ulks surrounded the children.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "I underestimated their society.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "W-what do we do? We're dead.",
+      "tone": "desperate"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lumina",
+      "content": "I didn't even get married. I don't want to die.",
+      "tone": "terrified"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's okay, guys. I'll handle this.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "How? Just run. You can escape with magic.",
+      "tone": "dismissive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's fine. Now, breaking the rules doesn't matter.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He stepped toward the pack.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Altol",
+      "content": "Shirone! It's dangerous!",
+      "tone": "alarmed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's okay. I'll handle this.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The silver-furred chieftain nodded, and its lieutenant charged.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Grrraaah!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone gathered photons in his palm.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Not enough. More… more…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The light paled, then flared blindingly white.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Ulk closed in.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone gauged the distance, altering the photons' properties.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the children's screams peaked, the Ulk swung.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone teleported a meter back, eyes wide.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Now!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He hurled the compressed photons.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "A pale flash struck the Ulk's stomach, crushing it before erupting into a golden beam.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Grrraaah!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The creature flew back, colliding with others and tumbling down the mountain.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No way. Did you see that? That huge monster just flew dozens of meters.",
+      "tone": "amazed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lumina",
+      "content": "How? Is that magic?",
+      "tone": "confused"
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Ma…gic…user…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The chieftain sniffed, its intelligence evident as it spoke in broken human tongue.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "He could win.",
+      "tone": "resolute"
+    }
+  ],
+  "source_hash": "fbade0bf2a5c37fdba0c36bd1402516ce16cc12415192781a9f1d738da4f0dd8",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T07:41:11.376716+00:00"
+}

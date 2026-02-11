@@ -1,0 +1,755 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "Identifying Friend or Foe (1)"
+    },
+    {
+      "type": "action",
+      "content": "First Legion Commander Baal."
+    },
+    {
+      "type": "action",
+      "content": "Just possessing a Demon Realm capable of destroying planets set him apart from other commanders."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Baal",
+      "content": "'This is serious.'"
+    },
+    {
+      "type": "action",
+      "content": "More than anything, Shirone couldn't understand how the Ivory Tower, home to humanity's strongest mages, could be breached so easily."
+    },
+    {
+      "type": "action",
+      "content": "From Xing's calm expression, Shirone realized."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "…Did you let them in on purpose?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Xing",
+      "content": "You brought this upon yourself,"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Xing",
+      "content": "You shouldn't have come here. It's better for the Ivory Tower to disappear than to give the Grand Star freedom."
+    },
+    {
+      "type": "action",
+      "content": "Shirone's eyes widened."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Why go to such lengths? You've saved humanity from countless crises. What's the reason?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Xing",
+      "content": "There was a time when we needed the Grand Star's power. Now it's different. When the outside world opens, the Cell Buster will activate. And the Grand Star will be at the forefront of that destruction."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "That's not true."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Xing",
+      "content": "Trust me, Shirone. The managers are not human. They have no hearts. The only reason they've protected humanity so far is because of their programming."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Even if they're programmed, they have will. They have affection for the world they created."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Xing",
+      "content": "That's just how they were designed."
+    },
+    {
+      "type": "action",
+      "content": "Xing said."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Xing",
+      "content": "Every being except me is an illusion. In this world, I am the only reality. My parents, my friends, everyone I've met, they're all just programs."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'm not a program."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Xing",
+      "content": "You might be. But how can you prove it?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'm not crazy. Deciding something based on 'probably' is too much responsibility for our shoulders."
+    },
+    {
+      "type": "action",
+      "content": "Xing pointed at Shirone."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Xing",
+      "content": "How we define the managers will change humanity's future. The stars who follow me believe you haven't proven anything. The stars who follow you just believe in you. That's purely emotional."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "That's not true."
+    },
+    {
+      "type": "action",
+      "content": "Shirone shook his head."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Just because it can't be proven doesn't mean it's false. It's almost certainly true. If it's almost certainly true, it's much more efficient to believe it and act on it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Xing",
+      "content": "Even if that trust could lead humanity to ruin? Wake up, Shirone. Even if I concede that you have a point, the Grand Star is clearly a manager. I'm helping you. I'm removing threats so you can pursue the outside world."
+    },
+    {
+      "type": "action",
+      "content": "The Ivory Tower shook violently."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Baal",
+      "content": "Go, Shirone."
+    },
+    {
+      "type": "action",
+      "content": "As Baal broke through the 70th floor, the Grand Star spoke."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Grand Star",
+      "content": "We must prevent the Ivory Tower from being destroyed. You're the only one who can fight now."
+    },
+    {
+      "type": "action",
+      "content": "Xing said."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Xing",
+      "content": "Leave the Ivory Tower, Shirone. You can't go down. The stars will block you."
+    },
+    {
+      "type": "action",
+      "content": "As soon as she finished speaking, Yin and Yang raised their hands, unleashing the harmony of Yin and Yang."
+    },
+    {
+      "type": "sfx",
+      "content": "'An incredible law.'"
+    },
+    {
+      "type": "action",
+      "content": "Xing's enforcement was the strongest in the Ivory Tower."
+    },
+    {
+      "type": "action",
+      "content": "But the one she was trying to restrain wasn't Shirone, but the Grand Star behind him."
+    },
+    {
+      "type": "sfx",
+      "content": "'Even in countless crises for humanity, Yin and Yang have no record of action.'"
+    },
+    {
+      "type": "action",
+      "content": "Why did Xing hide them?"
+    },
+    {
+      "type": "sfx",
+      "content": "'To fight the managers.'"
+    },
+    {
+      "type": "action",
+      "content": "If her determination was this strong, persuading her through conversation was impossible."
+    },
+    {
+      "type": "sfx",
+      "content": "'Grand Star.'"
+    },
+    {
+      "type": "action",
+      "content": "Shirone glanced briefly at the Grand Star bound by the law of Yin and Yang and spoke."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hold on a little longer. I'll come back to save you."
+    },
+    {
+      "type": "action",
+      "content": "The Grand Star nodded, and Shirone's gaze turned to the door behind Sing."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You'll regret this."
+    },
+    {
+      "type": "action",
+      "content": "Before she finished speaking, Shirone had already passed Sing and was heading outside."
+    },
+    {
+      "type": "action",
+      "content": "As the Holy War progressed, the rough outlines of alliances began to form."
+    },
+    {
+      "type": "action",
+      "content": "Even amid the heated debates of the leaders, factions were becoming clear."
+    },
+    {
+      "type": "sfx",
+      "content": "'Jive, Iron, Arachne. They're allies.'"
+    },
+    {
+      "type": "action",
+      "content": "The three countries that had held a banquet last night, and it made sense through Omega."
+    },
+    {
+      "type": "sfx",
+      "content": "'They're countries with moderate policies. But if you look deeper…'"
+    },
+    {
+      "type": "action",
+      "content": "They were all monsters of greed."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gis",
+      "content": "We'll take a one-hour recess."
+    },
+    {
+      "type": "action",
+      "content": "As lunchtime arrived, the leaders of each country left one by one, following their alliance structures."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "King Gis",
+      "content": "Let's go. Jive will host."
+    },
+    {
+      "type": "action",
+      "content": "King Gis of Jive led the royals of Iron and Arachne to the dining hall."
+    },
+    {
+      "type": "action",
+      "content": "As Shirone watched, a girl ran down the hallway."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rebecca",
+      "content": "Dad!"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gis",
+      "content": "Oh, my princess."
+    },
+    {
+      "type": "action",
+      "content": "It was Gis's daughter, Rebecca."
+    },
+    {
+      "type": "action",
+      "content": "She looked about thirteen years old and was adorned with jewelry that didn't match her age."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gis",
+      "content": "My daughter."
+    },
+    {
+      "type": "action",
+      "content": "The royals praised her."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gis",
+      "content": "She's already so beautiful. Well, Jive is full of beauties."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "Haha! She takes after her mother. She's beautiful but immature, so I worry as a father."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rebecca",
+      "content": "Dad!"
+    },
+    {
+      "type": "action",
+      "content": "Rebecca shouted, and the royals laughed."
+    },
+    {
+      "type": "sfx",
+      "content": "'Hmph, not even worth 70 points.'"
+    },
+    {
+      "type": "action",
+      "content": "As Prince Marcus of Iron appraised the thirteen-year-old, Rebecca's eyes widened."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rebecca",
+      "content": "Huh?"
+    },
+    {
+      "type": "action",
+      "content": "She saw Shirone at the end of the hallway."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rebecca",
+      "content": "Yahweh…"
+    },
+    {
+      "type": "action",
+      "content": "As Shirone slightly bowed his head, she smiled and waved."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Rebecca."
+    },
+    {
+      "type": "action",
+      "content": "Sensing the killing intent in her father's voice, she lowered her hand."
+    },
+    {
+      "type": "sfx",
+      "content": "'Oops.'"
+    },
+    {
+      "type": "action",
+      "content": "Gis was the kind of person who would kill even his daughter if she hindered his ambitions."
+    },
+    {
+      "type": "action",
+      "content": "Of course, Rebecca had no complaints."
+    },
+    {
+      "type": "action",
+      "content": "As long as she accepted that one restriction, she could enjoy many privileges."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Why did she wave at me?"
+    },
+    {
+      "type": "action",
+      "content": "Princess Rebecca of Jive was known for her bad temper and extravagance."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Where have I seen her before?"
+    },
+    {
+      "type": "action",
+      "content": "She seemed vaguely familiar, but no one matched exactly."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Oh."
+    },
+    {
+      "type": "action",
+      "content": "Shirone's eyes widened."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Death Princess?"
+    },
+    {
+      "type": "action",
+      "content": "The meal prepared by the Kingdom of Jive was conducted in strict secrecy."
+    },
+    {
+      "type": "action",
+      "content": "The royals sat at a long table, enjoying a feast, and Rebecca was at the end."
+    },
+    {
+      "type": "sfx",
+      "content": "'Boring.'"
+    },
+    {
+      "type": "action",
+      "content": "She thought of Shirone."
+    },
+    {
+      "type": "sfx",
+      "content": "'He really looks the same like in High Gear. Ah, those were fun times. Did he recognize me?'"
+    },
+    {
+      "type": "action",
+      "content": "She had changed her hair color and other features to hide her identity, but she was secretly hopeful."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vasak",
+      "content": "I'm just not feeling hungry,"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vasak",
+      "content": "Having to eat every day is exhausting, isn't it? No matter what it is, it all tastes the same after a while. At times like this, I envy the commoners. Haha!"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gis",
+      "content": "For people like us, that really is a big problem."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gis",
+      "content": "Eating deliciously is important for energy—and for running a nation, no less. That's why we've developed a new dish."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vasak",
+      "content": "A new dish?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gis",
+      "content": "A door opposite the entrance opened, and five children, barefoot and emaciated, were dragged in with collars around their necks."
+    },
+    {
+      "type": "action",
+      "content": "The children were so starved their ribs were visible, and their eyes had lost focus."
+    },
+    {
+      "type": "sfx",
+      "content": "Ah… ah…"
+    },
+    {
+      "type": "action",
+      "content": "When the smell of food reached their noses, they shuddered violently as if struck by lightning."
+    },
+    {
+      "type": "sfx",
+      "content": "Food! Food… urgh!"
+    },
+    {
+      "type": "action",
+      "content": "The children scrambled on all fours toward the table, only to choke and gasp as their collars pulled tight."
+    },
+    {
+      "type": "action",
+      "content": "A muscular man kept the collars firmly tethered, ensuring they couldn't reach the table."
+    },
+    {
+      "type": "action",
+      "content": "As the royal members of Iron and Arachne looked on in stunned silence, Gis smiled and asked,"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gis",
+      "content": "Now, doesn't this whet your appetite?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus",
+      "content": "Ah, indeed. I'm starting to feel my appetite coming back."
+    },
+    {
+      "type": "action",
+      "content": "As the meal continued, the collared children flailed their arms toward the table."
+    },
+    {
+      "type": "sfx",
+      "content": "Please… food… please give us something to eat."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "One royal",
+      "content": "The steak is excellent,"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "One royal",
+      "content": "I must admit, King Gis of Jive has exceptional culinary skills."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gis",
+      "content": "Haha! You flatter me."
+    },
+    {
+      "type": "action",
+      "content": "Most of those present enjoyed the scene, but Rebecca frowned at the state of the children."
+    },
+    {
+      "type": "sfx",
+      "content": "Ugh, if they were going to do this, they could've at least cleaned the kids up. Always so filthy, that Gis…"
+    },
+    {
+      "type": "action",
+      "content": "Having watched Gis indulge in drugs and debauchery since childhood, Rebecca was unsurprised."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "One royal",
+      "content": "By the way… chomp… I notice Havitz… chomp… has been quiet."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "One royal",
+      "content": "What could he even do at the sanctuary? Act tough? It's all posturing. When it comes to survival, there's nothing people won't do,"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gis",
+      "content": "Exactly! As if none of us have killed someone in our youth. It's always the foolish ones who act high and mighty over it. If that guy's Satan, then I'm Satan's grandfather."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "One royal",
+      "content": "Ha ha ha! Now that's a quote!"
+    },
+    {
+      "type": "action",
+      "content": "The royals burst into laughter, and even Havitz opened his mouth wide, grinning."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "When you aim high, some people get killed unfairly, hmm? And when you're under a lot of stress, hmm? Sometimes you just go for it instinctively. What can we say? We're men, after all."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "One royal",
+      "content": "Beasts, beasts! Ha ha ha."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "Exactly, beastly instincts! Without boldness like this, how could you run a nation? People just don't understand."
+    },
+    {
+      "type": "action",
+      "content": "Rebecca wasn't offended."
+    },
+    {
+      "type": "action",
+      "content": "The same talk, over and over. Acting like they single-handedly hold the country together. Hurry up and start the auction already."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "Thank you for the meal,"
+    },
+    {
+      "type": "action",
+      "content": "Havitz said, placing his utensils on the plate and wiping his lips with a napkin as he stood."
+    },
+    {
+      "type": "sfx",
+      "content": "Food… food…"
+    },
+    {
+      "type": "action",
+      "content": "Glancing briefly at the starving children, Havitz threw a piece of meat from the table to the ground."
+    },
+    {
+      "type": "sfx",
+      "content": "Ah! Ahhh!"
+    },
+    {
+      "type": "action",
+      "content": "The children ravenously devoured the meat as Havitz crouched down and asked,"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "Is it good?"
+    },
+    {
+      "type": "action",
+      "content": "One child lifted their head, startled."
+    },
+    {
+      "type": "action",
+      "content": "But when they looked up, there was no one there."
+    },
+    {
+      "type": "sfx",
+      "content": "That fleeting moment of purity might have seemed remarkable to some, but to Havitz, it was just that—a fleeting moment."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "Satan's grandfather, huh…"
+    },
+    {
+      "type": "action",
+      "content": "Losing interest, Havitz walked toward Gis at the head of the table and grabbed his wrist."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "Anyway, help me out a bit. The leadership council is supposed to mean unity, isn't it?"
+    },
+    {
+      "type": "action",
+      "content": "Gis's arm bent as the knife in his hand drew dangerously close to his own eye."
+    },
+    {
+      "type": "sfx",
+      "content": "Hm."
+    },
+    {
+      "type": "action",
+      "content": "Under normal circumstances, Havitz would have gouged his eye out."
+    },
+    {
+      "type": "action",
+      "content": "Not yet."
+    },
+    {
+      "type": "action",
+      "content": "But with ongoing dealings involving Uorin, it was too soon to harm the king."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "I'm bored. Isn't there anything fun to do?"
+    },
+    {
+      "type": "action",
+      "content": "Circling the table, Havitz took a seat next to Rebecca."
+    },
+    {
+      "type": "thought",
+      "speaker": "Rebecca",
+      "content": "Maybe I'll seduce Shirone. My father would love it. I'll have to buy some hallucinogens later."
+    },
+    {
+      "type": "action",
+      "content": "Havitz heard her thoughts and shook his head."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "It's all the same, everywhere."
+    },
+    {
+      "type": "action",
+      "content": "With a loud bang, he propped both feet on the table, tilting his chair back."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Havitz",
+      "content": "Isn't there anything new?"
+    },
+    {
+      "type": "action",
+      "content": "Something to truly amuse him."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "Look over there."
+    },
+    {
+      "type": "action",
+      "content": "At the far horizon, the grand capital of Jive loomed."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "Simultaneous events can't happen in the same space. This place will disappear. Let's meet in Delta,"
+    },
+    {
+      "type": "action",
+      "content": "Amy and Shirone clasped hands."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Got it. I'll make sure Wizard infiltrates Delta safely. With Ikael here, there's nothing to worry about."
+    },
+    {
+      "type": "action",
+      "content": "Watching this tender moment, Wizard lowered her head somberly."
+    },
+    {
+      "type": "action",
+      "content": "This girl…"
+    },
+    {
+      "type": "action",
+      "content": "As Ikael observed, Shirone placed a hand on Wizard's shoulder."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Don't feel burdened. If anything happens, I'll step in. Do you think you can do it?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "Kill Havitz."
+    },
+    {
+      "type": "action",
+      "content": "Life returned to Wizard's eyes."
+    },
+    {
+      "type": "action",
+      "content": "I won't disappoint them."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "Yes."
+    },
+    {
+      "type": "action",
+      "content": "As Shirone dismantled the simultaneous event and Amy reached out to Wizard, she smiled and said,"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Let's go, shall we?"
+    },
+    {
+      "type": "action",
+      "content": "Wizard hesitated briefly before taking her hand and moving forward."
+    },
+    {
+      "type": "thought",
+      "speaker": "Wizard",
+      "content": "My master couldn't kill Satan. But I can. All I have to do is kill Havitz. And maybe… just maybe…"
+    }
+  ],
+  "source_hash": "a8d6f98f29f3a22123e9d4eac23a6917eb3d2215ca9a689adafc9dec57d5bbdd",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T04:37:55.306550Z"
+}

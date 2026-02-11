@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\grpc\_compression.py
+# hypothesis_version: 6.148.8
+
+['Deflate', 'Gzip', 'NoCompression', 'deflate', 'gzip', 'identity']

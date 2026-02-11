@@ -1,0 +1,649 @@
+{
+  "blocks": [
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "Weren't you expecting this when you followed me? Do you even realize how much of an honor it is to enter my bedchamber?",
+      "tone": "arrogant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "I clearly told you I didn't want to.",
+      "tone": "firm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "Hmph, how arrogant. You really don't know your place.",
+      "tone": "condescending"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zion ground his teeth but soon regained his smug smile as though an idea had come to him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "Fine. Then as royalty, I give you an order. Attend to me tonight.",
+      "tone": "commanding"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "No. Even if you're a prince, I'm a noble of Thormia. I do not obey orders from foreign kingdoms.",
+      "tone": "defiant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "Really? You think you're so high and mighty, huh? Then how about this? If you don't come to my embrace tonight, I'll wage war against Thormia.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy looked at Zion with an expression of disbelief.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Do you think it's impossible? Kazra will be mine soon enough. Once I become king, I'll start by conquering Thormia. Your actions will lead to your kingdom's downfall.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It wasn't an entirely impossible situation. If Zion became king of Kazra, Teraje would spare no effort in supporting his ambitions to expand his influence.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zion gave a vile smile, taking Amy's slow bow of her head as a sign of resignation.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "But at that moment, a cold voice flowed from Amy's mouth as she looked down.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Go ahead and try if you can.",
+      "tone": "resolute"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "What?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "If you want war, by all means, go ahead and start one.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "You've got to be joking. You're really asking for it now, aren't you?",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "To think a mere noble would dare not use honorifics with the first prince. But compared to Amy's declaration of being unfazed by war, it was barely shocking.",
+      "tone": "disdainful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "Don't tell me you thought I was joking? If so, you'll surely regret it.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy couldn't hold back and burst into laughter.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Don't talk nonsense. You think you're going to be king? Don't flatter yourself. Your position as First Prince isn't even secure.",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "Why you really...",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "True, I might have been a bit nervous if it was Empress Teraje. But you? You're not even going to be emperor, are you? You think a brat like you scares me?",
+      "tone": "scornful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zion's eyes gleamed with murderous intent. Never in his life had he been so insulted.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zion",
+      "content": "His mind changed. He wouldn't kill Amy. He would just leave her barely alive.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zion",
+      "content": "And he would surely reduce Thormia to ashes and watch tears of blood flow from her eyes.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Those words... You're going to take responsibility for them, aren't you?",
+      "tone": "accusatory"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Responsibility? No, I won't take responsibility for anything. Even if a war breaks out because of me. And if you dare to invade our kingdom…",
+      "tone": "defiant"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy's Red Eyes began to glow with a menacing crimson light.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "At that time, I will also fight with my life as a subject.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zion flinched at the murderous intent emanating from Amy's Red Eyes.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zion",
+      "content": "It felt as if his blood had frozen. Who would have thought such extreme determination lay within the girl who was blushing in the banquet hall.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "They say mages are eccentric....",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "You, what are you plotting? Why did you bring me to this room?",
+      "tone": "accusatory"
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "From the circumstances so far, Zion hadn't brought her here just to satisfy his physical desires.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "It didn't match his personality to mention Shirone's parents for something so trivial.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "In the end, he's after Shirone for something, but just what…?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy's lips trembled as the realization dawned on her.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Zion wasn't the important factor here. Teraje Faction was planning to settle everything tonight, once and for all.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "She had to find Shirone immediately.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Entering the Spirit Zone, the door's location came through synesthesia.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Was it a structure that could be opened from inside?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She could open it, but she remembered that it had been locked. The only option was to break through. With her Fireball omniscience already prepared, Amy waited for the right moment.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "And when Zion's face twisted like a beast's, she rushed to the door.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Armand!",
+      "tone": "urgent"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The demon sword defied inertia and flew straight into Zion's hand.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Without even glancing at it, he swung his arm, hurling the blade.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sensing the trajectory of the sword through her Spirit Zone, Amy twisted her body.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With a thud, Armand embedded itself in the door.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Without her Spirit Zone, she would have died.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zion",
+      "content": "He really intends to kill me. He's going all the way…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zion's composed expression was irritating. Given the situation, this was his golden opportunity to corner her, yet he didn't seem rushed.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Amy quickly realized why.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Armand. From the sword lodged in the door, she could feel a malevolent energy, the likes of which she had never encountered before.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "It felt vile, like something repulsive was clinging to the door. Just being near it was horrifying.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "Do you think you'll get away with this? I'm also a well-known person in our kingdom.",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "Karmis Family, huh. They are a bit troublesome. But once Shirone is dead, none of it will matter.",
+      "tone": "cold"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Assassination is the most efficient means of overthrowing power.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zion",
+      "content": "Not because the dead person held important value. Because the dead cannot speak.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zion",
+      "content": "If Shirone dies, the living can create hundreds of circumstances.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zion",
+      "content": "Shirone's soul may wail in the underworld, but there will be no way to appeal his grievance.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "I have to get out of here, somehow.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy bit down hard on her lip, gathering her resolve.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "As her teeth sank into her lip and she tasted blood, the nauseating sensation from the demon sword lessened slightly.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Let's go out on the count of three.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As she was counting in her mind like this, Zion extended his hand and recalled Armand.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy frowned at the unexpected turn of events.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "It was strange to recall the sword after blocking the escape route. Yet she didn't think Zion could face her with the sword either.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy watched Zion with wary eyes.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "His face showed no tension as he stood holding the sword. Could he have secretly devoted himself to swordsmanship?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "What a shame. You could've had the thrill of your life tonight. But thanks to your petty noble pride, you're going to die a virgin.",
+      "tone": "cruel"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "I won't be dying by your hand, but if I do become a vengeful spirit, I swear you'll be the first to go. If you see me in your dreams, then go ahead and believe in the afterlife.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zion's face contorted.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Zion",
+      "content": "Mages are all just talk, so it's hard to break even in verbal fights. In the end, show of force is the special remedy.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zion, imagining Amy's miserable future to calm himself, held Armand vertically close to his body and muttered.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zion",
+      "content": "Diamond Armor.",
+      "tone": "resolute"
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Ching!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With a 'ching!' sound of metal springing, Armand's blade split and cracked open like spider legs.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The hilt came loose and the pommel and grip separated.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The once skeletal frame of the sword, now reminiscent of a building's bare structure, began to ooze red fibers akin to the essence of a living organism.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Amy was seized by an even more vicious feeling than when she sensed it through the Spirit Zone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Armand, centered around its crimson jewel, morphed into a form resembling a massive spider.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But what followed was even more disturbing.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The split blade, now divided into dozens of legs, began to envelop Zion, covering him from head to toe.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy frowned at the grotesque sight, but in the blink of an eye, the repulsive form began to take on a shape more pleasing to the human eye.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The part that was the handle transformed into a helmet protecting the face, while the blade extended over the top of his head, cascading down his back and clinging to his core muscles, forming a foundational skeleton.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "From that skeletal structure, metallic elements expanded, taking the shape of armor.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The metal, now encasing his wrists, turned into gauntlets, and the metal extending down his legs transformed into pointed metal boots.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the armor protected his vital organs, the red fibers wrapped around his joints, tightening without leaving any gaps.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Finally, an enormous amount of fiber leaked from the neck guard, transforming into a fluttering cape.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "From Amy's perspective, everything happened in an instant, as if he had transformed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With his face concealed by the cross-shaped visor of his helmet, Zion lowered his arms and clenched his fists.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At that signal, an extremely thin needle pierced Zion's nape and connected to his spinal cord.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Gothic",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Copying the user's brain function. Sharing. Activating linguistic cognition.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Armand's voice echoed in Zion's mind, immediately began to adjust his bio-signals.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Gothic",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Strength enhancement. Bone density increases.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Endoskeleton augmentation. Maximizing neural transmission speed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Metallic proliferation complete. Weapon generation and transformation enabled. Specialized for killing. Optimized for close combat.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Ching! Ching!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "30-centimeter blades sprang from both of Zion's gauntlets.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy gulped.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Except for the eyes visible through the cross's grooves, all of Zion's parts were concealed by the demon sword.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Judging by its appearance, it seemed that the fibers had enveloped most of his body, with the armor layered over them.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "This didn't make sense.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Judging by the weight of the metal alone, it was clearly far heavier than the original sword, even by rough estimates.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "And the armor—what were those fibers supposed to be?",
+      "tone": null
+    }
+  ],
+  "source_hash": "451ab0b355573a71669db2890c3859b53f875d7a77398d1f3ed0ce8b9170924e",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T18:22:59.307498+00:00"
+}

@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\grpc_status\rpc_status.py
+# hypothesis_version: 6.148.8
+
+['_Status', 'aio', 'code', 'details', 'from_call', 'to_status', 'trailing_metadata']

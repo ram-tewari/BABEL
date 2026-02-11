@@ -1,0 +1,813 @@
+{
+  "blocks": [
+    {
+      "type": "dialogue",
+      "speaker": "Aider",
+      "content": "How about my strategy? It worked perfectly, didn't it?",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "content": "Screamer licked his lips."
+    },
+    {
+      "type": "thought",
+      "speaker": "Aider",
+      "content": "He never thought Aider was a good guy. Even if he was, would there be anyone in the graduating class who trusted others more than themselves?"
+    },
+    {
+      "type": "narrator",
+      "content": "However, strong self-assertion is often difficult for others to digest."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aider",
+      "content": "Anyway, enough. Reverse position? Were you trying to ruin the game? You should have at least told us in advance.",
+      "tone": "accusing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Screamer",
+      "content": "Hehe, sorry. It was my trump card, so I kept it hidden. Anyway, now that Maya is down, we have the advantage. I was actually planning to make them lose by disqualification.",
+      "tone": "mischievous"
+    },
+    {
+      "type": "action",
+      "content": "Nade's interference had thwarted his plan."
+    },
+    {
+      "type": "narrator",
+      "content": "Aider prided himself on being crazy, but Nade's face at that moment was something far beyond normal."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aider",
+      "content": "Aider.",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "content": "At Shirone's voice, Aider turned around."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Huh? Shirone, this is our camp. Oh, does it not matter by the rules? Still, eavesdropping on our strategy is cowardly.",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aider",
+      "content": "...Why did you do it?",
+      "tone": "accusing"
+    },
+    {
+      "type": "action",
+      "content": "Aider tilted his head. Then, as if realizing something, he snapped his fingers."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aider",
+      "content": "Oh, you mean Maya? Why? You didn't come all the way here to say something boring, did you?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'll ask again. Why did you do it?",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "content": "Aider's expression twisted."
+    },
+    {
+      "type": "narrator",
+      "content": "Now that his true nature was revealed, he no longer pretended to be intimidated by his seniors."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aider",
+      "content": "What's the problem? I was just trying to put the guard in a groggy state. Screamer hit, Nade hit. Maya is just too weak. If it were Amy...",
+      "tone": "defensive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Don't misunderstand. I'm not here to get angry. That's not what I want to ask.",
+      "tone": "calm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aider",
+      "content": "Really?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "action",
+      "content": "Aider clasped his hands behind his head."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aider",
+      "content": "I told you clearly after the survival test.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "content": "Shirone's eyes turned cold."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Don't mess with me.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "content": "Shirone's eyes turned cold."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aider",
+      "content": "...",
+      "tone": "resigned"
+    },
+    {
+      "type": "narrator",
+      "content": "He had said he would crush anyone who tried to mess with him. In other words, Aider was now on Shirone's hit list."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aider",
+      "content": "Hahaha! So, should I say, 'Oh, I understand. I won't mess with you again'?",
+      "tone": "teasing"
+    },
+    {
+      "type": "action",
+      "content": "In the past, he might have pretended to be scared, but now, with the power of Fermi's organization behind him, he had nothing to fear."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aider",
+      "content": "As long as you understand. I just wanted to confirm that.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "content": "Shirone turned and walked back to his camp."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Shirone turned and walked back to his camp.",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "content": "His friends approached. With only a minute left until the start of the sixth round, they needed to quickly strategize."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Shirone, let's defend this round. Maya needs time to recover her mental strength.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aider",
+      "content": "No, we'll end it here. I'll handle it, just block Screamer's team. If I'm alone as the forward, they won't come to back him up.",
+      "tone": "confident"
+    },
+    {
+      "type": "narrator",
+      "content": "Maya wouldn't be able to recover during the match. Aider's violence had inflicted too deep a wound on her, who had strengthened her omnipotence by excluding her core."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Shirone, don't get excited. I'm annoyed too, but winning is important. Losing will make you even angrier. You know that, right?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's fine. Really, I'm okay.",
+      "tone": "calm"
+    },
+    {
+      "type": "action",
+      "content": "Shirone smiled with his eyes, then suddenly turned with a cold expression."
+    },
+    {
+      "type": "action",
+      "content": "The terrifying chill made his friends step aside."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "This is bad. He's really angry.",
+      "tone": "alarmed"
+    },
+    {
+      "type": "action",
+      "content": "At this point, no one could stop Shirone."
+    },
+    {
+      "type": "action",
+      "content": "As expected, as soon as the sixth round started, Shirone flew straight at Aider without looking at anything else."
+    },
+    {
+      "type": "sfx",
+      "content": "Whew"
+    },
+    {
+      "type": "action",
+      "content": "Aider's smiling lips trembled. It was a strange expression, a mix of fear and excitement."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aider",
+      "content": "The one with the strongest mental strength in the graduating class was flying at him to crush him.",
+      "tone": "excited"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aider",
+      "content": "The more, the merrier.",
+      "tone": "maniacal"
+    },
+    {
+      "type": "thought",
+      "speaker": "Aider",
+      "content": "The thought of not being able to touch the enemy he wanted to kill made his body tingle."
+    },
+    {
+      "type": "action",
+      "content": "Aider dodged through the barrage of Photon Cannons, increasing Shirone's frustration."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aider",
+      "content": "Hahaha! What now? I haven't been hit once. It'll take a lifetime to pay back for hitting Maya.",
+      "tone": "teasing"
+    },
+    {
+      "type": "action",
+      "content": "Shirone didn't respond and landed in front of the flag."
+    },
+    {
+      "type": "action",
+      "content": "Wind Cutters formed in Aider's hands. He planned to counterattack the moment Shirone grabbed the flag."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aider",
+      "content": "Ataraxia.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "content": "As a pale light formed 10 meters above the peak, drawing a huge circle, exclamations erupted from outside the battlefield."
+    },
+    {
+      "type": "action",
+      "content": "It was twice the size of the halo he had used against Dante."
+    },
+    {
+      "type": "action",
+      "content": "Aider stared blankly at the halo. Then, realizing something, he hurriedly retreated outside its range."
+    },
+    {
+      "type": "thought",
+      "speaker": "Aider",
+      "content": "Damn. This guy is really annoying."
+    },
+    {
+      "type": "thought",
+      "speaker": "Aider",
+      "content": "There was indeed such a method. By deploying Ataraxia above the peak, even if someone grabbed the flag, they couldn't easily approach."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aider",
+      "content": "In that case...",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "content": "Aider crouched low, calculating the timing to jump out. Once the magic circle was complete, there would be no opportunity."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "30 seconds.",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aider",
+      "content": "30 seconds left. If you can't stop me within that time, you'll never be able to beat me.",
+      "tone": "confident"
+    },
+    {
+      "type": "thought",
+      "speaker": "Aider",
+      "content": "I know that, damn it."
+    },
+    {
+      "type": "thought",
+      "speaker": "Aider",
+      "content": "Knowing it but being unable to do anything was because he had seen the power of Shirone's magic circle with his own eyes."
+    },
+    {
+      "type": "thought",
+      "speaker": "Aider",
+      "content": "If he got caught up in it, he might end up in the infirmary for the next round, regardless of winning or losing."
+    },
+    {
+      "type": "thought",
+      "speaker": "Aider",
+      "content": "He wouldn't kill me, right?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Aider",
+      "content": "After all, this was the 2000 system."
+    },
+    {
+      "type": "thought",
+      "speaker": "Aider",
+      "content": "In a real battle, he would never make such a choice, but with the filter of simulation, it seemed like a winnable gamble."
+    },
+    {
+      "type": "thought",
+      "speaker": "Aider",
+      "content": "I'm going in!"
+    },
+    {
+      "type": "action",
+      "content": "The fact that a magician's power drops to less than half in a time-split state also contributed to Aider's decision."
+    },
+    {
+      "type": "thought",
+      "speaker": "Aider",
+      "content": "It should have been that way."
+    },
+    {
+      "type": "thought",
+      "speaker": "Aider",
+      "content": "But as the Photon Cannon brushed past, his hair stood on end."
+    },
+    {
+      "type": "thought",
+      "speaker": "Aider",
+      "content": "Damn! Is it still impossible?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Aider",
+      "content": "In terms of single combat power, Shirone was expected to be among the top in the graduating class."
+    },
+    {
+      "type": "thought",
+      "speaker": "Aider",
+      "content": "Even in a time-split state, the power of one shot was beyond Aider's capacity."
+    },
+    {
+      "type": "thought",
+      "speaker": "Aider",
+      "content": "No, it won't hit me. It can't hit me."
+    },
+    {
+      "type": "thought",
+      "speaker": "Aider",
+      "content": "The deal with Fermi had certainly paid off."
+    },
+    {
+      "type": "thought",
+      "speaker": "Aider",
+      "content": "With Ghost Movement, he could graduate even without Fermi's gang's help."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What? Even Shirone is nothing special? That's why you were just sucking your thumb while Maya got hit.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "content": "Shirone fired the Photon Cannon at maximum speed."
+    },
+    {
+      "type": "action",
+      "content": "But Ghost Movement effortlessly pushed Aider's body aside, dodging the flash."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aider",
+      "content": "Hahaha! I told you, it won't work! So from the beginning...",
+      "tone": "teasing"
+    },
+    {
+      "type": "action",
+      "content": "At that moment, a powerful impact hit the back of his head."
+    },
+    {
+      "type": "thought",
+      "speaker": "Aider",
+      "content": "Huh...?"
+    },
+    {
+      "type": "action",
+      "content": "Aider's leg wobbled."
+    },
+    {
+      "type": "narrator",
+      "content": "The AT algorithm was broken. The fear of that fact was greater than the pain of the anti-magic."
+    },
+    {
+      "type": "thought",
+      "speaker": "Aider",
+      "content": "Looking up in disbelief, Shirone's face blurred. The impact was much stronger than expected."
+    },
+    {
+      "type": "thought",
+      "speaker": "Aider",
+      "content": "It was a direct hit."
+    },
+    {
+      "type": "thought",
+      "speaker": "Aider",
+      "content": "But how?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Aider",
+      "content": "The AT algorithm responds to all objects causing air resistance. Whether it came from behind or rose from the ground, it should have reacted."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dorothy",
+      "content": "What... is that?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dorothy",
+      "content": "Laser-guided algorithm.",
+      "tone": "amazed"
+    },
+    {
+      "type": "thought",
+      "speaker": "Aider",
+      "content": "It was a high-level core comparable to the AT algorithm. The omnipotence of lasers itself was top-tier."
+    },
+    {
+      "type": "thought",
+      "speaker": "Aider",
+      "content": "That's why I..."
+    },
+    {
+      "type": "thought",
+      "speaker": "Aider",
+      "content": "Dorothy's constructs also had functions similar to the AT algorithm. But the laser-guided algorithm was practically a nemesis to the automatic reflection function."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aider",
+      "content": "Damn it! Damn it! Damn it!",
+      "tone": "frustrated"
+    },
+    {
+      "type": "action",
+      "content": "Aider flew around the peak, dodging the homing Photon Cannons. But no matter where he fled, he couldn't shake them off."
+    },
+    {
+      "type": "thought",
+      "speaker": "Aider",
+      "content": "He wanted to peel off the skin marked by the red dot."
+    },
+    {
+      "type": "thought",
+      "speaker": "Aider",
+      "content": "It was a spell with a power approaching 8,000 press per shot."
+    },
+    {
+      "type": "thought",
+      "speaker": "Aider",
+      "content": "Damn it! What kind of spell is this!"
+    },
+    {
+      "type": "action",
+      "content": "The flight trajectory of the homing Photon Cannon, which intercepted a level 7 drone, was enough to catch up with the movements of a frontline professional magician."
+    },
+    {
+      "type": "action",
+      "content": "Aider couldn't escape the clutches of the laser-guided algorithm and was eventually caught."
+    },
+    {
+      "type": "sfx",
+      "content": "Ugh!"
+    },
+    {
+      "type": "action",
+      "content": "Just before colliding with the homing Photon Cannon, Aider's body wobbled, and the flash grazed past."
+    },
+    {
+      "type": "action",
+      "content": "The relief was short-lived; true fear set in."
+    },
+    {
+      "type": "sfx",
+      "content": "Eight beams of light slid endlessly over the AT algorithm like hyenas circling their prey."
+    },
+    {
+      "type": "thought",
+      "speaker": "Aider",
+      "content": "Huh? Huh?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Aider",
+      "content": "As his body shook involuntarily, nausea surged. But the fear of the impending impact was even greater."
+    },
+    {
+      "type": "sfx",
+      "content": "Aaaah!"
+    },
+    {
+      "type": "action",
+      "content": "The homing Photon Cannon, coiling around his waist like a snake, exploded on the back of his head."
+    },
+    {
+      "type": "sfx",
+      "content": "Ugh!"
+    },
+    {
+      "type": "action",
+      "content": "If not for his endurance from passing survival level 4, he would have lost consciousness."
+    },
+    {
+      "type": "action",
+      "content": "Aider, who had crashed to the ground, lifted his head. His emotions were laid bare, showing a demonic expression."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aider",
+      "content": "This damn...!",
+      "tone": "enraged"
+    },
+    {
+      "type": "sfx",
+      "content": "Bang bang bang bang bang bang!"
+    },
+    {
+      "type": "action",
+      "content": "The successive impacts from the air drowned out Aider's voice."
+    },
+    {
+      "type": "action",
+      "content": "The homing Photon Cannon showed no mercy. The unfeeling light bombarded wherever the laser guided."
+    },
+    {
+      "type": "sfx",
+      "content": "Aaaah!"
+    },
+    {
+      "type": "action",
+      "content": "Aider clutched his head in agony. It felt like hundreds of spikes were drilling into his brain."
+    },
+    {
+      "type": "thought",
+      "speaker": "Aider",
+      "content": "Realizing he couldn't win like this, he saw Shirone approaching and hurriedly knelt."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aider",
+      "content": "I-I'm sorry! Brother!",
+      "tone": "pleading"
+    },
+    {
+      "type": "action",
+      "content": "Shirone's steps halted."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What did you do wrong?",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aider",
+      "content": "Hitting Maya. Hiding my true nature and pretending otherwise. I'm originally like this. I can't help it. But I won't do it again. I'll apologize to her.",
+      "tone": "pleading"
+    },
+    {
+      "type": "action",
+      "content": "Magicians know exactly how their actions affect the outside world."
+    },
+    {
+      "type": "action",
+      "content": "Therefore, they do not show anger unless it leads to the best outcome."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "...Make sure to apologize to Maya.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "content": "Shirone walked past Aider."
+    },
+    {
+      "type": "thought",
+      "speaker": "Aider",
+      "content": "Ah, Shirone... you really are..."
+    },
+    {
+      "type": "action",
+      "content": "Aider's eyes flickered as he watched Shirone."
+    },
+    {
+      "type": "thought",
+      "speaker": "Aider",
+      "content": "If he could land a proper blow on the back of Shirone's head, if he could see Shirone's eyes filled with blood and beat him..."
+    },
+    {
+      "type": "thought",
+      "speaker": "Aider",
+      "content": "How thrilling would that be?"
+    },
+    {
+      "type": "action",
+      "content": "The mere thought sent shivers down his spine, almost making him lose consciousness."
+    },
+    {
+      "type": "action",
+      "content": "The anticipated pleasure led him into the Spirit Zone. With the AT algorithm activated, the Ghost Movement spell began to envelop him."
+    },
+    {
+      "type": "thought",
+      "speaker": "Aider",
+      "content": "I can do it. At this distance, he can't counterattack!"
+    },
+    {
+      "type": "action",
+      "content": "Shirone looked up at the sky. His burning anger quickly froze over."
+    },
+    {
+      "type": "action",
+      "content": "The sky was cold."
+    },
+    {
+      "type": "action",
+      "content": "With 100% concentration, he sharpened his Spirit Zone, and the core and omnipotence created a powerful synergy."
+    },
+    {
+      "type": "action",
+      "content": "Suppressing even the slightest anger, he added it to his magical power."
+    },
+    {
+      "type": "action",
+      "content": "That was the anger of a magician."
+    },
+    {
+      "type": "thought",
+      "speaker": "Aider",
+      "content": "Now!"
+    },
+    {
+      "type": "action",
+      "content": "Just as Aider, eyes wide open, was about to lunge at Shirone, Screamer shouted."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Screamer",
+      "content": "Idiot! Above! Above!",
+      "tone": "alarmed"
+    },
+    {
+      "type": "action",
+      "content": "Aider's face went blank as he looked up."
+    },
+    {
+      "type": "action",
+      "content": "Ataraxia was complete. And above it, the laser of the Homing Photon Cannon was aimed at his forehead."
+    },
+    {
+      "type": "action",
+      "content": "It was different in power and scale from what he had used on Dante. The synchronization rate was 50% back then, but now it was 80%."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aider",
+      "content": "Damn it!",
+      "tone": "enraged"
+    },
+    {
+      "type": "action",
+      "content": "Aider clutched his head and crouched."
+    },
+    {
+      "type": "action",
+      "content": "The Homing Photon Cannon pierced through Ataraxia, and a massive flash shot straight down from 10 meters above."
+    },
+    {
+      "type": "sfx",
+      "content": "Aaaah!"
+    },
+    {
+      "type": "action",
+      "content": "The massive waterfall of energy turned into anti-magic, destroying Aider's mind. His nose bled like a cannon, and tears of blood flowed."
+    },
+    {
+      "type": "sfx",
+      "content": "Rumble!"
+    },
+    {
+      "type": "action",
+      "content": "Aider's body began to vibrate at a terrifying speed."
+    },
+    {
+      "type": "action",
+      "content": "While humans are not subject to the jungle rule, the interaction between spells was clearly implemented."
+    },
+    {
+      "type": "action",
+      "content": "The AT algorithm, caught in the shockwave, began to function, moving Aider."
+    },
+    {
+      "type": "action",
+      "content": "The problem was... there was nowhere to escape."
+    },
+    {
+      "type": "sfx",
+      "content": "Ugh! Ugh!"
+    },
+    {
+      "type": "action",
+      "content": "Trapped in the massive flash, Aider bounced at an incredible speed. It was as if someone was shaking his spine at will."
+    },
+    {
+      "type": "sfx",
+      "content": "Crack! Crack!"
+    },
+    {
+      "type": "action",
+      "content": "The sound of bones breaking echoed, shocking everyone."
+    },
+    {
+      "type": "action",
+      "content": "The flash lasted only 1.6 seconds, but it was enough time to break every bone."
+    },
+    {
+      "type": "action",
+      "content": "Aider, flung out of the flash, rolled down the hill. His eyes, staring at the sky, were devoid of pupils."
+    },
+    {
+      "type": "action",
+      "content": "Shirone walked back to Aider after Ataraxia disappeared."
+    },
+    {
+      "type": "action",
+      "content": "Even seeing Aider's limbs twisted in impossible directions, his eyes remained calm."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Keep your promise to apologize to Maya.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "content": "If it had been Shirone who was broken, would Aider's actions have been justified?"
+    },
+    {
+      "type": "action",
+      "content": "Was it Maya's weakness, unfit for a magician? Or Aider's extreme cruelty, fitting for a magician?"
+    },
+    {
+      "type": "action",
+      "content": "Was this just part of the harsh competitive system of the graduating class?"
+    },
+    {
+      "type": "action",
+      "content": "There was no need to judge. Shirone would continue forward, and Aider's journey in the graduating class ended here."
+    },
+    {
+      "type": "action",
+      "content": "For a magician, that was all that mattered."
+    },
+    {
+      "type": "action",
+      "content": "The doors to the battlefield opened, and medics rushed in."
+    }
+  ],
+  "source_hash": "fd1aef67cbdbbb5f0f3ac5451eaec1a4a48c19fc4afbaeb872fbfe49192f77a5",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T05:47:49.936785Z"
+}

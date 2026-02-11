@@ -1,0 +1,955 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Wizard's tearful face was cute, but Shirone saw the earnestness in her expression.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "She must be really frustrated.",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Having already opened temporal perception, Shirone knew how difficult it was.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Humans perceive time based on light signals. To break that…",
+      "tone": "analytical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The fundamental part of the brain must change.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Alright.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Wizard's face brightened, but Shirone said something unexpected.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Training ends here. You seem determined enough, so let's open your temporal perception now.",
+      "tone": "assertive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "What do you mean?",
+      "tone": "confused"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The flow of time is just an illusion of the brain, so suddenly opening temporal perception can be dangerous.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "If the present is destroyed, there will be no past or future.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone looked at Ikael.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "This is my mother, Ikael. An archangel's senses are far superior to a human's. From now on, you will experience resonating your mind with hers.",
+      "tone": "proud"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "Mother?",
+      "tone": "surprised"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Wizard tilted her head back as far as she could.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "Nice to meet you. You must be Wizard.",
+      "tone": "friendly"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Ikael bent down and smiled with her eyes, Wizard's mouth opened slightly.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Amazing.",
+      "tone": "impressed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A special dignity that surpassed human aesthetic standards was embodied in her form.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "An angel? Unbelievable.",
+      "tone": "amazed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The teachers and students had similar impressions.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Principal Nikolai",
+      "content": "Ahem.",
+      "tone": "interrupting"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Principal Nikolai cleared his throat and approached.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Principal Nikolai",
+      "content": "I've heard about the resonance process, but isn't it dangerous? As someone responsible for protecting students…",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "Shirone said it's okay, so there won't be any major issues. If it becomes dangerous, I'll stop it.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Principal Nikolai",
+      "content": "Haha, not just the student but you too, Ikael. You're a great star of humanity.",
+      "tone": "flattering"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "You're too kind. Thank you.",
+      "tone": "grateful"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Could it be…?",
+      "tone": "intrigued"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy nudged him in the side.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "What are you worried about? Everyone has that level of affection for her. Besides, your mother doesn't seem interested.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "I know. It's just…",
+      "tone": "hesitant"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone had no prejudice.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He only knew how much Ikael loved and was happy with Goffin.",
+      "tone": "reflective"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone nodded.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Let's begin.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ikael patted Wizard's head.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ikael",
+      "content": "Believe in yourself. That means believing in me. From now on, I'll absorb the holy light into your head. We will think as one mind, and through that process, we can awaken your temporal perception.",
+      "tone": "encouraging"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Remember that the present is in your heart.",
+      "tone": "reminding"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Wizard nodded and closed her eyes as Ikael absorbed the holy light.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Gasp.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The child's chest swelled greatly, and light shone through her trembling eyelids.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Though everything was still quiet outside, a loud conversation must have been happening in Wizard's brain.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Huuu!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Her shoulders trembled after her eyelids, and soon her whole body began to vibrate as if electrocuted.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At the peak of that vibration, Wizard opened her eyes.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Aaaaah!",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Wizard",
+      "content": "I have to hold on here!",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Focusing on her heart calmed her temporal perception, making her existence feel clear.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Huff! Huff!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After catching her breath for a moment, she opened her eyes wide to the newly opened sense.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "Huh? What?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The present felt too long.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Wizard",
+      "content": "How would it feel to live in a moment that had already passed for others?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You did it.",
+      "tone": "praising"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "Teacher.",
+      "tone": "respectful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Wizard tried to approach Shirone, she suddenly stopped feeling a murderous intent.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Next stage then.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone floated the Hand of God above his head and spoke coldly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Dodge my attack.",
+      "tone": "commanding"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "…Here it comes.",
+      "tone": "resigned"
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Boom!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the Hand of God struck the ground with a loud noise, her body was crushed like an ant.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Pass.",
+      "tone": "dispassionate"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "That was just the beginning.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hehe, thank you.",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In reality, they looked at each other with affectionate eyes like a master and disciple pair.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Arriving in the capital of Keshia, Shirone looked around the deserted streets.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "It looks like a ghost town.",
+      "tone": "perceptive"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Only the numerous signs of life inside buildings contradicted that fact.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The last time he came to Keshia, murder, looting, and arson were everyday occurrences here.",
+      "tone": "reflective"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "What did they do?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "There were no rumors because no normal humans lived here anymore.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Anyway, it seems they've managed to stop the emotional disease. Or maybe it's more accurate to say they've contained it.",
+      "tone": "analytical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone stopped in front of a high-rise building with the symbol of Golden Wheel on its spire.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "People in suits were walking around inside through the glass windows conducting business.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The contrast between that scene and the empty streets gave Shirone an eerie feeling.",
+      "tone": "perceptive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hello.",
+      "tone": "formal"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He spoke while feeling air colder than outside but no one responded or looked back at him.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Looking closely their eyes were all unfocused",
+      "tone": "perceptive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Who…?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A seemingly normal-looking woman struggled to steady her steps as she walked over.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ah, I'm Shirone. Is Fermi here by any chance?",
+      "tone": "inquiry"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "All the staff instinctively turned their heads, and a clumsy voice followed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi's Secretary",
+      "content": "Shirone? Fermi?",
+      "tone": "confused"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "They're not in their right mind",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi's Secretary",
+      "content": "This way, please.",
+      "tone": "directing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Turning toward the voice coming from the stairs, he saw a man with clear eyes adjusting his glasses.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi's Secretary",
+      "content": "You are…",
+      "tone": "inquiring"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was Fermi's secretary, whom he had seen before. He was intently looking at his wristwatch.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi's Secretary",
+      "content": "You're twenty minutes early. Well, the event being mined occurred twenty days ago. Let me guide you. Mr. Fermi is waiting.",
+      "tone": "informing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone, bewildered by his cryptic words, followed the man into the elevator.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Upon reaching the 17th floor, they entered an office with glass walls, where Fermi was waiting.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Shirone.",
+      "tone": "welcoming"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What happened?",
+      "tone": "inquiring"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Fermi, looking much more refined than before, opened his arms as if greeting an old friend.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Take a seat first. Let's have some tea…",
+      "tone": "inviting"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "How did you know I'd come? Why isn't the emotional plague rampant? And why are the streets empty?",
+      "tone": "inquiry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "You seem to have many questions. Understandable, considering parts of your memory have likely been erased.",
+      "tone": "analytical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Memory…",
+      "tone": "curious"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "According to the High Judge of Theraphos, Shirone had willingly erased her own memories.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Shall I tell you?",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "But that's why… I can believe I made a deal with him.",
+      "tone": "reflective"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He was undeniably competent.",
+      "tone": "impressed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Forget it. I'd rather know the truth about Kessia. How did you stop the emotional plague?",
+      "tone": "resolute"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Hmm.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Resting his chin on his hand in thought, Fermi pointed toward a door.",
+      "tone": "indicating"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Want to see for yourself?",
+      "tone": "inviting"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He led Shirone to a ward where orphaned children lay intoxicated by a drug called Angel.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Haa… haa…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The frail moans of pleasure coming from a child's throat made Shirone tremble.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What… is this?",
+      "tone": "horrified"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "My special concoction. You saw it during your last visit, didn't you? After several phases of clinical trials, I finally perfected it. Angel, the Tears of Heaven. It can suppress the emotional plague.",
+      "tone": "proud"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As soon as he finished speaking, Shirone grabbed Fermi by the collar and yanked him close.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Are you insane?",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "They're not even ten years old. And you used drugs on them? Do you even realize what you've done?",
+      "tone": "defensive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Of course.",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "And what about you? Have you brought anything better to the world than this current situation?",
+      "tone": "accusatory"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Result? What nonsense. Are you high on some sense of duty, carrying the burden of humanity?",
+      "tone": "scoffing"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Anger flared in Shirone's eyes, but he couldn't completely ignore Fermi's words.",
+      "tone": "reflective"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "That doesn't make this result any better.",
+      "tone": "resolute"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "How did you do it?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Shirone's grip weakened.",
+      "tone": "reluctant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What kind of drug can stop the emotional plague? Even Seriel failed despite testing every substance.",
+      "tone": "inquiring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Of course, she failed. A cure hasn't been developed yet—at least, not fully.",
+      "tone": "analytical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone felt the urge to grab him by the collar again.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Explain properly.",
+      "tone": "demanding"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "How do you think I knew you'd arrive today?",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I don't know.",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Then I'll show you.",
+      "tone": "inviting"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Motioning for him to follow, Fermi took him back into the elevator and descended to the second floor.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When the door labeled Recovery Room opened automatically, they saw 200 people lying on beds.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Huh?",
+      "tone": "surprised"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Marsha?",
+      "tone": "inquiring"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even though he had called out loudly, Marsha didn't stir and remained deep in sleep.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What's going on? Don't tell me you used Angel…",
+      "tone": "accusatory"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Don't worry. They're being administered the drug regularly, but it's not to the extent that it hinders daily life. What's more important is where these people are.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Where they are?",
+      "tone": "confused"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "It sounded like Fermi wasn't just referring to the recovery room.",
+      "tone": "perceptive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No way…",
+      "tone": "realization"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A sudden realization struck Shirone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Want to see for yourself?",
+      "tone": "inviting"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He tossed him a small, pill-like object.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What's this?",
+      "tone": "inquiring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Dream Star. You know it, right? Or wait, did that memory get erased too? You're thorough, as always.",
+      "tone": "teasing"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "I've taken this before?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Examining the Dream Star closely, Shirone felt no sense of familiarity.",
+      "tone": "reflective"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Yep. You insisted on seeing for yourself last time, so we went together. Back then, I was struggling on my own. Anyway, are you doing it or not?",
+      "tone": "inviting"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lost in thought, Shirone eventually grabbed the pill and followed Fermi to the bed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lying down side by side on the empty bed, Shirone propped himself up and asked.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What happens when I take this?",
+      "tone": "inquiring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "You'll detach from the dream and enter the Under Coder. But before that, the address needs to match—never mind, just take it. You vaguely know how it works. You did it in one go last time, too.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Under Coder…",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Fermi lay down first, Shirone placed the Dream Star in his mouth and swallowed it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The sleeping agent coating the pill dissolved in his stomach, making her drowsy.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Though he could force herself awake by stimulating his brain, Shirone chose to let the drug take effect.",
+      "tone": "reflective"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As his perception of reality faded…",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Huh?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He found herself connected to the senses of a dream, buried beneath countless corpses.",
+      "tone": null
+    }
+  ],
+  "source_hash": "d096221e51088dd23dfc8c235f4b8d154237f3fc7716da7680ec21d7f2491d23",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T08:47:32.652505+00:00"
+}

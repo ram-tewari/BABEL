@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\pydantic\_internal\_schema_generation_shared.py
+# hypothesis_version: 6.148.8
+
+['$ref', 'definition-ref', 'definitions', 'ref', 'schema', 'schema_ref', 'to-def', 'type', 'unpack']

@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\google\auth\iam.py
+# hypothesis_version: 6.148.8
+
+[':generateAccessToken', ':generateIdToken', ':signBlob', ':signJwt', 'Content-Type', 'POST', 'application/json', 'false', 'payload', 'signedBlob', 'true', 'utf-8']

@@ -1,0 +1,783 @@
+{
+  "blocks": [
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "Shirone?",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "content": "Kanya's voice trembled."
+    },
+    {
+      "type": "action",
+      "content": "It was definitely Shirone. But how could he be here?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Kanya",
+      "content": "No, that didn't matter anymore."
+    },
+    {
+      "type": "action",
+      "content": "If the person on the screen was Shirone, it meant new hope for the despairing rebels."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "Unit 5 is down! Provide cover!",
+      "tone": "urgent"
+    },
+    {
+      "type": "action",
+      "content": "Hearing the radio, Kanya snapped back to reality and turned her head to the multivision."
+    },
+    {
+      "type": "action",
+      "content": "Most of the units were immobilized, but they still had functioning weapons."
+    },
+    {
+      "type": "action",
+      "content": "And they were all aiming at Shirone."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "Wait, no!",
+      "tone": "alarmed"
+    },
+    {
+      "type": "action",
+      "content": "Kanya hurriedly pressed the radio button."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "Don't shoot! He's not an enemy!",
+      "tone": "pleading"
+    },
+    {
+      "type": "action",
+      "content": "When there was no response, she wasn't reassured even after sending the message."
+    },
+    {
+      "type": "action",
+      "content": "She checked on Shirone."
+    },
+    {
+      "type": "action",
+      "content": "He was standing there confidently, fully exposed."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "Damn it...!",
+      "tone": "frustrated"
+    },
+    {
+      "type": "action",
+      "content": "She pressed the emergency escape button, and the reinforced glass of the cockpit shot forward with a pop."
+    },
+    {
+      "type": "action",
+      "content": "Detaching herself from the Piper in the Guroi's synchro machine, Kanya crawled out of the bushes, raising her hands."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "Stop! Cease fire!",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "content": "The voice of the squad leader came from the speaker of Unit 5."
+    },
+    {
+      "type": "sfx",
+      "content": "Click! Click! Click!"
+    },
+    {
+      "type": "action",
+      "content": "Kanya closed her eyes tightly, but all she heard from the remaining three Gurois was the sound of metal clinking."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "What... what is this?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "content": "Looking around in confusion, Kanya realized the scenery was distorting."
+    },
+    {
+      "type": "action",
+      "content": "At the center of the distortion, a pair of giant gears were interlocked and spinning."
+    },
+    {
+      "type": "narrator",
+      "content": "Sein's Equilibrium had neutralized the chemical reactions in the gas."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "Duds! They're duds, sir!",
+      "tone": "relieved"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Squad Leader",
+      "content": "Same here. Check the ignition plugs.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "No issues! Damn it...! Ugh!",
+      "tone": "frustrated"
+    },
+    {
+      "type": "sfx",
+      "content": "Boom!"
+    },
+    {
+      "type": "action",
+      "content": "Kuan and Etella took down one of the Gurois."
+    },
+    {
+      "type": "action",
+      "content": "Though it took longer than expected given their skills, it was significant that the two, specialized in fighting large creatures, had destroyed the machine with their physical abilities."
+    },
+    {
+      "type": "action",
+      "content": "The reinforced glass of the Guroi popped out."
+    },
+    {
+      "type": "action",
+      "content": "The pilot, hanging from the synchro machine, was unconscious, and Armin stood beside him."
+    },
+    {
+      "type": "narrator",
+      "content": "With precise coordinates, a spacetime mage could infiltrate even a sealed space."
+    },
+    {
+      "type": "action",
+      "content": "The other team members also easily destroyed the Gurois, leaving only the squad leader's unit intact."
+    },
+    {
+      "type": "action",
+      "content": "Gaold approached the Guroi with interest, stroking his chin as if encountering something unknown."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Get down. If you don't want to die.",
+      "tone": "serious"
+    },
+    {
+      "type": "sfx",
+      "content": "Pop!"
+    },
+    {
+      "type": "action",
+      "content": "The reinforced glass shot up to the ceiling as the squad leader, still attached to the Piper, lunged at Gaold."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Squad Leader",
+      "content": "Die!",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "No, sir!",
+      "tone": "alarmed"
+    },
+    {
+      "type": "action",
+      "content": "Kanya shouted, but the squad leader's sigma was already descending towards Gaold's head."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Kanya?",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "content": "Gaold looked at Shirone. Then, as if it were a separate matter, his fist swung swiftly, striking the squad leader's jaw."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Squad Leader",
+      "content": "Ugh!",
+      "tone": "painful"
+    },
+    {
+      "type": "action",
+      "content": "He fell pathetically, rolling on the ground with unfocused eyes."
+    },
+    {
+      "type": "narrator",
+      "content": "If Gaold hadn't deactivated his press magic, the squad leader's face would have been obliterated."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Do you know her, Shirone?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "content": "Shirone squinted, looking more closely."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Kanya? Is that you, Kanya?",
+      "tone": "hopeful"
+    },
+    {
+      "type": "action",
+      "content": "Kanya, finally relaxing, walked weakly towards him."
+    },
+    {
+      "type": "action",
+      "content": "Thunk! Thunk! She detached herself from the Piper and ran into Shirone's arms."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "Shirone, Shirone! Waaah!",
+      "tone": "joyful"
+    },
+    {
+      "type": "action",
+      "content": "The sudden shift from a deadly confrontation to a sweet reunion left everyone bewildered."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Is it really... Shirone?",
+      "tone": "doubtful"
+    },
+    {
+      "type": "action",
+      "content": "There wasn't a single rebel who didn't know Shirone."
+    },
+    {
+      "type": "narrator",
+      "content": "The first Nephilim to stop the Elixir of Myths."
+    },
+    {
+      "type": "narrator",
+      "content": "The rebellion had been organized after the riots in Shamain District 73, and they called Shirone the 'Light of District 73,' honoring his legacy."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "Sorry. I didn't recognize you with that strange outfit.",
+      "tone": "apologetic"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's okay. Anyone would have reacted the same if they met an enemy in disguise.",
+      "tone": "understanding"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's okay. How's Lena?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "She's with the main force. She'll be thrilled to see you.",
+      "tone": "smiling"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Haha! And your parents?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "Dad's still going strong.",
+      "tone": "proud"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "...I see.",
+      "tone": "understanding"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Even back then, she didn't have much time left, so he could guess what had happened since Kanya didn't mention it."
+    },
+    {
+      "type": "narrator",
+      "content": "There is no good death in this world."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "But Shirone hoped she had left happily, surrounded by her family."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "How long has it been since I left?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "Exactly 432 days.",
+      "tone": "matter-of-fact"
+    },
+    {
+      "type": "thought",
+      "speaker": "Kanya",
+      "content": "Kanya didn't need to think long. The day Shirone stopped the Elixir of Myths was monumental for the rebels, so there was no need to calculate."
+    },
+    {
+      "type": "narrator",
+      "content": "'432 days.'"
+    },
+    {
+      "type": "narrator",
+      "content": "It wasn't much different from the time where Shirone had lived."
+    },
+    {
+      "type": "narrator",
+      "content": "Goffin's Gate distorted space, so there was no time discrepancy due to distance."
+    },
+    {
+      "type": "narrator",
+      "content": "The slightly faster time here was likely due to the gravitational field around the planet."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I heard you're at war with Heaven, but I haven't seen any angels or Maras on the way here. Why is that?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "We don't know either. We fought fiercely, or rather, we mostly ran, but one day the angels just stopped appearing. Even on the full moon when they always patrolled.",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sein",
+      "content": "When exactly did this change start?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "About 130 days ago?",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "narrator",
+      "content": "130 days."
+    },
+    {
+      "type": "narrator",
+      "content": "Comparing it to the original world's timeline, it was roughly three months ago."
+    },
+    {
+      "type": "narrator",
+      "content": "That was also when they lost contact with Gaold's loyalists who had infiltrated Heaven."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "'Something definitely happened in Heaven. What is it? Is it related to Miro? Or...'"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Squad Leader",
+      "content": "This is bad. The damage to the unit is severe.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'm sorry.",
+      "tone": "apologetic"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Squad Leader",
+      "content": "It's not your fault. We struck first.",
+      "tone": "defensive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Squad Leader",
+      "content": "But that man created a bizarre illusion first. If you experienced it, you'd see why anyone would think he was an enemy.",
+      "tone": "justifying"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "But you aimed the arc first.",
+      "tone": "accusing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Squad Leader",
+      "content": "He provoked us first.",
+      "tone": "defensive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "You misunderstood first.",
+      "tone": "accusing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Squad Leader",
+      "content": "How could we not misunderstand with a face like that! He approached like he was going to hit us!",
+      "tone": "indignant"
+    },
+    {
+      "type": "action",
+      "content": "A moment of silence followed."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Squad Leader",
+      "content": "Enough. Let's recover the units and rejoin the main force. They're not in a good situation either.",
+      "tone": "resolute"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sein",
+      "content": "Where is the main force?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Squad Leader",
+      "content": "The Plains of the Dead. They're currently conducting a giant extermination operation.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Squad Leader",
+      "content": "This is the only unit ready for immediate deployment. I'll lead the way... huh?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "content": "Gaold was standing behind the squad leader."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Move. I'm taking it.",
+      "tone": "assertive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Squad Leader",
+      "content": "What? You're going to pilot this?",
+      "tone": "surprised"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnam",
+      "content": "Why do you want to pilot that? It's synced with the Piper, so you can't move it even if you get in.",
+      "tone": "skeptical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Then give me the Piper too.",
+      "tone": "assertive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnam",
+      "content": "Let him do as he wants.",
+      "tone": "resigned"
+    },
+    {
+      "type": "system_notification",
+      "content": "ΓÇö Five minutes later ΓÇö"
+    },
+    {
+      "type": "sfx",
+      "content": "Clang! Clang!"
+    },
+    {
+      "type": "action",
+      "content": "Gaold, equipped with the Piper, boarded the Guroi."
+    },
+    {
+      "type": "action",
+      "content": "The squad leader, having lost everything, could only stare into the distance."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Is this really okay? We've just calmed things down, but taking their equipment seems...",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "He must have a reason. He wouldn't mess things up just out of curiosity, right?",
+      "tone": "defending"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "...",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "action",
+      "content": "Plu, feeling a pang of conscience, eventually changed her tune."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Actually, I don't know either. But everyone here followed him because he's that kind of leader. I just trust him too.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "content": "Gaold connected the Piper to the synchro machine."
+    },
+    {
+      "type": "action",
+      "content": "As he moved his arms inward, the Guroi mimicked the motion."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Not bad.",
+      "tone": "satisfied"
+    },
+    {
+      "type": "action",
+      "content": "Without the reinforced glass, Gaold observed the surroundings as he moved the vehicle."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Hmm, how about this?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "content": "He rotated the waist joint to its limit, making the Guroi spin like a top."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Hehe. Kangnam, look at this.",
+      "tone": "playful"
+    },
+    {
+      "type": "action",
+      "content": "When Gaold playfully attacked with the Guroi's arm, Kangnam dodged with a slight lean and couldn't help but shout."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnam",
+      "content": "Ugh, seriously! Should I just destroy it?",
+      "tone": "exasperated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "Please don't. The Gurois are precious equipment.",
+      "tone": "pleading"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Fine. This guy is stressing me out.",
+      "tone": "teasing"
+    },
+    {
+      "type": "action",
+      "content": "Gaold finally examined various aspects of the Guroi."
+    },
+    {
+      "type": "narrator",
+      "content": "While not comparable to the synesthesia of the spirit zone, the multivision provided excellent visibility, and the firepower was comparable to an air gun."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "How many of these do the rebels have?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "That's classified. I can't tell you.",
+      "tone": "secretive"
+    },
+    {
+      "type": "sfx",
+      "content": "It was impossible to tell where the joke ended and the seriousness began."
+    },
+    {
+      "type": "action",
+      "content": "With a clanking sound, Guroi's gun barrel pointed at the platoon leader."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Even if it's confidential, I don't know. At best, I know the battalion's equipment status. How could a mere platoon leader know the total production of the rebel army?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "action",
+      "content": "Gaold smacked his lips and stopped the machine."
+    },
+    {
+      "type": "action",
+      "content": "Jumping down from Guroi, he threw off his piper and quietly joined Shirone's group."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnam",
+      "content": "Why? You acted like you were going to ride all day.",
+      "tone": "exasperated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "I'm getting motion sickness. It's worse than talking.",
+      "tone": "teasing"
+    },
+    {
+      "type": "thought",
+      "speaker": "Gaold",
+      "content": "This was the power of the Guroi unit that Gaold calculated was needed to capture a single Heavenly Angel."
+    },
+    {
+      "type": "action",
+      "content": "At dusk, Shirone's group emerged from the forest."
+    },
+    {
+      "type": "action",
+      "content": "When they reached a hill overlooking the Plain of the Dead, they saw the scene of the giants' procession and the 23rd Battalion of the 1st Command of the rebel army engaging in localized battles stretching to the horizon."
+    },
+    {
+      "type": "narrator",
+      "content": "The battalion had a total of thirty Gurois."
+    },
+    {
+      "type": "narrator",
+      "content": "However, since one team, including Kanya, was sent as support troops, only twenty-five Gurois were currently in operation."
+    },
+    {
+      "type": "narrator",
+      "content": "The Guroi unit, divided into five teams, cooperated with the infantry to lure a few giants at least one kilometer away from the procession and then concentrated their fire."
+    },
+    {
+      "type": "action",
+      "content": "Every time the giants fell, torn to shreds, Shirone made a horrified expression."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "Giants were also human.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "content": "The Mecha tribe members, who were once citizens, knew this better than anyone, so Kanya's face was also shadowed."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Platoon Leader",
+      "content": "The rule is to eliminate giants immediately upon discovery. If they reach Jotunheim and achieve mental unity, they will wield the power of giants.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "content": "The platoon leader spoke as if making an excuse, but he wasn't wrong."
+    },
+    {
+      "type": "narrator",
+      "content": "If eight egos overlapped, the schema's diagram would become as powerful as an excellent swordsman."
+    },
+    {
+      "type": "narrator",
+      "content": "At that point, a mere battalion's force wouldn't be able to handle it."
+    },
+    {
+      "type": "action",
+      "content": "The group quickly returned to the main unit after entering the plain."
+    },
+    {
+      "type": "action",
+      "content": "Seeing the group return with only one Guroi, the company commander initially looked incredulous, then eventually exploded in anger."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Company Commander",
+      "content": "What happened! You said it was a Kergoin! I sent five units to deal with it quickly, not to handle it like this!",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Platoon Leader",
+      "content": "I'm sorry.",
+      "tone": "apologetic"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "Company commander! I have something to report!",
+      "tone": "urgent"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Company Commander",
+      "content": "Who are you! Can't you see I'm scolding the platoon leader! Are you ignoring the command structure!",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "Shirone has returned!",
+      "tone": "excited"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Company Commander",
+      "content": "What? What nonsense are you spouting now?",
+      "tone": "incredulous"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kanya",
+      "content": "Shirone has returned!",
+      "tone": "firm"
+    }
+  ],
+  "source_hash": "b851be0263482543e50c1c5ba0d77f8a11fba3afc996a4f9e9850fc13b1a55d7",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T06:08:43.249180Z"
+}

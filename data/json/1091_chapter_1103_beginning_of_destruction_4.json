@@ -1,0 +1,692 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "The Tormia delegation arrived at the royal castle of Jive, across the moat of Delta."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gith",
+      "content": "Lower the drawbridge!",
+      "tone": "commanding"
+    },
+    {
+      "type": "action",
+      "content": "The sound of gears turning echoed through the sky as the bridge lowered over the moat."
+    },
+    {
+      "type": "action",
+      "content": "Lupist, entering the castle, remarked, Well built."
+    },
+    {
+      "type": "narrator",
+      "content": "Unlike naturally occurring castles, this one was constructed according to urban planning."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It took twenty years to transform like this. It's proof of political stability."
+    },
+    {
+      "type": "action",
+      "content": "The main building of Delta came into view."
+    },
+    {
+      "type": "action",
+      "content": "It was modern in style, a flat rectangular structure when seen from above."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kashan",
+      "content": "That's reality."
+    },
+    {
+      "type": "thought",
+      "speaker": "Pony",
+      "content": "To become a leading nation, we need a convincing card to persuade the world. The technology of elemental bombs is excellent, but other countries have similar cards."
+    },
+    {
+      "type": "thought",
+      "speaker": "Pony",
+      "content": "It was a simple issue."
+    },
+    {
+      "type": "thought",
+      "speaker": "Pony",
+      "content": "Kashan can control demons, Corona has the intelligence of the Ivory Tower, and then there's Tormia."
+    },
+    {
+      "type": "thought",
+      "speaker": "Pony",
+      "content": "Which country would the world want as the leading nation?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Pony",
+      "content": "Probably not Tormia."
+    },
+    {
+      "type": "thought",
+      "speaker": "Pony",
+      "content": "Yet, the reason they could compete with other countries was because of Yahweh."
+    },
+    {
+      "type": "thought",
+      "speaker": "Pony",
+      "content": "Without Shirone, Tormia would just be a mediator with one vote. I also have to consider which country to sell this vote to and for how much."
+    },
+    {
+      "type": "thought",
+      "speaker": "Pony",
+      "content": "Even in encounters with superpowers, her heart raced."
+    },
+    {
+      "type": "thought",
+      "speaker": "Pony",
+      "content": "With Shirone's help, it's not impossible. That's why Lupist is putting everything on the line…"
+    },
+    {
+      "type": "thought",
+      "speaker": "Pony",
+      "content": "But Yahweh's stance would be different."
+    },
+    {
+      "type": "thought",
+      "speaker": "Pony",
+      "content": "Shirone doesn't need Tormia to become the leading nation. He's here for the unification of humanity."
+    },
+    {
+      "type": "thought",
+      "speaker": "Pony",
+      "content": "Of course, as long as Tormia supported Shirone's beliefs, their alliance wouldn't break."
+    },
+    {
+      "type": "thought",
+      "speaker": "Pony",
+      "content": "But would that be enough?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Pony",
+      "content": "Politics involves getting your hands dirty. And Lupist won't hesitate to use any means."
+    },
+    {
+      "type": "thought",
+      "speaker": "Pony",
+      "content": "No, she couldn't just pass the responsibility."
+    },
+    {
+      "type": "thought",
+      "speaker": "Pony",
+      "content": "I'm the same."
+    },
+    {
+      "type": "thought",
+      "speaker": "Pony",
+      "content": "For Pony, who had been pushed out of the line of succession early, power was something to overcome."
+    },
+    {
+      "type": "thought",
+      "speaker": "Pony",
+      "content": "There was a time I just wanted to escape."
+    },
+    {
+      "type": "thought",
+      "speaker": "Pony",
+      "content": "It didn't matter if there was no destination."
+    },
+    {
+      "type": "thought",
+      "speaker": "Pony",
+      "content": "I entered the magic school, faced scorn and contempt, even participated in beauty contests…"
+    },
+    {
+      "type": "thought",
+      "speaker": "Pony",
+      "content": "Her disillusionment with power allowed her to become a puppet queen."
+    },
+    {
+      "type": "thought",
+      "speaker": "Pony",
+      "content": "In truth…"
+    },
+    {
+      "type": "thought",
+      "speaker": "Pony",
+      "content": "Hadn't she desired it more than anyone?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Pony",
+      "content": "No."
+    },
+    {
+      "type": "thought",
+      "speaker": "Pony",
+      "content": "Pony shook her head."
+    },
+    {
+      "type": "thought",
+      "speaker": "Pony",
+      "content": "It's just a momentary desire. Focus on helping Shirone. As a mage, for humanity…"
+    },
+    {
+      "type": "thought",
+      "speaker": "Pony",
+      "content": "When she first became queen,"
+    },
+    {
+      "type": "thought",
+      "speaker": "Pony",
+      "content": "The first thing that came to mind was the expressions of the royals who had ignored her."
+    },
+    {
+      "type": "thought",
+      "speaker": "Pony",
+      "content": "Now aiming to be the world's queen."
+    },
+    {
+      "type": "thought",
+      "speaker": "Pony",
+      "content": "The thrill of her self-esteem, which she couldn't show anywhere, exploding brilliantly."
+    },
+    {
+      "type": "thought",
+      "speaker": "Pony",
+      "content": "I don't want it to end here."
+    },
+    {
+      "type": "thought",
+      "speaker": "Pony",
+      "content": "Something inside her began to whisper."
+    },
+    {
+      "type": "thought",
+      "speaker": "Pony",
+      "content": "Bind Shirone to Tormia. If Shirone moves only for me…"
+    },
+    {
+      "type": "thought",
+      "speaker": "Pony",
+      "content": "You can get what you want."
+    },
+    {
+      "type": "thought",
+      "speaker": "Pony",
+      "content": "Pony looked at Shirone's profile, deep in thought."
+    },
+    {
+      "type": "thought",
+      "speaker": "Pony",
+      "content": "Amy."
+    },
+    {
+      "type": "thought",
+      "speaker": "Pony",
+      "content": "She didn't think she was lacking compared to her."
+    },
+    {
+      "type": "thought",
+      "speaker": "Pony",
+      "content": "If the person next to Shirone was me instead of Amy, would he help? Would he prioritize me over humanity…"
+    },
+    {
+      "type": "thought",
+      "speaker": "Pony",
+      "content": "Would he make me the queen of the world?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Pony",
+      "content": "Haha."
+    },
+    {
+      "type": "thought",
+      "speaker": "Pony",
+      "content": "Power was terrifying."
+    },
+    {
+      "type": "thought",
+      "speaker": "Pony",
+      "content": "Yes, that's why I can't do it."
+    },
+    {
+      "type": "thought",
+      "speaker": "Pony",
+      "content": "Amy wouldn't have such repulsive thoughts."
+    },
+    {
+      "type": "action",
+      "content": "At that moment, a sound came from beyond Delta's walls."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "King of Kessia",
+      "content": "Kingdom of Kessia! Enter!",
+      "tone": "commanding"
+    },
+    {
+      "type": "action",
+      "content": "The mere act of Kashan and Corona's officials turning their bodies showed the nation's prestige."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hmm, Kessia. A formidable opponent."
+    },
+    {
+      "type": "thought",
+      "speaker": "Uorin",
+      "content": "And at the center is…"
+    },
+    {
+      "type": "thought",
+      "speaker": "Uorin",
+      "content": "Ardino Fermi."
+    },
+    {
+      "type": "action",
+      "content": "As the procession led by a golden carriage entered, Lampa of Corona instructed Chongyi."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lampa",
+      "content": "Don't lose sight of the Kingdom of Kessia. They're the most unpredictable variable in this Holy War."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chongyi",
+      "content": "Because their think tank is Golden Wheel. They're the organization that took over seven southern nations with Angel. Their leader is the drug king Fermi."
+    },
+    {
+      "type": "action",
+      "content": "Ardino Fermi."
+    },
+    {
+      "type": "narrator",
+      "content": "The definitions differed between the young and the old."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chongyi",
+      "content": "Master, I know you're old, but isn't this too old-fashioned? You said updating information is crucial. Since Yolga's death, the Ardino family has been completely overshadowed by Adria. Fermi is outstanding, but compared to Miro, the epitome of goodness…"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lampa",
+      "content": "The depth of Adria."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chongyi",
+      "content": "There was a saying, 'The breadth of Ardino.' When the two heroines coexisted. Modern mages see Ardino as a pushover, but have you seen Yolga? Don't update unless you're sure."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lampa",
+      "content": "But…"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lampa",
+      "content": "Yolga's vision, reading the flow of the times, far surpassed human limits. Though her records were erased, it's believed Miro's philosophy was influenced by her."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chongyi",
+      "content": "Underestimating Fermi could endanger Corona."
+    },
+    {
+      "type": "action",
+      "content": "Chongyi smacked his lips."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chongyi",
+      "content": "Who's underestimating? I'm serious this time."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lampa",
+      "content": "Why? Is there someone you fancy?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chongyi",
+      "content": "No, well…"
+    },
+    {
+      "type": "thought",
+      "speaker": "Chongyi",
+      "content": "Information mages were central to all wars but rarely in the spotlight."
+    },
+    {
+      "type": "thought",
+      "speaker": "Chongyi",
+      "content": "But the Holy War is different. Here, I can stand out. In other words…"
+    },
+    {
+      "type": "thought",
+      "speaker": "Chongyi",
+      "content": "He could appeal to women."
+    },
+    {
+      "type": "thought",
+      "speaker": "Chongyi",
+      "content": "The world might end, but I should experience love before I die, right?"
+    },
+    {
+      "type": "narrator",
+      "content": "Lampa knew his student's thoughts as clearly as his palm but didn't scold him."
+    },
+    {
+      "type": "thought",
+      "speaker": "Lampa",
+      "content": "Maybe that's all there is."
+    },
+    {
+      "type": "thought",
+      "speaker": "Uorin",
+      "content": "Do humans need grand reasons to live?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Uorin",
+      "content": "Meanwhile, Uorin felt bitter."
+    },
+    {
+      "type": "thought",
+      "speaker": "Uorin",
+      "content": "They finally came."
+    },
+    {
+      "type": "thought",
+      "speaker": "Uorin",
+      "content": "The Apocalypse faction had likely set its sights on keeping Shirone in check."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uorin",
+      "content": "This won't be easy, will it?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Uorin",
+      "content": "Between Keshia's wealth, Angel, the drug capable of treating the Emotion Sickness, and the buried information about the Apocalypse, Keshia held cards no one else could play."
+    },
+    {
+      "type": "thought",
+      "speaker": "Uorin",
+      "content": "He knows how to exploit every filthy angle."
+    },
+    {
+      "type": "thought",
+      "speaker": "Uorin",
+      "content": "Though Keshia's tactics were shrouded in shadows, this made them even more dangerous in the bid to become a leading nation."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It should work."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Fermi prioritizes extreme efficiency. In other words, he's inclined to resolve problems in the simplest way possible."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "People naturally gravitate toward simplicity."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "At the very least, they have the power to overturn the game once. That's Keshia's greatest weapon."
+    },
+    {
+      "type": "action",
+      "content": "As Fermi approached Delta's headquarters, all eyes were on him, and he smiled."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Am I really that popular?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Fermi",
+      "content": "Behind his composed demeanor, he was quickly analyzing the key figures."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Corona seems formidable, with the Stars in their ranks. Kashan is rallying around the Wind Guards… wait."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "He noticed a man leaning against Uorin's back."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Extreme… Havitz."
+    },
+    {
+      "type": "action",
+      "content": "Their gazes met momentarily before Havitz yawned and looked away."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Haaaah."
+    },
+    {
+      "type": "sfx",
+      "content": "...Interesting fellow."
+    },
+    {
+      "type": "sfx",
+      "content": "..."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "We need to use him."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Those who understood the essence of politics knew they could manipulate Fermi's cards to their advantage."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Tormia, Corona, and Kashan are lined up in order. He'll probably align with a faction he considers friendly."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "This is the weak spot, you fools."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "By bypassing Kashan and Corona, Fermi threw the leadership into confusion."
+    },
+    {
+      "type": "action",
+      "content": "Rampa stroked his beard thoughtfully."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rampa",
+      "content": "Hmm. Not positioning themselves in the middle is a clear show of favor toward Yahweh. It means they prioritize practicality over pride. It makes sense—they're willing to take losses to build trust when necessary."
+    },
+    {
+      "type": "thought",
+      "speaker": "Rampa",
+      "content": "But if it was more than a calculated decision…"
+    },
+    {
+      "type": "thought",
+      "speaker": "Rampa",
+      "content": "If there's something only Ardino can see, then Kashan and Corona may have made a critical mistake."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Hey, Shirone! We keep meeting like this. We might end up becoming best friends."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "This is a formal setting. Watch your words."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Haha! What's the harm? I'm from Tormia, too. It's been a while, Pony. How have you been? Let's keep it casual since we're on the same side."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pony",
+      "content": "Oh, uh… yeah. It's been a while."
+    },
+    {
+      "type": "thought",
+      "speaker": "Pony",
+      "content": "Even knowing Fermi's motives were calculated, Pony couldn't ignore the olive branch Keshia was extending."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Clever bastard."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "For now, having Fermi focus on Tormia wasn't a bad thing."
+    },
+    {
+      "type": "action",
+      "content": "Pony turned to greet Keshia's king, but both she and Shirone were stunned into silence."
+    },
+    {
+      "type": "action",
+      "content": "The King of Keshia, Manolka, looked like a mummy, his emaciated body covered in wrinkles, mouth agape like a corpse."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "He looks... dead."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Fermi, you bastard…"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Oh, right."
+    },
+    {
+      "type": "action",
+      "content": "He shook the king's shoulder."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Your Majesty, wake up. Stop dozing off."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Manolka",
+      "content": "Huh? Are we there already? Well, well. Greetings, young ones. I'm Manolka, King of Keshia."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Are you all right? You don't look well."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Manolka",
+      "content": "People say that a lot. It's just that I'm naturally skinny. Haha!"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Why blame me for everything? This is just how he is. Seventy-two years old and still in his prime!"
+    },
+    {
+      "type": "thought",
+      "speaker": "Pony",
+      "content": "He looks at least 172."
+    },
+    {
+      "type": "action",
+      "content": "The Grand Hall"
+    },
+    {
+      "type": "action",
+      "content": "The main doors of Delta's headquarters opened to the sound of music."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gith",
+      "content": "Welcome, leaders of the world!"
+    },
+    {
+      "type": "action",
+      "content": "A well-built man with a clean-shaven face and a cleft chin entered without an escort."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gith",
+      "content": "Although the full ceremony will take place tomorrow, I felt it was inappropriate to keep you waiting. So, I've prepared a special prelude."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gith",
+      "content": "A prelude?"
+    },
+    {
+      "type": "action",
+      "content": "As confusion spread, a towering woman emerged from the hall."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Satiel",
+      "content": "...What?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Satiel",
+      "content": "Allow me to introduce Jive's new strength that will guide our future—the Heavenly Army."
+    },
+    {
+      "type": "action",
+      "content": "The rooftop of the headquarters sparkled, and hundreds of radiant beams ascended into the sky. Each beam was an angel, their divine halos radiating unique, awe-inspiring power."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gith",
+      "content": "Damn."
+    },
+    {
+      "type": "action",
+      "content": "The overwhelming force shook the ground, leaving the officials pale with fear."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gith",
+      "content": "Welcome to Jive."
+    }
+  ],
+  "source_hash": "d84247ac0f52f490cd299667246c9d8dca4eff7bc067bb4823aa154d474aad5d",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T03:50:20.974372Z"
+}

@@ -1,0 +1,835 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Learning Magic (3)",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Shirone, how cold is it right now?",
+      "tone": "curious"
+    },
+    {
+      "type": "thought",
+      "speaker": "Siina",
+      "content": "Siina assumed Shirone would lean toward the cold side and asked the question.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As expected, Shirone gave her the answer she wanted.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's quite cold. No, it's actually freezing.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In any case, one couldn't feel anything colder than a cold sensation in the 3rd examination hall.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Siina nodded in understanding and wrote her overall assessment.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The gist was this: Convergent type, defensive, and with excellent durability.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "However, despite this, the size of the zone was abnormally large.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Siina",
+      "content": "Siina wondered if such a case was possible.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "She had been a teacher for over four years, but it was rare to see someone exhibit traits opposite to their mental orientation.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But this was an inevitable result of Shirone's choices and focus.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Just as he had devoured history books to overcome his shallow knowledge, repeating only Spirit Zone training in an environment where he couldn't learn magic had shaped this extraordinary base.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Good job. You can now leave the Spirit Zone. We need to have a meeting to determine your class, so could you please wait outside for a moment?",
+      "tone": "polite"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes. Thank you.",
+      "tone": "grateful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Emerging from the Spirit Zone, Shirone bowed politely and headed outside where the young children were huddled together.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Once the doors to the examination hall closed, the teachers began voicing their opinions one after another.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sard",
+      "content": "Quite an unusual student.",
+      "tone": "disapproving"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Sard objected, not liking it.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siina",
+      "content": "Rather than unusual, isn't he just well-balanced?",
+      "tone": "calm"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Siina spoke up.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sard",
+      "content": "He's unusual precisely because he's too well-balanced. An 18-year-old boy who doesn't know magic has a zone with a diameter exceeding 30 meters. Despite having a convergent tendency.",
+      "tone": "disapproving"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "As the zone gets larger, the density typically becomes thinner. Yet, this student's density is still at 86.7 percent.",
+      "tone": "curious"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "We do teach students techniques to increase density, but this child showed this figure purely with his own ability. 86.7 percent is the level of mental stability of a high monk practicing in the mountains.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sard",
+      "content": "It's just at a student level after all. We should keep observing him for now.",
+      "tone": "disapproving"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siina",
+      "content": "What do you mean by 'student level'? This is a school where students come to learn.",
+      "tone": "firm"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Sard's face reddened at Siina's cold voice.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If she weren't so pretty, he wouldn't have tolerated such an insult.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Seeing signs of the discussion turning into an emotional argument, the other professors kept their mouths shut.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Sard of flame magic and Siina of ice magic were famous adversaries even within the school.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "So, where would you like to place him? Shirone, I mean.",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siina",
+      "content": "How about Class Five? He has high potential for development, and because his tendencies are unusual, I think he needs intensive management.",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sard",
+      "content": "But he doesn't know magic, right? If we put him in Class Five, he might get cocky and cause trouble.",
+      "tone": "disapproving"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siina",
+      "content": "Some students might be like you, Professor Sard, but not all students are like that.",
+      "tone": "calm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sard",
+      "content": "Professor Siina! There's a limit to my patience! Honestly, do you want to manage him directly? Since you're the dedicated teacher for Class Five!",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siina",
+      "content": "So what? Is there a problem with a teacher wanting to guide a student?",
+      "tone": "firm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sard",
+      "content": "Your greed is excessive. He doesn't know magic and can't even transform his zone. At most, Class Seven would be appropriate for him.",
+      "tone": "disapproving"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Alpheus also asked the other teachers for their opinions.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Some teachers said it would be best to nurture him gradually from Class Ten, while others suggested postponing placement and observing him for a while.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etela",
+      "content": "I also think Class Seven would be appropriate. Given his age, sending him to the beginner class might dampen his enthusiasm, and Class Seven includes basic Spirit Zone lessons, so wouldn't that be fine? If Shirone truly shows talent, early promotion is also possible.",
+      "tone": "calm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "Then I'll arrange for that.",
+      "tone": "decisive"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The entrance student test was concluded.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Thanks to being assigned to Class Seven, Shirone was able to set up accommodations in the advanced class dormitory, where his peers stayed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Surprisingly, it was a private room.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Since it was a school for nobles, it seemed they ensured maximum comfort.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's room was 707 in the men's dormitory.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It might be a modest room for a noble, but it was the size of the living room in the cabin where Shirone had lived.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A bookshelf was placed on the wall, and naturally, it was empty.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The staff member who guided Shirone explained simple guidelines.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Classes ended at 5 PM, after which was free time.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Except for weekends, going out was prohibited, but since the campus was so large, most amenities were available within the school grounds.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Students could form research clubs for fields they were interested in, and financial support was provided if a certain number of people gathered.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Four libraries were located in the north, east, south, and west, open 24 hours, and there weren't many restrictions on the number of books one could borrow as long as the due dates were kept.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone was satisfied with everything.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was the optimal environment for studying.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The staff member finally explained the taboos.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Magic use after school hours was strictly prohibited except in laboratories.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Especially, researching wayward magic could result in disciplinary action.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Representative examples of wayward magic included the necromancer's soul magic, and among them was also anti-magic.",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone asked why anti-magic was a forbidden magic, but the staff member only replied that he didn't know and left.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone lay on the bed, lost in thought.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Since he hadn't learned anything yet, there was no need to join a research club for the time being.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "I should visit the library. I've only studied history for two years, so now I need to acquire broader knowledge.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone was confident.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Wasn't this the spine of knowledge he had created by suppressing his curiosity?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Now, all that remained was to absorb all the knowledge in the world.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "The sound of piano playing woke Shirone from his sleep.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was the Ether Resonance, a type of sound magic, that was spreading the sound.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was pleasant playing, but it didn't match Reina's skill.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone already missed her.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Was Reina doing well?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Was Rian also waiting for his first class with a nervous heart like him?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Unlike the dormitories where men and women were strictly separated, the dining hall was the only place within the dormitory where men and women could sit together.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone sat in a corner and ate alone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Once, he had been teased by the children in the slash-and-burn village for such timid behavior, but the students here didn't care how others ate.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "However, the issue between men and women was an exception, and when a pretty or handsome student entered, everyone would turn their gaze.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Especially since Shirone was a new face and had striking looks, he was a main topic of interest among the female students.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Finishing his meal like he was escaping from the whispering voices of the girls, Shirone returned to his room and prepared his textbooks according to the schedule.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When he put on his bag, his shoulders ached from the weight of the books.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even Class Seven was certainly an advanced class, so there was an enormous amount to learn.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The classes were difficult.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Compared to the nobles who were thorough with their preview and review, Shirone's knowledge was very limited.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "However, thanks to acquiring shallow but extensive knowledge through the spine of knowledge, he was able to keep up to some extent.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If they learned theory in the morning, the afternoon was for practice.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Especially in the advanced class, integrated classes for training the Spirit Zone were conducted.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The sight of 280 students gathering in the training ground and dividing into seniors and juniors was spectacular from Shirone's perspective.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Senior, thanks to what you taught me last time, I did well on the exam. Thank you.",
+      "tone": "grateful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Senior, over here! I saved a seat for you!",
+      "tone": "friendly"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Not knowing anyone, Shirone observed what the students were doing.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He often saw older students bowing to younger ones.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Whether officially recognized or not, when one enters society, position is determined by rank, so even here, a strict barrier existed between seniors and juniors based on ability.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was like a miniature version of the magical society.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Of course, yesterday's junior could become today's senior, but there were no seniors who wouldn't treat juniors properly out of fear of such occurrences.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rather, they proudly displayed their status as if challenging the juniors to catch up if they could.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Just being able to enter the magic school was proof of their talent.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Given that it was an arena where such talents gathered to compete, the difficulty of promotion was beyond imagination, and catching up to a gap once opened was like grasping for stars in the sky.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Spirit Zone teacher was Etela, a 6th rank certified magician.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "She was probably in her mid-20s.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With her brown hair tied back and large glasses, she had such a gentle impression that it was hard to believe she was a magician.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Before we start the class, we have new students who have joined us.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "First, Shirone, please stand up and introduce yourself.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hello. I'm Arian Shirone. I'll be taking classes with you in Class Seven. I look forward to working with you all.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The students welcomed Shirone with applause.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Seniors were glad to have a new junior, and the girls were happy to have a handsome boy join.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But among them, there were also glances that looked at him with disdain.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was a justified hostility towards someone who would become their competitor in the future.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After the introductions of the new students, Etela proceeded with the class.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etela",
+      "content": "Now, everyone. What is the Spirit Zone?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student",
+      "content": "The spirit of a magician.",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etela",
+      "content": "That's right. The Spirit Zone is the manifestation of the spirit in form. The initial form is a sphere. That's what concentration is. But the basic form alone is inefficient in actual combat.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Etela entered a magical device called the 'Image Zone.'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The same smooth floor that had been present during the entrance test stretched out, and numerous magic circles forming concentric circles were drawn.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the smooth floor disappeared and a pitch-black space appeared, Etela seemed to be floating.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In that state, when she expanded a Spirit Zone about 10 meters in diameter, surprisingly, the form became distinctly visible.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "So this is the Image Zone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Numerous gazes turned to Shirone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eimi",
+      "content": "Oh my! Isn't that the boy we saw yesterday? His name seems to be Shirone.",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Eh? Isn't that the boy we saw yesterday? His name seems to be Shirone.",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Eimi's friend Seriel exclaimed excitedly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But Eimi didn't respond.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The face definitely seemed familiar, but she just couldn't remember.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Junior",
+      "content": "Oh! Senior, do you know him?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Junior",
+      "content": "He's a new student who just joined, and he was placed in Class Seven right away. From what the teachers say, he's got tremendous talent.",
+      "tone": "impressed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eimi",
+      "content": "Is that so? I like him even more. Which noble family does he belong to? Don't you know his surname?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Junior",
+      "content": "Damn it all!",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eimi",
+      "content": "Huh? Oh, nothing. It's nothing.",
+      "tone": "defensive"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Eimi suddenly shouted.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Seriel looked at her with surprised eyes.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was the first time such a harsh word had come from Eimi's mouth.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Eimi",
+      "content": "Great talent. Young master of which family. These two keywords triggered her memory.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Eimi",
+      "content": "It was the boy she had met in the back alley six years ago.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Eimi",
+      "content": "He did have talent. But he's surely a commoner. No, even among commoners, one of the lowest. But how is he here?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone introduced himself in a calm voice.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hello. I'm Arian Shirone. I'll be taking classes with you in Class Seven. I look forward to working with you all.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The students welcomed Shirone with applause.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Seniors were glad to have a new junior, and the girls were happy to have a handsome boy join.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But among them, there were also glances that looked at him with disdain.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was a justified hostility towards someone who would become their competitor in the future.",
+      "tone": null
+    }
+  ],
+  "source_hash": "9f8062ab1416bda51006f1859eaac2c9d9c00ba805e83acb1fb78ba84ba2807a",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-10T10:22:31.790502"
+}

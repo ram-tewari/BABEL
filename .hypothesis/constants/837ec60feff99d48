@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\parso\parser.py
+# hypothesis_version: 6.148.8
+
+['%s(%s, %s)', 'file_input', 'incomplete input', 'too much input']

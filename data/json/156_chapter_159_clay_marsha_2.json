@@ -1,0 +1,853 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Clay Marsha (2)",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Clay Marsha",
+      "content": "Anything is fine. If you spill everything you know, I'll send you back to prison nicely.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lucas remained silent, his mind racing rapidly.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Having joined when the Parrot Mercenary Band was actually the Parrot Thieves' Gang, Lucas had no particular loyalty to Marsha.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Thus, spilling the facts he knew should have been easy.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Lucas",
+      "content": "But confessing here meant he might never leave a deep, dark cell until his death.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Clay Marsha",
+      "content": "How about a deal?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucas",
+      "content": "A deal? What kind of deal?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Clay Marsha",
+      "content": "I'll tell you everything about Marsha. In return, reduce my sentence. Just make it possible for me to get out before I die, and I'll give you the information you want.",
+      "tone": "persistent"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sakiri looked at Lucas with a dumbfounded expression, then suddenly burst into laughter, stamping his feet.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Hahaha!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The desk toppled over with a crash.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sakiri sprang up and advanced, screaming in rage.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "You insane bastard! Do you even know where you are?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He kicked, and Lucas, along with the chair, toppled over.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Yet, even that didn't seem to satisfy Sakiri's rage as he stomped repeatedly on the fallen Lucas.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Lucas",
+      "content": "But this time, Lucas was desperate too.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Lucas",
+      "content": "Whether he died this way or that, it was all the same. If he couldn't achieve some result here, his life was effectively over.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucas",
+      "content": "Go ahead! Beat me! I will never talk! Let's make a deal!",
+      "tone": "desperate"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sakiri's kicking paused.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Why are all the bad guys shamelessly brazen? If they hated prison so much, they shouldn't have committed crimes in the first place.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Sakiri",
+      "content": "Ah, this is driving me insane.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sakiri calmed his breathing and turned away.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even in his frightened state, Lucas observed him closely.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The fact that Sakiri had stopped kicking meant he was conflicted.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Lucas",
+      "content": "If Lucas could just hold on a little longer, a channel for negotiation might open.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "However, contrary to expectations, Sakiri opened the door of the interrogation room and issued a terrifying order.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sakiri",
+      "content": "Hey, deactivate the magic restriction device here.",
+      "tone": "menacing"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Magic restriction devices differ from anti-magic. These are specifically designed to completely block the initiation of magic.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Though it was also a form of magic, very few thieves could break through the magical circles designed by the top-ranking archmages.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Lucas",
+      "content": "Lucas swallowed hard. He shouldn't show fear.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was clear that Sakiri was also making a last-ditch effort.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Lucas",
+      "content": "If he could just get through this ordeal, he might see the outside world again someday.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sakiri waited calmly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After a moment, there was a heavy sound as the air seemed to settle.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Lucas",
+      "content": "Lucas couldn't tell what had changed, but Sakiri approached, appearing somewhat lighter, and twisted his neck.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sakiri",
+      "content": "Tell me everything you know about Marsha. If you remain silent or lie, unbearable horror will come upon you.",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucas",
+      "content": "I-I won't tell. I won't say a word.",
+      "tone": "terrified"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sakiri, unbothered, extended his hand towards Lucas and, closing his eyes, chanted something like an incantation.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "I command as a judge, speech answers to speech. The scales of truth are yours alone.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Lucas",
+      "content": "Lucas's complexion turned deathly pale.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Lucas",
+      "content": "He had mistaken Sakiri for an ordinary investigator.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Sakiri was indeed one of those numerous figures who must never be crossed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucas",
+      "content": "Damn it!",
+      "tone": "desperate"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ten minutes passed.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Aaaaaaah!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A ripping scream echoed through the interrogation room.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Lucas",
+      "content": "Lucas was nearly out of his mind.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Lucas",
+      "content": "Even the surgery to amputate his legs hadn't been this painful.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucas",
+      "content": "Okay! I'll talk! I'll tell everything, just stop this!",
+      "tone": "desperate"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The moment he shouted, the pain disappeared as if it were a lie.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lucas, crumpled in a corner of the room, cowered and looked up at Sakiri.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sakiri",
+      "content": "It's your choice. If you want to be at ease, spill everything.",
+      "tone": "menacing"
+    },
+    {
+      "type": "thought",
+      "speaker": "Lucas",
+      "content": "Lucas resigned himself.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Lucas",
+      "content": "Neither silence nor lies were tolerated.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In front of Sakiri's magic, the 'Scales of Truth,' no criminal could withhold the truth.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucas",
+      "content": "Marsha is clever. And she makes no mistakes. Initially, she lets her opponents expose all their weaknesses while pretending to be losing. But she never allows herself to be hated, laying traps to ensure it.",
+      "tone": "resigned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sakiri",
+      "content": "Typical con artist's tactics.",
+      "tone": "skeptical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucas",
+      "content": "Heh, con artist? No, she's not a con artist. Do you know what makes her terrifying? She doesn't lie to deceive someone. Her entire life is a lie. Ordinary methods won't catch her.",
+      "tone": "resigned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sakiri",
+      "content": "Hmm, I see her type now. But mere intelligence shouldn't have the intelligence reports so jumbled.",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucas",
+      "content": "Yes. She's one of your kind.",
+      "tone": "resigned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sakiri",
+      "content": "Could it be? Is she perhaps...",
+      "tone": "intrigued"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucas",
+      "content": "Yes. She's one of your kind.",
+      "tone": "resigned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lucas",
+      "content": "Marsha is... an unregulated eater.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone analyzed her by any means necessary. Yet, he could understand nothing.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Yet, he could understand nothing.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "She was completely different from any person he had met in his life.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Even if you kill me...",
+      "tone": "resigned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Heh, yes. You hate me, right? So feel free to kill me.",
+      "tone": "menacing"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone thought no longer.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "If there was no answer to be found, he would stick to his convictions.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "If Yuna is safe, then I have no reason to fight you.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A crack-like faint smile etched across Marsha's lips.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As her Attack Form of the Spirit Zone lunged in, Shirone immediately teleported.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Eh?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone was puzzled.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The Spirit Zone suddenly vanished, and his teleportation unraveled.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In that moment, the roar of the Sonic Cannon passed by, scalding his ears as if they were on fire.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Unable to withstand the shock, Shirone rolled on the ground, prompting Rian to exclaim in surprise.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "What? Why did Shirone suddenly do that?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "That's the Sonic Cannon. A type of Sound Magic. But that's not the problem.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Right. Shirone got hit.",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A dark shadow crossed Amy's face.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "That's not just being hit. It was stolen.",
+      "tone": "alarmed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "What was stolen?",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy, through synesthesia, could confirm it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She had seen the moment Marsha siphoned off Shirone's Spirit Zone like dew.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Perhaps... his mental power.",
+      "tone": "alarmed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "That's impossible. How can someone steal another's mental power?",
+      "tone": "disbelieving"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy hurried towards Shirone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Shirone! Be careful! That woman is an unregulated eater!",
+      "tone": "alarmed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's head snapped up.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Though his ears felt like they were bleeding from the Sonic Cannon's power, his indomitable spirit was still intact.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "This... is unregulated consumption?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Oh, you know about unregulated consumption too? You guys are really something. You must have long straps on your bags.",
+      "tone": "amused"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Mages develop numerous spells every day, and the association registers these as regulated magic.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "However, there exists magic that can never be registered—unregulated consumption.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The omniscience of unregulated consumption is unique.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It's not based on universally known facts but solely on the blind ideology of the individual.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Omnipotence is belief. The reason the speed of photons can be categorized into four types, the temperature of flames can change, and plasma can be produced even at moderate temperatures is because the omnipotence of mages supports the omniscience.",
+      "tone": "intrigued"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Siena wrote the word 'unregulated consumption' on the blackboard.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The emergence of the unfamiliar term caused a stir among the students, but she continued undeterred.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "However, there are those in the world who use omnipotence for personal gain. That is, they don't just support omniscience; they twist it entirely. The magic used by such individuals is called unregulated consumption.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student",
+      "content": "Teacher, I don't quite understand?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Let me explain now. What's my job?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student",
+      "content": "Of course, you're a teacher.",
+      "tone": "obvious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Right. I'm a teacher. Shall we start? Is there anyone here who doesn't think I'm a teacher? Raise your hand.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Naturally, no one raised their hand.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Knowing that she was a teacher and then denying it would be a contradiction.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "This is exactly the nature of the mind. Unlike the body, the mind does not push out a concept that enters it. Instead, it absorbs it and forms a new mass.",
+      "tone": "intrigued"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Siena emphasized her point by raising a finger.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "In other words, other people's thoughts can be applied to others, and in fact, all the thoughts that make us up are obtained from others.",
+      "tone": "intrigued"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Siena stepped down from the podium and looked squarely at the students.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Those who think I'm a teacher will die.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The students murmured.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Siena's statement was serious, and although some tried to deny it, it was ultimately impossible.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student",
+      "content": "Teacher, is this for real?",
+      "tone": "alarmed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Don't be alarmed. I was explaining the mechanism. I'm not an unregulated eater.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A wave of deflation washed through the students' voices.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Siena adjusted her glasses and returned to the podium.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Of course, it's not that simple in reality. No unregulated eater could inject a fundamental concept to kill someone. Unregulated consumption is also magic. The principle of equivalent exchange always applies.",
+      "tone": "intrigued"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A male student raised his hand.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student",
+      "content": "But there could really be such a person, right? Someone who believes that the rule you mentioned earlier is fair.",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Sure, it's possible. But magic is a product of rational thought. Someone that deranged couldn't handle magic in the first place, and even if they existed, it wouldn't work on you.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student",
+      "content": "Because it can't even penetrate the mind.",
+      "tone": "obvious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Exactly. Therefore, unregulated consumption has significant constraints and costs. For example, here's a rule that could be made: Those who think I'm a teacher must use honorifics with me.",
+      "tone": "intrigued"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student",
+      "content": "Hey, that's obvious.",
+      "tone": "obvious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Right. And this is the scary part of unregulated consumption. Just as you accept this as obvious, unregulated eaters can implant their own rules into others as obvious. What about this? Those who think I'm a teacher must love me.",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student",
+      "content": "Haha! That's also obvious, right?",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The children laughed heartily.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Those who love me must obey me.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The laughter in the room gradually subsided.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Those who obey me must die before me.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Silence fell in the classroom.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "This is one of the techniques of unregulated consumption called constraint. It imposes several constraints to extend the rules.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Where logic leaps, omnipotence connects. Because they really believe it, such events occur. Therefore, once caught, there's no escaping.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student",
+      "content": "However, the real reason unregulated consumption is tricky isn't the constraints but the cost.",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Earlier, I said you couldn't kill someone with a fundamental concept, but if a cost is involved, it's a bit different. Let's try it now. Those who don't think I'm a teacher will die.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The students murmured.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Siena's statement was serious, and although some tried to deny it, it was ultimately impossible.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "◆ ◆ ◆",
+      "tone": null
+    }
+  ],
+  "source_hash": "bb5bf33bc082a924bd8bab2074276fdbeb2473c8a0b1e54c831120573b0866f0",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T16:26:53.882299+00:00"
+}

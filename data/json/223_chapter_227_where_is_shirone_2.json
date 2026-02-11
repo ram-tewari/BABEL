@@ -1,0 +1,751 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Cheers and applause erupted.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The students' anticipation was greater than ever, as they were greeted by someone who had served as the principal of the kingdom's top educational institution.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "I have heard of the fame of Alpheas Magic Academy, so I have no intention of interfering with the existing policy. However, the modern magic society pursues high efficiency and practicality. Pragmatism. This is the seed I wish to plant during my term as principal.",
+      "tone": "confident"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The implication was that Alpheas Magic School's curriculum had been detached from real-world applications until now.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It would be understandable for the students to feel indignant, they could only accept it since an archmage had stated it.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "This is serious. I knew this would happen.",
+      "tone": "concerned"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Iruki, who had attended the Royal Magic Academy, had a gut feeling about Olivia the moment he saw her.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He heard that he retired from his position as principal after many years, but he doesn't know what brought him to this point.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Similar comments circulated among the Class Four students.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "I had a feeling it would be like this. The predictions of <Spirit> were correct. We're in for a tough time starting tomorrow.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student",
+      "content": "I heard her disciples are coming here too.",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student",
+      "content": "I know, I read it too. One of them is Dante, right?",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone listened to their conversation. It seemed many students had already known about Olivia's appointment during the break.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Iruki, what is <Spirit>?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "An academic journal published by the Teachers' Association. Most magic academy students are subscribers to <Spirit>. It covers things like graduation exam trends, the latest magic trends, and issues occurring at academies.",
+      "tone": "informative"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I see. Iruki, do you read it too?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Are you crazy? Why should I care about what other academies are doing? I do things my way.",
+      "tone": "defensive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Iruki, what about you?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "What about you?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "I used to borrow it from friends, but I don't read it anymore. Since I'm going to be an engineer, I don't find it that interesting.",
+      "tone": "practical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "But if it's Dante, the academy will be turned upside down. He's a guy who can be considered number one in the kingdom's student rankings.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ranked #1 in the Kingdom. Shirone couldn't even guess the weight contained in those words.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "What kind of student would he be? No, how would he feel? Being number one in the entire kingdom.",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "On the way back to the dorm after the entrance ceremony, Iruki asked.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Shirone, what are you going to do? I don't think we'll be able to see Principal Alpheas today.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's the first day of academy, so everyone will be busy. I'll just go and see him during lunch time after class tomorrow morning.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "There was a mountain of questions he wanted to ask Alpheas. How much was known about the existence of Heaven, and what was the story behind Miro of space-time. But today wasn't the right time.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With that in mind, Shirone returned to his dorm, postponing his inquiries until tomorrow.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone, who joined his friends early in the morning, entered the classroom to take the first class of the historic class.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The room was already about half full. Having always been the first to arrive in Class Five, this felt different.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone was getting nervous, the students in Class Four were also watching Shirone and his group's movements without knowing it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In particular, Shirone was always the number one topic of interest for the students, as he was an unprecedented case of rising from Class Seven to Class Four in just half a year.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In the 50-year history of the academy, there have been students as outstanding as Shirone. However, those exceptional students were typically placed in higher classes from the start, making Shirone's case unique.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone felt strange seeing those who had been his seniors until yesterday now as his classmates.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "On the other hand, Nade and Iruki waved their hands as if it was the most natural thing and sat down in empty seats.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "You finally made it. Nice to meet you.",
+      "tone": "friendly"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A hand suddenly appeared in front of Shirone's eyes. When he looked up, a smiling boy with a round chin and a pleasant demeanor stood there.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was Chris Boyle, ranked first in Class Four, specializing in summoning magic.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As expected of a boy who was always described as a model student, his clothes were impeccable. His collar was buttoned up tight around his neck, and his hair was neatly parted in a 2:8 ratio.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'm glad to see you too. Though I just barely made it here.",
+      "tone": "relieved"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Boyle",
+      "content": "Haha! You don't have to be so humble. This is the final gate to the advanced class. Now is the time to appeal to yourself rather than be humble.",
+      "tone": "encouraging"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Although it was advice given with good intentions, it felt like he was looking down on Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "However, as Boyle said, this too was a way of asserting oneself.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Thanks. Let's get along well from now on.",
+      "tone": "grateful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Boyle",
+      "content": "Yes. Although, who knows how long that will be.",
+      "tone": "skeptical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Huh? What do you mean?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Boyle",
+      "content": "What are you talking about? Of course, I'm talking about applying for the graduating class.",
+      "tone": "clear"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Students in Class Four could apply for the graduation class at any time.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "This year, Amy had been the first to apply, followed shortly by Seriel. So far, eight students have entered the graduating class, so there are only two spots left.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Boyle",
+      "content": "Usually, there's a surge of registrants towards the end of the semester, but oddly enough, Amy took on the challenge so quickly that there aren't many spots left. It's a first-come-first-served basis.",
+      "tone": "informative"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The students perked up their ears at Boyle's words.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "From Class Four onwards, results weren't as important. It was a strategic decision whether to push for the graduation class or to further solidify one's basics.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No. I'll stay in Class Four for this semester.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was an unexpected statement for Boyle.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He had assumed that Shirone, who had ascended to Class Four in record time, would challenge himself to break records.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Was it a deceptive strategy? That didn't seem to be his personality.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In any case, it wasn't a bad thing if a strong competitor decided to take a step back.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Boyle",
+      "content": "Then there's nothing I can do. Anyway, let's try our best. Iruki, Nade. Let's do our best.",
+      "tone": "encouraging"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Yeah, well… not sure how hard we'll work, though.",
+      "tone": "skeptical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Iruki said in a tone of annoyance.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The students sensed that the three of them wouldn't be advancing to the graduation class anytime soon.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It became an opportunity for them to reconsider their decision, as Shirone's group would not have made such a decision without a reason.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was no coincidence that the first person to greet Shirone and his group was Boyle, the leader of Class Four.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "This was part of the power dynamics in Class Four.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "That's why Azelio Pandora, ranked second, was in a bad mood.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When there was number one student named Amy, there was no need to worry because all the students were second students.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "However, the score difference between Boyle and Pandora, who were currently first and second, was only one point.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Boyle's conversation neared an end, Pandora quietly approached Shirone and raised her hand.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pandora",
+      "content": "Hello?",
+      "tone": "playful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nade let out a groan.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He was a friend to everyone, and the fact that he was groaning was enough to tell her personality.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She was a well-known eccentric in the advanced class. A girl who thought she was the most extraordinary person in the world.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone also knew that fact.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "However, the way she lived self-centeredly without any friends seemed lonely.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pandora",
+      "content": "Hello, Pandora. We're in the same class now. Feels a bit strange.",
+      "tone": "polite"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pandora",
+      "content": "Hoho, how does it feel to take classes with a beauty like me?",
+      "tone": "flirtatious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Pandora tilted her upper body and sent a glance.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In such a situation, even Shirone had to keep a straight face.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Though her appearance wasn't unpleasant, her heavy makeup was overwhelming.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His heart started beating strangely just from smelling her perfume. This was likely related to her specialty in Scent Magic.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pandora",
+      "content": "Oh my, look at your blushing face. Don't be shy. Let's be friends from now on.",
+      "tone": "playful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Pandora's blouse had two buttons fewer than usual, as if she had approached Shirone intentionally.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When she leaned forward, Shirone wasn't sure whether to close his eyes or keep looking.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Either option felt like it might be impolite.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Hey, what's going on here? Shirone already has someone special.",
+      "tone": "teasing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nade covered Shirone's eyes.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then, for the sake of his blind friend, he peeked inside Pandora's blouse.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Pandora was too annoyed to care about the boys' stares.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pandora",
+      "content": "Shirone's someone special was none other than Carmis Amy.",
+      "tone": "playful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When she was in the advanced class, no student dared to boast about their abilities.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Whether it was grades or looks, she was superior in everything.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The reason she flirted with Shirone was to prove that she could make him her man if given the chance.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pandora",
+      "content": "Hmph, I know you're dating Senior Amy, but you can't even see her, right? Besides, she'll pass the graduation exam and leave school soon. Shirone needs a new woman. A sophisticated and intelligent woman like me.",
+      "tone": "playful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Pandora subtly gathered her cherished 'heart' like a treasure.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pandora",
+      "content": "Anyway, you'd better ride the line well. I'll catch up with Boyle sooner or later. If you guys stay in my line, I'll look after you too.",
+      "tone": "playful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Iruki, who had been pulling Shirone towards him, shook his finger.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Aren't you ignoring us too much? We're the Shirone Line.",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pandora",
+      "content": "Hohoho! Since it's your first time, enjoy yourself to the fullest. You'll soon realize Class Four isn't that easy. See you later, Shirone.",
+      "tone": "playful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Pandora blew a kiss with her hand and returned to her seat.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even before the first class started, Shirone felt overwhelmed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But he got a glimpse of how Class Four operated.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Boyle and Pandora, the first and second in the rankings, were aiming for the graduating class, while the other students below them were keeping an eye on them.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He thought that it was a good thing that she gave up on graduating this time.",
+      "tone": "relieved"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He had no intention of avoiding competition, but he didn't want to have an emotional fight with his friends over the narrow gap that was decided on a first-come, first-served basis.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He decided that if he could achieve significant growth this year, he would apply for the graduation class early next year, just like Amy did.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The first three periods passed smoothly, and as they waited for the fourth period on mental theory, the teacher entered with three transfer students.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Students who regularly subscribed to <Spirit> magazine recognized them and started whispering.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Victor Savina.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Bonipar Closer.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Airhein Dante.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Student of the Royal Magic Academy in the capital Bashka, they were currently the most talked-about students in the kingdom.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In particular, Airhein Dante was a genius among geniuses with such outstanding talent that he was called the next-generation archmage even among current active mages.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Now, now! Everyone, be quiet. These are the transfer students who will be attending Class Four from today. They will introduce themselves, so please greet them warmly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dante went up to the podium and looked around at the students.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His first impression was 'old fashion'. In his eyes, which had been enjoying the latest fashions in the capital, everything looked old-fashioned.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dante fixed his gaze on Boyle. He was clearly dressed like a mama's boy, but his eyes were unnervingly confident.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Is that Shirone? It can't be, right?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was different from the feeling he had heard from Olivia about Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He didn't know about his appearance, but at least the vibe didn't match.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "On one hand, a girl with a lot of makeup was flirting with him.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Although her face was pretty, her makeup was so thick that he couldn't bear to look at her.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If she went around the capital like that, she would have been branded a barmaid.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Dante, what are you doing? Introduce yourself.",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Nice to meet you. My name is Airhein Dante. Let's get along well.",
+      "tone": "friendly"
+    }
+  ],
+  "source_hash": "5ecd4916439f7f541ae3c20bb1e5d5d01343c71340298d5e1d94d14a493c553f",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T17:26:31.295703+00:00"
+}

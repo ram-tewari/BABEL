@@ -1,0 +1,709 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Clay Marsha (5)",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "I don't know anymore. Who are you, really? Why is everything a lie? What do you gain from deceiving people?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Why should I tell you? You're just trying to use me! If you really care, then just leave! I'll trust you if you do! Please, just go!",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "I'm asking, what's real?",
+      "tone": "desperate"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha flinched at Shirone's shout.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Don't just say it hurts! Tell me where and how it hurts! Only then can I decide whether to leave or not! You paint the world with all these lies…",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone shouted, raising his fist as he approached Marsha.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I can't see how much pain you're really in!",
+      "tone": "frustrated"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A strong voice rang out from behind them.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Marsha! Noooo!",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy and Tess turned around. Freeman, eyes wild, was charging at Shirone with incredible speed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Unbelievable! He took a direct hit to the face!",
+      "tone": "surprised"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy was stunned as if she'd seen a ghost. It was impossible to survive a face burnt by Flame Strike.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "As if we'd just let you pass…!",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Freeman leapt as Tess tried to block his path. He drew his weapon and lunged at Shirone, soaring past Tess's height with a massive leap.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Turning around, Rian swung his sword at Freeman. Though his muscles burned with pain, he couldn't let Freeman get past them and undo all their efforts.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Aaaargh!",
+      "tone": "painful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Freeman was caught by Shirone's Slow Magic like anyone else. He was bound to be split by Rian's sword.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But Freeman did not retreat. He had to protect Marsha, to somehow pull her away from Shirone.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "At that moment, Rian and Freeman both froze in shock. Rian couldn't strike, and Freeman couldn't reach Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone sensed the situation behind him and suddenly released his Slow spell.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Time magic had the unique advantage of working equally well in both offensive and defensive modes.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even so, Shirone's fist swung through the air in a broad arc.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "All Marsha could do was watch as the cruel boy's fist approached to shatter her.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's punch landed squarely on Marsha's face. Her head turned, and she crumpled to the ground as if struck by a tremendous impact.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "Ma-Marsha.",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Freeman's face went pale. Marsha couldn't accept what was happening, staring blankly at the ground with a lifeless expression.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "Marsha…",
+      "tone": "grief-stricken"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Freeman approached, his face contorted with grief. His subordinates returned from the teleportation magic circle, appearing behind the building. But none dared come closer.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "Are you alright?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Yes, I'm alright.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha forced a smile. Faced with the unchangeable truth, perhaps humans become indifferent.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "She smiled, but her emotions had all but evaporated. It was as if only a shell remained.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Serves you right! This can't be all. Your magic-stealing ability must come at a price, right?",
+      "tone": "accusatory"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Yes, to release the Plunder spell, you have to touch my body. Then the magic returns. And the price… is that I say this to that person.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha turned to face Shirone. With a terrified expression, she opened her mouth.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "You're welcome to hug me.",
+      "tone": "terrified"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tess frowned in disbelief.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "W-What?",
+      "tone": "confused"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Using something like this as collateral. What kind of woman is this?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "The Plunder was a power one could only gain by risking one's life.",
+      "tone": "reflective"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The spell she used to kill her foster father that night was a memory she would rather forget.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "What's the point of this as a price? Shirone would never do such a thing. What happens if he refuses?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "Then Marsha dies. She'll lose her life the moment Shirone rejects her according to her rules.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The word 'die' made Tess flail her arms and stammer.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "S-Still, isn't there something we can do? How could this be allowed? Amy, say something. This isn't right, right?",
+      "tone": "pleading"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Don't ask me. It's Shirone's decision.",
+      "tone": "resigned"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Amy was also conflicted. Shirone wasn't the kind of person to hurt a woman like this. Yet it was hard to know how he felt in a situation where he held her life in his hands.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Fine. Living is better than dying. I'll take care of it myself.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Having made up his mind, Shirone walked toward Marsha.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Please. Save Marsha.",
+      "tone": "pleading"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha waited with her eyes closed. She was trembling like someone facing their first surgery, but she felt that this was for the best.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Her dreadful trauma. If someone could cauterize her with a hot iron, maybe it would bring some relief.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Freeman, I'm sorry.",
+      "tone": "apologetic"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha apologized for the first time. Knowing what those words meant, Freeman bowed his head and stepped back.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Can we go somewhere alone? Please.",
+      "tone": "gentle"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "There's no need. Here is fine.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha opened her eyes and studied Shirone's expression. He remained calm.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "What was he thinking? Would he kill her after tormenting her with false hope?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Marsha",
+      "content": "Well… after everything I've done.",
+      "tone": "reflective"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She had stolen magic and tormented him relentlessly. Shirone must have felt like he'd hit rock bottom.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Supporting Marsha's back, Shirone pulled her toward him. She obeyed. Refusing would only result in an even greater price.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I've hugged you.",
+      "tone": "gentle"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha blinked, then frowned, realizing what Shirone meant.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "What are you doing?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I hugged you. Didn't you ask for it?",
+      "tone": "reassuring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Don't mess with me. You think this is over just like that? Mocking me?",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I told you I'd never give up.",
+      "tone": "resolute"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Let me go! I don't want your cheap sympathy! You think this makes you great? Just hug me for real! You're angry at me! Take your revenge!",
+      "tone": "desperate"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha couldn't harm Shirone due to the rules of the price. But even if she struggled, he had no intention of letting her go.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You jerk! Hypocrite! Piece of garbage!",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You're a good person.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone said, stroking her head.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You're not like Arcane. Look at how many people follow you. Even if it's all a lie, it's enough. No one knows what's in another's heart. Not even me. We just live believing. Even if no one else trusts you, you can believe in yourself. If you truly love someone, there's someone in this world who will truly love you in return.",
+      "tone": "reflective"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "No! Impossible! What do you know? How can you say that?",
+      "tone": "denial"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha yelled, denying Shirone's words. But she stopped when she realized tears were rolling down her cheeks.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Huh? What's happening? Why am I crying all of a sudden?",
+      "tone": "confused"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Had she been so tightly closed off that her tears flowed before her emotions could surface?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But not anymore. As she recalled the memories she'd sealed away, Marsha finally confronted her trauma.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Marsha",
+      "content": "It was a day when she was 17.",
+      "tone": "reflective"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lying on the floor staring at the ceiling, she smelled her foster father's alcohol breath as he approached.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Same situation, same violence.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Marsha",
+      "content": "Marsha felt the dagger hidden behind her back. Its cold touch chilled her to the bone.",
+      "tone": "terrified"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "You can hug me.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Her foster father's eyes widened in shock.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Marsha",
+      "content": "Even now, she remembered clearly the monstrous emotions reflected in his pupils.",
+      "tone": "haunted"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha gripped the dagger. He was approaching. She had no choice but to stab.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But the father she imagined wasn't the same as the one in her memory.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lifting Marsha upright, her father buried her face in his chest and gently patted her back.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha's father",
+      "content": "I'm sorry, Marsha. You're my daughter.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The words she longed to hear most.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The moment she recalled those words, the walls around her heart collapsed. Ten years' worth of pent-up emotions exploded, and she couldn't stop crying.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Sob! Sniff!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Crying in Shirone's embrace, Marsha wept bitterly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Daddy! Daddy!",
+      "tone": "desperate"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone remained silent, simply patting her back.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Daddy! Why did you do that! I'm sorry! I'm sorry, Daddy!",
+      "tone": "contrite"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "This was what she had always wanted, to be embraced. No matter how violent he'd been, she had wanted him to remain her father till the end.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's okay now, sis. It's all okay.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha's past shattered, being reconstructed into a stronger memory and transforming into a hope she could use to live in the future.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Sob! Daddy! Daddy…!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Freeman checked the time.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The conditions she'd set should have already taken effect. But Marsha was still alive.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "What happened? What's going on?",
+      "tone": "confused"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Only Shirone and Marsha knew the nature of the emotions exchanged between them. Everyone else remained wary.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "The Plunder spell has been lifted. Shirone dispelled her magic.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "No way. All you had to do was hug her? What kind of price is that?",
+      "tone": "disbelieving"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Freeman hesitated. Amy's skepticism was understandable given her lack of knowledge.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "Shirone didn't just lift the Plunder spell. He canceled its conditions and severed her power. Marsha's Pillage doesn't exist anymore.",
+      "tone": "reflective"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "Shirone had broken through the walls around Marsha's heart. He shattered the shell created by her status as an Unregulated Eater and showed her a new path.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Sob! Sob!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha's tears showed no sign of drying up. She knew it too. If she didn't open the door now, she might never again.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "A decade of past memories sank into the depths.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "◆ ◆ ◆",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Twenty minutes passed after the battle ended.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The subordinates of the Parrot Mercenary Band rested, and Rian treated his injuries with Tess's first aid.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even as this happened, Marsha remained in Shirone's arms.",
+      "tone": null
+    }
+  ],
+  "source_hash": "f426f10445911c9f5d6924518068219e7ce26e64b3e34968270131e7acb18151",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T16:28:51.007513+00:00"
+}

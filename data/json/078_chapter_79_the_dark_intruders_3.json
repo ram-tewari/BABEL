@@ -1,0 +1,1135 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone, whose chest was pounding, was calmed down by Iruki.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I get it. Don't get too excited. It's just how it is. Anyway, I believe you. You're saying people have lost their memories of you.",
+      "tone": "calm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Neide spoke.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "But we still remember. Couldn't this be a clue to the situation?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Iruki spoke.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "I think so too. There's only one reason I can think of why we haven't forgotten Shirone. We weren't at school for the past two days. What could have happened while we were gone?",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone and his group fell into thought.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "While they were away, someone manipulated not only the entire student body but also the faculty's minds? It was a hard-to-swallow assumption for now.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Iruki spoke.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Could it be a supernatural phenomenon? Historically, there have been quite a few similar cases.",
+      "tone": "skeptical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Neide spoke.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "Well, I think those cases are also related to magic. But if it's that kind of thing, how do we explain why we haven't lost our memories?",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Iruki spoke.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "It might be because we were in Istas. We've been here the whole time after parting ways with Shirone.",
+      "tone": "speculative"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone asked.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What does that have to do with Istas?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Iruki spoke.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "There have always been rumors about Istas having mysterious powers. Of course, it's just a rumor, but we should consider everything we can. It's related to our safety too.",
+      "tone": "cautious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone asked.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "So, you're saying there's a chance we could lose our memories too.",
+      "tone": "worried"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Iruki spoke.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "It's not something we can guarantee.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Silence fell.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Neide spoke up bravely.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neide",
+      "content": "Still… we should go out, right?",
+      "tone": "brave"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Iruki spoke.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Well, hiding won't solve anything, will it?",
+      "tone": "practical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone and his group headed out.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Neide picked up a pen and wrote something on his palm.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His watching friends also carved the same phrase.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "- I have lost my memory. Those who know the keyword are trustworthy. The keyword is Polaris.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone and his group spread their palms with satisfaction.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With this mark, even if they lost their memories, they would be able to cooperate.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alright, done? Let's go out now.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Regaining his confidence, Shirone left Istas.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Students whose classes had ended were moving around the school grounds.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Calming down and observing, there were more than a few strange things.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Normally, students would move around in small groups, but now they were moving individually.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The strangest thing was that despite walking busily, their paths were completely chaotic.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Neide spotted someone he knew in the crowd.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was Gabe, a classmate from Class Five.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Hey, Gabe. Where are you going?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Gabe approached.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then, in a monotone voice as if talking to a stranger, he asked back.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gabe",
+      "content": "Who are you?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Neide pouted his lips.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But since he had already heard what Shirone had gone through, he didn't mind and asked the question he was curious about first.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Never mind that. Where are you going right now?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Gabe looked down at his own two legs.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then, as if suddenly realizing something, he began looking around.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Where… is this?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Hey, snap out of it. What's wrong with you? Did something happen in the past few days? Have you seen anyone suspicious?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Do you… know me?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Of course I know you. How could I not?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Gabe's face turned pale.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Suddenly, he grabbed Neide's shoulders and shook him violently.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tell me! Who am I? No, where is this place? I… what's my name?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Gabe, terrified, clutched his head, Neide slowly stepped back, preparing for an unexpected situation.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Fortunately, Gabe didn't turn aggressive.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But he was losing his mind.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "What is this? I hear strange sounds! Why do I keep hearing these sounds?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Gabe looked around and shouted, but his tongue gradually began to twist.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Eventually, incomprehensible, bizarre sounds burst out.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's pupils shook in shock.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He realized what state Gabe was in.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "On the other hand, Iruki, who hadn't caught on yet, listened to the sounds around them.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "What sounds is he hearing? Auditory hallucinations?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "No, he's hearing his own voice.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "What? His own voice?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He doesn't remember language. He's habitually speaking but doesn't know the meaning. So of course he's scared.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Gabe had completely forgotten his language system.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Eventually, it seemed he even forgot syllables, screaming like a primitive person.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone and his group were creeped out.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Judging by the speed of mental deterioration, memories were disappearing quite rapidly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As time passed, Gabe's voice faded, the light in his eyes disappeared, and eventually, he lost his motor skills.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At the same time… everyone on the street stopped moving.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A terrifying silence fell over the magic school.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was as if wax figures had been placed there, with no sign of movement from anyone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "What on earth… happened?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At least we're safe. We can't be optimistic, but there's still room to investigate further.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone examined the people one by one.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It felt like the world had stopped, similar to Armin's Stop Magic.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But time was clearly passing.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Moreover, seeing people occasionally blink showed they weren't frozen.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Their thoughts… have stopped.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If it was a type of magic, it was a more dangerous effect than Stop.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It could threaten the opponent.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If someone wanted to, even a child could harm everyone here.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The three of them entered the crowd and conducted a few experiments.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tickling a junior made them burst into laughter.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But when they stopped, the junior immediately returned to a stiff expression.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Threatening to poke their eyes made them blink.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Their nerves were still alive.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Hoh, so only their thoughts have stopped. This is peculiar.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If that's the case, then their physical strength has limits too.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They won't last long standing like this. What's the point of doing this?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "First, we need to figure out who did this. Let's look around a bit more.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone and his group headed north.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They wanted to check if the senior graduates and teachers with high magical abilities were in the same situation.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When they reached the uphill path, graduating seniors were pouring out through the steel gate's arch.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone and his group hid in the bushes.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The fact that only the graduating class was moving while everyone else was frozen was reason enough to be wary.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Among the graduating class, there were unfamiliar faces.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A boy and girl who looked around Shirone's age and a man carrying twin swords who didn't fit in at a magic school.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lucas whistled and made a sarcastic remark.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Wow, I've seen a lot of miserable sights in my life, but this is the first time I've seen such a mess.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They've all turned into zombies, haven't they?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Abyss Nova is a magic that blocks the memories of those exposed to Nova within 24 hours.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Without memories, thought becomes impossible, so it's no exaggeration to call it an inanimate-objectification magic.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The order in which memories are blocked starts from the most recent and most memorable.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Leading those whose memories were blocked was Arin's task.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Specializing in mental magic, she brought the graduating students to the school grounds where Shirone and his group had encountered Gabe.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "'Shadows of Capture.'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "And there, she cast her magic again.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Her shadow stretched out like tentacles, piercing through the shadows of the people.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A unique form that doesn't exist in the Four Directions.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But for mental magic users, it's considered a standard technique called the tentacle type.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The tentacle type uses the Spirit Zone like thin threads, making it much more flexible than the Four Directions.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "However, it takes much longer, so it would take at least 20 minutes to pass through all the shadows of the advanced class students.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "While Arin worked, Lucas passed the time by critiquing the female students.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Being nobles, they all had fair skin and pleasant scents.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lucas, with his serpent-like eyes, scanned their figures and stopped when he found a girl to his liking.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Oh ho. Look at this.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A girl whose pupils remained clear even in her memory-lost state.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Her red-tinged bangs flowed down, covering one eye in a retro style, but her looks were the best among the students.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She's probably got a temper. I like feisty women.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The moment Lucas reached out to Amy, Canis grabbed his shoulder and turned him around.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lucas, stop. Refrain from undignified acts.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "What? Lucas, stop? Are you talking to me like that right now?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "I won't stand by if you do unnecessary things.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Pfft!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lucas let out a deflated laugh.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Had the status of the Parrot Thieves fallen this low?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Hey, what's so serious? I heard this is a revenge play anyway.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "What's wrong with having a little fun?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "This is revenge to restore our master's pride.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "I won't tolerate lowly acts.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "What will you do if I don't stop? Want to fight here?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "I'll terminate the employment contract.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Haha! Kid, you seem to be misunderstanding something.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "I was hired by Arcane, not by you.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It's the same either way.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Arin is casting Shadows of Capture right now.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If you interfere with the operation, you can be fired anytime.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Of course, if you have a problem with that…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A whirlpool of abyss rose in Canis's pupils.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "I'll kill you right here.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lucas clicked his tongue and stepped back.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the vice-captain of the Parrot Thieves, he had killed countless mages and knew how dangerous it was to show hostility in the Spirit Zone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Fine. Let's drop it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Anyway, if I don't get paid, I'm the only one at a loss.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Let me make this clear.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If you interfere with our work one more time, I won't hold back.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "You're so damn uptight for partners.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "I don't even see a hint of this so-called master. Where the hell is he?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The master is preparing something important.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He meant for us to handle this simple task ourselves.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Arcane was currently hiding and recovering his exhausted mental strength from Abyss Nova.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But since telling Lucas wouldn't do any good, Canis hid the truth.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tch, whatever you say.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lucas turned away, his eyes flashing intensely for a brief moment.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Hmph, he's probably hiding and resting.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lucas was well-versed in the equivalent exchange of mages.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Blocking the memories of hundreds of people was a level of magic ordinary mages couldn't even attempt.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even if he was a grand mage, it was clear he wouldn't be able to use his full power for a while.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Your bluffing only works now, kid.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "You think I'd miss such a fun opportunity?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When Arin finished her work, the graduating and advanced class students began moving all at once.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Only after they were out of sight did Shirone and his group emerge from the bushes.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "From what they saw, it seemed the intruders planned to take the entire school somewhere.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Who are those people?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "No time to think.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It seems nothing will happen for now, but who knows what they'll do once they reach their destination.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "And the teachers were captured too.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone said.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The magic that girl used seems like dark magic.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Does that mean they're responsible for the current situation?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The possibility is low.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "To cast magic of this scale, the size of the Zone alone would have to be enormous.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Two of the three are too young, and the other one is carrying weapons, so he's likely not a mage.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "So there's a third person?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "That's what I think.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "For now, let's focus on tracking them.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If someone's in danger, it won't be too late to step in then.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Taking over the magic school. They're insane.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "And dark magic at that….",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With an inexplicable sense of foreboding, Shirone and his group followed the intruders.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "◆ ◆ ◆",
+      "tone": null
+    }
+  ],
+  "source_hash": "5a58d12354ba4caee741ac6f04f1e8ce81e86ac7ae254c043937eb1acd200e0b",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T07:47:30.470291+00:00"
+}

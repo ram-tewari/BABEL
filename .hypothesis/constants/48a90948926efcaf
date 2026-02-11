@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\google\generativeai\types\model_types.py
+# hypothesis_version: 6.148.8
+
+[0.0, '%Y-%m-%dT%H:%M:%SZ', '.', '.json', '/', 'AnyModelNameOptions', 'BaseModelNameOptions', 'Model', 'ModelNameOptions', 'ModelsIterable', 'TunedModel', 'TunedModelState', '\\.\\d+', '^\\w+://\\S+$', 'active', 'base_model', 'complete_time', 'compute_time', 'create_time', 'creating', 'failed', 'gid=(\\d+)', 'hyperparameters', 'keys', 'models/', 'output', 'r', 'snapshots', 'source_model', 'start_time', 'state', 'state_unspecified', 'str', 'text_input', 'tunedModels/', 'tuned_model', 'tuned_model_source', 'tuning_task', 'unspecified', 'update_time', 'utf-8']

@@ -1,0 +1,1147 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even without knowing Shirone's identity, those waiting for him included the kingdom's top officials and the Ten Mages of the Ivory Tower.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Either was not someone a magic school teacher could treat lightly, but Wizard insisted.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "I want to go say hello! Quickly, quickly!",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The teacher was pale.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Teacher",
+      "content": "Wizard, those people are very busy. Why not play with your teacher instead? Maybe, shall we draw?",
+      "tone": "calm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "No! I'm going! I will go!",
+      "tone": "determined"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If it had been an ordinary child, perhaps the teacher wouldn't have insisted to such an extent.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "However, Wizard had never shown social etiquette in front of anyone before.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even when the king visited.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She pulled on His Majesty's beard.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Well, that's actually okay.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "No one dotes on Wizard more than he does.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Being a mage herself, she knew the influence the Ivory Tower's star had on the kingdom.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Huh?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Suddenly, as the teacher's legs lifted off the ground, Wizard, holding her hand, led her forward.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone's gaze changed.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Gravitational collapse.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It wasn't cast knowingly, but a phenomenon that naturally ignited within synesthetic thought.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Her potential is the strongest among humans...",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lampa's words suddenly made sense as Wizard slid on the ground and arrived.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Who are you, big brother?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With her abundant golden hair braided thickly on each side and faint freckles across her nose bridge, she was cute.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "This is more serious than I thought.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He didn't want to use the term 'madness,' but her gaze was different from other children.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "She already realizes her own strength.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "She finds pleasure in the discomfort of others, even though she knows she is disliked.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "A child who could beat adults.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "When this simple curiosity merges with pleasure, it could amplify to near infinity...",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Could this lead to becoming another Harvitz?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Though his thoughts were grave and extreme, Shirone greeted her with a smile.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hello? I'm an inspector for the kingdom.",
+      "tone": "friendly"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "What's an inspector?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Someone who checks if students are doing well, if they're having any hard times. You included.",
+      "tone": "explaining"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Hmm.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Wizard seemed to lose interest, Shirone asked a personal question out of curiosity.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "How's school? Is magic fun?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "Yes! It's fun!",
+      "tone": "excited"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Her emotional shift was as rapid as it was simple.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "I can beat brothers, sisters, teachers, and all these men here!",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As she pointed one by one at Lampa and then the Ten Mages of the Ivory Tower, the teacher's face turned red.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "I'm sorry! She's still young...",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Though it was a convenient excuse, Wizard didn't stop there and pointed at Shirone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "And I can beat you too.",
+      "tone": "defiant"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The expressions of the Ten Mages of the Ivory Tower hardened as Shirone quizzically tilted his head.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You're a mage too, right? A kingdom inspector mage.",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lampa's eyes narrowed.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "When the Great One conceals his energy, even my eyes can't gauge his level. Truly a terrifying talent.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes, I'm a mage too. Like Wizard, I studied magic diligently from a young age.",
+      "tone": "proud"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Wizard exaggeratedly pretended to laugh.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "But you're really weak.",
+      "tone": "teasing"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Believing her instincts still showed her innocence despite her abilities...",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "Wizard is strong. This much strong.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She gestured broadly with her short arms, indicating a wild nature.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It won't be easy to handle her,",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He didn't want to use the term 'madness,' but her gaze was different from other children.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "She already realizes her own strength.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "She finds pleasure in the discomfort of others, even though she knows she is disliked.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "A child who could beat adults.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "When this simple curiosity merges with pleasure, it could amplify to near infinity...",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Could this lead to becoming another Harvitz?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Really? Hmm, what if Wizard loses? Do you think you'd get angry or sad?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "I will win! I'll win everything!",
+      "tone": "determined"
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "A hidden anger exploded through the child's voice.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "Go away! I hate you! Phoo, phoo!",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She expressed the greatest hostility she could, suddenly grabbing dirt and throwing it at Shirone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Teacher",
+      "content": "Wizard!",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "While the teachers turned pale, Shirone did not flinch and continued.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Okay. Since Wizard can win everything, why don't you show me?",
+      "tone": "encouraging"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "Yeah, good! Let's play! A game!",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Used to tests from birth, Wizard turned towards the challenge.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No, not a game. Real magic.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The teachers gasped, and the watching officials turned their heads.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But real combat...",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's okay. She's fully capable. What do you think, Wizard? Can you still win?",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "Okay. I will win everything. Let's do that.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone nodded, and Barlot, the leader of the Ten Mages of the Ivory Tower, stepped forward.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then I will be your opponent.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The teachers couldn't believe their ears.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "What?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Remembering what the star of the Ivory Tower entailed, they rushed over yelling.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "This can't be! She's just a child! Let us do it instead!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Teacher",
+      "content": "Inspector! I'll take responsibility for Wizard's rudeness. Please stop this.",
+      "tone": "pleading"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Barlot will test Wizard.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It seemed like a good match.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The teachers are scared. It means they don't know the true nature of what's beside them.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I wish she wouldn't be treated as just a child.",
+      "tone": "empathetic"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "That... That...",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the teachers looked on in disgust, Barlot grasped the true intention of the words.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Barlot",
+      "content": "Is that the level?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Barlot",
+      "content": "He had expected it, but hearing it from Shirone reignited his spirit.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lampa intervened to mediate the atmosphere.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lampa",
+      "content": "Then I will officiate. The match will last three minutes. However, I will intervene if it becomes dangerous.",
+      "tone": "calm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With Lampa's words, the teachers finally snapped out of their panic state.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Three minutes, just last three minutes...",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Three minutes is enough to do anything at the level of the stars.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Ultimately, even Lampa is siding with Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In the center of the training field, Barlot scrutinized Wizard with a cold gaze.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Synaesthetic thinking.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "To humans, what is a creative notion is merely basic logic for Wizard.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If she can create all solutions...",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Without a correct answer!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Barlot's eyes widened, flames erupted from beneath the ground.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Crush with power!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A massive column of fire twisted in the air towards Wizard.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The training field blazed with giant flames, the teachers screamed in horror.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The dedicated teacher yelled at Lampa.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "That's not what was promised! What law allows you to do this to a child? I'll sue you!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "No one paid any attention.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Not Shirone, not Amy, not Lampa; they were only following the two shadows moving within the flames.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "There was a solution after all.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lampa",
+      "content": "I found it. It happened beyond Barlot's limits of thought.",
+      "tone": "proud"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The decisive strike ended in futility, and the match was a close call.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Unbelievable.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "While blocking magic from all directions could be intense...",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Bang! Bang, bang!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sometimes, seeing the face of an opponent made it hard to believe this was reality.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The students understood, but to the Ten Mages of the Ivory Tower, emotions could not become variables.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Barlot",
+      "content": "Let me show you how an adult does it.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As he extended his hand beyond his robe, the gem embedded on the back of his glove radiated light.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Essence of the spirit.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Ten Mages of the Ivory Tower possessed ten out of the seventeen that existed in the world.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Awakening of the Earth.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Krrrrrrr!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The ground trembled, and from all directions, the earth rose like waves, surging toward Wizard.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lampa's expression hardened for the first time.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Lampa",
+      "content": "This is dangerous!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The form that integrated all possibilities of the earth element resembled a disaster.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Huh? What?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The dome of earth that had trapped Wizard quickly shrank like a deflating balloon.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Oh no...",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Just as Lampa was about to intervene, thousands of small droplets burst from the surface of the dome.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Huh?",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "And the next moment, with a tremendous roar, the earth exploded into pieces.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Yaaah!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Visible convection currents swirled around the now visible Wizard.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Technique isn't everything. Elements, willpower, even the laws of nature... ...can be created with creative thinking.",
+      "tone": "inspiring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "I will win!",
+      "tone": "determined"
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Her desire manifested synesthetically, breaking norms with dozens of hybrid spells that rushed forth.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Damn! What is that?",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Barlot",
+      "content": "It's marvelous.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Barlot",
+      "content": "The thrill of breaking the limits of thought was a thousand times more intense than the worry of death.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the flash took him away, the hybrid spells exploded on the ground.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Koooooom!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dust rose, and Barlot, grabbed by Lampa, landed next to the group.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Where's Wizard?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She emerged from the smoke, ran up to Barlot, and started shaking her hips.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "Yay! I won, I won!",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The teachers tried to intervene, but she was too angry this time to stop.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "Idiot. Idiot. Phoo, phoo!",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Teacher",
+      "content": "Wizard, stop it. This is worse than usual.",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Barlot stood up.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Barlot",
+      "content": "No, I lost.",
+      "tone": "defeated"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was a fact known to everyone there, but hearing it from the party himself was shocking.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Barlot",
+      "content": "I'm sorry, Mr. Lampa. It seems supervising Wizard is beyond my capabilities.",
+      "tone": "apologetic"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lampa",
+      "content": "No need for that. I'm surprised too. Anyway, the situation has become awkward.",
+      "tone": "calm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Turning around, he saw the shoulder of an official facing the tree, shaking.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Lampa",
+      "content": "This is huge.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Lampa",
+      "content": "Adrenaline was suffocating.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Lampa",
+      "content": "A seven-year-old beat a star. Going to the Holy War for the Stang Kingdom isn't a dream. Ivory Tower or not, I must have her. Her parents are just dumb farmers, better I pay and adopt her...",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Lampa",
+      "content": "Peering into what was obviously in everyone's minds, Lampa sighed and turned back.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Lampa",
+      "content": "Should have brought her here three years ago.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "At that time, the principled bureaucrats of the Ivory Tower's internal government prolonged the issue.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Of course, the final decision to make Shirone a star of the fourth order was once again right...",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Lampa",
+      "content": "People need to be flexible. What's it to them if two are chosen? Obsessed with Karr...",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Lampa",
+      "content": "It was unavoidable to feel regret.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It can't be helped.",
+      "tone": "empathetic"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone comforted Lampa by patting his back and approached where Wizard was.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You really are good at magic, Wizard.",
+      "tone": "praising"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "Yeah! Much better than you.",
+      "tone": "teasing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Wizard, still bearing some resentment, craned her neck, not even reaching Shirone's waist.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "Wow, really? Then how about one last challenge with me?",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The moment the stars of the Ivory Tower turned their heads, the dedicated teacher objected.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Teacher",
+      "content": "Enough already! Just because the child threw some dirt, does that warrant such relentless torment? Her abilities were proven in the last duel.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Of course. I'm sorry. But there are reasons. This isn't good for Wizard either.",
+      "tone": "apologetic"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Teacher",
+      "content": "What do you mean...",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lampa cut him off.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lampa",
+      "content": "If Shirone decides to proceed, I can't stop him. However, I don't think I can be the judge.",
+      "tone": "calm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Teacher",
+      "content": "That's okay. I can control it.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The teacher frowned.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "What are you talking about? Even the stars of the Ivory Tower couldn't win, how can you... Huh?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A face unknown, but a name known to anyone in the magic community.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Teacher",
+      "content": "What! Shirone!",
+      "tone": "surprised"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amid the murmuring, Lampa spoke.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lampa",
+      "content": "Sorry for not clarifying earlier, but can we trust Wizard with us one more time? There won't be any danger. We've already got the king's approval.",
+      "tone": "calm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Receiving a glance from the official who squinted one eye and nodded,",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Official",
+      "content": "Really? Is this person really Shirone?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Infinite Magician, one of the Five Stars of the Ivory Tower, the Yahweh of the Era, many titles flashed by.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "Huh? Strong.",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Turning at the voice, Wizard looked curiously at Shirone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wizard",
+      "content": "Brother, you suddenly got stronger.",
+      "tone": "surprised"
+    }
+  ],
+  "source_hash": "4a07c432e9850cba9593d13e09a20166fc918606a2d0678a1a7ec9f5f751b6de",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T08:05:05.166677+00:00"
+}

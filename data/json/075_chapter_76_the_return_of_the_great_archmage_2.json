@@ -1,0 +1,1105 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Canis brought a teal robe.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Though Arin was watching, Akein changed without hesitation.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Leaning on the table, Akein shuffled to a chair and finally caught his breath.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Akein",
+      "content": "Hah, I feel alive again.",
+      "tone": "exhilarated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "Are you alright, Master?",
+      "tone": "concerned"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "His dark circles contrasted sharply with his pale skin, unmistakably marking him as a dark mage.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "What splendid eyes. That's why I took him as my disciple.",
+      "tone": "admiring"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In contrast, Akein wasn't fond of Arin.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Her black hair and eyes indicated talent, but she was weak-willed and lacked judgment.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Her pretty face showed no malice, and her large eyes betrayed every emotion.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Seeing the old man's naked body, her pupils trembled uncontrollably.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Akein clicked his tongue.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Akein",
+      "content": "Tch, tch. What use is she? Utterly worthless.",
+      "tone": "disdainful"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If not for Canis's attachment, he wouldn't have brought such a fragile girl along.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Seven years ago, on that day.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even with the life-support device, his mobility had deteriorated.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Summoning his last strength, he'd ventured into the capital, Vashka.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the kingdom's largest city, its streets were wealthy and dazzling.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But behind the light lay the wretched lives of those cast aside by society.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The slum, Radum.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Reflecting the capital's extreme polarization, Radum's residents lived far more miserably than beggars elsewhere.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Their only means of survival was scavenging through trash bins—competition so fierce that murders over fish bones were commonplace.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "There, Akein had found Canis and Arin.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In Radum, where daily life was war, ten-year-old Canis's survival tactic with Arin had been to grow cruel.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Canis's eyes burned with hostility toward the world.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Akein",
+      "content": "My eyes didn't deceive me. He's the real deal.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Refusing Canis's help, Akein stood.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Akein",
+      "content": "Today, of all days, I didn't want to show weakness—the day I'd escape wretched aging.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Akein",
+      "content": "Witness the greatness of dark magic.",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Akein clutched the black crystal and closed his eyes.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His hands shook weakly, but his face was alight with excitement.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Kuh—ah!",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Gaaaaah!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Akein screamed like a monster.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Absorbing 40 years of power at once would've driven an ordinary person mad.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The concept of dark magic was absorption and assimilation.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Akein merged the dark power stored in the crystal with his own, reclaiming his former strength.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Uooooooh!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The shadow at his feet flared like flames, then fragmented and scattered as if breaking free.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Time passed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Canis and Arin slowly opened their eyes.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "No trace of Akein's frailty remained.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His appearance hadn't rejuvenated, nor had his back straightened.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But his complexion glowed, and his eyes brimmed with vitality.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "Feeling an aura of invincibility from his restored master, Canis trembled with awe.",
+      "tone": "awe-inspired"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Akein",
+      "content": "Is this Master's true form? I'd heard rumors, but this is astounding.",
+      "tone": "satisfied"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Akein",
+      "content": "Let's go. From today, Akein's history will be rewritten.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After waiting 40 years for this moment, Akein left the dungeon without savoring the surge of power.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "◆ ◆ ◆",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Akein arrived at Inferno, the western prison of Vashka.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Housing criminals from class D to B, it boasted impregnable security.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Guard",
+      "content": "Halt! Who goes there? This is a restricted area!",
+      "tone": "commanding"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Guard",
+      "content": "Identify yourself! Failure to comply will result in arrest!",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Akein",
+      "content": "Greenhorns…",
+      "tone": "disdainful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Akein's shadow stretched, merging with the guards'.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "BOOM",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "An explosion rocked the building.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Guard",
+      "content": "Contact the palace! Request reinforcements! It's a mage!",
+      "tone": "panicked"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The guards charged with weapons drawn.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But numbers meant nothing to a dark mage.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Akein's shadow extended like tendrils, merging with theirs.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Guard",
+      "content": "Guh—what is this?!",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Guard",
+      "content": "I can't move!",
+      "tone": "terrified"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The guards were paralyzed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then, with a wave of Akein's hand, they turned on each other, stabbing against their will.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "Agh! Are you insane? This is dangerous!",
+      "tone": "alarmed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Guard",
+      "content": "I don't know! It's not me!",
+      "tone": "terrified"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "He must have a plan. Let's follow.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Akein strolled through the battlefield toward the building.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When the shadows connecting him to the guards snapped, the brawling men foamed at the mouth and collapsed.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "This was the hallmark of dark magic—mind control.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Darkness merged with other darkness. By infiltrating another's shadow, one could control their body and thoughts.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "On paper, dark magic was overpowered.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Yet it remained marginalized because one flaw overshadowed all its strengths.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was weak to light.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Under sunlight, darkness existed only as slivers of shadows.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The stronger the light, the more mental energy was needed to cast dark magic.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "While dark mages reached their peak at night, even that advantage waned with the popularization of photon theory, pioneered by the genius Kergos.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "With dark magic students nearly extinct across the continent's magic academies, its decline in magical society was evident.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "Yes, I must trust Master. He gave me everything.",
+      "tone": "loyal"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Breaking through the entrance, Akein dispatched more guards inside.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He then entered Block A-3, where prisoners were held.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sensing the commotion, inmates banged their meal trays against the bars.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inmate",
+      "content": "Hey! Don't care who you are—get us out!",
+      "tone": "demanding"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inmate",
+      "content": "Open this damn gate! We'll make it worth your while! Or we'll kill someone for you!",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Akein slowly raised his hands.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The prison's grim atmosphere was the perfect stage for his prowess.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Akein",
+      "content": "Authority of Darkness.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shadows on the floor morphed into hands, rising three-dimensionally.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Hundreds of hands gripped the bars, wrenching them apart with metallic screeches.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Bang! Bang! Bang! Bang! Bang!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Authority of Darkness manipulated shadows to absorb surrounding energy, wielding them like limbs.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A single shadow could barely lift a pebble, but hundreds working in concert could rend iron bars with monstrous strength.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Once the gates were open, the inmates staggered out, heavy iron balls chained to their ankles.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inmate",
+      "content": "What, you a mage? Damn impressive.",
+      "tone": "admiring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inmate",
+      "content": "Thanks anyway. Name's Crown, the Night Cat. Folks in this hellhole know me.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Akein scowled at their wretched aura.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Forty years ago, Inferno had been different.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Once filled with the worst of the worst, it had fallen into disrepute.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Akein",
+      "content": "Pathetic. Criminals introducing themselves? You think you're leaving just because the bars are gone?",
+      "tone": "disdainful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inmate",
+      "content": "The hell, old man? Lost your marbles? We were trying to be nice!",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The inmates burst into laughter.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inmate",
+      "content": "Pfft—ha! What's this geezer babbling about? You think we'll just go back after this?",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inmate",
+      "content": "Let's crush him! I'm sick of this damn prison!",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Drunk on freedom, they charged recklessly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But they soon realized their ankles were still shackled.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inmate",
+      "content": "Huh? What the—damn it!",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inmate",
+      "content": "Panic set in.",
+      "tone": "terrified"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Akein watched their pitiful display and snorted.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "To choose evil, one needed strength. Lacking that, at least intelligence. These were just parasites, wasting food in prison.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Akein",
+      "content": "Authority of Darkness.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The hands that had torn the bars now wrapped around the inmates, dragging them into the darkness.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Mmph! Ugh!",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Grrrrk!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Muffled screams were all they could manage.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "Canis, is this necessary for revenge?",
+      "tone": "alarmed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "Arin, denying Master is denying ourselves.",
+      "tone": "loyal"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "But still…",
+      "tone": "skeptical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "Have you forgotten Radum? Worse things happened there. These prisoners are no different from those who tormented us.",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "But we promised. To forget everything from Radum. To be happy from now on.",
+      "tone": "pleading"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "Nothing's over yet. Until Master's vengeance is fulfilled, we won't find happiness.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the darkness faded, the inmates lay twisted on the ground, bones shattered.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Akein looked down at them disdainfully.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Akein",
+      "content": "Weaklings. Was this a waste of time? Or are the better ones in another block?",
+      "tone": "disdainful"
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Clank. Clank.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Just then, the sound of chains came from a cell at the end of the hall.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A wolf-like man stepped forward, and Akein's eyes gleamed with interest.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Man",
+      "content": "Heh, unbelievable. Do you know where this is? Inferno, the western prison. Planning treason?",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Akein",
+      "content": "Treason. A delightful notion. Care to join?",
+      "tone": "inviting"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Man",
+      "content": "Tch, so strict.",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Man",
+      "content": "If you're breaking me out, why not?",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The man scratched his head with his cuffed hands.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As his eyes glinted between his arms, he lunged without warning.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Crunch!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The man grimaced as he landed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Man",
+      "content": "Tch, annoying magic.",
+      "tone": "disdainful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Akein hadn't budged.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The side of his face struck by the iron ball was covered in black shadow.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dark Skin, a spell maximizing dark magic's absorption to nullify impact.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Akein",
+      "content": "Not bad. You pass.",
+      "tone": "impressed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Akein's Authority of Darkness summoned shadows that seized the man's shackles and cuffs.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Don't move. Unless you want to lose limbs.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Before the man could retort, the shadows sharpened into blades and spun.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The chains snapped instantly, leaving his skin unharmed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Limitless shaping and precision were dark magic's pinnacle.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Akein",
+      "content": "Enjoy your freedom. Follow me. You have a role to play.",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Man",
+      "content": "What's this? I never agreed to join.",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Man",
+      "content": "Money moves you, doesn't it? Help me, and you'll be rich.",
+      "tone": "persuasive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Akein",
+      "content": "Heh, 'rich' better not be chump change.",
+      "tone": "amused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Akein left the prison with his new follower in tow.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "◆ ◆ ◆",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's group rented an inn after organizing their research from the library.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Two days of discussion had outlined the photon cannon's principles.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Why does mass exist?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "Without mass, nothing would change. And that wouldn't be so bad. Repeating the same day wasn't the end of the world.",
+      "tone": "philosophical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Mass isn't weight. Weight is force exerted in gravity's direction. But space has no direction. So what is mass? Cohesion? But that's not a perfect explanation either.",
+      "tone": "analytical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "Then what do you think it is?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Existence.",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "Huh?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Proof of being in this space. That's mass.",
+      "tone": "explanatory"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Hmm. Sounds plausible. Like the Creator's will or breath.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "The God Particle.",
+      "tone": "excited"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "The God Particle. Not bad, right? Let's call the particle Shirone discovered the God Particle.",
+      "tone": "persuasive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I love it. And this is important.",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Right. A mage's power is tied to feeling. Using a name that resonates is best.",
+      "tone": "explanatory"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "In that sense, the God Particle was an excellent choice.",
+      "tone": "agreed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Alright, let's wrap up the analysis and head back to school tomorrow. Classes resume the day after, so mentally prepare yourselves. Don't tell me you've forgotten our promise already?",
+      "tone": "responsible"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "Of course. Moving up to Class Four this semester. From now on, we're studying like mad. Worst case, Shirone might graduate before us.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hah! What are you talking about? Right now, I'm the most likely to break our promise. At least you two are top-tier.",
+      "tone": "joking"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Can't sleep. I'll study a bit before bed.",
+      "tone": "responsible"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "Huh? Then me too!",
+      "tone": "enthusiastic"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I've met good friends.",
+      "tone": "warm"
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "◆ ◆ ◆",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Royal Education Academic Council.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Royal Academic Conference, hosted by the council, brought together magic and swordsmanship schools, monastic orders, academic factions, alchemy foundations, and the elite 99 Artists to discuss the kingdom's future.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sade",
+      "content": "Ugh, damn it. Don't these people sleep? Let me go home.",
+      "tone": "frustrated"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Drafted by lottery, he was miserable.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "A former delinquent, he had no interest in education, voluntary or otherwise.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sade",
+      "content": "The only silver lining was the number of attractive female teachers. Especially the woman across the round table—his ideal type.",
+      "tone": "dreamy"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sade",
+      "content": "Her wavy blue hair and playful demeanor, even in formal wear, were irresistible.",
+      "tone": "admiring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sade",
+      "content": "She's adorable. Ozente Reina, was it?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sade",
+      "content": "A member of the 99 Artists, the kingdom's premier artistic group, she attended as a pianist under the mentorship of Melhen, the Melodious.",
+      "tone": "explanatory"
+    }
+  ],
+  "source_hash": "44663a92d62734e84d0c848e4050cc45a4cccb207b6230da326e0555bcd7190a",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T07:44:44.473685+00:00"
+}

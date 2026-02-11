@@ -1,0 +1,841 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "Iruki landed in the training ground."
+    },
+    {
+      "type": "action",
+      "content": "Smiling, he approached Binder."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Binder",
+      "content": "Ugh!",
+      "tone": "anger"
+    },
+    {
+      "type": "action",
+      "content": "Even as Binder stepped back, Iruki didn't rush."
+    },
+    {
+      "type": "narrator",
+      "content": "For him, everything was already over."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Binder",
+      "content": "Your specialty is certainly neat. It felt like reading a textbook.",
+      "tone": "disdain"
+    },
+    {
+      "type": "narrator",
+      "content": "Cancellation analyzes the changes occurring in the opponent's Spirit Zone and reverses all vector quantities."
+    },
+    {
+      "type": "narrator",
+      "content": "The effect of resetting omnipotence is tremendous, but the humiliation the opponent feels is also significant."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Binder",
+      "content": "Don't be ridiculous! My specialty is perfect!",
+      "tone": "defensive"
+    },
+    {
+      "type": "action",
+      "content": "Binder, unwilling to lose, tried to cast magic again."
+    },
+    {
+      "type": "narrator",
+      "content": "But now, his omnipotence was being reset even before he could attempt it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Binder",
+      "content": "I know. It's perfect. Perfect.",
+      "tone": "anger"
+    },
+    {
+      "type": "action",
+      "content": "Binder's upper lip curled like a gorilla's."
+    },
+    {
+      "type": "action",
+      "content": "Then, suddenly, he looked down with a startled expression."
+    },
+    {
+      "type": "sfx",
+      "content": "An explosive reaction was occurring below."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Binder",
+      "content": "Damn!",
+      "tone": "fear"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "It's okay. It's just 10 kilobusters.",
+      "tone": "calm"
+    },
+    {
+      "type": "action",
+      "content": "As Iruki turned around, an explosion occurred."
+    },
+    {
+      "type": "narrator",
+      "content": "In the second training ground system, there was no 'knockback' judgment in interpersonal combat, so Binder didn't get blown away."
+    },
+    {
+      "type": "narrator",
+      "content": "However, his mental strength gauge dropped straight to zero."
+    },
+    {
+      "type": "narrator",
+      "content": "He could have withstood it if he had cast a defensive spell, but there was nothing he could do in front of Cancellation."
+    },
+    {
+      "type": "action",
+      "content": "Iruki came down from the training ground, making a victory sign."
+    },
+    {
+      "type": "action",
+      "content": "At one time, he was jeered for being disrespectful to the loser, but no one in the senior class laughed at him now."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Cancellation... on the first day.",
+      "tone": "confidence"
+    },
+    {
+      "type": "narrator",
+      "content": "Their expressions were serious."
+    },
+    {
+      "type": "narrator",
+      "content": "Iruki had revealed his most powerful weapon among the spells he could use."
+    },
+    {
+      "type": "thought",
+      "speaker": "Binder",
+      "content": "Is he confident he won't lose? Or does he have another spell prepared?",
+      "tone": "suspicion"
+    },
+    {
+      "type": "narrator",
+      "content": "Revealing his trump card so boldly made their thoughts even more tangled."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Binder",
+      "content": "Hmm...",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "action",
+      "content": "Fermi watched the battle with his hands in his pockets."
+    },
+    {
+      "type": "action",
+      "content": "Then, smiling, he asked his companion."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "How many seconds?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Companion",
+      "content": "2 minutes and 11 seconds.",
+      "tone": "neutral"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "2 minutes and 11 seconds to restore a broken glass.",
+      "tone": "amused"
+    },
+    {
+      "type": "narrator",
+      "content": "No matter how orthodox Binder was, analyzing a senior class-level Spirit Zone within 3 minutes was impossible without a servant's brain."
+    },
+    {
+      "type": "thought",
+      "speaker": "Fermi",
+      "content": "If interpersonal combat is included in the graduation exam, that will be quite tricky.",
+      "tone": "concern"
+    },
+    {
+      "type": "action",
+      "content": "Calculations related to business quickly ran through Fermi's mind."
+    },
+    {
+      "type": "action",
+      "content": "The door to the dormitory closed with a thud."
+    },
+    {
+      "type": "action",
+      "content": "It was past 11 PM when Shirone finally returned to the dormitory, collapsing onto his bed."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ugh, I'm exhausted. So tired.",
+      "tone": "exhaustion"
+    },
+    {
+      "type": "narrator",
+      "content": "The senior class schedule had already reached the fourth week."
+    },
+    {
+      "type": "narrator",
+      "content": "Unless there were special circumstances, most evaluations ended around noon, but there was still no time to rest."
+    },
+    {
+      "type": "narrator",
+      "content": "The senior class was literally a wilderness."
+    },
+    {
+      "type": "narrator",
+      "content": "No one taught you anything; you had to learn it yourself if you wanted something."
+    },
+    {
+      "type": "action",
+      "content": "Shirone also continued training with his friends in the training ground all day after evaluations."
+    },
+    {
+      "type": "narrator",
+      "content": "He was still doing well in interpersonal combat, and cognition and judgment were favorable subjects for him."
+    },
+    {
+      "type": "narrator",
+      "content": "Even in terrifying situations, his mental endurance remained unshaken, and his excellent insight led him accurately toward the exit for survival."
+    },
+    {
+      "type": "narrator",
+      "content": "However, other students also had professional-level skills in at least one area."
+    },
+    {
+      "type": "action",
+      "content": "Binder, aiming for Yongroe, scored full marks in omnipotent implementation, and Arin and Dorothy, specializing in mental activities, were noted for their performance."
+    },
+    {
+      "type": "action",
+      "content": "Those with unique specialties like Pisho steadily earned points in specialty enhancement, maintaining their rankings."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's much harder than I thought.",
+      "tone": "realization"
+    },
+    {
+      "type": "narrator",
+      "content": "Considering the 30-week schedule, it was still the early stages."
+    },
+    {
+      "type": "narrator",
+      "content": "But the fatigue Shirone felt was beyond imagination."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I want to sleep. I want to sleep. Just one hour of sleep.",
+      "tone": "exhaustion"
+    },
+    {
+      "type": "action",
+      "content": "Despite his muttering, Shirone got up from his bed."
+    },
+    {
+      "type": "narrator",
+      "content": "While other students might be sleeping by now, he had another task to complete."
+    },
+    {
+      "type": "action",
+      "content": "Fulfilling Gaold's conditions."
+    },
+    {
+      "type": "narrator",
+      "content": "The reason for his grueling daily training was not just to raise his ranking but also to avoid a meaningless death in the potential journey to Heaven."
+    },
+    {
+      "type": "narrator",
+      "content": "He had to become stronger."
+    },
+    {
+      "type": "narrator",
+      "content": "And he had to develop it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Me?",
+      "tone": "doubt"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Himself, struggling through the senior class evaluations?",
+      "tone": "doubt"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Haha!",
+      "tone": "amusement"
+    },
+    {
+      "type": "action",
+      "content": "Shirone let out a hollow laugh and sat at his desk, opening his notebook."
+    },
+    {
+      "type": "action",
+      "content": "It was filled with ideas he had come up with over the past month."
+    },
+    {
+      "type": "narrator",
+      "content": "But none had hit the core yet, so they were still just scribbles."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Let's approach it conceptually today. A magic to destroy Heaven. What could it be?",
+      "tone": "thought"
+    },
+    {
+      "type": "action",
+      "content": "First of all, it had to be a long-range magic."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Casting a wide-area destruction spell at close range would kill the magician as well.",
+      "tone": "consideration"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Or maybe I should consider that too...",
+      "tone": "thought"
+    },
+    {
+      "type": "action",
+      "content": "Shirone wrote 'Possibility of caster's death' at the edge of his notebook."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "If I can die, would more paths open up?",
+      "tone": "speculation"
+    },
+    {
+      "type": "action",
+      "content": "Deep in thought, Shirone grabbed his head."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ugh, I really don't know.",
+      "tone": "frustration"
+    },
+    {
+      "type": "narrator",
+      "content": "The key was to use Ataraxia's amplification power."
+    },
+    {
+      "type": "narrator",
+      "content": "That much was certain."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "But it was extremely difficult to reach the sub-light speed range of light-based magic with a Photon Cannon that had mass.",
+      "tone": "consideration"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'm just running in circles.",
+      "tone": "frustration"
+    },
+    {
+      "type": "action",
+      "content": "Shirone wrote 'Ataraxia' and added 'Trigger' next to it."
+    },
+    {
+      "type": "narrator",
+      "content": "Ataraxia's strength was undoubtedly its tremendous amplification power, but it had other advantages too."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "First, it was particularly threatening to the beings of Heaven.",
+      "tone": "consideration"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Even sensitive humans were shocked by the halo, but the Maras, born from the concept of angels, felt instinctive fear on top of that.",
+      "tone": "consideration"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hmm, it can cause a delay.",
+      "tone": "thought"
+    },
+    {
+      "type": "action",
+      "content": "Shirone wrote 'Delay 1-2 seconds' in parentheses next to Ataraxia."
+    },
+    {
+      "type": "narrator",
+      "content": "The most important thing is the trigger."
+    },
+    {
+      "type": "narrator",
+      "content": "Magic that passed through Ataraxia was no longer governed by the magician's Spirit Zone but by Ataraxia."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Amplification. Delay. Trigger.",
+      "tone": "summary"
+    },
+    {
+      "type": "action",
+      "content": "These were the three divine attributes of Ataraxia."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "So, the magic I can use is...",
+      "tone": "thought"
+    },
+    {
+      "type": "action",
+      "content": "Shirone listed them sequentially."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "For attack magic, there were Photon Cannon, Homing Photon Cannon, and Laser.",
+      "tone": "summary"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "For defense magic, there were Radiant Burst and Dark Sphere.",
+      "tone": "summary"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "For control techniques, there were Shining Impact, Shining Chain, and Slow.",
+      "tone": "summary"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "For movement techniques, there were Teleportation, Spatial Movement, Mass Teleportation, Scatter Movement, and Radiant Wings could also be classified as a movement technique.",
+      "tone": "summary"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "That's a lot. I've worked pretty hard.",
+      "tone": "pride"
+    },
+    {
+      "type": "action",
+      "content": "Feeling proud for a moment, his expression soon darkened."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No matter how many spells he had, none could completely destroy Heaven.",
+      "tone": "realization"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No, it was impossible from the start.",
+      "tone": "realization"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "How could he, not even a formal magician, destroy Heaven?",
+      "tone": "doubt"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No! This won't work, that won't work, nothing works!",
+      "tone": "frustration"
+    },
+    {
+      "type": "action",
+      "content": "Shirone drew a big X in his notebook and buried his face in the desk."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "After a month of research, all he had was a faint, tickling feeling in his mind.",
+      "tone": "frustration"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Even if he learned a new spell, there was a limit to a single type within a year.",
+      "tone": "consideration"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Amplification. Delay. Trigger. Time division. Force. Fusion. And the spells I've learned so far.",
+      "tone": "summary"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He had to combine all these to create something completely new.",
+      "tone": "determination"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "It might be wrong, but he had a strange feeling that it was the right answer, flowing through the channel of insight.",
+      "tone": "speculation"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Find it. Find it. Find a way.",
+      "tone": "determination"
+    },
+    {
+      "type": "action",
+      "content": "Repeating the only thought left in his mind, Shirone fell asleep."
+    },
+    {
+      "type": "system_notification",
+      "content": "ΓÇö The fourth week's evaluations were over, and today was one of the six annual overall evaluation days. ΓÇö"
+    },
+    {
+      "type": "action",
+      "content": "For the senior class, a holiday was invaluable."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "But Shirone had to wake up early, rubbing his sleepy eyes.",
+      "tone": "determination"
+    },
+    {
+      "type": "narrator",
+      "content": "The winner would gain 20 points, and the loser would lose 20 points."
+    },
+    {
+      "type": "narrator",
+      "content": "With a value of 40 points at stake, even those who had been playing psychological games would be determined to give their all."
+    },
+    {
+      "type": "narrator",
+      "content": "In terms of interpersonal combat, it was equivalent to 13 consecutive wins."
+    },
+    {
+      "type": "narrator",
+      "content": "In terms of specialty enhancement, it was the same as passing the master level in four items."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Today's rankings could change significantly. No, they will change.",
+      "tone": "determination"
+    },
+    {
+      "type": "narrator",
+      "content": "Today's overall evaluation was the survival subject."
+    },
+    {
+      "type": "narrator",
+      "content": "Since there had to be losers, there was a chance for a significant rise in rankings."
+    },
+    {
+      "type": "narrator",
+      "content": "Especially in survival, which was the graduation exam version of Shirone's specialty in cognition and judgment, it was a match he couldn't afford to lose."
+    },
+    {
+      "type": "action",
+      "content": "The students would enter the massive Virtual Zone together."
+    },
+    {
+      "type": "narrator",
+      "content": "They would be evaluated on their mental strength to see how long they could endure in extreme situations."
+    },
+    {
+      "type": "narrator",
+      "content": "Judgment was important, but mental endurance was essential."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Failing to earn points here would put him at a disadvantage in the future schedule.",
+      "tone": "concern"
+    },
+    {
+      "type": "action",
+      "content": "Meeting Nade and Iruki, Shirone headed to the training ground with the large Virtual Zone."
+    },
+    {
+      "type": "action",
+      "content": "Many students were already gathered."
+    },
+    {
+      "type": "narrator",
+      "content": "They were still competitors, but the initial awkwardness was gone."
+    },
+    {
+      "type": "narrator",
+      "content": "They had also somewhat identified friend and foe."
+    },
+    {
+      "type": "narrator",
+      "content": "It was hard to get along with Screamer, Pony, and Luman, but he got along well with Maya and Aider."
+    },
+    {
+      "type": "narrator",
+      "content": "He had a neutral relationship with Dorothy, Suabi, and Pisho, and the Class One students didn't even look at Class Three."
+    },
+    {
+      "type": "action",
+      "content": "When the entire senior class gathered, Collie lined up the students by class and checked each person's eyes."
+    },
+    {
+      "type": "narrator",
+      "content": "Since survival was known to be the most dangerous and harsh subject in the overall evaluation, his face was filled with a sense of solemnity."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "Today's overall evaluation subject is survival. Before we start, I'll explain the rules.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "First, we'll divide into teams. The line drawn over there marks the right side as the red team and the left side as the blue team.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "content": "A line was drawn in the wide open space leading into the Virtual Zone."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "Once the teams are decided, everyone will enter the Virtual Zone.",
+      "tone": "serious"
+    },
+    {
+      "type": "narrator",
+      "content": "The survival program consisted of seven stages and lasted for a total of 50 minutes."
+    },
+    {
+      "type": "narrator",
+      "content": "The team with the last survivor wins, regardless of the remaining results."
+    },
+    {
+      "type": "narrator",
+      "content": "In other words, the team with the final survivor wins overall, and the losing team loses 20 points."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Boyle",
+      "content": "What's the criterion for deciding teams?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "Go to the team you want.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pandora",
+      "content": "Um, shouldn't it be 15 versus 15?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "It doesn't matter. Even if all 30 are on one team, that's fine.",
+      "tone": "serious"
+    },
+    {
+      "type": "narrator",
+      "content": "The atmosphere in Class Three became awkward."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "If all 30 are on one team, there's no competition. What kind of rule is this?",
+      "tone": "suspicion"
+    },
+    {
+      "type": "narrator",
+      "content": "Of course, no one would suggest forming a team of 30 to live or die together."
+    },
+    {
+      "type": "narrator",
+      "content": "The senior class was a place where everyone was desperate to gain an advantage over their opponents."
+    },
+    {
+      "type": "narrator",
+      "content": "But they needed to think about the meaning of the rule."
+    },
+    {
+      "type": "narrator",
+      "content": "Considering the senior class's operating principles so far, it wasn't just a competition to earn points and climb the rankings."
+    },
+    {
+      "type": "narrator",
+      "content": "It was designed to determine how well you could position yourself among competitors and how accurately you could assess others' abilities."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "A magician's position in a real party is absolute. It seems the overall evaluation is no exception.",
+      "tone": "insight"
+    },
+    {
+      "type": "narrator",
+      "content": "If a magician falters, the party is doomed."
+    },
+    {
+      "type": "narrator",
+      "content": "Even third-rate adventurers know that."
+    },
+    {
+      "type": "narrator",
+      "content": "Just having powerful magic and an excellent Spirit Zone doesn't guarantee passing the graduation exam."
+    },
+    {
+      "type": "narrator",
+      "content": "How intelligently you solidify your position among competitors was also an invisible evaluation criterion."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "Now, we'll decide the teams. You have 10 minutes. If you don't decide within the time, you'll be considered to have forfeited. Go to the team you want.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "content": "As soon as Collie finished speaking, the 30 students flinched as if stunned."
+    },
+    {
+      "type": "narrator",
+      "content": "Someone must have flinched first, but it was an unpleasant reaction speed that couldn't identify the culprit."
+    },
+    {
+      "type": "narrator",
+      "content": "They needed to think carefully."
+    },
+    {
+      "type": "narrator",
+      "content": "The rule was that even if only one team member survived, the team would earn 20 points."
+    },
+    {
+      "type": "narrator",
+      "content": "Therefore, for students who weren't confident in the survival subject, the key was which team they joined."
+    },
+    {
+      "type": "narrator",
+      "content": "In a sense, it was a true test of survival ability."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'll go first.",
+      "tone": "determination"
+    },
+    {
+      "type": "action",
+      "content": "Shirone moved first."
+    },
+    {
+      "type": "narrator",
+      "content": "Since his goal was to be the final survivor, he didn't need to worry about others' choices."
+    },
+    {
+      "type": "action",
+      "content": "When Shirone went to the red team, the crowd finally stirred."
+    },
+    {
+      "type": "action",
+      "content": "The second to move were, of course, Nade and Iruki."
+    },
+    {
+      "type": "narrator",
+      "content": "Shirone's group was on the red team."
+    },
+    {
+      "type": "narrator",
+      "content": "With this crucial information, the remaining 27 minds began to work quickly."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Hmm, then I'll go to the blue team.",
+      "tone": "thought"
+    },
+    {
+      "type": "action",
+      "content": "Everyone turned to Fermi at his voice."
+    },
+    {
+      "type": "action",
+      "content": "His group followed him confidently as he walked."
+    },
+    {
+      "type": "action",
+      "content": "Reaching the center of the blue team, Fermi looked back at Shirone and gave a playful smile."
+    },
+    {
+      "type": "narrator",
+      "content": "Shirone didn't smile."
+    },
+    {
+      "type": "narrator",
+      "content": "He couldn't tell what thoughts lay behind those narrow eyes."
+    },
+    {
+      "type": "narrator",
+      "content": "Finally, the moment the remaining students had been waiting for arrived."
+    },
+    {
+      "type": "narrator",
+      "content": "The formidable newcomers of Class Three and Fermi's group, who had never missed the top spot in the final evaluations, were divided into teams."
+    },
+    {
+      "type": "narrator",
+      "content": "Which side had a higher chance of winning?"
+    },
+    {
+      "type": "narrator",
+      "content": "Now it was a matter of choice."
+    }
+  ],
+  "source_hash": "783ffb47ebd66f7e79062bf18e6eda9a284a8ea69ecc794d94aae9af00b7d614",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T05:29:56.376892Z"
+}

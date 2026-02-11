@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\google\ai\generativelanguage_v1beta\types\generative_service.py
+# hypothesis_version: 6.148.8
+
+['AttributionSourceId', 'Candidate', 'ContentEmbedding', 'CountTokensRequest', 'CountTokensResponse', 'EmbedContentRequest', 'EmbedContentResponse', 'GenerationConfig', 'GroundingAttribution', 'GroundingChunk', 'GroundingMetadata', 'GroundingSupport', 'LogprobsResult', 'PrebuiltVoiceConfig', 'RetrievalMetadata', 'SearchEntryPoint', 'Segment', 'SpeechConfig', 'TaskType', 'VoiceConfig', 'chunk_type', 'grounding_source', 'source', 'voice_config']

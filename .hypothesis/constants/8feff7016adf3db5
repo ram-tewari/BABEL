@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\google\api_core\client_info.py
+# hypothesis_version: 6.148.8
+
+['grpc/{grpc_version} ', 'rest/{rest_version} ', '{user_agent} ']

@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\jedi\inference\gradual\type_var.py
+# hypothesis_version: 6.148.8
+
+['<%s: %s>', 'bound', 'contravariant', 'covariant']

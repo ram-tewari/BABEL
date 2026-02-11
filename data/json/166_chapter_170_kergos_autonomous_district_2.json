@@ -1,0 +1,775 @@
+{
+  "blocks": [
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The Gallian government, having made a fortune from the tourism industry, grew greedier.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "So they devised a new venture: human tourism.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Silence filled the mental channel.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Everyone grasped the implications of 'human tourism.'",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Tess",
+      "content": "Especially Tess, who had studied politics, understood the gravity of the situation between the Gallian government and the Kergonians.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "They made the worst choice imaginable.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Gallian government went beyond exploiting the Kergonian ruins and culture; they turned the Kergonians into tourist attractions.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "This became publicly known much later.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Initially, they had the natives stand by the roadsides for tourists to observe.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Then, their possessiveness took over, leading to human hunting.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Mercenaries captured Kergonian boys and girls and sold them to nobles at high prices.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It's a wonder a war didn't break out.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Canis",
+      "content": "It's the fate of those left behind by civilization.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The Kergonians' military might wasn't weak.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In fact, they were not inferior to the Gallian government, but they couldn't match them in political maneuvering.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Children were being kidnapped, the culprit clearly the Gallian government, but there was no evidence.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They must have spent a lot of money to erase that evidence, yet human hunting was so profitable that it still paid off.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "They were powerless.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Without concrete proof, they couldn't confront them without risking the livelihoods of the natives who relied on tourism revenue.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "So, they had no choice but to agree.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They opened the ruins to tourism but closed off access to the autonomous district.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "That's how they closed their doors and arrived at the present.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Amy could deeply empathize with the plight of the Kergonians, who had no choice but to open their ruins while knowing their children were being sold to nobles.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But regardless of their circumstances, the situation had become dangerous.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "That was the crucial point.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Canis",
+      "content": "Canis had a similar reason for bringing it up.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But that's not the main point.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "There are bad guys among the natives, which is why lupe is being smuggled.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Regardless, the natives in the autonomous district won't see us kindly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "There may not be physical confrontations, but we must stay vigilant.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Isn't Shirone in danger too?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "No, she won't be.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The first reason Kergonia opened the ruins was for money, but that's not all.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Room of Achievement and Sacrifice holds special meaning for them.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "They've been waiting for someone for a long time.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Who are they waiting for?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "Perhaps... an angel?",
+      "tone": "mysterious"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Amy asked, but Canis did not answer.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Arin announced over the mental channel.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "Sorry, but I need to conserve my mental strength, so I'll close the channel. Don't be alarmed if we reconnect later.",
+      "tone": "apologetic"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Telepathy consumed mental energy, especially when exchanging real-time information, like a firewall constantly eating away at the mind.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the mental channel closed, Amy refocused on her surroundings.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The sound of the tracks filled her ears as the mine cart disappeared into the darkness of the cave.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "***",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They arrived at an underground city.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "While lacking sophisticated aesthetics, the network of tunnels and expanded chambers at intersections, resembling an ant colony, was an impressive achievement of coexistence with nature.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Is this really the Kergonian autonomous district?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "No one answered Amy's question.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The expectation of a tribe owning valuable real estate like the ruins was utterly shattered.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Canis felt a surge of unnamed anger as he held Arin's trembling shoulders.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Canis",
+      "content": "She remembered their lives in the hellish city of Radum.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "They both knew that starvation was the most excruciating suffering in the world.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Thus, these people were the most tormented souls on earth.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Native",
+      "content": "Hey, come this way.",
+      "tone": "gruff"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The native who had driven the cart beckoned them.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He clearly didn't want outsiders seeing the current state of the Kergonians.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They followed a winding path and arrived at a blocked tunnel.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Only a single torch on the wall illuminated the area.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Hey, come this way.",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The native led them to a man.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With his arms crossed and mouth set in a hard line, he looked every bit the true Kergonian warrior, fitting the description perfectly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His upper body muscles were more developed than Rian's, and his face was marked with dark tattoos.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He wore earrings made from predator fangs on both ears.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "So, his name is Mahatu.",
+      "tone": "respectful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy recalled hearing about Mahatu as a warrior's name.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The name Mahatu, the warrior, matched his appearance and demeanor.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "So, his name is Mahatu. He raises the lupe and delivers it to the temple.",
+      "tone": "speculative"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy guessed that the black tattoos signified those who managed the lupe.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If white was for those who performed rituals, then black must be for those who prepared them.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Since Arin hadn't attempted telepathy, Amy's group had to rely on Zis for translation.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Tess",
+      "content": "Tess thought it was a wise choice.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Judging by Mahatu's temperament, he was no ordinary strongman.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If he had a sensory schema, he might detect telepathy.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "When Amy looked back, Arin smiled.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "-So, you tried after all? That guy seems pretty strong. You're bolder than you look.",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "-No. I didn't use telepathy on Mahatu.",
+      "tone": "defensive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "-What? Then how are we understanding him?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Arin subtly pointed at Zis.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Amy realized that Arin had used telepathy on Zis.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If she only needed to eavesdrop on the surface thoughts, there was no need to contact the speaker directly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Another strength of Arin's ability.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Falcoa is dead?",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Yes. The Freeman organization won't buy the lupe anymore. They plan to leave the island soon.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Zis spoke honestly.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Meeting the chief, there was no way to hide the truth.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "Then who are they?",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Oh, they're not here to buy the lupe. They have business in the district.",
+      "tone": "calm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "Business? Besides lupe transactions, outsiders can't enter here, don't you know that?",
+      "tone": "accusing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Yes, but we had to inform you about the transaction cancellation. And we have a pass...!",
+      "tone": "defensive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "Whoa!",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Mahatu shoved Zis aside and approached.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His clenched jaw twitched, and his eyes blazed with anger.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He examined the group, focusing on Amy.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "Sent by the Freeman organization? So, are you a member?",
+      "tone": "accusing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Zis rushed to translate.",
+      "tone": "respectful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "No. But we're well acquainted with Freeman.",
+      "tone": "calm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "How well? Enough to risk your life?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Of course. We've actually done so.",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "Then you can settle the outstanding payment.",
+      "tone": "demanding"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Outstanding payment? For what?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "Falcoa took 8 kilograms of the lupe recently, only paying a deposit. He couldn't settle the balance.",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "We might not be close enough to lend money, but how much is the outstanding balance?",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "10,000 gold.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "What? 10,000?",
+      "tone": "surprised"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Zis also looked confused, unsure if he had heard correctly.",
+      "tone": "confused"
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Amy knew through Arin's telepathy that it was indeed 10,000 gold.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "She had thought the 8 kilograms of lupe were worth a lot.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But 10,000 gold? And that was just the remaining balance, meaning the total was even higher.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Falcoa must have spent a fortune on the lupe over the past five years.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "How could the Kergonians' living conditions be explained then?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Selling just 8 kilograms of lupe could feed the people in the plaza for a year.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It made no sense.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "I'll report the outstanding balance to the organization. They'll decide whether to return the lupe or settle the payment.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Unsure, Zis looked to his friends for approval.",
+      "tone": "insecure"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Tess nodded.",
+      "tone": "confident"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "With Marsh and Freeman's reputation, they would surely settle the balance.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Zis",
+      "content": "Alright then. We'll pay the balance later, so let us stay here for now.",
+      "tone": "resolute"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "We're waiting for a friend. He entered the Room of Achievement and Sacrifice. He should be here soon.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "The Room of Achievement and Sacrifice?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Such grand dreams. Give up and go back. Your friend is likely waiting for you outside.",
+      "tone": "dismissive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "Hmph! How can you be so sure?",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "Isn't it obvious? That altar isn't for brats like you. Many pretenders come seeking the Kergos ruins, hoping to buy the lupe or find gold. If your friend is at the altar, go back and check.",
+      "tone": "accusing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "You think you're so great? Do you know how many people have suffered from the lupe sold outside?",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "The lupe is sacred. It's you who abuse it as a drug. And I don't care about foolish outsiders' issues. You always judge and take what's ours. But it won't be so easy here.",
+      "tone": "defiant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Native",
+      "content": "They might be thieves, looking to steal gold.",
+      "tone": "suspicious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "That's possible. All the more reason not to let them in.",
+      "tone": "resolute"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "Should we search their bodies? If they brought weapons, they could harm our people.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "Mahatu didn't want to touch a woman's body, considering it dishonorable as a warrior.",
+      "tone": "disgusted"
+    }
+  ],
+  "source_hash": "ef0c825920d9fa4d33d8f4cf95c2583495ccabf34db4d1b10bb2102731b86a34",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T16:34:54.870244+00:00"
+}

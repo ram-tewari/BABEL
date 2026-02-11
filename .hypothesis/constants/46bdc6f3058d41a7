@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\IPython\terminal\prompts.py
+# hypothesis_version: 6.148.8
+
+['-', '... ', '...:', '> ', '>>> ', 'In [', 'InputMode.', 'Out[', '[', '] ', ']: ', 'editing_mode', 'vi-', '⋮ ']

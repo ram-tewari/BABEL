@@ -1,0 +1,883 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amira's steadfast eyes wavered for the first time.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even her iron will melted at the sight of Alpheas's face.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "How could it not? He was the man she had followed since she was a child wetting her bed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "I'm sorry. For putting you through this.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amira bowed her head, struggling to hold back her tears.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amira",
+      "content": "I didn't mean to cause you pain, Principal. The more respected a person is, the more they must face their mistakes. Otherwise, the school will…",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "I understand. I don't blame any of you here. You are the school's future.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheas looked at Amira with pity.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Every student gathered here was like a child he had raised.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He was sorry for hurting them.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amira raised her head, her eyes glistening as she looked at Alpheas.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He smiled kindly, just as she remembered from her childhood.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amira",
+      "content": "Will you trust me one more time? Once Shirone's matter is resolved, I'll handle everything transparently. Even if punishment awaits, I'll face it proudly before my beloved students. I won't run away.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Hot tears streamed down Amira's cheeks.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amira",
+      "content": "You'll really come back? The person I admire…",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Of course. I'll ensure no deceit in my punishment. I promise you this on my lifelong honor.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amira wiped her tears with her hand.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amira",
+      "content": "She couldn't cry in front of Alpheas. She wanted to show him how much she had grown since her childish days.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amira",
+      "content": "Understood. Since you've said that, the student council will reconsider the matter. Please don't do anything to tarnish your honor.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheas smiled warmly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The child who once called him 'Pwincipal!' while running to him had grown into such a fine young woman.",
+      "tone": null
+    },
+    {
+      "type": "monologue",
+      "speaker": "Alpheas",
+      "content": "'Erina, it seems my life wasn't entirely in vain.'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the student council president made her decision, the protesters disbanded immediately.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The conservatives blocking the entrance also scattered, leaving the building's front desolate in an instant.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Only Fermi remained, scratching his head sheepishly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Tch, everything was going so well until the end.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Kekeke! Seems things didn't go your way this time, Fermi.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Can't be helped. Honestly, the principal stepping in feels like cheating.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Shouldn't you graduate soon? You'll be twenty-two next year.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Who knows? Nowhere else pays as well as here.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Is that so?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheas knew Fermi was the mastermind behind this incident.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But to him, Fermi was just a grown-up pupil he was proud of.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Fermi",
+      "content": "Besides, it's still fun here. Well, I'll be going.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Without further farewells, Fermi saluted and walked away.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After today, he likely wouldn't step foot in the student council again.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Peaceful places weren't profitable, after all.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "***",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Iruki and Neid walked to the infirmary in silence.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was the first time they had argued so seriously in five years, leaving an awkward tension between them.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But Neid, as usual, couldn't stand the atmosphere.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "Hey! How can you not say a word? You didn't have to hide it from me! Did you just want to look cool?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Funny. How could I discuss strategies with someone swimming in a sea of grief? Besides, if the information leaked, they'd take countermeasures. Why can't you think straight?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "Yeah, I'm an idiot! You're just so great, aren't you?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Whether angry or cursing, the ice was broken, and the awkwardness vanished instantly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "By the way, how are you? No matter how angry you are, was revealing your old personality really necessary?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "Ugh, I don't know. I didn't have time to think about anything else. At least we didn't fight.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Well, I was so cool it probably didn't matter. You might've already forgotten.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "Funny. So you had it all planned out?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Heh, what's it to you? Bow to me already.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Their conversation ended as the infirmary door opened.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Aimi came out to greet them.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Iruki scratched his head awkwardly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Unlike Neid, he still found it hard to act naturally around Aimi.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Well, that's how it is. At least we protected Shirone…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As he tried to brush it off, tears welled up in Aimi's eyes.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aimi",
+      "content": "Thank you. Thank you, Iruki…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Iruki's face twisted in horror.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tch, whatever.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Weak to emotions, he fled into the infirmary.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But there, another emotional wreck—Seriel—waited with open arms.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Iruki dodged Seriel's embrace with boxing footwork and took refuge next to Shirone.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Iruki",
+      "content": "'Ugh, this is why I can't stand girls.'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At the door, Seriel and Aimi hugged each other and jumped up and down.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Neid joined in, and soon the infirmary was spinning with their joy.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Woo-hoo! He's alive! Shirone is alive now!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amid the rare cheerful atmosphere, a faint smile touched Iruki's lips.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Iruki",
+      "content": "But his heart wasn't entirely at ease.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The report had only delayed the acknowledgment of Shirone's death.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nothing had truly improved.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone still lay motionless, as if asleep.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Iruki",
+      "content": "The promise to stay together after graduation felt vivid, but the reality of his death was hard to accept.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Iruki",
+      "content": "'Come back. I'll wait for you, no matter how long.'",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "***",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone regained consciousness.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "More precisely, he went from madness to madness again.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His mind was like a coin spinning rapidly between the poles of sanity and insanity.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He had gone mad a thousand times.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Desperately trying to hold onto his unraveling mind, the overwhelming stimuli invaded his essence, altering his nature.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You're a child someone picked up. Your parents would've been fine with anyone but you.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Did they ever regret raising you? They must have. They must have thought, 'Why did we pick this one?' If you were their biological child, they wouldn't have felt that way.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No! That's not true!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You're a bastard. Anyone in this world could've been an adopted child. They aren't your real parents.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Ooooooh!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Your essence is a vile predator. With superior power, you trample everyone. Your strength inevitably brings someone's downfall. You're a tumor the world doesn't need.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Ooooooh!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone went mad again.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His mind reeked of foulness.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If this fusion ended now, what would he become? A demon? A yaksha? A devil? It was impossible to know.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The speed of his madness accelerated.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As he reached his limit, two opposing natures began to coexist simultaneously in his mind.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was a new world.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In this supreme mental state, unreachable by any drug, Shirone finally found the only solution to maintain his sanity.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The origin point.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If the boundary of the cycle was the extreme, the origin was the starting point of the extreme.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But it held the potential to encompass the entire world.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Some called it a spot.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Some called it Spirit Zone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Some called it the Taiji.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But magicians referred to it as this: Infinity.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's eyes snapped open.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His Spirit Zone was sucked into his mind, and the countless particles scattering at superluminal speeds began reconstructing into his spiritual form.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At the center of infinity, Shirone stood unshaken.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The voices tormenting him vanished as his spiritual form hardened like diamond.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The state of Vajrayana, attainable only after enduring thousands of trials.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Indestructible Vajra.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone gazed at the exit with his brilliantly burning body.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "There was no more confusion.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As he stepped forward, the warm, bright light at the exit merged with him, becoming one.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A small, transparent glass orb floated before him.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Inside it was the temple he had just left, and the woman looked up at him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Woman",
+      "content": "You're leaving after all, Shirone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'm sorry. But I want to go back.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Woman",
+      "content": "No need to apologize. Honestly, I didn't think you'd succeed. You have the qualifications.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Were you lonely?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Woman",
+      "content": "You're a kind person, Shirone. But gods don't feel loneliness. I'm just a little sad to see you go. Just a little.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Thank you for reviving me. I wanted to say that.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Woman",
+      "content": "Remember this. There are no second chances. Having reached the state of Vajrayana, you can no longer receive invitations from me.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I nodded firmly and stepped toward the exit.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As his consciousness was pulled into another dimension of spacetime, he felt a warm light.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "'I'm finally going back.'",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Woman",
+      "content": "—Give my regards to the principal.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even in his dazed state, Shirone found it strange.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "How did she know Principal Alpheas?",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "— Twelve years later —",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Day 10 since Shirone's death.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Aimi rubbed her sleepy eyes and woke up.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Stretching in the chair, her back cracked.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After nights of staying up, her body moved, but her brain still felt asleep.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Looking around, her friends were still unconscious.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After drinking water and washing her face, she approached Shirone with a towel.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aimi",
+      "content": "Shirone. Today, you'll come back…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Aimi gasped and froze.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The sound of her heartbeat echoed in her eardrums.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A shiver ran up her spine, making her shoulders, neck, and face tremble.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's eyes were open.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Huh? Huh?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aimi",
+      "content": "H-Here… here, here…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Words failed her.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At the very least, she needed to make a sound, but her throat felt blocked.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Aimi resorted to her last resort.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Taking a deep breath, she clenched her eyes shut and screamed.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Kyaaaaaaaah!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The ear-splitting shriek jolted Neid and Iruki awake.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Neid",
+      "content": "What? What!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "What?",
+      "tone": null
+    }
+  ],
+  "source_hash": "a11a152cae5e90807c41e9f2a783ef97cf0c26c2b7a99af75e6ee62daa60c3b8",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T08:58:59.145059+00:00"
+}

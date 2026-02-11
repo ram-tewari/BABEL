@@ -1,0 +1,805 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's prediction was accurate, and the merchant deduced that they hadn't been in Purgatory for long.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Merchant",
+      "content": "Hmm, I could negotiate, but I doubt you could afford it. Spirits are incredibly rare in Purgatory. I'm just stopping by on my way to the mainland.",
+      "tone": "skeptical"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone felt a pang of fear at the outright rejection, though he expected it to be valuable.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Could he buy it for three White Elixirs? If he overestimated and lacked enough Elixirs, Amy would be deeply disappointed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Realizing he needed a basis for his decision, Shirone paused the negotiations to ask a question.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I heard that spirits can be contracted. Is it possible with this one?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Merchant",
+      "content": "Contract? Ah, a contract. Of course, it's possible. But what would you do with a contract with a fire spirit?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "With a fire spirit, I could use fire magic, right?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Merchant",
+      "content": "Technically, yes... but valuable spirits aren't usually wasted on contracts. If a spirit enters a village, it makes life much easier. So, typically, villages pool their Elixirs to acquire one.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Those living on the outskirts of the community, who live in harsh conditions and have surplus Elixirs, might buy with the intent to contract, but they're essentially risking their lives.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "So, a contract is possible, right?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When Shirone pressed, the merchant nodded reluctantly.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was a common reaction on the mainland. People who couldn't afford it often tried to haggle or send in teams to devalue the item.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If people from the outskirts of the community joined in, the auction would end there, but such people rarely cared for special spirits.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Most of the time, it was a nerve-wracking battle on a razor's edge.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy fidgeted with her fingers. She was a haggling expert but couldn't say anything now.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In a world where gold was common, she would have emptied her savings to buy it. But in Purgatory, only life-and-death items held value.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In this situation, she didn't want to cause trouble for Shirone by showing her desire to possess it.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone already knew. For a mage, enhancing magical power was everything, so he wanted to get it if possible.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sensing the critical moment, Shirone asked again.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "So, how many Elixirs would it take to buy the spirit?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The merchant chuckled dismissively.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But seeing Shirone waiting intently, he thought seriously.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Merchant",
+      "content": "Hmm, if you were to buy it here, at least...",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone's heart pounded.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Any price within his Elixir stash would be good.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was evidently a high price, as the merchant took his time before speaking.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Merchant",
+      "content": "One White Elixir...",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Disappointment filled Shirone and Amy's eyes.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The unit of measure being White Elixir meant the likelihood was slim.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After contemplating, the merchant looked up and named his price.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Merchant",
+      "content": "At least one.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "What? One?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone doubted his ears, which had never betrayed him before.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If it was just one, he could afford it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Realizing the same, Amy trembled with anticipation, as if someone might snatch it away.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone evaluated everything.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Initially, he hoped only to afford it, but mages are quick to discard irrelevant thoughts.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Seeing Amy bite her lower lip, he couldn't help but smile.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "Amy, the only daughter of the Karmis family, grew up never knowing material desire. But when it came to magic, she was just another mage.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The merchant misunderstood Amy's desire as resignation.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Merchant",
+      "content": "White Elixirs are hard to come by. I've already given you a big discount. It's risky going to the mainland. It's only because I assumed I could sell it at Nor's Haven and return home safely. I calculated it precisely because you seemed serious. Don't be too disheartened. Someday, you might get lucky and find a fire spirit.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "I'll buy it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Huh?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "I said, I'll buy it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone searched his inner pocket, the merchant blinked in disbelief.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He couldn't decide if he should be angry or laugh at the joke.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But seeing the three Elixirs rolling in Shirone's hand, he fell off his chair in shock.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The rainbow spectrum confirmed they were White Elixirs.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Merchant",
+      "content": "Here. Can I take it now?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The merchant, speechless, nodded.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone handed him the White Elixirs.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Simultaneously, Amy cradled the spirit trap to her chest.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She felt its warm presence.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The warmth of fire.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "This was Amy's essence.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Hey, is it okay? Isn't it hot?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Merchant",
+      "content": "The merchant, confirming the Elixirs' authenticity, regained his senses and asked.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A fire spirit was still fire until contracted, and touching a hot iron cage should cause burns.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Huh? No, it's just warm.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Merchant",
+      "content": "That's strange. Can I check it again? I'm worried because it might be defective.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "No, it's fine. This is definitely a fire spirit.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy lovingly watched the fire spirit bounce in the air.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She then spoke to Shirone via the mental channel.",
+      "tone": null
+    },
+    {
+      "type": "monologue",
+      "speaker": "Amy",
+      "content": "-Shirone, it's a Spirit Zone. -Spirit Zone? -Yes. It's amazing. It's real fire, but it's also connected to the mind. I can feel it constantly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Mages don't get burned by the fire they create. Though it's real fire, the creator is a mage.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "According to Amy, spirits also seemed to have a fixed Spirit Zone. They had become a form of mental transcendence.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "So, how did you get the White Elixir?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It came from the Vortex Serpent.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Vortex Serpent? You destroyed the law of the valley?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It just happened.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It wasn't strange for a mage powerful enough to defeat the Vortex Serpent to possess White Elixirs.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Though rare, such people did exist in Purgatory. Merchants called them border people or those from the community outskirts.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "But how do you form a contract?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I don't know exactly, but I've seen border people do it. They hold the spirit and mutter something, and it disappears.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Spirits lack reason, so it likely wasn't a keyword activation.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The remaining possibility was Incantation Magic.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Speaking and repeating it was key.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Resonating with fire was crucial.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Using the key given by the merchant, Amy unlocked the iron cage.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Holding the spirit in both hands, she improvised an incantation.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Fire spirit, dwell within me.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the fire spirit entered Amy, a warm sensation filled her abdomen.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Contracting with a spirit was akin to discovering a new battery.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Separate from the ignition battery, she could now ignite a new fire.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Summoning the spirit, Amy watched the fireball rise and circle around.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Pleased, she recalled the name of the legendary ancient flame.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Jack-o'-lantern.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Known as will-o'-the-wisp, this phenomenon remained a myth despite countless scholars' theories.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But no longer.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Jack-o'-lantern existed as ancient magic in Heaven.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The fire spirit had strategic uses.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It activated independently of Ignite and moved along desired trajectories.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It could even split into multiple illusions.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy envisioned endless strategies: guided functions, tricks, multi-shot capabilities.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Realizing Shirone's gaze, she extinguished the spirit.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Though she should thank him, the words wouldn't come out, feeling awkward.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It wasn't like receiving an expensive gift.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Perhaps she had received Shirone's heart.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone smiled, turning away as if expecting her silence.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy regretted not speaking.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Did he understand her feelings?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Or was the gift without special meaning?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Despite his straightforward nature, Shirone was sometimes unreadable.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone meticulously inspected the items.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Watching Amy contract with the fire spirit made him realize that seeking items to bring back to the original world was naive.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Heaven was perilous, and reinforcing their gear immediately was crucial.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Finding such items, no matter the cost, would increase their survival chances.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nor's Haven mainly sold essentials for the heretics in the community.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But a few merchants had special items, which they didn't display due to high prices.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Upon learning Shirone had White Elixirs, a man discreetly placed an item on his stall.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tess ran over and pointed at the item the merchant displayed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Oh! Isn't that...?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A beetle-shaped mechanical device.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A drone created with Mecha technology.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Clove, realizing Shirone was a big spender, eagerly explained.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In addition to the known reconnaissance and language decoding functions, it had radio communication, map display, and more.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Clove",
+      "content": "How about it? Want to trade for a White Elixir? You know drones aren't just about having Elixirs. They're exclusive to citizens.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone found the drone appealing.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He had experienced its reconnaissance ability through Kanya.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If Tes could use it, it would be an excellent auxiliary tool.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Arin suggested they might negotiate the price down.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She sensed the merchant's initial offer was inflated.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But the low price was curious.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If a fire spirit was a commodity, a drone was a limited item.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shouldn't citizen items be priceless?",
+      "tone": null
+    },
+    {
+      "type": "monologue",
+      "speaker": "Arin",
+      "content": "-Arin, could there be a defect? Otherwise... -I have the same suspicion, but I'm not sure. The initial offer is certainly inflated. You'll have to judge the rest.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tess was fixated on the drone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Given her fascination with ancient artifacts, she would accept it regardless of defects.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "How did you get this? I heard it's only issued to Mecha Tribe individuals.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Merchant",
+      "content": "Of course, but there are heretics among the Mecha too. They might steal it before fleeing to Purgatory. Just one can sustain their livelihood. Look here, the strip between the drone's edges? That means it's unused. It's fresh from the factory. The original owner likely worked in a Mecha Tribe facility.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Where is that person?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Merchant",
+      "content": "Who knows? They might have fled or died. Most Heaven's items in the market come from such circumstances. Those stealing Heaven's items for Elixirs often die in Purgatory, leaving the items behind.",
+      "tone": null
+    }
+  ],
+  "source_hash": "99101c17212755c6049347a3588079b418ddd84f70d91eabaea25b1d6e4775bd",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T16:49:54.952832+00:00"
+}

@@ -1,0 +1,775 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The leader was wide-eyed with disbelief.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A steel gate that would normally withstand any siege weapon had been breached.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Leader",
+      "content": "Damn it! Fire directly!",
+      "tone": "angry"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "His command was almost a makeshift measure.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Now that the gate had been breached, if they couldn't stop the invaders here, the tide of battle would swiftly turn in their favor.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The subordinates directly targeted Shirone and drew their bowstrings.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Leader",
+      "content": "Fire!",
+      "tone": "commanding"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With all their might, forty magic bullets were launched towards Shirone.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Despite seeing the rapidly approaching arrows, Shirone didn't move.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The radius of teleportation was insufficient to escape the range of the explosions.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But spatial warp was a different story.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The moment the forty arrows were about to land, Shirone's body turned into a flash of light and soared into the sky.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "whirring noise of spatial warp",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A powerful bombardment devastated the spot where Shirone had been standing.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tess watched the bombardment in shock.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The echoing thunder throughout the valley made her feel as if she were in the heart of a battlefield.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Shi-Shirone...",
+      "tone": "concerned"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The magnitude of the explosion and the deafening sound were enough to shake anyone's spirit.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Thus, no one realized that Shirone had cast spatial warp.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy was the exception.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It's said that archers hear the sound of their arrows most clearly, and swordsmen the clash of their blades.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Thus, Amy, being a mage, could distinctly hear the unique sound of spatial warp amidst the explosive roar.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Shirone is safe. Let's go in.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Cutting through the smoke, Amy moved forward.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As expected, beyond the point of bombardment, Shirone stood in front of the gate.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Spatial warp involves the bending of light.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Hence, the illusion of a flash soaring into the sky is just a misperception.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In reality, it wasn't Shirone soaring into the sky but the bending of space itself.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Moreover, such an illusion can only be observed from a distance; up close, it would merely seem like a sudden disappearance.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "This is why mages determine the use of spatial warp by sound.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Leader",
+      "content": "Buahaha! It's over! Completely over!",
+      "tone": "triumphant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Leader",
+      "content": "Not even a trace left! There's nothing to fear now. Everyone, prepare for the assault!",
+      "tone": "commanding"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Falcoa's subordinates put down their bows and grabbed their weapons.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "With the most threatening mage presumed dead, there was nothing more to fear.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Watching this, Tess tilted her head in confusion.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone was clearly standing before the gate like a reaper, yet the enemies were cheering.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "What's with them? Why are they like that?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "They didn't hear the sound of spatial warp like you did. They must think Shirone is dead.",
+      "tone": "explaining"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It didn't take long for Falcoa's subordinates to correct their misunderstanding.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone slowly stepped back and emerged from behind the wall's angle, they were all startled as if seeing a ghost.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Leader",
+      "content": "Le-Leader! Over there...",
+      "tone": "alarmed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The leader's face flushed red with anger.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone, who should have been torn apart by the bombardment, was glaring at the wall defiantly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Leader",
+      "content": "You, you bastard!",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Before the full-scale siege began, Shirone decided to give the enemies one last chance.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Release Zis's sister. Then we'll leave it at this.",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The leader stared blankly at Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After all this chaos, he wants to leave? Where to? Does he think this is some kind of amusement park charging admission?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Leader",
+      "content": "Do you think we'll let her go alive? The real face of a siege begins once the gate is breached. Do you have any idea how much the magic circle you destroyed costs? Your life couldn't even begin to cover it. We'll make you beg for death.",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I don't want to engage in more meaningless battles. It was your mistake from the start. So I'd appreciate it if we could end this here.",
+      "tone": "calm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Leader",
+      "content": "Buahaha! What? End it? Do you know who we are? We're the Parrot Mercenaries, living and dying on the battlefield! Guys, let's go! Slaughter them thoroughly!",
+      "tone": "triumphant"
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Uwaaaaaa!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The soldiers bravely brandished their swords and shouted.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Seeing that words were futile, Shirone sighed and walked towards a blind spot in the wall.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Leader",
+      "content": "He's conveniently coming right into the trap! Guys, go down and... Huh?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The leader halted mid-sentence.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "A scene flashed through his mind.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was the peculiar magic that had pulverized falling rocks into powder above the valley.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Could he confidently claim that the walls here were stronger than those rocks?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Leader",
+      "content": "Uh, wait a moment...!",
+      "tone": "doubtful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The leader rushed down the stairs to check the gate.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As expected, Shirone was moving through the hole in the gate, his fist raised downward.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Leader",
+      "content": "Hey, hey, buddy, this is a joke, right? Surely you're not...",
+      "tone": "alarmed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Fear trembled in the leader's voice.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His mind went blank.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Leader",
+      "content": "Hey! Don't do it! Do you know how much effort went into building this wall?",
+      "tone": "pleading"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone, having finished charging his magic, glanced back at the leader standing on the stairway.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Facing Shirone's intense gaze, the leader finally realized the decision had been made.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Leader",
+      "content": "Run! Everyone jump down!",
+      "tone": "panicked"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the leader ran up the stairs shouting, Shirone muttered softly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Wildfire.",
+      "tone": "determined"
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Boom boom boom boom boom boom!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Wildfire pulsed at a rate of fifteen times per second with a diameter of 20 meters.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The wall shook as if an earthquake had struck, causing Falcoa's subordinates to lose their balance and fall.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The massive structure indeed had considerable durability.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "However, Shirone didn't stop the Wildfire.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "After all, there's a limit to the durability of materials.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Keep hammering, and eventually, it will break— that's a law of physics.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The gate clanged as if hammered, and lightning-like cracks sprinted across the wall.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The cracks branched out, infiltrating the entire wall, and finally, the ground shook, signaling the start of a collapse.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The leader was at a loss.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He was a veteran and had experienced several sieges, but he had never encountered such a brute-force tactic of bringing down the wall itself.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Leader",
+      "content": "Uwaaaa! Okay, we give up! Stop it!",
+      "tone": "pleading"
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "The photons loaded with mass drumming on the wall prevented his voice from spreading even a meter.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Leader",
+      "content": "Damn! This can't be happening!",
+      "tone": "alarmed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "This was truly dangerous.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If the wall collapsed like this, the fate of the 40 lives would be left to the gods.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone grimaced, focusing on the Wildfire.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The uniform rhythm, without acceleration or deceleration, was ejecting everything around it outward.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "From a vantage point where the wall was in full view, Tess blankly watched the spectacle.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Initially, the central part of the wall was partially destroyed, followed by hysterical cracks spreading along the wall.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The left side sagged slightly, and then the right side balanced out by sinking.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "And finally...",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Rumble!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The entire wall came crashing down.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "This is... He's like a human weapon.",
+      "tone": "impressed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian agreed with Tess's sentiment.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Up until now, Shirone had tended to use magic to protect others.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Seeing him decide to truly destroy something, they were newly aware of how different the outcome could be, even with the same magic.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Indeed, it's amazing. It seems I too didn't fully understand Shirone.",
+      "tone": "reflective"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy smiled in agreement, recognizing that combat wasn't everything to a mage, but it certainly was a matter of pride.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Shirone doesn't usually escalate situations. But when he sets his mind to it, his combat capabilities are exceptional. With this level of power, he could easily be among the top ranks in the advanced class.",
+      "tone": "admiring"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tess burst into laughter at Amy's words, understanding her implication.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It seems she's been paying attention after all. There's always more to her than meets the eye.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy was genuinely pleased with Shirone's growth.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At this rate, graduating together with Shirone might not just be a dream.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "You've come this far, Shirone.",
+      "tone": "encouraging"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When the Wildfire ended, the wall had completely collapsed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The wall built along the valley side maintained some of its shape, but the center looked as if a giant boulder had rolled through, utterly flattened.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Soldiers buried under the rubble groaned and writhed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Not a single person was unscathed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The leader, who had tried to stop Shirone, couldn't escape the collapse and ended up with a broken arm.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But he was so dazed he couldn't even feel the pain.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Memories of the past five years spent fortifying the northern hideout flashed before his eyes.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Leader",
+      "content": "This can't be. Defeated by just one person? The Parrot Mercenaries?",
+      "tone": "disbelieving"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the leader heard Shirone's approaching footsteps, he flinched and turned around.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Confronted with Shirone's intense gaze, an uncontrollable fear surged through him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Bring Zis's sister here now! Or I won't let this slide!",
+      "tone": "firm"
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Eek!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The leader instinctively covered his face, causing his broken arm to swing like a pendulum before his eyes.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Leader",
+      "content": "Ugh!",
+      "tone": "painful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Discovering his arm grotesquely twisted, the leader's eyes rolled back, and he fainted.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone and his companions had passed the first checkpoint.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "***",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Wow, Shirone is amazing.",
+      "tone": "impressed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha watched Shirone's battle from 200 meters away from the wall.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sitting on a handkerchief spread on the ground, Marsha observed the scene with a mixture of fascination and concern.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She had never seen Shirone use his magic in such a way before.",
+      "tone": null
+    }
+  ],
+  "source_hash": "c7d82efc53b9438899fd144ffaef18ac3db66ecb2bb4abe898d686b7292859c3",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T16:20:29.873495+00:00"
+}

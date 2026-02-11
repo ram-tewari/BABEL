@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\pygments\styles\gruvbox.py
+# hypothesis_version: 6.148.8
+
+['#076678', '#282828', '#32302f', '#3c3836', '#427b58', '#79740e', '#7c6f64', '#83a598', '#8ec07c', '#8f3f71', '#9d0006', '#a89984', '#af3a03', '#b57614', '#b8bb26', '#d3869b', '#dddddd', '#ebdbb2', '#f2e5bc', '#fabd2f', '#fb4934', '#fbf1c7', '#fe8019', 'GruvboxDarkStyle', 'GruvboxLightStyle', 'bg:#79740e #fbf1c7', 'bg:#9d0006 #fbf1c7', 'bg:#b8bb26 #282828', 'bg:#fb4934 #282828', 'bold', 'bold #3c3836', 'bold #ebdbb2', 'bold italic', 'bold italic #3c3836', 'bold italic #ebdbb2', 'gruvbox-dark', 'gruvbox-light', 'italic', 'italic #928374', 'underline #3c3836', 'underline #ebdbb2']

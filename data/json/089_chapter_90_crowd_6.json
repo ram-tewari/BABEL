@@ -1,0 +1,817 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Crowd (6)",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "Indeed. It must be the first time someone has spoken to me first.",
+      "tone": "polite"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheus bowed politely and greeted her.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "My name is Mirhi Alpheus, a mage. I was so captivated by your beauty that I forgot to introduce myself sooner. If you don't mind, would you be my partner for tonight's ball?",
+      "tone": "romantic"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Erina stared blankly, her jaw dropping slightly. A piece of apple rolled out of her mouth.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Anyone could see the confusion written all over her face, as if she were thinking, 'What on earth is happening?'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Suddenly, Erina bowed her head deeply. Without a word, she turned and walked past Alpheus.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheus was stunned.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "To put it bluntly, he had been 'rejected.'",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Had he approached her too normally by conventional standards?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Regaining his composure, he quickly moved to block her path.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "W-wait a minute. Was I too forward? I'm sorry. I just wanted to get closer to you, Erina.",
+      "tone": "apologetic"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Erina still didn't respond. She just stared at the ground, shuffling her feet as if searching for an escape route.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But this time, Alpheus didn't give up. He blocked her at every turn, persistently trying to engage her in conversation.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "Alright, if you don't want to dance, let's just talk. Let's have a conversation. I'll tell you a really interesting story. Do you like constellations?",
+      "tone": "persistent"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Erina",
+      "content": "I want to go. I want to go back to my room. Mom will scold me.",
+      "tone": "fearful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "Why would your mom scold you? No one's going to scold you. You're at a party, and I'm just asking you to be my partner.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Erina",
+      "content": "She told me not to talk. She said anyone who talks to me is a bad person. I want to go to my room.",
+      "tone": "defensive"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Alpheus felt frustrated. No, more than that—he was anxious.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "All the techniques he'd used to win over countless women had vanished, leaving only the desire to meet Erina's gaze one more time.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "I'm definitely not a bad person. Look, just look at my face. Does this look like the face of a bad person?",
+      "tone": "desperate"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheus grabbed her shoulders with both hands.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At the same time, Erina flinched and let out a scream.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Erina",
+      "content": "Kyaaah! No!",
+      "tone": "frightened"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Every noble in the hall turned to look at Erina.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "To anyone watching, it seemed like Alpheus was doing something terrible.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Erina",
+      "content": "Mom! Help me! Mom!",
+      "tone": "panicked"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "Erina! Look at me! I'm not trying to hurt you!",
+      "tone": "reassuring"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Erina",
+      "content": "Mom! Mom!",
+      "tone": "desperate"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Among the invited mages was Sarof, Alpheus's rival.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Watching Alpheus's absurd behavior, he was dumbfounded.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He'd known the guy was crazy, but he never imagined he'd be this much of a lunatic.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sarof",
+      "content": "After sweeping through all the women in Vashka, now he's bothering a simpleton? He's really desperate for success.",
+      "tone": "disapproving"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Most of the nobles shared the same thought.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even if she was intellectually lacking, she was still the eldest daughter of the Bastard family.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If he could win her over, his future would be set.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Klump",
+      "content": "'Whatever, you psycho. Clean up your own mess.'",
+      "tone": "disapproving"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Erina was thrashing around, almost like she was having a seizure.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Any sane person would have let her go in front of her family, but Alpheus stubbornly held onto her shoulders.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "Erina, wait. Look at me. Look at me.",
+      "tone": "desperate"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Erina",
+      "content": "Mom! I'm scared, Mom!",
+      "tone": "terrified"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "Erina!",
+      "tone": "reassuring"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When Alpheus shouted, Erina's movements froze for a moment.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But the trembling that followed was even more intense than before.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "Please, just look at my face once. I'm begging you.",
+      "tone": "desperate"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Erina slowly turned her head, her expression filled with terror.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She saw Alpheus's burning eyes.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A searing energy seemed to pull her in, heating her heart until it felt like it was on fire.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "See? Nothing bad is happening. I'm not a bad person. I won't do anything you don't like. But it's a party. Don't you want to dance?",
+      "tone": "persistent"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "An unmistakable flutter appeared in Erina's expression.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The shimmering particles of light refracting through crystals, the musicians' melodies, the chatter of countless people mingling—she just wanted to laugh like everyone else.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "Erina. I want to be with you. Please be my partner tonight.",
+      "tone": "romantic"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "There was no answer, but he didn't need one.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Taking Erina's hand, Alpheus led her to the center of the hall.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She followed hesitantly, like a toddler taking her first steps.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "And for the first time in her life, she was held in the arms of someone other than family.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The quick-witted musicians resumed their performance, and Alpheus began to dance with Erina, guiding her steps.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The nobles were dumbfounded.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even Erina's parents were at a loss for words as they watched.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Alpheus didn't care.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Because Erina didn't care.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was as if only the two of them existed, lost in the music.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Their dance was far from elegant.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But it was instinctive and passionate.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They spun like tops, often losing balance and bumping into others.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Each time, Erina's laughter grew louder.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "By the time ten minutes had passed, Erina had become the star of the party for the first time.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "***",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Playful laughter echoed through the garden.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Having nearly caused a scene at the party, Alpheus and Erina had fled into the woods, running breathlessly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When they reached the edge of the hill, Alpheus bit his tongue and gasped for air.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Humiliatingly, Erina didn't seem tired at all.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "To think his stamina was weaker than a woman's—he resolved to cut back on drinking as he looked up at the sky.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was a night so clear it seemed like stars would pour down endlessly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Erina was unexpectedly quiet.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But Alpheus, known throughout Vashka for his talkativeness, kept the conversation flowing without pause, ensuring the mood never cooled.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As time passed, it almost felt like Erina was drawing the words out of him.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "No matter the topic, she listened silently.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Whenever she smiled as if she understood, Alpheus grew even more excited, his words pouring out like a waterfall.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Eventually, the conversation turned to his recent struggles with the identity of photons.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "Was light a wave or a particle?",
+      "tone": "inquisitive"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Sarof had defined it as a wave, but Alpheus was certain he was wrong.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Yet he wasn't advocating for particle theory either.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Honestly, he didn't know.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He just believed that admitting ignorance was the starting point.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "It's strange, isn't it? Light has such bizarre properties. In interference experiments, it shows wave-like behavior, but on the other hand...",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheus stopped mid-sentence, realizing he'd gotten too carried away.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In his excitement, he'd forgotten he was talking to Erina.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She was crouched on the grass, gazing down the hill.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But the smile on her lips was still beautiful.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "Hahaha! Did I talk too much? I think this is the first time I've talked for so long. Usually, people get bored.",
+      "tone": "self-deprecating"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Erina",
+      "content": "You're a good person.",
+      "tone": "admiring"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was the first thing Erina had said.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "And Alpheus blinked as if he'd never heard such words before.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Suddenly, his heart raced for reasons he couldn't understand.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "His mind was in chaos.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Why am I here? What do I even want from this woman?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was an unknown world.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "A place where the desire to explore and the fear of the unknown coexisted, making it impossible to judge anything.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheus turned away.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Pretending he hadn't heard her, he continued his earlier train of thought.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "Haha! It's embarrassing to admit, but as a mage, I'm supposed to write a thesis. But I don't know anything. I can't decide which direction to take. What do you think, Erina? Is light a wave or a particle?",
+      "tone": "self-deprecating"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Erina didn't seem hurt by his attitude.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Standing up, she looked at the stars in the sky and spoke.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "***",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Erina",
+      "content": "Light is beauty.",
+      "tone": "enigmatic"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "What? What did you say?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "What? What did you say?",
+      "tone": "confused"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was natural that she didn't know photon theory, but this answer was unexpected.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Light is beautiful. Flowers are beautiful too. And so are we. But the light you're talking about... doesn't sound beautiful.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Alpheus felt like he'd been hit on the head with a hammer.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was a direct strike of pure thought, impossible to shape into words.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "I-I see. But why is light beautiful?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "To Alpheus, light was just photons.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But Erina answered without hesitation, as if she knew everything.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Erina",
+      "content": "Light shows us the darkness. Without light, how could we see the night sky?",
+      "tone": "enlightened"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The world fell silent.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Like the universe itself.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Alpheus was speechless.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The thoughts he'd truly longed for cascaded over him like a waterfall.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Why had he tried to separate the two?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Stepping back, it was so clear.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "Because it's beautiful.",
+      "tone": "awed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Any contradiction ceases to be a contradiction.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "Beauty. It's so beautiful, Erina.",
+      "tone": "romantic"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Erina turned her head, smiling with childlike innocence.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The moment Alpheus saw that smile, he made a decision.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He would remember this moment for the rest of his life.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheus knelt on one knee before Erina.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With the most respectful gesture, he extended his right hand.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheus",
+      "content": "Please be my light.",
+      "tone": "romantic"
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "◆ ◆ ◆",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "That night forty years ago.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The confession under the moonlight became Alpheus's happiest memory, one he wouldn't trade for the world.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the curtain of Abyss Nova lifted, a quiet smile touched his lips.",
+      "tone": null
+    }
+  ],
+  "source_hash": "b5f807038ad9ef89737d6bbfe6dd0d15403a9e800e9514d3522f65fee5649d67",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T07:55:13.265995+00:00"
+}

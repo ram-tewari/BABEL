@@ -1,0 +1,531 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "Shirone and Plu headed to the 2nd Headquarters."
+    },
+    {
+      "type": "action",
+      "content": "Clove and Gardrak guided them, and as they closed the distance using the light spots, they received various pieces of information."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gardrak",
+      "content": "Research suggests that the angels' 'overlooking' isn't about the observer's gaze leaving but rather pulling the desired location in front of them. It's like opening a drawer in a room and rummaging through it. So how did the rebels avoid being overlooked?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "content": "Gardrak's words were translated through the drone they received from the headquarters."
+    },
+    {
+      "type": "action",
+      "content": "The drones produced in Heaven didn't have the language of the land, but those from 'Yamaeng' were programmed with the languages of many border guards."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Hmm, putting a lock on the drawer?",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "action",
+      "content": "Gardrak nodded."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gardrak",
+      "content": "That's the Mecha tribe's way. They use a self-developed magnetic field to disrupt the scenery, making it impossible to focus.",
+      "tone": "informative"
+    },
+    {
+      "type": "action",
+      "content": "Shirone added,"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Then the second way is to create many drawers?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "content": "Gardrak nodded."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gardrak",
+      "content": "Correct. The 2nd Headquarters we're heading to operates in a decentralized manner. It's a classic concealment strategy, but it significantly reduces risk.",
+      "tone": "explaining"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "What kind of place is the 2nd Headquarters?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "content": "Gardrak replied."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gardrak",
+      "content": "I've never been to the headquarters myself. I worked in the 13th Battalion before being transferred to the 1st Headquarters. Unlike the Mecha, who prioritize command, the Nor prioritize individual ability. They believe the strongest should be the commander.",
+      "tone": "informative"
+    },
+    {
+      "type": "action",
+      "content": "Shirone said,"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Then the commander must be very strong.",
+      "tone": "impressed"
+    },
+    {
+      "type": "action",
+      "content": "Gardrak nodded."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gardrak",
+      "content": "I've heard so. The commander is a woman named Raesis, and rumors say her Spirit Force is as high as 32%.",
+      "tone": "informative"
+    },
+    {
+      "type": "narrator",
+      "content": "Spirit Force is an indicator of affinity with essence, a mental state much closer to the essence than the Spirit Zone."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "How impressive is 32%? If it reaches 100%, can you control essence freely?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "content": "Gardrak replied."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gardrak",
+      "content": "That's impossible. It's just affinity. At 32%, it's like providing water for 100 people with a single drop. The average Nor's affinity is only 7-8%. Even a 1% difference exponentially increases magical power.",
+      "tone": "explaining"
+    },
+    {
+      "type": "action",
+      "content": "Shirone vaguely imagined the 2nd Headquarters commander in his mind."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "I don't mind dying. I'm part of the best team."
+    },
+    {
+      "type": "action",
+      "content": "Plu turned coldly, her smile gone as if it had never been there."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Um...",
+      "tone": "awkward"
+    },
+    {
+      "type": "action",
+      "content": "Crude, who had been watching from a distance, cleared his throat and approached."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crude",
+      "content": "Even in wartime, he believed humans should live humanely, so he cautiously expressed his feelings.",
+      "tone": "empathetic"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "No.",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "content": "Shirone was playing with minnows, stirring them with his feet."
+    },
+    {
+      "type": "thought",
+      "speaker": "Plu",
+      "content": "If not for the mission, he was just an ordinary nineteen-year-old."
+    },
+    {
+      "type": "action",
+      "content": "She would do her best to protect Shirone."
+    },
+    {
+      "type": "thought",
+      "speaker": "Plu",
+      "content": "But in reality, the word 'best' had no meaning in actual combat."
+    },
+    {
+      "type": "action",
+      "content": "Only completing the goal by any means necessary mattered, and for that, Shirone also needed determination."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Listen. Now that you're here, you're a magician too. You haven't graduated yet, so you're an unofficial magician.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "content": "Shirone looked at Plu in confusion."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "So from now on, I'll treat you as a professional. You must stay focused on the mission and not be swayed by emotions. I'm not asking you to do anything unreasonable. In fact, you might not even be able to distinguish what's unreasonable. That's war. If confusion arises, focus solely on the mission.",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "content": "Shirone understood."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "I must survive. That's my mission."
+    },
+    {
+      "type": "action",
+      "content": "Shirone nodded firmly."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes. Don't worry.",
+      "tone": "reassuring"
+    },
+    {
+      "type": "action",
+      "content": "A massive flash of Elizer shot into the sky."
+    },
+    {
+      "type": "action",
+      "content": "As the world was enveloped in warm light, the forest scenery shimmered."
+    },
+    {
+      "type": "action",
+      "content": "When the light faded, the scene changed from the valley with the stream to the middle of a dense forest."
+    },
+    {
+      "type": "action",
+      "content": "Plu looked around and asked,"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Is this the headquarters?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "content": "Gardrak replied."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gardrak",
+      "content": "No. The gatekeeper of the headquarters will lead us. We probably have to go much further.",
+      "tone": "explaining"
+    },
+    {
+      "type": "action",
+      "content": "It was a measure to avoid being followed. It showed how thoroughly they were hiding."
+    },
+    {
+      "type": "action",
+      "content": "Gardrak put his fingers in his mouth and whistled."
+    },
+    {
+      "type": "action",
+      "content": "As the sound magic Peri was cast, it sounded like hundreds of birds chirping, flying into the forest sky."
+    },
+    {
+      "type": "action",
+      "content": "After a while, a man appeared from behind a tree."
+    },
+    {
+      "type": "action",
+      "content": "He was a man with a cold impression."
+    },
+    {
+      "type": "action",
+      "content": "He had blue hair, sharp eyes, and the left side of his head was shaved."
+    },
+    {
+      "type": "action",
+      "content": "The right side of his hair, which reached his shoulders, covered one eye."
+    },
+    {
+      "type": "action",
+      "content": "Gardrak pointed to Shirone and said,"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gardrak",
+      "content": "We're from the 1st Headquarters. You've heard the rumors, right? This boy is…",
+      "tone": "explaining"
+    },
+    {
+      "type": "action",
+      "content": "The man raised his hand and cast a spell."
+    },
+    {
+      "type": "action",
+      "content": "The forest magic Oprica."
+    },
+    {
+      "type": "action",
+      "content": "The trees behind them shook, and numerous vines grew rapidly, flying towards Shirone's group."
+    },
+    {
+      "type": "action",
+      "content": "Ugh!"
+    },
+    {
+      "type": "action",
+      "content": "Clove and Gardrak, terrified, lost their balance and fell, while Shirone and Plu remained still."
+    },
+    {
+      "type": "action",
+      "content": "The trajectory of the flying vines wasn't aimed at them."
+    },
+    {
+      "type": "action",
+      "content": "Anyone could have figured it out if they had stayed calm."
+    },
+    {
+      "type": "action",
+      "content": "The vines struck the ground and grew into an arch."
+    },
+    {
+      "type": "action",
+      "content": "In an instant, Shirone's group was trapped in an arch-patterned wooden prison."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "This is ancient plant magic."
+    },
+    {
+      "type": "action",
+      "content": "From the remnants of his battle with Bosun in Kazra, Shirone knew that even a certified 4th-level magician couldn't produce such rapid growth."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "He didn't think the man was stronger than Bosun, but the advantages of ancient magic using essence affinity were clear."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "This won't be easy."
+    },
+    {
+      "type": "action",
+      "content": "He was concerned that groups that displayed force from the start rarely negotiated properly."
+    },
+    {
+      "type": "action",
+      "content": "The gatekeeper cast Oprica again, drawing more branches to aim at the group."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gatekeeper",
+      "content": "Why have the traitors of Nor come to us?",
+      "tone": "accusatory"
+    },
+    {
+      "type": "action",
+      "content": "Clove grabbed the prison bars and shouted,"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Clove",
+      "content": "What are you doing? Do you know who this is? This is Shirone, the light of Sector 73!",
+      "tone": "defensive"
+    },
+    {
+      "type": "action",
+      "content": "The more hostile the relationship, the more active the espionage."
+    },
+    {
+      "type": "action",
+      "content": "The gatekeeper also knew that Shirone had returned."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gatekeeper",
+      "content": "So what?",
+      "tone": "disinterested"
+    },
+    {
+      "type": "action",
+      "content": "So what? Don't you want to fight the war? Don't you know how much the rebels' morale will rise with Shirone?"
+    },
+    {
+      "type": "action",
+      "content": "A sharp branch pierced through the prison bars and stopped in front of Clove's nose."
+    },
+    {
+      "type": "action",
+      "content": "Ugh!"
+    },
+    {
+      "type": "action",
+      "content": "Clove hurriedly backed away, hitting the opposite side of the prison."
+    },
+    {
+      "type": "action",
+      "content": "Oprica was a magic that couldn't be cast without more than 10% affinity."
+    },
+    {
+      "type": "action",
+      "content": "With only 7% affinity, Clove couldn't resist the man's power."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gatekeeper",
+      "content": "What does the light of Sector 73 matter? When did you criticize and denounce Nor, and now you want to fight together? We don't need the power of the Mecha tribe. How can we fight angels with those who rely on machines?",
+      "tone": "accusatory"
+    },
+    {
+      "type": "action",
+      "content": "How do you know that?"
+    },
+    {
+      "type": "action",
+      "content": "Shirone spoke."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "We came to see your leader, not you. I don't think you have the authority to decide the fate of the entire Nor tribe.",
+      "tone": "assertive"
+    },
+    {
+      "type": "action",
+      "content": "The man turned his gaze to Shirone."
+    },
+    {
+      "type": "action",
+      "content": "Shirone's exploits were well-known, but the Nor, who had absolute standards of power, were not easily swayed by mere myths."
+    },
+    {
+      "type": "action",
+      "content": "If the light of Sector 73 thought that defeating a fairy chief like Igirin would be enough to impress here, he was either quite naive or an overconfident youngster."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gatekeeper",
+      "content": "That might be true. But as the gatekeeper, I have authority. Whether it's the Nephilim or the light of Sector 73, what matters in war is power. I don't know how it is in Mecha, but whining in a wooden prison won't make the Nor even snort.",
+      "tone": "assertive"
+    },
+    {
+      "type": "action",
+      "content": "Is that so?"
+    },
+    {
+      "type": "action",
+      "content": "Shirone placed his palm on the prison."
+    },
+    {
+      "type": "action",
+      "content": "As light began to concentrate in his hand, the gatekeeper quickly stepped back."
+    },
+    {
+      "type": "action",
+      "content": "From what he had heard, Shirone could manipulate light freely, regardless of affinity, and could even destroy objects with it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gatekeeper",
+      "content": "Hmph! Even so…",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "content": "The gatekeeper, a skilled practitioner of ancient magic entrusted with guarding the rebel headquarters, gathered all the surrounding vegetation, twisted the vines into sharp spears, and prepared to counterattack."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "What's this?"
+    },
+    {
+      "type": "action",
+      "content": "But the opportunity to counterattack never came."
+    },
+    {
+      "type": "action",
+      "content": "The light in Shirone's hand gradually darkened, and the vines began to twist grotesquely."
+    },
+    {
+      "type": "action",
+      "content": "Dark Light."
+    },
+    {
+      "type": "action",
+      "content": "The sight of the thick vines contorting left the gatekeeper stunned."
+    },
+    {
+      "type": "action",
+      "content": "Crack! Crack!"
+    },
+    {
+      "type": "action",
+      "content": "With a sound like bones being crushed, the hemispherical prison was torn from the ground."
+    },
+    {
+      "type": "action",
+      "content": "Crack! Crack! Crack!"
+    },
+    {
+      "type": "action",
+      "content": "Eventually, it twisted towards a void that had formed, being sucked in completely."
+    },
+    {
+      "type": "action",
+      "content": "Like a glutton swallowing a living creature whole, the trees struggled from their roots but were ultimately consumed, leaving no trace."
+    },
+    {
+      "type": "action",
+      "content": "Clove and Gardrak's faces turned pale."
+    },
+    {
+      "type": "action",
+      "content": "Even when Shirone had shattered a rock with light before, they hadn't been this shocked."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gardrak",
+      "content": "W-what kind of magic is that, Master?",
+      "tone": "awed"
+    },
+    {
+      "type": "action",
+      "content": "Shirone remained silent."
+    },
+    {
+      "type": "action",
+      "content": "Gardrak had no idea. The gatekeeper likely didn't either."
+    },
+    {
+      "type": "action",
+      "content": "All the Nor could only stare at Shirone in a daze."
+    }
+  ],
+  "source_hash": "3a8cb004c6dd043281eaf10e8d4911109445e3986978fadeace796870a093827",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T06:13:21.516902Z"
+}

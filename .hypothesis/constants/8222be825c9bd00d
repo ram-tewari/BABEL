@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\transports\grpc_asyncio.py
+# hypothesis_version: 6.148.8
+
+[1.0, 1.3, 10.0, 60.0, 600.0, 'OK', 'batch_embed_contents', 'count_tokens', 'embed_content', 'generate_answer', 'generate_content', 'get_operation', 'grpc', 'grpc_asyncio', 'kind', 'list_operations', 'metadata', 'payload', 'request', 'requestMethod', 'response', 'rpcName', 'serviceName', 'status', 'utf-8']

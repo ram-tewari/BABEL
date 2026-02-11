@@ -1,0 +1,691 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ancient Ruins (1)",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Right. He does look strong for real.",
+      "tone": "neutral"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Exactly.",
+      "tone": "neutral"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone and Amy agreed.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It wasn't just the tattoos. Their keen senses were picking up on the latent force within the man.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Rian",
+      "content": "Hmph, just because he's glaring doesn't mean he has any real strength. No need to be scared.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian's senses were less sharp than others. That's why he couldn't open a Schema, but Shirone found reassurance in that.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In any frightening situation, Rian would steadfastly be their shield.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Great! Let's start exploring the ruins!",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They passed the toll booth and began their investigation in earnest.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Kergos Ruins were a temple dedicated to a deity, forming a square structure 2 kilometers in length and width.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Crossing a 200-meter-wide moat via a bridge led to a long gallery, and it was another 500 meters along the pilgrimage route before reaching the central temple.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Wow, it's really huge. Can you believe this was built thousands of years ago?",
+      "tone": "amazed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "I heard from people earlier that it's only this visible because it's buried under volcanic ash. In reality, it's several times larger.",
+      "tone": "informative"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone looked down at his feet. Since the volcanic eruption happened 500 years ago, the volcanic ash would be beneath the surface layer.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Shirone, what are you doing? We need to check out the central temple too.",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone didn't respond. He just smiled faintly, deeply engrossed in something.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy approached him, puzzled.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "What's wrong? What's happening?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Amy, try entering Spirit Zone.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Spirit Zone? Why all of a sudden?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Realization dawned on Amy, and she slapped her palm.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Oh, I see!",
+      "tone": "excited"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Mages can extend their senses through Spirit Zone. If there was something hidden beneath the ruins, it would surely trigger their Synesthesia.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Got it. I'll give it a try.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy entered Spirit Zone. As she probed the underground with her Synesthesia, her brows gradually furrowed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After about 5 seconds, she seemed to have realized something and released the zone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Shirone, this…",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yeah. Nothing's being detected. There should at least be some bedrock, but there's nothing.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Could it be because the layer of volcanic ash is too thick? What if we go deeper?",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "That was the issue they were stuck on. But after a moment of thought, Shirone had an epiphany.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Aha, there's a way.",
+      "tone": "excited"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Amy could do it. Her specialty was the Target Form among the Four Way Formation, known for its long range.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The Target Form, also known as the Cross Zone, places the mage at the intersection of two lines, rapidly rotating it to swiftly hit a specific target.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But it didn't end there.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Upon entering the advanced class, Amy specialized her Target Form into Sniper Mode.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Sniper Mode, with a perfectly straight Spirit Zone, places the mage at the end of the zone to enhance range.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "This directional zone, despite its slow rotation, can achieve at least four times the range of the Target Form.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even expanding the zone's radius to just 500 meters makes it surpass 1 kilometer in Target Form. In Sniper Mode, it could hit a target 4 kilometers away.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Alright, I'll try.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy entered the zone with a Sequence Method. The transformation of the Four Way Formation was swift, and a tilted cross stood erect.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Sniper Mode!",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy's zone dove downwards like a cascade. A groan escaped her clenched teeth.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the zone extended, its durability inevitably weakened. Without obstacles, it wouldn't be an issue, but the underground was unpredictable, causing the zone to bend erratically.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy pushed deeper with desperation.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "And just when she thought she touched something, her zone shattered, shaking her consciousness.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Ugh! Ugh!",
+      "tone": "painful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Amy! Are you okay?",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone quickly supported her. Sweat beaded on her forehead.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "I'm fine. But this seems tough. I penetrated up to 300 meters, but beyond that, it's impossible. It's like tossing a thread into the ocean; it just drifts aimlessly.",
+      "tone": "disappointed"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone could guess the immense force at play. Amy's zone was not weak, yet she compared it to a fragile thread.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Still, we discovered something might be there. That's significant.",
+      "tone": "encouraged"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "It's a result, but it's not enough. We need someone capable of maintaining durability while expanding the zone. At least a top-level Zoner, or else Spirit Zone exploration is impossible here.",
+      "tone": "resolute"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It seemed to Shirone that without such expertise, the underground of the ruins would remain unexplored.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "If only we'd talked to brother Ares. His exploration team might have a Zoner capable of investigating this place.",
+      "tone": "regretful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Or we could ask Professor Ethella.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Ethella, true to a monk, was a Zoner specialized in durability, perfect for exploring such terrain.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "If it's Professor Ethella, it might be possible. I'm not sure how deep it is, but she could easily break through where I reached.",
+      "tone": "hopeful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "But if that's the case, we don't need to investigate ourselves, right? I heard the headmaster gave you a hint. Maybe he meant for you to figure it out on your own?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone and Amy exchanged glances, their mouths sealed.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Rian's right, but it's such a waste. If we just break through here, we wouldn't even need to explore the ruins. How about we keep thinking this way?",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone understood Amy's feelings. This journey was to find a hint for the maze, not just to play around in the ruins.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Let's consider various options for now. It's not something we can do right away. It's even more intriguing now. I feel like I won't be satisfied until I see it with my own eyes.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Leaving their vague imaginations about the underground, Shirone and his friends continued their exploration.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But the Kergos Ruins were truly just an ordinary tourist spot.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As they earnestly investigated, groups of men chatting and children running around with windmills seemed to mock their efforts.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Amy, are we really doing the right thing?",
+      "tone": "doubtful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Don't ask me. I'm feeling like self-loathing right now.",
+      "tone": "bitter"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After checking the central temple, the last route, the group eventually halted their investigation.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They couldn't find anything unusual in the surface ruins.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "I don't get it. The headmaster said we'd understand once we got here. But what does an ancient ruin have to do with the maze?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Anyway, something's definitely down there. Looks like we have no choice but to explore with Spirit Zone, right?",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian suddenly lit up with an idea.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "I've got a good idea. If we can't break through with Spirit Zone, why not dig into the ground directly? Maybe we'll find something.",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone and Amy looked at Rian incredulously before resuming their conversation.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "How about contacting the natives? Since they live here, there must be someone who speaks the common language.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Hmm, that's a good point. But I doubt those people would know anything important. Maybe we should find an interpreter...",
+      "tone": "skeptical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Hey! Why aren't you responding to me? I said, let's dig!",
+      "tone": "frustrated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Idiot, it's a heritage site that even the autonomous government doesn't touch. You'll end up with a heavy sentence for cultural heritage destruction if you try anything like that.",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After reprimanding Rian, she turned to Shirone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "What now?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'm not sure. Asking around seems like best bet, but that's difficult for now. We need to find an interpreter and get permission to enter the native autonomous zone.",
+      "tone": "resigned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Really? Then, I have an immediate solution. Want to hear it?",
+      "tone": "mischievous"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yeah, definitely! What is it?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "You're not suggesting we dig secretly, are you?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Anyway. Here's my idea. While you guys were focused on the ruins, I took a look around. And I noticed something odd.",
+      "tone": "mysterious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tess scanned the surroundings.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Look at the people. Most are tourists, but some aren't. They move in groups, are armed, and seem uninterested in the ruins.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The three looked around. Indeed, there were armed individuals, albeit not many, wandering about.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Aha! I see!",
+      "tone": "excited"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Yes, they're mercenaries. Why would mercenaries roam a tourist spot? Some look quite strong. There must be something in these ruins.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "And the mercenaries know about it?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Exactly. Contacting the natives might take time, and they might not talk. But mercenaries are different. Just being here means they know something.",
+      "tone": "resolute"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone admired Tess's insight. While others focused on the ruins, she alone observed the external situation.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It made sense, considering Tess's background. The Elzain family had a history of producing commanders and diplomats, but their true power lay elsewhere.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "They were spies.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's definitely a good idea. No, it's the only idea we have right now.",
+      "tone": "resigned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "So, we just need to tail the mercenaries now?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Tail them? Hmm, I'm not so sure. If we get caught by high-level mercenaries, especially those with sensory Schemas, it'll be troublesome. I might manage alone, but...",
+      "tone": "skeptical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "That's a problem. I don't even know how to hide my presence. What should we do then?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Hehe, do we really need to go looking for them? There's a place where mercenaries are common, right?",
+      "tone": "mischievous"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Really? Where?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Fancy a drink in the afternoon?",
+      "tone": "inviting"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "* * *",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "On the southwest inner wall of the ruins, several shacks made of planks lined up, including restaurants, bars, and provisions stores.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "While these were modest compared to regular shops, they did much better business.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Despite being inside the ruins and having high prices, people visited for the convenience.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone and his group entered a bar. They wondered who would drink in the middle of the day, but except for two tables, it was fully occupied.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They chose a corner spot. Amy sat next to Shirone, with Rian and Tess across from them.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Are we drinking?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "We probably should order something; it is a bar, after all. But let's focus on the snacks. It's better to have our lunch here.",
+      "tone": "practical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Traditional Galliant island liquor came with hot noodles and minced meat.",
+      "tone": "informative"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After a skimpy breakfast, the four momentarily paused their conversation to eat.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then, snickering sounds came from the side. Initially ignoring it, the continuous mocking laughter eventually got on their nerves.",
+      "tone": null
+    }
+  ],
+  "source_hash": "9f1cc3477bb209748f4411f6a3a22e2ab4c535e0ed7f4620e6330dc6d94db1a4",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T16:07:24.707607+00:00"
+}

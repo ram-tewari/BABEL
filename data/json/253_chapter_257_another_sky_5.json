@@ -1,0 +1,889 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Another Sky (5)",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Come to think of it, today is the publication date. I hope the story about our academy turned out well, too.",
+      "tone": "hopeful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Olivia asked as she accepted the magazine.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheus smiled contentedly as the words \"our academy\" came out of her mouth.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "However, the pleasant mood vanished the moment they saw the cover.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The headline article contained shocking content: Exclusive! An interview with Shirone's parents!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The student who defeated Dante is the child of a mountain hunter?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Olivia tilted her head in confusion.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It's not even Shirone, it's an interview with his parents. And what's this about being the child of a mountain hunter?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Although Killain had a sharp personality, she wasn't foolish enough to publish an article full of nonsensical distortions.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A cold sweat ran down Alpheas' spine.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was a fact, not a distorted article.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Very few people at the academy knew about Shirone's background.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Of course, if Killain had decided to track down his identity, it would have been very easy to dig it up. Even Shirone's parents wouldn't have been able to withstand the professional reporting skills of a top correspondent.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Olivia opened the magazine and quickly read through the pages.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It detailed how Shirone had defeated Dante, complete with photos.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She had heard that Obscura was broken, but now it was clear that had been a lie.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "However, the article was not false.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "There is a degree to which distortion of a news could happen, but if an article like this had been written as a fabrication, she would have been grounds for expulsion, needless to say.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Is it true? Shirone is... the son of a mountain hunter?",
+      "tone": "incredulous"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Olivia turned to Alpheas as if demanding an explanation.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheas nodded with a bitter expression.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "It's true. Shirone is the child of a mountain hunter. But he was admitted through a special selection, recommended by the Ogent Family. Even the teachers didn't know.",
+      "tone": "bitter"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Thad didn't know either.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Olivia showed her frustration.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "That doesn't matter. Why did you hide it from me? As the principal, I should at least be aware of it.",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheas felt wronged as well.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "No one knew better than him that Olivia was cautious and discreet.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The issue was that he hadn't anticipated this happening.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "I didn't hide it on purpose; it just wasn't something I kept in my mind. It's been a year, and no one's ever asked about Shirone's background.",
+      "tone": "defensive"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Alpheas spoke with a sad face, Olivia also stopped complaining and became lost in thought.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Olivia",
+      "content": "Shirone's personality was definitely unique. When you get along with him, it's true that you don't really care about his origins.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Olivia",
+      "content": "However, in places where many people gather, anything was bound to happen.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Honestly, you're too naive. No matter how many allies Shirone has, there will always be students who are jealous. You should always keep that in mind. If I had known, none of this would have happened.",
+      "tone": "admonishing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "This time, Alpheas had no response.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "While he was excellent at nurturing students, he was not well-versed in politics.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Olivia crossed her arms and thought about it for a moment before making a decision.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Teacher Thad.",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Yes, Principal.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Summon Killain immediately. Tell her to come see me as soon as she receives the message. If she doesn't show up within 24 hours, let her know I'll come to find her myself.",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Understood.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Thad lowered his head and turned around.",
+      "tone": null
+    },
+    {
+      "type": "system_notification",
+      "speaker": null,
+      "content": "@",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When Shirone's origins were revealed, Alpheas Magic Academy was turned upside down.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The teachers were shocked, but the most vocal reactions came from the students.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Olivia's prediction had been spot on.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "While it seemed like everyone liked Shirone, there was a small group of students who were swept up in the public opinion and couldn't express their opinions. These were the ones who secretly envied Shirone's talent.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Now that this scandal had broken, they began to criticize him as if they had found their chance, like fish swimming freely in water.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After class, the academy cafeteria was crowded with students.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Although many had free time since the advanced class exams were over, the main reason for the crowd was to discuss the current hot topic: Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The library wasn't exactly the best place for such conversations.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In particular, the middle-ranking group of Class Four, who were occupying the tables in the corner, were enthusiastically belittling Shirone as if they had been hired to do so.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tch! Does this even make sense? We've been attending school with a commoner.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Not just any commoner—a mountain hunter, no less. I can't stand being in the same school anymore.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "No wonder he sometimes seemed so clueless. You can't hide your origins. He's only been learning magic for a year, and that's why he couldn't even cast basic spells.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Of course, they were ignoring one crucial fact.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone had become the top student in the advanced class within just a year. No, he was the best in the entire kingdom.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Everyone could sense the contradiction, but no one voiced it aloud.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "What they really wanted was to use this opportunity to tear Shirone down completely, regardless of his genius.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Closer, who was leaning against the countertop, grumbled as he watched their antics.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "What a mess. These guys wouldn't even be close to first place, even without Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Savina also didn't like the sight of them hiding in a corner and gossiping about someone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Sure, Shirone was an enemy she couldn't bring herself to like either, However, the pride she had in competing head-on with the best group made her refuse to compare herself to those spreading rumors.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Savina",
+      "content": "Dante, what do you think?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "What?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dante, uninterested in the gossip, was staring at the menu on the countertop.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Shirone, of course. It's pretty shocking, isn't it? Who would've thought he wasn't a noble?",
+      "tone": "nonchalant"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dante blinked and looked back at his friends and asked.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Hey, what do you guys want to drink?",
+      "tone": "casual"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Savina raised her hand and said.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Savina",
+      "content": "I'll have orange juice. My skin's been dry lately, so I need some vitamins.",
+      "tone": "casual"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Really? Then I'll get iced coffee since I'm thirsty. How about you, Closer?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Closer stared at Dante.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The day after losing in Heaven's Trial, Dante did not attend class and rested. The academy was considerate because anti-magic had taken its toll, but in reality, it was his heart, not his mind, that was injured.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A day passed like that, and the next day Dante returned to the academy.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Naturally, all eyes were on him, but he attended class as if nothing had happened, with his usual calm demeanor.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Closer",
+      "content": "'Dante, are you really okay?'",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Closer still couldn't figure out what Dante was truly thinking.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Closer",
+      "content": "If Dante was planning revenge, he would prepare for a rematch. If he acknowledged Shirone, the right thing to do would be to leave the academy. After all, the semester was almost over, and it was about time to start packing.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Closer",
+      "content": "However, Dante hadn't mentioned anything about his future plans.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Closer",
+      "content": "Hey, Senior Dante….",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A girl from Class Five approached Dante with a blushing face.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Girl",
+      "content": "Huh?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dante, sipping iced coffee through a straw, looked at her.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Girl",
+      "content": "That, I just wanted to say that I found your match really impressive.",
+      "tone": "sincere"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Closer and Savina felt as though their hearts had dropped.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Closer",
+      "content": "It's one thing to be oblivious, but to bring up something Dante himself had been silent about was thoughtless.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Closer",
+      "content": "But the naive girl seemed to believe that as long as her words were sincere, they were acceptable.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Girl",
+      "content": "Even though you lost, I don't think you were truly defeated, Senior Dante. Why, there's something like that, an eternal rival. I think Senior Dante can definitely win in the next match.",
+      "tone": "sincere"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Savina sneaked a glance at Dante.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Savina",
+      "content": "Contrary to her expectations, Dante didn't show much emotion, just blinked and said nonchalantly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Sure, thanks.",
+      "tone": "nonchalant"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His friends were shocked.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Closer",
+      "content": "Dante, who used to think that one loss was akin to death, now responded so calmly. This reaction was far from normal.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Closer",
+      "content": "'No way, his head didn't go weird from the shock of defeat, did he?'",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The girl, thrilled by Dante's thanks, hurried back to her friends.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Suddenly, everyone in the cafeteria seemed to be watching them. The chatter had stopped, and the place was now eerily quiet.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dante realized that all eyes were on him and only then did he look around. Then he sat down at an empty table as if nothing had happened and sipped his coffee.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Closer, holding the same coffee Dante had ordered, slammed it down on the table and sat across from him, speaking in a low voice.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Closer",
+      "content": "What the hell is wrong with you?",
+      "tone": "frustrated"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "What do you mean?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Closer",
+      "content": "Shirone, obviously. No matter how I think about it, it's strange that you haven't said anything.",
+      "tone": "frustrated"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "So, what do you want me to say?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Closer",
+      "content": "Forget about Shirone for a second. The match is over, but shouldn't you at least say something? Are you really just going to give up like this? You've got to reclaim your title as the kingdom's greatest student.",
+      "tone": "frustrated"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dante let out a bitter laugh. It was a laugh filled with self-mockery.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "The greatest student in the kingdom? Well….",
+      "tone": "self-deprecating"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Closer, frustrated by Dante's lukewarm response, pounded his chest.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was clear that Dante was stuck in a serious slump.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The defeat to Shirone had hit him so hard that all his motivation and passion seemed to have disappeared.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Closer",
+      "content": "You really…!",
+      "tone": "frustrated"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Just as Closer was about to raise his voice in frustration, the cafeteria doors opened, and two people walked in.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Coincidentally, it was Nade and Iruki.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Naturally, all the students' attention shifted toward them.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was a situation where the parties that had been engaged in a fierce confrontation for three weeks were reunited.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was a shame that Shirone couldn't be seen, but on the other hand, part of the students wondered how Dante would even be able to lift his head after what had happened.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "All the students in the academy have higher ranks than Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They were nobles, while Shirone was a commoner.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "According to societal norms, Shirone should have licked their boots without protest if asked to.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Of course, being educated individuals, they knew such behavior wasn't exactly right, but they had no intention of giving up the advantages they were born with.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Iruki, noticing the strange atmosphere in the cafeteria, spotted Dante.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dante didn't look away and met his gaze.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The students held their breath, waiting for an exchange between the two, but contrary to their expectations, Iruki's words were underwhelming.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "You're here? That's unusual. I didn't think you'd hang around in a place like the cafeteria.",
+      "tone": "nonchalant"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dante raised his coffee.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Just thirsty. What about you?",
+      "tone": "casual"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Iruki has had unusual tastes since he was young, and he doesn't buy food unless it's something special. This was because he thinks it lowers brain function.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Back when they were younger, their classmates found Iruki's behavior strange, but Dante thought it made sense.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "That's why, even though quite a long time had passed, he remembered Iruki's eating habits.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Iruki shrugged and walked over to the countertop.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Shirone didn't have dinner. I thought I'd grab something for him.",
+      "tone": "nonchalant"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dante nodded in understanding.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Yeah. How's Shirone doing?",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Well… Just so-so. But I think he's a bit shaken.",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dante meant it.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "Having exchanged high-speed information during Heaven's Trial match, Dante had experienced firsthand the vastness of Shirone's thought. He thought that he was absolutely not the type of person to stay in seclusion for something like this.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "That's… Shirone is extremely sensitive when it comes to his family.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "Apparently, he's really upset that Killain interviewed his parents without permission.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dante thought of Killain.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "She would have done more than enough.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "If Shirone's family knew how much the academy was in turmoil, the guilt they'd feel would be overwhelming.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Dante",
+      "content": "That was what bothered Shirone, and he was likely just waiting for the situation to pass as quickly as possible.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Hey, Iruki, are you really going to hang around with Shirone in this situation?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "One of the boys who had been badmouthing Shirone, James, suddenly stood up and pointed at Iruki.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "James",
+      "content": "If you're a Mercodyne, you're top household in the kingdom. Don't you feel betrayed? Shirone's way below you, yet he's been pretending to be on your level. And here you are, running errands for him like a servant—does that make sense?",
+      "tone": "accusatory"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Iruki, rather than getting angry, proudly wagged his finger.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Why wouldn't it make sense? First, Shirone is my friend. Right now, he's hungry. And most importantly, we already knew about Shirone's background. He's my friend, so of course, I'm helping him out.",
+      "tone": "proud"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "James gaped in bewilderment.",
+      "tone": null
+    }
+  ],
+  "source_hash": "c49c80f53cc6d4b5dd867adb59425e412f24014a4d913c1b321e3a438230d44f",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T17:55:35.028007+00:00"
+}

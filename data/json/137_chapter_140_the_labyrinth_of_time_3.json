@@ -1,0 +1,667 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tess also experienced the absorption of force, but she resheathed her sword without any sign of disarray, having executed her movements flawlessly, including distance control and reaching the peak of acceleration.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "All eyes were focused on the sphere as the number appeared.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "442.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was the first time someone had broken into the 400s.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The result, however, remained to be seen.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tess looked on without showing any emotion.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After a moment, the number vanished, and the sphere turned red.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Sigh, it didn't work. What a pity.",
+      "tone": "disappointed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tess turned around without hesitation, understanding the frustration of the others who had insisted on trying again, but deeming it beneath her dignity to do the same.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Warrior",
+      "content": "Damn it! Is this thing really broken? How could a sabre thrust score higher than a bludgeon?",
+      "tone": "angry"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The warrior raged.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It might wound their pride to be bested by a woman, given their reliance on brute strength, but from Tess's perspective, it was nothing short of pathetic.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Why bother arguing over the same failures? And managing strength is completely different from merely increasing it! Instead of just lifting rocks, maybe practice some technique?",
+      "tone": "exasperated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Warrior",
+      "content": "What? Are you mocking my strength? Can't you see these muscles? Do you have anything like this?",
+      "tone": "defensive"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Tess turned away as if disgusted by the sight.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Is it the end of the line for the swordsmen? Then it's my turn.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The archer stepped forward, drawing his longbow.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Given the results so far, it seemed unlikely that physical force alone would yield high scores.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Although arrows were also a form of physical attack, the archer was confident.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Archer",
+      "content": "You're planning to use that, I see.",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the mage noted, the archer removed the arrowhead from one of his arrows and took out a distinctly shaped arrowhead from a sturdy leather pouch at his waist.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The tip wasn't sharp but rounded like an almond, and it wasn't the usual steel color but a violet hue.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Hmm, good. Shall I give this a try?",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy's eyes lit up at the sight of the unique arrowhead.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was clear that this arrow could deliver a much stronger impact than ordinary ones.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Look, Shirone, it's a Magic Energy Bullet.",
+      "tone": "amazed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "A what?",
+      "tone": "confused"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone was familiar with Magic Energy Bullets from his lessons.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "They were made by infusing magic into Magistone, a rare mineral extracted in tiny amounts from nature.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The principles behind Magistone's formation remained a mystery, but its chemical reaction to specific natural phenomena was well established.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "For example, Magistone related to lightning could be collected from dry highlands or rainforests where thunderstorms were common.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Once harvested, the mineral exhibited an affinity for certain phenomena, and magi-engineers had succeeded in storing magic within it.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "However, such achievements were merely lab science, far from practical application.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "To utilize Magistone in everyday life required material science to convert it into energy and mechanical engineering to consume it in various forms.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The entire process from mining to consumer use represented a significant industry, employing numerous people and vast capital.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "And among the top fields in this industry was the creation of lethal weapons, such as Magic Energy Bullets.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "How does it compare to the magic we use?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Archer",
+      "content": "It's not particularly powerful. The real advantage is that it allows non-mages to use magic. Each of these probably costs about 1 gold, even though the Magistone in an arrowhead weighs only about 10 grams.",
+      "tone": "informative"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone was astounded.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Just one shot cost 1 gold. How much money was spent on the 3,000 archers' barrage of Magic Energy Bullets mentioned in history books?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Amazing. I wouldn't dare to use something that expensive.",
+      "tone": "impressed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Archer",
+      "content": "We're mages, so it's natural to think about cost. But in a real battle, having Magic Energy Bullets can be a matter of life and death. A single shot could save you from a hopeless situation.",
+      "tone": "serious"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "I see. But you seem to know a lot about it. They don't teach us this in class.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I only found out recently. My eldest brother visited home because of a deal involving archery units and Magic Energy Bullets. He's been suspecting corruption in the deal for over a year but couldn't pinpoint where the money was leaking. Out of curiosity, I asked Nade, and he knew everything from the process to the technology.",
+      "tone": "informative"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Nade? When did you ask him about that?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You were unconscious, and school was suspended. I heard rumors he created an Invisibility Cloak. If he could do that, it's quite a feat. Nade could probably make Magic Energy Bullets too.",
+      "tone": "impressed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "What? He can make those expensive things himself?",
+      "tone": "surprised"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Didn't you know? Are you really best friends?",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Ha, well, Nade always shows me weird stuff. Like a never-stopping carriage or a doll that dances twelve funny dances.",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Having the technology doesn't mean you can use it. It's a state monopoly, so without a license, it's illegal arms manufacturing. Still, ask him to make one for you when you're bored. If you ask, he'll probably do it. Magistone can be bought cheaply from the Alchemy Foundation.",
+      "tone": "informative"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone and Amy conversed, the archer disengaged the safety on the Magic Energy Bullet.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Impact-reactive Magic Energy Bullets must always be secured with a safety device when not in a danger zone. An accidental activation from, say, being hit by a carriage could blow off a leg.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Archer",
+      "content": "Hey, I'm going to use a Magic Energy Bullet now. It's called a Lightning Arrow. Stay back, or you might get hit.",
+      "tone": "cautionary"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone and his group retreated as far as possible within the viewing range.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They anticipated the Mysterious Sphere to absorb the magical power, but caution was warranted.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the archer drew the bowstring taut, the tension in the air seemed to rise.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then, with a twang, he released, and the arrow whistled as it struck the Mysterious Sphere.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "twang",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Magic Energy Bullet reacted, unleashing a powerful lightning bolt.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "BOOM",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "However, the blue electricity occurred only within the sphere.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "As expected, it absorbed even the magical power.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After about 3 seconds of flashing, the sphere calmed down.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Everyone awaited the score, thinking it was worth the cost.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "1,020.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "A four-digit score appeared, and the archer's lips curled up.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Archer",
+      "content": "Damn! What a waste of money, huh?",
+      "tone": "frustrated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "It's not entirely a loss. You seem unharmed, at least. Are you okay?",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Prompted by Amy's question, the archer checked his condition.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Unlike the swordsmen who felt weakened in their legs, he felt fine.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Archer",
+      "content": "Huh? Right. It seems the Mysterious Sphere doesn't drain an archer's strength. It must only measure impact damage.",
+      "tone": "understanding"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "That's another piece of information. Will you try again?",
+      "tone": "encouraging"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Archer",
+      "content": "No, thanks. Using different attributes doesn't seem to make much difference, and it's unlikely I'll pass with this. Just a waste of Magic Energy Bullets.",
+      "tone": "resigned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Then it's the mages' turn, right? Shirone, who should go first? You or me?",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Why don't you give it a try? I'm next, so we can clearly see who's stronger.",
+      "tone": "encouraging"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Alright. Shirone, I'll go first then?",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes, show your skills. Good luck!",
+      "tone": "supportive"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone believed Amy had a chance.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Her specialty was attack magic, particularly the fire element, and her Target Type emphasized single-shot power.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Fire element magic has always been a powerhouse in the magic world due to its destructive capability, despite the myriad of magic types and trends.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "However, Amy proceeded with caution, calculating which spell to cast while standing at the altar.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "It's trickier than I thought. Sniper Mode is too close for comfort. Should I just go with a Target Type attack? But that might reduce the power.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Unlike the Absolute Zero limit of the Ice element, the Fire element had no upper limit on temperature increase.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Many mages chose fire for its limitless potential, but even high-level ones struggled to breach the 1,000°C barrier.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Yet, fire remained powerful because most things on the planet were under its dominion.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Life, trees, and most metals except iron succumbed to heat energy.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "But Flame Strike becomes more powerful with distance. Maybe focusing on fire would be better in this case?",
+      "tone": "considering"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Considering the Mysterious Sphere measured both impact and magical power, opting for a Pure Type that could purely increase temperature might be a strategic move.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Deciding on her approach, Amy settled on 'Fireball'.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Two flames ignited in her palms.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Originally spherical, they took on a droplet shape due to the nature of fire, soaring upwards.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The density of magically created fire differed from real fire, allowing fire mages to control its density and thus its temperature.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Higher temperatures also meant a wider range of the flame.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy twirled her wrists, holding the flames, and launched a lava-red fireball, trailing like a comet.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the fire engulfed the Mysterious Sphere, it seemed to inhale the blaze, creating a whirlwind of flames within.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The score finally appeared, drawing gasps from the crowd.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "3,270.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was a record-breaking score, and it seemed unlikely to be surpassed given the results so far.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Archer",
+      "content": "The archer realized Shirone's group was not just ordinary students.",
+      "tone": "impressed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Archer",
+      "content": "His Lightning Arrow, enhanced by a Magic Energy Bullet, scored 1,020. But a basic spell like Fireball tripled that power, indicating a significant difference in magical levels.",
+      "tone": "analytical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "What the hell? What more does it want?",
+      "tone": "frustrated"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Frustration boiled over at the unexpected failure.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ho ho ho! Is it my turn now, after the kid?",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Hold on! I'll try Sniper Mode. I'll settle this once and for all today.",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Calm down first. Anger will only scatter your focus and lower your score.",
+      "tone": "cautionary"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Argh, seriously! Shirone, I'm definitely trying again, okay?",
+      "tone": "exasperated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "As Amy returned to the altar, the mercenary mage looked back at her.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "How coincidental, another fire mage? I specialize in fire magic too. To match your level, I'll also use Fireball.",
+      "tone": "confident"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Hah, as if you had a choice.",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Amy snorted dismissively. After all, losers shouldn't talk back. She was annoyed even at the thought of responding.",
+      "tone": null
+    }
+  ],
+  "source_hash": "3602038ee10da77762c16a5f2bc75a96e5145e71506766fff81a81e5771ee087",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T16:10:46.336233+00:00"
+}

@@ -1,0 +1,121 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone led his parents to the reception room.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Having cried his eyes out since the front gate, the three of them walked the hallway with puffy eyes.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It would take time to compose themselves.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Whether the meeting would be prolonged or not was up to Clump's consideration, but Shirone would have plenty of time to reunite with his parents in the reception room.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vincent",
+      "content": "Let me see, my son. Your face has weathered much since I last saw you. You've suffered. Truly suffered.",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tears welled up in Vincent's eyes again.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Though Shirone looked healthier than before, to his parents, it only seemed like he hadn't eaten or slept properly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I haven't suffered. I had fun reading books and passing the time. How have you been, Father?",
+      "tone": "defensive"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Of course! I ate well and lived well.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Look how plump your mother has gotten.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "We almost had another child because she became so pretty. Hahaha!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vincent's mother",
+      "content": "Dear, what nonsense are you spouting in front of our son?",
+      "tone": "exasperated"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone smiled sadly.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "After a year and six months apart, his parents looked much thinner.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "No doubt they had worried about him every day, unable to eat properly.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "The thought made his heart ache again.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Vincent suddenly grew curious.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "At first, he had been frantic, thinking something had happened to his child, but seeing Shirone so composed, it didn't seem like anything bad had occurred.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Vincent",
+      "content": "So, why did you call us here? If your work is done, you could have just come home. Don't tell me they're trying to keep you here against your will?",
+      "tone": "inquisitive"
+    }
+  ],
+  "source_hash": "13f52ccc48b4057ce0e842c4b17839707726d59e0a38e3aae78d6f6686572277",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-10T10:22:31.766899"
+}

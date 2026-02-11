@@ -1,0 +1,541 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "As the courage of truth ended, an elderly teacher walked out of the senior class building."
+    },
+    {
+      "type": "action",
+      "content": "It was Collie, the head teacher of the senior class."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "Is the event over?"
+    },
+    {
+      "type": "action",
+      "content": "It was rare for advanced class students to see the face of the senior class teacher, but Collie was a familiar figure even to Class Three."
+    },
+    {
+      "type": "narrator",
+      "content": "This was because, during the six-month period when Alpheus stepped down as principal due to the Arcane incident, Collie temporarily served as acting principal until Olivia took over."
+    },
+    {
+      "type": "action",
+      "content": "Although officially ranked as a 6th-grade teacher, Collie was recognized for decades of dedication to teaching, even if not as skilled as Shina, Etella, or Saad, who were more ability-based."
+    },
+    {
+      "type": "narrator",
+      "content": "In any organization, there are those who rise to executive positions at a young age, and those who remain as managers or department heads for years."
+    },
+    {
+      "type": "narrator",
+      "content": "However, Collie's eye for evaluating abilities was considered superior to that of younger teachers, so no student let their guard down."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "Nice to meet you. I am Collie, the head teacher of the senior class."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student",
+      "content": "Hello!"
+    },
+    {
+      "type": "action",
+      "content": "The students of Class Two were more enthusiastic than those of Class Three."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "From now on, we will have the senior class orientation. Class Three, follow me, and Class Two, enjoy a short break. You know what to do without me saying it, right?"
+    },
+    {
+      "type": "action",
+      "content": "The faces of Class Two turned pale."
+    },
+    {
+      "type": "narrator",
+      "content": "However, they did not mind looking grim, as this was the authority of those who had experienced it first."
+    },
+    {
+      "type": "action",
+      "content": "Collie led Class Three to the conference room on the first floor of the building."
+    },
+    {
+      "type": "action",
+      "content": "It was empty and a bit cold."
+    },
+    {
+      "type": "action",
+      "content": "As the ten students sat around the end of the long table, Collie climbed onto the podium across from them."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "From now on, you will have no time to learn anything at school."
+    },
+    {
+      "type": "action",
+      "content": "At Collie's words, the chatter ceased."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "Basic education ended in the advanced class, and the senior class serves only as a link between school and society. The most important thing here is whether your skills can be applied in real life."
+    },
+    {
+      "type": "thought",
+      "speaker": "Student",
+      "content": "I can apply them."
+    },
+    {
+      "type": "action",
+      "content": "Everyone had the same thought."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "You were born with talents different from ordinary people, so the school did not treat you as mere children to be taken care of. It may sound inhumane, but if you die during class, 50% of the responsibility lies with you. If it's ambiguous to express in numbers, let me put it this way: the school compensates for your death but does not take responsibility."
+    },
+    {
+      "type": "action",
+      "content": "This was something mentioned during the magic school entrance orientation."
+    },
+    {
+      "type": "narrator",
+      "content": "However, Collie's words were much more blunt."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "And the senior class is different. 100% of your life is your responsibility. From now on, this place is not a school but a cooperative institution of the Kingdom's Magic Association, determining whether you can be immediately deployed as a force in the field."
+    },
+    {
+      "type": "action",
+      "content": "Collie held out a card."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "This is the evaluation teacher certification issued by the Graduation Exam Evaluation Office. From today, all evaluations I record will be formalized and submitted to the association. Additionally, all institutions under the World Red Line have exclusive access to this information."
+    },
+    {
+      "type": "action",
+      "content": "An unknown chill spread."
+    },
+    {
+      "type": "action",
+      "content": "The days spent in the advanced class were no longer remembered."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "Now, I will explain the senior class schedule."
+    },
+    {
+      "type": "action",
+      "content": "As Collie pulled a golden thread, a tent displaying the senior class evaluation items was lowered."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "This is the senior class schedule. It runs for a total of 30 weeks, with six evaluation items rotated weekly."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pandora",
+      "content": "Can we take notes?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "No. The first day's evaluation is interpersonal combat. The 30 senior class students will change opponents weekly, with 3 points for a win, 1 point for a draw, and 0 points for a loss. In other words, you will face everyone once over 29 weeks. There is no interpersonal combat in the last 30th week to avoid affecting the graduation exam."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Boyle",
+      "content": "I have a question. You said a draw is 1 point, but can there be a draw in a duel?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "The one whose mental strength gauge reaches zero loses. However, if both reach zero simultaneously or if there is no winner within the 10-minute limit, it is considered a draw, and each gets 1 point."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "So, there is a time limit."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone thought that interpersonal combat was optimistic since there were majors not specialized in combat in the senior class."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "However, if they strategized defensively, they could endure 10 minutes and earn 1 point."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "The second day's evaluation is mental activity. The location is the Image Zone training ground. Geometric filters made of holograms approach every 3 seconds. You must transform the Spirit Zone to pass through the filters without touching them. The difficulty increases weekly, and points are awarded from 5 to 0 based on success."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Ugh, that sounds really tough."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone had also transformed the Spirit Zone to rescue hostages in the Gold City of Bashka."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "However, it was a challenging task due to its durability."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "It wouldn't be a difficult item for me."
+    },
+    {
+      "type": "thought",
+      "speaker": "Canis",
+      "content": "You must get full marks on that."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Arin",
+      "content": "Of course."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "The third day is tactical strategy. It is a group evaluation. The 30 students are divided into six groups based on their rankings from 1st to 30th, and the five members of each group will face simulation monsters in the 2000 training ground. The group that completes the task first gets 5 points, and the last group gets 0 points."
+    },
+    {
+      "type": "action",
+      "content": "Despite the brief explanation, the students realized the seriousness of the situation."
+    },
+    {
+      "type": "narrator",
+      "content": "A rule that ensures someone gets 0 points."
+    },
+    {
+      "type": "narrator",
+      "content": "And collective responsibility."
+    },
+    {
+      "type": "narrator",
+      "content": "While dividing by rank might mean similar levels, responsibility within the group would still be assigned. Conflicts among group members were inevitable."
+    },
+    {
+      "type": "narrator",
+      "content": "Of course, it was natural that the group with 0 points would have a higher probability of such conflicts."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "The fourth day is specialty enhancement. There are 20 evaluation items prepared according to the major. Each item is divided into 10 levels, and 1 point is awarded for each level. For reference, the 10th level difficulty for the 'caloric' item in the fire category is 1000 degrees Celsius."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Master level difficulty is 1000 degrees Celsius?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "It was not a student-level difficulty."
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "So, it's a professional-level achievement."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "Specialty enhancement cannot be duplicated. Once you reach a certain level, the points for the previous level are erased. You will register your major during the individual interview tomorrow, so decide carefully."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "That's what it means..."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "If you pass the master level and get 10 points, you can't get any more points."
+    },
+    {
+      "type": "narrator",
+      "content": "However, since you can adjust the points voluntarily and get high scores early on, it was an item that would be a major variable in the competition."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "The fifth day is cognition and judgment. The location is the Virtual Zone. You all experienced it during the entrance test."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone also took the test in the Virtual Zone."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "She counted the number of balls and described the feeling of hot and cold."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "But the senior class is on a different level. You will experience extreme situations. The key is how long you can survive based on your judgment. This is also graded from 5 to 0 points based on the level."
+    },
+    {
+      "type": "action",
+      "content": "Shirone rubbed her face."
+    },
+    {
+      "type": "action",
+      "content": "Other students who had confidently passed the steel door also looked grim."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "The sixth day's evaluation is omnipotent implementation. This is also conducted in the Virtual Zone. For example, if the problem is to raise the temperature from minus 27 degrees Celsius to 3 degrees Celsius, you must solve it using the 36 basic regulation spells designated by the association."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Omnipotent implementation was also challenging for Shirone."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Although she scored over 80 in all subjects in the theory exam, it wasn't a competitive edge since other students were the same."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "These are the six evaluation items you will take each week. You will rotate through these for 30 weeks, earning points and having your rankings updated daily based on the total score."
+    },
+    {
+      "type": "sfx",
+      "content": "Thud! Thud!"
+    },
+    {
+      "type": "action",
+      "content": "As Collie finished speaking, some students banged their heads on the table."
+    },
+    {
+      "type": "action",
+      "content": "Shirone also folded her arms and lay down."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "She just wanted to sleep."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Is this the first week's evaluation? Amy, how did you endure a year here? No, how did you even think of doing this again?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "Rest if you want. You are semi-professionals. But if this is too much for you, you won't be able to graduate."
+    },
+    {
+      "type": "action",
+      "content": "The students slowly raised their upper bodies."
+    },
+    {
+      "type": "action",
+      "content": "They had a look of 'Let's hear what else there is.'"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "There is an overall evaluation. It is held on the last holiday of every four weeks and includes items almost identical to the graduation exam: 'interpersonal combat,' 'hill occupation,' 'magic operation,' 'finishing move,' 'survival,' and 'tactical strategy.'"
+    },
+    {
+      "type": "action",
+      "content": "It was like a mock graduation exam."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "The overall evaluation allows free group formation. You can form groups with whoever you want. Winning the overall evaluation gives you 20 points. Conversely, losing deducts 20 points."
+    },
+    {
+      "type": "action",
+      "content": "The students murmured at the significant point allocation."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "This is... too cruel."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "Assuming you get full marks in all subjects until the 30th week, the highest score an individual can achieve is 87 points for interpersonal combat, 150 points for mental activity, 150 points for tactical strategy, 150 points for cognition and judgment, 200 points for specialty enhancement, and 300 points for omnipotent implementation, totaling 1,037 points."
+    },
+    {
+      "type": "action",
+      "content": "Numbers started spinning in the students' heads."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "Adding the 120 points from winning all six overall evaluations, the maximum score is 1,157 points. According to statistics, the average score required to graduate is 1,000 points."
+    },
+    {
+      "type": "action",
+      "content": "1,000 points..."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Shirone's mouth hung open."
+    },
+    {
+      "type": "narrator",
+      "content": "It was a figure that required achieving 86.4% of the total possible points."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "Evaluations are conducted daily except on holidays, so rankings change daily based on scores. While the difficulty is low at the beginning, making the rankings less volatile, it becomes more common for rankings to fluctuate as the weeks progress. This is your one-year journey."
+    },
+    {
+      "type": "action",
+      "content": "A solemn silence filled the conference room."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "1,000 points? That's not easy. This is really not easy."
+    },
+    {
+      "type": "action",
+      "content": "It wasn't just about being good at combat or having exceptional talent."
+    },
+    {
+      "type": "narrator",
+      "content": "It was about being evaluated on everything required of a magician."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "Now, let me tell you the most important thing."
+    },
+    {
+      "type": "action",
+      "content": "The students' gazes turned back to Collie."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "The senior class schedule starts in two days, and evaluations will be conducted over 30 weeks. And you..."
+    },
+    {
+      "type": "action",
+      "content": "Collie lowered the baton and clasped his hands behind his back."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "You have the right to refuse all these evaluations."
+    },
+    {
+      "type": "action",
+      "content": "The conference room buzzed with the sound of minds processing this information."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sabina",
+      "content": "So, we can refuse the evaluations?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "Yes. To be precise, the scores from the evaluations do not affect the outcome of the graduation exam. If you pass the exam, you graduate, even without participating in the evaluations."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sabina",
+      "content": "Are there any restrictions if we refuse the evaluations?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "There are no specific restrictions, but students who refuse the evaluations are barred from entering the training grounds."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Then what are the benefits of taking the evaluations?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "It seems there's a misunderstanding. I said you are semi-professionals. This isn't homework. There are no benefits for doing it or disadvantages for not doing it. The decision is yours."
+    },
+    {
+      "type": "action",
+      "content": "Collie leaned over the podium."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "On the day of the graduation exam, scouts from the Red Line associations of various countries will be dispatched. For the top five prestigious schools, dozens of scouts from different countries will attend."
+    },
+    {
+      "type": "action",
+      "content": "The students' eyes shone intensely."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "According to Red Line regulations, the school is obligated to provide your profiles. For the scouts, this adds depth to their judgment, but if your evaluation scores are a mess, it will be detrimental. This is about how you will shape your own lives, not about the school."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "I see. Graduation isn't everything anymore."
+    },
+    {
+      "type": "narrator",
+      "content": "The Red Line operates a trade system to prevent line departures of affiliated magicians."
+    },
+    {
+      "type": "narrator",
+      "content": "While the first negotiation rights belong to the national association, if negotiations fail, it's not a problem to take them by paying a transfer fee."
+    },
+    {
+      "type": "narrator",
+      "content": "What major will you choose, which institution will you join, and what will you ultimately achieve in your life?"
+    },
+    {
+      "type": "narrator",
+      "content": "From the moment you enter the senior class, your life as a magician has already begun."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Collie",
+      "content": "This concludes the orientation. Tomorrow, there will be individual interviews, so choose your major carefully today."
+    }
+  ],
+  "source_hash": "e810cef70530fc9d0f0b123d4b4e123b00484f727025725860097f74721ba112",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T05:26:06.859804Z"
+}

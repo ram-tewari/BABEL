@@ -1,0 +1,931 @@
+{
+  "blocks": [
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "It's estimated that Master went to heaven around 80 years ago. Do you know what that means?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No, I don't.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "The rank assigned to Master by the Magic Association was different before he went to heaven and after he returned. In other words, he became an Archmage after realizing something in heaven.",
+      "tone": "explaining"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Every mage dreams of becoming an Archmage. Knowing this, it doesn't make sense not to go to heaven.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone had to agree.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "If Arcane had become a third-class mage after returning from heaven, it meant there was something in heaven that had awakened him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Seeing Shirone waver, Canis revealed the last piece of information he had.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "Most of the notes left by Master were just words, but at the end, there was a single sentence.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What did it say?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "It was something like this: 'That place is the origin of everything. The source of Schema and...'",
+      "tone": "mysterious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian's eyes lit up.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Schema?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ignoring him, Canis continued.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "Forgotten ancient magic…",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Ancient magic?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Tess shouted.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Ancient weapons!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Canis frowned.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "...Are you doing this on purpose?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Hohoho! Sorry, please continue.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Annoyed by Tess's jest, Canis eventually recited the entire sentence.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "It was written like this: 'I leave this at Metagate.'",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was a note left to prevent those unaware of heaven's existence from accessing the information.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even Harvest, who inherited Arcane's memories, had wandered the continent to find the secret location.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The fact that he had gone to such lengths to obscure it showed how much he didn't want this information to be known.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Nevertheless, he left a record... perhaps it was an inescapable mischievous streak.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Though it was just a single sentence, the note contained crucial information.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "First, heaven had Schema and magic.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Therefore, it was likely inhabited by humans.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Additionally, ancient relics would likely be piled high there.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "Arcane was saying through the note: 'Examiners and mages of the world, beyond the Metagate lie mountains of ancient relics.'",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "So, what were these ancient relics? No history book mentioned them.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "A prehistorical world awaited them.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The origin of humanity, which no scholar had unveiled, might be hidden somewhere in the immeasurable sky.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "I've told you everything I know.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "The conclusion is, we will go there.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "To honor Master's will and to further our magic.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "Arin and I have agreed on this.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "Whatever happens, there will be no resentment.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "I-I want to go too!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "If Amy's going, then so am I! Shirone, let's go!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No. I'm not taking anyone. I'm not going either.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Everyone was dumbfounded by Shirone's words.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It was too precious to give up just like that.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "This was an opportunity that no mage in the world would ever have.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Didn't Arcane also reach the rank of Archmage after gaining enlightenment in heaven?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "I know it's dangerous. But doesn't Canis have a way back?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "That's not the point.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "Whether there's an exit or not doesn't matter.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "Just because I can open the gate to heaven doesn't mean I should put you all in danger.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Canis gritted his teeth.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He had known Shirone's philanthropic spirit was like a cliff you couldn't cross.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "That's why he had crafted a meticulous plan to bring them to this point.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "If you're that scared, then don't go. But we had a deal.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You have to let Arin and me through heaven's gate.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "No. I won't let you go either.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "You bastard! Are you betraying us now?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Think whatever you want.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "But now you're a fellow student at our school.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I can't open the gate and send you to your death.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Who asked you to worry about my life?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "I'll handle my own affairs!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "And we can always come back!",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Put yourself in my shoes.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "If you were me, could you ask us to go through heaven's gate?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Could you ask us to go to the star we just saw?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "'No, not even if I died.'",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "That was the issue.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was a matter separate from the risk.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Lost in thought, Amy flicked Shirone on the forehead.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone, holding his stinging forehead, looked at her in disbelief as Amy spoke.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Of course, I'd say let's go to heaven.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "This is a once-in-a-lifetime opportunity.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Amy was lying.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Worrying about a friend's safety also hinders clear judgment.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "She thought it best to lessen Shirone's burden first.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Don't lie.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "This is really dangerous.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Even with the Metagate, do you know where it leads?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "We're not going to come right back.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "The more determined we are to go, the greater the risk.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Why don't you understand that?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Then why did you bring me here?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What? That's…",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "You said you'd feel reassured with me.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Isn't that why you came to my house?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Or what, were you planning to go sightseeing with a girl?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy aggressively pressed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone was speechless.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He had a responsibility for bringing a senior student here, wasting valuable time.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "I feel the same.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Even if you open the gate, it's my choice to follow or not.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "You don't need to worry about that.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Besides, if we're going, Rian and I would be a great help.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In any party, a swordsman was crucial.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "They had the bravery and animal instincts that mages lacked.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "A second they created could be a life-or-death moment for a mage.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone hesitated, someone knocked on the door.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Canis hid the Metagate.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The knocker waited for permission before entering.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When Shirone allowed entry, Mahatu walked in.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "An unwelcome guest.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "I apologize for earlier.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It's fine, I've forgotten about it.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Of course, Amy hadn't.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But she let it slide, suspecting Mahatu had another reason for his visit.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "Are you going to heaven?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone didn't answer.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "Please don't go.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Canis",
+      "content": "What are you talking about? Don't go?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Mahatu crossed his arms.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As he inhaled, his muscles swelled, and a powerful aura emanated from his eyes.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was an overwhelming presence.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone's group felt as if they were being pushed back.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Maybe they were.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If he had added killing intent, they wouldn't have been able to breathe.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Not intending to offend, Mahatu quickly withdrew his presence.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But the air was still heavy.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "I apologize for overstepping.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "No one thought Mahatu's apology was sincere.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "I cannot go to heaven.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "I failed to prove my strength in the Room of Accomplishment and Sacrifice.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone understood Mahatu's intent.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He was indicating the difficulty of heaven based on his own strength.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "Do Kergosians also take the test?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "Of course. Proving one's strength in the Room of Accomplishment and Sacrifice grants a Kergosian warrior the right to go to heaven.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "But to go there…",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "Yes. An Unlocker is necessary.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "When the gate to heaven buried in volcanic ash was restored, many went to heaven.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "But few returned.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "Therefore, Miro established the Room of Accomplishment and Sacrifice to verify strength.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "Though Unlockers are an exception, it's best not to go unless you can pass the test.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "The fact that few had returned was surprising, but it was even more shocking that Mahatu mentioned Miro's name.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "How do you know Miro? Did you meet her?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "No, but most leaders know of her.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Can you tell us more? We came here to learn about Miro.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "Indeed, I see.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Mahatu understood why Shirone hadn't been swayed by gold or women.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Someone connected to Miro was certainly different from the usual indulgent Unlockers.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "500 years ago, the Kergos civil war broke out.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "It was a conflict between those who followed the angels and those who opposed them.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "The anti-angel faction won.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "But a sudden volcanic eruption nearly wiped out the tribe.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "The angel followers saw the eruption as a disaster sent by the angels.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Scholars were wrong to think Lupe started the civil war.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The involvement of angels made it a top-secret known only to Kergo's high-ranking officials.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "250 years later, an outsider named McClain Goffin visited.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "He was an Unlocker like you, Shirone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "He restored the Kergo ruins buried in volcanic ash and opened the gate to heaven.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "We call that gate Goffin's Gate.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "But it caused another turmoil.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "The conflicts from 250 years ago reemerged.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "This time, the angel followers won, changing the regime.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mahatu",
+      "content": "That's the current Kergos.",
+      "tone": null
+    }
+  ],
+  "source_hash": "b95e3345f026dd0ae81a2f7457e0bbc73aca68b1e653a1098405d5147d049495",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T16:39:16.395655+00:00"
+}

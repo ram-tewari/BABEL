@@ -1,0 +1,781 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marguerite doubted his eyes and checked the scan information again.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "Is this really a human?",
+      "tone": "doubtful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If the liquid in the scanning device were transferred to the real world, it would be closer to a 'feeling' than a substance.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It read the records engraved on the soul, called Yeongja, and this was the hidden code used in the Karma Chain.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "Physical growth index, 22 years by photon system standards.",
+      "tone": "neutral"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It captured the very process of his life, so Rian's age couldn't be wrong.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "But... Physical ability index, 16,000 years?",
+      "tone": "surprised"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In conclusion, Rian had approximately 730 times the training intensity for his age.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "It's not a physical number. A living body isn't like that. But 730 times the training intensity far surpasses human limits.",
+      "tone": "analytical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It's not about underestimating humans; no living creature could achieve this.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "If it were just enduring great pain, it could be done reluctantly, but... Training intensity is different.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It requires the will to break limits. If training to the point where you can't take another step is intensity 1, this body has done that 730 more times.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "An incredible will or belief.",
+      "tone": "impressed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Of course, humans are a species with high physical ability indices. Demons are just born strong. But 730 times is a level no yaksha I know can imitate.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone and Rian approached.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Did you find out anything?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Swallowing his saliva, Marguerite turned to Rian and took in his appearance.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "Rian...",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Imagining the path he had walked sent shivers down his spine and a strong impulse surged.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "The pinnacle of life, no, a new body model that transcends the limits of life. How much time must humanity pass to evolve into this body? No, it's impossible. As civilization develops, creatures will become lazier. Therefore, this is not evolution, but rather devolution.",
+      "tone": "philosophical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marguerite pointed at Rian.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "And the extent of this devolution is the history of the universe. It's not just returning to the source but defying even the first model of life, the pinnacle of negative evolution! In other words, it's like a diamond that has been reborn into another substance after enduring heat and pressure for a long time. This change has occurred in the body of a living being!",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone, who had been listening blankly, spoke.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hey, I appreciate you praising my friend, but shouldn't you keep that to yourself?",
+      "tone": "cautious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Mercede raised a finger and explained.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mercede",
+      "content": "The duke is the smartest demon in hell. But he's a man of few words, so other demons can't read his great thoughts. When he's really impressed, he can't help but speak. It's not a common occurrence. You should consider it an honor.",
+      "tone": "respectful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marguerite spoke.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "Really? He's changed a lot.",
+      "tone": "neutral"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They say you become like a child as you age.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "Ahem, that was unseemly. I apologize. But that's how remarkable this body is. Of course, that alone can't break the chains of Gehenna. It's probably the unique spirit that gave him this body.",
+      "tone": "apologetic"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian said.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Well, I'll investigate that from now on. Let's check Yahweh's scan information. It feels strange. I never thought I'd analyze Yahweh's mind... Gasp!",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When he pressed the button, the engraving in the red liquid disappeared, and this time Shirone's information appeared.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "This, this can't be!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Arian Shirone.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The physical growth index was unmistakably 22 years.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "And the physical ability index was 32 years, the level of an ordinary person who had diligently trained their physical strength.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "What surprised Marguerite was the next item.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Mental ability index.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "520 million years.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "The number is the result of a state. It's not something you can reach by contemplating for 520 million years.",
+      "tone": "analytical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even Marguerite himself had lived over 500 million years, but his mental ability index was far below that.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "Depending on enlightenment, it's possible to reach it in an instant. But what is a 520 million-year mind? I've never even thought about such a realm of thought.",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It must be like the sea or the sun.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "The boundary between living and non-living? No, perhaps a new system that encompasses both. Is this Yahweh?",
+      "tone": "speculative"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marguerite turned sharply to Shirone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "The pinnacle of self-destruction. The only point where nothingness and existence meet after breaking all logic. How many dialectics must be repeated for such a mind to be possible!",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In other words, he is the Taiji itself.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "This is the nature of a god, the attitude of a god, the perspective of a god! There is no right or wrong, only the 'undefined entity' of that moment! It's like a mental vacuum! Ah! Why don't you erase the world with that powerful thought? Of course, because a god is indifferent! Then why help humanity? Only one reason, a miracle. A miraculous illusion triggered in a vacuum! That is the essence of Yahweh!",
+      "tone": "philosophical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After finishing his explanation with a gesture, silence flowed in the laboratory for a while.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "Well, it seems similar. Anyway, what are you going to do now? About the chains of Gehenna.",
+      "tone": "practical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marguerite, his excitement subsiding, slumped into a chair as if exhausted.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "Hoo. It seems it will take time to fix the purification system's error. It doesn't seem to be in the realm of 'malfunction.' It appears to be a phenomenon caused by the interaction of Rian and Yahweh's special properties with hell's system.",
+      "tone": "analytical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone didn't do anything.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "The hidden code acts before causality. It's not logical. For example, Yahweh's presence likely had a significant impact on you breaking the chains of Gehenna.",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian remained silent.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "But if the error continues, it will be inconvenient for you and cause damage to hell's system. The immediate stopgap measure is to control Rian's Gehenna. In other words, to make it independent of hell's system.",
+      "tone": "practical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Is that possible?",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "I don't know, it's unprecedented. But I have some theoretical hypotheses. The problem is karma. We need to create a new program that can bypass the Yeongja signal. For that, we need Yahweh's help.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "You want my help?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "From now on, what we're doing goes against hell's rules. Satan might find it amusing, but the Fire Management Company will certainly have a different stance. If they find out we helped Yahweh, we'll be stripped of our titles and purified.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Seeing Shirone's worried look, Marguerite clarified.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "Annihilation doesn't matter. I've lived long enough. But if rumors spread, it will be difficult to work. I really hate being disturbed while researching. I'll write a list, so ask for these items at the store. It's something I can't even ask my close aides to do.",
+      "tone": "practical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If the information leaked, it would be the end.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "If it avoids suspicion. But if Yahweh goes around getting things, won't there be disputes?",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Of course, it has to be done secretly. We'll erase Yahweh's unique smell, or code, if you will. No one will notice your identity, so you can do it comfortably.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "First...",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "As Marguerite quickly explained, Mercede bit her lip.",
+      "tone": "neutral"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mercede",
+      "content": "This is serious. The duke is really into it.",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "From what she knew, when Marguerite decided to do something, not even Satan could stop him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "The Fire Management Company won't stay still. If it reaches Lethe's ears, the duke will be... The succubus clenched her fists tightly.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "I'll protect him. I'll make sure it doesn't reach her ears.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Rian's laughter was heard.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Impressive, Shirone? You look just like a demon. It's a shame to see it alone.",
+      "tone": "teasing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone stood in front of the mirror.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What is this?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "His height had shrunk by a head, his skin was red, his hair was black, and small horns protruded from both sides of his forehead.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even fangs.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When he opened his mouth, sharp fangs like thorns were perfectly aligned with his teeth.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "I changed everything except your facial features. In terms of functionality, it's not particularly strong in hell. It's better to not stand out while working.",
+      "tone": "practical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "It's not just that, you look completely weak. I've never seen such a gentle face among the demons I've fought.",
+      "tone": "teasing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "There's nothing I can do about having a gentle face. If you want, I can change you into a completely different form. Something like three meters tall with eight arms.",
+      "tone": "joking"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "...No, it's fine.",
+      "tone": "resolute"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "I think so too. There's no need to feel uncomfortable. This is more like makeup than transformation. The key is to hide Yahweh's code. Try to act like a demon as much as possible. The suppression rate is 7%. If you get more than 93% close to Yahweh, the makeup might disappear.",
+      "tone": "practical"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "7%.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It required the level of method acting of an amateur actor, but it was indeed awkward.",
+      "tone": "self-deprecating"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Here's the list.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hmm, this method...",
+      "tone": "thoughtful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Based on Omega's information, Shirone, who had drawn the guidelines, put the note in his pocket.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Well, I'll be back.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Seeing the red demon in loose clothes, Rian felt a strange calmness.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Be careful. Don't respond if someone picks a fight.",
+      "tone": "concerned"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Haha, it's fine. I won't get beaten up somewhere. I'll get the items quickly.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone, dragging his pants, walked to the door, he looked back at Marguerite.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You haven't forgotten the deal, right?",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "No matter how Rian's problem was solved, it had to be in a form that could break Jin Seong-eum's chains.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marguerite",
+      "content": "Understood.",
+      "tone": "resolute"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Meanwhile, an unexpected guest was flying towards the walls of Laviette city.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Aaaah!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The one trailing a scream left a long cloud of jet stream behind.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the head-only Ricera's consciousness faded, his eyes rolled back, and inertia disappeared.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Oops.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Son Yu-jung glanced at the city wall.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Son Yu-jung",
+      "content": "Hey, this is the place, right? There's only this one city around here.",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ricera",
+      "content": "Huh? Oh, yes.",
+      "tone": "distracted"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Ricera, who had almost regained his senses, shuddered at the sight of the human faces embedded in the wall.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ricera",
+      "content": "Eek! It's really Laviette!",
+      "tone": "alarmed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was his first time seeing it in person, but he had heard that most humans captured by the Black Chains were used here.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Halt. Who goes there?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The two demons who had blocked Shirone two days ago pointed their spears at Son Yu-jung.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Son Yu-jung",
+      "content": "I heard there's a duke or something in this city. Go call him. Or I'll go myself.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The demons looked at each other.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As gatekeepers of Laviette, they were known for their patience, but Son Yu-jung's words clearly crossed the line.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Heh heh heh! Heh heh heh!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As their murderous intent flared like fire, the two demons lost their reason and charged with their spears.",
+      "tone": null
+    },
+    {
+      "type": "sfx",
+      "speaker": null,
+      "content": "Hoooh!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Even at the sight of the ghostly faces burning with murderous intent, Son Yu-jung calmly drew her staff.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Son Yu-jung",
+      "content": "Arrogant monsters.",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Boom!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The ground-shaking roar made the demons living in the city turn with surprised expressions.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Quickly! Hurry!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Moments later, an armed security force ran in double file towards the city gate.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Demon",
+      "content": "Huh? What's going on?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Demon",
+      "content": "What's happening? Where is everyone going?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The demon with hair as hard as blades looked down and nodded.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Demon",
+      "content": "You're still young, so you don't know. Those are the duke's security forces, deployed only in emergencies. They say the city gate has been breached, but it's probably just some low-level demons.",
+      "tone": "explanatory"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Hmm.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Well, I'll be back.",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Seeing the edge of the city.",
+      "tone": null
+    }
+  ],
+  "source_hash": "5ed4b72d2ad8b0a330e58b1b3740d3673daeaec447f3b613ad9c7b8818c2bf61",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T08:25:25.189055+00:00"
+}

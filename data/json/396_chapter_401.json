@@ -1,0 +1,579 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "Shirone handed Plu a cup of coffee and asked if she had any spare clothes."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "I had used everything on the way. Bandages, ropes, and other emergency items had been necessary."
+    },
+    {
+      "type": "action",
+      "content": "After changing into the clothes Shirone gave her, she took some time to recover her strength and explained the situation."
+    },
+    {
+      "type": "narrator",
+      "content": "The reason Gaold hadn't been captured was due to his near-paranoid distrust of people."
+    },
+    {
+      "type": "narrator",
+      "content": "Or perhaps it was because his desire was so desperate that he couldn't trust anything in the world."
+    },
+    {
+      "type": "action",
+      "content": "This was evident from the one iron rule Gaold had set when he started his project 20 years ago."
+    },
+    {
+      "type": "narrator",
+      "content": "If even the slightest variable occurred, cancel all plans and monitor the situation."
+    },
+    {
+      "type": "action",
+      "content": "There was a time when Gando had been absent from the Magic Association for about two hours without reason."
+    },
+    {
+      "type": "narrator",
+      "content": "It might have been a personal matter that could happen to anyone."
+    },
+    {
+      "type": "action",
+      "content": "But Gaold didn't let it slide. He disbanded his inner circle and left the association himself."
+    },
+    {
+      "type": "narrator",
+      "content": "However, the royal response was much faster than expected, and most of his inner circle was captured."
+    },
+    {
+      "type": "action",
+      "content": "Only Gaold, Kangnan, and Plu managed to escape using force, but the association's pursuers relentlessly followed them."
+    },
+    {
+      "type": "action",
+      "content": "After being chased and chased, they finally arrived at Gaold's alma mater, Alpheas Magic School."
+    },
+    {
+      "type": "action",
+      "content": "Shirone looked at Plu with a sympathetic expression."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "You've really been through a lot."
+    },
+    {
+      "type": "action",
+      "content": "Thanks to the sugar intake, Plu's complexion quickly improved."
+    },
+    {
+      "type": "action",
+      "content": "She extended her arm and activated the Cubrick, and a magic staff adorned with a phoenix appeared in front of her palm."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "There was no suitable place to hide, but that's not the only reason we came here. The president wants to meet Alpheas. But the pursuit was too intense, so he sent me. If I get caught, it's over for me. Anyway, Shirone, we need your help."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "With Gaold's skills, normal tracking would be impossible, but the association had many deviants, so it was best not to reveal himself in case of an emergency."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Where is the president now?"
+    },
+    {
+      "type": "action",
+      "content": "Plu quickly twirled the magic staff, then swung it behind her back and headed for the door."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "I'll guide you. If you're willing to come, that is."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I want to meet him and hear what he has to say first."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "There was a warning in Plu's words. If he wanted to escape this situation, he should end it here."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I want to meet him and hear what he has to say first."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Betting his life on false hope was inefficient."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "He was already entangled with Gaold the moment he entered the association. In this case, it was better to find a solution directly rather than hiding under the covers."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "You've trained desperately, Shirone."
+    },
+    {
+      "type": "narrator",
+      "content": "Shirone's temperament had changed again from three months ago. Just as life evolves in extreme environments, Shirone had also grown in the fierce competition of the graduating class."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Alright, listen to the president first and then decide. But if possible..."
+    },
+    {
+      "type": "action",
+      "content": "Plu swung the staff behind her back and bowed."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "I hope you can help us."
+    },
+    {
+      "type": "action",
+      "content": "It was something she could never say in front of Gaold. It was also the first time she treated Shirone as a magician."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Let's go now."
+    },
+    {
+      "type": "action",
+      "content": "Shirone postponed his decision and opened the door."
+    },
+    {
+      "type": "action",
+      "content": "Wearing raincoats, the two climbed the mountain behind the building."
+    },
+    {
+      "type": "action",
+      "content": "Using magic would be convenient, but it would almost certainly alert Jonah."
+    },
+    {
+      "type": "narrator",
+      "content": "Gaold was hiding on the opposite side of the mountain range surrounding the magic school."
+    },
+    {
+      "type": "action",
+      "content": "It wasn't far in distance, but they had to cross the mountain, so it was already dawn when they arrived."
+    },
+    {
+      "type": "action",
+      "content": "Climbing a mountain in the rain was no ordinary march, but Plu didn't even take a moment to catch her breath, pushing back her hood and entering the cave."
+    },
+    {
+      "type": "action",
+      "content": "President, I've brought Shirone."
+    },
+    {
+      "type": "action",
+      "content": "After letting Shirone in, she went back outside to guard against any potential pursuers."
+    },
+    {
+      "type": "action",
+      "content": "Inside the cave, there was only darkness."
+    },
+    {
+      "type": "action",
+      "content": "At the end of the darkness, a flame suddenly flared up, revealing Gaold's face as if it were floating."
+    },
+    {
+      "type": "action",
+      "content": "Leaning against the cave wall with one leg up, Gaold smiled and raised his hand."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Hey, Shirone."
+    },
+    {
+      "type": "action",
+      "content": "Judging by Plu's condition, it was clear how difficult their escape had been, but Gaold was as robust as ever, with his characteristic manic smile intact."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You seem to be taking it easy."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Hehe, being unemployed isn't so bad. Well, I didn't do much work at the association either."
+    },
+    {
+      "type": "action",
+      "content": "Gaold pointed to a seat in front of him."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Sit down. I can't offer you tea, but I have a lot of stories you'll like."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What happened?"
+    },
+    {
+      "type": "action",
+      "content": "Gaold rested his chin on his hand and closed his mouth like a clam. His feelings were more of indignation than resentment or frustration."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Gando exposed my corruption. Most of it was fabricated, of course. This time, even King Adolf couldn't tolerate it. He had been patient for quite a while. The problem is that most of my inner circle has been arrested or is still being hunted."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Why didn't you anticipate Gando's betrayal? Your inner circle was carefully selected."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "That's a good question. I have no excuse for that. I was completely fooled. But it made it easier to uncover the mastermind. It's likely that Teraje is behind Gando."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Teraje..."
+    },
+    {
+      "type": "narrator",
+      "content": "The Empress of Kashan. Also, Uorin's mother and the leader of the Valkyries, whom he had met in Kazra."
+    },
+    {
+      "type": "action",
+      "content": "Even listing what he knew, it was easy to guess how powerful Teraje was."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "But he still didn't understand why Gando's betrayal was connected to her."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "You met Uorin in Kazra, didn't you?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes. She helped me a lot. If it weren't for her, I wouldn't be here now."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Hmm, she helped you. I see. Hehe."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Shirone frowned. He owed his life to her, so why was that funny?"
+    },
+    {
+      "type": "action",
+      "content": "Gaold's laughter suddenly stopped."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Teraje is likely... Mitochondrial Eve."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Mitochondrial Eve?"
+    },
+    {
+      "type": "narrator",
+      "content": "Few people know about it outside the Holy War. The woman you met, Uorin, is likely the Empress Teraje."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Please explain so I can understand."
+    },
+    {
+      "type": "narrator",
+      "content": "Gaold explained about Mitochondrial Eve."
+    },
+    {
+      "type": "narrator",
+      "content": "Teraje could pass her memories to her daughter through a mutation in the mitochondria. The timing of memory awakening varied for each individual."
+    },
+    {
+      "type": "narrator",
+      "content": "But if Uorin had already awakened at that time, Shirone had met the Empress Teraje, not Uorin."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "In that way, Teraje holds all memories from the dawn of humanity to the present. Through that vast database, she understands the essence of humanity. To her, you are just another cog in the wheel of history."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "The proof is the strongest object you carry, Armand."
+    },
+    {
+      "type": "action",
+      "content": "Shirone touched the Armand at his waist."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "He had suspected it wasn't just a gesture of goodwill, but hearing it made his skin crawl. The most frightening thing was that even now, understanding Teraje's true nature, he couldn't guess the meaning behind the gift."
+    },
+    {
+      "type": "narrator",
+      "content": "Teraje's abilities don't end there."
+    },
+    {
+      "type": "narrator",
+      "content": "As you know, we live in a peculiar world. The Goffin Erasure. In other words, we've already been reset and are living life again after the reset."
+    },
+    {
+      "type": "narrator",
+      "content": "This is speculation, but Teraje likely retains memories from before the reset. That would explain how Gando could infiltrate my inner circle despite my paranoid management."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Gando was planted from the moment he was born, anticipating today's events."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "If he understood quickly, there was no need to waste time."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "I was completely fooled. No human could predict that far. Only Teraje could."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Indeed, in such a case, even the great Gaold was helpless."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "In the end, he had lost all his limbs, and the project he had planned for 20 years had turned to dust."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "How much chance do we have left?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Gaold would go to heaven. Even if he lost his inner circle, even if the plans he had designed for half his life turned to dust, he would go."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "He was the kind of person who would sacrifice all of humanity to save Miro."
+    },
+    {
+      "type": "action",
+      "content": "Gaold leaned back leisurely and crossed his arms."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "As things stand, we can't do anything. But I haven't been idle for 20 years."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "It's not much of a last resort, but I haven't lost everything. After all, I still have you."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I haven't agreed to help you yet."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Hehe! Don't be so tense, kid. The reason I told you my situation is to make you understand the instructions I'm about to give you. If you do me one favor, we'll part ways. Study hard and graduate."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "But you made me an offer, didn't you?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Gaold raised an eyebrow."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You're not saying you found a way, are you?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Not exactly a way, but..."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hmm."
+    },
+    {
+      "type": "action",
+      "content": "Gaold stroked his beard."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "He wasn't a kid who would make a proposal with a clumsy lie. But his tone lacked confidence, making it hard to believe he had found something."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Alright, let's hear it. How will you destroy heaven?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "First, promise me. If I meet the conditions, you'll share all the information you know. It's a matter of life and death for me. Also, the final decision to go to heaven must always be mine."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "It was an unfair deal."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Gaold readily agreed."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Negotiation is a process where two selfish individuals meet to find a compromise."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "If Shirone had spoken emotionally, Gaold wouldn't have trusted him."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "It wasn't necessarily a disadvantageous deal, as Shirone had included the condition 'if the conditions are met.'"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Of course, if there was a way to destroy heaven, any risk would be worth taking."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "But even with a year given, it was a task taken on with the thought that there was nothing to lose."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "If it turned out to be an absurd method, it could simply be ignored."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "And considering Shirone's current abilities, the result would inevitably be the latter."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "'There's no harm in gathering even trivial information.'"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "That's what Gaold thought."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Basically, it's a spell using Ataraxia."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "That was expected."
+    },
+    {
+      "type": "action",
+      "content": "Shirone explained the spell for ten minutes."
+    },
+    {
+      "type": "action",
+      "content": "Gaold didn't interrupt once. He just listened, looking down at the ground until the story was finished."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "...If that's the case, maybe, just maybe, it could destroy heaven... something like that..."
+    },
+    {
+      "type": "action",
+      "content": "As Gaold didn't respond, Shirone's voice gradually grew quieter."
+    },
+    {
+      "type": "action",
+      "content": "Speaking it out loud made the obstacles he had only thought about seem even higher, causing his confidence to wane."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Even after Shirone finished speaking, Gaold remained silent."
+    },
+    {
+      "type": "action",
+      "content": "He just kept replaying, replaying, and replaying the story in his mind."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Feeling even more intimidated, Shirone added."
+    },
+    {
+      "type": "action",
+      "content": "Gaold, with a wide grin, glared at Shirone. His eyes, reflected in the flames, burned intensely."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Crazy... bastard."
+    },
+    {
+      "type": "action",
+      "content": "It was the highest praise Gaold could give to anyone."
+    }
+  ],
+  "source_hash": "1bff176d72ccc153dfc3eece95e7ee2e9051332e5b9b0a871363abac683eae5c",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T05:56:13.888459Z"
+}

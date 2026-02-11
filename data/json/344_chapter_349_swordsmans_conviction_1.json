@@ -1,0 +1,725 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "Shirone arrived in Vashka, the capital of Tormia."
+    },
+    {
+      "type": "action",
+      "content": "Shirone couldn't take his eyes off the view through the carriage window."
+    },
+    {
+      "type": "action",
+      "content": "The streets were neatly paved, and people's attire was colorful, each emphasizing their individuality."
+    },
+    {
+      "type": "action",
+      "content": "As they entered the city center, tall buildings that seemed to touch the sky lined the streets."
+    },
+    {
+      "type": "action",
+      "content": "Shirone identified the names of institutions he had only read about in books."
+    },
+    {
+      "type": "action",
+      "content": "The Alchemy Foundation, the Swordsman Association, the Supreme Court."
+    },
+    {
+      "type": "action",
+      "content": "Finally, they arrived at the towering building of the renowned Magic Association."
+    },
+    {
+      "type": "action",
+      "content": "The 18-story building could be considered a tower. It was enormous."
+    },
+    {
+      "type": "action",
+      "content": "Even the first floor alone seemed large enough to house several noble mansions."
+    },
+    {
+      "type": "action",
+      "content": "Shirone looked up to find the top, but the reflected sunlight made him close his eyes."
+    },
+    {
+      "type": "action",
+      "content": "The front was so glossy, like glass, that he couldn't bear to look up."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "Let's go in. This is the Magic Association."
+    },
+    {
+      "type": "action",
+      "content": "Kangnan, who had paid the coachman, spoke as she passed Shirone."
+    },
+    {
+      "type": "narrator",
+      "content": "When they reached the entrance, the guards turned to Kangnan and bowed 90 degrees."
+    },
+    {
+      "type": "action",
+      "content": "As gatekeepers of the Magic Association, even the guards had considerable magical power."
+    },
+    {
+      "type": "narrator",
+      "content": "But Shirone knew that everyone working here was a magician."
+    },
+    {
+      "type": "action",
+      "content": "Regardless of their rank, only those recognized as the best in their class could enter this sacred place of the magical world."
+    },
+    {
+      "type": "action",
+      "content": "Experiencing a revolving door for the first time, Shirone looked up and moved quickly."
+    },
+    {
+      "type": "action",
+      "content": "He was pushed by the glass and bounced into the hall."
+    },
+    {
+      "type": "action",
+      "content": "The receptionist at the central front desk was smiling and guiding nobles to their departments."
+    },
+    {
+      "type": "action",
+      "content": "Kangnan went to the elevator not far from the entrance."
+    },
+    {
+      "type": "action",
+      "content": "The capsule-shaped elevator, made of glass, was constantly going up and down."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "It moves by air pressure. Very convenient."
+    },
+    {
+      "type": "action",
+      "content": "Kangnan checked the floor the elevator was on and, finding it inconvenient, turned to the stairs."
+    },
+    {
+      "type": "action",
+      "content": "Shirone, disappointed, followed her."
+    },
+    {
+      "type": "action",
+      "content": "The stairs were wide enough for 20 people to walk side by side."
+    },
+    {
+      "type": "action",
+      "content": "There were four landings, and the structure was spiral."
+    },
+    {
+      "type": "action",
+      "content": "When they reached the third floor, a monotonous scene of corridors and offices unfolded."
+    },
+    {
+      "type": "action",
+      "content": "A young woman stood next to an office with a sign that read 'Foreign Affairs Department.'"
+    },
+    {
+      "type": "action",
+      "content": "She was Ravid Plu, the manager of the third floor of the Magic Association's security department."
+    },
+    {
+      "type": "action",
+      "content": "She was shorter than average, with long blue hair down to her waist."
+    },
+    {
+      "type": "action",
+      "content": "Her skin was white, and her lips were red, making her look scary from a distance, but up close, her sharp features were not unattractive."
+    },
+    {
+      "type": "action",
+      "content": "She held a magic staff with both hands, supporting it with her hips."
+    },
+    {
+      "type": "action",
+      "content": "The staff was thin, with a large crystal ball set in a phoenix decoration at the end."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Hello, Chief Secretary. Did the dispatched work go well?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "More or less. Where is the Chairman?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "He went out this morning and is currently away."
+    },
+    {
+      "type": "action",
+      "content": "Kangnan frowned, looking troubled."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "Where did he go?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "I'm not sure. I heard it would take about three days."
+    },
+    {
+      "type": "action",
+      "content": "Oh no, today of all days..."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "Kangnan's mission didn't have a set deadline, so there was nothing she could do."
+    },
+    {
+      "type": "action",
+      "content": "She couldn't just leave Shirone, who had come from the countryside, waiting indefinitely, so she was lost in thought when Plu pointed to Shirone and asked, 'But who is this boy...?'"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "Oh, he's a guest of the Chairman. This is a problem. There's no suitable place for Shirone to stay."
+    },
+    {
+      "type": "action",
+      "content": "A guest?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Plu looked at Shirone in disbelief."
+    },
+    {
+      "type": "narrator",
+      "content": "In her two years at the Association, there had rarely been such a secretive visit from someone claiming to be a guest of Gaold."
+    },
+    {
+      "type": "narrator",
+      "content": "Most of the time, they were top envoys from other countries or high-ranking politicians whose names alone could make people tremble, requiring the Association to undergo a thorough cleaning and even hire a dedicated chef."
+    },
+    {
+      "type": "thought",
+      "speaker": "Plu",
+      "content": "Could it be?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Plu",
+      "content": "A thought crossed Plu's mind."
+    },
+    {
+      "type": "thought",
+      "speaker": "Plu",
+      "content": "He might be related to the project."
+    },
+    {
+      "type": "thought",
+      "speaker": "Plu",
+      "content": "The fact that Kangnan asked her about Gaold's whereabouts suggested a desire to avoid the attention of other departments."
+    },
+    {
+      "type": "thought",
+      "speaker": "Plu",
+      "content": "No way. How could such a young child be involved in the project?"
+    },
+    {
+      "type": "narrator",
+      "content": "Even Plu, who considered herself part of Gaold's elite guard, was only on the outermost edge of this project."
+    },
+    {
+      "type": "thought",
+      "speaker": "Plu",
+      "content": "In such a situation, it was unthinkable that a boy younger than herself would assist Gaold."
+    },
+    {
+      "type": "thought",
+      "speaker": "Plu",
+      "content": "Who is he? Could he be a relative of the Chairman?"
+    },
+    {
+      "type": "action",
+      "content": "In any case, Shirone's first impression wasn't great."
+    },
+    {
+      "type": "action",
+      "content": "People who followed the eccentric Gaold all shared a common trait: they wanted his recognition."
+    },
+    {
+      "type": "action",
+      "content": "Even Plu, who couldn't meet the Chairman alone, felt a sense of rivalry with the boy who had come as a guest."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "Shirone, how about staying here for now? I have to go out right away."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "Plu, can you take care of Shirone until the Chairman returns?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Oh, of course..."
+    },
+    {
+      "type": "action",
+      "content": "As Plu was about to speak, Shirone turned to Kangnan and said, 'Um, can I go somewhere for a while?'"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "Hmm? Where?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I have a friend living in the capital. I'll stay there and come back."
+    },
+    {
+      "type": "action",
+      "content": "Kangnan made a thoughtful sound."
+    },
+    {
+      "type": "action",
+      "content": "It would be best for Shirone to stay at the Association, but there was no harm in letting him go outside."
+    },
+    {
+      "type": "action",
+      "content": "It might even be better to avoid the eyes of other departments."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "Alright, go ahead. But please maintain security."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes, don't worry about that."
+    },
+    {
+      "type": "thought",
+      "speaker": "Plu",
+      "content": "Plu, overhearing their conversation, became even more puzzled."
+    },
+    {
+      "type": "thought",
+      "speaker": "Plu",
+      "content": "Kangnan was easygoing except when dealing with Gaold, but she was meticulous in her work."
+    },
+    {
+      "type": "thought",
+      "speaker": "Plu",
+      "content": "If Shirone was supposed to meet the Chairman, it couldn't be a trivial matter."
+    },
+    {
+      "type": "thought",
+      "speaker": "Plu",
+      "content": "Yet, he trusted a boy not even twenty years old with security."
+    },
+    {
+      "type": "thought",
+      "speaker": "Plu",
+      "content": "Could he be royalty? Who is he to ask the Chief Secretary of the Magic Association for personal favors?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "Come back here when you're done. You need to return within three days."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "When you come to the Association, find Plu here."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "Plu, when Shirone returns, guide him to the Chairman. Preferably to a quiet place."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "I'll handle it, but in case I'm not around."
+    },
+    {
+      "type": "action",
+      "content": "Plu bowed politely."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Plu",
+      "content": "Yes, understood."
+    },
+    {
+      "type": "thought",
+      "speaker": "Plu",
+      "content": "And she quickly thought."
+    },
+    {
+      "type": "thought",
+      "speaker": "Plu",
+      "content": "Shirone? Then he's not royalty."
+    },
+    {
+      "type": "thought",
+      "speaker": "Plu",
+      "content": "I've heard that name somewhere. Where was it?"
+    },
+    {
+      "type": "action",
+      "content": "Something tugged at the edge of her memory, but it was still vague."
+    },
+    {
+      "type": "action",
+      "content": "Kangnan placed her hand on Shirone's back and turned him around."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "Let's go. I'll see you out."
+    },
+    {
+      "type": "action",
+      "content": "Shirone alternated glances between Kangnan and Plu, then quickly bowed."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Oh, yes. Goodbye."
+    },
+    {
+      "type": "action",
+      "content": "Plu nodded lightly and watched Shirone with sharp eyes."
+    },
+    {
+      "type": "thought",
+      "speaker": "Plu",
+      "content": "She was sure she knew the name. It just didn't come to mind because they hadn't met."
+    },
+    {
+      "type": "thought",
+      "speaker": "Plu",
+      "content": "Well, I'll find out if I look it up."
+    },
+    {
+      "type": "action",
+      "content": "Plu waited in the corridor until Kangnan disappeared, then quickly turned around."
+    },
+    {
+      "type": "action",
+      "content": "Leaving the Magic Association through the revolving door, Shirone realized anew that he was in Vashka, seeing the golden streets."
+    },
+    {
+      "type": "action",
+      "content": "Kangnan checked the time and clicked his tongue."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "Sorry, I have another job to do. Do you know where your friend lives? Can you find it alone?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes. I know the address. I can ask around. If I can't find it, I'll take a carriage."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kangnan",
+      "content": "Alright. See you in three days."
+    },
+    {
+      "type": "action",
+      "content": "Kangnan turned easily."
+    },
+    {
+      "type": "action",
+      "content": "She wasn't worried."
+    },
+    {
+      "type": "action",
+      "content": "It didn't make sense that the kingdom's top aspiring magician couldn't find his way."
+    },
+    {
+      "type": "action",
+      "content": "Kangnan stepped onto the main road and raised her hand, and a luxury carriage stopped immediately."
+    },
+    {
+      "type": "action",
+      "content": "When she opened the door, he saw a gentleman with a mustache and an elderly lady already seated."
+    },
+    {
+      "type": "action",
+      "content": "Kangnan jumped in without hesitation, and the carriage departed immediately."
+    },
+    {
+      "type": "action",
+      "content": "Shirone watched carefully and raised his hand when the next carriage arrived."
+    },
+    {
+      "type": "action",
+      "content": "A blue-lit carriage stopped."
+    },
+    {
+      "type": "action",
+      "content": "When he opened the door and got in, a girl with dimples turned to him and smiled."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Girl",
+      "content": "Uh... um."
+    },
+    {
+      "type": "action",
+      "content": "Shirone was flustered."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Girl",
+      "content": "Come on in. Where are you going?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Oh, to the palace area."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Girl",
+      "content": "Great. No need to detour."
+    },
+    {
+      "type": "action",
+      "content": "Shirone got into the carriage and sat opposite her."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Girl",
+      "content": "What's so funny?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "You're not from the capital, are you?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Girl",
+      "content": "Oh, no. Did it show?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Girl",
+      "content": "Vashka residents never hesitate when sharing a ride. Don't get me wrong. I'm not saying you're rustic or anything. Actually, you're quite cool."
+    },
+    {
+      "type": "action",
+      "content": "Shirone blushed and lowered his head."
+    },
+    {
+      "type": "action",
+      "content": "He wasn't used to this type, just like with Marsha."
+    },
+    {
+      "type": "action",
+      "content": "On the other hand, the girl skillfully led the conversation as if it were routine."
+    },
+    {
+      "type": "action",
+      "content": "She was twenty years old and a student preparing for the diplomatic exam."
+    },
+    {
+      "type": "action",
+      "content": "She had two boyfriends, one younger and one a twenty-eight-year-old businessman."
+    },
+    {
+      "type": "action",
+      "content": "Shirone listened absentmindedly to her story."
+    },
+    {
+      "type": "action",
+      "content": "At one point, she hinted at meeting separately, but when Shirone's focus wavered, she laughed it off and didn't ask again."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Girl",
+      "content": "Well, goodbye. It was nice meeting you."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes. Goodbye."
+    },
+    {
+      "type": "action",
+      "content": "As the carriage left, Shirone, left on the roadside, looked exhausted after just 30 minutes."
+    },
+    {
+      "type": "action",
+      "content": "It wasn't just the talking; the cultural shock was overwhelming."
+    },
+    {
+      "type": "action",
+      "content": "Not everyone in the capital had the same personality, but he finally understood where Dante's free-spirited mindset came from."
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Phew, my head hurts already. The capital is definitely different."
+    },
+    {
+      "type": "action",
+      "content": "Shirone entered a high-end residential area."
+    },
+    {
+      "type": "action",
+      "content": "Reina's mansion was located where the Les Mountains flowed like a torrent and the spire of the royal castle was visible."
+    },
+    {
+      "type": "action",
+      "content": "It was much smaller than the main house but still luxurious."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Well, Reina is a court musician after all."
+    },
+    {
+      "type": "action",
+      "content": "When he reached the front gate, the attendants who had accompanied him to Kazra Castle recognized him."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Attendant",
+      "content": "Oh? Isn't this Young Master Shirone? What brings you here?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "How have you been? I came to see Rian. The swordsmanship school is on break now, right?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Attendant",
+      "content": "Yes, but..."
+    },
+    {
+      "type": "action",
+      "content": "Their trailing words seemed suspicious."
+    },
+    {
+      "type": "action",
+      "content": "The attendants exchanged glances, and one of them turned around as if they had no choice."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Attendant",
+      "content": "Please wait a moment. I will return shortly."
+    },
+    {
+      "type": "action",
+      "content": "It was impolite to leave Shirone, a guest of the Ozent family, standing at the gate."
+    },
+    {
+      "type": "action",
+      "content": "He didn't feel particularly bad, but he couldn't shake the feeling that something was off."
+    },
+    {
+      "type": "action",
+      "content": "The head butler, Louis, came out of the mansion."
+    },
+    {
+      "type": "action",
+      "content": "His intellectual gaze, which had once pressured Shirone, was the same, but he greeted him with a welcoming smile this time."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Louis",
+      "content": "Welcome. It's the first time seeing you since Kazra."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes, thank you so much back then. But you're here now?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Louis",
+      "content": "Since the elder works here, I often travel between the main house and here. Please, come in."
+    },
+    {
+      "type": "action",
+      "content": "Following Louis, Shirone asked, 'Is something wrong? The atmosphere seems a bit strange.'"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Louis",
+      "content": "Well... you'll see once you go inside."
+    },
+    {
+      "type": "action",
+      "content": "Reina's mansion was much larger inside than it appeared from the outside."
+    },
+    {
+      "type": "action",
+      "content": "In front of Clump's room stood two women, one of whom was Reina, and the other was an unexpected person."
+    },
+    {
+      "type": "action",
+      "content": "Huh?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Shirone!"
+    },
+    {
+      "type": "action",
+      "content": "Tess, who looked like she was about to cry, brightened up and ran over."
+    },
+    {
+      "type": "action",
+      "content": "She adorably hit Shirone's shoulders with her fists and shouted, 'What, what, what? How did you get here?'"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Haha! I had some business in the capital and thought I'd see Rian's face. Did you finish school safely?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tess",
+      "content": "Well, actually..."
+    },
+    {
+      "type": "action",
+      "content": "At this point, Shirone started to feel frustrated."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What is it? Did something happen?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Reina",
+      "content": "Rian dropped out of school."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "What? Dropped out?"
+    }
+  ],
+  "source_hash": "8d3c5f4a6eac0c66dc76af57c313e3e3a5809acf3a1098dca433c72c84f03929",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T05:01:33.684792Z"
+}

@@ -1,0 +1,675 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "Cage B Team arrives on the mainland."
+    },
+    {
+      "type": "action",
+      "content": "As the 21 magicians of Cage B Team walked down the road, people instinctively made way for them."
+    },
+    {
+      "type": "narrator",
+      "content": "In a place with no rules except for the unspoken ones between communities, the inhabitants of the mainland had developed an almost evolutionary sense for detecting strength."
+    },
+    {
+      "type": "action",
+      "content": "However, Cage B Team wasn't particularly trying to intimidate anyone."
+    },
+    {
+      "type": "action",
+      "content": "Despite being a party composed of 4th to 6th rank magicians, they were mostly young, with only three members—Team Leader Rose, Deputy Leader Horkin, and Communication Magician Weygon—having previous experience in Heaven."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aroella",
+      "content": "Ouch, ouch."
+    },
+    {
+      "type": "action",
+      "content": "A petite woman with a bob haircut and bangs tied above her forehead kept scratching herself."
+    },
+    {
+      "type": "narrator",
+      "content": "This was Aroella, a certified 4th rank fire magician known as the Flame of Fire."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aroella",
+      "content": "Why am I so itchy? Is it the air here?"
+    },
+    {
+      "type": "action",
+      "content": "Unable to bear it, she scratched herself directly under her clothes."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Summoning Magician Maloy",
+      "content": "What's with you? Why do you keep groping yourself? Have you decided to be self-sufficient?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aroella",
+      "content": "No… Ever since we got here, my armpits have been itchy. Beam, did some weird bug bite me?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Insect Magician Beam",
+      "content": "It's because you don't shave."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aroella",
+      "content": "Very funny! I don't even have hair there!"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Terminator Tarvan",
+      "content": "That's even weirder."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Aroella",
+      "content": "Shut up! I'm in a terrible mood, so don't mess with me! Or I'll burn you to a crisp!"
+    },
+    {
+      "type": "action",
+      "content": "Ignoring Aroella, Tarvan turned to Team Leader Rose."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tarvan",
+      "content": "What now? Do we even know where to find Gaold? Should we just leave it to Jonah in the city center?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Deputy Leader Horkin",
+      "content": "No. Even for a Cage-level team, the mainland isn't to be taken lightly. If we recklessly spread the Spirit Zone, we might attract unwanted attention and compromise the mission."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Carnivore addict Benifis",
+      "content": "Old man, isn't it time for you to retire? We're the kingdom's elite force, capable of taking down demons. We don't need to be cautious."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Horkin",
+      "content": "A Cage-level party can take down demons. But here, even demons form Cage-level groups."
+    },
+    {
+      "type": "action",
+      "content": "A moment of silence followed."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Team Leader Rose",
+      "content": "Heaven is a dangerous place. Especially since our target is Micaiah Gaold, the kingdom's top battle magician."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Word Magician Mami",
+      "content": "So what? No matter how strong Gaold is, he can't take down a demon alone. We won't lose in combat strength."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Horkin",
+      "content": "Demons and humans are different. There are ways to strategize against demons, but humans have too many variables. And…"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Horkin",
+      "content": "Gaold can take them down alone."
+    },
+    {
+      "type": "action",
+      "content": "Mami swallowed hard."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rose",
+      "content": "The best outcome is to eliminate Gaold without any team casualties. But it's not unusual for someone to die. We're not talking about numbers for fun. Gaold is special."
+    },
+    {
+      "type": "action",
+      "content": "The team's expressions finally showed their resolve."
+    },
+    {
+      "type": "narrator",
+      "content": "In all their years together, it was the first time the team leader had placed the target above the team."
+    },
+    {
+      "type": "action",
+      "content": "Meanwhile, Tarvan showed no signs of tension. As the team's most destructive magician, he couldn't afford to be intimidated before the fight even began."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tarvan",
+      "content": "If we can't use the Spirit Zone, we'll have to do it the hard way."
+    },
+    {
+      "type": "action",
+      "content": "Tarvan suddenly turned and headed into an alley."
+    },
+    {
+      "type": "action",
+      "content": "Everyone knew they had been followed since arriving, so the team followed without complaint."
+    },
+    {
+      "type": "action",
+      "content": "In the alley, armed men appeared."
+    },
+    {
+      "type": "action",
+      "content": "There were as many of them as Cage B Team, and their eyes gleamed with murderous intent."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tarvan",
+      "content": "Who are you?"
+    },
+    {
+      "type": "action",
+      "content": "Mental Magician White connected a mental channel to translate Tarvan's words, but the armed robbers weren't surprised."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The leader",
+      "content": "You don't know who we are? We pegged you as country bumpkins the moment you started looking around. Did you think you'd be safe in a group?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tarvan",
+      "content": "I'm asking because I don't know. Who are you?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The leader",
+      "content": "Heh, let me give you some good advice. First, when someone calls you on the mainland, you run over and kneel. Second, you hand over everything you have. Third, leave the women and run for your lives. Now, get to it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tarvan",
+      "content": "Here or there, it's all the same…"
+    },
+    {
+      "type": "action",
+      "content": "Five minutes later."
+    },
+    {
+      "type": "action",
+      "content": "Twenty robbers lay on the alley floor, their faces smashed."
+    },
+    {
+      "type": "action",
+      "content": "They were so weak that Tarvan hadn't even needed to use his signature move, the Kaiser Blast."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The leader",
+      "content": "Please, spare me…"
+    },
+    {
+      "type": "action",
+      "content": "Tarvan grabbed the leader by the collar and lifted him."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tarvan",
+      "content": "Let me ask you something."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The leader",
+      "content": "Yes, yes! Anything you want to know, I'll find out even if I don't know it!"
+    },
+    {
+      "type": "action",
+      "content": "It was almost laughable."
+    },
+    {
+      "type": "action",
+      "content": "At least they were quicker to switch sides than the robbers in their original world."
+    },
+    {
+      "type": "action",
+      "content": "Communication Magician Weygon smiled brightly and used magic to project an image in front of the leader."
+    },
+    {
+      "type": "action",
+      "content": "When Gaold's face appeared, the leader's face turned pale with fear."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tarvan",
+      "content": "Have you seen this man?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The leader",
+      "content": "Uh, well…"
+    },
+    {
+      "type": "action",
+      "content": "From the leader's reaction, Cage B Team realized he had seen Gaold."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mental Magician White",
+      "content": "Got lucky, Tarvan."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tarvan",
+      "content": "Tch, I already calculated this."
+    },
+    {
+      "type": "action",
+      "content": "Tarvan's words were likely false, but the result made sense."
+    },
+    {
+      "type": "narrator",
+      "content": "The lowest tier of the mainland's food chain targeted newcomers."
+    },
+    {
+      "type": "action",
+      "content": "If they couldn't gauge their opponent's strength, they would have followed Gaold too."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "White",
+      "content": "Hey, you. Spill everything you know."
+    },
+    {
+      "type": "action",
+      "content": "White's words conveyed through the mental channel revealed the leader's quick thinking."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The leader",
+      "content": "I-I don't know anything. But…"
+    },
+    {
+      "type": "action",
+      "content": "White didn't listen and turned back to the team."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "White",
+      "content": "It's over. Let's discuss."
+    },
+    {
+      "type": "action",
+      "content": "As Tarvan raised his fist with a grin, the leader, realizing things had gone wrong, shouted in despair."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The leader",
+      "content": "Wait! I saw him! I did!"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tarvan",
+      "content": "I know."
+    },
+    {
+      "type": "action",
+      "content": "The leader's face was smashed as he was thrown against the wall."
+    },
+    {
+      "type": "action",
+      "content": "Tarvan, shaking out his fist, looked at Horkin."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tarvan",
+      "content": "Disappointing. For a place where demons roam in Cage-level groups, these guys are pathetic."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Horkin",
+      "content": "Huh?"
+    },
+    {
+      "type": "action",
+      "content": "Etella, examining the hunting list Frankwine had given her, looked up at the strange feeling."
+    },
+    {
+      "type": "action",
+      "content": "Twenty-one people occupied the alley."
+    },
+    {
+      "type": "action",
+      "content": "Kuan instinctively placed his hand on his sword's hilt. The aura alone indicated they were all masters of their respective fields."
+    },
+    {
+      "type": "action",
+      "content": "The tension skyrocketed, and dozens of eyes quickly assessed each other."
+    },
+    {
+      "type": "action",
+      "content": "Tarvan had to swallow his earlier words."
+    },
+    {
+      "type": "narrator",
+      "content": "He had thought this was a place for people, but even non-human-like beings could be encountered in the mainland."
+    },
+    {
+      "type": "action",
+      "content": "Horkin stroked his beard with an intrigued smile."
+    },
+    {
+      "type": "thought",
+      "speaker": "Horkin",
+      "content": "Hmm, what to do?"
+    },
+    {
+      "type": "action",
+      "content": "For those trying to leave, this was a dead-end alley."
+    },
+    {
+      "type": "action",
+      "content": "If they weren't going to fight, they would have to back up and make way, but no one in Cage B Team would consider such a ridiculous move."
+    },
+    {
+      "type": "action",
+      "content": "Realizing the other group had no intention of stepping aside, Kuan slowly walked forward."
+    },
+    {
+      "type": "action",
+      "content": "A limp."
+    },
+    {
+      "type": "action",
+      "content": "All twenty-one eyes simultaneously examined Kuan's leg."
+    },
+    {
+      "type": "thought",
+      "speaker": "Tarvan",
+      "content": "Is he going to try alone? Is he crazy?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Tarvan",
+      "content": "Unless he planned to hug and kiss them, there was no reason to approach in a blocked alley."
+    },
+    {
+      "type": "thought",
+      "speaker": "Tarvan",
+      "content": "Ridiculous. If you want to leave, you go back."
+    },
+    {
+      "type": "action",
+      "content": "As Tarvan exuded hostility to block the approach, Kuan's aura amplified like a chemical reaction."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Someone in the team",
+      "content": "Wow…"
+    },
+    {
+      "type": "action",
+      "content": "No one even thought to scold him, as Tarvan's lips twitched."
+    },
+    {
+      "type": "thought",
+      "speaker": "Tarvan",
+      "content": "What a killer aura."
+    },
+    {
+      "type": "thought",
+      "speaker": "Tarvan",
+      "content": "There was no such thing as a friendly killer aura, but the lack of hesitation meant he was fully prepared."
+    },
+    {
+      "type": "thought",
+      "speaker": "Tarvan",
+      "content": "Yes, this is the kind of resolve needed."
+    },
+    {
+      "type": "action",
+      "content": "Kuan limped forward with even steps, never blinking as he stared at Tarvan."
+    },
+    {
+      "type": "thought",
+      "speaker": "Tarvan",
+      "content": "One more step."
+    },
+    {
+      "type": "action",
+      "content": "At that point, he would have to cut."
+    },
+    {
+      "type": "action",
+      "content": "The moment came quickly, and Kuan's sword created afterimages as it slashed, and Tarvan's body turned into a flash of light, retreating."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Someone in the team",
+      "content": "Phew!"
+    },
+    {
+      "type": "thought",
+      "speaker": "Tarvan",
+      "content": "A swordsman's physical reaction speed is faster than a magician's. If Horkin hadn't intervened precisely, the outcome might have been different."
+    },
+    {
+      "type": "thought",
+      "speaker": "Tarvan",
+      "content": "Did I dodge? Or was I cut?"
+    },
+    {
+      "type": "action",
+      "content": "His nose felt cold as if it were frozen."
+    },
+    {
+      "type": "thought",
+      "speaker": "Tarvan",
+      "content": "It could have been the wind pressure or an actual cut. But checking with his hand would hurt his pride."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etella",
+      "content": "Huh? Are you from the continent?"
+    },
+    {
+      "type": "action",
+      "content": "Etella, surprised, pointed at Horkin."
+    },
+    {
+      "type": "action",
+      "content": "Hearing a familiar language, Cage B Team's hostility slightly eased."
+    },
+    {
+      "type": "action",
+      "content": "Of course, that didn't mean they would step aside or turn back."
+    },
+    {
+      "type": "action",
+      "content": "But all twenty-five people in the alley instinctively knew that resolving this situation peacefully was best."
+    },
+    {
+      "type": "action",
+      "content": "Horkin, skilled in diplomacy, stepped forward."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Horkin",
+      "content": "Ah, I didn't realize you were from the same place. Nice to meet you. Are you on a mission too?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etella",
+      "content": "Yes, we almost ended up fighting each other."
+    },
+    {
+      "type": "thought",
+      "speaker": "Horkin",
+      "content": "Fighting each other, huh?"
+    },
+    {
+      "type": "action",
+      "content": "Horkin's lips curled into a slight smile."
+    },
+    {
+      "type": "thought",
+      "speaker": "Horkin",
+      "content": "They weren't so clueless as to not recognize a Cage-level team when they saw one."
+    },
+    {
+      "type": "thought",
+      "speaker": "Horkin",
+      "content": "Are they from the Red Line?"
+    },
+    {
+      "type": "action",
+      "content": "Weygon, seizing the opportunity for reconciliation, approached. His actions were calculated, aiming to ease the tension."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Weygon",
+      "content": "We're looking for someone. Have you seen this person?"
+    },
+    {
+      "type": "action",
+      "content": "When Gaold's face appeared in the magical vision, Etella's eyes widened in surprise."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etella",
+      "content": "Oh? Isn't this Micaiah Gaold?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siina",
+      "content": "I know him as the head of the Tormia Magic Association. Why are you looking for him here on the mainland?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Horkin",
+      "content": "Hmm, so that's it…"
+    },
+    {
+      "type": "action",
+      "content": "Horkin blinked, deep in thought."
+    },
+    {
+      "type": "narrator",
+      "content": "To be precise, Gaold was the former head of the Tormia Magic Association."
+    },
+    {
+      "type": "thought",
+      "speaker": "Horkin",
+      "content": "Do they really not know? They don't seem to have been on the mainland for long. Well, it's only been less than a month."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tarvan",
+      "content": "It's nothing. Just something we need for our mission."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etella",
+      "content": "Alright then."
+    },
+    {
+      "type": "action",
+      "content": "Etella bowed slightly, signaling that they should be allowed to pass."
+    },
+    {
+      "type": "action",
+      "content": "Some of the younger members of Cage B Team felt a bit of resistance, but Rose's cold voice restored order."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rose",
+      "content": "Let them through."
+    },
+    {
+      "type": "action",
+      "content": "Cage B Team stepped aside, allowing Armin's group to pass."
+    },
+    {
+      "type": "action",
+      "content": "Most avoided eye contact, but Aroella glared at Siina until the last moment."
+    },
+    {
+      "type": "thought",
+      "speaker": "Aroella",
+      "content": "That woman is definitely an ice magician. I'm sure of it."
+    },
+    {
+      "type": "thought",
+      "speaker": "Aroella",
+      "content": "Aroella's intuition, though subjective, was often accurate."
+    },
+    {
+      "type": "action",
+      "content": "Once Armin's group was out of sight, Rose immediately turned to White."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rose",
+      "content": "Well?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "White",
+      "content": "What do you think? Of course, it failed. They blocked all thoughts, so I couldn't read anything. And it wasn't a situation where I could aggressively probe."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rose",
+      "content": "What about that man?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "White",
+      "content": "He did follow Gaold. But Gaold didn't respond and left the mainland immediately. He had two companions: Kangnan and an unknown woman."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rose",
+      "content": "An unknown woman? Hmm."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "White",
+      "content": "According to his memory, they didn't enter any buildings or rest. They left within an hour of arriving."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rose",
+      "content": "I see. Finding out why will be the quickest way to reach Gaold. We'll retrace their steps."
+    },
+    {
+      "type": "action",
+      "content": "As Rose led the way out of the alley, the rest of the team followed."
+    },
+    {
+      "type": "action",
+      "content": "Horkin suddenly stopped and looked back down the road."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Horkin",
+      "content": "Old man, what's wrong?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Horkin",
+      "content": "The woman I shook hands with. I feel like I've seen her before, but I can't remember where. It wasn't in the magical society."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Tarvan",
+      "content": "With skills like that, you've probably seen her somewhere. Anyway, let's go. I'm starving."
+    },
+    {
+      "type": "action",
+      "content": "Horkin's gaze lingered on the path where Etella's group had disappeared for a long time."
+    }
+  ],
+  "source_hash": "9d444c109471bb338e350c636f54efa3ee40bb14b8e0772973a27bbaf69db2b5",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T06:19:34.339483Z"
+}

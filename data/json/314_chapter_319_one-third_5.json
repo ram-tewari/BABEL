@@ -1,0 +1,702 @@
+{
+  "blocks": [
+    {
+      "type": "monologue",
+      "speaker": "Olivia",
+      "content": "If he helped someone for compensation, it's illegal. But what if Fermi just helped someone on a whim? Can we call that unfair?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Olivia",
+      "content": "Can we call that unfair?"
+    },
+    {
+      "type": "action",
+      "content": "Olivia couldn't answer."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "The graduation exam candidates range from first to thirtieth place. But the gap between students isn't consistent every year. Some years, students of similar levels compete, while other years, a standout talent sweeps the competition. Fermi's case isn't different."
+    },
+    {
+      "type": "action",
+      "content": "Olivia put a finger to her lips, pondering."
+    },
+    {
+      "type": "thought",
+      "speaker": "Olivia",
+      "content": "Hmm, if we're only talking about combat ability, he could probably compete at level eight. Honestly, below certified Class 6, it's all pretty similar. They just keep overtaking each other."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "We can say that from above, but for students, even certified Class 10 mages are a huge barrier. And that's normal. But there are always students who surpass the typical level. You can't argue fairness just because a few exceptional students are included."
+    },
+    {
+      "type": "action",
+      "content": "Olivia groaned, resting her chin on her hand."
+    },
+    {
+      "type": "thought",
+      "speaker": "Olivia",
+      "content": "There was no way to overthrow Fermi's regime. What was a mage with professional-level skills, suspected of unregistered practices, thinking by doing this?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "So there's no way to help Amy. It's unfortunate."
+    },
+    {
+      "type": "action",
+      "content": "Olivia's eyes narrowed at Alpheas's leading question."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Are you sure Amy would have passed 100% without the collusion?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Based on talent alone, yes."
+    },
+    {
+      "type": "action",
+      "content": "Olivia glared at Alpheas with cold eyes."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Karmis's daughter is renowned across the continent. She absorbs everything like a sponge. A jack-of-all-trades, you could say. And she's actually beautiful too."
+    },
+    {
+      "type": "action",
+      "content": "Olivia sighed."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Being too pretty is a curse."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "I've watched her since she was twelve. She'll get through this."
+    },
+    {
+      "type": "action",
+      "content": "They both looked out the window."
+    },
+    {
+      "type": "action",
+      "content": "The school, which had seen countless events over the year, was now as quiet as a stage after a performance."
+    },
+    {
+      "type": "action",
+      "content": "Thus, the year at the magic school came to an end."
+    },
+    {
+      "type": "narrator",
+      "content": "Heaven, Sixth Heaven, Zebul."
+    },
+    {
+      "type": "narrator",
+      "content": "The city of angels, Zebul, has two main systems."
+    },
+    {
+      "type": "action",
+      "content": "One is Inglis, where the Akashic Records are kept, and the other is the Great World War, Archangel Cariel's laboratory."
+    },
+    {
+      "type": "action",
+      "content": "The Great World War, which had been devastated by Shirone's Photon Cannon, was now fully restored."
+    },
+    {
+      "type": "action",
+      "content": "The central control system, a massive pillar, was the tallest structure in the Great World War."
+    },
+    {
+      "type": "action",
+      "content": "Next to the pillar emitting multicolored light, a galactic telescope smoothly observed the movements of the stars."
+    },
+    {
+      "type": "action",
+      "content": "The Great World War had regained its former appearance."
+    },
+    {
+      "type": "action",
+      "content": "But Heaven had not."
+    },
+    {
+      "type": "narrator",
+      "content": "Since Shirone's departure, a wind of change had blown through First Heaven, Shamain."
+    },
+    {
+      "type": "narrator",
+      "content": "The citizens no longer believed in the absolute correctness of the Doctrine of Unity, and some radicals had emerged."
+    },
+    {
+      "type": "action",
+      "content": "In response, the angels mobilized all their resources to break through Miro's Time and Space."
+    },
+    {
+      "type": "action",
+      "content": "Leading the charge was Archangel Cariel."
+    },
+    {
+      "type": "narrator",
+      "content": "The Archangel of Creation, who had tried to cast the Elixir of Life on Amy, Tess, and Arin, who had been captured by the fallen angel Ikasa."
+    },
+    {
+      "type": "action",
+      "content": "The most intelligent of the angels, he analyzed the Meta Gate Shirone had left behind when he returned to his original world."
+    },
+    {
+      "type": "action",
+      "content": "Finally, he found the coordinates to the Land of Earth."
+    },
+    {
+      "type": "action",
+      "content": "But to get there, they had to break through Miro's Time and Space."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "Even with the coordinates, we have to break through. But it's tricky."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "Then what's the point of recovering the coordinates?"
+    },
+    {
+      "type": "action",
+      "content": "Cariel turned at the majestic voice."
+    },
+    {
+      "type": "action",
+      "content": "Recognizing the voice, he smiled."
+    },
+    {
+      "type": "action",
+      "content": "Another archangel, Uriel, clad in pure white heavy armor, floated in the air."
+    },
+    {
+      "type": "action",
+      "content": "Angels are taller than humans, but Uriel was the tallest among them, standing at three meters."
+    },
+    {
+      "type": "action",
+      "content": "His chest armor was so thick it reached his chin."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "Not necessarily."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "There are quite a few Nephilim in the Land of Earth now."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "Even if we break Miro's Time and Space, we can set up a firewall."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "But with the coordinates, we can bypass it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "Break Miro's Time and Space? Wasn't that strategy dismissed long ago?"
+    },
+    {
+      "type": "action",
+      "content": "Only Anke Ra could dismiss an archangel's proposal."
+    },
+    {
+      "type": "action",
+      "content": "Indeed, Anke Ra had forbidden investigating the Land of Earth after the Final War was blocked by the Maze."
+    },
+    {
+      "type": "action",
+      "content": "The archangels didn't know why, but they couldn't defy Anke Ra, who governed the Akashic Records."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "I don't intend to defy Ra's will."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "It's a precaution."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "The Land of Earth will be conquered someday."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "It might be too late to prepare then."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "So you're not certain about this experiment either."
+    },
+    {
+      "type": "action",
+      "content": "Cariel smirked."
+    },
+    {
+      "type": "action",
+      "content": "He had never been uncertain before."
+    },
+    {
+      "type": "action",
+      "content": "But every attempt had been thwarted by Miro's quick response."
+    },
+    {
+      "type": "action",
+      "content": "It felt like he was playing a game with her from an unseen place."
+    },
+    {
+      "type": "action",
+      "content": "But today, she would have to give up."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "Miro's Time and Space would be breached."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "Anke Ra wouldn't want it, but... what could he do?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "It was fate."
+    },
+    {
+      "type": "action",
+      "content": "Cariel flew past the galactic telescope to the western wall."
+    },
+    {
+      "type": "action",
+      "content": "Uriel watched for a moment before creating a terrifying gust of wind and catching up in an instant."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "Here it is, my masterpiece for today."
+    },
+    {
+      "type": "action",
+      "content": "Uriel couldn't find words to describe it."
+    },
+    {
+      "type": "action",
+      "content": "Cariel's masterpiece was so massive it occupied a quarter of the Great World War."
+    },
+    {
+      "type": "action",
+      "content": "A rectangular wall, 40 meters wide and 70 meters high."
+    },
+    {
+      "type": "action",
+      "content": "Uriel, who had seemed like a giant earlier, now felt small in front of the wall."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "It's quite large."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "Uriel's acknowledgment made Cariel even more proud."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "I wondered why we couldn't break through Miro's Time and Space."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "It's because the dimensional wall is inherently unbreakable."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "But with this Celestial Wall, it's possible."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "Even unbreakable liquid shatters when frozen."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "We'll strike Miro's Time and Space directly."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "A direct hit."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "So this Celestial Wall represents Miro's Time and Space?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "It was a simplistic but accurate interpretation."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "Well, it didn't matter."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "He had called Uriel for his strength, not his intellect."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "If the Celestial Wall breaks, so will Miro's Time and Space."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "I wanted to add an amplification circuit, but it's impossible without Ikael's help."
+    },
+    {
+      "type": "action",
+      "content": "Uriel avoided responding."
+    },
+    {
+      "type": "action",
+      "content": "Ikael wouldn't help."
+    },
+    {
+      "type": "action",
+      "content": "She was imprisoned for an unforgivable crime, and Shirone's actions had solidified suspicions that she sided with humans."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "So, want to give it a try?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "If the Celestial Wall breaks, so will Miro's Time and Space."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "And that went against Anke Ra's will."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "No one can defy Ra's will."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "Not because he's strong, but because he's the whole."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "Whatever the future held, Ra would remain Ra."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "Cariel knew this, which was why he was taking such a reckless action."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "Why... did Ikael abandon us?"
+    },
+    {
+      "type": "action",
+      "content": "Angels had long conveyed and executed God's will in the Land of Earth."
+    },
+    {
+      "type": "action",
+      "content": "Uriel, in particular, had excelled in destruction."
+    },
+    {
+      "type": "action",
+      "content": "His power overturned the earth and split the sea."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "But even Uriel, who had blindly slaughtered humans, questioned his righteousness when he heard rumors that Ikael might side with humans."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "Ikael was always right."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "No, it wasn't about right or wrong."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "Even if she wasn't right, he wanted to follow her."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "If it was his nature to do so, he would dedicate himself to it, even if it was wrong."
+    },
+    {
+      "type": "action",
+      "content": "Cariel probably felt the same way throughout his existence."
+    },
+    {
+      "type": "action",
+      "content": "Angels had no concept of a mother."
+    },
+    {
+      "type": "action",
+      "content": "But if they had to choose one, it would be Ikael."
+    },
+    {
+      "type": "action",
+      "content": "The archangel who had cared for them since their birth."
+    },
+    {
+      "type": "action",
+      "content": "Uriel glanced at Cariel."
+    },
+    {
+      "type": "action",
+      "content": "Seeing his innocent smile reminded him of long ago."
+    },
+    {
+      "type": "action",
+      "content": "Cariel hadn't always been like this."
+    },
+    {
+      "type": "action",
+      "content": "He was still sly and perverted, but he hadn't been obsessed with creating things."
+    },
+    {
+      "type": "action",
+      "content": "He used to make fun and ingenious items to give to Ikael, who would laugh and pat him."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "Cariel, I can destroy it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "You know that."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "Do you really want this?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "Haha!"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "This time won't be easy."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "No, honestly, it has to be destroyed."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "I want to annihilate the Land of Earth as soon as possible."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "If we break Miro's Time and Space, today will be that day."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "Why are you in such a hurry?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "Ra hasn't given any orders."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "Ymir is still asleep."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "Is this really necessary?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "Shirone has changed Heaven."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "And this is just the beginning."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "We must break through the Miro's Time and Space and eliminate the humans on Earth as soon as possible."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "Cariel's concern was understandable."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "But it didn't make sense for an archangel who had destroyed countless earthly nations to be so anxious about a mere rebellion."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "Do you think destroying humans will bring Ikael back?"
+    },
+    {
+      "type": "action",
+      "content": "Cariel's face suddenly hardened."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "...What do you mean?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "Ikael's crime has already been erased."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "The incident itself no longer exists."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "Goffin disappeared as a result."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "Shouldn't we at least forgive her?"
+    },
+    {
+      "type": "action",
+      "content": "Cariel's halo expanded at a terrifying speed."
+    },
+    {
+      "type": "action",
+      "content": "As the 40-meter-wide halo spread, the Great World War's mecha system sounded an emergency alarm, reflecting Cariel's current state of mind."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "Erased?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "Then what are these filthy memories left with us?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "I don't care about Goffin!"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "It's Ikael who disgusts me!"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "Don't ever mention her again!"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "Are you really going to fight her?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "Cariel, I'm asking again."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Uriel",
+      "content": "Are you really going to fight her?"
+    },
+    {
+      "type": "action",
+      "content": "Cariel's expression was a mix of sorrow and anger."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cariel",
+      "content": "She gave birth to a human child!"
+    },
+    {
+      "type": "action",
+      "content": "The halo sent out wave-like ripples."
+    },
+    {
+      "type": "action",
+      "content": "As the mecha system flickered on and off, the Great World War blinked."
+    }
+  ],
+  "source_hash": "5e0ed98e563126bce33445bd639f85a228d9ae2f1604bc6b8fe11b9462189b46",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T04:30:44.533912Z"
+}

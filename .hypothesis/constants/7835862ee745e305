@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\googleapiclient\schema.py
+# hypothesis_version: 6.148.8
+
+[' # ', '"",', '"%s",', '"%s": ', '"a_key": ', '# ', '$ref', '%s,', '3.14', '42', 'A String', 'None,', 'True or False', 'Unknown type! %s', '[', '],', 'additionalProperties', 'any', 'array', 'boolean', 'default', 'description', 'integer', 'items', 'null', 'number', 'object', 'properties', 'schemas', 'string', 'type', '{', '},']

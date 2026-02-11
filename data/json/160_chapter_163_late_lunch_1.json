@@ -1,0 +1,727 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Late Lunch (1)",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Huff, huff.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After observing the scene for a long time, Amy finally couldn't stand it any longer and shouted.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Hey! Would you mind moving aside? How absurdly bold can you be? If people saw this, they'd think we're the bullies and you're the victim.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha glanced at Amy and burrowed deeper into Shirone's embrace, pouting her lips in defiance.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Amy could practically hear her patience snapping.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "I've had enough of you, seriously!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Freeman stepped in to shield Marsha and pleaded.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "Let her be. She's exhausted from crying.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy glared at Freeman and pointed her finger.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Are you delusional or something? Do you know how much trouble you've caused us? It's a good thing we won, but Shirone's life almost ended today!",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "What really angered Amy was the idea that a positive outcome was all that mattered. If Shirone hadn't overcome today's crisis, the aftermath would have been terrifying. Not only would Shirone's heart have been crushed after losing his magic, but Amy, who had to witness it, felt like she'd returned from hell.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "I'm sorry. All the crimes committed while operating with the Parrot Thieves were under my orders. Marsha only fought the guild's trackers. But if that's a crime as well….",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy folded her arms and interrupted.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "And if it is?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Then I'll take responsibility for her life.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha shot up from Shirone's embrace, approached Freeman with a huff, and kicked his backside.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Don't make me laugh! Who said I needed you to block my way to marriage?!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Freeman staggered but stood firm, like an old tree unmoved by Marsha's tantrums.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "Marsha.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Her shoulders trembled at Shirone's voice, but she couldn't bring herself to turn around.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Marsha",
+      "content": "She had taken her frustration out on Freeman out of fear of this very moment.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Um… I'm sorry about what happened. I know I can't be forgiven.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "That's right. You can't.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha turned around, shocked.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "No matter the reason, you kidnapped and used an innocent girl. That's something you should never do.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "That's right. You were.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha couldn't argue and bowed her head.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "You're right. I was truly a villain.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "That's right. You were.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone spoke without hesitation.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He had always been that way, treating people sincerely and without deception.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'll be going. I hope you can endure. And I hope I never see you again.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone turned and walked away without hesitation.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "I'm sorry!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha suddenly mustered the courage to shout.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Shirone had refrained from making any judgments about what had happened.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Just like when she had stolen pottery at the market, she had to approach him first.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "How can you just leave like this? I'm only getting started. At least give me a promise that we'll meet again!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone stood still for a long time before turning back around.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "If you're really sorry, apologize to Yuna. Tell her brother Zis you're sorry, too. Compensate them fully for what they've suffered.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Of course! I hate this kind of thing, too. I won't make excuses, but I'll apologize to both of them.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Even so, it doesn't erase what you've done. I can't forgive you for what you did.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha's shoulders drooped, and tears welled up in her eyes.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "But if you've truly decided to live a new life, I can forget the past.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Waaaah! I was wrong!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone couldn't comfort Marsha as she cried in his arms.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He had never made a decision like this before.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Clay Marsha…",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Perhaps that's why Shirone suddenly realized that the strong and intimidating Marsha was actually a small woman who could fit comfortably in his arms.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha led Shirone and the others into the building.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With two mages having fought there, nothing was left intact.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Their friends could imagine how fiercely Shirone had fought.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Let's head upstairs. I'm starving after that fight. I'll make us some food, though my cooking isn't great.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The second floor was the only usable space, with just a few broken flowerpots on the floor.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "They waited for the food to be served, with Yuna also sitting at the table.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She seemed much better now that the tension had eased.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Having set out at dawn without eating a single meal all day, they were starving.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Since waiting for food was unbearable, Marsha served soup and bread right away.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As soon as the food was ready, they dug in, filling their stomachs eagerly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Despite his injuries, Rian ate the most.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "Can you no longer use Pillage?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Not really. Pillage won't work anymore, but scars engraved in the heart don't heal so easily. They tend to leave their mark.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rian",
+      "content": "I see. Hmm.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone trailed off, the perceptive Marsha smiled brightly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Don't worry. I won't make any more evil magic. The rules can be changed a little.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "So do you have any rules in mind?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Not really. Let me think… How about I go to the magic academy and create magic to seduce a handsome blonde?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone gave her a nervous smile.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "After all he'd been through with Unregulated Eaters, he couldn't just take it as a joke.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Haha, don't worry. It's not Shirone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Oh, really? Then who is it?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Someone who attends the academy, is blonde, and handsome.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy remained silent.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Arguing with an Unregulated Eater who saw the world in her own way was pointless.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Freeman put down his spoon and said seriously.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "How about magic to seduce a man with no eyebrows?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Pfft!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha spat the soup back into her bowl.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "What nonsense is that? Have you gone mad?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "Why? I didn't say it was me.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "What other person with no eyebrows exists besides you and a monkey?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "But monkeys aren't people.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "No! I'm saying you're a monkey! By the way, you lost, didn't you? What a pathetic coward. How many times did I tell you not to use that Reverse Technique Tree, huh? Huh?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha jabbed a fork into Freeman's temple.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Watching them bicker, Amy suddenly realized something.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "It was certainly strange that Freeman was fine after being struck directly by her Flame Strike.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Reverse Technique Tree?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Those who trained in Schema often layered multiple schemas for building up techniques.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The base schema formed the foundation, and others were layered on top as options.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Reversing them suddenly was the Reverse Build.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Schema users called this 'Reversal,' a defensive build used only in life-threatening situations.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Gunners prioritized agility and precision and based their schema on sensory or neural enhancements.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Defensive builds for regeneration or cell activation had to be added as options.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Freeman, a gunner himself, wouldn't have been any different.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "According to Marsha, Freeman fought using the defensive Reverse Build from the start.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "This explained why his face remained unscathed despite being burned by Flame Strike.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "That last speed he showed when saving Marsha was incredible.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "That must have been the gunner's normal speed without a reversal.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The realization left Amy boiling with rage.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "If not for the Reversal, the opponent would have used a different strategy. It's not about being strong or weak. You just adapt to the situation, and courage is a skill too. You were stronger than me, Amy. That's all.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Marsha rested her chin in her hand, chuckling softly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Her cowardly eyebrowless Freeman could now speak quite manly.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Well… you were pretty impressive yourself, old man.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Freeman",
+      "content": "Thanks. But I'm not an old man. I'm the same age as Marsha.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "So what? You might be her age, but you're still an old man to me.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Freeman sulked and returned to his bread.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He wanted to ask why Shirone called Marsha 'sister,' but his timid nature held him back.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Once the playful banter died down, Marsha's expression turned serious again.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Anyway, Shirone, if you're aiming to become a mage, you should be wary of Unregulated Eaters. I know it sounds strange coming from me.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No, I want to know. Please, tell me more.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Well, the Pillage spell I used wasn't all that efficient. The concept of stealing another's magic is overpowered, but it's just a possibility rather than an effective battle strategy.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I'm a special case. Most Unregulated Eaters are unique, but their magic isn't created for combat. Others use much more effective and versatile abilities.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I see. In hindsight, it was terrifying fighting you. I never thought there was a way to seal Immortal Function.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Haha, sorry about that. But you're right. Nothing's impossible in magic, and nothing is absolute either. You beat me because you found my weakness, right?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Yes. If Unregulated Eaters base their magic on trauma, I thought attacking that trauma persistently might create an opening.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "content": "Exactly. It's a battle between conditions and prices. When fighting an Unregulated Eater, figuring out how their magic works is more important than their combat power. But I think you'll manage just fine.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I learned a lot this time.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone answered sincerely.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "This battle had shown him how vast the world was and how many outstanding people there were.",
+      "tone": null
+    }
+  ],
+  "source_hash": "4d3b4ba204d33933ae952b05c13a30743140df40a96c444e4c6b72d3a606bb38",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T16:29:40.603868+00:00"
+}

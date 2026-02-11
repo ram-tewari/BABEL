@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\aiohttp\tracing.py
+# hypothesis_version: 6.148.8
+
+['CIMultiDict[str]', 'ClientSession', 'TraceConfig', '_ParamT_contra']

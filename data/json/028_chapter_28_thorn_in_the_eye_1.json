@@ -1,0 +1,613 @@
+{
+  "blocks": [
+    {
+      "type": "dialogue",
+      "speaker": "Jake",
+      "content": "Two years will pass quickly. Don't give up.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jake",
+      "content": "Haha! Call me if you're in trouble. I can lend you money anytime.",
+      "tone": "joking"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "That money-flaunting jerk. But on the other hand, I thought it was just like Jake.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Honestly, if he had whined and cried, I might have punched him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Two years... Right, it's really nothing.",
+      "tone": "resigned"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Amy watched Jake walking away and thought.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "She wouldn't be able to attend school for at least two years.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But what difference did that make? In the world of magic, if you didn't have skill, you'd rot in place forever.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Seriel, I've made up my mind.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Huh? Are you going to meet Shirone?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "I'm going to apply for the graduation class.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "What? Already? That's too soon!",
+      "tone": "surprised"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Once you enter Class Four, you automatically qualify to apply for the graduation class.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "However, if you fail the advancement exam, you can't apply again that year, so fierce competition begins from the start of the semester.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even if you pass the advancement exam, graduation is still a distant goal.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The graduation class is where only the most outstanding talents gather, even among the geniuses at the magic school.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Graduates of the magic school recall the graduation class as a battlefield more fierce than society itself.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was a place where school friendships were temporarily set aside, and only 30 prospective wizards fought for survival.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Some criticize this system of infinite competition, but considering the special nature of the profession, it's unavoidable.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The Alpheas Magic School is a state-designated institution, so graduates receive unofficial certificates and are recognized as formal wizards.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In other words, they are 'immediate assets' ready to be deployed to the social front.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In the worst case, they might have to navigate between life and death on the battlefield, which is why teachers unanimously agreed that strict standards should be applied to the graduation class.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Why don't you wait a little? There are still plenty of vacancies, and you could apply after analyzing the graduation class's standard and trends.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "No, I don't want to hesitate. Right now, I just want to run forward.",
+      "tone": "determined"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Knowing Amy's stubbornness, Seriel couldn't dissuade her further.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "On the other hand, she was also curious to see how far Amy's genius would take her in the graduation class.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Alright, I'll support you. You can do it.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Thanks. I'll go up first and check out the atmosphere.",
+      "tone": "grateful"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Hehe, actually, I'm a bit nervous, so I plan to gather information first. Anyway, let's work hard.",
+      "tone": "nervous"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Sure. I'll help you too.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy looked up at the blue sky with a refreshed heart.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Dreams are as distant as the sun. But like the sun, they shine brightly and guide everyone who looks up.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Amy",
+      "content": "I will definitely become the best wizard.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was time for the advanced class's integrated lesson.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "While seniors and juniors mingled, no one approached Shirone.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Sometimes standing out too much is a problem.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He had surprised the teachers in the entrance test and succeeded with the Four Direction Formation in his first class.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He crushed the Black Magician and became the official boyfriend of Amy, the object of admiration.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In a short time, Shirone had left quite a mark.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Nevertheless, he was in Class Seven, the lowest of the advanced classes, so his classmates inevitably had complicated feelings.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Oh? There he is, Amy. Your boyfriend, Shirone!",
+      "tone": "teasing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Seriel waved from afar. Shirone approached through the crowd.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy stood with her arms crossed, looking sulky.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Hello, senior.",
+      "tone": "formal"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hohoho! This kid. Still calling me senior? We're not strangers, and we're the same age anyway. Speak comfortably, come on.",
+      "tone": "friendly"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "While Seriel's matchmaking instinct was activating, Amy remained pouty.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "She had felt for some time that Shirone was not just indifferent but actually avoiding her.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It's not something to brag about, but with Amy Karmis, no boy at school would refuse her.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "She had even worried countless times about how to respond if Shirone approached her sincerely.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But what about Shirone? He drew a line as if he was less than a friend, not even glancing at her except for formal conversations.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Haha! But I can't do that. You're clearly my senior.",
+      "tone": "frustrated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Just call me comfortably when it's just us. It's weird to call your girlfriend 'senior.'",
+      "tone": "calm"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "At Shirone's calm response, Amy almost used her fist.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But she held back. Getting angry here would be like admitting she lacked charm.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "No, it's fine. I'll get going to class now.",
+      "tone": "dismissive"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone returned to his seat, Amy felt so frustrated and embarrassed that she could almost cry.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Fine! Do whatever you want! If you hate it so much, don't do it at all!",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Seriel chased after Amy as she walked away.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Amy, did you fight with Shirone?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "I don't know! I don't care anymore! He thinks he's so great!",
+      "tone": "angry"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone returned to Class Seven, suppressing his apologetic feelings.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Amy was a good person. But there were too many obstacles to being close with the top student of Class Four.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone sat down, his classmates whispered.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Classmate",
+      "content": "So proud, so proud. Does he want to show off that badly?",
+      "tone": "jealous"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Classmate",
+      "content": "Flirting during class? With no skills whatsoever, did he enter school just relying on his face?",
+      "tone": "disdainful"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Their jealousy was far worse than Shirone had expected.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The average age in Class Seven was 15, making them younger than Shirone.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Especially at this age, even a one-year gap makes a big difference, making this group prone to immature behaviors.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Classmate",
+      "content": "My eyes must have been wrong. He's such a flake, right? Not studying at all, just dating, that's why he still can't use even a single magic.",
+      "tone": "mocking"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone decided to distance himself from Amy.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It could potentially deal a fatal blow to her image as well.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He had experienced a setback when he carelessly deployed his Spirit Zone early on.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The children avoided his place as if his Spirit Zone, transmitted through synesthesia, was filth.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone moved to a quiet place.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Since he had the largest Spirit Zone in Class Seven, this was the only way to train comfortably.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After training in defensive form for an hour, Shirone practiced the other three patterns.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The offensive form was quite good, though not as good as the defensive form, and the target form was difficult.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The biggest problem was the departure form.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "This is really tricky. How exactly do I make a departure?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He tried to shift his Spirit Zone to the right, but it only distorted the shape.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Center. The key is moving the center.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone fixed the error and tried again.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "He fixed the shape of the Spirit Zone and slowly moved the center.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A dizzy feeling came with a whirring sound.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Is this how it feels when the soul leaves the body?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "His consciousness became distant, and his senses receded.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then, just before departure, the Spirit Zone popped like an air bubble.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Whew!",
+      "tone": "exhausted"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "It was too difficult. The mind leaving the body is not a natural phenomenon.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Therefore, it had to be approached very technically.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Should I move the center first? No, the first method is correct.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "If the form isn't perfect, the center won't move.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone struggled, Etela approached personally.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etela",
+      "content": "How's it going, Shirone?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "The departure form is difficult. Moving the center isn't easy.",
+      "tone": "frustrated"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etela",
+      "content": "I imagine so. It's your opposite, since you're a convergent type.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etela",
+      "content": "While the Four Direction Formation is a natural phenomenon, the departure form alone is an unnatural one.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etela",
+      "content": "By the way, how are the other formations?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Hmm. The rest... don't seem to be a problem.",
+      "tone": "confident"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Etela didn't expect the departure form from Shirone either.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "What she expected from him was his natural insight into the natural world, not artificial calculation abilities.",
+      "tone": null
+    }
+  ],
+  "source_hash": "f3d8aa3542d43cd8d364de4a4daf9955a4594c5da45461d14b3feccd370ae49f",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T06:22:46.387395+00:00"
+}

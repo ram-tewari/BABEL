@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\tornado\ioloop.py
+# hypothesis_version: 6.148.8
+
+[0.5, 1000.0, 'FutureCell', 'Future[_T]', 'IOLoop', '_S', '_T', '_Timeout', '_executor', 'callback', 'deadline', 'future', 'tdeadline', 'timeout_called']

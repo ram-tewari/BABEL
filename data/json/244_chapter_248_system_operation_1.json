@@ -1,0 +1,943 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the sound of the wind faded, a profound silence settled over the area.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The students were speechless.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dante, who was considered the greatest talent in the kingdom, was brought to his knees by Shirone's stormy offensive that occurred in just 5 minutes.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student",
+      "content": "What just happened? Is it real? Did Dante really...?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "One student suddenly stood up and shouted.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student",
+      "content": "Shirone has defeated him! He took down Dante!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Then, as if on cue, the Heaven's Trials training grounds erupted with cheers.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student",
+      "content": "That was so one-sided? Was Dante even a match from the beginning?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Student",
+      "content": "Even Dante can't do anything if he gets caught by Shirone. I knew from the beginning that Shirone would win!",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The students all chimed in, each trying to get a word in.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Dante's defense was considered the best among all the students in the kingdom's magic academies.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The fact that he couldn't even properly counter Shirone's onslaught and was defeated had everyone excited.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If the defensive wall had been breached once, what was stopping it from being breached again?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Though the match wasn't over yet, based on what had transpired so far, it seemed that the victory had already tilted in Shirone's favor.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the emotions of countless people surged over, hot speculations rose to the sky.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The only ones maintaining a cool head were Alpheas and Olivia, the hidden key figures of this match.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was an unexpected development even for the two.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Olivia had not expected Dante to kneel so easily, and Alpheas was surprised by the intensity of Shirone's offensive.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But this is the world of magic.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "No, even if it isn't magic, all competition in the world is bound to be relative.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "A mage...",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "An inhuman human being.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Olivia was tight-lipped.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "There was nothing to discuss after Dante had taken such a blow.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Most humans can't even enter the Spirit Zone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "It's safe to say that once you enter a magic academy, you've surpassed the level of a normal person.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Olivia's eyes narrowed sharply.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Reversing Alpheas's words, it could be interpreted that even Dante, despite his greatness, was merely a student at a magic academy.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "So what? Dante hasn't lost yet.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "But... when you gather kids who have transcended human limits, something very interesting happens.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Among them, someone rises to surpass the rest.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "They compete at an even higher level, and once again, someone stands out.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Contrary to Olivia's expectations, Alpheas was not speaking to denigrate Dante.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He was reflecting on his own life through the battle between these two students who had transcended ordinary limits.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "After climbing so high, there is no more room to climb.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Isn't that the very realm of a first-rank archmage?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheas glanced at Olivia with a hint of a smile.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She sat there, lost in thought with a pensive expression.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was a surprisingly cute look for someone of her age.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "...Are you ignoring me just because I'm 2nd-rank?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheas didn't answer, instead turning his gaze toward Heaven's Trials.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "How could one ignore a 2nd-rank archmage?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "But when you think about it...",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "among those who have risen to such heights, there's not a single one who is satisfied with their position.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Once you reach the level of archmage, anyone would naturally strive for the 1st-rank.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It's just that they haven't reached it.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Students, professionals, and even 2nd-rank archmages cannot avoid competition.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "In the world of magic, you must fight a lifelong, lonely battle to advance just one more step from the pool you're in.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Alpheas had once dreamed of becoming a 1st-rank archmage.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The future is unknown, but there was a time when everyone expected themselves to inevitably reach that goal.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "However, after losing his wife, Erina, and wandering for 10 years, his sharpness had dulled.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "If he had started over from that time, would he have been able to become a first-rank mage?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Alpheas could say with certainty that it was impossible.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "That's not what a first-rank is.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It's not a position where you can aim for after wasting 10 years and beating out countless geniuses.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "What about Olivia then?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "She was a smart woman who hadn't lived recklessly like he had.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Instead, after failing in love, she had sharpened her magic even more ruthlessly with a single-minded focus on revenge.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Alpheas wanted to know.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Just how close had Olivia been to witness the splendid glory of that place?",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "You didn't avoid putting in the effort, did you?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Alpheas' questions were incoherent, but Olivia quickly understood.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "She was, after all, a mage.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "1st-rank. That's not a level you can reach just by trying your best.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "No, I'm not sure.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Maybe there are people in the world who tried even harder than I did.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "But in my opinion, it's a realm of absolute talent.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Olivia thought back over the years to see how credible her answer was.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Then she recalled something she had overlooked and slowly added more.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "Or... perhaps it's the realm of madness.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "You mean Gaold.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Micaea Gaold, a graduate of Alpheas Magic Academy and chairman of Thormia Magic Association.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "During his school days, no one would have thought that he would become a 1st-rank archmage.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "They thought he would become a good person.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He was truly a kind child.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He was a devout believer and said his dream was to spread love to the world.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He is now the greatest archmage in the kingdom and stands at the pinnacle of the Red Line.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "For a mage, it was the ultimate glory, but for Gaold himself, it might have been a nightmare.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Olivia recalled a vague memory.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "There was a day when the eyes of the world's powerful mage were focused on Alpheas Magic Academy.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was an event that transcended the weight of human history, and Olivia was one of the people present at the event.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "It's a shame about Miro.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheas remained silent.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The thought of his two disciples, Adrias Miro and Micaea Gaold, still caused him pain.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Olivia",
+      "content": "I think it was called Supernatural Psychic Science Research Group?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Alpheas nodded with a bitter expression.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Every event that shook the world had started from there.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Both Miro and Gaold were early members.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "They were like troublemakers.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "They were a real headache back then.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "Often committed ridiculous incidents.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alpheas",
+      "content": "But it's because of them that this world exists today.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Are their magical senses on par with each other?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Iruki was purely impressed.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Despite having been knocked down once, Dante's movements were nothing short of spectacular, living up to his reputation as the kingdom's best.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone and Dante were chasing each other's illusions.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Their eyelids seemed frozen, fixed in place, while their pupils absorbed every detail in their field of vision.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even while demonstrating concentration that surpassed human limits, Shirone was in awe of Dante's defensive prowess.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "His defensive sense is really amazing.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "I can't find any way to break through.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Dante's movements, filled with determination to defense, were a work of art.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Every time Shirone advanced 10 meters, Dante would retreat 10 meters.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even when Shirone varied his approach to 9.8 meters, Dante maintained the exact same distance, slipping away flawlessly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The students' eyes widened in disbelief.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It had only been a year since Shirone had passed his promotion test by crossing the Uncrossable Bridge with teleportation.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Of course, even back then, Shirone had already passed Dragon's Maze, which was a level 10 difficulty level, but the techniques he was showing off now were all advanced techniques used by professionals.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dante was also using techniques of the same caliber, but he had been steadily training at the Royal Magic Academy since childhood.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In short, Shirone's growth rate was extraordinarily fast.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It almost seemed as if time flowed differently for him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mark",
+      "content": "When on earth did he reach such a level...?",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The moment Mark muttered, Shirone and Dante simultaneously rushed towards each other.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The students' hearts stopped at the same point.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Perhaps Shirone and Dante had no idea that the other would choose to charge, but neither of them thought to dodge.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was a game of chicken, where if one didn't yield, both could lose their lives.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The two streaks of light converged on the horizon.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Just as the students thought it was the end and squeezed their eyes shut, the two veered off in different directions at the exact same moment.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Are their magical senses on par with each other?",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Mark couldn't tell who had dodged first.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even in a game of chicken, the two were evenly matched.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "I'm going crazy. I still can't get up.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Shirone's attack was a wonder that could not be described as just violent.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If he had been even slightly late in casting his defensive magic circle, the battle might have already been over.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "But I persevered. That's all I need to consider.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "For a defensive-minded mage, danger is familiar.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "For him, who can only win by receiving opponent's attacks, a single down is not as serious a deal as it is for other types of mages.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "However, the sense of humiliation etched into his heart was considerable.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Even if it wasn't serious, this was the first time he'd ever been downed so quickly while fighting someone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Two seconds. One second. Done.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dante finally shook off the shock and slowly stood up.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was hard to believe, but upon reflection, it might have been an inevitable result.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "I'll give you a compliment. There are only a handful of people in the entire kingdom who have pushed me this far.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "I'll put you in the top 20.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone didn't say anything.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Dante's arrogant attitude of ranking students didn't even register in his mind.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It was a full-out offensive with Immortal Function open.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "He had genuinely believed the battle was over.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "But things will be different from now on.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "You better be prepared...",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "Dante.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Shirone cut off the conversation as if there was no need to listen any further.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "This is the last time I'm giving you a warning.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Shirone suddenly transformed into a flash of light and charged at him, Dante felt his heart drop and hastily cast a teleportation spell.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Narrowly avoiding Shirone's biting attack, he let out a sigh of relief.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Judging by the distance, if he had been even slightly slower, they would have collided.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Did Shirone want mutual destruction? No, it was clear he had anticipated this reaction.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The initiative in the battle still belonged to Shirone.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "But this is where I turn the tide.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Dante, who had been retreating, changed direction, Shirone's flash also changed angle sharply and pursued him.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Within a radius of 10 meters, which is the distance of one teleportation, two streaks of light adorned the sky with astonishing speed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The students' eyes widened in disbelief.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It had only been a year since Shirone had passed his promotion test by crossing the Uncrossable Bridge with teleportation.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Of course, even back then, Shirone had already passed Dragon's Maze, which was a level 10 difficulty level, but the techniques he was showing off now were all advanced techniques used by professionals.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dante was also using techniques of the same caliber, but he had been steadily training at the Royal Magic Academy since childhood.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In short, Shirone's growth rate was extraordinarily fast.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It almost seemed as if time flowed differently for him.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mark",
+      "content": "When on earth did he reach such a level...?",
+      "tone": null
+    }
+  ],
+  "source_hash": "490861b9621a5904ccf41039293c9d92dc3cf78a0974cad39cfc40419cb041b4",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T17:46:58.186007+00:00"
+}

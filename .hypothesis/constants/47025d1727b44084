@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\google\protobuf\descriptor.py
+# hypothesis_version: 6.148.8
+
+[100, 19000, 19999, '.', '.proto', '/', 'Descriptor', 'EDITION_PROTO2', 'EDITION_PROTO3', 'EDITION_UNKNOWN', 'EnumDescriptor', 'EnumOptions', 'EnumValueDescriptor', 'EnumValueOptions', 'FieldDescriptor', 'FieldOptions', 'FileDescriptor', 'FileOptions', 'MessageOptions', 'MethodDescriptor', 'MethodOptions', 'OneofDescriptor', 'OneofOptions', 'ServiceDescriptor', 'ServiceOptions', '_', 'ascii', 'features', 'options', 'packed', 'proto3', 'python', 'type_name']

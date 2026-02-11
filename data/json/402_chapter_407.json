@@ -1,0 +1,614 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "content": "The group gathered in Alpheas' secret room after leaving Miro's spacetime."
+    },
+    {
+      "type": "action",
+      "content": "Gaold sat cross-legged, resting his hands on his knees, deep in thought."
+    },
+    {
+      "type": "narrator",
+      "content": "Although he was disappointed not to see Miro, that wasn't the most pressing issue at the moment."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "The final war might come sooner than expected. We need to move faster. Kangnan is on his way to Galliante. Another person might join, or they might not, but it's time to make a decision.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "content": "Gaold spoke to Shirone."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "If the final war breaks out, those who fight the enemy will become heroes. But if you follow us now, you'll be seen as the traitor who hastened the final war.",
+      "tone": "serious"
+    },
+    {
+      "type": "thought",
+      "speaker": "Shirone",
+      "content": "Hero or traitor, it didn't matter to Shirone."
+    },
+    {
+      "type": "action",
+      "content": "If someone as skilled as Gaold was risking his life for this mission, Shirone's chances of survival were less than 1%."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shirone",
+      "content": "If you give me time, how long can you wait?",
+      "tone": "calm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "We leave for Galliante tonight. We'll wait for Kangnan, but no longer than two days. If you decide to go to Heaven, come to Galliante. The old man will handle the school issues. Not that it matters when you're heading to your death.",
+      "tone": "serious"
+    },
+    {
+      "type": "narrator",
+      "content": "Gaold didn't hesitate to reveal the danger."
+    },
+    {
+      "type": "action",
+      "content": "He needed Shirone's abilities, but if Shirone wasn't fully committed, it was better for him not to join the team."
+    },
+    {
+      "type": "narrator",
+      "content": "Bringing along a terrified rookie would only lead to their annihilation."
+    },
+    {
+      "type": "action",
+      "content": "Armin stepped closer to Gaold."
+    },
+    {
+      "type": "action",
+      "content": "Despite confirming Miro's spacetime, he followed to fulfill the contract."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "Siena is not going to Heaven.",
+      "tone": "firm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Ah, that was the deal. Fine. Siena, you can't go to Heaven. You're off the team as of now.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "content": "Siena shook her head."
+    },
+    {
+      "type": "narrator",
+      "content": "If that was why Armin had come, and if Gaold's reason for recruiting her was only that, it was an insult to her pride as a certified 5th-level mage."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Why should I follow someone else's opinion instead of the team's? I'm going to Heaven.",
+      "tone": "defiant"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "She says so? Then the contract is void.",
+      "tone": "serious"
+    },
+    {
+      "type": "sfx",
+      "content": "Light shone from Armin's bandages."
+    },
+    {
+      "type": "action",
+      "content": "Keira swallowed nervously at the blade-like aura."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "This is no joke. You better honor the contract if you want to go to Heaven in one piece.",
+      "tone": "menacing"
+    },
+    {
+      "type": "action",
+      "content": "Armin revealed his identity, knowing it would hurt Siena, solely to prevent her from going to Heaven."
+    },
+    {
+      "type": "narrator",
+      "content": "Rescue Miro? Nonsense."
+    },
+    {
+      "type": "narrator",
+      "content": "Armin, of the Human Safety Enforcement Division, knew Heaven's military power better than anyone."
+    },
+    {
+      "type": "narrator",
+      "content": "Gaold was a unique case, specialized solely in combat among the Red Line 1st class, but even if he fought with all his might, it was doubtful he could handle even a low-ranking angel, let alone an archangel."
+    },
+    {
+      "type": "narrator",
+      "content": "Of course, it's not impossible."
+    },
+    {
+      "type": "narrator",
+      "content": "Nothing is absolute in combat, and even a slim chance can snowball into a strategic advantage."
+    },
+    {
+      "type": "narrator",
+      "content": "But Heaven's enemies are unlike anything in the human world."
+    },
+    {
+      "type": "narrator",
+      "content": "Without sufficient information, the winner is determined by sheer force."
+    },
+    {
+      "type": "narrator",
+      "content": "That's why the Ivory Tower and the Holy War focus on delaying the final war until they gather enough information."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "What do you want me to do? I'm not one to ask for favors. I'm not a parasite like you. Even if I don't take her, Siena will come to Heaven on her own.",
+      "tone": "defiant"
+    },
+    {
+      "type": "action",
+      "content": "Veins bulged on Armin's temples."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "Enough, Gaold. If you want to die, go die alone. Your madness is a nuisance to the world.",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Ah, sorry for the trouble. But do you know what really pisses me off? When you talk about the trouble I've caused, you conveniently forget the trouble the world has caused me. I suffered alone, but you all share the burden, so stop whining. It's disgusting to listen to.",
+      "tone": "angry"
+    },
+    {
+      "type": "action",
+      "content": "Armin scoffed."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "The trouble the world caused you? No, you're just a madman consumed by vile desires. Did Miro really have no choice? On the day of the Judgment of the Twenty...",
+      "tone": "accusing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "What do you know?",
+      "tone": "defensive"
+    },
+    {
+      "type": "action",
+      "content": "Gaold's face turned pale."
+    },
+    {
+      "type": "action",
+      "content": "His wide-open eyes blazed with fire."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "What do you know about Miro?",
+      "tone": "menacing"
+    },
+    {
+      "type": "sfx",
+      "content": "Flue squeezed her eyes shut."
+    },
+    {
+      "type": "action",
+      "content": "The inferno of hell engulfed the space, accompanied by the screams of demons."
+    },
+    {
+      "type": "narrator",
+      "content": "As Gaold's pain spread beyond his body, even the teachers shuddered in agony."
+    },
+    {
+      "type": "narrator",
+      "content": "It was an intensity that would drive an ordinary person mad."
+    },
+    {
+      "type": "action",
+      "content": "Armin's nose wrinkled sharply."
+    },
+    {
+      "type": "action",
+      "content": "As his radiant eyes lit up ominously, the flames from behind Armin surged towards Gaold."
+    },
+    {
+      "type": "action",
+      "content": "At the center of where they stood, the worlds of fire and eternity clashed."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "Don't act so high and mighty. Don't think you're the only one who's experienced hell. This is your last warning. Promise you won't take Siena.",
+      "tone": "menacing"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Hehe, now I understand. You're just a clueless brat. The eternal contemplator? Hiding in an unchanging world, whining...",
+      "tone": "taunting"
+    },
+    {
+      "type": "action",
+      "content": "Gaold's spirit zone expanded."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "And you dare talk about hell?",
+      "tone": "menacing"
+    },
+    {
+      "type": "sfx",
+      "content": "Boom!"
+    },
+    {
+      "type": "action",
+      "content": "The shockwave from their clashing spirit zones spread out in a sphere, denting the walls of the room."
+    },
+    {
+      "type": "action",
+      "content": "Ugh..."
+    },
+    {
+      "type": "action",
+      "content": "As the real power hit, Shirone felt like he was dying."
+    },
+    {
+      "type": "narrator",
+      "content": "The only consolation was that he wasn't the only one struggling to endure."
+    },
+    {
+      "type": "action",
+      "content": "The worlds of fire and eternity intertwined, creating unbearable pressure that squeezed everyone's hearts."
+    },
+    {
+      "type": "action",
+      "content": "Then, two golden gears pierced through the veil of hell, interlocking and spinning."
+    },
+    {
+      "type": "action",
+      "content": "As the scenery was sucked in and shattered, the original world began to reappear from the edges."
+    },
+    {
+      "type": "action",
+      "content": "As hell disappeared, everyone stared blankly at the gears."
+    },
+    {
+      "type": "action",
+      "content": "They had transformed into Sein's amber irises, glowing like halos and spinning rapidly."
+    },
+    {
+      "type": "narrator",
+      "content": "Iron Wheel Eyes - Equilibrium."
+    },
+    {
+      "type": "narrator",
+      "content": "Sein's specialty, using two gears to calculate rational and emotional coefficients, neutralizing all phenomena."
+    },
+    {
+      "type": "action",
+      "content": "Gaold was satisfied to see that his old classmate's skills hadn't rusted, especially before their journey to Heaven."
+    },
+    {
+      "type": "action",
+      "content": "However, he was displeased to be treated the same as Armin, an ally with the same goal."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "What? Are we going to have a three-way fight now?",
+      "tone": "confused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sein",
+      "content": "You're in front of the master. Restrain yourself, at least for now.",
+      "tone": "firm"
+    },
+    {
+      "type": "narrator",
+      "content": "Sein's feelings towards Alpheas were no different from Gaold's."
+    },
+    {
+      "type": "narrator",
+      "content": "When the whole world abandoned the Paranormal Psychic Science Research Society, Alpheas was the only one who stood by them."
+    },
+    {
+      "type": "narrator",
+      "content": "Even Gaold had to comply this time."
+    },
+    {
+      "type": "narrator",
+      "content": "Alpheas wasn't one to be swayed by such intensity, but if there was one person Gaold didn't want to trouble, it was him."
+    },
+    {
+      "type": "action",
+      "content": "Sein looked at Armin."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sein",
+      "content": "I apologize for using your emotions. But we need as many skilled people as possible. If you knew this from the start, why not try to persuade Siena yourself? As I said, if she gives up, we won't force her. This isn't a mission to be carried out by coercion.",
+      "tone": "calm"
+    },
+    {
+      "type": "action",
+      "content": "Siena stepped forward."
+    },
+    {
+      "type": "action",
+      "content": "She didn't want to look at Armin's face, but she couldn't stand others arguing over her."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Answer me, Armin.",
+      "tone": "firm"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "Siena, I'm sorry for hiding it. But I...",
+      "tone": "apologetic"
+    },
+    {
+      "type": "action",
+      "content": "Siena raised her hand to stop him."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Is Keira your wife?",
+      "tone": "accusing"
+    },
+    {
+      "type": "action",
+      "content": "Keira approached with a bright expression but quickly retreated with a pale face."
+    },
+    {
+      "type": "action",
+      "content": "She sensed a terrifying killing intent from behind Armin, who had slightly turned his head."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "No, Keira is my watcher. There were circumstances. We had a fake marriage for a mission. Siena, everything was for you. Give me a chance to explain.",
+      "tone": "pleading"
+    },
+    {
+      "type": "action",
+      "content": "Cold breath escaped between Siena's lips."
+    },
+    {
+      "type": "action",
+      "content": "A fake marriage? A watcher?"
+    },
+    {
+      "type": "action",
+      "content": "Was he really saying that?"
+    },
+    {
+      "type": "thought",
+      "speaker": "Siena",
+      "content": "'How much did I suffer...' Every night, she vowed to forget. She shivered in loneliness, desperately suppressing her desire to take him away, wishing him happiness with Keira. And it was all a lie?",
+      "tone": "heartbroken"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "After deceiving her, acting like a loving couple in front of her, he claimed it was all for her?",
+      "tone": "accusing"
+    },
+    {
+      "type": "action",
+      "content": "Siena raised her hand to stop him."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "No, I'll speak.",
+      "tone": "firm"
+    },
+    {
+      "type": "narrator",
+      "content": "There must have been circumstances. Even if there weren't, she had no right to be angry at Armin."
+    },
+    {
+      "type": "narrator",
+      "content": "She could imagine the life he had lived after losing his eyes to save her."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "You're my lifesaver. No matter why you deceived me, the fact that you gave me a new life doesn't change.",
+      "tone": "grateful"
+    },
+    {
+      "type": "action",
+      "content": "Armin clenched his lips and raised his eyebrows."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "You don't have to thank me. If you want, I can give you my heart right now. If you want, Siena.",
+      "tone": "pleading"
+    },
+    {
+      "type": "action",
+      "content": "Siena approached Armin and hugged his waist."
+    },
+    {
+      "type": "action",
+      "content": "Even though she was in the arms of the man she had longed for, her heart felt like it was being whipped."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "Thank you, brother. I'll never forget. I'll always be grateful for the life you gave me. But we're adults now. We can't treat each other based on childhood feelings. Please, leave me. That's my last wish.",
+      "tone": "firm"
+    },
+    {
+      "type": "action",
+      "content": "Armin wept in his soul."
+    },
+    {
+      "type": "action",
+      "content": "Without eyes, he couldn't even shed tears, feeling pathetic."
+    },
+    {
+      "type": "action",
+      "content": "He had to leave. He could do anything Siena wanted."
+    },
+    {
+      "type": "action",
+      "content": "And he would wait. On the off chance she might miss him."
+    },
+    {
+      "type": "action",
+      "content": "Even if she didn't, he would wait forever."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "Okay, I'll do as you say. I'll do anything you want.",
+      "tone": "pleading"
+    },
+    {
+      "type": "action",
+      "content": "Armin reached out to touch Siena's cheek but clenched his fist and turned away."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Armin",
+      "content": "Let's go.",
+      "tone": "resigned"
+    },
+    {
+      "type": "action",
+      "content": "Keira tried to shout something to Siena, but Armin's flicker magic was faster."
+    },
+    {
+      "type": "action",
+      "content": "With a crackle of electricity, the two disappeared."
+    },
+    {
+      "type": "action",
+      "content": "The flicker magic, which crossed space even in an enclosed area, reminded them that he was an unlocker."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "Let's summarize. I can't guarantee Kangnan's recruitment, but if she joins, we'll have no issues on the utility side. If Shirone joins, our strategic options will expand. Siena and I will handle the damage dealing. Sein will manage crowd control, and we'll need one manipulator and one scout.",
+      "tone": "serious"
+    },
+    {
+      "type": "action",
+      "content": "Flue felt immense pride at her mentioned position."
+    },
+    {
+      "type": "narrator",
+      "content": "Normally, a certified 8th-level mage wouldn't be part of such a project."
+    },
+    {
+      "type": "narrator",
+      "content": "This indicated the team's significant power gaps."
+    },
+    {
+      "type": "action",
+      "content": "As expected, Gaold didn't look satisfied."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "We probably need a hitman. If we can eliminate a key target, our tactical options will greatly increase. Do we have any skilled swordsmen?",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sein",
+      "content": "Where would we suddenly find such a person? Didn't you have a swordmaster in your guard?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "He's out of contact. Probably dead. Anyway, think about it. We need someone who can eliminate a target even if they die. Someone who doesn't need to be accounted for afterward. Basically, someone who's desperate to die.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sein",
+      "content": "Your requirements are too high.",
+      "tone": "skeptical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "If even one condition isn't met, we won't recruit them. We're a suicide squad. Anyone looking for rewards will only be a liability.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Etella",
+      "content": "How about looking among certified knights? Renowned swordsmen are certainly skilled.",
+      "tone": "suggestive"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "No. Those with strong beliefs get unnecessarily fired up. We're not going to war. A hitman is perfect for focusing on rescuing Miro.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sein",
+      "content": "Let's head to Galliante. There might be a swordsman in the Kergo autonomous district.",
+      "tone": "calm"
+    },
+    {
+      "type": "action",
+      "content": "At that moment, Siena raised her hand."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "How about a knight without beliefs?",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "content": "Everyone turned to Siena."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Gaold",
+      "content": "A knight without beliefs? Can you even call that a knight? Well, it doesn't matter. Why?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Siena",
+      "content": "I know someone. Someone who knows how to kill properly.",
+      "tone": "confident"
+    }
+  ],
+  "source_hash": "6ab5cf068cfba562d9b0f0931f9a64124eae979f9189e872a7ccb0300fd4b02c",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-11T05:59:49.634888Z"
+}

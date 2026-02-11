@@ -1,0 +1,4 @@
+# file: C:\Users\rooma\AppData\Roaming\Python\Python313\site-packages\googleapiclient\errors.py
+# hypothesis_version: 6.148.8
+
+['<BatchError "%s">', '<BatchError %s "%s">', '<HttpError %s "%s">', 'detail', 'details', 'error', 'errors', 'message', 'status', 'utf-8']

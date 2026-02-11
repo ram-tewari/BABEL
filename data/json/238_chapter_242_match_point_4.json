@@ -1,0 +1,865 @@
+{
+  "blocks": [
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Match Point (4)",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "What are you so worried about? After all the effort I put into getting you involved, and now you're just complaining.",
+      "tone": "angry"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "What else can I do? If I lose, how disappointed will Shirone be! Why did you even choose me? You know it too... I'm just—",
+      "tone": "anxious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Losing is better than running away.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nade's suddenly stopped in his tracks.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "Look, as long as one of us wins, that's all that matters. Can't you see the atmosphere? Our role is to be the horse that takes Shirone to Dante. That's an important job. One we can't trust to anyone outside our group.",
+      "tone": "serious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Iruki….",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nade's face face softened with emotion.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Iruki",
+      "content": "And honestly... I don't think you're going to lose. There are a few variables, but the odds are in your favor, so that's why I picked you. Don't stress, just do your best.",
+      "tone": "encouraging"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Iruki was right. Whether they won or lost, if Shirone was determined to fight, it was their responsibility to get him to the enemy. It wasn't something they could leave to someone else.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "This was where he had to take a risk, because he wanted to be a proud friend of Shirone, and not be remembered as someone who ran away in the distant future.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Yeah! Let's give it a try! To hell with it!",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The weekend has arrived, with the first match taking place.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The confrontation between Nade and Savina wasn't a big issue, but the students had already arrived at the Heaven's Trials training ground.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As this was the first match to determine whether or not the showdown between Shirone and Dante would come to fruition, its importance was by no means low, and with the team's distinct characteristics, there were plenty of points of interest for the spectators.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "By the time Amy arrived at the Heaven's Trials training ground, the place was so crowded that there were no empty seats.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Amy! Over here!",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Seriel waved her hand from the first row of the temporary stands she had set up.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy was astounded by her enthusiasm, as she herself had arrived fairly early.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mark",
+      "content": "Hello, Senior!",
+      "tone": "booming"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Mark greeted her in a loud, booming voice, and Maria bowed her head politely.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "Hello, Senior!",
+      "tone": "indifferent"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Amy returned their greetings indifferently and sat down next to Seriel.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "How long have you been here? You must have a lot of free time?",
+      "tone": "amused"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Seriel",
+      "content": "Hehe! Actually, I gave Mark a special mission to reserve the seats. I haven't been here long myself. But we couldn't just watch an event like this from afar, could we? Especially since it's such an important match for Shirone.",
+      "tone": "excited"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Amy",
+      "content": "What's the big deal? Hah. You sure get into a lot of trouble, one way or another.",
+      "tone": "nonchalant"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Although Amy spoke nonchalantly, she wasn't completely at ease.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Airhain Dante was a name she had heard so much that it was practically ingrained in her mind, even for a genius like her.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "A boy who, after surpassing all the promising mage aspirants from across the country, rightfully claimed the number one spot in the kingdom. This is on a whole other level than the barriers Shirone has overcome so far.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Although Shirone's skills improved by leaps and bounds in Heaven, the experts' consensus was that the information magic used by Dante was so delicate that even professionals had difficulty imitating it.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mark",
+      "content": "It's starting! It's starting, Senior!",
+      "tone": "excited"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At Mark's voice, Amy observed the Heaven's Trials training ground.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nade and Savina were in the training ground, while Shirone and Iruki were watching from the side.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The judge for the match was one of the dedicated teachers who rotated for the Heaven's Trials, and today it was Teacher Thad.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Thad called Nade and Savina to the center and explained the rules of the match. The main point was that the match could be stopped at the judge's discretion if severe physical collisions occurred.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nade and Savina engaged in a staring contest without even turning their heads, as if they were deaf to everything around them.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Though Nade had been groaning in anxiety just ten minutes earlier, his expression was now calm, as if he had finished mentally preparing himself.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Closer",
+      "content": "That guy, he might be a dark horse. I had a feeling he was familiar with fighting when he dodged my punch on the first day.",
+      "tone": "curious"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "No, rather than that….",
+      "tone": "disagreeing"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Dante shook his head, seemingly disagreeing with Closer, but couldn't finish his thought.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "It felt like something was off, to say that he was simply accustomed to fighting. If he had to name a similar type, he might have said Canis, but that wasn't exactly right either.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Anyway, it will be revealed in this match. Savina will win no matter who she faces.",
+      "tone": "confident"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "After finishing his explanation, Thad ordered Nade and Savina to return to their designated positions.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The starting points were decided by mutual agreement, with a total distance of 60 meters between them, each positioned 30 meters apart.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Their Spirit Zone was out of reach of each other, but it was close enough to launch a preemptive strike through Sequencing.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "We will now begin the match between Nade and Savina.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Thad raised his arm to signal the start, the students' murmurs suddenly died down.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The graduating class, who have experienced Heaven's Trial interpersonal combats, say this moment is the most nerve-wracking.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "This is because the way they maneuvered their Spirit Zones—whether advancing, retreating, attacking, or defending—would determine the flow of the match.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The four forms of the Four-Way Zone were the basics, but various unconventional forms created numerous variables, making this the foundational moment of the match.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "Start!",
+      "tone": "determined"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Savina",
+      "content": "Start!",
+      "tone": "determined"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Nade and Savina had the same thought.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Advance, attack, initial strike, a preemptive strike.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The Sequencing duel was evenly matched.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As their Spirit Zones overlapped, Electric Bolts and Wind Cutters clashed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "In terms of speed, there are not many elements that can keep up with electricity, except for photons.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "However, electric force, which is sensitive to charge, has the disadvantage of low accuracy.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Eventually, Wind Cutter passed by first, slicing Nade's arm.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Taking advantage of the moment when his Spirit Zone wavered, Savina cast Haste on herself.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "There were not many students who could follow Savina's zigzag sprint with their eyes.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The sight of a human-sized object moving like a cat was like watching a magic trick.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Savina took position behind Nade and swung her hand knife, a blade of wind slashed Nade's neck.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Savina",
+      "content": "'Penetration judgment? Is it over?'",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The moment Savina thought so, a faint electricity flowed through her arm.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was Nade's specialty, Image Copy Magic.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "When she turned her gaze, dozens of Nade had already taken over the surroundings.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Savina",
+      "content": "Hmph! Your little tricks are quite impressive!",
+      "tone": "impressed"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If she spent time confirming each one, it would delay her and increase the risk of falling into a trap.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Savina immediately raised her concentration and unleashed the advanced technique, Cutting Flower.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As she brought her hands together above her head and spun, Wind Cutters spread out in all directions.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "One of Nade's illusions quickly leaped out of the way.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As he escaped beyond the range of the Cutting Flower, Nade looked at Savina with a pale expression.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "She fired more than forty long-range Wind Cutters per second.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was certainly a level beyond the advanced class.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Air Magic is divided into Press Series, which compresses air, and Blow Series, which swings air.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In his opinion, Savina was a mage who specialized in the Blow Series.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nade",
+      "content": "'So, the basic mode isn't enough?'",
+      "tone": "curious"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As Nade concentrated, blue clouds began to form around him.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Electromagnetic bolts popped out of the clouds and moved in a straight line.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Savina",
+      "content": "Plasma?",
+      "tone": "surprised"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Savina hurriedly stopped her approach.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "No matter how skilled she was, she couldn't act recklessly in front of plasma.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Wow, that's plasma. That guy, I guess it wasn't just luck last time.",
+      "tone": "impressed"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dante",
+      "content": "Are you an idiot? That's not something you can learn by luck.",
+      "tone": "angry"
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Real plasma occurs at extremely high temperatures, but in magic that recreates phenomena, it falls under the realm of omniscience, so the temperature itself doesn't rise.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Nevertheless, it is one of the most powerful weapons for electric mages.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Plasma can be seen as a state where electricity spreads out like a cloud and fills the surroundings.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "In short, just as fish are kings in water, electric mages are kings within the electric cloud.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "The disadvantage of Bolt Magic—its lack of accuracy—was irrelevant within the domain of plasma, and instead, the trajectory of Bolt Magic can be changed at will.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Since the environment itself was electric, the consumption of mental strength for casting magic decreased, and above all, it was a passive skill.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "For an electric mage, it was a blessing-like ability.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "However, understanding the omniscience of plasma, which occurs only in extreme environments, was not something even professionals could easily do.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Savina",
+      "content": "Then…",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Savina changed tactics.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The only way to attack Nade without infiltrating the plasma domain was to generate a tornado from the outside and sweep everything away.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As she cast Tornado, several whirlwinds, each 10 meters high, began to dance and move around.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nade tried to close the distance somehow by distracting her gaze with Image Copy.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "One Electric Shock will do the trick. If he could stun her for just one second, no one would be able to withstand the ultra-fast electric bombardment he would unleash from within the plasma domain.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "But Savina was able to move around freely in Heaven's Trial without leaving any gaps thanks to Haste's nimble movements.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As the plasma domain expanded, the number of whirlwinds also increased.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Savina, determined to win, began to merge the 30 tornadoes one by one.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Although the number quickly halved, their size increased more than fourfold.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "If all the tornadoes merge like this, there would be nowhere to escape above the Heaven's Trials.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "Nade judged that if he had to do something, now was the time, and he surveyed the area through the electric power of plasma.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "About 32 percent was metal.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Of course, this was just an environment recreated with information from the Heaven's Trials, but as long as it was a conductor, it could be controlled with plasma.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Nade",
+      "content": "I feel a bit guilty using techniques from another profession…",
+      "tone": "guilty"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was not the time to be picky on this and that.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "If he lost, the burden of making the showdown with Shirone happen would fall solely on Iruki, who was left behind.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nade created a magnetic field with plasma.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The metal particles mixed with the rocks pierced the ground and surged upward.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "As he stirred up a magnetic storm, a metallic tornado formed instantly.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Savina was horrified.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was less than a tenth of the size of her Tornado, but if a mass of nearly three tons were to rotate at the same speed, the destructive power would be comparable.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Savina",
+      "content": "'No! No one can break my ultimate weapon!'",
+      "tone": "determined"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Savina gritted her teeth and merged 15 remaining tornadoes.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Fusion through rotation was an advanced technique, but she successfully merged 30 tornadoes in just two minutes.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "A massive whirlwind arose, large enough to be called a typhoon.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nade's metallic tornado charged toward the eye of that typhoon.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Everyone knew that this would be the final attack.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With the students watching, barely able to breathe, the two tornadoes collided in the center of Heaven's Trials.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "It was a battle of mass and size.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The steel tornado danced wildly inside the giant tornado, shredding the air currents.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The gauge decreased rapidly as the anti-magic from Savina's bracelet began to work.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Nade was also not in a normal state.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Although he was disrupting Savina's Tornado, the difference in scale was too overwhelming.",
+      "tone": null
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Savina",
+      "content": "Ugh!",
+      "tone": "painful"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The wind pressure, stronger than the magnetic force, slowly dismantled the concentrated state of the metal, calming its speed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "At a certain point where the rotational speeds were cancelling each other out, the two forces locked precisely.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Savina's Tornado turned into turbulence and dispersed.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "With a loud noise, strong winds spread outward Heaven's Trials.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Friends watching from the sidelines couldn't withstand the wind pressure and were pushed back.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "The students waited for the dust cloud that had taken over the space to clear.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Some of the dust rose while some settled, revealing the figures of the two combatants.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Savina was hunched over, gasping for breath, and Nade was completely down on his knees.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Thad checked the gauges of the two through the master bracelet.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Both had depleted their mental strength to the point where it was impossible to declare either of them superior.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "However, the students were in awe not of Savina, but of Nade.",
+      "tone": null
+    },
+    {
+      "type": "narrator",
+      "speaker": null,
+      "content": "No one had expected that someone who was only mid-level in the advanced class could push Savina, who was known nationwide, to this extent.",
+      "tone": null
+    },
+    {
+      "type": "thought",
+      "speaker": "Savina",
+      "content": "'I don't know? Perhaps Savina will lose…'",
+      "tone": "concerned"
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Savina walked forward, panting.",
+      "tone": null
+    },
+    {
+      "type": "action",
+      "speaker": null,
+      "content": "Her pride was hurt by the fact that she had been evenly matched with an unknown student she hadn't anticipated.",
+      "tone": null
+    }
+  ],
+  "source_hash": "6f0001739e5bfc6e78b192b26e286371c3b6e451b6beb4f44564ae7a2d0c28ab",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-04T17:40:58.846795+00:00"
+}
