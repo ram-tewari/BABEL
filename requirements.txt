@@ -1,0 +1,29 @@
+# SYSTEM: BABEL Dependencies
+
+# Core dependencies
+pydantic>=2.0.0
+
+# Phase 1 (LLM Transformation) dependencies
+google-genai>=0.1.0
+groq>=0.4.0  # Groq API client with key rotation support
+tenacity>=8.0.0
+
+# Phase 3 (Automation Pipeline) dependencies
+typer>=0.9.0  # CLI framework
+rich>=13.0.0  # Terminal formatting and progress bars
+pyyaml>=6.0.0  # Configuration file parsing
+python-dotenv>=1.0.0  # Load environment variables from .env file
+
+# Phase 4 (Context Management) dependencies
+ruamel.yaml>=0.18.0  # YAML with comment preservation
+
+# Phase 2.7 (FastAPI Backend) dependencies
+fastapi>=0.104.0  # Modern web framework for APIs
+uvicorn[standard]>=0.24.0  # ASGI server for FastAPI
+python-multipart>=0.0.6  # For form data parsing
+
+# Testing dependencies
+pytest>=7.0.0
+hypothesis>=6.0.0
+pytest-mock>=3.0.0
+beautifulsoup4>=4.12.0  # For HTML parsing in property tests

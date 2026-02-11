@@ -1,0 +1,479 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reading Progress Feature Demo</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #0a0a0b;
+            color: #e5e5e5;
+            padding: 40px 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        h1 {
+            font-size: 32px;
+            margin-bottom: 10px;
+            background: linear-gradient(to right, #a855f7, #6366f1);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .subtitle {
+            color: #9ca3af;
+            margin-bottom: 40px;
+        }
+
+        .demo-grid {
+            display: grid;
+            grid-template-columns: 300px 1fr;
+            gap: 40px;
+            margin-top: 40px;
+        }
+
+        .sidebar {
+            background: #0f0f11;
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            border-radius: 12px;
+            height: fit-content;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+        }
+
+        .sidebar-header {
+            padding: 24px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+        }
+
+        .brand {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            font-weight: bold;
+            font-size: 18px;
+        }
+
+        .brand-icon {
+            width: 32px;
+            height: 32px;
+            border-radius: 8px;
+            background: linear-gradient(135deg, #a855f7, #6366f1);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 14px;
+            box-shadow: 0 4px 12px rgba(168, 85, 247, 0.2);
+        }
+
+        .sidebar-content {
+            padding: 24px 16px;
+        }
+
+        .section-title {
+            font-size: 10px;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            color: #6b7280;
+            font-weight: bold;
+            margin-bottom: 16px;
+            padding: 0 8px;
+        }
+
+        .progress-section {
+            margin-bottom: 24px;
+            padding: 0 8px;
+        }
+
+        .progress-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 8px;
+            font-size: 12px;
+        }
+
+        .progress-label {
+            color: #9ca3af;
+        }
+
+        .progress-value {
+            color: #a855f7;
+            font-weight: bold;
+        }
+
+        .progress-bar {
+            height: 8px;
+            background: #1c1c1f;
+            border-radius: 999px;
+            overflow: hidden;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(to right, #a855f7, #6366f1);
+            transition: width 500ms ease-out;
+            box-shadow: 0 0 8px #a855f7;
+        }
+
+        .chapter-list {
+            border-top: 1px solid rgba(255, 255, 255, 0.05);
+        }
+
+        .chapter-item {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 14px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+            cursor: pointer;
+            transition: all 200ms;
+            position: relative;
+        }
+
+        .chapter-item:hover {
+            background: rgba(255, 255, 255, 0.05);
+            padding-left: 16px;
+        }
+
+        .chapter-item.active {
+            background: rgba(168, 85, 247, 0.1);
+        }
+
+        .chapter-item.active::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            width: 4px;
+            height: 32px;
+            background: #a855f7;
+            border-radius: 0 999px 999px 0;
+            box-shadow: 0 0 8px #a855f7;
+        }
+
+        .chapter-main {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            flex: 1;
+            min-width: 0;
+        }
+
+        .chapter-number {
+            font-size: 12px;
+            font-family: 'Courier New', monospace;
+            color: #6b7280;
+            flex-shrink: 0;
+        }
+
+        .chapter-item.active .chapter-number {
+            color: #a855f7;
+            font-weight: bold;
+        }
+
+        .chapter-title {
+            font-size: 14px;
+            color: #d1d5db;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .chapter-item.active .chapter-title {
+            color: white;
+            font-weight: 500;
+        }
+
+        .chapter-item.read .chapter-title {
+            color: #9ca3af;
+        }
+
+        .chapter-indicators {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            flex-shrink: 0;
+        }
+
+        .read-check {
+            color: #10b981;
+            font-size: 14px;
+        }
+
+        .status-badge {
+            font-size: 10px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: #10b981;
+        }
+
+        .active-chevron {
+            color: #a855f7;
+            font-size: 16px;
+        }
+
+        .explanation {
+            background: #1c1c1f;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 12px;
+            padding: 32px;
+        }
+
+        .explanation h2 {
+            font-size: 24px;
+            margin-bottom: 16px;
+            color: #e5e5e5;
+        }
+
+        .explanation h3 {
+            font-size: 18px;
+            margin-top: 24px;
+            margin-bottom: 12px;
+            color: #a855f7;
+        }
+
+        .explanation p {
+            line-height: 1.6;
+            color: #d1d5db;
+            margin-bottom: 16px;
+        }
+
+        .explanation ul {
+            list-style: none;
+            margin-bottom: 16px;
+        }
+
+        .explanation li {
+            padding: 8px 0;
+            padding-left: 24px;
+            position: relative;
+            color: #d1d5db;
+        }
+
+        .explanation li::before {
+            content: '→';
+            position: absolute;
+            left: 0;
+            color: #a855f7;
+        }
+
+        .feature-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 16px;
+            margin-top: 24px;
+        }
+
+        .feature-card {
+            background: #0f0f11;
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            border-radius: 8px;
+            padding: 20px;
+        }
+
+        .feature-card h4 {
+            color: #a855f7;
+            margin-bottom: 8px;
+            font-size: 16px;
+        }
+
+        .feature-card p {
+            font-size: 14px;
+            color: #9ca3af;
+            margin: 0;
+        }
+
+        .code-block {
+            background: #0a0a0b;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 8px;
+            padding: 16px;
+            font-family: 'Courier New', monospace;
+            font-size: 13px;
+            color: #10b981;
+            margin: 16px 0;
+            overflow-x: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>📊 Reading Progress Feature</h1>
+        <p class="subtitle">Track your reading journey with visual progress indicators</p>
+
+        <div class="demo-grid">
+            <!-- Sidebar Demo -->
+            <div class="sidebar">
+                <div class="sidebar-header">
+                    <div class="brand">
+                        <div class="brand-icon">B</div>
+                        <span>BABEL</span>
+                    </div>
+                </div>
+
+                <div class="sidebar-content">
+                    <div class="section-title">Table of Contents</div>
+
+                    <!-- Progress Bar -->
+                    <div class="progress-section">
+                        <div class="progress-header">
+                            <span class="progress-label">Progress</span>
+                            <span class="progress-value">42%</span>
+                        </div>
+                        <div class="progress-bar">
+                            <div class="progress-fill" style="width: 42%"></div>
+                        </div>
+                    </div>
+
+                    <!-- Chapter List -->
+                    <div class="chapter-list">
+                        <!-- Read Chapter -->
+                        <div class="chapter-item read">
+                            <div class="chapter-main">
+                                <span class="chapter-number">#001</span>
+                                <span class="chapter-title">Chapter 1 - Encountering Magic</span>
+                            </div>
+                            <div class="chapter-indicators">
+                                <span class="read-check">✓</span>
+                                <span class="status-badge">Ready</span>
+                            </div>
+                        </div>
+
+                        <!-- Read Chapter -->
+                        <div class="chapter-item read">
+                            <div class="chapter-main">
+                                <span class="chapter-number">#002</span>
+                                <span class="chapter-title">Chapter 2 - Encountering Magic</span>
+                            </div>
+                            <div class="chapter-indicators">
+                                <span class="read-check">✓</span>
+                                <span class="status-badge">Ready</span>
+                            </div>
+                        </div>
+
+                        <!-- Active Chapter -->
+                        <div class="chapter-item active">
+                            <div class="chapter-main">
+                                <span class="chapter-number">#003</span>
+                                <span class="chapter-title">Chapter 3 - Encountering Magic</span>
+                            </div>
+                            <div class="chapter-indicators">
+                                <span class="status-badge">Ready</span>
+                                <span class="active-chevron">▶</span>
+                            </div>
+                        </div>
+
+                        <!-- Unread Chapter -->
+                        <div class="chapter-item">
+                            <div class="chapter-main">
+                                <span class="chapter-number">#004</span>
+                                <span class="chapter-title">Chapter 4 - Meeting the Mentor</span>
+                            </div>
+                            <div class="chapter-indicators">
+                                <span class="status-badge">Ready</span>
+                            </div>
+                        </div>
+
+                        <!-- Unread Chapter -->
+                        <div class="chapter-item">
+                            <div class="chapter-main">
+                                <span class="chapter-number">#005</span>
+                                <span class="chapter-title">Chapter 5 - Meeting the Mentor</span>
+                            </div>
+                            <div class="chapter-indicators">
+                                <span class="status-badge">Ready</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Explanation -->
+            <div class="explanation">
+                <h2>How It Works</h2>
+                <p>
+                    The reading progress feature automatically tracks your reading journey and provides visual feedback about your progress through the novel.
+                </p>
+
+                <h3>Visual Indicators</h3>
+                <ul>
+                    <li><strong>Progress Bar</strong>: Shows overall completion percentage with animated gradient fill</li>
+                    <li><strong>Current Chapter</strong>: Highlighted in purple with indicator line and chevron</li>
+                    <li><strong>Read Chapters</strong>: Dimmed text with green checkmark (✓)</li>
+                    <li><strong>Unread Chapters</strong>: Normal brightness with no indicator</li>
+                </ul>
+
+                <h3>Automatic Tracking</h3>
+                <p>
+                    No manual action required! The system automatically:
+                </p>
+                <ul>
+                    <li>Marks chapters as read when you view them</li>
+                    <li>Updates progress when you scroll to the next chapter</li>
+                    <li>Saves your progress to localStorage</li>
+                    <li>Syncs progress across browser tabs</li>
+                    <li>Restores progress when you return</li>
+                </ul>
+
+                <h3>Technical Implementation</h3>
+                <div class="code-block">
+// Reading Progress Store (Zustand + localStorage)
+interface ReadingProgressState {
+  currentChapterId: number | null;
+  readChapterIds: Set&lt;number&gt;;
+  totalChapters: number;
+  getProgressPercentage: () => number;
+}
+
+// Automatic tracking in ChapterView
+useEffect(() => {
+  if (chapter) {
+    setCurrentChapter(chapter.id); // Auto-mark as read
+  }
+}, [chapter]);
+                </div>
+
+                <h3>Key Features</h3>
+                <div class="feature-grid">
+                    <div class="feature-card">
+                        <h4>🎯 Accurate</h4>
+                        <p>Tracks every chapter you read with O(1) lookup performance</p>
+                    </div>
+                    <div class="feature-card">
+                        <h4>💾 Persistent</h4>
+                        <p>Progress saved to localStorage, never lose your place</p>
+                    </div>
+                    <div class="feature-card">
+                        <h4>🔄 Synced</h4>
+                        <p>Progress syncs across browser tabs automatically</p>
+                    </div>
+                    <div class="feature-card">
+                        <h4>⚡ Fast</h4>
+                        <p>Minimal re-renders, efficient Set-based storage</p>
+                    </div>
+                </div>
+
+                <h3>User Benefits</h3>
+                <ul>
+                    <li>See your reading progress at a glance</li>
+                    <li>Know which chapters you've already read</li>
+                    <li>Track completion percentage</li>
+                    <li>Never lose your place</li>
+                    <li>Motivating visual feedback</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

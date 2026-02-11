@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }}</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background: #0a0a0a;
+            color: #e0e0e0;
+            display: flex;
+        }
+        
+        /* Sidebar TOC */
+        .toc-sidebar {
+            position: fixed;
+            left: 0;
+            top: 0;
+            width: 280px;
+            height: 100vh;
+            overflow-y: auto;
+            background: #1a1a1a;
+            border-right: 1px solid #333;
+            padding: 20px;
+            z-index: 1000;
+        }
+        
+        .toc-sidebar h2 {
+            color: #fff;
+            font-size: 1.5em;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #444;
+        }
+        
+        .toc-sidebar ul {
+            list-style: none;
+        }
+        
+        .toc-sidebar li {
+            margin-bottom: 8px;
+        }
+        
+        .toc-sidebar a {
+            color: #aaa;
+            text-decoration: none;
+            display: block;
+            padding: 8px 12px;
+            border-radius: 4px;
+            transition: all 0.2s;
+            font-size: 0.95em;
+        }
+        
+        .toc-sidebar a:hover {
+            background: #2a2a2a;
+            color: #fff;
+        }
+        
+        /* Main content */
+        .content {
+            margin-left: 300px;
+            padding: 40px;
+            max-width: 900px;
+            width: 100%;
+        }
+        
+        /* Chapter markers */
+        .chapter-marker {
+            scroll-margin-top: 20px;
+            margin-bottom: 80px;
+        }
+        
+        .chapter-title {
+            font-size: 2em;
+            color: #fff;
+            margin-bottom: 30px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid #444;
+        }
+        
+        /* Chapter content - preserve all styling from individual chapters */
+        .chapter-content {
+            /* Styles are inherited from chapter HTML */
+        }
+        
+        /* Responsive design for mobile */
+        @media (max-width: 768px) {
+            .toc-sidebar {
+                width: 100%;
+                height: auto;
+                position: relative;
+                border-right: none;
+                border-bottom: 1px solid #333;
+            }
+            
+            .content {
+                margin-left: 0;
+                padding: 20px;
+            }
+        }
+        
+        /* Smooth scrolling */
+        html {
+            scroll-behavior: smooth;
+        }
+    </style>
+</head>
+<body>
+    <nav class="toc-sidebar">
+        <h2>Table of Contents</h2>
+        <ul>
+            {{ toc_html | safe }}
+        </ul>
+    </nav>
+    
+    <div class="content">
+        {% for chapter in chapters %}
+        <div id="chapter-{{ chapter.index }}" class="chapter-marker">
+            <h1 class="chapter-title">{{ chapter.title }}</h1>
+            <div class="chapter-content">
+                {{ chapter.html_content | safe }}
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</body>
+</html>

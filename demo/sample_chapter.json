@@ -1,0 +1,91 @@
+{
+  "blocks": [
+    {
+      "type": "system_notification",
+      "content": "[Chapter 1: The Awakening]"
+    },
+    {
+      "type": "action",
+      "content": "The chamber was silent except for the rhythmic hum of ancient machinery. Dim blue lights flickered across metallic walls, casting dancing shadows."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kai",
+      "content": "Where... where am I?",
+      "tone": "confused"
+    },
+    {
+      "type": "action",
+      "content": "He tried to move, but his limbs felt heavy, as if weighted down by invisible chains. The last thing he remembered was the blinding flash of light."
+    },
+    {
+      "type": "monologue",
+      "speaker": "Kai",
+      "content": "This isn't right. The tower... it should have killed me. Why am I still breathing?"
+    },
+    {
+      "type": "sfx",
+      "content": "WHOOOOSH"
+    },
+    {
+      "type": "action",
+      "content": "A holographic interface materialized before his eyes, lines of code scrolling faster than he could read."
+    },
+    {
+      "type": "system_notification",
+      "content": "[SYSTEM INITIALIZED]"
+    },
+    {
+      "type": "system_notification",
+      "content": "[Welcome, Player. You have been granted the Cheat Skill: BABEL]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kai",
+      "content": "Babel? What kind of skill is that?",
+      "tone": "skeptical"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "System Voice",
+      "content": "BABEL allows you to understand and translate any language, code, or system. Reality itself is just another language to be decoded.",
+      "tone": "mechanical"
+    },
+    {
+      "type": "monologue",
+      "speaker": "Kai",
+      "content": "A translation skill? In a world where monsters and magic rule? This has to be some kind of joke."
+    },
+    {
+      "type": "action",
+      "content": "The chamber door slid open with a pneumatic hiss. Beyond it, a corridor stretched into darkness, lit only by emergency strips along the floor."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kai",
+      "content": "Guess there's only one way to find out what this skill can really do.",
+      "tone": "determined"
+    },
+    {
+      "type": "sfx",
+      "content": "CLANG CLANG CLANG"
+    },
+    {
+      "type": "action",
+      "content": "Heavy footsteps echoed from somewhere in the darkness. Something was coming."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Unknown Voice",
+      "content": "Intruder detected. Initiating elimination protocol.",
+      "tone": "hostile"
+    },
+    {
+      "type": "action",
+      "content": "Kai's heart raced. Whatever this BABEL skill was, he'd need to figure it out fast—or this second chance at life would be very short indeed."
+    }
+  ],
+  "source_hash": "a3f5b8c9d2e1f4a7b6c5d8e9f1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0",
+  "model_version": "gemini-2.5-flash",
+  "processed_at": "2026-02-03T10:30:00+00:00"
+}

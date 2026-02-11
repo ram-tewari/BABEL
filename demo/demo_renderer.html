@@ -1,0 +1,503 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SYSTEM: BABEL - Phase 2 Renderer Demo</title>
+    <style>
+        /* ===== CSS RESET & BASE ===== */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            /* Cyber-Noir Color Palette */
+            --bg-primary: #0a0e27;
+            --bg-secondary: #151b3d;
+            --bg-tertiary: #1e2749;
+            --accent-cyan: #00d9ff;
+            --accent-magenta: #ff00ff;
+            --accent-yellow: #ffff00;
+            --text-primary: #e0e6f0;
+            --text-secondary: #a0a8b8;
+            --text-muted: #6b7280;
+            --border-color: #2d3748;
+            --shadow-glow: rgba(0, 217, 255, 0.3);
+            
+            /* Typography */
+            --font-serif: 'Georgia', 'Times New Roman', serif;
+            --font-sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+            --font-mono: 'Courier New', 'Consolas', monospace;
+            --font-impact: 'Impact', 'Arial Black', sans-serif;
+        }
+
+        body {
+            background: linear-gradient(135deg, var(--bg-primary) 0%, var(--bg-secondary) 100%);
+            color: var(--text-primary);
+            font-family: var(--font-sans);
+            line-height: 1.6;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        /* ===== HEADER ===== */
+        .header {
+            text-align: center;
+            padding: 40px 20px;
+            border-bottom: 2px solid var(--accent-cyan);
+            margin-bottom: 40px;
+            background: var(--bg-secondary);
+            border-radius: 12px;
+            box-shadow: 0 4px 20px var(--shadow-glow);
+        }
+
+        .header h1 {
+            font-size: clamp(1.8rem, 5vw, 3rem);
+            font-weight: 700;
+            background: linear-gradient(90deg, var(--accent-cyan), var(--accent-magenta));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 10px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        .header .subtitle {
+            color: var(--text-secondary);
+            font-size: clamp(0.9rem, 2vw, 1.1rem);
+            font-style: italic;
+        }
+
+        /* ===== CONTAINER ===== */
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: var(--bg-secondary);
+            border-radius: 12px;
+            padding: 30px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+        }
+
+        .chapter-title {
+            font-size: clamp(1.5rem, 4vw, 2rem);
+            color: var(--accent-cyan);
+            margin-bottom: 30px;
+            padding-bottom: 15px;
+            border-bottom: 1px solid var(--border-color);
+            font-family: var(--font-serif);
+        }
+
+        /* ===== SCRIPT BLOCKS ===== */
+        .script-block {
+            margin-bottom: 20px;
+            padding: 15px;
+            border-radius: 8px;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+        }
+
+        .script-block:hover {
+            transform: translateX(5px);
+        }
+
+        /* DIALOGUE BLOCKS */
+        .block-dialogue {
+            background: var(--bg-tertiary);
+            border-left: 4px solid var(--accent-cyan);
+            padding-left: 20px;
+        }
+
+        .block-dialogue .speaker {
+            font-weight: 700;
+            font-size: 1.1rem;
+            margin-bottom: 8px;
+            font-family: var(--font-sans);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .block-dialogue .content {
+            font-family: var(--font-serif);
+            font-size: 1.05rem;
+            line-height: 1.7;
+            color: var(--text-primary);
+        }
+
+        .block-dialogue .tone {
+            font-size: 0.85rem;
+            color: var(--text-muted);
+            font-style: italic;
+            margin-top: 5px;
+        }
+
+        /* ACTION BLOCKS */
+        .block-action {
+            background: rgba(255, 255, 255, 0.03);
+            border-left: 4px solid var(--text-muted);
+            font-family: var(--font-serif);
+            font-size: 1rem;
+            color: var(--text-secondary);
+            font-style: italic;
+        }
+
+        /* MONOLOGUE BLOCKS */
+        .block-monologue {
+            background: rgba(255, 0, 255, 0.05);
+            border-left: 4px solid var(--accent-magenta);
+            padding-left: 20px;
+        }
+
+        .block-monologue .speaker {
+            font-weight: 600;
+            color: var(--accent-magenta);
+            margin-bottom: 8px;
+            font-size: 1rem;
+        }
+
+        .block-monologue .content {
+            font-family: var(--font-serif);
+            font-style: italic;
+            color: var(--text-secondary);
+            opacity: 0.9;
+            line-height: 1.7;
+        }
+
+        /* SFX BLOCKS */
+        .block-sfx {
+            text-align: center;
+            background: rgba(255, 255, 0, 0.1);
+            border: 2px solid var(--accent-yellow);
+            padding: 20px;
+            margin: 30px 0;
+        }
+
+        .block-sfx .content {
+            font-family: var(--font-impact);
+            font-size: clamp(1.5rem, 4vw, 2.5rem);
+            color: var(--accent-yellow);
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            text-shadow: 0 0 10px var(--accent-yellow);
+        }
+
+        /* SYSTEM NOTIFICATION BLOCKS */
+        .block-system_notification {
+            background: rgba(0, 217, 255, 0.1);
+            border: 2px dashed var(--accent-cyan);
+            padding: 15px;
+            font-family: var(--font-mono);
+            text-align: center;
+            margin: 25px 0;
+        }
+
+        .block-system_notification .content {
+            color: var(--accent-cyan);
+            font-size: 0.95rem;
+            letter-spacing: 1px;
+        }
+
+        /* ===== METADATA FOOTER ===== */
+        .metadata {
+            margin-top: 50px;
+            padding-top: 20px;
+            border-top: 1px solid var(--border-color);
+            font-size: 0.85rem;
+            color: var(--text-muted);
+            font-family: var(--font-mono);
+        }
+
+        .metadata-item {
+            margin-bottom: 5px;
+        }
+
+        .metadata-label {
+            color: var(--accent-cyan);
+            font-weight: 600;
+        }
+
+        /* ===== RESPONSIVE DESIGN ===== */
+        @media (max-width: 768px) {
+            body {
+                padding: 10px;
+            }
+
+            .container {
+                padding: 20px;
+            }
+
+            .header {
+                padding: 30px 15px;
+            }
+
+            .script-block {
+                padding: 12px;
+            }
+
+            .block-dialogue,
+            .block-monologue {
+                padding-left: 15px;
+            }
+        }
+
+        /* ===== SPEAKER COLOR ASSIGNMENT ===== */
+        .speaker-color-0 { color: #00d9ff; }
+        .speaker-color-1 { color: #ff00ff; }
+        .speaker-color-2 { color: #00ff88; }
+        .speaker-color-3 { color: #ff6b6b; }
+        .speaker-color-4 { color: #ffd93d; }
+        .speaker-color-5 { color: #a78bfa; }
+        .speaker-color-6 { color: #fb923c; }
+        .speaker-color-7 { color: #22d3ee; }
+        .speaker-color-8 { color: #f472b6; }
+        .speaker-color-9 { color: #4ade80; }
+
+        /* ===== LOADING STATE ===== */
+        .loading {
+            text-align: center;
+            padding: 60px 20px;
+            color: var(--text-secondary);
+            font-size: 1.2rem;
+        }
+
+        .loading::after {
+            content: '...';
+            animation: dots 1.5s steps(4, end) infinite;
+        }
+
+        @keyframes dots {
+            0%, 20% { content: '.'; }
+            40% { content: '..'; }
+            60%, 100% { content: '...'; }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>SYSTEM: BABEL</h1>
+        <p class="subtitle">Phase 2: The Illusionist - Renderer Demo</p>
+    </div>
+
+    <div class="container">
+        <div id="chapter-content" class="loading">Loading chapter data</div>
+    </div>
+
+    <script>
+        // ===== SAMPLE CHAPTER DATA =====
+        // This would normally come from a JSON file generated by Phase 1
+        const sampleChapterData = {
+            "blocks": [
+                {
+                    "type": "system_notification",
+                    "content": "[Chapter 1: The Awakening]"
+                },
+                {
+                    "type": "action",
+                    "content": "The chamber was silent except for the rhythmic hum of ancient machinery. Dim blue lights flickered across metallic walls, casting dancing shadows."
+                },
+                {
+                    "type": "dialogue",
+                    "speaker": "Kai",
+                    "content": "Where... where am I?",
+                    "tone": "confused"
+                },
+                {
+                    "type": "action",
+                    "content": "He tried to move, but his limbs felt heavy, as if weighted down by invisible chains. The last thing he remembered was the blinding flash of light."
+                },
+                {
+                    "type": "monologue",
+                    "speaker": "Kai",
+                    "content": "This isn't right. The tower... it should have killed me. Why am I still breathing?"
+                },
+                {
+                    "type": "sfx",
+                    "content": "WHOOOOSH"
+                },
+                {
+                    "type": "action",
+                    "content": "A holographic interface materialized before his eyes, lines of code scrolling faster than he could read."
+                },
+                {
+                    "type": "system_notification",
+                    "content": "[SYSTEM INITIALIZED]"
+                },
+                {
+                    "type": "system_notification",
+                    "content": "[Welcome, Player. You have been granted the Cheat Skill: BABEL]"
+                },
+                {
+                    "type": "dialogue",
+                    "speaker": "Kai",
+                    "content": "Babel? What kind of skill is that?",
+                    "tone": "skeptical"
+                },
+                {
+                    "type": "dialogue",
+                    "speaker": "System Voice",
+                    "content": "BABEL allows you to understand and translate any language, code, or system. Reality itself is just another language to be decoded.",
+                    "tone": "mechanical"
+                },
+                {
+                    "type": "monologue",
+                    "speaker": "Kai",
+                    "content": "A translation skill? In a world where monsters and magic rule? This has to be some kind of joke."
+                },
+                {
+                    "type": "action",
+                    "content": "The chamber door slid open with a pneumatic hiss. Beyond it, a corridor stretched into darkness, lit only by emergency strips along the floor."
+                },
+                {
+                    "type": "dialogue",
+                    "speaker": "Kai",
+                    "content": "Guess there's only one way to find out what this skill can really do.",
+                    "tone": "determined"
+                },
+                {
+                    "type": "sfx",
+                    "content": "CLANG CLANG CLANG"
+                },
+                {
+                    "type": "action",
+                    "content": "Heavy footsteps echoed from somewhere in the darkness. Something was coming."
+                },
+                {
+                    "type": "dialogue",
+                    "speaker": "Unknown Voice",
+                    "content": "Intruder detected. Initiating elimination protocol.",
+                    "tone": "hostile"
+                },
+                {
+                    "type": "action",
+                    "content": "Kai's heart raced. Whatever this BABEL skill was, he'd need to figure it out fast—or this second chance at life would be very short indeed."
+                }
+            ],
+            "source_hash": "a3f5b8c9d2e1f4a7b6c5d8e9f1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0",
+            "model_version": "gemini-2.5-flash",
+            "processed_at": "2026-02-03T10:30:00+00:00"
+        };
+
+        // ===== SPEAKER COLOR ASSIGNMENT =====
+        // Hash speaker name to assign consistent color
+        function hashString(str) {
+            let hash = 0;
+            for (let i = 0; i < str.length; i++) {
+                const char = str.charCodeAt(i);
+                hash = ((hash << 5) - hash) + char;
+                hash = hash & hash; // Convert to 32-bit integer
+            }
+            return Math.abs(hash);
+        }
+
+        function getSpeakerColorClass(speaker) {
+            if (!speaker) return '';
+            const hash = hashString(speaker);
+            const colorIndex = hash % 10; // 10 color variants
+            return `speaker-color-${colorIndex}`;
+        }
+
+        // ===== RENDER FUNCTIONS =====
+        function renderBlock(block) {
+            const blockDiv = document.createElement('div');
+            blockDiv.className = `script-block block-${block.type}`;
+
+            switch (block.type) {
+                case 'dialogue':
+                    const speakerDiv = document.createElement('div');
+                    speakerDiv.className = `speaker ${getSpeakerColorClass(block.speaker)}`;
+                    speakerDiv.textContent = block.speaker || 'Unknown';
+                    blockDiv.appendChild(speakerDiv);
+
+                    const contentDiv = document.createElement('div');
+                    contentDiv.className = 'content';
+                    contentDiv.textContent = block.content;
+                    blockDiv.appendChild(contentDiv);
+
+                    if (block.tone) {
+                        const toneDiv = document.createElement('div');
+                        toneDiv.className = 'tone';
+                        toneDiv.textContent = `[${block.tone}]`;
+                        blockDiv.appendChild(toneDiv);
+                    }
+                    break;
+
+                case 'monologue':
+                    const monoSpeakerDiv = document.createElement('div');
+                    monoSpeakerDiv.className = 'speaker';
+                    monoSpeakerDiv.textContent = `${block.speaker}'s thoughts`;
+                    blockDiv.appendChild(monoSpeakerDiv);
+
+                    const monoContentDiv = document.createElement('div');
+                    monoContentDiv.className = 'content';
+                    monoContentDiv.textContent = block.content;
+                    blockDiv.appendChild(monoContentDiv);
+                    break;
+
+                case 'action':
+                case 'sfx':
+                case 'system_notification':
+                    const simpleContentDiv = document.createElement('div');
+                    simpleContentDiv.className = 'content';
+                    simpleContentDiv.textContent = block.content;
+                    blockDiv.appendChild(simpleContentDiv);
+                    break;
+            }
+
+            return blockDiv;
+        }
+
+        function renderChapter(chapterData) {
+            const container = document.getElementById('chapter-content');
+            container.innerHTML = ''; // Clear loading message
+
+            // Render title
+            const titleDiv = document.createElement('div');
+            titleDiv.className = 'chapter-title';
+            titleDiv.textContent = 'Chapter 1: The Awakening';
+            container.appendChild(titleDiv);
+
+            // Render blocks
+            chapterData.blocks.forEach(block => {
+                const blockElement = renderBlock(block);
+                container.appendChild(blockElement);
+            });
+
+            // Render metadata
+            const metadataDiv = document.createElement('div');
+            metadataDiv.className = 'metadata';
+            metadataDiv.innerHTML = `
+                <div class="metadata-item">
+                    <span class="metadata-label">Source Hash:</span> ${chapterData.source_hash}
+                </div>
+                <div class="metadata-item">
+                    <span class="metadata-label">Model Version:</span> ${chapterData.model_version}
+                </div>
+                <div class="metadata-item">
+                    <span class="metadata-label">Processed At:</span> ${new Date(chapterData.processed_at).toLocaleString()}
+                </div>
+                <div class="metadata-item">
+                    <span class="metadata-label">Total Blocks:</span> ${chapterData.blocks.length}
+                </div>
+            `;
+            container.appendChild(metadataDiv);
+        }
+
+        // ===== INITIALIZE =====
+        // Simulate loading delay for demo purposes
+        setTimeout(() => {
+            renderChapter(sampleChapterData);
+        }, 500);
+
+        // ===== EXPORT FOR TESTING =====
+        // You can paste different chapter JSON data into the console:
+        // window.loadChapter(yourChapterData)
+        window.loadChapter = function(chapterData) {
+            renderChapter(chapterData);
+        };
+
+        console.log('%c🎭 SYSTEM: BABEL Renderer Demo', 'color: #00d9ff; font-size: 20px; font-weight: bold;');
+        console.log('%cTo load custom chapter data, use: window.loadChapter(yourChapterData)', 'color: #a0a8b8;');
+    </script>
+</body>
+</html>

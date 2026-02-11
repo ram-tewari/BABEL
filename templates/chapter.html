@@ -1,0 +1,1182 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }}</title>
+    <style>
+        /* ========================================
+           PHASE 2.6: THE FLUID UI
+           CSS Variables + Glassmorphism + Micro-interactions
+           ======================================== */
+
+        /* Theme Variables */
+        :root {
+            /* Dark Mode (Default) */
+            --bg-primary: #0f0f0f;
+            --bg-secondary: #1a1a1a;
+            --bg-tertiary: #2a2a2a;
+            --text-main: #e0e0e0;
+            --text-dim: #999;
+            --text-ghost: #666;
+            --accent: #a78bfa;
+            --accent-hover: #8b5cf6;
+            --border: #333;
+            --shadow: rgba(0, 0, 0, 0.5);
+            --glass-bg: rgba(26, 26, 26, 0.85);
+            --glass-border: rgba(255, 255, 255, 0.1);
+
+            /* Character CSS Variables (Generated) */
+            {% for char_class, style in character_styles.items() %}
+            --{{ char_class }}-color: {{ style.color }};
+            {% endfor %}
+
+            /* Typography */
+            --base-font-size: 16px;
+            --font-sans: -apple-system,
+            BlinkMacSystemFont,
+            "Segoe UI",
+            Roboto,
+            sans-serif;
+            --font-serif: Georgia,
+            "Times New Roman",
+            serif;
+            --font-mono: "Courier New",
+            Consolas,
+            monospace;
+        }
+
+        /* Light Mode Theme */
+        [data-theme="light"] {
+            --bg-primary: #f5f1e8;
+            --bg-secondary: #ffffff;
+            --bg-tertiary: #e8e4db;
+            --text-main: #2a2a2a;
+            --text-dim: #666;
+            --text-ghost: #999;
+            --accent: #8b5cf6;
+            --accent-hover: #7c3aed;
+            --border: #d0ccc3;
+            --shadow: rgba(0, 0, 0, 0.1);
+            --glass-bg: rgba(255, 255, 255, 0.85);
+            --glass-border: rgba(0, 0, 0, 0.1);
+        }
+
+        /* Base Reset */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html {
+            font-size: var(--base-font-size);
+        }
+
+        body {
+            background: var(--bg-primary);
+            color: var(--text-main);
+            font-family: var(--font-sans);
+            line-height: 1.6;
+            transition: background 0.3s, color 0.3s;
+        }
+
+        /* ========================================
+           LAYOUT: Grid System
+           ======================================== */
+
+        .app-container {
+            display: grid;
+            grid-template-columns: auto 1fr;
+            grid-template-rows: auto 1fr;
+            grid-template-areas:
+                "sidebar header"
+                "sidebar main";
+            min-height: 100vh;
+        }
+
+        /* ========================================
+           SIDEBAR: Collapsible Navigation
+           ======================================== */
+
+        .sidebar {
+            grid-area: sidebar;
+            width: 280px;
+            background: var(--glass-bg);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            border-right: 1px solid var(--glass-border);
+            overflow-y: auto;
+            position: sticky;
+            top: 0;
+            height: 100vh;
+            transition: transform 0.3s ease;
+            z-index: 100;
+            border-radius: 0 0 24px 0;
+            scrollbar-width: none;
+            -ms-overflow-style: none;
+        }
+
+        .sidebar::-webkit-scrollbar {
+            display: none;
+        }
+
+        .sidebar.closed {
+            transform: translateX(-100%);
+        }
+
+        .sidebar-header {
+            padding: 16px 20px;
+            border-bottom: 1px solid var(--border);
+            font-weight: 600;
+            font-size: 0.9em;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: var(--text-dim);
+            height: 57px;
+            display: flex;
+            align-items: center;
+        }
+
+        .chapter-list {
+            list-style: none;
+        }
+
+        .chapter-item {
+            border-bottom: 1px solid var(--border);
+        }
+
+        .chapter-link {
+            display: block;
+            padding: 16px 20px;
+            color: var(--text-main);
+            text-decoration: none;
+            transition: background 0.2s, padding-left 0.2s, border-radius 0.2s;
+            margin: 4px 8px;
+            border-radius: 12px;
+        }
+
+        .chapter-link:hover {
+            background: var(--bg-tertiary);
+            padding-left: 24px;
+        }
+
+        .chapter-link.current {
+            background: var(--accent);
+            color: var(--bg-primary);
+            font-weight: 600;
+            border-left: 4px solid var(--bg-primary);
+            border-radius: 12px;
+        }
+
+        .chapter-index {
+            font-size: 0.85em;
+            opacity: 0.7;
+            margin-right: 8px;
+        }
+
+        @media (max-width: 768px) {
+            .sidebar {
+                position: fixed;
+                z-index: 1000;
+            }
+
+            .sidebar.closed {
+                transform: translateX(-100%);
+            }
+
+            .app-container {
+                grid-template-columns: 1fr;
+                grid-template-areas:
+                    "header"
+                    "main";
+            }
+        }
+
+        /* ========================================
+           HEADER: Sticky Top Bar
+           ======================================== */
+
+        .header {
+            grid-area: header;
+            position: sticky;
+            top: 0;
+            background: var(--glass-bg);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            border-bottom: 1px solid var(--glass-border);
+            padding: 16px 24px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            z-index: 90;
+            border-radius: 0 0 24px 0;
+            transition: border-radius 0.3s ease, margin-left 0.3s ease;
+        }
+
+        .app-container:has(.sidebar.closed) .header {
+            border-radius: 0 0 24px 24px;
+            margin-left: -280px;
+        }
+
+        .header-left {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+        }
+
+        .menu-button,
+        .settings-button {
+            background: none;
+            border: none;
+            cursor: pointer;
+            padding: 8px;
+            border-radius: 16px;
+            transition: background 0.2s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .menu-button:hover,
+        .settings-button:hover {
+            background: var(--bg-tertiary);
+        }
+
+        .menu-button svg,
+        .settings-button svg {
+            width: 24px;
+            height: 24px;
+            stroke: var(--text-main);
+            fill: none;
+            stroke-width: 2;
+            stroke-linecap: round;
+            stroke-linejoin: round;
+        }
+
+        .chapter-title {
+            font-size: 1.1em;
+            font-weight: 600;
+            color: var(--text-main);
+        }
+
+        /* ========================================
+           MAIN CONTENT
+           ======================================== */
+
+        .main {
+            grid-area: main;
+            padding: 40px 20px;
+            max-width: 800px;
+            margin: 0 auto;
+            width: 100%;
+        }
+
+        .content {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        .narrator:has(+ .narrator) {
+            margin-bottom: 0;
+        }
+
+        /* ========================================
+           DIALOGUE BUBBLES: Micro-interactions
+           ======================================== */
+
+        .block {
+            animation: fadeIn 0.4s ease;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(10px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .dialogue {
+            display: flex;
+            flex-direction: column;
+            max-width: 70%;
+            position: relative;
+        }
+
+        .dialogue.left {
+            align-self: flex-start;
+        }
+
+        .dialogue.right {
+            align-self: flex-end;
+            align-items: flex-end;
+        }
+
+        .dialogue .speaker {
+            font-size: 0.9em;
+            font-weight: 600;
+            margin-bottom: 6px;
+            cursor: pointer;
+            transition: opacity 0.2s;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .dialogue .speaker:hover {
+            opacity: 0.7;
+        }
+
+        .dialogue .bubble {
+            padding: 14px 18px;
+            border-radius: 24px;
+            border: 2px solid;
+            transition: transform 0.2s, box-shadow 0.2s;
+            position: relative;
+        }
+
+        .dialogue .bubble:hover {
+            transform: scale(1.02);
+            box-shadow: 0 4px 12px var(--shadow);
+        }
+
+        .tone-emoji {
+            position: absolute;
+            top: -8px;
+            right: -8px;
+            font-size: 1.2em;
+            opacity: 0;
+            animation: popIn 0.5s ease forwards;
+            animation-delay: 0.2s;
+        }
+
+        @keyframes popIn {
+            0% {
+                opacity: 0;
+                transform: scale(0) rotate(-180deg);
+            }
+
+            70% {
+                transform: scale(1.2) rotate(10deg);
+            }
+
+            100% {
+                opacity: 1;
+                transform: scale(1) rotate(0deg);
+            }
+        }
+
+        /* Apply character colors */
+        {% for char_class, style in character_styles.items() %}
+        .{{ char_class }} .speaker {
+            color: var(--{{ char_class }}-color);
+        }
+
+        .{{ char_class }} .bubble {
+            border-color: var(--{{ char_class }}-color);
+            background: color-mix(in srgb, var(--{{ char_class }}-color) 10%, transparent);
+        }
+
+        .{{ char_class }} .thought .content {
+            border-color: color-mix(in srgb, var(--{{ char_class }}-color), #808080 70%);
+            background: color-mix(in srgb, var(--{{ char_class }}-color) 5%, transparent);
+        }
+        {% endfor %}
+
+        /* ========================================
+           OTHER BLOCK TYPES
+           ======================================== */
+
+        .thought {
+            max-width: 70%;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+        }
+
+        .thought.left {
+            align-self: flex-start;
+        }
+
+        .thought.right {
+            align-self: flex-end;
+            align-items: flex-end;
+        }
+
+        .thought .speaker {
+            font-size: 0.85em;
+            font-weight: 600;
+            margin-bottom: 6px;
+            opacity: 0.7;
+            font-style: normal;
+        }
+
+        .thought .content {
+            padding: 14px 18px;
+            border: 2px dashed var(--border);
+            border-radius: 12px;
+            color: var(--text-dim);
+            font-style: italic;
+            font-family: var(--font-serif);
+            line-height: 1.6;
+            position: relative;
+        }
+
+        .thought.right .content {
+            text-align: right;
+        }
+
+        .action {
+            text-align: center;
+            color: var(--text-dim);
+            font-family: var(--font-serif);
+            padding: 16px 0;
+            font-style: italic;
+        }
+
+        .narrator {
+            text-align: left;
+            color: var(--text-dim);
+            font-family: var(--font-serif);
+            font-style: italic;
+            padding: 18px 24px;
+            font-size: 0.95em;
+            margin: 20px 40px;
+            max-width: 600px;
+            background: #2a2a2a !important;
+            border-radius: 16px;
+            border-left: 3px solid rgba(167, 139, 250, 0.3);
+            line-height: 1.7;
+            position: relative;
+        }
+
+        .narrator+.narrator {
+            margin-top: -20px;
+            padding-top: 0;
+            border-radius: 0;
+            border-left: none;
+        }
+
+        .narrator:not(.narrator + .narrator):has(+ .narrator) {
+            border-top-left-radius: 16px;
+            border-top-right-radius: 16px;
+            border-bottom-left-radius: 0;
+            border-bottom-right-radius: 0;
+        }
+
+        .narrator:not(:has(+ .narrator)) {
+            border-bottom-left-radius: 16px;
+            border-bottom-right-radius: 16px;
+        }
+
+        .narrator+.narrator:has(+ .narrator) {
+            border-radius: 0;
+        }
+
+        .narrator:not(.narrator + .narrator):not(:has(+ .narrator)) {
+            border-radius: 16px;
+        }
+
+        .narrator+.narrator::before {
+            content: '';
+            display: block;
+            height: 16px;
+        }
+
+        .keyword {
+            color: var(--text-dim);
+            font-weight: 500;
+            font-style: normal;
+            position: relative;
+            cursor: help;
+            transition: all 0.3s ease;
+            text-decoration: underline;
+            text-decoration-style: dotted;
+            text-decoration-color: rgba(167, 139, 250, 0.4);
+            text-underline-offset: 3px;
+        }
+
+        .keyword:hover {
+            color: var(--accent);
+            text-shadow: 0 0 8px rgba(167, 139, 250, 0.5);
+            text-decoration-color: var(--accent);
+        }
+
+        .keyword-tooltip {
+            position: absolute;
+            bottom: 100%;
+            left: 50%;
+            transform: translateX(-50%) translateY(-8px);
+            background: var(--glass-bg);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            border: 1px solid var(--glass-border);
+            border-radius: 12px;
+            padding: 12px 16px;
+            font-size: 0.85em;
+            font-style: normal;
+            font-family: var(--font-sans);
+            color: var(--text-main);
+            white-space: nowrap;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 0.3s ease, transform 0.3s ease;
+            z-index: 1000;
+            box-shadow: 0 4px 12px var(--shadow);
+            max-width: 300px;
+            white-space: normal;
+        }
+
+        .keyword:hover .keyword-tooltip {
+            opacity: 1;
+            transform: translateX(-50%) translateY(-12px);
+        }
+
+        .keyword-tooltip::after {
+            content: '';
+            position: absolute;
+            top: 100%;
+            left: 50%;
+            transform: translateX(-50%);
+            border: 6px solid transparent;
+            border-top-color: var(--glass-bg);
+        }
+
+        .monologue {
+            text-align: center;
+            color: var(--text-ghost);
+            font-style: italic;
+            padding: 12px 0;
+        }
+
+        .system {
+            font-family: var(--font-mono);
+            color: var(--accent);
+            border: 2px solid var(--accent);
+            background: color-mix(in srgb, var(--accent) 10%, transparent);
+            padding: 16px;
+            border-radius: 16px;
+            text-align: center;
+            font-size: 0.9em;
+        }
+
+        /* ========================================
+           NAVIGATION
+           ======================================== */
+
+        .navigation {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 60px;
+            padding-top: 30px;
+            border-top: 1px solid var(--border);
+            gap: 16px;
+        }
+
+        .nav-button {
+            padding: 12px 24px;
+            background: var(--bg-tertiary);
+            color: var(--text-main);
+            text-decoration: none;
+            border-radius: 16px;
+            transition: background 0.2s, transform 0.2s;
+            font-weight: 500;
+            border: 1px solid var(--border);
+        }
+
+        .nav-button:hover {
+            background: var(--accent);
+            color: var(--bg-primary);
+            transform: translateY(-2px);
+        }
+
+        .nav-button:disabled {
+            opacity: 0.3;
+            pointer-events: none;
+        }
+
+        /* ========================================
+           SETTINGS MODAL
+           ======================================== */
+
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.7);
+            backdrop-filter: blur(4px);
+            z-index: 2000;
+            justify-content: center;
+            align-items: center;
+            animation: fadeIn 0.2s ease;
+        }
+
+        .modal.active {
+            display: flex;
+        }
+
+        .modal-content {
+            background: var(--bg-secondary);
+            padding: 32px;
+            border-radius: 24px;
+            max-width: 400px;
+            width: 90%;
+            box-shadow: 0 8px 32px var(--shadow);
+            border: 1px solid var(--glass-border);
+        }
+
+        .modal-header {
+            font-size: 1.4em;
+            font-weight: 600;
+            margin-bottom: 24px;
+            color: var(--text-main);
+        }
+
+        .modal-field {
+            margin-bottom: 24px;
+        }
+
+        .modal-field label {
+            display: block;
+            margin-bottom: 8px;
+            color: var(--text-dim);
+            font-size: 0.9em;
+            font-weight: 500;
+        }
+
+        .modal-field input[type="range"] {
+            width: 100%;
+            height: 6px;
+            border-radius: 3px;
+            background: var(--bg-tertiary);
+            outline: none;
+            -webkit-appearance: none;
+        }
+
+        .modal-field input[type="range"]::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 18px;
+            height: 18px;
+            border-radius: 50%;
+            background: var(--accent);
+            cursor: pointer;
+        }
+
+        .modal-field input[type="range"]::-moz-range-thumb {
+            width: 18px;
+            height: 18px;
+            border-radius: 50%;
+            background: var(--accent);
+            cursor: pointer;
+            border: none;
+        }
+
+        .theme-toggle {
+            display: flex;
+            gap: 12px;
+        }
+
+        .theme-button {
+            flex: 1;
+            padding: 12px;
+            border: 2px solid var(--border);
+            background: var(--bg-tertiary);
+            color: var(--text-main);
+            border-radius: 16px;
+            cursor: pointer;
+            transition: all 0.2s;
+            font-weight: 500;
+        }
+
+        .theme-button.active {
+            background: var(--accent);
+            color: var(--bg-primary);
+            border-color: var(--accent);
+        }
+
+        .theme-button:hover {
+            transform: translateY(-2px);
+        }
+
+        .modal-close {
+            width: 100%;
+            padding: 12px;
+            margin-top: 20px;
+            background: var(--bg-tertiary);
+            color: var(--text-main);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            cursor: pointer;
+            font-size: 1em;
+            font-weight: 500;
+            transition: background 0.2s;
+        }
+
+        .modal-close:hover {
+            background: var(--accent);
+            color: var(--bg-primary);
+        }
+
+        .modal-field input[type="text"],
+        .modal-field input[type="color"],
+        .modal-field select {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid var(--border);
+            background: var(--bg-primary);
+            color: var(--text-main);
+            border-radius: 12px;
+            font-size: 1em;
+        }
+
+        .modal-field input[type="color"] {
+            height: 50px;
+            cursor: pointer;
+        }
+
+        .modal-field select {
+            cursor: pointer;
+        }
+
+        .modal-actions {
+            display: flex;
+            gap: 10px;
+            margin-top: 20px;
+            flex-wrap: wrap;
+        }
+
+        .modal-button {
+            flex: 1;
+            min-width: 100px;
+            padding: 12px;
+            border: none;
+            border-radius: 12px;
+            font-size: 1em;
+            cursor: pointer;
+            transition: all 0.2s;
+            font-weight: 500;
+        }
+
+        .modal-button.primary {
+            background: var(--accent);
+            color: var(--bg-primary);
+        }
+
+        .modal-button.primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px var(--shadow);
+        }
+
+        .modal-button.secondary {
+            background: var(--bg-tertiary);
+            color: var(--text-main);
+            border: 1px solid var(--border);
+        }
+
+        .modal-button.secondary:hover {
+            background: var(--bg-secondary);
+        }
+
+        .modal-button.reset {
+            background: #ef4444;
+            color: #fff;
+        }
+
+        .modal-button.reset:hover {
+            background: #dc2626;
+        }
+
+        .metadata {
+            margin-top: 60px;
+            padding-top: 30px;
+            border-top: 1px solid var(--border);
+            font-size: 0.85em;
+            color: var(--text-ghost);
+            text-align: center;
+        }
+
+        @media (max-width: 768px) {
+            .main {
+                padding: 20px 16px;
+            }
+
+            .dialogue,
+            .thought {
+                max-width: 85%;
+            }
+
+            .narrator {
+                margin: 20px 16px;
+            }
+
+            .chapter-title {
+                font-size: 0.95em;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="app-container">
+        <aside class="sidebar" id="sidebar">
+            <div class="sidebar-header">Table of Contents</div>
+            <ul class="chapter-list">
+                {% for chapter in toc %}
+                <li class="chapter-item">
+                    <a href="{{ chapter.filename }}" class="chapter-link {% if chapter.is_current %}current{% endif %}">
+                        <span class="chapter-index">#{{ chapter.index }}</span>
+                        <span class="chapter-title-text">{{ chapter.title }}</span>
+                    </a>
+                </li>
+                {% endfor %}
+            </ul>
+        </aside>
+
+        <header class="header">
+            <div class="header-left">
+                <button class="menu-button" id="menuButton" aria-label="Toggle sidebar">
+                    <svg viewBox="0 0 24 24">
+                        <line x1="3" y1="12" x2="21" y2="12"></line>
+                        <line x1="3" y1="6" x2="21" y2="6"></line>
+                        <line x1="3" y1="18" x2="21" y2="18"></line>
+                    </svg>
+                </button>
+                <span class="chapter-title">{{ title }}</span>
+            </div>
+            <button class="settings-button" id="settingsButton" aria-label="Open settings">
+                <svg viewBox="0 0 24 24">
+                    <circle cx="12" cy="12" r="3"></circle>
+                    <path
+                        d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z">
+                    </path>
+                </svg>
+            </button>
+        </header>
+
+        <main class="main">
+            <div class="content">
+                {% for block in blocks %}
+                {% if block.type == 'dialogue' %}
+                <div class="block dialogue {{ block.char_class }} {{ block.lane }}"
+                    data-char-class="{{ block.char_class }}" data-char-name="{{ block.speaker }}"
+                    onclick="openCharacterModal('{{ block.speaker }}', '{{ block.color }}', '{{ block.lane }}')">
+                    <div class="speaker">{{ block.speaker }}</div>
+                    <div class="bubble">
+                        {{ block.content }}
+                        {% if block.tone_emoji %}<span class="tone-emoji">{{ block.tone_emoji }}</span>{% endif %}
+                    </div>
+                </div>
+
+                {% elif block.type == 'thought' %}
+                <div class="block thought {{ block.char_class }} {{ block.lane }}"
+                    data-char-class="{{ block.char_class }}" data-char-name="{{ block.speaker }}">
+                    <div class="speaker">{{ block.speaker }}</div>
+                    <div class="content">{{ block.content }}</div>
+                </div>
+
+                {% elif block.type == 'action' %}
+                <div class="block action" data-char-class="{{ block.char_class }}" data-char-name="Action">
+                    {{ block.content }}
+                </div>
+
+                {% elif block.type == 'narrator' %}
+                <div class="block narrator">
+                    {{ block.content }}
+                </div>
+
+                {% elif block.type == 'monologue' %}
+                <div class="block monologue">
+                    {{ block.content }}
+                </div>
+
+                {% elif block.type == 'system' %}
+                <div class="block system">
+                    {{ block.content }}
+                </div>
+
+                {% endif %}
+                {% endfor %}
+            </div>
+
+            <div class="navigation">
+                {% if navigation.prev %}
+                <a href="{{ navigation.prev }}" class="nav-button">← Previous</a>
+                {% else %}
+                <span class="nav-button" disabled>← Previous</span>
+                {% endif %}
+
+                {% if navigation.next %}
+                <a href="{{ navigation.next }}" class="nav-button">Next →</a>
+                {% else %}
+                <span class="nav-button" disabled>Next →</span>
+                {% endif %}
+            </div>
+
+            <div class="metadata">
+                <p>Model: {{ metadata.model_version }} | Processed: {{ metadata.processed_at }}</p>
+                <p>Hash: {{ metadata.source_hash }}</p>
+            </div>
+        </main>
+    </div>
+
+    <div id="settingsModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">⚙️ Settings</div>
+            <div class="modal-field">
+                <label for="themeToggle">Theme</label>
+                <div class="theme-toggle">
+                    <button class="theme-button" id="lightTheme" data-theme="light">☀️ Light</button>
+                    <button class="theme-button active" id="darkTheme" data-theme="dark">🌙 Dark</button>
+                </div>
+            </div>
+            <div class="modal-field">
+                <label for="fontSizeSlider">Font Size: <span id="fontSizeValue">16px</span></label>
+                <input type="range" id="fontSizeSlider" min="12" max="24" value="16" step="1">
+            </div>
+            <button class="modal-close" onclick="closeSettings()">Close</button>
+        </div>
+    </div>
+
+    <div id="characterModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">🎨 Character Settings</div>
+            <div class="modal-field">
+                <label for="charNameInput">Display Name</label>
+                <input type="text" id="charNameInput" placeholder="Enter display name">
+            </div>
+            <div class="modal-field">
+                <label for="charColorInput">Color</label>
+                <input type="color" id="charColorInput" value="#a78bfa">
+            </div>
+            <div class="modal-field">
+                <label for="charLaneInput">Position</label>
+                <select id="charLaneInput">
+                    <option value="left">Left</option>
+                    <option value="right">Right</option>
+                    <option value="center">Center</option>
+                </select>
+            </div>
+            <div class="modal-actions">
+                <button class="modal-button primary" onclick="saveCharacterSettings()">Save</button>
+                <button class="modal-button secondary" onclick="closeCharacterModal()">Cancel</button>
+                <button class="modal-button reset" onclick="resetCharacterSettings()">Reset</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const ThemeManager = {
+            init() {
+                const savedTheme = localStorage.getItem('babel-theme') || 'dark';
+                this.apply(savedTheme);
+            },
+            toggle(theme) {
+                this.apply(theme);
+                localStorage.setItem('babel-theme', theme);
+            },
+            apply(theme) {
+                document.documentElement.setAttribute('data-theme', theme);
+                document.querySelectorAll('.theme-button').forEach(btn => {
+                    btn.classList.toggle('active', btn.dataset.theme === theme);
+                });
+            }
+        };
+
+        const SidebarManager = {
+            init() {
+                const isMobile = window.innerWidth <= 768;
+                const savedState = localStorage.getItem('babel-sidebar');
+                if (isMobile || savedState === 'closed') {
+                    document.getElementById('sidebar').classList.add('closed');
+                }
+            },
+            toggle() {
+                const sidebar = document.getElementById('sidebar');
+                sidebar.classList.toggle('closed');
+                localStorage.setItem('babel-sidebar', sidebar.classList.contains('closed') ? 'closed' : 'open');
+            }
+        };
+
+        const FontSizeManager = {
+            init() {
+                const savedSize = localStorage.getItem('babel-font-size') || 16;
+                this.apply(savedSize);
+                const slider = document.getElementById('fontSizeSlider');
+                slider.value = savedSize;
+                slider.addEventListener('input', (e) => {
+                    this.apply(e.target.value);
+                    localStorage.setItem('babel-font-size', e.target.value);
+                });
+            },
+            apply(size) {
+                document.documentElement.style.setProperty('--base-font-size', `${size}px`);
+                document.getElementById('fontSizeValue').textContent = `${size}px`;
+            }
+        };
+
+        function openSettings() {
+            document.getElementById('settingsModal').classList.add('active');
+        }
+
+        function closeSettings() {
+            document.getElementById('settingsModal').classList.remove('active');
+        }
+
+        let currentCharacter = null;
+
+        function openCharacterModal(name, color, lane) {
+            currentCharacter = name;
+            const prefs = CharacterManager.getPreferences(name);
+            document.getElementById('charNameInput').value = prefs.displayName || name;
+            document.getElementById('charColorInput').value = prefs.color || color;
+            document.getElementById('charLaneInput').value = prefs.lane || lane;
+            document.getElementById('characterModal').classList.add('active');
+        }
+
+        function closeCharacterModal() {
+            document.getElementById('characterModal').classList.remove('active');
+            currentCharacter = null;
+        }
+
+        function saveCharacterSettings() {
+            if (!currentCharacter) return;
+            const displayName = document.getElementById('charNameInput').value;
+            const color = document.getElementById('charColorInput').value;
+            const lane = document.getElementById('charLaneInput').value;
+            CharacterManager.savePreferences(currentCharacter, { displayName, color, lane });
+            CharacterManager.applyPreferences();
+            closeCharacterModal();
+        }
+
+        function resetCharacterSettings() {
+            if (!currentCharacter) return;
+            CharacterManager.resetPreferences(currentCharacter);
+            CharacterManager.applyPreferences();
+            closeCharacterModal();
+        }
+
+        const CharacterManager = {
+            getPreferences(name) {
+                const stored = localStorage.getItem('babel-characters');
+                if (!stored) return {};
+                const prefs = JSON.parse(stored);
+                return prefs[name] || {};
+            },
+            savePreferences(name, prefs) {
+                const stored = localStorage.getItem('babel-characters');
+                const all = stored ? JSON.parse(stored) : {};
+                all[name] = prefs;
+                localStorage.setItem('babel-characters', JSON.stringify(all));
+            },
+            resetPreferences(name) {
+                const stored = localStorage.getItem('babel-characters');
+                if (!stored) return;
+                const all = JSON.parse(stored);
+                delete all[name];
+                localStorage.setItem('babel-characters', JSON.stringify(all));
+            },
+            applyPreferences() {
+                const stored = localStorage.getItem('babel-characters');
+                if (!stored) return;
+                const prefs = JSON.parse(stored);
+                Object.entries(prefs).forEach(([name, pref]) => {
+                    const elements = document.querySelectorAll(`[data-char-name="${name}"]`);
+                    elements.forEach(el => {
+                        if (pref.displayName) {
+                            const speaker = el.querySelector('.speaker');
+                            if (speaker) speaker.textContent = pref.displayName;
+                        }
+                        if (pref.color) {
+                            const charClass = el.dataset.charClass;
+                            document.documentElement.style.setProperty(`--${charClass}-color`, pref.color);
+                        }
+                        if (pref.lane) {
+                            el.classList.remove('left', 'right', 'center');
+                            el.classList.add(pref.lane);
+                        }
+                    });
+                });
+            }
+        };
+
+        const KeywordHighlighter = {
+            glossary: {
+                'Thunder Chopping': 'A legendary lumberjack technique.',
+                'magic': 'The mysterious force that powers spells.',
+                'nobles': 'The ruling class with exclusive access to education.',
+                'magic school': 'An elite educational institution.'
+            },
+            init() {
+                const narratorBlocks = document.querySelectorAll('.narrator');
+                narratorBlocks.forEach(block => {
+                    this.highlightKeywords(block);
+                });
+            },
+            highlightKeywords(element) {
+                let html = element.innerHTML;
+                const keywords = Object.keys(this.glossary).sort((a, b) => b.length - a.length);
+                keywords.forEach(keyword => {
+                    const regex = new RegExp(`\\b(${this.escapeRegex(keyword)})\\b`, 'gi');
+                    html = html.replace(regex, (match) => {
+                        const definition = this.glossary[keyword];
+                        return `<span class="keyword">${match}<span class="keyword-tooltip">${definition}</span></span>`;
+                    });
+                });
+                element.innerHTML = html;
+            },
+            escapeRegex(string) {
+                return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+            }
+        };
+
+        document.addEventListener('DOMContentLoaded', () => {
+            ThemeManager.init();
+            SidebarManager.init();
+            FontSizeManager.init();
+            CharacterManager.applyPreferences();
+            KeywordHighlighter.init();
+            document.getElementById('menuButton').addEventListener('click', () => {
+                SidebarManager.toggle();
+            });
+            document.getElementById('settingsButton').addEventListener('click', openSettings);
+            document.querySelectorAll('.theme-button').forEach(btn => {
+                btn.addEventListener('click', () => {
+                    ThemeManager.toggle(btn.dataset.theme);
+                });
+            });
+            document.getElementById('settingsModal').addEventListener('click', (e) => {
+                if (e.target.id === 'settingsModal') {
+                    closeSettings();
+                }
+            });
+            document.getElementById('characterModal').addEventListener('click', (e) => {
+                if (e.target.id === 'characterModal') {
+                    closeCharacterModal();
+                }
+            });
+            document.addEventListener('keydown', (e) => {
+                if (e.key === 'Escape') {
+                    closeSettings();
+                    closeCharacterModal();
+                }
+                if ((e.ctrlKey || e.metaKey) && e.key === 'b') {
+                    e.preventDefault();
+                    SidebarManager.toggle();
+                }
+            });
+        });
+    </script>
+</body>
+
+</html>

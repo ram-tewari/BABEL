@@ -1,0 +1,983 @@
+@import "tailwindcss";
+@config "../tailwind.config.js";
+
+/* ========================================
+   THEME VARIABLES (Combined Custom + Shadcn)
+   ======================================== */
+
+:root {
+  /* --- Custom Variables (Legacy) --- */
+  --bg-primary: #050505;
+  --bg-secondary: #0f0f11;
+  --bg-tertiary: #1c1c1f;
+  --text-main: #ededed;
+  --text-dim: #8a8a8a;
+  --text-ghost: #505050;
+  --accent-custom: #5e6ad2;
+  --accent-hover: #7aa2f7;
+  --border-custom: rgba(255, 255, 255, 0.08);
+  --shadow: rgba(0, 0, 0, 0.4);
+  --glass-bg: rgba(15, 15, 17, 0.65);
+  --glass-border: rgba(255, 255, 255, 0.08);
+
+  /* Typography */
+  --base-font-size: 16px;
+  --font-sans: "Inter", "Outfit", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-serif: "Merriweather", "Georgia", serif;
+  --font-mono: "JetBrains Mono", "Courier New", monospace;
+
+  /* --- Shadcn UI Variables (HSL) --- */
+  --background: 240 10% 3.9%;
+  /* #050505 */
+  --foreground: 0 0% 98%;
+
+  --card: 240 10% 3.9%;
+  --card-foreground: 0 0% 98%;
+
+  --popover: 240 10% 3.9%;
+  --popover-foreground: 0 0% 98%;
+
+  --primary: 235 60% 60%;
+  /* #5e6ad2 (approx) */
+  --primary-foreground: 210 40% 98%;
+
+  --secondary: 240 4% 10%;
+  /* #0f0f11 */
+  --secondary-foreground: 0 0% 98%;
+
+  --muted: 240 3.7% 15.9%;
+  --muted-foreground: 240 5% 64.9%;
+
+  --accent: 240 3.7% 15.9%;
+  --accent-foreground: 0 0% 98%;
+
+  --destructive: 0 62.8% 30.6%;
+  --destructive-foreground: 0 0% 98%;
+
+  --border: 240 3.7% 15.9%;
+  --input: 240 3.7% 15.9%;
+  --ring: 240 4.9% 83.9%;
+
+  --radius: 0.75rem;
+}
+
+/* Light Mode Theme */
+[data-theme="light"] {
+  /* Custom */
+  --bg-primary: #ffffff;
+  --bg-secondary: #f7f7f8;
+  --bg-tertiary: #efefef;
+  --text-main: #1a1a1a;
+  --text-dim: #666;
+  --text-ghost: #b0b0b0;
+  --accent-custom: #2563eb;
+  --accent-hover: #3b82f6;
+  --border-custom: rgba(0, 0, 0, 0.06);
+  --shadow: rgba(0, 0, 0, 0.05);
+  --glass-bg: rgba(255, 255, 255, 0.75);
+  --glass-border: rgba(0, 0, 0, 0.06);
+
+  /* Shadcn */
+  --background: 0 0% 100%;
+  --foreground: 240 10% 3.9%;
+
+  --card: 0 0% 100%;
+  --card-foreground: 240 10% 3.9%;
+
+  --popover: 0 0% 100%;
+  --popover-foreground: 240 10% 3.9%;
+
+  --primary: 240 5.9% 10%;
+  --primary-foreground: 0 0% 98%;
+
+  --secondary: 240 4.8% 95.9%;
+  --secondary-foreground: 240 5.9% 10%;
+
+  --muted: 240 4.8% 95.9%;
+  --muted-foreground: 240 3.8% 46.1%;
+
+  --accent: 240 4.8% 95.9%;
+  --accent-foreground: 240 5.9% 10%;
+
+  --destructive: 0 84.2% 60.2%;
+  --destructive-foreground: 0 0% 98%;
+
+  --border: 240 5.9% 90%;
+  --input: 240 5.9% 90%;
+  --ring: 240 10% 3.9%;
+}
+
+/* ========================================
+   BASE STYLES
+   ======================================== */
+
+@layer base {
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  html {
+    font-size: var(--base-font-size);
+  }
+
+  body {
+    background: var(--bg-primary);
+    color: var(--text-main);
+    font-family: var(--font-sans);
+    line-height: 1.8;
+    /* Medium-style line-height */
+    transition: background 0.3s, color 0.3s;
+    /* Subtle noise texture or gradient for depth */
+    background-image:
+      radial-gradient(circle at 80% 0%, color-mix(in srgb, var(--accent) 8%, transparent), transparent 50%),
+      radial-gradient(circle at 0% 100%, color-mix(in srgb, var(--accent) 5%, transparent), transparent 50%);
+    background-attachment: fixed;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: var(--font-sans);
+    /* UI Headers are Sans (Linear style) */
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    line-height: 1.2;
+    color: var(--text-main);
+  }
+}
+
+/* ========================================
+   ANIMATIONS (Loom pop-in)
+   ======================================== */
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes popIn {
+  0% {
+    opacity: 0;
+    transform: scale(0.5);
+  }
+
+  60% {
+    transform: scale(1.1);
+  }
+
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+/* ========================================
+   UTILITY CLASSES
+   ======================================== */
+
+@layer utilities {
+
+  /* Enhanced Glassmorphism effect (macOS Style) */
+  .glass {
+    background: var(--glass-bg);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border: 1px solid var(--glass-border);
+    box-shadow:
+      0 8px 32px rgba(0, 0, 0, 0.12),
+      inset 0 0 0 1px rgba(255, 255, 255, 0.05);
+  }
+
+  /* Animation utilities */
+  .animate-fade-in {
+    animation: fadeIn 0.4s ease forwards;
+  }
+
+  .animate-pop-in {
+    animation: popIn 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards;
+    /* Bouncy Loom style */
+  }
+
+  /* Scrollbar hiding */
+  .hide-scrollbar {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+
+  .hide-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+/* Custom Scrollbar (Linear Minimalist) */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.2);
+}
+
+/* ========================================
+   COMPONENT STYLES (Ported from Jinja2)
+   ======================================== */
+
+/* Dialogue Bubbles */
+.dialogue {
+  display: flex;
+  flex-direction: column;
+  /* max-width removed - handled by ScriptBlock wrapper */
+  position: relative;
+  animation: fadeIn 0.4s ease;
+}
+
+.dialogue.left {
+  align-self: flex-start;
+}
+
+.dialogue.right {
+  align-self: flex-end;
+  align-items: flex-end;
+}
+
+.dialogue .speaker {
+  font-size: 0.875rem;
+  font-weight: 600;
+  margin-bottom: 0.375rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 0.375rem;
+  transition: opacity 0.2s;
+}
+
+.dialogue .speaker:hover {
+  opacity: 0.7;
+}
+
+.dialogue .bubble {
+  padding: 0.75rem 1rem;
+  border-radius: 1.5rem;
+  border-width: 2px;
+  position: relative;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.dialogue .bubble:hover {
+  transform: scale(1.02);
+  box-shadow: 0 4px 12px var(--shadow);
+}
+
+.tone-emoji {
+  position: absolute;
+  top: -0.5rem;
+  right: -0.5rem;
+  font-size: 1.25rem;
+  opacity: 0;
+  animation: popIn 0.5s ease forwards;
+  animation-delay: 0.2s;
+}
+
+/* Thought Blocks */
+.thought {
+  /* max-width removed - handled by ScriptBlock wrapper */
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.thought.left {
+  align-self: flex-start;
+}
+
+.thought.right {
+  align-self: flex-end;
+  align-items: flex-end;
+}
+
+.thought .speaker {
+  font-size: 0.875rem;
+  font-weight: 600;
+  margin-bottom: 0.375rem;
+  opacity: 0.7;
+  font-style: normal;
+}
+
+.thought .content {
+  padding: 0.75rem 1rem;
+  border-width: 2px;
+  border-style: dashed;
+  border-radius: 0.75rem;
+  color: var(--text-dim);
+  font-style: italic;
+  font-family: var(--font-serif);
+  line-height: 1.75;
+  position: relative;
+}
+
+.thought.right .content {
+  text-align: right;
+}
+
+/* Narrator Blocks */
+/* Narrator Blocks - The "Codex" Upgrade */
+.narrator {
+  text-align: left;
+  /* distinct font for lore */
+  font-family: 'Merriweather', var(--font-serif);
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: var(--text-main);
+
+  /* The "Card" look */
+  background: rgba(255, 255, 255, 0.03);
+  border-left: 4px solid var(--accent);
+  border-radius: 0 12px 12px 0;
+
+  /* Spacing */
+  padding: 2rem;
+  margin: 2rem auto;
+  /* Centered with auto margins */
+  max-width: 680px;
+  /* Optimal reading width */
+  font-style: normal;
+  /* Reset italic from previous style if needed, or keep if desired. User asked for "Editorial Typography", usually normal style is better for readability unless specifically "narrator voice" implies italics. Let's stick to user's "The Professional Fix" implicitly suggesting standard readable text but high quality. Wait, the user said "Use a high-quality Serif font... to distinguish them from the Sans-Serif UI". Usually main text is normal style. */
+
+  position: relative;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+}
+
+.narrator p {
+  margin-bottom: 1.5rem;
+}
+
+.narrator p:last-child {
+  margin-bottom: 0;
+}
+
+/* The "Keyword Glimmer" */
+.lore-keyword {
+  color: #c4b5fd;
+  /* Light purple, could use var(--accent) but let's stick to design audit recommendation or close to it */
+  font-weight: 600;
+  cursor: help;
+  border-bottom: 1px dashed rgba(167, 139, 250, 0.5);
+  transition: all 0.3s ease;
+}
+
+.lore-keyword:hover {
+  color: #fff;
+  text-shadow: 0 0 8px rgba(167, 139, 250, 0.8);
+  border-bottom-color: transparent;
+}
+
+/* Action Blocks */
+.action {
+  text-align: center;
+  color: var(--text-dim);
+  font-family: var(--font-serif);
+  padding: 1rem 0;
+  font-style: italic;
+}
+
+/* Monologue Blocks */
+.monologue {
+  text-align: center;
+  color: var(--text-ghost);
+  font-style: italic;
+  padding: 0.75rem 0;
+}
+
+/* System Blocks */
+.system {
+  font-family: var(--font-mono);
+  color: var(--accent);
+  border: 2px solid var(--accent);
+  padding: 1rem;
+  border-radius: 1rem;
+  text-align: center;
+  font-size: 0.875rem;
+  background: color-mix(in srgb, var(--accent) 10%, transparent);
+}
+
+/* Keyword Highlighting */
+.keyword {
+  color: var(--text-dim);
+  font-weight: 500;
+  font-style: normal;
+  position: relative;
+  cursor: help;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-decoration-color: rgba(167, 139, 250, 0.4);
+  text-underline-offset: 3px;
+  transition: all 0.3s ease;
+}
+
+.keyword:hover {
+  color: var(--accent);
+  text-shadow: 0 0 8px rgba(167, 139, 250, 0.5);
+  text-decoration-color: var(--accent);
+}
+
+.keyword-tooltip {
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-0.5rem);
+  border-radius: 0.75rem;
+  padding: 0.75rem 1rem;
+  font-size: 0.875rem;
+  font-style: normal;
+  font-family: var(--font-sans);
+  color: var(--text-main);
+  white-space: nowrap;
+  opacity: 0;
+  pointer-events: none;
+  z-index: 1000;
+  max-width: 300px;
+  white-space: normal;
+  background: var(--glass-bg);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid var(--glass-border);
+  box-shadow: 0 4px 12px var(--shadow);
+  transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+.keyword:hover .keyword-tooltip {
+  opacity: 1;
+  transform: translateX(-50%) translateY(-12px);
+}
+
+.keyword-tooltip::after {
+  content: '';
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  border: 6px solid transparent;
+  border-top-color: var(--glass-bg);
+}
+
+/* Sidebar (Linear Style) */
+.sidebar {
+  position: fixed;
+  left: 0;
+  top: 0;
+  height: 100vh;
+  width: 280px;
+  overflow-y: auto;
+  z-index: 40;
+  background: var(--bg-secondary);
+  border-right: 1px solid var(--border);
+  transition: transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.sidebar.closed {
+  transform: translateX(-100%);
+}
+
+/* Header Stickiness */
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  background: rgba(5, 5, 5, 0.8);
+  /* Matches bg-primary with opacity */
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--border);
+}
+
+.sidebar-header {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  padding: 1.5rem 1.25rem 0.75rem;
+  background: var(--bg-secondary);
+  /* No border bottom for minimal look, just spacing */
+}
+
+.sidebar-title {
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-dim);
+}
+
+.sidebar-content {
+  padding: 0.5rem 0.75rem;
+}
+
+.sidebar-loading,
+.sidebar-error,
+.sidebar-empty {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  padding: 2rem 0;
+  text-align: center;
+  color: var(--text-dim);
+  font-family: var(--font-mono);
+  /* Vercel Status style */
+  font-size: 0.75rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.loading-spinner {
+  width: 1.5rem;
+  height: 1.5rem;
+  border: 2px solid var(--border);
+  border-top-color: var(--text-dim);
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.retry-button {
+  padding: 0.25rem 0.75rem;
+  border-radius: 4px;
+  background: var(--bg-tertiary);
+  color: var(--text-main);
+  font-size: 0.875rem;
+  border: 1px solid var(--border);
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.retry-button:hover {
+  border-color: var(--text-dim);
+}
+
+.chapter-list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+}
+
+.chapter-item {
+  position: relative;
+}
+
+.chapter-link {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.375rem 0.75rem;
+  border-radius: 6px;
+  color: var(--text-dim);
+  text-decoration: none;
+  font-size: 0.875rem;
+  transition: all 0.15s ease;
+  border: 1px solid transparent;
+  /* Prevent layout shift */
+}
+
+.chapter-link:hover {
+  color: var(--text-main);
+  background: var(--bg-tertiary);
+}
+
+.chapter-link.current {
+  background: rgba(255, 255, 255, 0.03);
+  color: var(--text-main);
+  font-weight: 500;
+  border-color: var(--border);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+.chapter-link.current:hover {
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.chapter-index {
+  font-size: 0.75rem;
+  font-family: var(--font-mono);
+  color: var(--text-ghost);
+  min-width: 24px;
+  opacity: 0.5;
+}
+
+.chapter-link.current .chapter-index {
+  color: var(--text-dim);
+  opacity: 1;
+}
+
+.chapter-title {
+  flex: 1;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* ========================================
+   CONTENT LAYOUT
+   ======================================== */
+
+.content {
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  /* Generous whitespace (Medium style) */
+  padding-bottom: 96px;
+}
+
+/* ========================================
+   NAVIGATION
+   ======================================== */
+
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 60px;
+  padding-top: 30px;
+  border-top: 1px solid var(--border);
+  gap: 16px;
+}
+
+.nav-button {
+  padding: 12px 24px;
+  background: var(--bg-tertiary);
+  color: var(--text-main);
+  text-decoration: none;
+  border-radius: 12px;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  font-weight: 500;
+  border: 1px solid var(--border);
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+  font-family: var(--font-sans);
+}
+
+.nav-button:hover {
+  background: var(--accent);
+  color: #fff;
+  transform: translateY(-1px);
+  border-color: var(--accent);
+  box-shadow: 0 4px 12px rgba(94, 106, 210, 0.3);
+  /* Soft accent shadow */
+}
+
+.nav-button:disabled {
+  opacity: 0.3;
+  pointer-events: none;
+}
+
+/* ========================================
+   MODAL STYLES (Raycast Floating UI)
+   ======================================== */
+
+.modal {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 2000;
+  background: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  justify-content: center;
+  align-items: center;
+  animation: fadeIn 0.2s ease;
+}
+
+.modal.active {
+  display: flex;
+}
+
+.modal-content {
+  background: var(--bg-secondary);
+  padding: 32px;
+  border-radius: 20px;
+  max-width: 440px;
+  width: 90%;
+  max-height: 90vh;
+  overflow-y: auto;
+  box-shadow:
+    0 20px 50px -12px rgba(0, 0, 0, 0.5),
+    0 0 0 1px var(--glass-border);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  animation: popIn 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.modal-header {
+  font-size: 1.4em;
+  font-weight: 600;
+  margin-bottom: 24px;
+  color: var(--text-main);
+}
+
+.modal-field {
+  margin-bottom: 24px;
+}
+
+.modal-field label {
+  display: block;
+  margin-bottom: 8px;
+  color: var(--text-dim);
+  font-size: 0.9em;
+  font-weight: 500;
+}
+
+.modal-field input[type="range"] {
+  width: 100%;
+  height: 6px;
+  border-radius: 3px;
+  background: var(--bg-tertiary);
+  outline: none;
+  -webkit-appearance: none;
+}
+
+.modal-field input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: var(--accent);
+  cursor: pointer;
+}
+
+.modal-field input[type="range"]::-moz-range-thumb {
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: var(--accent);
+  cursor: pointer;
+  border: none;
+}
+
+.modal-field input[type="text"],
+.modal-field input[type="color"],
+.modal-field select {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid var(--border);
+  background: var(--bg-primary);
+  color: var(--text-main);
+  border-radius: 12px;
+  font-size: 1em;
+}
+
+.modal-field input[type="color"] {
+  height: 50px;
+  cursor: pointer;
+}
+
+.modal-field select {
+  cursor: pointer;
+}
+
+.theme-toggle {
+  display: flex;
+  gap: 12px;
+}
+
+.theme-button {
+  flex: 1;
+  padding: 12px;
+  border: 2px solid var(--border);
+  background: var(--bg-tertiary);
+  color: var(--text-main);
+  border-radius: 16px;
+  cursor: pointer;
+  transition: all 0.2s;
+  font-weight: 500;
+}
+
+.theme-button.active {
+  background: var(--accent);
+  color: var(--bg-primary);
+  border-color: var(--accent);
+}
+
+.theme-button:hover {
+  transform: translateY(-2px);
+}
+
+.modal-close {
+  width: 100%;
+  padding: 12px;
+  margin-top: 20px;
+  background: var(--bg-tertiary);
+  color: var(--text-main);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  cursor: pointer;
+  font-size: 1em;
+  font-weight: 500;
+  transition: background 0.2s;
+}
+
+.modal-close:hover {
+  background: var(--accent);
+  color: var(--bg-primary);
+}
+
+.modal-actions {
+  display: flex;
+  gap: 10px;
+  margin-top: 20px;
+  flex-wrap: wrap;
+}
+
+.modal-button {
+  flex: 1;
+  min-width: 100px;
+  padding: 12px;
+  border: none;
+  border-radius: 12px;
+  font-size: 1em;
+  cursor: pointer;
+  transition: all 0.2s;
+  font-weight: 500;
+}
+
+.modal-button.primary {
+  background: var(--accent);
+  color: var(--bg-primary);
+}
+
+.modal-button.primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px var(--shadow);
+}
+
+.modal-button.secondary {
+  background: var(--bg-tertiary);
+  color: var(--text-main);
+  border: 1px solid var(--border);
+}
+
+.modal-button.secondary:hover {
+  background: var(--bg-secondary);
+}
+
+.modal-button.reset {
+  background: #ef4444;
+  color: #fff;
+}
+
+.modal-button.reset:hover {
+  background: #dc2626;
+}
+
+/* ========================================
+   METADATA FOOTER
+   ======================================== */
+
+.metadata {
+  margin-top: 60px;
+  padding-top: 30px;
+  border-top: 1px solid var(--border);
+  font-size: 0.85em;
+  color: var(--text-ghost);
+  text-align: center;
+}
+
+/* ========================================
+   ACCESSIBILITY
+   ======================================== */
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+/* ========================================
+   RESPONSIVE DESIGN
+   ======================================== */
+
+@media (max-width: 768px) {
+
+  .dialogue,
+  .thought {
+    max-width: 85%;
+  }
+
+  .narrator {
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+  }
+
+  /* Sidebar full width on mobile when open */
+  .sidebar {
+    width: 100%;
+  }
+}
+
+/* ========================================
+   SCROLLBAR STYLING (Optional)
+   ======================================== */
+
+/* Custom scrollbar for webkit browsers */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bg-secondary);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--bg-tertiary);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--accent);
+}/* Modal centering fix - override any conflicting styles */
+.modal {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+
+.modal-content {
+  margin: auto !important;
+}

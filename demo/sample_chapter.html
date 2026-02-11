@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sample_chapter</title>
+    <style>
+        /* Inline CSS for self-contained HTML */
+        
+        /* Base styles */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            background: #1a1a1a;
+            color: #e0e0e0;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            line-height: 1.6;
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        
+        /* Block type styles */
+        .block {
+            margin: 20px 0;
+        }
+        
+        /* Dialogue bubbles */
+        .dialogue {
+            display: flex;
+            flex-direction: column;
+            max-width: 70%;
+        }
+        
+        .dialogue.left {
+            align-self: flex-start;
+        }
+        
+        .dialogue.right {
+            align-self: flex-end;
+            align-items: flex-end;
+        }
+        
+        .dialogue .speaker {
+            font-size: 0.9em;
+            font-weight: 600;
+            margin-bottom: 4px;
+        }
+        
+        .dialogue .bubble {
+            padding: 12px 16px;
+            border-radius: 18px;
+            border: 2px solid;
+        }
+        
+        /* Thought blocks (ghost text) */
+        .thought {
+            color: #888;
+            font-style: italic;
+            max-width: 70%;
+        }
+        
+        .thought.left {
+            align-self: flex-start;
+        }
+        
+        .thought.right {
+            align-self: flex-end;
+            text-align: right;
+        }
+        
+        /* Action blocks */
+        .action {
+            text-align: center;
+            color: #ccc;
+            font-family: Georgia, serif;
+            padding: 16px 0;
+        }
+        
+        /* Monologue blocks */
+        .monologue {
+            text-align: center;
+            color: #888;
+            font-style: italic;
+            padding: 12px 0;
+        }
+        
+        /* System notifications */
+        .system {
+            font-family: "Courier New", monospace;
+            color: #4ade80;
+            border: 2px solid #4ade80;
+            background: rgba(74, 222, 128, 0.1);
+            padding: 16px;
+            border-radius: 8px;
+            text-align: center;
+        }
+        
+        /* Navigation */
+        .navigation {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #333;
+        }
+        
+        .nav-button {
+            padding: 10px 20px;
+            background: #333;
+            color: #e0e0e0;
+            text-decoration: none;
+            border-radius: 8px;
+            transition: background 0.2s;
+        }
+        
+        .nav-button:hover {
+            background: #444;
+        }
+        
+        .nav-button:disabled {
+            opacity: 0.3;
+            pointer-events: none;
+        }
+        
+        /* Metadata footer */
+        .metadata {
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #333;
+            font-size: 0.85em;
+            color: #666;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>sample_chapter</h1>
+    
+    <div class="content">
+        
+            
+                <div class="block system">
+                    [Chapter 1: The Awakening]
+                </div>
+            
+        
+            
+                <div class="block action">
+                    The chamber was silent except for the rhythmic hum of ancient machinery. Dim blue lights flickered across metallic walls, casting dancing shadows.
+                </div>
+            
+            
+        
+            
+                <div class="block dialogue left">
+                    
+                        <div class="speaker" style="color: hsl(211, 74%, 71%)">
+                            Kai
+                            <span class="tone">(confused)</span>
+                        </div>
+                    
+                    <div class="bubble" style="border-color: hsl(211, 74%, 71%); background: hsla(211, 74%, 71%, 0.1);">
+                        Where... where am I?
+                    </div>
+                </div>
+            
+            
+        
+            
+                <div class="block action">
+                    He tried to move, but his limbs felt heavy, as if weighted down by invisible chains. The last thing he remembered was the blinding flash of light.
+                </div>
+            
+            
+        
+            
+                <div class="block monologue">
+                    
+                        <div class="speaker">Kai</div>
+                    
+                    <div>This isn&#39;t right. The tower... it should have killed me. Why am I still breathing?</div>
+                </div>
+            
+            
+        
+            
+        
+            
+                <div class="block action">
+                    A holographic interface materialized before his eyes, lines of code scrolling faster than he could read.
+                </div>
+            
+            
+        
+            
+                <div class="block system">
+                    [SYSTEM INITIALIZED]
+                </div>
+            
+        
+            
+                <div class="block system">
+                    [Welcome, Player. You have been granted the Cheat Skill: BABEL]
+                </div>
+            
+        
+            
+                <div class="block dialogue left">
+                    
+                        <div class="speaker" style="color: hsl(211, 74%, 71%)">
+                            Kai
+                            <span class="tone">(skeptical)</span>
+                        </div>
+                    
+                    <div class="bubble" style="border-color: hsl(211, 74%, 71%); background: hsla(211, 74%, 71%, 0.1);">
+                        Babel? What kind of skill is that?
+                    </div>
+                </div>
+            
+            
+        
+            
+                <div class="block dialogue left">
+                    
+                        <div class="speaker" style="color: hsl(317, 72%, 75%)">
+                            System Voice
+                            <span class="tone">(mechanical)</span>
+                        </div>
+                    
+                    <div class="bubble" style="border-color: hsl(317, 72%, 75%); background: hsla(317, 72%, 75%, 0.1);">
+                        BABEL allows you to understand and translate any language, code, or system. Reality itself is just another language to be decoded.
+                    </div>
+                </div>
+            
+            
+        
+            
+                <div class="block monologue">
+                    
+                        <div class="speaker">Kai</div>
+                    
+                    <div>A translation skill? In a world where monsters and magic rule? This has to be some kind of joke.</div>
+                </div>
+            
+            
+        
+            
+                <div class="block action">
+                    The chamber door slid open with a pneumatic hiss. Beyond it, a corridor stretched into darkness, lit only by emergency strips along the floor.
+                </div>
+            
+            
+        
+            
+                <div class="block dialogue left">
+                    
+                        <div class="speaker" style="color: hsl(211, 74%, 71%)">
+                            Kai
+                            <span class="tone">(determined)</span>
+                        </div>
+                    
+                    <div class="bubble" style="border-color: hsl(211, 74%, 71%); background: hsla(211, 74%, 71%, 0.1);">
+                        Guess there&#39;s only one way to find out what this skill can really do.
+                    </div>
+                </div>
+            
+            
+        
+            
+        
+            
+                <div class="block action">
+                    Heavy footsteps echoed from somewhere in the darkness. Something was coming.
+                </div>
+            
+            
+        
+            
+                <div class="block dialogue left">
+                    
+                        <div class="speaker" style="color: hsl(191, 74%, 75%)">
+                            Unknown Voice
+                            <span class="tone">(hostile)</span>
+                        </div>
+                    
+                    <div class="bubble" style="border-color: hsl(191, 74%, 75%); background: hsla(191, 74%, 75%, 0.1);">
+                        Intruder detected. Initiating elimination protocol.
+                    </div>
+                </div>
+            
+            
+        
+            
+                <div class="block action">
+                    Kai&#39;s heart raced. Whatever this BABEL skill was, he&#39;d need to figure it out fast—or this second chance at life would be very short indeed.
+                </div>
+            
+            
+        
+    </div>
+    
+    <div class="navigation">
+        
+            <span class="nav-button" disabled>← Previous</span>
+        
+        
+        
+            <span class="nav-button" disabled>Next →</span>
+        
+    </div>
+    
+    <div class="metadata">
+        <p>Model: gemini-2.5-flash | Processed: 2026-02-03T10:30:00+00:00</p>
+        <p>Hash: a3f5b8c9d2e1f4a7b6c5d8e9f1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0</p>
+    </div>
+</body>
+</html>
