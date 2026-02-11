@@ -13,20 +13,20 @@ console = Console()
 def transform_chapter(
     input_file: Path = typer.Argument(..., help="Input text file"),
     output_file: Optional[Path] = typer.Option(None, "--output", "-o", help="Output JSON file"),
-    provider: str = typer.Option("gemini", "--provider", "-p", help="LLM provider (gemini/groq/ollama)"),
+    provider: str = typer.Option("groq", "--provider", "-p", help="LLM provider (groq/gemini/ollama)"),
     model: Optional[str] = typer.Option(None, "--model", "-m", help="Model name"),
 ):
-    """Transform a single chapter using LLM"""
+    """Transform a single chapter using LLM (default: Groq with Gemini fallback)"""
     from babel.transform.transformer import Transformer
     from babel.transform.gemini_client import GeminiClient
     from babel.transform.groq_client import GroqClient
     from babel.transform.ollama_client import OllamaClient
     
     # Select client
-    if provider == "gemini":
-        client = GeminiClient(model_name=model)
-    elif provider == "groq":
+    if provider == "groq":
         client = GroqClient(model_name=model)
+    elif provider == "gemini":
+        client = GeminiClient(model_name=model)
     elif provider == "ollama":
         client = OllamaClient(model_name=model)
     else:
@@ -55,18 +55,18 @@ def transform_chapter(
 def transform_batch(
     input_dir: Path = typer.Argument(..., help="Input directory with text files"),
     output_dir: Optional[Path] = typer.Option(None, "--output", "-o", help="Output directory"),
-    provider: str = typer.Option("gemini", "--provider", "-p", help="LLM provider"),
+    provider: str = typer.Option("groq", "--provider", "-p", help="LLM provider (groq/gemini)"),
     pattern: str = typer.Option("*.txt", "--pattern", help="File pattern to match"),
 ):
-    """Transform multiple chapters in batch"""
+    """Transform multiple chapters in batch (default: Groq with Gemini fallback)"""
     from babel.transform.batch_processor import BatchProcessor
     from babel.transform.gemini_client import GeminiClient
     from babel.transform.groq_client import GroqClient
     
-    if provider == "gemini":
-        client = GeminiClient()
-    elif provider == "groq":
+    if provider == "groq":
         client = GroqClient()
+    elif provider == "gemini":
+        client = GeminiClient()
     else:
         console.print(f"[red]Unknown provider: {provider}[/red]")
         raise typer.Exit(1)

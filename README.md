@@ -339,16 +339,16 @@ python -m babel.sanitize input.txt
 
 ### Phase 1: Transform to Visual Scenario
 
-BABEL supports two transformation workflows:
+BABEL uses Groq as the default provider with automatic Gemini fallback:
 
-#### Option 1: Groq (Recommended - Fast & Free)
+#### Recommended: Batch Processing (Groq + Gemini Fallback)
 ```bash
-# Batch transform with Groq + Gemini fallback
+# Batch transform with automatic fallback
 python run_groq_batch.py
 
 # Features:
-# - Primary: Groq API (llama-3.3-70b-versatile)
-# - Fallback: Gemini 2.5 Flash (if Groq fails)
+# - Primary: Groq API (llama-3.3-70b-versatile) with key rotation
+# - Fallback: Gemini 2.5 Flash (automatic if Groq fails)
 # - Auto-skip: Already processed chapters
 # - Auto-render: HTML generation after transformation
 # - Auto-update: Chapter map updated every 10 chapters
@@ -357,13 +357,18 @@ python run_groq_batch.py
 # Output: data/json/*.json + data/render/*.html
 ```
 
-#### Option 2: Gemini Only (Simpler)
+#### Alternative: CLI Commands
 ```bash
-# Transform all chapters (FREE)
-python -m babel.transform
+# Single chapter (Groq default, Gemini fallback)
+python -m babel.cli transform chapter input.txt
+
+# Batch processing (Groq default)
+python -m babel.cli transform batch data/clean/
+
+# Force Gemini only
+python -m babel.cli transform chapter input.txt --provider gemini
 
 # Output: data/json/*.json
-# Cost: $0.00 (within 1,500 chapters/day)
 ```
 
 ### Phase 2: Render to HTML
@@ -394,7 +399,7 @@ npm run dev
 # 1. Sanitize
 python -m babel.sanitize novel.epub
 
-# 2. Transform with Groq (RECOMMENDED)
+# 2. Transform (Groq default with Gemini fallback)
 python run_groq_batch.py
 
 # 3. Open in browser (HTML already rendered)
@@ -495,14 +500,15 @@ BABEL_LOG_LEVEL=INFO
 
 ### API Provider Comparison
 
-| Feature | Gemini 2.5 Flash | Groq Llama 3.3 70B |
-|---------|------------------|---------------------|
-| **Free Tier** | 1,500 req/day | Varies by key |
-| **Speed** | ~2-4s/chapter | ~1-2s/chapter |
-| **Throughput** | 15 RPM | 150 RPM (5 keys) |
-| **Context Window** | 1M tokens | 128K tokens |
-| **Key Rotation** | No | Yes |
-| **Best For** | Free processing | Speed & throughput |
+| Feature | Groq Llama 3.3 70B | Gemini 2.5 Flash |
+|---------|---------------------|------------------|
+| **Default** | Yes (Primary) | Fallback |
+| **Free Tier** | Varies by key | 1,500 req/day |
+| **Speed** | ~1-2s/chapter | ~2-4s/chapter |
+| **Throughput** | 150 RPM (5 keys) | 15 RPM |
+| **Context Window** | 128K tokens | 1M tokens |
+| **Key Rotation** | Yes | No |
+| **Best For** | Speed & throughput | Free processing, large context |
 
 ### Pipeline Configuration
 
