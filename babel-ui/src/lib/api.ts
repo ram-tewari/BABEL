@@ -195,7 +195,7 @@ export interface ChapterResponse {
   filename: string;
   title: string;
   blocks: ChapterBlock[];
-  metadata: ChapterMetadata;
+  metadata?: ChapterMetadata;
   navigation?: ChapterNavigation;
 }
 
@@ -217,6 +217,76 @@ export interface ChapterListResponse {
 export interface CharacterListResponse {
   characters: string[];
   total: number;
+}
+
+export interface GraphNode {
+  id: string;
+  name: string;
+  line_count: number;
+  first_chapter: number;
+  faction?: string | null;
+  description?: string | null;
+  aliases: string[];
+  color?: string | null;
+}
+
+export interface GraphEdge {
+  source: string;
+  target: string;
+  weight: number;
+}
+
+export interface CharacterGraphResponse {
+  nodes: GraphNode[];
+  edges: GraphEdge[];
+  chapters_scanned: number;
+}
+
+export interface GlossaryEntry {
+  name: string;
+  aliases: string[];
+  faction?: string | null;
+  description?: string | null;
+  color?: string | null;
+}
+
+export interface GlossaryResponse {
+  characters: GlossaryEntry[];
+  factions: Record<string, { color?: string; description?: string }>;
+}
+
+export interface Novel {
+  id: number;
+  title: string;
+  author?: string;
+  cover_url?: string;
+  synopsis?: string;
+  tags?: string[];
+  status: string;
+  chapter_count: number;
+  created_at?: string;
+  updated_at?: string;
+}
+
+export interface NovelListResponse {
+  novels: Novel[];
+  total: number;
+}
+
+export interface ImportResponse {
+  novel_id: number;
+  title: string;
+  chapters_extracted: number;
+  status: string;
+}
+
+export interface NovelUpdate {
+  title?: string;
+  author?: string;
+  cover_url?: string;
+  synopsis?: string;
+  tags?: string[];
+  status?: string;
 }
 
 export interface HealthResponse {
@@ -253,6 +323,24 @@ export const api = {
       params: { novel_id: novelId },
     }),
 
+  getNovelChapters: (novelId: number | string) =>
+    apiRequestWithRetry<ChapterListResponse>({
+      method: 'GET',
+      url: `/api/library/${novelId}/chapters`,
+    }),
+
+  /**
+   * Get a single chapter from a novel (Library API)
+   * @param novelId - Novel ID
+   * @param chapterId - Chapter ID
+   * @returns Promise with chapter detail
+   */
+  getNovelChapter: (novelId: number, chapterId: number) =>
+    apiRequestWithRetry<ChapterResponse>({
+      method: 'GET',
+      url: `/api/library/${novelId}/chapter/${chapterId}`,
+    }),
+
   /**
    * Get character list
    * @returns Promise with character list
@@ -264,6 +352,32 @@ export const api = {
     }),
 
   /**
+   * Get the character relationship graph.
+   * @param novelId - Optional novel ID (omit for legacy data/json)
+   * @param upToChapter - Spoiler-safe limit: only scan chapters before this index
+   */
+  getCharacterGraph: (novelId?: number, upToChapter?: number) =>
+    apiRequestWithRetry<CharacterGraphResponse>({
+      method: 'GET',
+      url: '/api/characters/graph',
+      params: {
+        ...(novelId != null ? { novel_id: novelId } : {}),
+        ...(upToChapter != null ? { up_to_chapter: upToChapter } : {}),
+      },
+    }),
+
+  /**
+   * Get glossary entries (characters + factions) for tooltips.
+   * @param novelId - Optional novel ID
+   */
+  getGlossary: (novelId?: number) =>
+    apiRequestWithRetry<GlossaryResponse>({
+      method: 'GET',
+      url: '/api/glossary',
+      params: novelId != null ? { novel_id: novelId } : {},
+    }),
+
+  /**
    * Health check endpoint
    * @returns Promise with health status
    */
@@ -271,6 +385,73 @@ export const api = {
     apiRequestWithRetry<HealthResponse>({
       method: 'GET',
       url: '/health',
+    }),
+
+  /**
+   * Get all novels
+   * @param limit - Max number of novels (default: 100)
+   * @param offset - Offset for pagination (default: 0)
+   * @returns Promise with novel list
+   */
+  getNovels: (limit: number = 100, offset: number = 0) =>
+    apiRequestWithRetry<NovelListResponse>({
+      method: 'GET',
+      url: '/api/library',
+      params: { limit, offset },
+    }),
+
+  /**
+   * Get a single novel by ID
+   * @param id - Novel ID
+   * @returns Promise with novel data
+   */
+  getNovel: (id: number) =>
+    apiRequestWithRetry<Novel>({
+      method: 'GET',
+      url: `/api/library/${id}`,
+    }),
+
+  /**
+   * Import an EPUB file
+   * @param file - EPUB file
+   * @returns Promise with import result
+   */
+  importNovel: (file: File) => {
+    const formData = new FormData();
+    formData.append('file', file);
+    return apiRequestWithRetry<ImportResponse>({
+      method: 'POST',
+      url: '/api/library/import',
+      data: formData,
+      headers: {
+        'Content-Type': 'multipart/form-data',
+      },
+      timeout: 60000, // Longer timeout for imports
+    });
+  },
+
+  /**
+   * Delete a novel
+   * @param id - Novel ID
+   * @returns Promise with success message
+   */
+  deleteNovel: (id: number) =>
+    apiRequestWithRetry<{ message: string }>({
+      method: 'DELETE',
+      url: `/api/library/${id}`,
+    }),
+
+  /**
+   * Update novel metadata
+   * @param id - Novel ID
+   * @param data - Update data
+   * @returns Promise with updated novel
+   */
+  updateNovel: (id: number, data: NovelUpdate) =>
+    apiRequestWithRetry<Novel>({
+      method: 'PUT',
+      url: `/api/library/${id}`,
+      data,
     }),
 };
 

@@ -6,9 +6,11 @@
  * - Setting current chapter
  * - Progress percentage calculation
  * - localStorage persistence
+ * - Multi-novel support
  */
 
 import { describe, it, expect, beforeEach, afterEach } from 'vitest';
+import fc from 'fast-check';
 import { useReadingProgress } from './readingProgressStore';
 
 describe('Reading Progress Store', () => {
@@ -16,9 +18,8 @@ describe('Reading Progress Store', () => {
     beforeEach(() => {
         localStorage.clear();
         useReadingProgress.setState({
-            currentChapterId: null,
-            readChapterIds: new Set<number>(),
-            totalChapters: 0,
+            novels: {},
+            currentNovelId: null,
         });
     });
 
@@ -26,168 +27,179 @@ describe('Reading Progress Store', () => {
         localStorage.clear();
     });
 
-    describe('markChapterAsRead', () => {
+    describe('Single Novel Operations', () => {
         it('should mark a chapter as read', () => {
-            const { markChapterAsRead, isChapterRead } = useReadingProgress.getState();
-            
-            markChapterAsRead(1);
-            
-            expect(isChapterRead(1)).toBe(true);
+            const { markChapterAsRead, isChapterRead, initNovel } = useReadingProgress.getState();
+
+            initNovel('novel1', 10);
+            markChapterAsRead('novel1', 1);
+
+            expect(isChapterRead('novel1', 1)).toBe(true);
         });
 
         it('should handle marking multiple chapters as read', () => {
-            const { markChapterAsRead, isChapterRead } = useReadingProgress.getState();
-            
-            markChapterAsRead(1);
-            markChapterAsRead(2);
-            markChapterAsRead(3);
-            
-            expect(isChapterRead(1)).toBe(true);
-            expect(isChapterRead(2)).toBe(true);
-            expect(isChapterRead(3)).toBe(true);
-            expect(isChapterRead(4)).toBe(false);
-        });
+            const { markChapterAsRead, isChapterRead, initNovel } = useReadingProgress.getState();
 
-        it('should not duplicate chapter IDs', () => {
-            const { markChapterAsRead } = useReadingProgress.getState();
-            
-            markChapterAsRead(1);
-            markChapterAsRead(1);
-            markChapterAsRead(1);
-            
-            const state = useReadingProgress.getState();
-            expect(state.readChapterIds.size).toBe(1);
-        });
-    });
+            initNovel('novel1', 10);
+            markChapterAsRead('novel1', 1);
+            markChapterAsRead('novel1', 2);
+            markChapterAsRead('novel1', 3);
 
-    describe('setCurrentChapter', () => {
-        it('should set the current chapter', () => {
-            const { setCurrentChapter } = useReadingProgress.getState();
-            
-            setCurrentChapter(5);
-            
-            const state = useReadingProgress.getState();
-            expect(state.currentChapterId).toBe(5);
-        });
-
-        it('should automatically mark current chapter as read', () => {
-            const { setCurrentChapter, isChapterRead } = useReadingProgress.getState();
-            
-            setCurrentChapter(5);
-            
-            expect(isChapterRead(5)).toBe(true);
-        });
-
-        it('should update current chapter when changed', () => {
-            const { setCurrentChapter } = useReadingProgress.getState();
-            
-            setCurrentChapter(1);
-            setCurrentChapter(2);
-            setCurrentChapter(3);
-            
-            const state = useReadingProgress.getState();
-            expect(state.currentChapterId).toBe(3);
-        });
-    });
-
-    describe('getProgressPercentage', () => {
-        it('should return 0% when no chapters are set', () => {
-            const { getProgressPercentage } = useReadingProgress.getState();
-            
-            expect(getProgressPercentage()).toBe(0);
-        });
-
-        it('should return 0% when total is 0', () => {
-            const { markChapterAsRead, getProgressPercentage } = useReadingProgress.getState();
-            
-            markChapterAsRead(1);
-            
-            expect(getProgressPercentage()).toBe(0);
+            expect(isChapterRead('novel1', 1)).toBe(true);
+            expect(isChapterRead('novel1', 2)).toBe(true);
+            expect(isChapterRead('novel1', 3)).toBe(true);
+            expect(isChapterRead('novel1', 4)).toBe(false);
         });
 
         it('should calculate correct percentage', () => {
-            const { setTotalChapters, markChapterAsRead, getProgressPercentage } = useReadingProgress.getState();
-            
-            setTotalChapters(10);
-            markChapterAsRead(1);
-            markChapterAsRead(2);
-            markChapterAsRead(3);
-            
-            expect(getProgressPercentage()).toBe(30);
+            const { initNovel, markChapterAsRead, getProgressPercentage } = useReadingProgress.getState();
+
+            initNovel('novel1', 10);
+            markChapterAsRead('novel1', 1);
+            markChapterAsRead('novel1', 2);
+            markChapterAsRead('novel1', 3);
+
+            expect(getProgressPercentage('novel1')).toBe(30);
         });
 
-        it('should return 100% when all chapters are read', () => {
-            const { setTotalChapters, markChapterAsRead, getProgressPercentage } = useReadingProgress.getState();
-            
-            setTotalChapters(5);
-            markChapterAsRead(1);
-            markChapterAsRead(2);
-            markChapterAsRead(3);
-            markChapterAsRead(4);
-            markChapterAsRead(5);
-            
-            expect(getProgressPercentage()).toBe(100);
-        });
+        it('should track current chapter', () => {
+            const { setCurrentChapter, getCurrentChapter } = useReadingProgress.getState();
 
-        it('should round to nearest integer', () => {
-            const { setTotalChapters, markChapterAsRead, getProgressPercentage } = useReadingProgress.getState();
-            
-            setTotalChapters(3);
-            markChapterAsRead(1);
-            
-            // 1/3 = 33.333...% should round to 33%
-            expect(getProgressPercentage()).toBe(33);
+            setCurrentChapter('novel1', 5);
+
+            expect(getCurrentChapter('novel1')).toBe(5);
         });
     });
 
-    describe('resetProgress', () => {
-        it('should reset all progress', () => {
-            const { setTotalChapters, setCurrentChapter, markChapterAsRead, resetProgress } = useReadingProgress.getState();
-            
-            setTotalChapters(10);
-            setCurrentChapter(5);
-            markChapterAsRead(1);
-            markChapterAsRead(2);
-            markChapterAsRead(3);
-            
-            resetProgress();
-            
-            const state = useReadingProgress.getState();
-            expect(state.currentChapterId).toBe(null);
-            expect(state.readChapterIds.size).toBe(0);
-            expect(state.totalChapters).toBe(0);
+    describe('Multi-Novel Operations', () => {
+        it('should track progress independently for different novels', () => {
+            const store = useReadingProgress.getState();
+
+            // Novel 1
+            store.initNovel('novel1', 10);
+            store.markChapterAsRead('novel1', 1);
+            store.setCurrentChapter('novel1', 5);
+
+            // Novel 2
+            store.initNovel('novel2', 20);
+            store.markChapterAsRead('novel2', 1);
+            store.setCurrentChapter('novel2', 10);
+
+            // Verify Novel 1
+            expect(store.isChapterRead('novel1', 1)).toBe(true);
+            expect(store.getCurrentChapter('novel1')).toBe(5);
+            expect(store.getProgressPercentage('novel1')).toBe(20);
+            // Wait, setCurrentChapter calls markChapterAsRead in implementation?
+            // "Also mark as read when set as current" - Yes.
+            // So chapter 1 and 5 are read. 2/10 = 20%.
+
+            // Verify Novel 2
+            expect(store.isChapterRead('novel2', 1)).toBe(true);
+            expect(store.getCurrentChapter('novel2')).toBe(10);
+            expect(store.getProgressPercentage('novel2')).toBe(10); // 1 and 10 read => 2/20 = 10%
+
+            // Verify Independence
+            expect(store.isChapterRead('novel1', 10)).toBe(false);
+            expect(store.isChapterRead('novel2', 5)).toBe(false);
         });
     });
 
-    describe('localStorage persistence', () => {
-        it('should persist state to localStorage', () => {
-            const { setTotalChapters, setCurrentChapter } = useReadingProgress.getState();
-            
-            setTotalChapters(10);
-            setCurrentChapter(5);
-            
-            // Check localStorage
-            const stored = localStorage.getItem('babel-reading-progress');
-            expect(stored).toBeTruthy();
-            
-            const parsed = JSON.parse(stored!);
-            expect(parsed.state.currentChapterId).toBe(5);
-            expect(parsed.state.totalChapters).toBe(10);
-            expect(parsed.state.readChapterIds).toContain(5);
-        });
+    describe('Context Switching', () => {
+        it('should switch current novel context', () => {
+            const store = useReadingProgress.getState();
 
-        it('should restore state from localStorage', () => {
-            // Set initial state
-            const { setTotalChapters, setCurrentChapter } = useReadingProgress.getState();
-            setTotalChapters(10);
-            setCurrentChapter(5);
-            
-            // Simulate page reload by getting fresh state
-            const newState = useReadingProgress.getState();
-            
-            expect(newState.currentChapterId).toBe(5);
-            expect(newState.totalChapters).toBe(10);
-            expect(newState.isChapterRead(5)).toBe(true);
+            store.setCurrentNovel('novel1');
+            expect(useReadingProgress.getState().currentNovelId).toBe('novel1');
+
+            store.setCurrentNovel('novel2');
+            expect(useReadingProgress.getState().currentNovelId).toBe('novel2');
         });
+    });
+
+    // Property Test: Reading Position Persistence
+    it('Property 10: Reading Position Persistence - correctly persists and restores state for arbitrary novels', () => {
+        fc.assert(
+            fc.property(
+                fc.dictionary(
+                    fc.string({ minLength: 1 }), // novelId
+                    fc.record({
+                        totalChapters: fc.integer({ min: 1, max: 1000 }),
+                        currentChapterId: fc.option(fc.integer({ min: 1, max: 1000 }), { nil: null }),
+                        readChapters: fc.array(fc.integer({ min: 1, max: 1000 }))
+                    })
+                ),
+                (novelsData) => {
+                    // Reset
+                    localStorage.clear();
+                    useReadingProgress.setState({ novels: {}, currentNovelId: null });
+                    const store = useReadingProgress.getState();
+
+                    // 2. Apply Operations
+                    Object.entries(novelsData).forEach(([novelId, data]) => {
+                        store.initNovel(novelId, data.totalChapters);
+                        if (data.currentChapterId) {
+                            store.setCurrentChapter(novelId, data.currentChapterId);
+                        }
+                        data.readChapters.forEach(ch => {
+                            if (ch <= data.totalChapters) {
+                                store.markChapterAsRead(novelId, ch);
+                            }
+                        });
+                    });
+
+                    // 3. Verify Store State Matches Input (in-memory)
+                    Object.entries(novelsData).forEach(([novelId, data]) => {
+                        const novelState = useReadingProgress.getState().novels[novelId];
+                        expect(novelState).toBeDefined();
+
+                        if (data.currentChapterId) {
+                            expect(novelState.currentChapterId).toBe(data.currentChapterId);
+                        }
+
+                        // Check if read chapters are present
+                        data.readChapters.forEach(ch => {
+                            if (ch <= data.totalChapters) {
+                                expect(novelState.readChapterIds.has(ch)).toBe(true);
+                            }
+                        });
+                    });
+
+                    // 4. Verify Persistence (Serialization/Deserialization)
+                    // Retrieve from localStorage
+                    const stored = localStorage.getItem('babel-reading-progress-v2');
+                    expect(stored).toBeTruthy();
+
+                    // Clear store state (simulate reload)
+                    useReadingProgress.setState({ novels: {}, currentNovelId: null });
+
+                    // Manually trigger rehydration logic (Zustand persist middleware handles this on init, 
+                    // but in test environment we might need to force it or manually parse 'stored' 
+                    // and use 'onRehydrateStorage' logic to verify correctness).
+                    // Or simpler: parse stored JSON and check structure.
+
+                    const parsed = JSON.parse(stored!);
+                    const persistedState = parsed.state;
+
+                    Object.entries(novelsData).forEach(([novelId, data]) => {
+                        const persistedNovel = persistedState.novels[novelId];
+                        expect(persistedNovel).toBeDefined();
+
+                        if (data.currentChapterId) {
+                            expect(persistedNovel.currentChapterId).toBe(data.currentChapterId);
+                        }
+
+                        // Check serialized structure (Sets are arrays in JSON)
+                        expect(Array.isArray(persistedNovel.readChapterIds)).toBe(true);
+
+                        // Check content
+                        data.readChapters.forEach(ch => {
+                            if (ch <= data.totalChapters) {
+                                expect(persistedNovel.readChapterIds).toContain(ch);
+                            }
+                        });
+                    });
+                }
+            )
+        );
     });
 });

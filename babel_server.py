@@ -26,6 +26,8 @@ from babel.sanitize import ChapterMap
 from babel.pipeline import PipelineOrchestrator
 from babel.data.db import DatabaseManager
 from babel.api import corrections
+from babel.api.library import router as library_router
+from babel.api.character_graph import router as character_graph_router
 
 # Configure logging
 logging.basicConfig(
@@ -41,19 +43,55 @@ app = FastAPI(
     version="1.0.0"
 )
 
-# Enable CORS
+# Enable CORS - must be added FIRST before other middleware
 ALLOWED_ORIGINS = os.getenv("ALLOWED_ORIGINS", "*").split(",")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=ALLOWED_ORIGINS,
+    allow_origins=["*"],  # Allow all origins for development
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
+    expose_headers=["*"],
 )
+
+# Custom exception handler to ensure CORS headers on errors
+from fastapi.exceptions import RequestValidationError
+
+@app.exception_handler(HTTPException)
+async def http_exception_handler(request, exc):
+    """Handle HTTP exceptions with CORS headers."""
+    return JSONResponse(
+        status_code=exc.status_code,
+        content={"detail": exc.detail},
+        headers={
+            "Access-Control-Allow-Origin": "*",
+            "Access-Control-Allow-Methods": "*",
+            "Access-Control-Allow-Headers": "*",
+        }
+    )
+
+@app.exception_handler(RequestValidationError)
+async def validation_exception_handler(request, exc):
+    """Handle validation errors with CORS headers."""
+    return JSONResponse(
+        status_code=422,
+        content={"detail": str(exc)},
+        headers={
+            "Access-Control-Allow-Origin": "*",
+            "Access-Control-Allow-Methods": "*",
+            "Access-Control-Allow-Headers": "*",
+        }
+    )
 
 # Include correction router
 app.include_router(corrections.router)
+
+# Include library router
+app.include_router(library_router)
+
+# Include character graph + glossary router
+app.include_router(character_graph_router)
 
 # Global state for tracking operations
 operation_status: Dict[str, Dict] = {}
@@ -109,13 +147,15 @@ class ChapterMetadata(BaseModel):
     phase: str
     token_count: Optional[int] = None
     error_message: Optional[str] = None
+    file_path: Optional[str] = None
+    novel_id: Optional[int] = None
 
 
 class ChapterMetadataListResponse(BaseModel):
     """Response containing list of chapter metadata."""
     chapters: List[ChapterMetadata]
     total: int
-    novel_id: str
+    novel_id: Optional[int] = None
 
 
 # ============================================================================
@@ -468,47 +508,67 @@ async def rerender_all_chapters(background_tasks: BackgroundTasks):
 
 @app.get("/api/chapters/metadata", response_model=ChapterMetadataListResponse)
 async def get_chapters_metadata(
-    novel_id: str = "default",
+    novel_id: Optional[int] = None,
     phase: str = "transform"
 ):
     """
-    Get lightweight chapter metadata for dashboard/TOC.
+    Get chapter metadata with optional novel filtering.
     
-    Scans data/json directly to ensure all present files are listed.
+    Queries the database instead of scanning filesystem for better performance.
+    
+    Args:
+        novel_id: Optional novel ID to filter chapters. If omitted, returns all chapters.
+        phase: The processing phase (default: transform)
+        
+    Returns:
+        ChapterMetadataListResponse with chapter metadata.
     """
     try:
-        import re
-        json_dir = Path("data/json")
-        if not json_dir.exists():
-             return ChapterMetadataListResponse(chapters=[], total=0, novel_id=novel_id)
-
-        # Get all JSON files
-        json_files = sorted(list(json_dir.glob("*.json")))
+        from babel.data.db import DatabaseManager
+        db = DatabaseManager()
         
-        metadata_list = []
-        for i, json_path in enumerate(json_files):
-            # Basic metadata from filename
-            filename = json_path.name
-            # Clean title: "infinite_mage_chapter_1" -> "Infinite Mage Chapter 1"
-            title = filename.replace('_', ' ').replace('.json', '').replace('-', ' ').title()
+        # Query database instead of scanning filesystem
+        if novel_id is not None:
+            # Filter by novel_id
+            chapters = db.get_chapters_by_novel(novel_id)
             
-            # Extract basic info
-            chapter_index = i + 1
-            # Try to extract number from filename
-            match = re.search(r'chapter_?(\d+)', filename.lower())
-            if match:
-                chapter_index = int(match.group(1))
+            # Verify novel exists
+            if not chapters and db.get_novel(novel_id) is None:
+                # Novel doesn't exist, return empty list
+                return ChapterMetadataListResponse(
+                    chapters=[],
+                    total=0,
+                    novel_id=novel_id
+                )
+        else:
+            # Return all chapters including legacy (NULL novel_id)
+            chapters = db.get_all_chapters()
+        
+        # Enrich chapter data with file paths based on novel_id
+        metadata_list = []
+        for chapter in chapters:
+            chapter_novel_id = chapter.get("novel_id")
+            
+            # Build file path based on novel_id
+            if chapter_novel_id is not None:
+                base_path = Path(f"data/{phase}/novel_{chapter_novel_id}")
+            else:
+                base_path = Path(f"data/{phase}")
+            
+            file_path = str(base_path / chapter["filename"])
             
             metadata_list.append(ChapterMetadata(
-                id=i + 1,  # Temporary ID based on list index
-                chapter_index=chapter_index,
-                filename=filename,
-                title=title,
-                status='complete',  # JSON existence implies completeness for UI
-                phase='transform',
-                token_count=0
+                id=chapter["id"],
+                chapter_index=chapter["chapter_index"],
+                filename=chapter["filename"],
+                title=chapter.get("title", f"Chapter {chapter['chapter_index']}"),
+                status='complete',
+                phase=phase,
+                token_count=0,
+                file_path=file_path,
+                novel_id=chapter_novel_id
             ))
-            
+        
         # Sort by chapter index
         metadata_list.sort(key=lambda x: x.chapter_index)
         
@@ -527,12 +587,7 @@ async def get_chapters_metadata(
 # Chapter Content Endpoints
 # ============================================================================
 
-class ChapterBlock(BaseModel):
-    """Content block within a chapter."""
-    type: str # 'dialogue', 'thought', 'narrator', 'action', 'system', 'monologue'
-    speaker: Optional[str] = None
-    content: str
-    tone: Optional[str] = None
+from babel.data.models import ChapterBlock
 
 class ChapterResponse(BaseModel):
     """Full chapter content response."""
@@ -549,53 +604,66 @@ async def get_chapter(chapter_id: int):
     """
     Get full chapter content by ID.
     
-    Uses file-system indexing to match get_chapters_metadata.
+    Queries database for chapter metadata and loads JSON from novel-specific folder.
     """
     try:
-        import re
-        json_dir = Path("data/json")
-        if not json_dir.exists():
-             raise HTTPException(status_code=404, detail="Chapter directory not found")
-
-        # Get all JSON files sorted (must match metadata order)
-        json_files = sorted(list(json_dir.glob("*.json")))
+        from babel.data.db import DatabaseManager
+        db = DatabaseManager()
         
-        # Check if ID is valid (1-based index)
-        if chapter_id < 1 or chapter_id > len(json_files):
+        # Get chapter from database
+        chapter = db.get_chapter(chapter_id)
+        if not chapter:
             raise HTTPException(status_code=404, detail=f"Chapter {chapter_id} not found")
-            
-        # Get corresponding file
-        json_path = json_files[chapter_id - 1]
+        
+        novel_id = chapter.get("novel_id")
+        filename = chapter["filename"]
+        
+        # Build path to JSON file based on novel_id
+        if novel_id is not None:
+            # Novel-specific folder: data/json/novel_{id}/filename.json
+            json_filename = filename.replace('.xhtml', '.json').replace('.html', '.json')
+            if not json_filename.endswith('.json'):
+                json_filename += '.json'
+            json_path = Path(f"data/json/novel_{novel_id}") / json_filename
+        else:
+            # Legacy: data/json/filename.json
+            json_filename = filename.replace('.xhtml', '.json').replace('.html', '.json')
+            if not json_filename.endswith('.json'):
+                json_filename += '.json'
+            json_path = Path("data/json") / json_filename
+        
+        if not json_path.exists():
+            raise HTTPException(status_code=404, detail=f"Chapter content not found at {json_path}")
         
         # Read content
         data = json.loads(json_path.read_text(encoding='utf-8'))
         
-        # Extract title from filename for consistency
-        filename = json_path.name
-        title = filename.replace('_', ' ').replace('.json', '').replace('.txt', '').replace('-', ' ').title()
+        # Get navigation (prev/next chapters in same novel)
+        if novel_id is not None:
+            all_chapters = db.get_chapters_by_novel(novel_id)
+        else:
+            all_chapters = db.get_all_chapters()
         
-        # Just use the index from loop/arg
-        chapter_index = chapter_id
+        # Sort by chapter_index
+        all_chapters.sort(key=lambda x: x["chapter_index"])
         
-        # Try to extract real chapter number from filename if possible, for display
-        match = re.search(r'chapter_?(\d+)', filename.lower())
-        if match:
-            chapter_index = int(match.group(1))
-
-        # Navigation
+        # Find current position
+        current_idx = next((i for i, ch in enumerate(all_chapters) if ch["id"] == chapter_id), None)
+        
         navigation = {
-            "prev": chapter_id - 1 if chapter_id > 1 else None,
-            "next": chapter_id + 1 if chapter_id < len(json_files) else None
+            "prev": all_chapters[current_idx - 1]["id"] if current_idx and current_idx > 0 else None,
+            "next": all_chapters[current_idx + 1]["id"] if current_idx is not None and current_idx < len(all_chapters) - 1 else None
         }
 
         return {
-            "id": chapter_id, # Return the requested ID so frontend stays in sync
-            "chapter_index": chapter_index,
+            "id": chapter_id,
+            "chapter_index": chapter["chapter_index"],
             "filename": filename,
-            "title": title,
+            "title": chapter.get("title", f"Chapter {chapter['chapter_index']}"),
             "blocks": data.get('blocks', []),
             "metadata": data.get('metadata', {}),
-            "navigation": navigation
+            "navigation": navigation,
+            "novel_id": novel_id
         }
 
     except HTTPException:
@@ -667,36 +735,31 @@ async def run_ingestion_pipeline(operation_id: str, file_path: Path):
         operation_status[operation_id]["message"] = "Initializing pipeline..."
         operation_status[operation_id]["progress"] = 0.1
         
-        # Initialize orchestrator
-        db = DatabaseManager()
-        orchestrator = PipelineOrchestrator(db)
+        # Initialize orchestrator with proper config
+        from babel.pipeline.orchestrator import PipelineOrchestrator, PipelineConfig
+        
+        config = PipelineConfig()
+        orchestrator = PipelineOrchestrator(config=config, input_path=file_path)
         
         # Run pipeline (this is synchronous in current implementation, might block but running in threadpool via FastAPI background tasks usually fine for short tasks, strictly speaking should be run_in_executor if heavy CPU)
         # For now, we wrap it simply.
         
         operation_status[operation_id]["message"] = f"Processing {file_path.name}..."
         
-        # We need to simulate or adapt the orchestrator to run on a single file if possible, 
-        # or just run the 'scan' and 'process' phases.
-        # The orchestrator usually scans directory. 
-        # Let's assume orchestrator.run() picks up the new file.
+        operation_status[operation_id]["message"] = f"Processing {file_path.name}..."
+        operation_status[operation_id]["progress"] = 0.3
         
-        # Phase 1: Scan
-        operation_status[operation_id]["progress"] = 0.2
-        orchestrator.scan_directory()
+        # Run the pipeline
+        result = orchestrator.execute()
         
-        # Phase 2: Convert/Segment/Extract
-        operation_status[operation_id]["progress"] = 0.4
-        orchestrator.run_phase('transform') # This might be too broad, usually we want to target specific ID. 
-        # But existing pipeline is batch-oriented. Let's run it.
-        
-        operation_status[operation_id]["progress"] = 0.8
+        operation_status[operation_id]["progress"] = 0.9
         operation_status[operation_id]["message"] = "Finalizing..."
         
         # Success
         operation_status[operation_id]["status"] = "completed"
         operation_status[operation_id]["progress"] = 1.0
-        operation_status[operation_id]["message"] = "Ingestion complete"
+        operation_status[operation_id]["message"] = f"Ingestion complete: {result.chapters_processed} chapters processed, {result.chapters_failed} failed"
+        operation_status[operation_id]["files_modified"] = result.chapters_processed
         
     except Exception as e:
         logger.error(f"Pipeline failed for {file_path}: {e}")

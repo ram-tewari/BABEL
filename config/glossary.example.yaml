@@ -1,0 +1,32 @@
+# BABEL glossary — gives the LLM (and the UI tooltips / character graph) stable
+# context about who's who across thousands of chapters.
+#
+# Copy to config/glossary.yaml (or config/glossary.novel_<id>.yaml for a
+# specific novel) and fill in. Everything is optional; characters listed here
+# get richer hover cards and faction colouring in the relationship graph.
+
+characters:
+  Shirone:
+    aliases: [Shi]
+    faction: Alpheas Magic School
+    description: Protagonist. A commoner-born genius with extraordinary sight.
+    color: "#4f8cff"        # optional; omit to auto-derive from the name hash
+
+  Amy:
+    aliases: []
+    faction: Alpheas Magic School
+    description: Noble-born classmate and rival-turned-ally of Shirone.
+
+  Alpheas:
+    aliases: [Headmaster]
+    faction: Alpheas Magic School
+    description: Headmaster of the magic school.
+
+# Factions are used for node colouring and grouping in the character graph.
+factions:
+  Alpheas Magic School:
+    color: "#4f8cff"
+    description: The premier institution for training young mages.
+  Royal Family:
+    color: "#e0b341"
+    description: The ruling house of the kingdom.

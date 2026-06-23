@@ -94,16 +94,53 @@ def add_entry(
 
 @app.command("map")
 def generate_map(
-    input_dir: Path = typer.Argument(..., help="Directory with JSON files"),
-    output_file: Path = typer.Option("config/chapter_map.json", "--output", "-o", help="Output map file"),
+    input_dir: Optional[Path] = typer.Option(None, "--input", "-i", help="Directory with JSON files"),
+    output_file: Optional[Path] = typer.Option(None, "--output", "-o", help="Output map file"),
+    novel_id: Optional[int] = typer.Option(None, "--novel-id", "-n", help="Novel ID for novel-specific map"),
 ):
     """Generate chapter map from JSON files"""
     from babel.context.cartographer import Cartographer
+    from babel.data.db import DatabaseManager
+    from babel.cli import get_db_path
+    
+    # Handle novel-specific paths
+    if novel_id is not None:
+        db = DatabaseManager(get_db_path())
+        novel = db.get_novel(novel_id)
+        if not novel:
+            console.print(f"[red]Error: Novel with ID {novel_id} not found[/red]")
+            raise typer.Exit(1)
+        
+        if input_dir is None:
+            input_dir = Path(f"data/json/novel_{novel_id}")
+        if output_file is None:
+            output_file = Path(f"config/chapter_map_novel_{novel_id}.json")
+    else:
+        # Legacy paths
+        if input_dir is None:
+            input_dir = Path("data/json")
+        if output_file is None:
+            output_file = Path("config/chapter_map.json")
+    
+    if not input_dir.exists():
+        console.print(f"[red]Error: Input directory {input_dir} does not exist[/red]")
+        raise typer.Exit(1)
     
     cartographer = Cartographer(input_dir)
     
     with console.status(f"[bold green]Analyzing chapters..."):
         chapter_map = cartographer.generate_map()
     
-    output_file.write_text(chapter_map.model_dump_json(indent=2), encoding="utf-8")
+    # Add novel_id to metadata if provided
+    if novel_id is not None:
+        chapter_map_dict = chapter_map.model_dump()
+        if 'metadata' not in chapter_map_dict:
+            chapter_map_dict['metadata'] = {}
+        chapter_map_dict['metadata']['novel_id'] = novel_id
+        
+        import json
+        output_file.write_text(json.dumps(chapter_map_dict, indent=2), encoding="utf-8")
+    else:
+        output_file.write_text(chapter_map.model_dump_json(indent=2), encoding="utf-8")
+    
     console.print(f"[green]✓[/green] Chapter map saved to {output_file}")

@@ -2,9 +2,9 @@
 
 **Transform raw webnovels into Visual Scenario format - completely free**
 
-BABEL is an automated pipeline that converts 5,000+ chapter webnovels from raw text into screenplay/chat-style Visual Scenario format, optimized for dialogue flow and character consistency. Process up to 1,500 chapters per day at zero cost using Gemini 2.5 Flash's generous free tier.
+BABEL is an automated pipeline that converts 5,000+ chapter webnovels from raw text into screenplay/chat-style Visual Scenario format, optimized for dialogue flow and character consistency. Process chapters at zero cost using **NVIDIA NIM's free, OpenAI-compatible catalog** (default model `qwen/qwen3-235b-a22b`), with automatic Groq/Gemini fallback.
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/yourusername/babel)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/ram-tewari/babel)
 [![Python Version](https://img.shields.io/badge/python-3.12%2B-blue)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Coverage](https://img.shields.io/badge/coverage-95%25-brightgreen)](tests/)
@@ -101,7 +101,11 @@ python -m venv .venv
 pip install -r requirements.txt
 
 # 2. Set up API key (free tier)
-echo GEMINI_API_KEY=your_api_key_here > .env
+# Primary: NVIDIA NIM (free, OpenAI-compatible) — get a key at https://build.nvidia.com
+echo NVIDIA_API_KEYS=nvapi-your_key_here > .env
+# Optional fallbacks (comma-separated keys rotate automatically):
+echo GROQ_API_KEYS=your_groq_key >> .env
+echo GEMINI_API_KEY=your_gemini_key >> .env
 
 # 3. Transform your novel
 python -m babel.sanitize input.epub          # Extract chapters
@@ -339,34 +343,29 @@ python -m babel.sanitize input.txt
 
 ### Phase 1: Transform to Visual Scenario
 
-BABEL uses Groq as the default provider with automatic Gemini fallback:
+BABEL uses **NVIDIA NIM** as the default provider with automatic Groq fallback.
+NVIDIA's free hosted catalog is OpenAI-compatible (40 RPM, far above the
+~1,500 chapters/day target), so the default model is a top-tier one:
+`qwen/qwen3-235b-a22b`. Model aliases: `qwen`, `deepseek`, `llama`,
+`mistral-nemotron`, `nemotron`.
 
-#### Recommended: Batch Processing (Groq + Gemini Fallback)
+#### CLI Commands
 ```bash
-# Batch transform with automatic fallback
-python run_groq_batch.py
-
-# Features:
-# - Primary: Groq API (llama-3.3-70b-versatile) with key rotation
-# - Fallback: Gemini 2.5 Flash (automatic if Groq fails)
-# - Auto-skip: Already processed chapters
-# - Auto-render: HTML generation after transformation
-# - Auto-update: Chapter map updated every 10 chapters
-# - Progress: Real-time status updates
-
-# Output: data/json/*.json + data/render/*.html
-```
-
-#### Alternative: CLI Commands
-```bash
-# Single chapter (Groq default, Gemini fallback)
+# Single chapter (NVIDIA default → Qwen3-235B, Groq fallback)
 python -m babel.cli transform chapter input.txt
 
-# Batch processing (Groq default)
-python -m babel.cli transform batch data/clean/
+# Batch processing (NVIDIA default)
+python -m babel.cli transform batch --input data/clean/
 
-# Force Gemini only
+# Pick a different NVIDIA model by alias or full id
+python -m babel.cli transform chapter input.txt --model deepseek
+
+# Use another provider
+python -m babel.cli transform chapter input.txt --provider groq
 python -m babel.cli transform chapter input.txt --provider gemini
+
+# Verify a provider's connection / key
+python -m babel.cli diagnose nvidia
 
 # Output: data/json/*.json
 ```
@@ -484,13 +483,16 @@ python run_groq_batch.py
 Create a `.env` file in the project root:
 
 ```bash
-# LLM Provider Selection (choose one or both)
+# LLM Provider Selection (NVIDIA is the default; others are fallbacks)
 
-# Option 1: Gemini (default, free tier)
-GEMINI_API_KEY=your_gemini_api_key_here
+# Option 1: NVIDIA NIM (default, free, OpenAI-compatible, key rotation)
+NVIDIA_API_KEYS=nvapi-key1,nvapi-key2  # Comma-separated for rotation
 
-# Option 2: Groq (faster, with key rotation)
+# Option 2: Groq (fast, with key rotation) — default fallback
 GROQ_API_KEYS=key1,key2,key3,key4,key5  # Comma-separated for rotation
+
+# Option 3: Gemini (free tier)
+GEMINI_API_KEY=your_gemini_api_key_here
 
 # Optional (defaults shown)
 BABEL_CLEAN_DIR=data/clean
@@ -1049,13 +1051,33 @@ See [docs/ISSUES.md](docs/ISSUES.md) for complete issue tracking.
 
 ## License
 
-[Add license information]
+MIT License
+
+Copyright (c) 2026 BABEL Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 ---
 
 ## Acknowledgments
 
-- Powered by **Google Gemini 2.5 Flash** (FREE tier)
+- Powered by **Groq** (Llama 3.3 70B) and **Google Gemini 2.5 Flash**
 - Built with **Pydantic**, **Hypothesis**, and **Tenacity**
 - React UI built with **Vite**, **React 19**, and **Tailwind CSS**
 - Inspired by the webnovel community

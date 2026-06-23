@@ -10,89 +10,176 @@ console = Console()
 
 @app.command("run")
 def run_pipeline(
-    input_dir: Path = typer.Argument(..., help="Input directory with raw text files"),
-    output_dir: Path = typer.Argument(..., help="Output directory"),
-    config: Path = typer.Option("config/pipeline.yaml", "--config", "-c", help="Pipeline config file"),
-    provider: str = typer.Option("gemini", "--provider", "-p", help="LLM provider"),
+    novel_id: int = typer.Option(..., "--novel-id", "-n", help="Novel ID to process (required)"),
+    provider: str = typer.Option("nvidia", "--provider", "-p", help="LLM provider"),
     skip_transform: bool = typer.Option(False, "--skip-transform", help="Skip transformation step"),
     skip_render: bool = typer.Option(False, "--skip-render", help="Skip rendering step"),
 ):
-    """Run the complete processing pipeline"""
-    from babel.pipeline.orchestrator import PipelineOrchestrator
-    from babel.pipeline.core import PipelineConfig
-    import yaml
+    """Run the complete processing pipeline for a specific novel"""
+    from babel.data.db import DatabaseManager
+    from babel.cli import get_db_path
+    from rich.progress import Progress, SpinnerColumn, TextColumn
     
-    # Load config
-    with console.status(f"[bold green]Loading config from {config}..."):
-        config_data = yaml.safe_load(config.read_text())
-        pipeline_config = PipelineConfig(**config_data)
+    db = DatabaseManager(get_db_path())
     
-    # Override provider
-    pipeline_config.provider = provider
-    
-    # Create orchestrator
-    orchestrator = PipelineOrchestrator(
-        config=pipeline_config,
-        input_dir=input_dir,
-        output_dir=output_dir
-    )
-    
-    # Run pipeline
-    console.print("[bold cyan]Starting pipeline...[/bold cyan]")
-    
-    try:
-        orchestrator.run(
-            skip_transform=skip_transform,
-            skip_render=skip_render
-        )
-        console.print("[green]✓[/green] Pipeline completed successfully")
-    except Exception as e:
-        console.print(f"[red]✗[/red] Pipeline failed: {e}")
+    # Verify novel exists
+    novel = db.get_novel_with_chapter_count(novel_id)
+    if not novel:
+        console.print(f"[red]Error: Novel with ID {novel_id} not found[/red]")
         raise typer.Exit(1)
+    
+    console.print(f"\n[bold cyan]Pipeline: {novel['title']}[/bold cyan]")
+    console.print(f"Novel ID: {novel_id}")
+    console.print(f"Chapters: {novel.get('chapter_count', 0)}\n")
+    
+    # Run transform
+    if not skip_transform:
+        console.print("[bold]Phase 1: Transform[/bold]")
+        result = typer.run(f"babel transform batch --novel-id {novel_id} --provider {provider}")
+        if result != 0:
+            console.print("[red]✗[/red] Transform phase failed")
+            raise typer.Exit(1)
+    
+    # Run render
+    if not skip_render:
+        console.print("\n[bold]Phase 2: Render[/bold]")
+        result = typer.run(f"babel render batch --novel-id {novel_id}")
+        if result != 0:
+            console.print("[red]✗[/red] Render phase failed")
+            raise typer.Exit(1)
+    
+    console.print(f"\n[green]✓[/green] Pipeline completed for '{novel['title']}'")
+    console.print(f"  Novel ID: {novel_id}")
+    console.print(f"  Chapters: {novel.get('chapter_count', 0)}")
 
 
 @app.command("status")
 def pipeline_status(
-    state_file: Path = typer.Option("config/pipeline_state.json", "--state", "-s", help="State file"),
+    novel_id: Optional[int] = typer.Option(None, "--novel-id", "-n", help="Filter by novel ID"),
 ):
-    """Show pipeline status"""
-    from babel.pipeline.state import PipelineState
+    """Show pipeline status for a novel or all novels"""
+    from babel.data.db import DatabaseManager
+    from babel.cli import get_db_path
     from rich.table import Table
     
-    state = PipelineState.load(state_file)
+    db = DatabaseManager(get_db_path())
     
-    table = Table(title="Pipeline Status")
-    table.add_column("Stage", style="cyan")
-    table.add_column("Status", style="magenta")
-    table.add_column("Progress", style="white")
-    
-    for stage, info in state.stages.items():
-        table.add_row(
-            stage,
-            info.get("status", "pending"),
-            f"{info.get('completed', 0)}/{info.get('total', 0)}"
-        )
-    
-    console.print(table)
+    if novel_id is not None:
+        # Verify novel exists
+        novel = db.get_novel(novel_id)
+        if not novel:
+            console.print(f"[red]Error: Novel with ID {novel_id} not found[/red]")
+            raise typer.Exit(1)
+        
+        # Get pipeline states for this novel
+        states = db.get_pipeline_states_by_novel(novel_id)
+        
+        if not states:
+            console.print(f"[yellow]No pipeline state found for novel '{novel['title']}'[/yellow]")
+            return
+        
+        table = Table(title=f"Pipeline Status: {novel['title']}")
+        table.add_column("Phase", style="cyan")
+        table.add_column("Status", style="magenta")
+        table.add_column("Progress", style="white")
+        table.add_column("Error", style="red")
+        
+        for state in states:
+            progress = f"{state.get('last_chapter', 0)}/{state.get('total_chapters', 0)}"
+            error = state.get('error_message', '')[:50] if state.get('error_message') else ''
+            
+            table.add_row(
+                state['phase'],
+                state['status'],
+                progress,
+                error
+            )
+        
+        console.print(table)
+    else:
+        # Show all pipeline states
+        states = db.get_all_pipeline_states()
+        
+        if not states:
+            console.print("[yellow]No pipeline states found[/yellow]")
+            return
+        
+        table = Table(title="All Pipeline States")
+        table.add_column("Novel ID", style="blue")
+        table.add_column("Phase", style="cyan")
+        table.add_column("Status", style="magenta")
+        table.add_column("Progress", style="white")
+        
+        for state in states:
+            novel_id_display = str(state['novel_id']) if state['novel_id'] is not None else 'Legacy'
+            progress = f"{state.get('last_chapter', 0)}/{state.get('total_chapters', 0)}"
+            
+            table.add_row(
+                novel_id_display,
+                state['phase'],
+                state['status'],
+                progress
+            )
+        
+        console.print(table)
 
 
-@app.command("resume")
-def resume_pipeline(
-    state_file: Path = typer.Option("config/pipeline_state.json", "--state", "-s", help="State file"),
+@app.command("run-all")
+def run_all_pipelines(
+    status: str = typer.Option("active", "--status", "-s", help="Filter novels by status"),
+    provider: str = typer.Option("nvidia", "--provider", "-p", help="LLM provider"),
 ):
-    """Resume a failed pipeline from saved state"""
-    from babel.pipeline.orchestrator import PipelineOrchestrator
-    from babel.pipeline.state import PipelineState
+    """Run pipeline for all novels with specified status"""
+    from babel.data.db import DatabaseManager
+    from babel.cli import get_db_path
+    from rich.progress import Progress, SpinnerColumn, TextColumn
+    import subprocess
     
-    state = PipelineState.load(state_file)
+    db = DatabaseManager(get_db_path())
     
-    console.print(f"[bold cyan]Resuming pipeline from {state.current_stage}...[/bold cyan]")
+    # Get novels with specified status
+    novels = db.list_novels_with_chapter_count(limit=10000)
+    novels = [n for n in novels if n['status'] == status]
     
-    orchestrator = PipelineOrchestrator.from_state(state)
+    if not novels:
+        console.print(f"[yellow]No novels found with status '{status}'[/yellow]")
+        return
     
-    try:
-        orchestrator.resume()
-        console.print("[green]✓[/green] Pipeline resumed and completed")
-    except Exception as e:
-        console.print(f"[red]✗[/red] Pipeline failed: {e}")
+    console.print(f"\n[bold cyan]Batch Pipeline Processing[/bold cyan]")
+    console.print(f"Processing {len(novels)} novels with status '{status}'\n")
+    
+    successes = []
+    failures = []
+    
+    for novel in novels:
+        console.print(f"\n[bold]Processing: {novel['title']}[/bold] (ID: {novel['id']})")
+        
+        try:
+            # Run pipeline for this novel
+            result = subprocess.run(
+                ["babel", "pipeline", "run", "--novel-id", str(novel['id']), "--provider", provider],
+                capture_output=True,
+                text=True
+            )
+            
+            if result.returncode == 0:
+                console.print(f"[green]✓[/green] Completed: {novel['title']}")
+                successes.append(novel['title'])
+            else:
+                console.print(f"[red]✗[/red] Failed: {novel['title']}")
+                failures.append((novel['title'], result.stderr))
+        except Exception as e:
+            console.print(f"[red]✗[/red] Error: {novel['title']} - {e}")
+            failures.append((novel['title'], str(e)))
+    
+    # Summary
+    console.print(f"\n[bold cyan]Batch Processing Summary[/bold cyan]")
+    console.print(f"  Successful: [green]{len(successes)}[/green]")
+    console.print(f"  Failed: [red]{len(failures)}[/red]")
+    console.print(f"  Total: {len(novels)}")
+    
+    if failures:
+        console.print("\n[red]Failed Novels:[/red]")
+        for title, error in failures:
+            console.print(f"  - {title}")
         raise typer.Exit(1)

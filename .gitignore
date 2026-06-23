@@ -146,3 +146,7 @@ config/job_status.json
 /WORKFLOW_*.md
 !/README.md
 !/CHANGELOG.md
+
+# Issue tracking (contains sensitive information)
+ISSUES.md
+docs/ISSUES.md

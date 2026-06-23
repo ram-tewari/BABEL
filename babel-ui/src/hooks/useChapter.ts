@@ -16,15 +16,19 @@ import type { ChapterResponse } from '@/lib/api';
 /**
  * Query key factory for chapter data
  */
+/**
+ * Query key factory for chapter data
+ */
 export const chapterKeys = {
     all: ['chapters'] as const,
-    detail: (id: number) => [...chapterKeys.all, 'detail', id] as const,
+    detail: (id: number, novelId: number | string = 'default') => [...chapterKeys.all, 'detail', String(novelId), id] as const,
 };
 
 /**
  * Hook for fetching a single chapter's content
  * 
  * @param chapterId - Chapter ID to fetch
+ * @param novelId - Optional Novel ID (default: 'default')
  * @returns TanStack Query result with chapter data
  * 
  * Features:
@@ -33,12 +37,24 @@ export const chapterKeys = {
  * - Prefetches next/previous chapters automatically
  * - Returns loading and error states
  */
-export function useChapter(chapterId: number | null) {
+export function useChapter(chapterId: number | null, novelId: number | string = 'default') {
     const queryClient = useQueryClient();
 
     const query = useQuery<ChapterResponse>({
-        queryKey: chapterKeys.detail(chapterId ?? 0),
-        queryFn: () => api.getChapter(chapterId!),
+        queryKey: chapterKeys.detail(chapterId ?? 0, novelId),
+        queryFn: () => {
+            if (novelId === 'default') {
+                return api.getChapter(chapterId!);
+            } else {
+                // Ensure novelId is a number for the API call
+                const nId = typeof novelId === 'string' ? parseInt(novelId, 10) : novelId;
+                if (isNaN(nId)) {
+                    // Fallback for invalid ID, though shouldn't happen if properly typed
+                    return api.getChapter(chapterId!);
+                }
+                return api.getNovelChapter(nId, chapterId!);
+            }
+        },
         enabled: chapterId !== null && chapterId > 0,
         staleTime: 5 * 60 * 1000, // 5 minutes
         gcTime: 30 * 60 * 1000, // 30 minutes cache
@@ -53,21 +69,29 @@ export function useChapter(chapterId: number | null) {
 
             if (next) {
                 queryClient.prefetchQuery({
-                    queryKey: chapterKeys.detail(next),
-                    queryFn: () => api.getChapter(next),
+                    queryKey: chapterKeys.detail(next, novelId),
+                    queryFn: () => {
+                        if (novelId === 'default') return api.getChapter(next);
+                        const nId = typeof novelId === 'string' ? parseInt(novelId, 10) : novelId;
+                        return api.getNovelChapter(nId, next);
+                    },
                     staleTime: 5 * 60 * 1000,
                 });
             }
 
             if (prev) {
                 queryClient.prefetchQuery({
-                    queryKey: chapterKeys.detail(prev),
-                    queryFn: () => api.getChapter(prev),
+                    queryKey: chapterKeys.detail(prev, novelId),
+                    queryFn: () => {
+                        if (novelId === 'default') return api.getChapter(prev);
+                        const nId = typeof novelId === 'string' ? parseInt(novelId, 10) : novelId;
+                        return api.getNovelChapter(nId, prev);
+                    },
                     staleTime: 5 * 60 * 1000,
                 });
             }
         }
-    }, [query.data, queryClient]);
+    }, [query.data, queryClient, novelId]);
 
     return query;
 }

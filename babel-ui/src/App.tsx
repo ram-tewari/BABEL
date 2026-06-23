@@ -8,6 +8,9 @@ import './index.css';
 const Home = lazy(() => import('./pages/Home').then(module => ({ default: module.Home })));
 const ChapterView = lazy(() => import('./pages/ChapterView').then(module => ({ default: module.ChapterView })));
 const CorrectionDashboard = lazy(() => import('./pages/CorrectionDashboard').then(module => ({ default: module.CorrectionDashboard })));
+const Library = lazy(() => import('./pages/Library'));
+const NovelDetail = lazy(() => import('./pages/NovelDetail'));
+const CharacterGraph = lazy(() => import('./pages/CharacterGraph'));
 const NotFound = lazy(() => import('./pages/NotFound').then(module => ({ default: module.NotFound })));
 
 function App() {
@@ -19,11 +22,20 @@ function App() {
         </div>
       }>
         <Routes>
-          {/* Home Route - Chapter List */}
+          {/* Home Route - Redirects to Library or acts as Landing */}
           <Route path="/" element={<Home />} />
 
-          {/* Chapter View Route - Individual Chapter */}
+          {/* Library Routes */}
+          <Route path="/library" element={<Library />} />
+          <Route path="/library/:id" element={<NovelDetail />} />
+
+          {/* Chapter View Routes - Support both legacy and novel-specific patterns */}
           <Route path="/chapter/:id" element={<ChapterView />} />
+          <Route path="/library/:novelId/chapter/:id" element={<ChapterView />} />
+
+          {/* Character relationship graph */}
+          <Route path="/characters" element={<CharacterGraph />} />
+          <Route path="/library/:novelId/characters" element={<CharacterGraph />} />
 
           {/* Corrections Dashboard Route */}
           <Route path="/corrections" element={<CorrectionDashboard />} />

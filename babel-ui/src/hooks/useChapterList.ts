@@ -36,7 +36,14 @@ import type { ChapterListResponse } from '@/lib/api';
 export function useChapterList(novelId: string = 'default') {
   return useQuery<ChapterListResponse>({
     queryKey: ['chapterList', novelId],
-    queryFn: () => api.getChapterList(novelId),
+    queryFn: async () => {
+      // Use legacy endpoint for default/single-novel mode
+      if (novelId === 'default') {
+        return api.getChapterList('default');
+      }
+      // Use library endpoint for specific novels
+      return api.getNovelChapters(novelId);
+    },
     staleTime: 10 * 60 * 1000, // 10 minutes - chapter list doesn't change often
     gcTime: 60 * 60 * 1000, // 1 hour cache time (formerly cacheTime)
     retry: 3, // Retry failed requests 3 times

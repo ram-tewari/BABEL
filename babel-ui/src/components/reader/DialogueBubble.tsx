@@ -15,6 +15,7 @@ import { getCharacterColor, getCharacterLane, getToneEmoji } from '@/lib/style';
 import { cn } from '@/lib/utils';
 import { CharacterModal } from '@/components/modals/CharacterModal';
 import { useSettings } from '@/stores/settingsStore';
+import { useGlossary } from '@/stores/glossaryStore';
 
 interface DialogueBubbleProps {
     /** Character speaking the dialogue */
@@ -45,8 +46,7 @@ export function DialogueBubble({ speaker, content, tone }: DialogueBubbleProps) 
     const lane = prefs?.lane || getCharacterLane(speaker);
     const displayName = prefs?.displayName || speaker;
     const emoji = getToneEmoji(tone);
-    
-    console.log(`DialogueBubble - Speaker: ${speaker}, Lane: ${lane}, Prefs:`, prefs);
+    const glossaryEntry = useGlossary((s) => s.getEntry(speaker));
 
     const handleSpeakerClick = (e: React.MouseEvent) => {
         e.stopPropagation(); // Prevent block editor from opening
@@ -56,7 +56,7 @@ export function DialogueBubble({ speaker, content, tone }: DialogueBubbleProps) 
     return (
         <div className={cn('dialogue group/bubble', lane)} data-testid="dialogue-bubble">
             <div
-                className="speaker group flex items-center gap-2"
+                className="speaker group relative flex items-center gap-2"
                 onClick={handleSpeakerClick}
                 style={{ color }}
                 data-testid="dialogue-speaker"
@@ -69,7 +69,14 @@ export function DialogueBubble({ speaker, content, tone }: DialogueBubbleProps) 
                     }
                 }}
             >
-                <span className="font-semibold text-sm tracking-wide">{displayName}</span>
+                <span
+                    className={cn(
+                        'font-semibold text-sm tracking-wide',
+                        glossaryEntry && 'underline decoration-dotted decoration-[var(--text-dim)] underline-offset-4'
+                    )}
+                >
+                    {displayName}
+                </span>
                 <button
                     className="opacity-0 group-hover:opacity-100 transition-all duration-200 p-1 rounded-md hover:bg-[var(--bg-tertiary)] -ml-1 text-[var(--text-dim)]"
                     aria-label="Edit Character"
@@ -77,6 +84,32 @@ export function DialogueBubble({ speaker, content, tone }: DialogueBubbleProps) 
                 >
                     <Edit2 size={12} />
                 </button>
+                {glossaryEntry && (
+                    <div
+                        role="tooltip"
+                        className="pointer-events-none absolute left-0 top-full z-20 mt-1 w-64 origin-top-left scale-95 rounded-lg border border-[var(--border)] bg-[var(--bg-secondary)] p-3 text-left opacity-0 shadow-xl transition-all duration-150 group-hover:scale-100 group-hover:opacity-100"
+                        data-testid="glossary-tooltip"
+                    >
+                        <div className="text-sm font-semibold" style={{ color }}>
+                            {glossaryEntry.name}
+                        </div>
+                        {glossaryEntry.faction && (
+                            <div className="mt-0.5 text-xs font-medium text-[var(--text-dim)]">
+                                {glossaryEntry.faction}
+                            </div>
+                        )}
+                        {glossaryEntry.description && (
+                            <p className="mt-1.5 text-xs leading-relaxed text-[var(--text-secondary)]">
+                                {glossaryEntry.description}
+                            </p>
+                        )}
+                        {glossaryEntry.aliases?.length > 0 && (
+                            <div className="mt-1.5 text-[10px] uppercase tracking-wide text-[var(--text-dim)]">
+                                aka {glossaryEntry.aliases.join(', ')}
+                            </div>
+                        )}
+                    </div>
+                )}
             </div>
             <div
                 className="bubble"

@@ -3,9 +3,12 @@
 # Core dependencies
 pydantic>=2.0.0
 
+# Phase 0 (EPUB/TXT Sanitization) dependencies
+ebooklib>=0.18  # EPUB parsing for the EPUBIngester
+
 # Phase 1 (LLM Transformation) dependencies
-google-genai>=0.1.0
-groq>=0.4.0  # Groq API client with key rotation support
+openai>=1.0.0  # OpenAI-compatible client for NVIDIA NIM (text + vision) / Ollama
+google-genai>=0.1.0  # Gemini (optional, not in default path)
 tenacity>=8.0.0
 
 # Phase 3 (Automation Pipeline) dependencies
@@ -27,3 +30,4 @@ pytest>=7.0.0
 hypothesis>=6.0.0
 pytest-mock>=3.0.0
 beautifulsoup4>=4.12.0  # For HTML parsing in property tests
+Pillow>=10.0.0  # For image processing (cover resizing)

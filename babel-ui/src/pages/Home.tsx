@@ -1,14 +1,42 @@
-import { useState } from 'react';
-import { Link } from 'react-router-dom';
+import { useState, useEffect } from 'react';
+import { Link, useParams, useNavigate } from 'react-router-dom';
 import { useChapterList } from '@/hooks/useChapterList';
+import { useReadingProgress } from '@/stores/readingProgressStore';
 import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
 import { ChapterList } from '@/components/chapter/ChapterList';
 import { Search, BookOpen } from 'lucide-react';
 
 export function Home() {
-  const { data: chapterListData, isLoading } = useChapterList();
+  const navigate = useNavigate();
+  const { id } = useParams<{ id: string }>();
+  const { setCurrentNovel } = useReadingProgress();
+  const novelId = id || 'default';
+
+  // Redirect to library on mount if no specific novel is selected
+  useEffect(() => {
+    if (!id) {
+      navigate('/library', { replace: true });
+    }
+  }, [id, navigate]);
+
+  // Sync current novel with store
+  useEffect(() => {
+    setCurrentNovel(novelId);
+  }, [novelId, setCurrentNovel]);
+
+  const { data: chapterListData, isLoading } = useChapterList(novelId);
   const [searchQuery, setSearchQuery] = useState('');
+
+  // If no ID, show loading while redirecting
+  if (!id) {
+    return (
+      <div className="flex flex-col items-center justify-center min-h-[60vh] gap-4">
+        <div className="w-6 h-6 border-2 border-purple-500 border-t-transparent rounded-full animate-spin" />
+        <span className="text-xs uppercase tracking-widest text-gray-500">Redirecting to Library...</span>
+      </div>
+    );
+  }
 
   // Filter chapters based on search query
   const filteredChapters = chapterListData?.chapters.filter((chapter) =>

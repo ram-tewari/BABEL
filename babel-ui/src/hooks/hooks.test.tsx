@@ -18,6 +18,7 @@ vi.mock('@/lib/api', () => ({
     api: {
         getChapter: vi.fn(),
         getChapterList: vi.fn(),
+        getNovelChapters: vi.fn(),
         getCharacterList: vi.fn(),
         healthCheck: vi.fn(),
     },
@@ -214,14 +215,15 @@ describe('useChapterList', () => {
         });
     });
 
-    it('should call getChapterList with custom novel id', async () => {
-        mockedApi.getChapterList.mockResolvedValueOnce(mockChapterList);
+    it('should call getNovelChapters with custom novel id', async () => {
+        // Mock getNovelChapters instead of getChapterList
+        mockedApi.getNovelChapters.mockResolvedValueOnce(mockChapterList);
         const wrapper = createWrapper();
 
         renderHook(() => useChapterList('custom-novel'), { wrapper });
 
         await waitFor(() => {
-            expect(mockedApi.getChapterList).toHaveBeenCalledWith('custom-novel');
+            expect(mockedApi.getNovelChapters).toHaveBeenCalledWith('custom-novel');
         });
     });
 });
@@ -359,5 +361,54 @@ describe('PBT: Cache Efficiency (Task 31.1)', () => {
             ),
             { numRuns: 200 }
         );
+    });
+
+    describe('PBT: Chapter List Isolation (Task 16.2 / Property 11)', () => {
+        beforeEach(() => {
+            vi.clearAllMocks();
+        });
+
+        it('should route default novelId to legacy API', async () => {
+            mockedApi.getChapterList.mockResolvedValue(mockChapterList);
+            // Use default novelId ('default')
+            const { result, unmount } = renderHook(() => useChapterList('default'), { wrapper: createWrapper() });
+
+            await waitFor(() => expect(result.current.isSuccess).toBe(true));
+
+            expect(mockedApi.getChapterList).toHaveBeenCalledWith('default');
+            expect(mockedApi.getNovelChapters).not.toHaveBeenCalled();
+            unmount();
+        });
+
+        it('should route custom novelId to Library API (getNovelChapters)', async () => {
+            await fc.assert(
+                fc.asyncProperty(
+                    fc.string({ minLength: 1 }).filter(sid => sid !== 'default' && sid !== 'undefined'),
+                    async (novelId) => {
+                        // Reset mocks manually since they persist in closure? 
+                        // No, new mock call clears history? 
+                        // beforeEach runs only before IT. Property runs repeatedly inside ONE IT.
+                        // So we must manually clear or just check call count > 0?
+                        // Better to clear manually.
+                        mockedApi.getChapterList.mockClear();
+                        mockedApi.getNovelChapters.mockClear();
+
+                        // Setup return value
+                        const iterationMockData = { ...mockChapterList, novelId };
+                        mockedApi.getNovelChapters.mockResolvedValue(iterationMockData);
+
+                        const { result, unmount } = renderHook(() => useChapterList(novelId), { wrapper: createWrapper() });
+
+                        await waitFor(() => expect(result.current.isSuccess).toBe(true));
+
+                        expect(mockedApi.getNovelChapters).toHaveBeenCalledWith(novelId);
+                        expect(mockedApi.getChapterList).not.toHaveBeenCalled();
+
+                        unmount();
+                    }
+                ),
+                { numRuns: 20 }
+            );
+        });
     });
 });
