@@ -224,3 +224,19 @@ class Codex:
             c.execute("UPDATE characters SET lines=0 WHERE novel_id=?", (self.novel_id,))
             c.executemany("UPDATE characters SET lines=? WHERE id=?", [(n, cid) for cid, n in counts.items()])
         self.reload()
+        self.assign_slots()
+
+    def assign_slots(self, palette: int = 12) -> None:
+        """Give the most active characters distinct palette slots (stable once assigned)."""
+        ranked = sorted(self.chars.values(), key=lambda c: (-(c.get("lines") or 0), c["id"]))
+        top = [c for c in ranked if (c.get("lines") or 0) > 0][:palette]
+        used = {c["auto_slot"] for c in top if c.get("auto_slot") is not None}
+        free = [s for s in range(palette) if s not in used]
+        updates = []
+        for c in top:
+            if c.get("auto_slot") is None and free:
+                c["auto_slot"] = free.pop(0)
+                updates.append((c["auto_slot"], c["id"]))
+        if updates:
+            with self.store.tx() as tx:
+                tx.executemany("UPDATE characters SET auto_slot=? WHERE id=?", updates)

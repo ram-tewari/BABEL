@@ -62,6 +62,7 @@ CREATE TABLE IF NOT EXISTS characters (
   first_idx INTEGER,
   lines INTEGER NOT NULL DEFAULT 0,
   name_locked INTEGER NOT NULL DEFAULT 0,
+  auto_slot INTEGER,                           -- palette slot assigned by activity rank
   created_at TEXT NOT NULL
 );
 CREATE INDEX IF NOT EXISTS idx_characters_novel ON characters(novel_id);
@@ -131,6 +132,19 @@ class Store:
             self._conn.execute("PRAGMA journal_mode = WAL")
             self._conn.execute("PRAGMA synchronous = NORMAL")
             self._conn.executescript(SCHEMA)
+            self._migrate()
+
+    # Columns added after a table first shipped: (table, column, definition).
+    _ADDED_COLUMNS = [
+        ("characters", "name_locked", "INTEGER NOT NULL DEFAULT 0"),
+        ("characters", "auto_slot", "INTEGER"),
+    ]
+
+    def _migrate(self) -> None:
+        for table, column, ddl in self._ADDED_COLUMNS:
+            cols = {r[1] for r in self._conn.execute(f"PRAGMA table_info({table})")}
+            if column not in cols:
+                self._conn.execute(f"ALTER TABLE {table} ADD COLUMN {column} {ddl}")
 
     # ── plumbing ──────────────────────────────────────────────────────────
     @contextmanager

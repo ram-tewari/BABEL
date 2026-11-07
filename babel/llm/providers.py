@@ -237,6 +237,8 @@ class Router:
 def build_router(order: list[str] | None = None, models: dict[str, str] | None = None) -> Router:
     """Build the provider chain from settings/env. Auto-detects when ``order`` is empty."""
     models = models or {}
+    if order and [n.lower() for n in order] in (["none"], ["offline"], ["heuristic"]):
+        return Router([])  # explicitly offline
     names = order or ["nvidia", "groq", "gemini", "openrouter", "openai", "custom", "ollama"]
     providers: list[Provider] = []
     for name in names:

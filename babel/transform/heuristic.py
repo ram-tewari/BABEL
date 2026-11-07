@@ -73,8 +73,19 @@ def is_speech_tag(text: str) -> bool:
     )
 
 
+_SOUND_WORDS = set(
+    "bang boom crash thud thump knock clang clank creak whoosh swoosh slam crack ding dong ring "
+    "buzz bzz hiss splash snap pop click clack tap thwack whack smack bam pow zap rumble roar "
+    "screech beep drip plop rustle sizzle tick tock woosh zoom vroom thunk clink jingle growl".split()
+)
+
+
 def looks_like_sfx(text: str) -> bool:
     t = text.strip().strip("*")
+    words = re.findall(r"[a-z]+", t.lower())
+    if words and len(words) <= 6 and all(w.rstrip("s") in _SOUND_WORDS or w in _SOUND_WORDS for w in words) \
+            and t.rstrip()[-1:] in "!…~.-—":
+        return True
     if len(t) > 40 or len(t.split()) > 4:
         return False
     letters = [c for c in t if c.isalpha()]

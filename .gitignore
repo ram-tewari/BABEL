@@ -39,3 +39,5 @@ web/playwright-report/
 .vscode/
 .DS_Store
 *.swp
+web/.e2e-data/
+*.tsbuildinfo

@@ -100,3 +100,26 @@ def test_jobs_skip_done_and_pause_resume(store, sample_text):
     final = run_job(store, engine, j3, concurrency=1, on_chapter=pause_after_first)
     assert final["status"] == "paused" and seen == [0]
     assert store.one("SELECT first_idx FROM jobs WHERE id=?", (j3,))["first_idx"] == 1
+
+
+def test_old_database_is_migrated(tmp_path):
+    import sqlite3
+
+    from babel.store.db import Store
+
+    db = tmp_path / "old.db"
+    con = sqlite3.connect(db)
+    con.execute("CREATE TABLE characters (id INTEGER PRIMARY KEY, novel_id INTEGER, name TEXT, note TEXT,"
+                " color TEXT, side TEXT, first_idx INTEGER, lines INTEGER DEFAULT 0, created_at TEXT)")
+    con.commit()
+    con.close()
+    s = Store(db)
+    cols = {r["name"] for r in s.q("PRAGMA table_info(characters)")}
+    assert {"name_locked", "auto_slot"} <= cols
+
+
+def test_top_characters_get_distinct_colors(store, sample_text):
+    nid = _novel(store, sample_text)
+    run_job(store, Engine(None), create_job(store, nid))
+    slots = [r["auto_slot"] for r in store.q("SELECT auto_slot FROM characters WHERE novel_id=? AND lines>0", (nid,))]
+    assert len(slots) >= 2 and len(set(slots)) == len(slots)

@@ -111,7 +111,7 @@ def character_public(c: dict, pov_id: int | None) -> dict:
         "id": c["id"],
         "name": c["name"],
         "note": c.get("note"),
-        "color": c.get("color") or auto_color(c["name"]),
+        "color": c.get("color") or (f"slot:{c['auto_slot']}" if c.get("auto_slot") is not None else auto_color(c["name"])),
         "side": c.get("side") or ("right" if c["id"] == pov_id else "left"),
         "lines": c.get("lines") or 0,
         "is_pov": c["id"] == pov_id,

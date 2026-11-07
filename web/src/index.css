@@ -1,0 +1,133 @@
+@import "tailwindcss";
+@import "@fontsource-variable/inter";
+@import "@fontsource-variable/literata";
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-raised: var(--raised);
+  --color-text: var(--text);
+  --color-muted: var(--muted);
+  --color-faint: var(--faint);
+  --color-line: var(--line);
+  --color-accent: var(--accent);
+  --color-accent-ink: var(--accent-ink);
+  --color-danger: var(--danger);
+  --color-ok: var(--ok);
+  --color-warn: var(--warn);
+  --font-sans: "Inter Variable", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Literata Variable", "Iowan Old Style", Georgia, serif;
+  --font-mono: ui-monospace, "SF Mono", Menlo, monospace;
+}
+
+/* ── themes ─────────────────────────────────────────────────────────────── */
+:root,
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #121214;
+  --surface: #1a1a1e;
+  --raised: #232329;
+  --text: #ebe7df;
+  --muted: #a39f97;
+  --faint: #6f6c66;
+  --line: #2e2e35;
+  --accent: #e8b86b;
+  --accent-ink: #1a1408;
+  --danger: #f87171;
+  --ok: #6ee7a8;
+  --warn: #fbbf24;
+  --bubble-alpha: 14%;
+  --slot-0: #fb923c; --slot-1: #60a5fa; --slot-2: #4ade80; --slot-3: #e879f9;
+  --slot-4: #fbbf24; --slot-5: #2dd4bf; --slot-6: #fb7185; --slot-7: #a5b4fc;
+  --slot-8: #a3e635; --slot-9: #c084fc; --slot-10: #22d3ee; --slot-11: #f472b6;
+}
+
+:root[data-theme="light"] {
+  color-scheme: light;
+  --bg: #faf9f6;
+  --surface: #ffffff;
+  --raised: #f1efea;
+  --text: #1d1b18;
+  --muted: #5e5a53;
+  --faint: #8f8a82;
+  --line: #e4e0d8;
+  --accent: #a8641a;
+  --accent-ink: #ffffff;
+  --danger: #b91c1c;
+  --ok: #15803d;
+  --warn: #a16207;
+  --bubble-alpha: 10%;
+  --slot-0: #c2410c; --slot-1: #1d4ed8; --slot-2: #15803d; --slot-3: #a21caf;
+  --slot-4: #a16207; --slot-5: #0f766e; --slot-6: #be123c; --slot-7: #4338ca;
+  --slot-8: #4d7c0f; --slot-9: #7e22ce; --slot-10: #0e7490; --slot-11: #be185d;
+}
+
+:root[data-theme="sepia"] {
+  color-scheme: light;
+  --bg: #f4ecd8;
+  --surface: #f9f3e3;
+  --raised: #ebe1c8;
+  --text: #3b2f22;
+  --muted: #6b5a45;
+  --faint: #998569;
+  --line: #ddd0b2;
+  --accent: #9a5b1c;
+  --accent-ink: #fff8ea;
+  --danger: #a12a1a;
+  --ok: #3f6b1f;
+  --warn: #8a5a00;
+  --bubble-alpha: 11%;
+  --slot-0: #b4440f; --slot-1: #2a5394; --slot-2: #3d6b22; --slot-3: #8e2a7e;
+  --slot-4: #8a5a00; --slot-5: #1f6b62; --slot-6: #a3283f; --slot-7: #4b3f9e;
+  --slot-8: #5a6b14; --slot-9: #6f2d9e; --slot-10: #1f5f75; --slot-11: #a02a63;
+}
+
+@media (prefers-color-scheme: light) {
+  :root[data-theme="system"] {
+    color-scheme: light;
+    --bg: #faf9f6; --surface: #ffffff; --raised: #f1efea; --text: #1d1b18; --muted: #5e5a53;
+    --faint: #8f8a82; --line: #e4e0d8; --accent: #a8641a; --accent-ink: #ffffff; --danger: #b91c1c;
+    --ok: #15803d; --warn: #a16207; --bubble-alpha: 10%;
+    --slot-0: #c2410c; --slot-1: #1d4ed8; --slot-2: #15803d; --slot-3: #a21caf;
+    --slot-4: #a16207; --slot-5: #0f766e; --slot-6: #be123c; --slot-7: #4338ca;
+    --slot-8: #4d7c0f; --slot-9: #7e22ce; --slot-10: #0e7490; --slot-11: #be185d;
+  }
+}
+
+html, body { background: var(--bg); color: var(--text); }
+body { font-family: var(--font-sans); -webkit-font-smoothing: antialiased; }
+::selection { background: color-mix(in oklab, var(--accent) 35%, transparent); }
+
+/* focus that is visible on every theme */
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 4px; }
+
+/* ── reader blocks ─────────────────────────────────────────────────────── */
+.scenario { font-size: var(--reader-size, 18px); line-height: 1.65; }
+.scenario .prose { font-family: var(--font-serif); }
+.bubble {
+  background: color-mix(in oklab, var(--who) var(--bubble-alpha), var(--surface));
+  border: 1px solid color-mix(in oklab, var(--who) 38%, transparent);
+}
+.bubble.thought {
+  background: transparent;
+  border-style: dashed;
+}
+.system-window {
+  background: color-mix(in oklab, var(--accent) 7%, var(--surface));
+  border: 1px solid color-mix(in oklab, var(--accent) 45%, transparent);
+  box-shadow: 0 0 0 3px color-mix(in oklab, var(--accent) 8%, transparent), 0 0 24px -8px color-mix(in oklab, var(--accent) 40%, transparent);
+}
+.sfx { letter-spacing: 0.14em; transform: rotate(-2deg); }
+
+.editable { cursor: pointer; border-radius: 10px; transition: background 120ms; }
+.editable:hover { background: color-mix(in oklab, var(--accent) 8%, transparent); outline: 1px dashed color-mix(in oklab, var(--accent) 50%, transparent); outline-offset: 4px; }
+
+.cover-fallback {
+  background:
+    radial-gradient(120% 80% at 0% 0%, color-mix(in oklab, var(--hue) 55%, transparent), transparent 60%),
+    linear-gradient(160deg, color-mix(in oklab, var(--hue) 35%, var(--raised)), var(--surface));
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; animation: none !important; scroll-behavior: auto !important; }
+}
