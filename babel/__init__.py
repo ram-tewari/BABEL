@@ -1,8 +1,3 @@
-"""
-SYSTEM: BABEL - Webnovel Processing Pipeline
+"""BABEL: turn webnovels into chat-style Visual Scenarios."""
 
-A modular pipeline for transforming raw webnovel files into structured,
-clean output ready for LLM processing and rendering.
-"""
-
-__version__ = "0.1.0"
+__version__ = "2.0.0"
