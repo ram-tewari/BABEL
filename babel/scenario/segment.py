@@ -91,13 +91,49 @@ def _merge_fragments(spans: list[tuple[SegmentKind, str]]) -> list[tuple[Segment
     return out
 
 
+_TERMINAL_RE = re.compile(r"[.!?…,;:—–]")
+
+
+def _is_inline(kind: SegmentKind, text: str, before: str | None, after: str | None) -> bool:
+    """Scare quotes / emphasized words inside a sentence stay part of the prose.
+
+    He called it a "genius" move.   He was *very* tired.
+    """
+    if before is None or after is None or kind not in (SegmentKind.QUOTE, SegmentKind.EMPHASIS):
+        return False
+    inner = text.strip("*\"“”「」『』«» ")
+    if len(inner.split()) > (4 if kind == SegmentKind.QUOTE else 5) or _TERMINAL_RE.search(inner):
+        return False
+    return not before.rstrip().endswith((".", "!", "?", "…", ":", ",", '"', "”"))
+
+
+def _join(a: str, b: str) -> str:
+    return a + ("" if b[:1] in ",.;:!?)]}…”’" else " ") + b
+
+
+def _inline_spans(spans: list[tuple[SegmentKind, str]]) -> list[tuple[SegmentKind, str]]:
+    out: list[tuple[SegmentKind, str]] = []
+    i = 0
+    while i < len(spans):
+        kind, text = spans[i]
+        before = out[-1][1] if out and out[-1][0] == SegmentKind.PROSE else None
+        after = spans[i + 1][1] if i + 1 < len(spans) and spans[i + 1][0] == SegmentKind.PROSE else None
+        if _is_inline(kind, text, before, after):
+            out[-1] = (SegmentKind.PROSE, _join(_join(before, text), after))
+            i += 2
+            continue
+        out.append((kind, text))
+        i += 1
+    return out
+
+
 def segment_text(text: str) -> list[Segment]:
     segments: list[Segment] = []
     for p_idx, para in enumerate(split_paragraphs(text)):
         if _BREAK_RE.match(para):
             segments.append(Segment(id=len(segments), para=p_idx, kind=SegmentKind.BREAK, text=para))
             continue
-        for kind, s in _merge_fragments(_scan(para)):
+        for kind, s in _inline_spans(_merge_fragments(_scan(para))):
             segments.append(Segment(id=len(segments), para=p_idx, kind=kind, text=s))
     return segments
 

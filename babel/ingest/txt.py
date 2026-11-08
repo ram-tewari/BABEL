@@ -23,9 +23,16 @@ def _decode(data: bytes) -> str:
     return data.decode("utf-8", errors="replace")
 
 
-def split_chapters(text: str) -> list[RawChapter]:
+def split_chapters(text: str, pattern: str | None = None) -> list[RawChapter]:
+    """Split on chapter headings (built-in patterns, or a custom regex for odd formats)."""
+    import re
+
     lines = text.split("\n")
-    heads = [i for i, line in enumerate(lines) if is_heading(line)]
+    if pattern:
+        rx = re.compile(pattern, re.IGNORECASE)
+        heads = [i for i, line in enumerate(lines) if line.strip() and rx.search(line.strip())]
+    else:
+        heads = [i for i, line in enumerate(lines) if is_heading(line)]
     # a single heading on the first line titles a one-chapter file
     if len(heads) == 1 and heads[0] == next(i for i, line in enumerate(lines) if line.strip()):
         body = "\n".join(lines[heads[0] + 1 :]).strip()
@@ -61,10 +68,10 @@ def split_chapters(text: str) -> list[RawChapter]:
     return parts
 
 
-def read_txt(path: Path, name: str) -> Book:
+def read_txt(path: Path, name: str, chapter_pattern: str | None = None) -> Book:
     text = clean_text(_decode(Path(path).read_bytes()))
     if not text:
         raise IngestError("the file is empty")
-    chapters = split_chapters(text)
+    chapters = split_chapters(text, chapter_pattern)
     title = Path(name).stem.replace("_", " ").strip() or "Untitled"
     return Book(title=title, chapters=chapters)

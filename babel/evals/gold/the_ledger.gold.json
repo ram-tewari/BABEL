@@ -1,0 +1,26 @@
+{
+  "title": "Ledger: three people, untagged turns, pronouns, addressees, run-on speech",
+  "aliases": {"Ilse": "Ilse Varga", "Captain Ilse Varga": "Ilse Varga", "Aldric": "Brother Aldric"},
+  "lines": [
+    ["Three hundred crowns,", "dialogue", "Ilse Varga"],
+    ["Gone in a week.", "dialogue", "Ilse Varga"],
+    ["Aldric did not look up.", "action", "Brother Aldric"],
+    ["The ledger balances.", "dialogue", "Brother Aldric"],
+    ["Ledgers can be made to balance.", "dialogue", "Ilse Varga"],
+    ["Are you accusing me, Captain?", "dialogue", "Brother Aldric"],
+    ["I'm asking where the money went.", "dialogue", "Ilse Varga"],
+    ["Pell, you kept the night book.", "dialogue", "Ilse Varga"],
+    ["Who signed for the shipment", "dialogue", "Ilse Varga"],
+    ["I— it was— the brother did", "dialogue", "Pell"],
+    ["For the church's share,", "dialogue", "Brother Aldric"],
+    ["That was agreed.", "dialogue", "Brother Aldric"],
+    ["I was there.", "dialogue", "Pell"],
+    ["And?", "dialogue", "Ilse Varga"],
+    ["And he signed for the church's share.", "dialogue", "Pell"],
+    ["And then he signed again.", "dialogue", "Pell"],
+    ["The boy counts better", "thought", "Brother Aldric"],
+    ["A clerical error,", "dialogue", "Brother Aldric"],
+    ["Then mend it,", "dialogue", "Ilse Varga"],
+    ["And Pell stays with me", "dialogue", "Ilse Varga"]
+  ]
+}

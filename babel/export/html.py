@@ -6,7 +6,7 @@ import html
 
 from babel.export.render import CSS, chapters_in_range, render_blocks
 from babel.library import chapter_view
-from babel.memory.codex import Codex
+from babel.memory.akashic import Akashic
 from babel.store.db import Store
 
 PAGE_CSS = """
@@ -20,10 +20,10 @@ section.chapter { border-top: 1px solid rgba(127,127,127,.3); margin-top: 3em; }
 
 def build_html(store: Store, novel_id: int, first: int | None = None, last: int | None = None) -> str:
     novel = store.get_novel(novel_id)
-    codex = Codex(store, novel_id)
+    ak = Akashic(store, novel_id)
     sections, toc = [], []
     for row in chapters_in_range(store, novel_id, first, last):
-        view = chapter_view(store, row["id"], codex)
+        view = chapter_view(store, row["id"], ak)
         toc.append(f'<li><a href="#c{row["idx"]}">{html.escape(view["title"])}</a></li>')
         sections.append(f'<section class="chapter" id="c{row["idx"]}">{render_blocks(view)}</section>')
     title = html.escape(novel["title"])

@@ -9,7 +9,7 @@ from ebooklib import epub
 
 from babel.export.render import CSS, chapters_in_range, render_blocks
 from babel.library import chapter_view
-from babel.memory.codex import Codex
+from babel.memory.akashic import Akashic
 from babel.store.db import Store
 
 
@@ -27,10 +27,10 @@ def build_epub(store: Store, novel_id: int, first: int | None = None, last: int 
     style = epub.EpubItem(uid="style", file_name="style.css", media_type="text/css", content=CSS)
     book.add_item(style)
 
-    codex = Codex(store, novel_id)
+    ak = Akashic(store, novel_id)
     items = []
     for row in chapters_in_range(store, novel_id, first, last):
-        view = chapter_view(store, row["id"], codex)
+        view = chapter_view(store, row["id"], ak)
         item = epub.EpubHtml(title=view["title"], file_name=f"c{row['idx']:05d}.xhtml", lang=book.language)
         item.content = render_blocks(view)
         item.add_item(style)

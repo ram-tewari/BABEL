@@ -25,6 +25,10 @@ div.line .who { font-family: sans-serif; font-size: 0.75em; font-weight: bold; l
 div.line .say { display: inline-block; text-align: left; max-width: 82%; padding: 0.45em 0.8em; border-radius: 0.9em; border: 1px solid; border-left-width: 4px; }
 div.line.right .say { border-left-width: 1px; border-right-width: 4px; }
 div.line.thought .say { border-style: dashed; font-style: italic; }
+div.line.shout .say { font-weight: bold; }
+div.line.whisper .say { font-size: 0.9em; opacity: 0.8; }
+p.act { font-style: italic; margin: 0.6em 0; padding-left: 1em; border-left: 3px solid; }
+p.act.right { text-align: right; padding-left: 0; padding-right: 1em; border-left: 0; border-right: 3px solid; }
 p.tag { font-size: 0.8em; opacity: 0.7; margin: -0.4em 0 0.8em; font-style: italic; }
 p.tag.right { text-align: right; }
 div.sys { font-family: monospace; font-size: 0.9em; border: 1px solid; padding: 0.5em 0.8em; margin: 1em 0; }
@@ -58,10 +62,17 @@ def render_blocks(view: dict) -> str:
             side = (c or {}).get("side", "left")
             last_side = side
             col = color_of(c)
+            tone = b.get("tone") or ""
             out.append(
-                f'<div class="line {side} {t}"><div class="who" style="color:{col}">{html.escape(name)}</div>'
+                f'<div class="line {side} {t} {tone}"><div class="who" style="color:{col}">{html.escape(name)}'
+                + (f' <span style="font-weight:normal;opacity:.7">({tone})</span>' if tone and tone not in ("shout",) else "")
+                + '</div>'
                 f'<div class="say" style="border-color:{col}">{_inline(b["text"])}</div></div>'
             )
+        elif t == "action":
+            c = chars.get(b["character_id"]) if b["character_id"] else None
+            side = (c or {}).get("side", "left")
+            out.append(f'<p class="act {side}" style="border-color:{color_of(c)}">{_inline(b["text"])}</p>')
         elif t == "tag":
             out.append(f'<p class="tag {last_side}">{_inline(b["text"])}</p>')
         elif t == "system":

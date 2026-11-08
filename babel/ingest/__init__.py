@@ -33,7 +33,7 @@ class IngestError(ValueError):
     pass
 
 
-def load_book(path: Path | str, filename: str | None = None) -> Book:
+def load_book(path: Path | str, filename: str | None = None, chapter_pattern: str | None = None) -> Book:
     path = Path(path)
     name = filename or path.name
     suffix = Path(name).suffix.lower()
@@ -44,5 +44,5 @@ def load_book(path: Path | str, filename: str | None = None) -> Book:
     if suffix in (".txt", ".md", ".text"):
         from babel.ingest.txt import read_txt
 
-        return read_txt(path, name)
+        return read_txt(path, name, chapter_pattern)
     raise IngestError(f"unsupported file type {suffix!r} (use .epub or .txt)")

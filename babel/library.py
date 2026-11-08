@@ -1,4 +1,4 @@
-"""Library operations shared by the API, CLI and exporters."""
+"""Library operations shared by the API, CLI, exporters and evals."""
 
 from __future__ import annotations
 
@@ -7,128 +7,130 @@ import io
 from pathlib import Path
 
 from babel.ingest import Book, load_book
-from babel.memory.codex import Codex
-from babel.models import Block, BlockType
+from babel.memory.akashic import Akashic
+from babel.models import BlockType, Decision, Tier
+from babel.scenario.assemble import assemble
+from babel.scenario.convert import convert
+from babel.scenario.resolve import Resolver, is_first_person
+from babel.scenario.segment import segment_text
 from babel.store.db import Store
-from babel.transform.assemble import assemble
-from babel.transform.heuristic import label_segments
-from babel.transform.segment import segment_text
 
 PALETTE_SIZE = 12
 
 
-def import_book(store: Store, covers_dir: Path, path: Path, filename: str | None = None) -> tuple[int, Book]:
-    book = load_book(path, filename)
+def import_book(store: Store, covers_dir: Path, path: Path, filename: str | None = None,
+                chapter_pattern: str | None = None) -> tuple[int, Book]:
+    book = load_book(path, filename, chapter_pattern=chapter_pattern)
     nid = store.create_novel(
-        book.title,
-        [(c.title, c.text, c.sha) for c in book.chapters],
-        author=book.author,
-        description=book.description,
-        language=book.language,
+        book.title, [(c.title, c.text, c.sha) for c in book.chapters],
+        author=book.author, description=book.description, language=book.language,
         source_name=filename or Path(path).name,
     )
     if book.cover:
-        save_cover(store, covers_dir, nid, book.cover)
+        try:
+            save_image(store, covers_dir, nid, book.cover)
+        except Exception:  # a broken cover never fails an import
+            pass
     return nid, book
 
 
-def save_cover(store: Store, covers_dir: Path, novel_id: int, data: bytes) -> Path:
-    """Normalize any image to a ≤600px-tall JPEG cover."""
-    from PIL import Image
+def save_image(store: Store, folder: Path, owner_id: int, data: bytes, *, kind: str = "cover") -> Path:
+    """Normalize an image to JPEG. Covers: fit 400×600. Portraits: square 256."""
+    from PIL import Image, ImageOps
 
-    covers_dir.mkdir(parents=True, exist_ok=True)
-    out = covers_dir / f"{novel_id}.jpg"
-    img = Image.open(io.BytesIO(data))
-    img = img.convert("RGB")
-    img.thumbnail((400, 600))
-    img.save(out, "JPEG", quality=88)
-    store.update_novel(novel_id, cover_path=str(out))
+    folder.mkdir(parents=True, exist_ok=True)
+    img = Image.open(io.BytesIO(data)).convert("RGB")
+    if kind == "cover":
+        img = ImageOps.fit(img, (400, 600)) if img.width / max(1, img.height) > 0.5 else img
+        img.thumbnail((400, 600))
+        out = folder / f"{owner_id}.jpg"
+        img.save(out, "JPEG", quality=88)
+        store.update_novel(owner_id, cover_path=str(out))
+    else:
+        img = ImageOps.fit(img, (256, 256))
+        out = folder / f"char_{owner_id}.jpg"
+        img.save(out, "JPEG", quality=88)
+        store.x("UPDATE entities SET portrait_path=? WHERE id=?", (str(out), owner_id))
     return out
 
 
-def chapter_labels(store: Store, chapter: dict) -> tuple[dict[int, tuple[str, str | None]], dict[int, tuple[str, str | None]]]:
-    """(effective labels, overrides) for a chapter; untransformed chapters get a heuristic preview."""
-    if chapter.get("labels"):
-        labels = {int(k): (v[0], v[1]) for k, v in chapter["labels"].items()}
+def preview_decisions(store: Store, ch: dict, ak: Akashic) -> dict[int, Decision]:
+    """Instant rules+memory labeling for a chapter that hasn't been transformed yet."""
+    segments = segment_text(ch["source_text"])
+    decisions, paras = convert(segments, set(ak.character_names()))
+    Resolver(ak, first_person=is_first_person(segments)).run(segments, decisions, paras)
+    return decisions
+
+
+def effective_decisions(store: Store, ch: dict, ak: Akashic) -> tuple[dict[int, Decision], set[int]]:
+    """Pipeline decisions with user corrections layered on top. Returns (decisions, corrected segs)."""
+    if ch.get("doc"):
+        decisions = {int(k): Decision.from_compact(v) for k, v in ch["doc"]["decisions"].items()}
     else:
-        segs = segment_text(chapter["source_text"])
-        labels = {i: (t.value, s) for i, (t, s) in label_segments(segs).items()}
-    overrides = store.get_overrides(chapter["id"])
-    return {**labels, **overrides}, overrides
+        decisions = preview_decisions(store, ch, ak)
+    overrides = store.get_overrides(ch["id"])
+    for seg, row in overrides.items():
+        decisions[seg] = Decision.from_compact(row)
+    return decisions, set(overrides)
 
 
-def chapter_view(store: Store, chapter_id: int, codex: Codex | None = None) -> dict | None:
+def chapter_view(store: Store, chapter_id: int, ak: Akashic | None = None, review: float = 0.6) -> dict | None:
     ch = store.get_chapter(chapter_id)
     if ch is None:
         return None
-    codex = codex or Codex(store, ch["novel_id"])
+    ak = ak or Akashic(store, ch["novel_id"])
     segments = segment_text(ch["source_text"])
-    labels, overrides = chapter_labels(store, ch)
-    typed = {i: (BlockType.parse(t) or BlockType.NARRATION, s) for i, (t, s) in labels.items()}
-    blocks = assemble(segments, typed)
-    pov = store.one("SELECT pov_character_id FROM novels WHERE id=?", (ch["novel_id"],))
-    pov_id = (pov or {}).get("pov_character_id")
+    decisions, corrected = effective_decisions(store, ch, ak)
+    blocks = assemble(segments, decisions)
 
     char_ids: set[int] = set()
-    out_blocks = []
+    out = []
     for b in blocks:
-        cid = codex.lookup(b.speaker) if b.speaker else None
-        if cid is None and b.type == BlockType.THOUGHT and not b.speaker:
-            cid = pov_id
-        if cid is not None:
-            char_ids.add(cid)
-        out_blocks.append({
-            "type": b.type.value,
-            "text": b.text,
-            "speaker": b.speaker,
-            "character_id": cid,
-            "para": b.para,
-            "seg": b.seg,
-            "edited": any(s in overrides for s in b.seg),
+        eid = ak.lookup(b.speaker) if b.speaker else None
+        if eid is None and b.type == BlockType.THOUGHT and not b.speaker:
+            eid = ak.pov_id
+        if eid is not None:
+            char_ids.add(eid)
+        d = decisions.get(b.seg[0])
+        out.append({
+            "type": b.type.value, "text": b.text, "speaker": b.speaker, "character_id": eid, "tone": b.tone,
+            "conf": round(b.conf, 2), "tier": b.tier.value, "para": b.para, "seg": b.seg,
+            "edited": any(s in corrected for s in b.seg), "review": b.conf < review and b.tier != Tier.USER,
+            "candidates": (d.candidates if d else [])[:4], "why": d.why if d else None,
         })
     prev_id, next_id = store.neighbors(ch["novel_id"], ch["idx"])
-    characters = [character_public(codex.chars[c], pov_id) for c in sorted(char_ids) if c in codex.chars]
+    full_text = " ".join(b["text"] for b in out)
     return {
-        "id": ch["id"],
-        "novel_id": ch["novel_id"],
-        "idx": ch["idx"],
-        "title": ch["title"],
-        "status": ch["status"],
-        "method": ch["method"] or "preview",
-        "model": ch["model"],
-        "summary": ch["summary"],
-        "error": ch["error"],
-        "word_count": ch["word_count"],
-        "prev_id": prev_id,
-        "next_id": next_id,
-        "blocks": out_blocks,
-        "characters": characters,
+        "id": ch["id"], "novel_id": ch["novel_id"], "idx": ch["idx"], "title": ch["title"],
+        "status": ch["status"], "method": "preview" if not ch.get("doc") else "cascade",
+        "tiers": ch["tiers"], "summary": ch["summary"], "error": ch["error"], "word_count": ch["word_count"],
+        "review_count": sum(1 for b in out if b["review"]),
+        "prev_id": prev_id, "next_id": next_id, "blocks": out,
+        "characters": [entity_public(ak, ak.ents[c]) for c in sorted(char_ids) if c in ak.ents],
+        "glossary": ak.glossary_hits(full_text),
     }
 
 
-def character_public(c: dict, pov_id: int | None) -> dict:
+def entity_public(ak: Akashic, e: dict) -> dict:
+    eid = e["id"]
+    if e.get("color"):
+        color = e["color"]
+    elif e.get("auto_slot") is not None:
+        color = f"slot:{e['auto_slot']}"
+    elif e["kind"] == "character" and e.get("faction_id") in ak.ents and ak.ents[e["faction_id"]].get("color"):
+        color = ak.ents[e["faction_id"]]["color"]
+    else:
+        color = auto_color(e["name"])
     return {
-        "id": c["id"],
-        "name": c["name"],
-        "note": c.get("note"),
-        "color": c.get("color") or (f"slot:{c['auto_slot']}" if c.get("auto_slot") is not None else auto_color(c["name"])),
-        "side": c.get("side") or ("right" if c["id"] == pov_id else "left"),
-        "lines": c.get("lines") or 0,
-        "is_pov": c["id"] == pov_id,
-        "first_idx": c.get("first_idx"),
+        "id": eid, "kind": e["kind"], "name": e["name"], "note": e.get("note"), "gender": e.get("gender"),
+        "color": color, "side": e.get("side") or ("right" if eid == ak.pov_id else "left"),
+        "lines": e.get("lines") or 0, "is_pov": eid == ak.pov_id, "first_idx": e.get("first_idx"),
+        "faction_id": e.get("faction_id"), "has_portrait": bool(e.get("portrait_path")),
+        "aliases": [a for a in ak.alias_text.get(eid, []) if a.lower() != e["name"].lower()],
+        "locked": sorted(e.get("locked") or []),
     }
 
 
 def auto_color(name: str) -> str:
-    """Stable palette slot from the name (the UI maps slots to theme-aware colors)."""
     h = int(hashlib.sha1(name.lower().encode()).hexdigest()[:8], 16)
     return f"slot:{h % PALETTE_SIZE}"
-
-
-def blocks_for_segments(store: Store, chapter_id: int, segs: list[int]) -> dict[int, tuple[str, str | None]]:
-    ch = store.get_chapter(chapter_id)
-    labels, _ = chapter_labels(store, ch)
-    return {s: labels.get(s, ("narration", None)) for s in segs}
-
-
-__all__ = ["Block", "import_book", "chapter_view", "save_cover", "character_public"]

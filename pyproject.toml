@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "babel-reader"
-version = "2.0.0"
+version = "3.0.0"
 description = "Turn webnovels into chat-style Visual Scenarios with an LLM labeling pipeline and a self-hosted reader."
 readme = "README.md"
 license = "MIT"
@@ -23,6 +23,7 @@ dependencies = [
   "python-dotenv>=1.0",
   "jinja2>=3.1",
   "pillow>=10.0",
+  "ruamel.yaml>=0.18",
 ]
 
 [project.optional-dependencies]

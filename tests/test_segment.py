@@ -2,7 +2,7 @@ import random
 import re
 
 from babel.models import SegmentKind
-from babel.transform.segment import chunk_segments, segment_text, split_paragraphs, strip_marks
+from babel.scenario.segment import chunk_segments, segment_text, split_paragraphs, strip_marks
 
 
 def kinds(text):
