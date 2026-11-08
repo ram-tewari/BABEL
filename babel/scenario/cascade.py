@@ -339,10 +339,15 @@ class Cascade:
                 if d.speaker and d.type in (BlockType.DIALOGUE, BlockType.THOUGHT, BlockType.ACTION):
                     other = ak.lookup(d.speaker, kind=None)
                     if other is not None and ak.ents[other]["kind"] != "character":
-                        # places and terms don't talk: send it to review instead of inventing a character
-                        d.why = f"{d.speaker} is a {ak.ents[other]['kind']}, not a character"
-                        d.speaker, d.conf = None, min(d.conf, 0.4)
-                        continue
+                        # places and terms don't talk: fall back to the next real person among the
+                        # candidates, at review-level confidence, instead of inventing a character
+                        bad = d.speaker
+                        alt = next((c for c in d.candidates if c != bad and (
+                            (e := ak.lookup(c, kind=None)) is None or ak.ents[e]["kind"] == "character")), None)
+                        d.why = f"{bad} is a {ak.ents[other]['kind']}, not a character"
+                        d.speaker, d.conf = alt, min(d.conf, 0.55 if alt else 0.4)
+                        if alt is None:
+                            continue
                     if d.type == BlockType.ACTION:
                         continue
                     eid = ak.resolve(d.speaker, ch["idx"])

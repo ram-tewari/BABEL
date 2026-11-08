@@ -36,7 +36,14 @@ On the bundled gold-labeled chapters (`babel eval`, original text written for th
 
 ¹ Measured with the same 8B model standing in for the cloud tier, so these are a lower bound; a 70B-class cloud model should do better on the hard lines.
 
-On real chapters of a published webnovel, the local tier runs at about 23 s per chapter on an Apple M-series laptop, and about 2 lines per 8 chapters end up in the review queue.
+On a private QC set of three hand-labeled chapters from a published webnovel (189 lines, chapters never used for tuning):
+
+| Tiers | Speaker accuracy | Type accuracy |
+|---|---|---|
+| rules + memory only | 90% | 99.5% |
+| + local model (qwen3:8b) | 95% | 99.5% |
+
+Most remaining misses are lines where the 8B model overrules a correct rule guess in a long monologue, or a speaker who hasn't been named yet ("an aged voice sounded from inside"). The cloud tier and the review queue are for those. The local tier runs at about 23 s per chapter on an Apple M-series laptop.
 
 ## Quick start
 
@@ -151,6 +158,14 @@ babel eval --tiers rules            # quick quality check, no models needed
 ```
 
 Add gold chapters to `babel/evals/gold/` (`name.txt` + `name.gold.json`) to measure your own changes.
+
+**Quality control on real books.** The bundled gold chapters are original text, so they can be committed. For copyrighted novels, keep a private QC set under `data/qc/`, which is git-ignored:
+
+1. Copy a few chapters you haven't tuned on into `data/qc/<name>.txt`.
+2. Hand-label every quoted line and italic thought in `<name>.gold.json`.
+3. Run `babel eval --gold data/qc -v`. It lists every miss with the rule that caused it.
+
+Every rule added from a QC finding gets a unit test in `tests/test_rules.py` that uses original wording, so the fix is kept without committing the book.
 
 ## Legal
 

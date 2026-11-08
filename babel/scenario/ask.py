@@ -144,7 +144,7 @@ def build_batches(
                 opts = dedupe_names([c for c in ([d.speaker] if d.speaker else []) + d.candidates if c])[:5]
                 qs.append(Question(i, sid, kind, opts + [OTHER], para, d.speaker))
             else:
-                qs.append(Question(i, sid, kind, [t[0] for t in TYPE_OPTIONS], para, d.type.value))
+                qs.append(Question(i, sid, kind, type_options(by_id[sid].kind), para, d.type.value))
             marks.setdefault(sid, i)
         lo = max(0, g[0][0] - 3)
         hi = g[-1][0] + 1
@@ -254,8 +254,13 @@ def parse_answers(text: str, batch: Batch) -> list[Answer]:
     return out
 
 
+def type_options(kind: SegmentKind) -> list[str]:
+    """Only the types a segment of this kind can be: unquoted italics are never speech."""
+    return [label for label, bt in TYPE_OPTIONS if bt != BlockType.DIALOGUE or kind == SegmentKind.QUOTE]
+
+
 def kind_ok(segment: Segment, btype: BlockType) -> bool:
-    """Guard rails: a model can't turn plain prose into dialogue, etc."""
-    if btype in (BlockType.DIALOGUE,) and segment.kind not in (SegmentKind.QUOTE, SegmentKind.EMPHASIS):
+    """Guard rails: a model can't turn prose or italics into dialogue, etc."""
+    if btype == BlockType.DIALOGUE and segment.kind != SegmentKind.QUOTE:
         return False
     return True

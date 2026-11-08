@@ -26,14 +26,18 @@ SPEECH_VERBS = set(
     "scoffs giggled giggles sobbed sobs wept snarled snarls barked barks drawled drawls echoed echoes "
     "repeated repeats corrected corrects offered offers pressed presses prompted prompts "
     "confirmed confirms joked jokes ordered orders commanded commands concluded concludes cursed curses "
-    "chanted chants yelped".split()
+    "chanted chants yelped blurted blurts uttered utters stated states quipped quips praised lamented "
+    "laments probed probes guessed summarized summarised disparaged greeted greets reminded reminds "
+    "assured assures complained complains protested protests suggested suggests mentioned mentions "
+    "reassured grunted grunts gasped gasps rasped croaked boasted boasts mocked mocks taunted taunts "
+    "comforted consoled instructed informed acknowledged".split()
 )
 THOUGHT_VERBS = set("thought thinks think wondered wonders mused muses reflected reflects pondered ponders "
                     "realized realised realizes".split())
 _VERBS = "|".join(sorted(SPEECH_VERBS | THOUGHT_VERBS, key=len, reverse=True))
 TITLE = r"(?:(?:Mr|Mrs|Ms|Mx|Dr|Prof|Capt|Lt|Sgt|St|Fr|Sr)\.\s+)"
 _NAME = rf"({TITLE}?(?:[A-Z][\w'’\-]+)(?:\s+(?:[A-Z][\w'’\-]+|of|de|van|von)){{0,3}})"
-NAME_VERB_RE = re.compile(rf"\b{_NAME}\s+(?:\w+ly\s+)?(?:{_VERBS})\b")
+NAME_VERB_RE = re.compile(rf"\b{_NAME}\s+(?:\w+ly\s+)?(?:[a-z]+ed\s+and\s+)?(?:{_VERBS})\b")
 VERB_NAME_RE = re.compile(rf"\b(?:{_VERBS})\s+{_NAME}\b")
 PRONOUN_VERB_RE = re.compile(rf"\b(he|she|they|i|we)\s+(?:\w+ly\s+)?(?:{_VERBS})\b", re.I)
 THOUGHT_TAG_RE = re.compile(rf"\b(?:{'|'.join(sorted(THOUGHT_VERBS, key=len, reverse=True))})\b", re.I)
@@ -45,7 +49,7 @@ def sentences(text: str) -> list[str]:
     """Split prose into sentences without breaking at 'Mr.' / 'Dr.'."""
     protected = _ABBREV_RE.sub(lambda m: m.group(1) + "\u2024", text)
     return [x.replace("\u2024", ".") for x in re.split(r"(?<=[.!?…])\s+", protected) if x.strip()]
-PRONOUN_SUBJECT_RE = re.compile(r"^(He|She|They|I|We)\s+[a-z]")
+PRONOUN_SUBJECT_RE = re.compile(r"^(?:(?:Then|Next|Finally|Afterwards|Suddenly|Meanwhile|Still|Instead),\s+)?(He|She|They|I|We|he|she|they)\s+[a-z]")
 
 NOT_NAMES = set("""
 The A An He She They It I We You His Her Their This That Then But And When While After Before As Now Yes No
@@ -57,6 +61,7 @@ Obviously Naturally Again Thank Please Sorry Hello Hey Hmm Huh Okay Ok Right Goo
 Anything Everything Somewhere Nowhere Not Hah Haha Damn Wait Look Listen Come Go Let Don't Can't Won't Is Are
 Was Were Do Does Did Have Has Had Will Would Could Should May Might Must Like Unlike Despite Through
 Chapter Volume Book Part
+Having Being Seeing Hearing Saying Knowing Feeling Thinking Looking Turning Taking Getting Making Holding Nodding Smiling Shaking Watching Noticing Realizing Remembering Upon Without Ignoring
 """.split())
 
 TONE_VERBS = {
@@ -73,7 +78,8 @@ _TONE_OF = {w: tone for tone, words in TONE_VERBS.items() for w in words.split()
 _SOUND_WORDS = set(
     "bang boom crash thud thump knock clang clank creak whoosh swoosh slam crack ding dong ring buzz bzz hiss "
     "splash snap pop click clack tap thwack whack smack bam pow zap rumble roar screech beep drip plop rustle "
-    "sizzle tick tock woosh zoom vroom thunk clink jingle growl kaboom kaboom thwip shing clatter rattle".split()
+    "sizzle tick tock woosh zoom vroom thunk clink jingle growl kaboom thwip shing clatter rattle gulp groan "
+    "gasp cough sniff clap crunch munch slurp gurgle wham whirr whir squeak squelch ping plink hic achoo".split()
 )
 _SYSTEM_WORDS = re.compile(
     r"\b(level|lv\.?|skill|quest|status|system|hp|mp|sp|exp|xp|acquired|obtained|reward|title|class|stat|"
@@ -106,9 +112,11 @@ def tag_speaker(text: str) -> str | None:
     return None
 
 
+_PAST_VERBS = "|".join(sorted((v for v in SPEECH_VERBS if not v.endswith("s") or v in ("says", "asks")),
+                              key=len, reverse=True))
 _DESC_TAG_RE = re.compile(
-    rf"\b(?:the|a|an)\s+((?:[a-z][\w\-]*\s+){{0,2}}[a-z][\w\-]*)\s+(?:\w+ly\s+)?(?:{_VERBS})\b"
-    rf"|\b(?:{_VERBS})\s+the\s+((?:[a-z][\w\-]*\s+){{0,2}}[a-z][\w\-]*)\b"
+    rf"\b(?:the|a|an)\s+((?:[a-z][\w\-]*\s+){{0,2}}[a-z][\w\-]*)\s+(?:\w+ly\s+)?(?:{_PAST_VERBS})\b"
+    rf"|\b(?:{_PAST_VERBS})\s+the\s+((?:[a-z][\w\-]*\s+){{0,2}}[a-z][\w\-]*)\b"
 )
 _DESC_GLUE = {"and", "or", "but", "then", "with", "to", "of", "in", "as", "at", "while", "who", "that", "was", "had"}
 _DESC_STOP = {"smile", "grin", "laugh", "sigh", "nod", "look", "glance", "voice", "words", "sound", "reply", "answer", "question", "door", "wind", "system", "letter", "note"}
@@ -124,6 +132,40 @@ def tag_description(text: str) -> str | None:
     if not words or words[-1] in _DESC_STOP or any(w in _DESC_GLUE for w in words):
         return None
     return phrase[0].upper() + phrase[1:]
+
+
+# Verbs that introduce speech in a lead-in ("Dunn shouted out to him." / "he turned around to ask,")
+_LEAD_VERBS = "|".join(sorted(SPEECH_VERBS | set(
+    "say shout ask call speak yell reply answer explain continue add whisper cry mutter murmur respond "
+    "saying shouting asking calling speaking yelling replying answering explaining continuing adding "
+    "whispering crying muttering murmuring responding".split()), key=len, reverse=True))
+_LEAD_VERB_RE = re.compile(rf"\b(?:{_LEAD_VERBS})\b")
+_LEAD_NAME_RE = re.compile(rf"\b{_NAME}\s+(?:\w+ly\s+)?(?:out\s+)?(?:{_LEAD_VERBS})\b")
+_LEAD_SUBJ_RE = re.compile(
+    rf"^(?:[^,\"“”]{{0,60}},\s+)?(?:({TITLE}?[A-Z][\w'’\-]+(?:\s+[A-Z][\w'’\-]+){{0,2}})|(he|she|i|He|She|I))"
+    rf"\s+(?:\w+ly\s+)?[a-z]")
+
+
+def lead_speaker(sentence: str) -> tuple[str | None, str | None, bool]:
+    """Who a speech-introducing sentence points at: (name, pronoun, strong).
+
+    'strong' means the name sits right before the speech verb ("Dunn shouted"),
+    otherwise it is the sentence's subject ("Klein squeezed out a smile and turned to ask,").
+    """
+    sentence = sentence.strip()
+    if len(sentence.split()) > 40 or not _LEAD_VERB_RE.search(sentence):
+        return None, None, False
+    for m in _LEAD_NAME_RE.finditer(sentence):
+        n = clean_name(m.group(1))
+        if n:
+            return n, None, True
+    m = _LEAD_SUBJ_RE.match(sentence)
+    if not m:
+        return None, None, False
+    if m.group(1):
+        n = clean_name(m.group(1))
+        return (n, None, False) if n else (None, None, False)
+    return None, m.group(2).lower(), False
 
 
 def tag_pronoun(text: str) -> str | None:
@@ -185,6 +227,11 @@ class ParaInfo:
     quotes: list[Segment] = field(default_factory=list)
     spoken: list[Segment] = field(default_factory=list)  # quote / thought segments
     unclosed: bool = False  # speech continues in the next paragraph
+    # a speech verb right before a quote in this paragraph ("She lowered her voice and said,")
+    intro: tuple[str | None, str | None, bool] = (None, None, False)
+    intro_antecedents: tuple[str, ...] = ()  # names before the pronoun ("Just as Klein was vexing, he answered,")
+    # a narration paragraph that introduces the next one's speech ("Dunn suddenly shouted out to him.")
+    lead: tuple[str | None, str | None, bool] = (None, None, False)
     first_person: bool = False
 
 
@@ -258,8 +305,25 @@ def convert(segments: list[Segment], known: set[str] | None = None) -> tuple[dic
         for s in prose:
             info.tag_name = info.tag_name or (tag_speaker(s.text) if is_speech_tag(s.text) else None)
             info.tag_pronoun = info.tag_pronoun or (tag_pronoun(s.text) if is_speech_tag(s.text) else None)
-            if len(s.text.split()) <= 16:
+            if len(s.text.split()) <= 16 and not _trusted(subject_name(s.text), nouns):
                 info.tag_desc = info.tag_desc or tag_description(s.text)
+        for i, s in enumerate(segs[:-1]):
+            if (s.kind == SegmentKind.PROSE and segs[i + 1].kind == SegmentKind.QUOTE
+                    and s.text.rstrip().endswith((",", ":", "—", "–"))):
+                sent = sentences(s.text)[-1]
+                name, pron, strong = lead_speaker(sent)
+                if name and _trusted(name, nouns) or pron:
+                    info.intro = (name, pron, strong)
+                    if pron:
+                        head = re.split(rf"\b{pron}\b", sent, maxsplit=1, flags=re.I)[0]
+                        info.intro_antecedents = tuple(n for n in _prose_names(head) if _trusted(n, nouns))
+                    break
+        if prose and not info.quotes and not emph and segs[-1].kind == SegmentKind.PROSE:
+            last_sent = sentences(prose_text)[-1] if prose_text.strip() else ""
+            if last_sent.rstrip().endswith((".", ":", "—", "–")):
+                name, pron, strong = lead_speaker(last_sent)
+                if name and _trusted(name, nouns) or pron:
+                    info.lead = (name, pron, strong)
         if prose:
             info.subject = _trusted(subject_name(prose[0].text), nouns)
             m = PRONOUN_SUBJECT_RE.match(prose[0].text)
@@ -294,7 +358,7 @@ def convert(segments: list[Segment], known: set[str] | None = None) -> tuple[dic
                 elif info.thought_tag:
                     d = Decision(type=BlockType.THOUGHT, conf=0.95, why="thought tag")
                 elif info.quotes:
-                    d = Decision(type=BlockType.THOUGHT, conf=0.6, why="italics beside speech")
+                    d = Decision(type=BlockType.THOUGHT, conf=0.75, why="italics beside speech")
                 elif words > 60:
                     d = Decision(type=BlockType.THOUGHT, conf=0.5, why="long italic passage (letter? flashback?)")
                 else:

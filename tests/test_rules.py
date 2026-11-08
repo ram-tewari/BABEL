@@ -113,3 +113,62 @@ def test_descriptive_tags():
     assert tag_description("said the old guard") == "Old guard"
     assert tag_description("then curled her lips to reveal a smile and said,") is None
     assert tag_description("the voice said") is None
+
+
+# ── patterns found by the real-text QC set (texts here are original paraphrases) ──
+
+def test_lead_in_paragraph_attributes_next_quote(store):
+    text = ('"Fine," Tobin said.\n\n"Then go."\n\nAs Mira reached the door, Old Harrow suddenly called out to her.\n\n'
+            '"Wait. I forgot something."')
+    _, _, blocks = run(store, text)
+    assert dict(spoken(blocks))["Wait. I forgot something."] == "Old Harrow"
+
+
+def test_pronoun_speech_verb_before_quote_uses_salience(store):
+    text = ('"Me too," Suki said, laughing.\n\n'
+            'She glanced left and right, then lowered her voice and said, "The courier is back."')
+    _, _, blocks = run(store, text, genders={"Suki": "f", "Ren": "m"})
+    assert dict(spoken(blocks))["The courier is back."] == "Suki"
+
+
+def test_pronoun_with_two_men_prefers_antecedent_in_sentence(store):
+    text = ('"Bring the ledger," Aldric said.\n\n"Yes."\n\n'
+            '*Another errand.* Just as Pell was sighing over it, he answered, "I will."')
+    _, _, blocks = run(store, text, genders={"Aldric": "m", "Pell": "m"})
+    assert dict(spoken(blocks))["I will."] == "Pell"
+
+
+def test_monologue_survives_beat_paragraphs(store):
+    text = ('"Watch," Dez said. "This is one."\n\n"Okay," Sam said.\n\nThen, she raised a second finger.\n\n'
+            '"This is two."')
+    _, _, blocks = run(store, text, genders={"Dez": "f", "Sam": "m"})
+    assert dict(spoken(blocks))["This is two."] == "Dez"
+
+
+def test_address_words_only_count_as_vocatives(store):
+    text = ('"Eat," Tobin said to Mira.\n\n"Praise the Lady." Mira finally took a bite.')
+    _, _, blocks = run(store, text, genders={"Tobin": "m", "Mira": "f"})
+    assert dict(spoken(blocks))["Praise the Lady."] == "Mira"
+
+
+def test_untagged_thoughts_go_to_the_viewpoint_character(store):
+    text = ('Ren walked in. Ren looked around. Ren sat down beside Suki, who smiled at Ren.\n\n*Too quiet.*\n\n'
+            '"Hi," Suki said.\n\nRen nodded.')
+    _, _, blocks = run(store, text)
+    assert dict(spoken(blocks))["Too quiet."] == "Ren"
+
+
+def test_descriptive_tags_need_a_speech_verb_not_a_noun():
+    from babel.scenario.convert import tag_description
+    assert tag_description("Mira handed over the four silver notes to Tobin.") is None
+    assert tag_description("the old guard said") == "Old guard"
+
+
+def test_italic_sound_words_and_options():
+    from babel.models import Segment, SegmentKind
+    from babel.scenario.ask import kind_ok, type_options
+    assert looks_like_sfx("*Gulp.*") and looks_like_sfx("Groan!")
+    assert "spoken aloud" not in type_options(SegmentKind.EMPHASIS)
+    assert "spoken aloud" in type_options(SegmentKind.QUOTE)
+    seg = Segment(id=0, para=0, kind=SegmentKind.EMPHASIS, text="Odd.")
+    assert not kind_ok(seg, BlockType.DIALOGUE)

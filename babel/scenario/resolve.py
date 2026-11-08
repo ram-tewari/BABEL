@@ -28,8 +28,10 @@ _VOCATIVES = [
     re.compile(rf",\s*{_NAME}\s*[.!?…,]"),
     re.compile(rf"^[\"“「『«]?\s*{_NAME}\s*[.!?…]+[\"”」』»]?\s*$"),
 ]
-_MALE_ADDRESS = re.compile(r"\b(sir|lord|brother|master|young master|mister|my lord)\b", re.I)
-_FEMALE_ADDRESS = re.compile(r"\b(ma'?am|madam|lady|miss|sister|my lady|mistress)\b", re.I)
+# only in vocative position — "Yes, sir." / "Ma'am, I…" — not "Praise the Lady."
+_VOC = r"(?:^[\"“「『«]?\s*|[,.!?…]\s+)(?:my\s+|young\s+)?({})(?=\s*[,.!?…]|\s*[\"”」』»]?\s*$)"
+_MALE_ADDRESS = re.compile(_VOC.format("sir|lord|brother|master|mister"), re.I)
+_FEMALE_ADDRESS = re.compile(_VOC.format("ma'?am|madam|lady|miss|sister|mistress"), re.I)
 
 
 @dataclass
@@ -40,6 +42,7 @@ class Scene:
     open_speech: bool = False  # previous paragraph's quote was left open
     last_actor: str | None = None  # subject of the previous narration paragraph ("Okafor stepped out.")
     pending_addressee: str | None = None  # asked a question by name; likely to answer next
+    lead: tuple[str, float, str] | None = None  # the previous paragraph introduced this one's speech
 
     def see(self, name: str | None, para: int) -> None:
         if name:
@@ -88,6 +91,63 @@ class Resolver:
         matches = [n for n in dict.fromkeys(pool) if n != "?" and self.gender(n) == want]
         return matches[0] if len(matches) == 1 else None
 
+    def _salient(self, pronoun: str | None, actors: list[str], scene: Scene) -> tuple[str | None, float]:
+        """'he'/'she' → the most salient person of that gender: whoever acts in this paragraph,
+        then the previous paragraph's actor, the last speaker, the conversation, the scene.
+        A unique gender match among everyone present is strong; otherwise recency decides."""
+        if pronoun == "i":
+            return (self.pov or "Narrator"), 0.93
+        want = {"he": "m", "she": "f"}.get(pronoun or "")
+        if not want:
+            return None, 0.0
+        order = [self.canon(a) for a in reversed(actors)] + [scene.last_actor, scene.last_speaker]
+        order += [n for n in reversed(scene.convo) if n != "?"] + scene.recent()
+        narrator = self.pov if self.first_person else None  # "I" is never "he"/"she"
+        order = [n for n in dict.fromkeys(order) if n and n != "?" and n != narrator and self._is_person(n)]
+        if not order:
+            return None, 0.0
+        matching = [n for n in order if self.gender(n) == want]
+        if len(matching) == 1:
+            return matching[0], 0.86
+        if matching:
+            return matching[0], 0.76  # several of that gender: the most salient one
+        # genders unknown yet: a weak guess from whoever just *acted* (never just the last speaker —
+        # "Suki said sweetly. / He didn't answer." is about the listener)
+        near = [n for n in [self.canon(a) for a in reversed(actors)] + [scene.last_actor] if n in order]
+        if near and self.gender(near[0]) is None:
+            return near[0], 0.6
+        return None, 0.0
+
+    def _is_person(self, name: str) -> bool:
+        eid = self.ak.lookup(name, kind=None)
+        return eid is None or self.ak.ents[eid]["kind"] == "character"
+
+    def _lead(self, info: ParaInfo, scene: Scene) -> tuple[str, float, str] | None:
+        """A paragraph ending in a speech verb introduces the next paragraph's quote."""
+        name, pron, strong = info.lead
+        if name:
+            return self.canon(name), 0.9 if strong else 0.8, "introduced by the previous paragraph"
+        if pron:
+            who, score = self._salient(pron, info.actors, scene)
+            if who:
+                return who, min(score, 0.8), f"introduced by the previous paragraph ('{pron}')"
+        return None
+
+    def _focal(self, paras: list[ParaInfo]) -> str | None:
+        """The chapter's viewpoint character: the POV entity, or whoever the narration follows most."""
+        if self.pov:
+            return self.pov
+        counts: dict[str, int] = {}
+        for info in paras:
+            for n in info.actors + ([info.tag_name] if info.tag_name else []):
+                c = self.canon(n)
+                if c and self._is_person(c):
+                    counts[c] = counts.get(c, 0) + 1
+        ranked = sorted(counts.items(), key=lambda kv: -kv[1])
+        if ranked and ranked[0][1] >= 3 and (len(ranked) == 1 or ranked[0][1] >= 1.5 * ranked[1][1]):
+            return ranked[0][0]
+        return None
+
     def _addressee(self, text: str, scene: Scene) -> str | None:
         inner = text.strip()
         for rx in _VOCATIVES:
@@ -105,6 +165,7 @@ class Resolver:
 
     def run(self, segments: list[Segment], decisions: dict[int, Decision], paras: list[ParaInfo]) -> None:
         scene = self._new_scene()
+        self.focal = self._focal(paras)
         for info in paras:
             if any(s.kind == SegmentKind.BREAK for s in info.segs):
                 scene = self._new_scene()
@@ -118,7 +179,13 @@ class Resolver:
                 if words > _LONG_NARRATION_WORDS:
                     scene.convo = []  # a long stretch of narration ends the exchange
                 scene.open_speech = False
-                scene.last_actor = self.canon(info.actors[-1]) if info.actors else scene.last_actor
+                scene.lead = self._lead(info, scene)
+                if info.actors:
+                    scene.last_actor = self.canon(info.actors[-1])
+                elif info.subject_pronoun:  # "Then, he lifted up his index finger."
+                    who, score = self._salient(info.subject_pronoun, [], scene)
+                    if who and score >= 0.76:
+                        scene.last_actor = who
                 continue
 
             evidence: dict[str, tuple[float, str]] = {}
@@ -132,13 +199,24 @@ class Resolver:
             add(info.tag_name, 0.97, "speech tag")
             if not info.tag_name and info.tag_desc:
                 add(info.tag_desc, 0.88, "descriptive speech tag")
-            pron = self._by_pronoun(info.tag_pronoun, pool)
-            add(pron, 0.86 if info.tag_pronoun != "i" else 0.93, f"'{info.tag_pronoun}' + gender/POV")
+            if info.tag_pronoun:
+                who, score = self._salient(info.tag_pronoun, list(info.intro_antecedents), scene)
+                add(who, score, f"'{info.tag_pronoun}' + gender/POV")
+            iname, ipron, istrong = info.intro
+            if iname:
+                add(iname, 0.92 if istrong else 0.85, "speech verb before the line")
+            elif ipron:
+                who, score = self._salient(ipron, list(info.intro_antecedents), scene)
+                add(who, min(score, 0.84), f"'{ipron}' + speech verb before the line")
+            starts_with_quote = bool(info.segs) and info.segs[0].kind == SegmentKind.QUOTE
+            if scene.lead and starts_with_quote and not info.tag_name:
+                add(*scene.lead)
             add(info.subject, 0.86, "action beat before the line")
             for a in info.actors:
                 add(a, 0.8, "acts in the same paragraph")
-            add(self._by_pronoun(info.subject_pronoun, pool), 0.72, f"'{info.subject_pronoun}' beat + gender")
-            starts_with_quote = bool(info.segs) and info.segs[0].kind == SegmentKind.QUOTE
+            if info.subject_pronoun:
+                who, score = self._salient(info.subject_pronoun, [], scene)
+                add(who, min(score, 0.72), f"'{info.subject_pronoun}' beat + gender")
             if scene.open_speech and starts_with_quote and scene.last_speaker:
                 add(scene.last_speaker, 0.9, "speech continues from the previous paragraph")
             for n in info.names:
@@ -160,9 +238,9 @@ class Resolver:
                     add(scene.pending_addressee, 0.76, "was just asked a question by name")
                 if addressee and len(two) == 2 and addressee in two:
                     add(next(n for n in two if n != addressee), 0.76, f"addresses {addressee} in a two-way exchange")
-                elif (bare and scene.last_actor and scene.last_actor not in two[:1]
-                      and scene.last_actor != addressee):
-                    add(scene.last_actor, 0.66, "just acted in the previous paragraph")
+                elif bare and starts_with_quote and scene.last_actor and scene.last_actor != addressee:
+                    # also the last speaker: "…” / Then, he lifted his index finger. / “This is Sequence 8.”
+                    add(scene.last_actor, 0.7, "just acted in the previous paragraph")
                 elif len(two) == 2 and info.quotes and not info.tag_name:
                     add(two[1], 0.68, "turn-taking")
             if not evidence:
@@ -183,7 +261,7 @@ class Resolver:
                 elif d.type == BlockType.THOUGHT:
                     self._assign_thought(d, info, ranked, cands)
                 elif d.type == BlockType.ACTION:
-                    actor = self.canon(info.subject) or self._by_pronoun(info.subject_pronoun, pool)
+                    actor = self.canon(info.subject) or self._salient(info.subject_pronoun, [], scene)[0]
                     if actor:
                         d.speaker, d.candidates = actor, cands
                     else:
@@ -199,6 +277,12 @@ class Resolver:
                                                         (asks or "tell" in " ".join(q.text.lower() for q in info.quotes))) else None
             scene.open_speech = info.unclosed
             scene.last_actor = None
+            scene.lead = None
+            if not spoken:  # a beat-only paragraph: "Then, he lifted up his index finger."
+                acts = [decisions[s.id].speaker for s in info.segs
+                        if decisions[s.id].type == BlockType.ACTION and decisions[s.id].speaker]
+                scene.last_actor = acts[-1] if acts else None
+                scene.lead = self._lead(info, scene)
 
     def _new_scene(self) -> Scene:
         sc = Scene()
@@ -214,22 +298,32 @@ class Resolver:
                 score -= 0.15
             d.speaker, d.why = name, why
             d.conf = min(d.conf, score)
-            d.tier = Tier.RULE if why in ("speech tag", "descriptive speech tag", "action beat before the line") else Tier.MEMORY
+            d.tier = (Tier.RULE if why in ("speech tag", "descriptive speech tag", "action beat before the line",
+                                           "speech verb before the line") else Tier.MEMORY)
         else:
             d.speaker, d.conf, d.why, d.tier = None, 0.2, "no evidence", Tier.MEMORY
         d.candidates = cands
         d.addressee = addressee
 
     def _assign_thought(self, d: Decision, info: ParaInfo, ranked, cands) -> None:
+        # A named person in the same paragraph is very likely the thinker ("“Our landlord?” the
+        # perplexed Klein asked. *Does he own…*"). Score the speaker on that evidence, not on how
+        # sure we are that the italics are a thought.
         if info.tag_name or info.thought_tag and ranked and ranked[0][1][1] == "speech tag":
             self._assign(d, ranked, cands, None)
+            d.conf = max(d.conf, 0.88) if d.speaker else d.conf
             return
-        if ranked and ranked[0][1][1] == "action beat before the line":
+        if ranked and ranked[0][1][1] in ("action beat before the line", "speech verb before the line"):
             self._assign(d, ranked, cands, None)
-            d.conf = min(d.conf, 0.78)
+            d.conf = 0.84 if d.speaker == self.focal else 0.78
             return
-        if self.pov:
-            d.speaker, d.conf, d.why, d.tier = self.pov, min(d.conf, 0.7), "point-of-view inner voice", Tier.MEMORY
+        if ranked and ranked[0][1][0] >= 0.7 and "'" in ranked[0][1][1]:  # "he nodded in thought"
+            self._assign(d, ranked, cands, None)
+            d.conf = min(d.conf, 0.72)
+        elif self.focal:
+            why = "point-of-view inner voice" if self.focal == self.pov else "the chapter's viewpoint character"
+            d.speaker, d.conf, d.why, d.tier = self.focal, min(d.conf, 0.7), why, Tier.MEMORY
+            cands = list(dict.fromkeys([self.focal] + cands))[:5]
         elif ranked:
             self._assign(d, ranked, cands, None)
             d.conf = min(d.conf, 0.5)
