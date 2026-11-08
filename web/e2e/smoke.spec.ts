@@ -43,4 +43,10 @@ test("import → transform → read → correct → review", async ({ page }) =>
   await page.getByRole("link", { name: /sample chapter/i }).click();
   await page.getByRole("link", { name: /^Review/ }).click();
   await expect(page.getByRole("cell", { name: /Old Harrow/ })).toBeVisible();
+
+  // the design tab: readiness + a clear note that the image models aren't installed here
+  await page.getByRole("link", { name: /^Design/ }).click();
+  await expect(page.getByRole("heading", { name: "Visual novel" })).toBeVisible();
+  await expect(page.getByText("Image models not installed")).toBeVisible();
+  await expect(page.getByRole("switch", { name: "Design automatically" })).toBeVisible();
 });

@@ -4,6 +4,7 @@ import { Combine, ImagePlus, Lock, Search, Star, Users, X } from "lucide-react";
 import { api, type Entity } from "../lib/api";
 import { SLOT_COUNT, cssColor } from "../lib/colors";
 import { Avatar, Button, Empty, ErrorNote, Field, Spinner, cx, inputCls } from "./ui";
+import { DesignButton } from "./DesignEditor";
 
 export function useCast(novelId: number) {
   return useQuery({ queryKey: ["cast", novelId], queryFn: () => api.entities(novelId, "character"), enabled: novelId > 0 });
@@ -167,6 +168,9 @@ export function CharacterPanel({ character: c, novelId, cast, onDone }: { charac
           <Button size="sm" variant={full.is_pov ? "primary" : "outline"} onClick={() => m.pov.mutate(full.is_pov ? null : c.id)}>
             <Star size={13} /> {full.is_pov ? "Protagonist" : "Make protagonist"}
           </Button>
+        </Field>
+        <Field group label="Look">
+          <DesignButton entityId={c.id} novelId={novelId} />
         </Field>
         {(factions.data?.length ?? 0) > 0 && (
           <Field label="Faction">

@@ -18,7 +18,7 @@ from datetime import UTC, datetime
 from pathlib import Path
 from typing import Any
 
-SCHEMA_VERSION = 3
+SCHEMA_VERSION = 4
 
 SCHEMA = """
 CREATE TABLE IF NOT EXISTS meta (key TEXT PRIMARY KEY, value TEXT);
@@ -126,6 +126,39 @@ CREATE TABLE IF NOT EXISTS progress (
   position REAL NOT NULL DEFAULT 0,
   updated_at TEXT NOT NULL
 );
+CREATE TABLE IF NOT EXISTS chapter_cast (          -- who speaks/thinks in each chapter (from recount)
+  chapter_id INTEGER NOT NULL REFERENCES chapters(id) ON DELETE CASCADE,
+  entity_id INTEGER NOT NULL REFERENCES entities(id) ON DELETE CASCADE,
+  lines INTEGER NOT NULL,
+  PRIMARY KEY (chapter_id, entity_id)
+);
+CREATE INDEX IF NOT EXISTS idx_cast_entity ON chapter_cast(entity_id);
+CREATE TABLE IF NOT EXISTS designs (               -- a character's visual design (one per entity for now)
+  id INTEGER PRIMARY KEY,
+  entity_id INTEGER NOT NULL UNIQUE REFERENCES entities(id) ON DELETE CASCADE,
+  profile TEXT,                                -- JSON appearance profile (fields with citations)
+  profile_locked TEXT,                         -- JSON list of fields the user edited
+  status TEXT NOT NULL DEFAULT 'new',          -- new | profiled | candidates | choose | sheet | approved | failed
+  base_image_id INTEGER,                       -- the approved candidate
+  message TEXT,
+  updated_at TEXT NOT NULL
+);
+CREATE TABLE IF NOT EXISTS art_images (            -- every generated image; status 'queued' rows are the work queue
+  id INTEGER PRIMARY KEY,
+  design_id INTEGER NOT NULL REFERENCES designs(id) ON DELETE CASCADE,
+  kind TEXT NOT NULL,                          -- candidate | expression
+  emotion TEXT,                                -- for expressions
+  status TEXT NOT NULL DEFAULT 'queued',       -- queued | running | done | failed | rejected
+  path TEXT,
+  seed INTEGER,
+  model TEXT,
+  prompt TEXT,
+  error TEXT,
+  secs REAL,
+  created_at TEXT NOT NULL
+);
+CREATE INDEX IF NOT EXISTS idx_art_design ON art_images(design_id, kind);
+CREATE INDEX IF NOT EXISTS idx_art_status ON art_images(status);
 CREATE TABLE IF NOT EXISTS reads (
   novel_id INTEGER NOT NULL REFERENCES novels(id) ON DELETE CASCADE,
   chapter_id INTEGER NOT NULL REFERENCES chapters(id) ON DELETE CASCADE,
@@ -147,7 +180,10 @@ def norm_name(name: str) -> str:
 
 class Store:
     # Columns added after a table first shipped: (table, column, definition).
-    _ADDED_COLUMNS: list[tuple[str, str, str]] = []
+    _ADDED_COLUMNS: list[tuple[str, str, str]] = [
+        ("novels", "art", "TEXT"),             # JSON {"style": …, "setting": …, "auto": bool}
+        ("entities", "art_tier", "TEXT"),      # user override: main | supporting | minor | extra
+    ]
 
     def __init__(self, path: Path | str):
         self.path = Path(path)

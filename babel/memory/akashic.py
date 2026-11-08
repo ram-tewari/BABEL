@@ -256,6 +256,12 @@ class Akashic:
             c.execute("UPDATE entities SET lines = lines + (SELECT lines FROM entities WHERE id=?),"
                       " mentions = mentions + (SELECT mentions FROM entities WHERE id=?) WHERE id=?", (src, src, dst))
             c.execute("UPDATE novels SET pov_character_id=? WHERE pov_character_id=?", (dst, src))
+            c.execute("INSERT INTO chapter_cast (chapter_id, entity_id, lines) SELECT chapter_id, ?, lines"
+                      " FROM chapter_cast WHERE entity_id=? ON CONFLICT (chapter_id, entity_id)"
+                      " DO UPDATE SET lines = lines + excluded.lines", (dst, src))
+            # keep a design if only the merged-away entity had one
+            c.execute("UPDATE designs SET entity_id=? WHERE entity_id=?"
+                      " AND NOT EXISTS (SELECT 1 FROM designs WHERE entity_id=?)", (dst, src, dst))
             c.execute("DELETE FROM entities WHERE id=?", (src,))
         self.reload()
 
@@ -294,6 +300,7 @@ class Akashic:
     def recount(self) -> None:
         """Recompute line counts from every chapter's decisions (incl. user corrections)."""
         counts: Counter[int] = Counter()
+        cast: list[tuple[int, int, int]] = []
         overrides: dict[int, dict[str, list]] = {}
         for o in self.store.q("SELECT o.chapter_id, o.seg, o.decision FROM overrides o JOIN chapters c ON"
                               " c.id=o.chapter_id WHERE c.novel_id=?", (self.novel_id,)):
@@ -302,12 +309,18 @@ class Akashic:
                               (self.novel_id,)):
             decisions = json.loads(r["doc_json"])["decisions"]
             decisions.update(overrides.get(r["id"], {}))
+            here: Counter[int] = Counter()
             for row in decisions.values():
                 if row[1] and row[0] in ("dialogue", "thought"):
                     eid = self.lookup(row[1])
                     if eid is not None:
-                        counts[eid] += 1
+                        here[eid] += 1
+            counts.update(here)
+            cast += [(r["id"], eid, n) for eid, n in here.items()]
         with self.store.tx() as c:
+            c.execute("DELETE FROM chapter_cast WHERE chapter_id IN (SELECT id FROM chapters WHERE novel_id=?)",
+                      (self.novel_id,))
+            c.executemany("INSERT INTO chapter_cast (chapter_id, entity_id, lines) VALUES (?,?,?)", cast)
             c.execute("UPDATE entities SET lines=0 WHERE novel_id=?", (self.novel_id,))
             c.executemany("UPDATE entities SET lines=? WHERE id=?", [(n, eid) for eid, n in counts.items()])
         self.reload()

@@ -6,6 +6,7 @@ import { api, isActive, type ChapterRow, type NovelDetail, type TierMode } from 
 import { Button, Cover, ErrorNote, Field, Modal, Spinner, buttonCls, cx, inputCls } from "../components/ui";
 import { JobCard } from "../components/JobCard";
 import { CastEditor } from "../components/CastEditor";
+import { DesignTab } from "../components/DesignTab";
 import { GlossaryEditor } from "../components/GlossaryEditor";
 import { ReviewQueue } from "../components/ReviewQueue";
 import { CharacterGraph } from "../components/CharacterGraph";
@@ -15,6 +16,7 @@ import { TierBar } from "../components/TierBar";
 const TABS = [
   { key: "chapters", label: "Chapters" },
   { key: "cast", label: "Cast" },
+  { key: "design", label: "Design" },
   { key: "glossary", label: "Glossary" },
   { key: "review", label: "Review" },
   { key: "graph", label: "Graph" },
@@ -85,6 +87,7 @@ export function NovelPage() {
         <div className="pt-6">
           {tab === "chapters" && <ChapterList novel={n} />}
           {tab === "cast" && <CastEditor novelId={n.id} povId={n.pov_character_id} />}
+          {tab === "design" && <DesignTab novelId={n.id} />}
           {tab === "glossary" && <GlossaryEditor novelId={n.id} />}
           {tab === "review" && <ReviewQueue novelId={n.id} />}
           {tab === "graph" && <CharacterGraph novelId={n.id} />}

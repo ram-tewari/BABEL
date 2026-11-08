@@ -189,6 +189,92 @@ export interface MetadataResult {
   applied: boolean;
 }
 
+export type ArtTier = "main" | "supporting" | "minor" | "extra";
+export type DesignStatus = "new" | "profiled" | "candidates" | "choose" | "sheet" | "approved" | "failed";
+
+export interface ProfileField {
+  value: string;
+  guessed: boolean;
+  chapter: number | null;
+  quote: string;
+}
+export type Profile = Record<string, ProfileField> & { tags?: string[] };
+
+export interface ArtImage {
+  id: number;
+  kind: "candidate" | "expression";
+  emotion: string | null;
+  status: "queued" | "running" | "done" | "failed" | "rejected";
+  seed: number;
+  model: string;
+  error: string | null;
+  secs: number | null;
+  url: string | null;
+  thumb: string | null;
+}
+
+export interface DesignView {
+  entity_id: number;
+  name: string;
+  status: DesignStatus;
+  message: string | null;
+  tier: ArtTier;
+  tier_locked: boolean;
+  first_idx: number | null;
+  lines: number;
+  profile: Profile | null;
+  profile_locked: string[];
+  base_image_id: number | null;
+  candidates: ArtImage[];
+  sheet: Record<string, ArtImage | null>;
+}
+
+export interface ArtCharacter {
+  id: number;
+  name: string;
+  gender: string | null;
+  lines: number;
+  chapters: number;
+  first_idx: number | null;
+  tier: ArtTier;
+  tier_locked: boolean;
+  design_id: number | null;
+  status: DesignStatus;
+  message: string | null;
+}
+
+export interface SchedulerStatus {
+  status: "idle" | "waiting" | "profiling" | "drawing" | "unavailable";
+  detail: string | null;
+  error: string | null;
+  worker_running: boolean;
+  queued: number;
+  failed: number;
+}
+
+export interface NovelArt {
+  settings: { style: string; setting: string; era: string; auto: boolean };
+  scheduler: SchedulerStatus;
+  tiers: Record<ArtTier, number>;
+  designed: number;
+  needed: number;
+  queue: ArtCharacter[];
+  characters: ArtCharacter[];
+  readiness: {
+    ready: number;
+    transformed: number;
+    total: number;
+    ready_through: number | null;
+    ready_ids: number[];
+    blocked: { chapter_id: number; idx: number; missing: string[] }[];
+  };
+}
+
+export interface ArtMeta extends SchedulerStatus {
+  emotions: string[];
+  fields: { key: string; label: string }[];
+}
+
 export class ApiError extends Error {
   constructor(public status: number, message: string) {
     super(message);
@@ -280,6 +366,17 @@ export const api = {
   exportUrl: (novelId: number, kind: "epub" | "html" | "json" | "corrections", first?: number | null, last?: number | null) =>
     `/api/novels/${novelId}/export/${kind}${qs({ first, last })}`,
   glossaryUrl: (novelId: number) => `/api/novels/${novelId}/glossary.yaml`,
+  artMeta: () => req<ArtMeta>("/art/status"),
+  novelArt: (novelId: number) => req<NovelArt>(`/novels/${novelId}/art`),
+  setNovelArt: (novelId: number, body: Partial<NovelArt["settings"]>) => req<NovelArt["settings"]>(`/novels/${novelId}/art`, json("PUT", body)),
+  design: (entityId: number) => req<DesignView>(`/entities/${entityId}/design`),
+  saveProfile: (entityId: number, profile: Profile) => req<DesignView>(`/entities/${entityId}/design/profile`, json("PUT", { profile })),
+  draftProfile: (entityId: number) => req<DesignView>(`/entities/${entityId}/design/draft`, json("POST")),
+  drawCandidates: (entityId: number) => req<DesignView>(`/entities/${entityId}/design/candidates`, json("POST")),
+  resetDesign: (entityId: number) => req<DesignView>(`/entities/${entityId}/design/reset`, json("POST")),
+  setArtTier: (entityId: number, tier: ArtTier | null) => req<DesignView>(`/entities/${entityId}/design/tier`, json("PUT", { tier })),
+  approveImage: (imageId: number) => req<DesignView>(`/art/images/${imageId}/approve`, json("POST")),
+  rerollImage: (imageId: number) => req<DesignView>(`/art/images/${imageId}/reroll`, json("POST")),
 };
 
 export const isActive = (j: Job | null | undefined) => !!j && (j.status === "queued" || j.status === "running");

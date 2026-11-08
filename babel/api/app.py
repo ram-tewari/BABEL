@@ -16,6 +16,8 @@ from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, Field
 
 from babel import __version__
+from babel.api.art_routes import art_router
+from babel.art.runner import ArtScheduler, SubprocessBackend
 from babel.config import Settings
 from babel.ingest import IngestError, load_book
 from babel.library import chapter_view, effective_decisions, entity_public, import_book, save_image
@@ -96,22 +98,32 @@ class CoverUrlBody(BaseModel):
     url: str
 
 
+def build_art_scheduler(settings: Settings, store: Store, cascade: Cascade) -> ArtScheduler:
+    python = settings.art_python_path()
+    backend = (lambda: SubprocessBackend(python, settings.art_dir / "worker.log")) if python else None
+    return ArtScheduler(store, art_dir=settings.art_dir, portraits_dir=settings.portraits_dir,
+                        backend_factory=backend, llm_factory=lambda: cascade.local or cascade.cloud)
+
+
 def create_app(settings: Settings | None = None, store: Store | None = None, cascade: Cascade | None = None,
-               start_worker: bool = True) -> FastAPI:
+               start_worker: bool = True, art: ArtScheduler | None = None) -> FastAPI:
     settings = settings or Settings.from_env()
     store = store or Store(settings.db_path)
     cascade = cascade or settings.build_cascade()
     worker = Worker(store, lambda: cascade, settings.concurrency, settings.parallel_novels)
+    art = art or build_art_scheduler(settings, store, cascade)
 
     @asynccontextmanager
     async def lifespan(_app: FastAPI):
         if start_worker:
             worker.start()
+            art.start()
         yield
         worker.stop()
+        art.stop()
 
     app = FastAPI(title="BABEL", version=__version__, lifespan=lifespan)
-    app.state.store, app.state.worker, app.state.cascade = store, worker, cascade
+    app.state.store, app.state.worker, app.state.cascade, app.state.art = store, worker, cascade, art
     api = APIRouter(prefix="/api")
 
     # ── helpers ───────────────────────────────────────────────────────────
@@ -616,6 +628,7 @@ def create_app(settings: Settings | None = None, store: Store | None = None, cas
                        for c in chapters]}
         return JSONResponse(payload, headers={"Content-Disposition": f'attachment; filename="{_safe(n["title"])}.babel.json"'})
 
+    api.include_router(art_router(store, art, lambda: cascade.local or cascade.cloud, novel_or_404, entity_or_404))
     app.include_router(api)
     _mount_web(app)
     return app

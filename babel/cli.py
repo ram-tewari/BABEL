@@ -18,9 +18,11 @@ app = typer.Typer(add_completion=False, no_args_is_help=True,
 novels_app = typer.Typer(no_args_is_help=True, help="Manage novels in the library.")
 glossary_app = typer.Typer(no_args_is_help=True, help="The Akashic Record as YAML (characters, factions, locations, terms).")
 db_app = typer.Typer(no_args_is_help=True, help="Database utilities.")
+art_app = typer.Typer(no_args_is_help=True, help="Character art: designs, expression sheets, visual-novel readiness.")
 app.add_typer(novels_app, name="novels")
 app.add_typer(glossary_app, name="glossary")
 app.add_typer(db_app, name="db")
+app.add_typer(art_app, name="art")
 console = Console()
 
 
@@ -521,6 +523,65 @@ def db_vacuum() -> None:
     """Compact the database file."""
     _store().x("VACUUM")
     console.print("[green]Done[/]")
+
+
+ART_MFLUX = "mflux==0.24.0"
+
+
+@art_app.command("setup")
+def art_setup(python: str = typer.Option("3.12", help="Python version for the art environment")) -> None:
+    """Create the art environment (.venv-art) with the image models' runtime (Apple Silicon / MLX)."""
+    import platform
+    import shutil
+    import subprocess
+
+    if platform.system() != "Darwin" or platform.machine() != "arm64":
+        console.print("[yellow]Character art currently runs on Apple Silicon Macs (MLX).[/]")
+        raise typer.Exit(1)
+    uv = shutil.which("uv")
+    if uv:
+        subprocess.run([uv, "venv", ".venv-art", "--python", python], check=True)
+        subprocess.run([uv, "pip", "install", "--python", ".venv-art/bin/python", ART_MFLUX], check=True)
+    else:
+        subprocess.run([shutil.which("python3") or "python3", "-m", "venv", ".venv-art"], check=True)
+        subprocess.run([".venv-art/bin/python", "-m", "pip", "install", ART_MFLUX], check=True)
+    console.print("[green]Art environment ready.[/] The image models (~22 GB) download on first use.")
+
+
+@art_app.command("status")
+def art_status(novel: str = typer.Argument(..., help="novel id or title")) -> None:
+    """Who needs a design, in reading order, and which chapters are ready as a visual novel."""
+    from babel.art import designs, plan
+    from babel.memory.akashic import Akashic
+
+    s = _settings()
+    store = _store(s)
+    n = _novel(store, novel)
+    ak = Akashic(store, n["id"])
+    console.print(f"art environment: {s.art_python_path() or '[yellow]not installed — babel art setup[/]'}")
+    console.print(f"settings: {designs.art_settings(store, n['id'])}")
+    r = plan.readiness(store, ak)
+    through = "none yet" if r["ready_through"] is None else f"chapter {r['ready_through'] + 1}"
+    console.print(f"visual novel: {r['ready']}/{r['transformed']} transformed chapters ready; "
+                  f"straight through to {through}")
+    t = Table("first ch", "character", "tier", "lines", "status")
+    for c in plan.characters(store, ak):
+        if c["tier"] in plan.REQUIRED or c["status"] != "new":
+            first = "" if c["first_idx"] is None else str(c["first_idx"] + 1)
+            t.add_row(first, c["name"], c["tier"], str(c["lines"]), c["status"])
+    console.print(t)
+
+
+@art_app.command("auto")
+def art_auto(novel: str = typer.Argument(..., help="novel id or title"),
+             on: bool = typer.Option(True, "--on/--off", help="draw characters automatically in reading order")) -> None:
+    """Turn automatic design drafting on/off (you still pick each main/supporting character's look)."""
+    from babel.art import designs
+
+    store = _store()
+    n = _novel(store, novel)
+    designs.set_art_settings(store, n["id"], auto=on)
+    console.print(f"auto art {'on' if on else 'off'} for {n['title']} — runs while `babel serve` is up")
 
 
 def main() -> None:

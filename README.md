@@ -85,6 +85,32 @@ Reasoning models (Qwen3, R1-style) are asked to answer directly (`reasoning_effo
   - Settings: metadata search via Open Library or Google Books (RoyalRoad and NovelUpdates are tried but usually block bots), cover upload, append new chapters of an ongoing novel, delete.
 - Transform jobs show tier choice and a cost estimate, run several novels in parallel, and can be paused, resumed or stopped. Restarts resume where they left off.
 
+## Character art (visual novel, in progress)
+
+BABEL can design every main and supporting character in manhwa style, locally, and draw a sheet of eight expressions for each one: neutral, happy, laugh, angry, sad, surprised, afraid and serious. The reader will pick an expression for each line from its tone. Apple Silicon only for now.
+
+```bash
+babel art setup          # once: creates .venv-art with the image runtime (mflux / MLX)
+babel serve              # then: novel → Design tab → "Design automatically in reading order"
+```
+
+- **Appearance profiles.** The text model reads the book's own descriptions of each character and fills in age, hair, eyes, build, outfit and so on. Each field cites its chapter and quote, and guesses are marked. Anything you edit is locked.
+- **You pick the look.** Six options are drawn from the profile with Anima, a 2B anime and illustration model. You choose one, and FLUX.2 Klein 4B edits it into the expression sheet, which keeps the face, outfit and style the same.
+  - The novel's setting shapes the clothing era but is never drawn.
+  - Portraits are bareheaded unless a hat is a distinguishing mark.
+- **Reading order, never waiting.**
+  - Characters are designed by first appearance.
+  - A chapter is ready as a visual novel once everyone important who speaks in it has a design.
+  - Minor and unnamed characters (the extras library is coming) never hold a chapter back.
+  - The approved face also becomes the character's chat avatar.
+- **One machine.** Drawing pauses while chapters are being transformed. The text model is unloaded before drawing, and the image process exits when idle, so the text and image models never compete for memory.
+- **Measured on an M5 Max (36 GB):**
+  - an option takes about 8 s and an expression about 45 s, so a finished character takes roughly 10 minutes;
+  - the image models are about 22 GB on disk;
+  - Anima is licensed for non-commercial use only, and FLUX.2 Klein 4B under Apache 2.0.
+
+`babel art status <novel>` shows the queue and which chapters are ready. `BABEL_ART=off` disables character art.
+
 ## CLI
 
 ```bash
@@ -103,6 +129,7 @@ babel export 1 -f epub|html|json
 babel eval --tiers local -v           # quality + cost on gold chapters
 babel providers --test
 babel db info | check | vacuum
+babel art setup | status 1 | auto 1 --on
 babel serve
 ```
 
@@ -138,6 +165,7 @@ babel/
   pipeline/    resumable jobs, several novels at once
   store/       SQLite: chapters + decision documents, overrides, entities, aliases, usage ledger, reads
   meta/        Open Library / Google Books / RoyalRoad / NovelUpdates
+  art/         appearance profiles · design queue + readiness · art scheduler · image worker (runs in .venv-art)
   export/      EPUB, HTML · api/ FastAPI (+ serves the web UI) · evals/ gold chapters + runner
 web/           React 19 · Vite · Tailwind 4 · TanStack Query
 ```

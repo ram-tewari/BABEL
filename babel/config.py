@@ -33,6 +33,20 @@ class Settings:
     summary_window: int = 3
     host: str = "127.0.0.1"
     port: int = 8000
+    # character art: "auto" uses the art environment (.venv-art with mflux) if it exists; "off" disables
+    art: str = "auto"
+    art_python: Path | None = None
+
+    @property
+    def art_dir(self) -> Path:
+        return self.data_dir / "art"
+
+    def art_python_path(self) -> Path | None:
+        """The art environment's Python, if character art is enabled and installed."""
+        if self.art.lower() in ("off", "none", "0", "false"):
+            return None
+        p = self.art_python or Path(".venv-art/bin/python")
+        return p if p.exists() else None
 
     @property
     def db_path(self) -> Path:
@@ -67,6 +81,8 @@ class Settings:
             summary_window=int(e("BABEL_SUMMARY_WINDOW", "3")),
             host=e("BABEL_HOST", "127.0.0.1"),
             port=int(e("BABEL_PORT", "8000")),
+            art=e("BABEL_ART", "auto"),
+            art_python=Path(e("BABEL_ART_PYTHON")) if e("BABEL_ART_PYTHON") else None,
         )
 
     def build_cascade(self):

@@ -114,7 +114,7 @@ export function ProgressBar({ value, max, tone = "accent", label }: { value: num
   );
 }
 
-export function Modal({ open, onClose, title, children, wide }: { open: boolean; onClose: () => void; title: string; children: ReactNode; wide?: boolean }) {
+export function Modal({ open, onClose, title, children, wide }: { open: boolean; onClose: () => void; title: string; children: ReactNode; wide?: boolean | "xl" }) {
   const ref = useRef<HTMLDialogElement>(null);
   useEffect(() => {
     const d = ref.current;
@@ -128,8 +128,8 @@ export function Modal({ open, onClose, title, children, wide }: { open: boolean;
       onClose={onClose}
       onClick={(e) => e.target === ref.current && onClose()}
       className={cx(
-        "m-auto w-[calc(100%-2rem)] rounded-2xl border border-line bg-surface p-0 text-text shadow-2xl backdrop:bg-black/50 backdrop:backdrop-blur-sm",
-        wide ? "max-w-2xl" : "max-w-md",
+        "m-auto max-h-[92vh] w-[calc(100%-2rem)] overflow-y-auto rounded-2xl border border-line bg-surface p-0 text-text shadow-2xl backdrop:bg-black/50 backdrop:backdrop-blur-sm",
+        wide === "xl" ? "max-w-5xl" : wide ? "max-w-2xl" : "max-w-md",
       )}
     >
       {open && (

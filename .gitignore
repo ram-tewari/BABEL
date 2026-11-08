@@ -41,3 +41,4 @@ web/playwright-report/
 *.swp
 web/.e2e-data/
 *.tsbuildinfo
+.venv-art/
