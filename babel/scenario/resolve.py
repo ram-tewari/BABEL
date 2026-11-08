@@ -43,6 +43,7 @@ class Scene:
     last_actor: str | None = None  # subject of the previous narration paragraph ("Okafor stepped out.")
     pending_addressee: str | None = None  # asked a question by name; likely to answer next
     lead: tuple[str, float, str] | None = None  # the previous paragraph introduced this one's speech
+    narration_words: int = 0  # narration since the last line of speech
 
     def see(self, name: str | None, para: int) -> None:
         if name:
@@ -106,6 +107,9 @@ class Resolver:
         order = [n for n in dict.fromkeys(order) if n and n != "?" and n != narrator and self._is_person(n)]
         if not order:
             return None, 0.0
+        own = [self.canon(a) for a in reversed(actors)]
+        if own and own[0] in order and self.gender(own[0]) in (want, None):
+            return own[0], 0.8  # "The bartender spared Klein a glance. “New here?” he asked."
         matching = [n for n in order if self.gender(n) == want]
         if len(matching) == 1:
             return matching[0], 0.86
@@ -176,8 +180,11 @@ class Resolver:
 
             words = sum(len(s.text.split()) for s in info.segs if s.kind == SegmentKind.PROSE)
             if not info.spoken and not any(decisions[s.id].type == BlockType.ACTION for s in info.segs):
-                if words > _LONG_NARRATION_WORDS:
+                scene.narration_words += words
+                if scene.narration_words > _LONG_NARRATION_WORDS:
                     scene.convo = []  # a long stretch of narration ends the exchange
+                    # …and whoever hasn't been seen lately has probably left the scene
+                    scene.present = {n: p for n, p in scene.present.items() if p >= info.idx - 3}
                 scene.open_speech = False
                 scene.lead = self._lead(info, scene)
                 if info.actors:
@@ -278,10 +285,15 @@ class Resolver:
             scene.open_speech = info.unclosed
             scene.last_actor = None
             scene.lead = None
+            if spoken:
+                scene.narration_words = 0
             if not spoken:  # a beat-only paragraph: "Then, he lifted up his index finger."
                 acts = [decisions[s.id].speaker for s in info.segs
                         if decisions[s.id].type == BlockType.ACTION and decisions[s.id].speaker]
-                scene.last_actor = acts[-1] if acts else None
+                thinkers = [decisions[s.id].speaker for s in info.segs
+                            if decisions[s.id].type == BlockType.THOUGHT and decisions[s.id].speaker]
+                scene.last_actor = (acts[-1] if acts else self.canon(info.actors[-1]) if info.actors
+                                    else thinkers[-1] if thinkers else None)
                 scene.lead = self._lead(info, scene)
 
     def _new_scene(self) -> Scene:
@@ -339,9 +351,21 @@ _FEMALE_TITLES = {"mrs", "mrs.", "ms", "ms.", "miss", "lady", "queen", "princess
                   "grandmother", "señora", "frau"}
 
 
+_MALE_NOUNS = {"man", "boy", "guy", "gentleman", "lad", "husband", "father", "son", "brother", "uncle", "king",
+               "prince", "monk", "butler", "waiter", "grandfather", "grandpa", "boyfriend", "fisherman", "swordsman"}
+_FEMALE_NOUNS = {"woman", "girl", "lady", "lass", "wife", "mother", "daughter", "sister", "aunt", "queen",
+                 "princess", "nun", "maid", "waitress", "grandmother", "grandma", "girlfriend", "landlady", "witch"}
+
+
 def title_gender(name: str) -> str | None:
-    first = name.split()[0].lower() if name.split() else ""
-    return "m" if first in _MALE_TITLES else "f" if first in _FEMALE_TITLES else None
+    words = name.lower().split()
+    if not words:
+        return None
+    if words[0] in _MALE_TITLES or len(words) <= 3 and words[-1] in _MALE_NOUNS:
+        return "m"
+    if words[0] in _FEMALE_TITLES or len(words) <= 3 and words[-1] in _FEMALE_NOUNS:
+        return "f"
+    return None
 
 
 def is_first_person(segments: list[Segment]) -> bool:

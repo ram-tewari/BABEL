@@ -172,3 +172,36 @@ def test_italic_sound_words_and_options():
     assert "spoken aloud" in type_options(SegmentKind.QUOTE)
     seg = Segment(id=0, para=0, kind=SegmentKind.EMPHASIS, text="Odd.")
     assert not kind_ok(seg, BlockType.DIALOGUE)
+
+
+def test_possessives_are_not_speakers_or_antecedents(store):
+    text = ('"Where were you?" Mira asked.\n\nWithout waiting for Tobin’s reply, she added, "I looked everywhere."')
+    _, _, blocks = run(store, text, genders={"Mira": "f", "Tobin": "m"})
+    assert dict(spoken(blocks))["I looked everywhere."] == "Mira"
+
+
+def test_unnamed_speakers_from_descriptions(store):
+    from babel.scenario.convert import desc_subject, tag_description
+    assert tag_description("explained the ferry captain to Ren, pointing at the map.") == "Ferry captain"
+    assert tag_description("said a young man with a scar, holding out his hand.") == "Young man"
+    assert desc_subject("The old woman squinted at him.") == "Old woman"
+    assert desc_subject("The door creaked.") is None
+    text = '"Ticket?" Ren said.\n\nThe old woman squinted at him. "Two coins."'
+    _, _, blocks = run(store, text)
+    assert dict(spoken(blocks))["Two coins."] == "Old woman"
+
+
+def test_scene_change_ends_the_conversation(store):
+    text = ('"Night," Suki said.\n\n"Night," Ren said.\n\n'
+            + "Ren walked to the station and waited a long time for the train. " * 3 + "\n\n"
+            + "The train rattled through three districts before it stopped near the market square. " * 2 + "\n\n"
+            + 'The vendor at the corner stall looked up. "Fresh bread?"')
+    _, _, blocks = run(store, text)
+    assert dict(spoken(blocks))["Fresh bread?"] == "Vendor"
+
+
+def test_repeated_sound_words():
+    from babel.scenario.convert import repeated_sound
+    assert repeated_sound("Ka! Ka! Ka!") and repeated_sound("Dum, dum, dum…")
+    assert not repeated_sound("No! No! No!") and not repeated_sound("Run.")
+    assert looks_like_sfx("Woof!")
