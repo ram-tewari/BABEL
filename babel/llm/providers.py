@@ -53,7 +53,9 @@ _REASONING_RE = re.compile(r"qwen3(?!.*instruct)|deepseek-r1|qwq|magistral|think
 
 
 # ── local tier ─────────────────────────────────────────────────────────────
-PREFERRED_LOCAL = ("qwen3:8b", "qwen3:14b", "qwen2.5:14b", "qwen2.5:7b", "llama3.1:8b", "gemma3:12b",
+# Measured on the QC + gold sets (README): the 30B mixture-of-experts model is both the most accurate
+# and the fastest where it fits (~18 GB, needs 32 GB+ of RAM); qwen3:8b is the pick for smaller machines.
+PREFERRED_LOCAL = ("qwen3:30b-a3b", "qwen3:8b", "qwen3:14b", "qwen2.5:14b", "qwen2.5:7b", "llama3.1:8b", "gemma3:12b",
                    "mistral-nemo", "qwen3:4b", "llama3.2:3b")
 
 

@@ -280,7 +280,7 @@ class Cascade:
         if mode == "cloud" and not self.cloud:
             raise TransformFailed("no cloud provider configured")
         if mode == "local" and not self.local:
-            raise TransformFailed("no local model available (install Ollama and `ollama pull qwen3:8b`)")
+            raise TransformFailed("no local model available (install Ollama and `ollama pull qwen3:30b-a3b`, or qwen3:8b on smaller machines)")
         use_local = self.local is not None and mode in ("auto", "local")
         use_cloud = self.cloud is not None and mode in ("auto", "cloud")
         warnings: list[str] = []

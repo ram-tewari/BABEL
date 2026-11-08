@@ -25,25 +25,22 @@ New names are classified (person, place, faction, term, or not a name, plus gend
 
 ### Measured
 
-On the bundled gold-labeled chapters (`babel eval`, original text written for the test set: untagged three-way arguments, pronouns, LitRPG system windows, first-person narration):
+Two test sets, both run with `babel eval`:
+- **Bundled:** 57 lines of original text written for the test set, covering untagged three-way arguments, pronouns, LitRPG system windows and first-person narration.
+- **Private QC set:** 250 lines from four hand-labeled chapters of a published webnovel. None were used for tuning, and they include a crowded scene change with unnamed speakers.
 
-| Tiers | Speaker accuracy | Type accuracy | Cloud tokens per chapter |
-|---|---|---|---|
-| rules + memory only | 86% | 100% | 0 |
-| + local model (qwen3:8b) | 95–96% | 100% | 0 |
-| full cascade (local + cloud)¹ | 96.5% | 100% | ~430 |
-| cloud only, no local model¹ | 95% | 100% | ~1,700 |
+| Tiers | QC speaker accuracy | Bundled speaker accuracy | Type accuracy | Time per real chapter¹ |
+|---|---|---|---|---|
+| rules + memory only | 92% | 89.5% | 99.6% | instant |
+| + local qwen3:8b | 96.4% | 96.5% | 99.6% | ~20 s |
+| + local qwen3:14b | 97.2% | 94.7% | 99.6% | ~28 s |
+| + local **qwen3:30b-a3b** (default) | **97.6–98.8%** | **96.5–100%** | 99.6% | **~11 s** |
 
-¹ Measured with the same 8B model standing in for the cloud tier, so these are a lower bound; a 70B-class cloud model should do better on the hard lines.
+¹ Measured on an Apple M5 Max (36 GB), with chapter summaries off. The 30B mixture-of-experts model uses only about 3B parameters per token, so it is both the most accurate and the fastest wherever its ~18 GB fits. Ranges are two runs.
 
-On a private QC set of three hand-labeled chapters from a published webnovel (189 lines, chapters never used for tuning):
+Cloud tier: in an earlier measurement, local + cloud reached 96.5% on the bundled set for about 430 cloud tokens per chapter, versus about 1,700 for cloud only. That used an 8B model standing in for the cloud, so treat it as a lower bound.
 
-| Tiers | Speaker accuracy | Type accuracy |
-|---|---|---|
-| rules + memory only | 90% | 99.5% |
-| + local model (qwen3:8b) | 95% | 99.5% |
-
-Most remaining misses are lines where the 8B model overrules a correct rule guess in a long monologue, or a speaker who hasn't been named yet ("an aged voice sounded from inside"). The cloud tier and the review queue are for those. The local tier runs at about 23 s per chapter on an Apple M-series laptop.
+Most remaining misses are speakers who haven't been named yet ("an aged voice sounded from inside") or one-word replies in fast exchanges. The cloud tier and the review queue are for those.
 
 ## Quick start
 
@@ -56,7 +53,7 @@ pip install -e .
 npm --prefix web ci && npm --prefix web run build
 
 # optional but recommended: the free local tier
-ollama pull qwen3:8b            # any instruct model works; qwen3:8b is the default pick
+ollama pull qwen3:30b-a3b       # best + fastest with 32 GB+ RAM; use qwen3:8b on smaller machines
 
 cp .env.example .env            # optional: add a cloud key for the hardest lines
 babel serve                     # → http://127.0.0.1:8000
@@ -68,7 +65,7 @@ Drop an EPUB on the page and press **Transform all**. Chapters you open before t
 
 | Tier | How to enable | Cost |
 |---|---|---|
-| Local | Run Ollama with any model pulled. Auto-detected; pick one with `BABEL_LOCAL_MODEL`, disable with `BABEL_LOCAL=off`. | free |
+| Local | Run Ollama with any model pulled. Auto-detected: `qwen3:30b-a3b` is preferred (32 GB+ RAM), then `qwen3:8b`. Pick one with `BABEL_LOCAL_MODEL`, disable with `BABEL_LOCAL=off`. | free |
 | Cloud | Any of `NVIDIA_API_KEYS`, `GROQ_API_KEYS`, `GEMINI_API_KEYS`, `OPENROUTER_API_KEYS`, `OPENAI_API_KEYS`, or `BABEL_CUSTOM_BASE_URL` (LM Studio, vLLM, …). Several form a fallback chain. Comma-separated keys rotate on rate limits. | free tiers go a long way |
 
 Reasoning models (Qwen3, R1-style) are asked to answer directly (`reasoning_effort: none` / `/no_think`, with automatic fallback). Check your setup with `babel providers --test`.

@@ -9,7 +9,7 @@ export function StatusChip() {
   const { local, cloud } = data.tiers;
   const title = [
     "Every line goes rules → memory first.",
-    local ? `Uncertain lines go to the local model ${local} (free).` : "No local model (start Ollama and `ollama pull qwen3:8b` for free verification).",
+    local ? `Uncertain lines go to the local model ${local} (free).` : "No local model (start Ollama and `ollama pull qwen3:30b-a3b` (or qwen3:8b) for free verification).",
     cloud.length ? `Still-uncertain lines go to ${cloud.map((c) => `${c.name}:${c.model}`).join(" → ")}.` : "No cloud provider configured.",
   ].join("\n");
   return (
