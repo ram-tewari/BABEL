@@ -25,7 +25,8 @@ SPEECH_VERBS = set(
     "retorted retorts teased teases inquired inquires queried bellowed bellows sneered sneers scoffed "
     "scoffs giggled giggles sobbed sobs wept snarled snarls barked barks drawled drawls echoed echoes "
     "repeated repeats corrected corrects offered offers pressed presses prompted prompts "
-    "confirmed confirms joked jokes ordered orders commanded commands concluded concludes".split()
+    "confirmed confirms joked jokes ordered orders commanded commands concluded concludes cursed curses "
+    "chanted chants yelped".split()
 )
 THOUGHT_VERBS = set("thought thinks think wondered wonders mused muses reflected reflects pondered ponders "
                     "realized realised realizes".split())
@@ -80,7 +81,12 @@ _SYSTEM_WORDS = re.compile(
     r"strength|agility|intelligence|mana)\b", re.I)
 
 
+_CONTRACTION_RE = re.compile(r"[’'](?:ll|m|ve|d|re|t)$", re.I)
+
+
 def clean_name(name: str) -> str | None:
+    if any(_CONTRACTION_RE.search(w) for w in name.split()):
+        return None  # "I’ll", "Don’t" are never names
     name = re.sub(r"[’']s?$", "", name.strip())
     parts = name.split()
     while parts and parts[0] in NOT_NAMES:
@@ -100,6 +106,26 @@ def tag_speaker(text: str) -> str | None:
     return None
 
 
+_DESC_TAG_RE = re.compile(
+    rf"\b(?:the|a|an)\s+((?:[a-z][\w\-]*\s+){{0,2}}[a-z][\w\-]*)\s+(?:\w+ly\s+)?(?:{_VERBS})\b"
+    rf"|\b(?:{_VERBS})\s+the\s+((?:[a-z][\w\-]*\s+){{0,2}}[a-z][\w\-]*)\b"
+)
+_DESC_GLUE = {"and", "or", "but", "then", "with", "to", "of", "in", "as", "at", "while", "who", "that", "was", "had"}
+_DESC_STOP = {"smile", "grin", "laugh", "sigh", "nod", "look", "glance", "voice", "words", "sound", "reply", "answer", "question", "door", "wind", "system", "letter", "note"}
+
+
+def tag_description(text: str) -> str | None:
+    """'the circus fortune-teller said' → 'Circus fortune-teller' (an unnamed minor character)."""
+    m = _DESC_TAG_RE.search(text)
+    if not m:
+        return None
+    phrase = (m.group(1) or m.group(2) or "").strip()
+    words = phrase.split()
+    if not words or words[-1] in _DESC_STOP or any(w in _DESC_GLUE for w in words):
+        return None
+    return phrase[0].upper() + phrase[1:]
+
+
 def tag_pronoun(text: str) -> str | None:
     m = PRONOUN_VERB_RE.search(text)
     return m.group(1).lower() if m else None
@@ -113,7 +139,8 @@ def subject_name(text: str) -> str | None:
 def is_speech_tag(text: str) -> bool:
     if len(text.split()) > 16:
         return False
-    return bool(PRONOUN_VERB_RE.search(text) or NAME_VERB_RE.search(text) or VERB_NAME_RE.search(text))
+    return bool(PRONOUN_VERB_RE.search(text) or NAME_VERB_RE.search(text) or VERB_NAME_RE.search(text)
+                or _DESC_TAG_RE.search(text))
 
 
 def looks_like_sfx(text: str) -> bool:
@@ -149,6 +176,7 @@ class ParaInfo:
     segs: list[Segment]
     tag_name: str | None = None  # name from a speech tag ("Tobin said")
     tag_pronoun: str | None = None  # "she said" → "she"
+    tag_desc: str | None = None  # "the fortune-teller said" → "Fortune-teller"
     thought_tag: bool = False
     subject: str | None = None  # "Tobin shook his head." → "Tobin" (first sentence)
     actors: list[str] = field(default_factory=list)  # named subjects of every prose sentence, in order
@@ -230,6 +258,8 @@ def convert(segments: list[Segment], known: set[str] | None = None) -> tuple[dic
         for s in prose:
             info.tag_name = info.tag_name or (tag_speaker(s.text) if is_speech_tag(s.text) else None)
             info.tag_pronoun = info.tag_pronoun or (tag_pronoun(s.text) if is_speech_tag(s.text) else None)
+            if len(s.text.split()) <= 16:
+                info.tag_desc = info.tag_desc or tag_description(s.text)
         if prose:
             info.subject = _trusted(subject_name(prose[0].text), nouns)
             m = PRONOUN_SUBJECT_RE.match(prose[0].text)

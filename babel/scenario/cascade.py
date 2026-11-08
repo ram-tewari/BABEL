@@ -26,6 +26,7 @@ from babel.models import BlockType, Decision, EntityHint, Segment, Tier
 from babel.scenario.ask import (
     Answer,
     ParseError,
+    Plan,
     answer_schema,
     build_batches,
     extract_json,
@@ -80,7 +81,10 @@ ENTITY_SCHEMA = {
 _KIND = {"person": "character", "place": "location", "group": "faction", "term": "term"}
 
 ENTITY_PROMPT = """You maintain the character list for a novel. For each NEW NAME, decide:
-- kind: person | place | group (faction, organization, family) | term (skill, item, title, concept) | not_a_name
+- kind: person | place | group (faction, organization, family) | term (a named skill, item, title, language,
+  deity or concept specific to this story) | not_a_name
+  Use not_a_name for ordinary words that are only capitalized because they start a sentence or for
+  emphasis ("Between", "Using", "Western", "Immediately"), and for generic nouns.
 - gender (persons only): m | f | u (unknown)
 - same_as: if it is just another name for someone in KNOWN, that exact KNOWN name; otherwise ""
 - note: at most 8 words on who/what it is, from the text only
@@ -120,7 +124,7 @@ class Cascade:
                         reply.prompt_tokens, reply.completion_tokens, questions)
         return reply
 
-    def _ask(self, tier: str, batches, store, ch, warnings) -> list[Answer]:
+    def _ask(self, tier: str, batches, store, ch, warnings, *, rebuild=None) -> list[Answer]:
         answers: list[Answer] = []
         for b in batches:
             for attempt in range(2):
@@ -130,7 +134,14 @@ class Cascade:
                     answers += parse_answers(reply.content, b)
                     break
                 except ParseError as e:
-                    if attempt:
+                    if attempt == 0:
+                        continue
+                    if rebuild and len(b.questions) > 3:
+                        # a long batch confused the model: ask again in two smaller halves
+                        half = len(b.questions) // 2
+                        parts = [rebuild(b.questions[:half]), rebuild(b.questions[half:])]
+                        answers += self._ask(tier, [x for p in parts for x in p], store, ch, warnings)
+                    else:
                         warnings.append(f"{tier}: unusable answer ({e})")
                 except LLMError as e:
                     warnings.append(f"{tier}: {e}")
@@ -303,8 +314,9 @@ class Cascade:
                 p = plan(decisions, pol.accept)
                 batches = build_batches(segments, decisions, p, cast_lines=cast, story=story, title=ch["title"])
                 asked["local"] = sum(len(b.questions) for b in batches)
-                disputed = self._apply(self._ask("local", batches, store, ch, warnings), decisions, segs,
-                                       Tier.LOCAL, resolver)
+                disputed = self._apply(self._ask("local", batches, store, ch, warnings,
+                                                 rebuild=self._rebuilder(segments, decisions, cast, story, ch)),
+                                       decisions, segs, Tier.LOCAL, resolver)
             else:
                 disputed = set()
             if self.cloud:
@@ -314,7 +326,9 @@ class Cascade:
                                                        (BlockType.DIALOGUE, BlockType.THOUGHT, BlockType.ACTION)})
                 batches = build_batches(segments, decisions, p, cast_lines=cast, story=story, title=ch["title"])
                 asked["cloud"] = sum(len(b.questions) for b in batches)
-                self._apply(self._ask("cloud", batches, store, ch, warnings), decisions, segs, Tier.CLOUD, resolver)
+                self._apply(self._ask("cloud", batches, store, ch, warnings,
+                                      rebuild=self._rebuilder(segments, decisions, cast, story, ch)),
+                            decisions, segs, Tier.CLOUD, resolver)
 
             summary = self._summarize(text, store, ch, warnings)
         finally:
@@ -322,7 +336,15 @@ class Cascade:
 
         with self.memory_lock:
             for d in decisions.values():
-                if d.speaker and d.type in (BlockType.DIALOGUE, BlockType.THOUGHT):
+                if d.speaker and d.type in (BlockType.DIALOGUE, BlockType.THOUGHT, BlockType.ACTION):
+                    other = ak.lookup(d.speaker, kind=None)
+                    if other is not None and ak.ents[other]["kind"] != "character":
+                        # places and terms don't talk: send it to review instead of inventing a character
+                        d.why = f"{d.speaker} is a {ak.ents[other]['kind']}, not a character"
+                        d.speaker, d.conf = None, min(d.conf, 0.4)
+                        continue
+                    if d.type == BlockType.ACTION:
+                        continue
                     eid = ak.resolve(d.speaker, ch["idx"])
                     if eid is not None:
                         d.speaker = ak.name(eid)
@@ -335,9 +357,18 @@ class Cascade:
             summary=summary,
             review_count=review,
             tiers=dict(tiers),
-            stats={"segments": len(segments), "lines": len(relevant), "asked": asked, "new_names": new_names},
+            stats={"segments": len(segments), "lines": len(relevant), "asked": asked, "new_names": new_names,
+                   "warnings": warnings[:10]},
             warnings=warnings,
         )
+
+    @staticmethod
+    def _rebuilder(segments, decisions, cast, story, ch):
+        def rebuild(questions):
+            p = Plan(speaker=[q.seg for q in questions if q.kind == "speaker"],
+                     type=[q.seg for q in questions if q.kind == "type"])
+            return build_batches(segments, decisions, p, cast_lines=cast, story=story, title=ch["title"])
+        return rebuild
 
     @staticmethod
     def _cast_lines(ak: Akashic, decisions: dict[int, Decision], text: str) -> list[str]:

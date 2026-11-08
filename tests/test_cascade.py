@@ -179,3 +179,15 @@ def test_question_options_are_one_per_person():
     from babel.scenario.ask import dedupe_names
 
     assert dedupe_names(["Aldric", "Ilse", "Brother Aldric", "Pell", "Ilse Varga"]) == ["Brother Aldric", "Ilse Varga", "Pell"]
+
+
+def test_places_never_speak(store):
+    nid, [ch] = chapter(store, '"Welcome," Tingen said.\n\n"Thanks," Mira said.')
+    ak = Akashic(store, nid)
+    ak.create("Tingen", "location", note="a city")
+    out = Cascade().transform(store, ak, ch)
+    seg = next(s.id for s in segment_text(ch["source_text"]) if "Welcome" in s.text)
+    d = Decision.from_compact(out.decisions[seg])
+    assert d.speaker is None and d.conf < 0.6 and "location" in d.why
+    ak.reload()
+    assert ak.lookup("Tingen") is None  # no character was invented

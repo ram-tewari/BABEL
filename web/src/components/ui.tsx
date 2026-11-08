@@ -1,7 +1,7 @@
 import { useEffect, useRef, type ButtonHTMLAttributes, type ReactNode } from "react";
 import { X } from "lucide-react";
 import { cssColor, initials, titleHue } from "../lib/colors";
-import { api, type Character, type Novel } from "../lib/api";
+import { api, type Entity, type Novel } from "../lib/api";
 
 export function cx(...parts: (string | false | null | undefined)[]) {
   return parts.filter(Boolean).join(" ");
@@ -45,9 +45,19 @@ export function IconButton({ label, className, ...rest }: ButtonHTMLAttributes<H
   );
 }
 
-export function Avatar({ character, name, size = 36 }: { character?: Character | null; name?: string; size?: number }) {
+export function Avatar({ character, name, size = 36 }: { character?: Entity | null; name?: string; size?: number }) {
   const label = character?.name ?? name ?? "?";
   const color = character ? cssColor(character.color) : "var(--faint)";
+  if (character?.has_portrait) {
+    return (
+      <img
+        src={api.portraitUrl(character.id, character.name)}
+        alt=""
+        className="shrink-0 rounded-full object-cover"
+        style={{ width: size, height: size, boxShadow: `0 0 0 2px ${color}` }}
+      />
+    );
+  }
   return (
     <div
       aria-hidden
@@ -137,13 +147,21 @@ export function Modal({ open, onClose, title, children, wide }: { open: boolean;
   );
 }
 
-export function Field({ label, children, hint }: { label: string; children: ReactNode; hint?: string }) {
-  return (
-    <label className="block">
+/** A labeled form field. Use ``group`` when it holds several controls (chips, toggles) rather than one input. */
+export function Field({ label, children, hint, group }: { label: string; children: ReactNode; hint?: string; group?: boolean }) {
+  const inner = (
+    <>
       <span className="mb-1 block text-xs font-medium uppercase tracking-wide text-muted">{label}</span>
       {children}
       {hint && <span className="mt-1 block text-xs text-faint">{hint}</span>}
-    </label>
+    </>
+  );
+  return group ? (
+    <div role="group" aria-label={label} className="block">
+      {inner}
+    </div>
+  ) : (
+    <label className="block">{inner}</label>
   );
 }
 

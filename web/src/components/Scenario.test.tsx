@@ -1,11 +1,13 @@
 import { render, screen } from "@testing-library/react";
 import { Scenario } from "./Scenario";
-import type { Block, Character } from "../lib/api";
+import type { Block, Entity } from "../lib/api";
 
-const mira: Character = { id: 1, name: "Mira Vell", note: null, color: "slot:0", side: "right", lines: 3, is_pov: true, first_idx: 0 };
-const tobin: Character = { id: 2, name: "Tobin", note: null, color: "slot:1", side: "left", lines: 2, is_pov: false, first_idx: 0 };
+const base = { kind: "character" as const, note: null, gender: null, first_idx: 0, faction_id: null, has_portrait: false, aliases: [], locked: [] };
+const mira: Entity = { ...base, id: 1, name: "Mira Vell", color: "slot:0", side: "right", lines: 3, is_pov: true };
+const tobin: Entity = { ...base, id: 2, name: "Tobin", color: "slot:1", side: "left", lines: 2, is_pov: false };
 const b = (type: Block["type"], text: string, character_id: number | null = null, i = 0): Block => ({
   type, text, speaker: null, character_id, para: i, seg: [i], edited: false,
+  tone: null, conf: 0.95, tier: "rule", review: false, candidates: [], why: null,
 });
 const blocks: Block[] = [
   b("narration", "The market opened at *dusk*.", null, 0),
@@ -34,6 +36,14 @@ test("renders bubbles with names, grouping consecutive lines", () => {
 test("speech tags can be hidden", () => {
   setup(false);
   expect(screen.queryByText("Tobin said.")).not.toBeInTheDocument();
+});
+
+test("glossary terms get tooltips; shouted lines are styled", () => {
+  const glossary = [{ entity_id: 9, kind: "location" as const, name: "Lantern Market", note: "night bazaar", terms: ["market"] }];
+  const blocks2: Block[] = [{ ...b("dialogue", "RUN!", 2, 0), tone: "shout" }];
+  render(<Scenario blocks={[...blocks, ...blocks2]} characters={chars} glossary={glossary} showTags showAvatars editing={false} onEdit={() => {}} onCharacter={() => {}} />);
+  expect(screen.getByRole("tooltip", { hidden: true })).toHaveTextContent("night bazaar");
+  expect(screen.getByText("shouts")).toBeInTheDocument();
 });
 
 test("text is never interpreted as HTML", () => {

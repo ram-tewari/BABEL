@@ -149,7 +149,8 @@ class Akashic:
         out = []
         for eid in self.mentioned_in(text, kind=None):
             e = self.ents[eid]
-            if e["kind"] == "character" and not e.get("note"):
+            # characters have avatars to click; only notes *you* wrote earn them an inline tooltip
+            if not e.get("note") or (e["kind"] == "character" and "note" not in e["locked"]):
                 continue
             terms = [a for a in self.alias_text.get(eid, []) if len(a) >= 3 and re.search(
                 rf"(?<!\w){re.escape(a)}(?!\w)", text, re.I)]

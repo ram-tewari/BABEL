@@ -66,6 +66,10 @@ class Resolver:
         eid = self.ak.lookup(name)
         return self.ak.name(eid) if eid is not None else name
 
+    def _is_character(self, name: str) -> bool:
+        eid = self.ak.lookup(name, kind=None)
+        return eid is not None and self.ak.ents[eid]["kind"] == "character"
+
     def gender(self, name: str | None) -> str | None:
         eid = self.ak.lookup(name) if name else None
         g = self.ak.gender(eid)
@@ -105,7 +109,8 @@ class Resolver:
             if any(s.kind == SegmentKind.BREAK for s in info.segs):
                 scene = self._new_scene()
                 continue
-            for n in info.names:
+            # only people count as "present": known characters and whoever acts in a sentence
+            for n in info.actors + [x for x in info.names if self._is_character(x)]:
                 scene.see(self.canon(n), info.idx)
 
             words = sum(len(s.text.split()) for s in info.segs if s.kind == SegmentKind.PROSE)
@@ -125,6 +130,8 @@ class Resolver:
 
             pool = [n for n in reversed(scene.convo) if n != "?"] + scene.recent()
             add(info.tag_name, 0.97, "speech tag")
+            if not info.tag_name and info.tag_desc:
+                add(info.tag_desc, 0.88, "descriptive speech tag")
             pron = self._by_pronoun(info.tag_pronoun, pool)
             add(pron, 0.86 if info.tag_pronoun != "i" else 0.93, f"'{info.tag_pronoun}' + gender/POV")
             add(info.subject, 0.86, "action beat before the line")
@@ -135,7 +142,8 @@ class Resolver:
             if scene.open_speech and starts_with_quote and scene.last_speaker:
                 add(scene.last_speaker, 0.9, "speech continues from the previous paragraph")
             for n in info.names:
-                add(n, 0.55, "named in this paragraph")
+                if self._is_character(n) or n in info.actors:
+                    add(n, 0.55, "named in this paragraph")
 
             addressee = None
             for q in info.quotes:
@@ -202,11 +210,11 @@ class Resolver:
         if ranked:
             name, (score, why) = ranked[0]
             # two strong but different explanations → less sure
-            if len(ranked) > 1 and ranked[1][1][0] >= score - 0.05 and why != "speech tag":
+            if len(ranked) > 1 and ranked[1][1][0] >= score - 0.05 and why not in ("speech tag", "descriptive speech tag"):
                 score -= 0.15
             d.speaker, d.why = name, why
             d.conf = min(d.conf, score)
-            d.tier = Tier.RULE if why in ("speech tag", "action beat before the line") else Tier.MEMORY
+            d.tier = Tier.RULE if why in ("speech tag", "descriptive speech tag", "action beat before the line") else Tier.MEMORY
         else:
             d.speaker, d.conf, d.why, d.tier = None, 0.2, "no evidence", Tier.MEMORY
         d.candidates = cands

@@ -2,116 +2,156 @@
 
 **Read webnovels as chat-style visual scenarios.**
 
-BABEL imports a novel (EPUB or TXT) and turns every chapter into a *visual scenario*: dialogue becomes colored chat bubbles attributed to the right character, inner thoughts get their own style, game-system windows look like system windows, sound effects pop, and the prose stays as clean narration in between. It's built for very long webnovels (thousands of chapters), runs on your own machine, and works on free LLM tiers or fully offline.
+BABEL imports a novel (EPUB or TXT) and turns every chapter into a *visual scenario*: dialogue becomes chat bubbles attributed to the right character, inner thoughts get their own style, action beats sit in the actor's lane like stage directions, game-system windows look like system windows, sound effects pop, and narration stays as clean prose. It is built for very long webnovels (thousands of chapters), runs on your own machine, and costs close to nothing.
+
+## How it decides who says what
+
+Most "LLM reformats a book" tools ask a big model to rewrite every chapter. That is slow, expensive, and can drop or invent lines. BABEL never lets a model touch the text. It turns each chapter into a **standardized JSON of decisions** and sends a model only the decisions it couldn't settle on its own, as **small multiple-choice questions**:
 
 ```
- EPUB / TXT ──▶ chapters ──▶ segments ──▶ labels (LLM or offline) ──▶ reader · EPUB · HTML
-                               │               ▲
-                               └── codex ──────┘   characters, aliases, story-so-far
+chapter ─▶ segments ─▶ ① rules ─▶ ② memory ─▶ ③ local model ─▶ ④ cloud model ─▶ ⑤ you
+             (exact text)  speech tags    Akashic Record    only uncertain     only still-uncertain   review queue
+                           action beats   scene state       lines (free)       or disputed lines
+                           tone, SFX      gender, aliases
 ```
 
-## What's different about BABEL 2
+1. **Rules.** Each chapter is split deterministically into quotes, *italics* (kept from the EPUB, including CSS-class italics), `[system]` brackets, scene breaks and prose. Speech tags ("Tobin said", "the fortune-teller said"), action beats, tone verbs and sound words are recognized. Every decision gets a confidence score and a ranked candidate list.
+2. **Memory (the Akashic Record).** A per-novel memory of characters, places, factions and terms, with aliases, gender, notes and portraits. A scene tracker adds turn-taking, who is present, who is being addressed ("Tobin, look!" isn't Tobin speaking), who was just asked a question, run-on speech, newcomers and first-person narrators.
+3. **Local model** (Ollama, free). Only lines below the confidence bar are sent, as multiple choice: `Who says ⟦Q3⟧ "Not yet."? A) Tobin B) Mira Vell C) someone else`. A JSON-schema grammar forces exactly one letter per question, so a batch of twenty answers costs about 60 output tokens. It overrides weak heuristics but not strong textual evidence.
+4. **Cloud model** (optional, any OpenAI-compatible API). Only lines that are still uncertain, or where the local model disagreed with the rules, go here.
+5. **You.** Whatever is still below the bar lands in the **Review** queue. One click fixes or confirms a line. Corrections survive re-transforms and export as gold data.
 
-Most "LLM reformats a book" pipelines ask the model to rewrite each chapter. That drops or invents lines, truncates long chapters, and burns tokens. BABEL doesn't let the model touch the text:
+New names are classified (person, place, faction, term, or not a name, plus gender and "same as someone known?") *before* speakers are resolved, so pronoun reasoning has the facts it needs. A summary of each chapter becomes "story so far" context for the next.
 
-1. **Deterministic segmentation.** Each chapter is split into numbered segments by surface form: quoted speech, *italics* (kept from the EPUB, including CSS-class italics), `[bracketed]` system text, scene breaks and prose.
-2. **The LLM only labels.** For each segment it returns a type (`dialogue`, `thought`, `system`, `sfx`, `tag`, `narration`) and a speaker. Plain narration is omitted from the reply, so output is roughly 10× smaller than a rewrite. The text you read is always exactly the source text.
-3. **Story memory (the "Akashic Record").** A per-novel codex tracks every character with their aliases ("Klein" = "Klein Moretti" = "The Fool"). Each request gets the relevant cast plus summaries of the previous chapters, so attribution stays consistent across thousands of chapters.
-4. **Corrections are first-class.** Fix any line's type or speaker in the reader. Fixes are stored as an override layer, so they survive re-transforms and can be exported as JSONL for evaluation or fine-tuning. Renaming or merging a character applies to every chapter instantly, because speakers are resolved through the alias table at read time.
-5. **Offline fallback.** A rule-based labeler (speech tags, sentence subjects, turn-taking, italics, sound words) works with zero API keys. It is also used for any chunk where the LLM fails, so a chapter never comes back empty.
+### Measured
+
+On the bundled gold-labeled chapters (`babel eval`, original text written for the test set: untagged three-way arguments, pronouns, LitRPG system windows, first-person narration):
+
+| Tiers | Speaker accuracy | Type accuracy | Cloud tokens per chapter |
+|---|---|---|---|
+| rules + memory only | 86% | 100% | 0 |
+| + local model (qwen3:8b) | 95–96% | 100% | 0 |
+| full cascade (local + cloud)¹ | 96.5% | 100% | ~430 |
+| cloud only, no local model¹ | 95% | 100% | ~1,700 |
+
+¹ Measured with the same 8B model standing in for the cloud tier, so these are a lower bound; a 70B-class cloud model should do better on the hard lines.
+
+On real chapters of a published webnovel, the local tier runs at about 23 s per chapter on an Apple M-series laptop, and about 2 lines per 8 chapters end up in the review queue.
 
 ## Quick start
 
-Requires Python 3.11+ and Node 20+.
+Requires Python 3.11+ and Node 20+. Ollama is recommended (free, local).
 
 ```bash
 git clone https://github.com/ram-tewari/BABEL && cd BABEL
-python -m venv .venv && source .venv/bin/activate    # Windows: .venv\Scripts\activate
+python -m venv .venv && source .venv/bin/activate     # Windows: .venv\Scripts\activate
 pip install -e .
-npm --prefix web ci && npm --prefix web run build     # builds the reader UI
+npm --prefix web ci && npm --prefix web run build
 
-cp .env.example .env    # optional: add an API key (see below)
-babel serve             # → http://127.0.0.1:8000
+# optional but recommended: the free local tier
+ollama pull qwen3:8b            # any instruct model works; qwen3:8b is the default pick
+
+cp .env.example .env            # optional: add a cloud key for the hardest lines
+babel serve                     # → http://127.0.0.1:8000
 ```
 
-Drop an EPUB onto the page, press **Transform all**, and start reading. Chapters you open before they're transformed show an instant offline preview.
+Drop an EPUB on the page and press **Transform all**. Chapters you open before they're transformed show an instant rules + memory preview.
 
-## LLM providers
+## Models
 
-Add any of these to `.env`. Every key variable accepts a comma-separated list, and keys rotate automatically when one is rate-limited. If you configure several providers, they form a fallback chain.
+| Tier | How to enable | Cost |
+|---|---|---|
+| Local | Run Ollama with any model pulled. Auto-detected; pick one with `BABEL_LOCAL_MODEL`, disable with `BABEL_LOCAL=off`. | free |
+| Cloud | Any of `NVIDIA_API_KEYS`, `GROQ_API_KEYS`, `GEMINI_API_KEYS`, `OPENROUTER_API_KEYS`, `OPENAI_API_KEYS`, or `BABEL_CUSTOM_BASE_URL` (LM Studio, vLLM, …). Several form a fallback chain. Comma-separated keys rotate on rate limits. | free tiers go a long way |
 
-| Provider | Variable | Default model | Notes |
-|---|---|---|---|
-| NVIDIA NIM | `NVIDIA_API_KEYS` | `qwen/qwen3-235b-a22b` | free, 40 RPM/key |
-| Groq | `GROQ_API_KEYS` | `llama-3.3-70b-versatile` | free tier, very fast |
-| Google Gemini | `GEMINI_API_KEYS` | `gemini-2.5-flash` | free tier |
-| OpenRouter | `OPENROUTER_API_KEYS` | `meta-llama/llama-3.3-70b-instruct:free` | `:free` models |
-| OpenAI | `OPENAI_API_KEYS` | `gpt-4.1-mini` | paid |
-| Ollama | auto-detected | `qwen2.5:7b` (`OLLAMA_MODEL`) | fully local |
-| Any OpenAI-compatible server | `BABEL_CUSTOM_BASE_URL` | `BABEL_CUSTOM_MODEL` | LM Studio, vLLM, llama.cpp |
+Reasoning models (Qwen3, R1-style) are asked to answer directly (`reasoning_effort: none` / `/no_think`, with automatic fallback). Check your setup with `babel providers --test`.
 
-Override models with `BABEL_<PROVIDER>_MODEL`, set the chain order with `BABEL_PROVIDERS=groq,nvidia`, or force offline mode with `BABEL_PROVIDERS=none`. Check your setup with `babel providers --test`.
+## The reader
+
+- **Library:** cover grid, transform progress, continue reading, drag-and-drop import.
+- **Reader:** chat bubbles with the point-of-view character on the right, grouped lines, portraits, tone styling (shouts, whispers), action beats, system windows, sound effects, glossary tooltips for places, factions and terms, and bi-directional infinite scroll with the URL following along. Ctrl+B opens a chapter sidebar with read marks; Ctrl+K jumps to any chapter, character or action; ← → change chapter. Themes: dark, light, sepia and system. You can also toggle to the original text.
+- **Correction mode (`e`):** uncertain lines are marked. Click one to see who decided it and why, pick a suggested speaker, set the tone, or confirm it.
+- **Novel page:**
+  - Chapters: filters for unread, review, failed and so on, plus full-text search.
+  - Cast: rename, recolor, set chat side, gender, protagonist, portrait, faction, aliases, or merge duplicates (e.g. a transmigrator's two names).
+  - Glossary: places, factions and terms, with YAML import/export.
+  - Review: queue plus corrections log.
+  - Graph: who talks to whom.
+  - Export: EPUB, single HTML, Visual Scenario JSON, corrections JSONL.
+  - Settings: metadata search via Open Library or Google Books (RoyalRoad and NovelUpdates are tried but usually block bots), cover upload, append new chapters of an ongoing novel, delete.
+- Transform jobs show tier choice and a cost estimate, run several novels in parallel, and can be paused, resumed or stopped. Restarts resume where they left off.
 
 ## CLI
 
 ```bash
-babel import novel.epub              # add to the library (prints the novel id)
-babel list                           # library overview
-babel transform 1                    # transform everything not yet done (resumable; Ctrl-C pauses)
-babel transform 1 --first 0 --last 99 --force --mode llm
-babel cast 1                         # the character codex
-babel export 1 -f epub -o out.epub   # e-reader edition of the scenario (also: -f html)
-babel preview novel.epub --chapter 3 # see the offline labeling of one chapter, no import
-babel serve                          # web UI + API + background worker
+babel run novel.epub --epub           # import + transform everything + write an EPUB
+babel import novel.txt --chapter-pattern '^=== .* ===$'
+babel novels list | show | update | delete
+babel chapters 1 --status failed
+babel transform 1 --first 10 --last 50 --tiers auto|rules|local|cloud [--force]
+babel status 1                        # progress, who decided the lines, tokens spent, review count
+babel estimate 1                      # cost/time for what's left
+babel review 1                        # least-certain lines
+babel cast 1
+babel glossary export 1 -o glossary.yaml | import 1 glossary.yaml | validate glossary.yaml | sync 1 glossary.yaml | test 1 "text"
+babel metadata 1 --apply
+babel export 1 -f epub|html|json
+babel eval --tiers local -v           # quality + cost on gold chapters
+babel providers --test
+babel db info | check | vacuum
+babel serve
 ```
 
-`--mode` is `auto` (LLM, falling back per chunk), `llm` (strict: failures are marked failed) or `heuristic` (offline).
+## Glossary YAML
 
-## The reader
+```yaml
+characters:
+  Klein Moretti:
+    aliases: [Klein, Zhou Mingrui, The Fool]
+    gender: m
+    faction: Tarot Club
+    description: Transmigrator; history graduate in Tingen.
+    color: "#e8b86b"
+    pov: true
+factions:
+  Tarot Club: {color: "#a855f7", description: Secret gathering above the gray fog.}
+locations:
+  Tingen: {description: A city in the Loen Kingdom.}
+terms:
+  Beyonder: {description: Someone who has drunk a potion and gained powers.}
+```
 
-- **Library:** cover grid, transform progress, continue-reading shortcuts, drag-and-drop import.
-- **Novel page:** start, pause, resume or stop transform jobs over any chapter range; filter chapters by status; full-text search across the book; export; add newly released chapters from a newer file (only new chapters are appended).
-- **Reader:** chat bubbles with the point-of-view character on the right, grouped consecutive lines, speech tags as captions, system windows, sound effects and scene breaks. Dark, light, sepia and system themes; adjustable size and width; ← → to change chapter; toggle to the original text.
-- **Cast:** rename, recolor, choose the chat side, set the protagonist, add or remove aliases, merge duplicates ("Old Neil" into "Neil").
-- **Correction mode** (`e`): click any line to fix its type or speaker.
+Imported fields count as yours: models never overwrite them. `babel glossary sync` writes what BABEL learned back into your file without touching your comments.
 
 ## Architecture
 
 ```
 babel/
-  ingest/       EPUB (spine, TOC titles, CSS italics, bundled chapters, cover) and TXT (heading detection) → chapters
-  transform/    segment.py → heuristic.py / llm_labeler.py → engine.py → assemble.py (blocks for display)
-  memory/       codex.py: characters, aliases, partial-name resolution, cast context, line counts
-  llm/          one OpenAI-compatible client for every provider; per-key RPM, rotation, failover
-  pipeline/     resumable, pausable jobs; one worker thread, N chapters in flight
-  store/        SQLite: novels, chapter text + labels, overrides, characters, aliases, jobs, progress
-  export/       EPUB and single-file HTML
-  api/          FastAPI app; also serves the built web UI
-web/            React 19 + Vite + Tailwind 4 + TanStack Query
+  ingest/      EPUB (spine, TOC titles, CSS italics, bundled chapters, cover) · TXT (heading detection, custom regex)
+  scenario/    segment → convert (rules) → resolve (memory) → ask (multiple choice) → cascade → assemble
+  memory/      akashic.py (entities, aliases, gender, locking) · glossary.py (YAML)
+  llm/         LocalModel (Ollama native, JSON-schema grammars) · Provider/Router (OpenAI-compatible chain)
+  pipeline/    resumable jobs, several novels at once
+  store/       SQLite: chapters + decision documents, overrides, entities, aliases, usage ledger, reads
+  meta/        Open Library / Google Books / RoyalRoad / NovelUpdates
+  export/      EPUB, HTML · api/ FastAPI (+ serves the web UI) · evals/ gold chapters + runner
+web/           React 19 · Vite · Tailwind 4 · TanStack Query
 ```
 
-All data lives in one SQLite file (`data/babel.db`, configurable via `BABEL_DATA_DIR`). Chapters store their source text and segment labels, never rendered output, so the display can evolve without re-running the LLM.
+A chapter stores its source text and one decision per segment (type, speaker, tone, confidence, tier, candidates, reason), never rendered output. Speakers resolve through the alias table at read time, so renames and merges apply to all chapters instantly.
 
 ## Development
 
 ```bash
-pip install -e ".[dev]"
-pytest                          # backend tests, LLM traffic simulated over the OpenAI protocol
-ruff check babel tests
-npm --prefix web run dev        # UI on :5173 with /api proxied to :8000 (run `babel serve` too)
-npm --prefix web test           # unit tests
-npm --prefix web exec playwright test   # browser end-to-end: import → transform → read → correct
+pip install -e ".[dev]" && pytest && ruff check babel tests
+npm --prefix web run dev            # UI on :5173, proxying /api to :8000
+npm --prefix web test               # unit tests
+npm --prefix web exec playwright test   # browser end-to-end
+babel eval --tiers rules            # quick quality check, no models needed
 ```
 
-## Roadmap
-
-- Character portraits from an image model, slotted into the existing avatar component
-- A labeling-quality benchmark built from exported corrections, to compare models and prompts
-- Few-shot prompting from a novel's own corrections
-- Batch APIs (Gemini/OpenAI) for very large backlogs at half the cost
+Add gold chapters to `babel/evals/gold/` (`name.txt` + `name.gold.json`) to measure your own changes.
 
 ## Legal
 
-BABEL is a reading tool for books you own. Don't commit or redistribute copyrighted novels. `data/` and root-level book files are git-ignored for that reason.
-
-MIT License.
+BABEL is a reading tool for books you own. Don't commit or redistribute copyrighted novels; `data/` and root-level book files are git-ignored for that reason. MIT License.

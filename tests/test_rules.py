@@ -104,3 +104,12 @@ def test_continued_speech_across_paragraphs(store):
 def test_inline_quotes_and_italics_stay_prose(store):
     _, _, blocks = run(store, 'He called it a "genius" move and was *very* tired.')
     assert [b.type for b in blocks] == [BlockType.NARRATION]
+
+
+def test_descriptive_tags():
+    from babel.scenario.convert import tag_description
+
+    assert tag_description("the circus fortune-teller said in a muted voice") == "Circus fortune-teller"
+    assert tag_description("said the old guard") == "Old guard"
+    assert tag_description("then curled her lips to reveal a smile and said,") is None
+    assert tag_description("the voice said") is None

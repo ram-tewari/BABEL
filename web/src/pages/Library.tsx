@@ -18,7 +18,7 @@ export function Library() {
     refetchInterval: (q) => (q.state.data?.some((n) => isActive(n.job)) ? 3000 : false),
   });
   const importer = useMutation({
-    mutationFn: api.importNovel,
+    mutationFn: (f: File) => api.importNovel(f),
     onSuccess: (r) => {
       qc.invalidateQueries({ queryKey: ["novels"] });
       navigate(`/novel/${r.id}`);
