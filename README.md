@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://repository-images.githubusercontent.com/1155135418/20614402-ef0b-458c-ae71-4bc56e8e2425" alt="BABEL — from written worlds to living scenes" width="800">
+</p>
+
 # BABEL
 
 **Transform raw webnovels into Visual Scenario format - completely free**
