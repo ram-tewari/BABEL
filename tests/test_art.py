@@ -467,3 +467,37 @@ def test_under_pressure_checks_wait_for_drawing_to_finish(novel, tmp_path):
     level["v"] = 2  # now memory gets short: the check runs only after releasing the image model
     sch.step()
     assert not sch.fake.running
+
+
+def test_restyle_keeps_the_old_look_on_stage_until_a_new_one_is_chosen(novel, scheduler):
+    from babel.vn.stage import _sheet
+
+    store, eid = novel.store, novel.ids["Klein"]
+    draft_profile(store, novel.ak, eid, StubLLM())
+    designs.queue_candidates(store, novel.ak, eid)
+    drain(scheduler)
+    designs.approve_candidate(store, designs.design_view(store, novel.ak, eid)["candidates"][0]["id"])
+    drain(scheduler)
+    old = _sheet(store, eid)
+    assert set(old) == set(EMOTIONS)
+
+    assert designs.restyle(store, novel.ak, eid)
+    d = designs.get_design(store, eid)
+    assert d["status"] == "candidates" and d["base_image_id"]
+    assert _sheet(store, eid) == old  # still on stage
+    assert "Klein" not in sum((b["missing"] for b in plan.readiness(store, novel.ak)["blocked"]), [])
+    queued = store.q("SELECT manual FROM art_images WHERE design_id=? AND status='queued'", (d["id"],))
+    assert queued and not any(r["manual"] for r in queued)  # automatic: it waits until you're idle
+
+    store.x("UPDATE art_images SET manual=1 WHERE design_id=? AND status='queued'", (d["id"],))
+    drain(scheduler)
+    v = designs.design_view(store, novel.ak, eid)
+    assert v["status"] == "choose" and _sheet(store, eid) == old
+    designs.approve_candidate(store, v["candidates"][0]["id"])
+    new = _sheet(store, eid)
+    assert set(new) == {"neutral"} and new["neutral"] != old["neutral"]  # the new look takes over
+
+
+def test_house_style_is_anime():
+    prompt, _ = base_prompt({"hair": {"value": "black"}, "tags": ["black hair"]}, "m", {"style": "manhwa"})
+    assert "anime" in prompt and "semi-realistic" not in prompt

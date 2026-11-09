@@ -223,6 +223,42 @@ def art_router(store: Store, scheduler: ArtScheduler, llm_factory: Callable[[], 
         scheduler.poke()
         return {"queued": queued, "era": era}
 
+    @r.post("/novels/{nid}/art/restyle")
+    def restyle(nid: int, backgrounds: bool = False) -> dict:
+        """Redraw this novel's characters (and the shared faces it uses) in the current house style.
+
+        Automatic work: it paints when you're idle (and plugged in, by default). Everyone keeps their current
+        art on stage until the new one is chosen — you pick main characters' new looks; library faces are
+        picked by the checker. ``backgrounds`` also repaints the sets."""
+        import json as _json
+
+        from babel.vn.library import era_key, library_novel_id
+
+        novel_or_404(nid)
+        lib_id = library_novel_id(store)
+        era = designs.art_settings(store, nid).get("era") or "timeless"
+        used = {r["extra_id"] for r in store.q("SELECT extra_id FROM entities WHERE novel_id=? AND extra_id IS NOT NULL",
+                                               (nid,))}
+        rows = store.q("SELECT d.*, e.novel_id FROM designs d JOIN entities e ON e.id=d.entity_id"
+                       " WHERE (e.novel_id=? OR e.novel_id=?) AND d.status != 'new' ORDER BY e.novel_id=?, d.id",
+                       (nid, lib_id, lib_id))
+        aks = {nid: Akashic(store, nid), lib_id: Akashic(store, lib_id)}
+        out = {"characters": 0, "extras": 0, "backgrounds": 0}
+        for d in rows:
+            kind = d.get("kind") or "character"
+            if d["novel_id"] == lib_id and kind == "extra" and d["entity_id"] not in used:
+                continue  # shared faces other novels use are theirs to redraw
+            if kind == "background":
+                spec = _json.loads(d["spec"]) if d.get("spec") else {}
+                if not backgrounds or (d["novel_id"] == lib_id and era_key(spec.get("era")) != era_key(era)):
+                    continue
+                if designs.restyle(store, aks[d["novel_id"]], d["entity_id"]):
+                    out["backgrounds"] += 1
+            elif designs.restyle(store, aks[d["novel_id"]], d["entity_id"]):
+                out["characters" if kind == "character" else "extras"] += 1
+        scheduler.poke()
+        return out
+
     @r.post("/library/{eid}/redraw")
     def redraw_library(eid: int) -> dict:
         """Draw a shared face or background again (you didn't like it)."""

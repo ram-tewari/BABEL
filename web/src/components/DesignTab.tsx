@@ -282,6 +282,7 @@ function LibraryPanel({ novelId }: { novelId: number }) {
   const lib = useQuery({ queryKey: ["library", novelId], queryFn: () => api.library(novelId), refetchInterval: 20_000 });
   const redraw = useMutation({ mutationFn: api.redrawLibrary, onSuccess: () => qc.invalidateQueries({ queryKey: ["library", novelId] }) });
   const defaults = useMutation({ mutationFn: () => api.paintDefaults(novelId), onSuccess: () => qc.invalidateQueries({ queryKey: ["library", novelId] }) });
+  const restyle = useMutation({ mutationFn: () => api.restyle(novelId, true), onSuccess: () => qc.invalidateQueries() });
   const items = lib.data?.items ?? [];
   const groups = [
     { kind: "background", title: "Backgrounds" },
@@ -296,7 +297,16 @@ function LibraryPanel({ novelId }: { novelId: number }) {
         <button className="btn-ghost !min-h-[32px] !px-3 !text-[12px]" onClick={() => defaults.mutate()} disabled={defaults.isPending} title="Street, room, pub, office, church, parlour, forest and mist for this novel's era">
           {defaults.isPending ? <Spinner size={12} /> : <Images size={12} />} Paint the default sets
         </button>
+        <button
+          className="btn-ghost !min-h-[32px] !px-3 !text-[12px]"
+          onClick={() => window.confirm("Redraw every character, shared face and set in the current anime style? Everyone keeps their current look on stage until the new one is chosen. It paints while you're idle.") && restyle.mutate()}
+          disabled={restyle.isPending}
+          title="Redraw everything in the current house style (anime / manhwa)"
+        >
+          {restyle.isPending ? <Spinner size={12} /> : <Images size={12} />} Redraw all in the current style
+        </button>
       </div>
+      {restyle.data && <p className="text-xs text-muted">Queued: {restyle.data.characters} characters, {restyle.data.extras} shared faces, {restyle.data.backgrounds} sets. Pick each main character's new look below when the options are ready.</p>}
       <p className="text-xs text-faint">
         Minor characters get a consistent face matched to their role, and places get a background (named places from how the book describes them). They're drawn just ahead of where you're reading, checked automatically, and shared with other novels in the same era. Until a set is painted, scenes use a built-in painted backdrop.
       </p>

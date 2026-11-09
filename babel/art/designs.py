@@ -190,6 +190,29 @@ def reset(store: Store, eid: int, *, keep_profile: bool = True) -> None:
             base_image_id=None, message=None)
 
 
+def restyle(store: Store, ak: Akashic, eid: int) -> bool:
+    """Draw a design again in the current house style (automatic work: it runs when you're idle).
+
+    The approved sheet stays on stage until a new option is chosen (by you, or by the checker for library
+    faces); only stale unchosen options and queued old-style work are dropped."""
+    d = get_design(store, eid)
+    kind = (d or {}).get("kind") or "character"
+    if d is None or (kind != "background" and not d.get("profile")):
+        return False
+    with store.tx() as c:
+        c.execute("UPDATE art_images SET status='rejected' WHERE design_id=? AND status='queued'", (d["id"],))
+        c.execute("UPDATE art_images SET status='rejected' WHERE design_id=? AND kind='candidate'"
+                  " AND status IN ('done','failed') AND id IS NOT ?", (d["id"], d.get("base_image_id")))
+    queue_candidates(store, ak, eid, manual=False)
+    return True
+
+
+def showable(d: dict | None) -> bool:
+    """Has a sheet the stage can use: approved, being finished, or approved before and now being redrawn."""
+    return bool(d) and (d["status"] in ("approved", "sheet")
+                        or (d["status"] in ("candidates", "choose", "failed") and d.get("base_image_id") is not None))
+
+
 def after_image(store: Store, design_id: int) -> None:
     """Advance a design once its queued images are finished."""
     d = store.one("SELECT * FROM designs WHERE id=?", (design_id,))

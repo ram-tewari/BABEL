@@ -142,7 +142,7 @@ def prepare(store: Store, ak: Akashic, chapter_id: int, *, manual: bool, llm=Non
 # ── what the reader gets ───────────────────────────────────────────────────
 def _sheet(store: Store, design_entity: int) -> dict[str, int]:
     d = designs.get_design(store, design_entity)
-    if not d or d["status"] not in ("approved", "sheet"):
+    if not designs.showable(d):
         return {}
     rows = store.q("SELECT id, emotion FROM art_images WHERE design_id=? AND kind='expression' AND status='done'"
                    " ORDER BY id", (d["id"],))
@@ -157,7 +157,7 @@ def _sprite_url(sheet: dict[str, int], emotion: str) -> str | None:
 
 def _background_url(store: Store, design_entity: int) -> str | None:
     d = designs.get_design(store, design_entity)
-    if d and d["status"] == "approved" and d.get("base_image_id"):
+    if designs.showable(d) and d.get("base_image_id"):  # a set being repainted keeps its old art meanwhile
         return f"/api/art/images/{d['base_image_id']}"
     return None
 
@@ -214,6 +214,9 @@ def stage_view(store: Store, ak: Akashic, chapter_id: int) -> dict:
         "cast": {str(eid): {"name": (characters.get(eid) or {}).get("name") or ak.name(eid),
                             "color": (characters.get(eid) or {}).get("color"),
                             "side": (characters.get(eid) or {}).get("side", "left"),
-                            "extra": a["kind"] == "extra", "has_art": bool(sheets.get(eid))}
+                            "extra": a["kind"] == "extra", "has_art": bool(sheets.get(eid)),
+                            # other names the book uses (the player colours them too)
+                            "aliases": [n for n in dict.fromkeys(ak.alias_text.get(eid, []))
+                                        if len(n) > 2 and n[:1].isupper()][:12]}
                  for eid, a in cast.items()},
     }

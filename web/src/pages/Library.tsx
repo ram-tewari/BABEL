@@ -6,7 +6,7 @@ import { api, isActive, type Novel } from "../lib/api";
 import { Cover, ErrorNote, Spinner, cx } from "../components/ui";
 import { HudBar, Proscenium, useThemeArt } from "../components/Theatre";
 import { PaintedSet } from "../vn/PaintedSet";
-import { Petals } from "../vn/Effects";
+import { Motes } from "../vn/Effects";
 import { reducedMotion } from "../vn/settings";
 
 export function Library() {
@@ -112,19 +112,19 @@ export function Library() {
 function Hero({ current, onImport, empty }: { current?: Novel; onImport: () => void; empty: boolean }) {
   const art = useThemeArt();
   const stage = art.url("stage.webp");
-  const [open, setOpen] = useState(0);
+  const [open, setOpen] = useState(false);
   const motion = !reducedMotion();
   useEffect(() => {
-    const t = setTimeout(() => setOpen(0.86), motion ? 350 : 0);
+    const t = setTimeout(() => setOpen(true), motion ? 350 : 0);
     return () => clearTimeout(t);
   }, [motion]);
   return (
     <section className="relative">
-      <Proscenium open={open} className="h-[min(78vh,760px)] w-full" duration={1600}>
+      <Proscenium open={open} className="h-[min(78vh,760px)] w-full" duration={1800}>
         <div className="absolute inset-0">
           {stage ? <img src={stage} alt="" className="h-full w-full object-cover [image-rendering:pixelated]" /> : <PaintedSet category="street" night />}
           <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_50%_35%,transparent_25%,#05070bdd_90%)]" />
-          <Petals on={motion} count={10} />
+          <Motes on={motion} count={22} />
         </div>
         <div className="absolute inset-0 z-[25] flex items-center justify-center px-6 text-center">
           <div style={{ animation: motion ? "fadein 1.2s .9s var(--ease-out) both" : undefined }}>

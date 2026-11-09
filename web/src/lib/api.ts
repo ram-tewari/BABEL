@@ -332,7 +332,7 @@ export interface StageView {
   refined: boolean;
   scenes: { start: number; end: number; place: string; night: boolean; background: string | null; weather: string | null; indoor: boolean; category: string }[];
   blocks: StageBlock[];
-  cast: Record<string, { name: string; color: string | null; side: "left" | "right"; extra: boolean; has_art: boolean }>;
+  cast: Record<string, { name: string; color: string | null; side: "left" | "right"; extra: boolean; has_art: boolean; aliases?: string[] }>;
   queued?: number;
 }
 
@@ -434,6 +434,7 @@ export const api = {
       `/novels/${novelId}/library`,
     ),
   redrawLibrary: (entityId: number) => req<{ ok: true }>(`/library/${entityId}/redraw`, json("POST")),
+  restyle: (novelId: number, backgrounds = false) => req<{ characters: number; extras: number; backgrounds: number }>(`/novels/${novelId}/art/restyle?backgrounds=${backgrounds}`, json("POST")),
   paintDefaults: (novelId: number) => req<{ queued: number; era: string }>(`/novels/${novelId}/library/defaults`, json("POST")),
   prepareStage: (chapterId: number) => req<StageView>(`/chapters/${chapterId}/stage/prepare`, json("POST")),
   play: (novelId: number) =>

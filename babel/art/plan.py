@@ -72,6 +72,8 @@ def characters(store: Store, ak: Akashic) -> list[dict]:
             "tier": tier_of(st.get("lines") or 0, st.get("chapters") or 0, e.get("art_tier"), e["name"]),
             "tier_locked": e.get("art_tier") in TIERS,
             "design_id": d["id"] if d else None, "status": d["status"] if d else "new",
+            "has_art": bool(d) and (d["status"] == "approved" or (d.get("base_image_id") is not None
+                                                                    and d["status"] != "new")),
             "message": d.get("message") if d else None,
         })
     out.sort(key=lambda c: (c["first_idx"] if c["first_idx"] is not None else 1 << 30, -c["lines"], c["id"]))
@@ -92,7 +94,7 @@ def readiness(store: Store, ak: Akashic, limit: int = 5) -> dict:
     for r in rows:
         ch = chapters.setdefault(r["id"], {"id": r["id"], "idx": r["idx"], "done": r["status"] == "done", "missing": []})
         c = chars.get(r["entity_id"]) if r["entity_id"] is not None else None
-        if c and c["tier"] in REQUIRED and c["status"] != "approved" and c["name"] not in ch["missing"]:
+        if c and c["tier"] in REQUIRED and not c["has_art"] and c["name"] not in ch["missing"]:
             ch["missing"].append(c["name"])
     ordered = sorted(chapters.values(), key=lambda c: c["idx"])
     ready_ids = [c["id"] for c in ordered if c["done"] and not c["missing"]]

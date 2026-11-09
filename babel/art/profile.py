@@ -34,13 +34,18 @@ EMOTIONS: dict[str, str] = {
     "serious": "a serious, cold expression: level gaze, firm mouth, no smile",
 }
 
+# The house style: modern manhwa / anime key art. (Measured on Anima Turbo with LOTM's cast: the older
+# "semi-realistic webtoon" wording came out as flat vector posters; this reads as anime every seed.)
+STYLE_VERSION = 2
 STYLES = {
-    "manhwa": ("Korean manhwa webtoon illustration, full color digital art, clean crisp lineart, cel shading with "
-               "soft gradients, expressive detailed eyes, semi-realistic proportions"),
+    "manhwa": ("A polished modern manhwa and anime character illustration, like a popular webtoon's cover art: "
+               "attractive stylised anime face, large detailed eyes with highlights, soft cel shading with rim light, "
+               "glossy hair strands, clean thin lineart, vibrant colours"),
 }
-STYLE_TAGS = {"manhwa": "manhwa, webtoon, korean comic style"}
-BG_STYLES = {"manhwa": ("Korean manhwa webtoon background art, full color digital painting, clean lineart, "
-                        "cel shading with soft gradients, atmospheric lighting")}
+# no "manhwa" tag: on Anima it pulls toward semi-realism (measured); the sentence below carries the look
+STYLE_TAGS = {"manhwa": "anime coloring, official art, newest"}
+BG_STYLES = {"manhwa": ("Highly detailed anime background art, like a still from a modern anime film: painterly "
+                        "lighting, rich colour, atmospheric depth, soft volumetric light, crisp detail")}
 FRAMING = ("one person shown from the head to the waist, facing the viewer, bareheaded, mouth clearly visible, nothing in front "
            "of the face, plain light gray background, no scenery")
 NEGATIVE = ("worst quality, low quality, score_1, score_2, score_3, artist name, signature, watermark, text, "
@@ -268,6 +273,9 @@ def load(design: dict | None) -> dict | None:
 
 
 BG_W, BG_H = 1344, 768
+_OUTDOOR = re.compile(r"\b(street|road|alley|square|forest|woods|harbou?r|dock|pier|deck|garden|park|bridge|market|"
+                      r"field|countryside|courtyard|cemetery|graveyard|riverbank|shore|beach|rooftop|outside)\b", re.I)
+_INDOOR = re.compile(r"\b(room|hall|interior|inside|office|church|tavern|pub|shop|parlou?r|library|classroom)\b", re.I)
 
 
 def background_prompt(spec: dict, style: str = "manhwa") -> tuple[str, str]:
@@ -282,9 +290,12 @@ def background_prompt(spec: dict, style: str = "manhwa") -> tuple[str, str]:
     era = (spec.get("era") or "").strip()
     # what the book says leads; the generic kind of place only fills in when there's no description
     subject = description or (f"{label} ({note})" if note else label)
-    period = (f", in the {era} period: period-accurate architecture, furniture and lighting (gas lamps, candles, "
-              f"wood and brass), no modern technology" if era and not any(m in era.lower() for m in
-                                                                          ("modern", "contemporary", "future")) else "")
+    outdoor = bool(_OUTDOOR.search(f"{label} {description} {note}")) and not _INDOOR.search(label)
+    # asking for "furniture" outdoors put armchairs and dressers on the pavement (measured)
+    things = "architecture and street lighting (gas lamps)" if outdoor else \
+        "architecture, furniture and lighting (gas lamps, candles, wood and brass)"
+    period = (f", in the {era} period: period-accurate {things}, no modern technology"
+              if era and not any(m in era.lower() for m in ("modern", "contemporary", "future")) else "")
     prompt = (f"masterpiece, best quality, score_7, safe, no humans, scenery, background, full scene, "
               f"{STYLE_TAGS.get(style, '')}. Background art: {subject}{period}. "
               "Wide establishing shot that fills the whole frame, detailed environment, empty of people, no "

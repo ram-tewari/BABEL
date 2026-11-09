@@ -10,6 +10,7 @@ export function Weather({ weather, night, indoor, on }: { weather: string | null
       {kind === "rain" && (
         <>
           <div className="absolute inset-0 bg-[#0b1626]/35" />
+          <div className="absolute inset-x-[-30%] bottom-0 h-1/3 bg-[radial-gradient(ellipse_at_center,#9fb4cc33,transparent_65%)]" style={{ animation: "vn-drift 30s ease-in-out infinite alternate" }} />
           {bits.map((r, i) => (
             <span
               key={i}
@@ -41,18 +42,38 @@ export function Weather({ weather, night, indoor, on }: { weather: string | null
   );
 }
 
-/** Sakura petals for the title screen — NOCTURNE's courtyard, a few at a time. */
-export function Petals({ on, count = 14 }: { on: boolean; count?: number }) {
+/** Golden motes drifting up through stage light — the theatre's dust in the footlights. */
+export function Motes({ on, count = 18 }: { on: boolean; count?: number }) {
   const bits = useMemo(() => Array.from({ length: count }, (_, i) => rnd(i + 101)), [count]);
   if (!on) return null;
   return (
     <div aria-hidden className="pointer-events-none absolute inset-0 z-[25] overflow-hidden">
-      {bits.map((r, i) => (
-        <span key={i} className="absolute top-0 block h-2.5 w-2 rounded-[60%_10%_60%_10%] bg-[#e7a3b6]" style={{ left: `${10 + r * 100}%`, opacity: 0.75, animation: `vn-petal ${11 + ((r * 37) % 9)}s linear ${-r * 20}s infinite` }} />
-      ))}
+      {bits.map((r, i) => {
+        const size = 2 + ((r * 97) % 3);
+        return (
+          <span
+            key={i}
+            className="absolute block rounded-full"
+            style={{
+              left: `${4 + r * 92}%`,
+              bottom: `${-4 + ((r * 7919) % 1) * 30}%`,
+              width: size,
+              height: size,
+              background: "radial-gradient(circle, #fff1cc 0%, #f0c983 45%, transparent 70%)",
+              boxShadow: "0 0 8px 2px #f0c98355",
+              ["--dx" as string]: `${-30 + ((r * 613) % 1) * 60}px`,
+              animation: `vn-mote ${12 + ((r * 37) % 10)}s ease-in-out ${-r * 22}s infinite`,
+              willChange: "transform, opacity",
+            }}
+          />
+        );
+      })}
     </div>
   );
 }
+
+/** Kept for older callers. */
+export const Petals = Motes;
 
 /** Deterministic pseudo-random 0..1, so particles don't jump between renders. */
 function rnd(i: number) {

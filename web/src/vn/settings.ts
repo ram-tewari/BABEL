@@ -4,11 +4,12 @@ import { useEffect, useState } from "react";
 export interface VnSettings {
   textSpeed: number; // characters per second; 0 = instant
   autoDelay: number; // multiplier on the auto-play pause after a line
-  effects: boolean; // weather, screen shake, character reactions
+  effects: boolean; // weather, screen shake, character reactions, parallax
+  sound: number; // 0..1: voice blips, page turns, weather ambience
 }
 
 const KEY = "babel.vn.settings";
-const DEFAULTS: VnSettings = { textSpeed: 55, autoDelay: 1, effects: true };
+const DEFAULTS: VnSettings = { textSpeed: 55, autoDelay: 1, effects: true, sound: 0.5 };
 
 function load(): VnSettings {
   try {
