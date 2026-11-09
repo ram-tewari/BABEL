@@ -1,0 +1,24 @@
+{
+  "title": "Dungeon: LitRPG system windows, sfx, skill shouts, thoughts",
+  "aliases": {},
+  "lines": [
+    ["[Warning: You have entered", "system", null],
+    ["Level forty,", "dialogue", "Suki"],
+    ["We're thirty-two.", "dialogue", "Suki"],
+    ["Thirty-three,", "dialogue", "Ren"],
+    ["I leveled on the stairs.", "dialogue", "Ren"],
+    ["Oh, that changes everything.", "dialogue", "Suki"],
+    ["She's scared,", "thought", "Ren"],
+    ["She jokes when she's scared.", "thought", "Ren"],
+    ["Skrrrrk.", "sfx", null],
+    ["Ren.", "dialogue", "Suki"],
+    ["I hear it.", "dialogue", "Ren"],
+    ["Flame Lance!", "dialogue", "Ren"],
+    ["FWOOOSH!", "sfx", null],
+    ["[Skill used: Flame Lance", "system", null],
+    ["[Hollow Stalker defeated.", "system", null],
+    ["[Level up!", "system", null],
+    ["Thirty-four,", "dialogue", "Suki"],
+    ["There are more of them.", "thought", "Ren"]
+  ]
+}

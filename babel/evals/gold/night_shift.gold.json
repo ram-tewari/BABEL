@@ -1,0 +1,21 @@
+{
+  "title": "Night shift: first-person narrator, beats, untagged banter",
+  "pov": "Sam",
+  "aliases": {"I": "Sam", "Okafor": "Mr. Okafor"},
+  "lines": [
+    ["You look terrible.", "dialogue", "Dez"],
+    ["Thank you. I worked on it.", "dialogue", "Sam"],
+    ["Mr. Okafor called. Twice.", "dialogue", "Dez"],
+    ["He wants the third floor done", "dialogue", "Dez"],
+    ["The auditors come every month", "dialogue", "Sam"],
+    ["Tell him that.", "dialogue", "Dez"],
+    ["Ah. Good. You're here.", "dialogue", "Mr. Okafor"],
+    ["Just got in, sir.", "dialogue", "Sam"],
+    ["Third floor,", "dialogue", "Mr. Okafor"],
+    ["Tonight.", "dialogue", "Mr. Okafor"],
+    ["Yes, sir.", "dialogue", "Sam"],
+    ["He likes you.", "dialogue", "Dez"],
+    ["He doesn't know my name.", "dialogue", "Sam"],
+    ["Exactly. That's the most", "dialogue", "Dez"]
+  ]
+}

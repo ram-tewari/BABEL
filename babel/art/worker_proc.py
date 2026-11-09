@@ -1,0 +1,118 @@
+"""Image worker — runs in the separate art environment (``.venv-art``, with mflux/MLX).
+
+Deliberately imports nothing from BABEL: the server starts it as a child process
+and talks JSON lines over stdin/stdout. Stopping the process frees all of the
+image models' memory at once, which is how BABEL time-shares a single machine
+between the text model and the image models.
+
+Requests:  {"id": 1, "op": "generate", "model": "anima-turbo", "prompt": "...", "negative": "...",
+            "seed": 11, "width": 832, "height": 1216, "out": "/path.png"}
+           {"id": 2, "op": "edit", "model": "flux2-klein-4b", "prompt": "...", "image": "/base.png",
+            "seed": 7, "width": 832, "height": 1216, "out": "/path.png"}
+           {"id": 3, "op": "unload", "model": "anima-turbo"}     (or no "model": unload everything)
+           {"id": 4, "op": "ping"}
+Replies:   {"id": 1, "ok": true, "secs": 8.1, "loaded": [...]}  |  {"id": 1, "ok": false, "error": "...", "loaded": [...]}
+"""
+
+from __future__ import annotations
+
+import json
+import sys
+import time
+import traceback
+
+_models: dict[str, object] = {}
+# MLX otherwise keeps ~24 GB of buffer cache after each image (measured on an M5 Max); 2 GB costs no speed
+CACHE_LIMIT_BYTES = 2 * 1024**3
+
+
+def _limit_cache() -> None:
+    try:
+        import mlx.core as mx
+
+        mx.set_cache_limit(CACHE_LIMIT_BYTES)
+    except Exception:
+        pass
+
+
+def _load(name: str):
+    if name in _models:
+        return _models[name]
+    from mflux.models.common.config import ModelConfig
+
+    if name in ("anima-turbo", "anima-aesthetic"):
+        from mflux.models.anima import Anima
+        from mflux.models.common.vae.tiling_config import TilingConfig
+
+        cfg = ModelConfig.anima_turbo() if name == "anima-turbo" else ModelConfig.anima_aesthetic()
+        model = Anima(model_config=cfg, quantize=8)
+        model.tiling_config = TilingConfig(vae_decode_tile_size=512)  # peak 19 → 12 GB, no visible seams
+    elif name == "flux2-klein-4b":
+        from mflux.models.flux2.variants import Flux2KleinEdit
+
+        # 4-bit: same quality for expression edits, peak 13.6 → 12.0 GB (measured)
+        model = Flux2KleinEdit(model_config=ModelConfig.flux2_klein_4b(), quantize=4)
+    else:
+        raise ValueError(f"unknown image model {name!r}")
+    _models[name] = model
+    return model
+
+
+def _unload(name: str | None) -> None:
+    """Free one model (or all) without exiting — when memory is tight, keep only what the next job needs."""
+    import gc
+
+    for n in [name] if name else list(_models):
+        _models.pop(n, None)
+    gc.collect()
+    try:
+        import mlx.core as mx
+
+        mx.clear_cache()
+    except Exception:
+        pass
+
+
+def handle(req: dict) -> dict:
+    op = req.get("op")
+    if op == "ping":
+        return {"ok": True}
+    if op == "unload":
+        _unload(req.get("model"))
+        return {"ok": True}
+    t = time.time()
+    model = _load(req["model"])
+    if op == "generate":
+        img = model.generate_image(seed=int(req["seed"]), prompt=req["prompt"],
+                                   negative_prompt=req.get("negative") or None,
+                                   width=int(req["width"]), height=int(req["height"]))
+    elif op == "edit":
+        img = model.generate_image(seed=int(req["seed"]), prompt=req["prompt"], image_paths=[req["image"]],
+                                   width=int(req["width"]), height=int(req["height"]), num_inference_steps=4)
+    else:
+        raise ValueError(f"unknown op {op!r}")
+    img.save(path=req["out"])
+    return {"ok": True, "secs": round(time.time() - t, 1)}
+
+
+def main() -> None:
+    _limit_cache()
+    out = sys.stdout
+    sys.stdout = sys.stderr  # libraries print progress; keep the protocol channel clean
+    for line in sys.stdin:
+        if not line.strip():
+            continue
+        req: dict = {}
+        try:
+            req = json.loads(line)
+            rep = handle(req)
+        except Exception as e:  # report and keep serving
+            rep = {"ok": False, "error": f"{type(e).__name__}: {e}", "trace": traceback.format_exc()[-1500:]}
+        rep["id"] = req.get("id")
+        rep["loaded"] = sorted(_models)
+        out.write(json.dumps(rep) + "\n")
+        out.flush()
+
+
+if __name__ == "__main__":
+    main()

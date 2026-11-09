@@ -1,0 +1,20 @@
+{
+  "title": "Lantern market: tags, beats, italics, system text",
+  "aliases": {"Mira": "Mira Vell"},
+  "lines": [
+    ["You're late,", "dialogue", "Tobin"],
+    ["I'm early for tomorrow,", "dialogue", "Mira Vell"],
+    ["Did the courier come?", "dialogue", "Mira Vell"],
+    ["Tobin shook his head.", "action", "Tobin"],
+    ["Not yet. Old Harrow says", "dialogue", "Tobin"],
+    ["Then we wait.", "dialogue", "Mira Vell"],
+    ["Then we wait,", "dialogue", "Tobin"],
+    ["He's hiding something,", "thought", "Mira Vell"],
+    ["He always counts the bolts", "thought", "Mira Vell"],
+    ["CRASH!", "sfx", null],
+    ["[Quest Updated", "system", null],
+    ["Tobin, do you see that?", "dialogue", "Mira Vell"],
+    ["See what?", "dialogue", "Tobin"],
+    ["* * *", "break", null]
+  ]
+}

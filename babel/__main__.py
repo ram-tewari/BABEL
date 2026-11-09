@@ -1,7 +1,3 @@
-"""
-BABEL CLI Entry Point
-"""
-from babel.cli import app
+from babel.cli import main
 
-if __name__ == "__main__":
-    app()
+main()

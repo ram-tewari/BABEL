@@ -1,0 +1,51 @@
+[build-system]
+requires = ["hatchling>=1.24"]
+build-backend = "hatchling.build"
+
+[project]
+name = "babel-reader"
+version = "3.0.0"
+description = "Turn webnovels into chat-style Visual Scenarios with an LLM labeling pipeline and a self-hosted reader."
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.11"
+dependencies = [
+  "pydantic>=2.6",
+  "ebooklib>=0.18",
+  "beautifulsoup4>=4.12",
+  "lxml>=5.0",
+  "httpx>=0.27",
+  "fastapi>=0.110",
+  "uvicorn[standard]>=0.29",
+  "python-multipart>=0.0.9",
+  "typer>=0.12",
+  "rich>=13.7",
+  "python-dotenv>=1.0",
+  "jinja2>=3.1",
+  "pillow>=10.0",
+  "ruamel.yaml>=0.18",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0", "pytest-cov>=5.0", "ruff>=0.5"]
+
+[project.scripts]
+babel = "babel.cli:app"
+
+[tool.hatch.build.targets.wheel]
+packages = ["babel"]
+
+artifacts = ["babel/web_dist/**"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+filterwarnings = ["ignore::bs4.XMLParsedAsHTMLWarning", "ignore::UserWarning:ebooklib", "ignore::FutureWarning:ebooklib"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP"]
+ignore = ["E501", "B008"]
