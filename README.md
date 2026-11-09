@@ -4,10 +4,8 @@
 
 BABEL is an automated pipeline that converts 5,000+ chapter webnovels from raw text into screenplay/chat-style Visual Scenario format, optimized for dialogue flow and character consistency. Process chapters at zero cost using **NVIDIA NIM's free, OpenAI-compatible catalog** (default model `qwen/qwen3-235b-a22b`), with automatic Groq/Gemini fallback.
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/ram-tewari/babel)
 [![Python Version](https://img.shields.io/badge/python-3.12%2B-blue)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![Coverage](https://img.shields.io/badge/coverage-95%25-brightgreen)](tests/)
 [![Free Tier](https://img.shields.io/badge/cost-%240.00-success)](https://aistudio.google.com/app/apikey)
 
 [Quick Start](#quick-start) • [Features](#features) • [Documentation](#documentation) • [Demo](demo/) • [Contributing](#contributing)
