@@ -85,6 +85,20 @@ Reasoning models (Qwen3, R1-style) are asked to answer directly (`reasoning_effo
   - Settings: metadata search via Open Library or Google Books (RoyalRoad and NovelUpdates are tried but usually block bots), cover upload, append new chapters of an ongoing novel, delete.
 - Transform jobs show tier choice and a cost estimate, run several novels in parallel, and can be paused, resumed or stopped. Restarts resume where they left off.
 
+## The Theatre of Stories
+
+`babel serve` opens a local website styled after NOCTURNE's *Theatre of Stories*:
+- **Design:** a night-time palette of brass, teal and oxblood.
+- **Type:** Instrument Serif, Inter, Space Grotesk, IBM Plex Mono and Pixelify Sans.
+- **Details:** brass plaques and glass panels.
+
+Pages:
+- **Lobby:** the curtains part to reveal the stage, with your library shown as a playbill wall.
+- **Programme:** each novel's page has a **Play** button.
+- **Title screen** (`/play/<novel>`): a closed curtain with Begin and Continue.
+
+**Optional theatre art.** `babel theme import ~/NOCTURNE` copies NOCTURNE's theatre art (curtains, valance, footlights, stage, brass UI) into `data/theme/`, which is git-ignored. Every piece has a CSS fallback, so the site looks complete without it.
+
 ## Visual novel
 
 BABEL can design every main and supporting character in manhwa style, locally, and draw a sheet of eight expressions for each one: neutral, happy, laugh, angry, sad, surprised, afraid and serious. The reader will pick an expression for each line from its tone. Apple Silicon only for now.
@@ -120,10 +134,20 @@ babel serve              # then: novel → Design tab → "Design automatically 
   - the image models are about 22 GB on disk;
   - Anima is licensed for non-commercial use only, and FLUX.2 Klein 4B under Apache 2.0.
 
-**Reading it.** Press the clapperboard in the reader, or **Read as a visual novel** in the Design tab.
-- **The stage:** each chapter plays as scenes. Each has a background and the speakers' sprites, and every line uses an expression chosen from its tone.
-- **The dialogue box:** narration, inner thoughts, action beats, system windows and sound effects each get their own style.
-- **Controls:** click, Space or → advances; ← goes back; A auto-plays; Esc returns to chat mode.
+**Playing it.** Press **Play** on a novel, the clapperboard in the reader, or **Read as a visual novel** in the Design tab. The whole book plays chapter after chapter:
+- **Chapter changes:** the curtains close at the end of a chapter, a brass placard names the next one (already preloaded and prepared), and they open again.
+- **Scenes:** each scene dissolves into its set and slowly drifts, while a brass plaque drops from the valance to name the place. Night is shown as lighting.
+- **Weather:** rain, snow, mist, stars or dust follow the text.
+- **Characters:** they enter from their side and breathe. They react to each line's emotion: a hop when surprised, a shake when angry, a tremble when afraid, a bounce when laughing.
+- **Text:** lines type themselves out. Thoughts get a vignette, and sound effects hit with a screen shake.
+- **Controls:** click, Space or → advances; ← goes back; A auto-plays; S skips to the scene's end; L opens the backlog (click a line to jump back); H hides the text box; F goes fullscreen; Esc returns to chat mode.
+- **Settings:** text speed, auto-play pause, and whether effects are on. Your system's reduced-motion setting always turns movement off.
+- **Progress** is saved, so chat mode and the visual novel share your place.
+
+**Backgrounds:**
+- Every kind of place has a built-in painted set that shows at once.
+- Generated sets per era replace it with a crossfade (**Design → Shared library → Paint the default sets** prepares the common ones).
+- Named places that the book describes get their own background, from a visual description the text model drafts from the book. The quote it relied on is checked against the text, as with character profiles.
 
 How it's prepared:
 - **An expression for every line.** Rules read the detected tone and the surrounding words ("he smiled", "she trembled", "What?!"). The text model answers one batched multiple-choice question per chapter for the lines without a clear cue.

@@ -4,7 +4,7 @@ import path from "node:path";
 // Runs against a live `babel serve` with an empty, model-free library (see playwright.config.ts).
 test("import → transform → read → correct → review", async ({ page }) => {
   await page.goto("/");
-  await expect(page.getByText("Your library is empty")).toBeVisible();
+  await expect(page.getByRole("heading", { name: "Every novel, staged." })).toBeVisible();
   const fixture = path.resolve(import.meta.dirname, "../../tests/fixtures/sample_chapter.txt");
   await page.locator('input[type="file"]').setInputFiles(fixture);
   await expect(page.getByRole("heading", { name: "sample chapter" })).toBeVisible();
@@ -15,7 +15,7 @@ test("import → transform → read → correct → review", async ({ page }) =>
   await expect(page.getByText("Finished")).toBeVisible({ timeout: 15_000 });
   await expect(page.getByText("Who decided the lines")).toBeVisible();
 
-  await page.getByRole("link", { name: /Start reading|Continue reading/ }).click();
+  await page.getByRole("link", { name: /^Read$|Continue reading/ }).click();
   await expect(page.getByText("You're late,")).toBeVisible();
   await expect(page.getByText("[Quest Updated: Find the missing courier before midnight.]")).toBeVisible();
   await expect(page.getByText("CRASH!")).toBeVisible();
@@ -38,19 +38,27 @@ test("import → transform → read → correct → review", async ({ page }) =>
   await expect(page.getByRole("option", { name: /Tobin/ })).toBeVisible();
   await page.keyboard.press("Escape");
 
-  // visual novel: works without image models (silhouettes, gradient backgrounds) and steps line by line
+  // visual novel: works without image models (painted sets, silhouettes); curtains open, lines advance
   await page.getByRole("button", { name: "Read as a visual novel" }).click();
   await expect(page).toHaveURL(/\/vn\/\d+/);
   await expect(page.getByRole("button", { name: /Auto-play/ })).toBeVisible();
-  await page.keyboard.press("ArrowRight");
-  await page.keyboard.press("ArrowRight");
-  await expect(page.getByRole("button", { name: "Previous line" })).toBeEnabled();
+  for (let k = 0; k < 4; k++) await page.keyboard.press("ArrowRight");
+  await page.keyboard.press("l");
+  await expect(page.getByRole("dialog", { name: "Backlog" })).toBeVisible();
+  await page.keyboard.press("Escape");
   await page.keyboard.press("Escape");
   await expect(page).toHaveURL(/\/read\/\d+/);
 
-  // the correction shows up in the review tab's log
+  // the title screen: Begin opens the curtains onto the first chapter
   await page.goto(page.url().replace(/\/read\/\d+/, "/"));
-  await page.getByRole("link", { name: /sample chapter/i }).click();
+  await page.getByRole("link", { name: /^Play sample chapter/ }).first().click();
+  await expect(page.getByRole("heading", { name: "sample chapter" })).toBeVisible();
+  await page.getByRole("button", { name: /Begin/ }).click();
+  await expect(page).toHaveURL(/\/vn\/\d+/);
+  await page.goto(page.url().replace(/\/vn\/\d+/, "/"));
+
+  // the correction shows up in the review tab's log
+  await page.getByRole("link", { name: /Programme/ }).first().click();
   await page.getByRole("link", { name: /^Review/ }).click();
   await expect(page.getByRole("cell", { name: /Old Harrow/ })).toBeVisible();
 

@@ -1,6 +1,14 @@
 @import "tailwindcss";
 @import "@fontsource-variable/inter";
 @import "@fontsource-variable/literata";
+@import "@fontsource/instrument-serif/400.css";
+@import "@fontsource/instrument-serif/400-italic.css";
+@import "@fontsource-variable/space-grotesk";
+@import "@fontsource/ibm-plex-mono/400.css";
+@import "@fontsource/ibm-plex-mono/500.css";
+@import "@fontsource/pixelify-sans/400.css";
+@import "@fontsource/pixelify-sans/600.css";
+@import "@fontsource/silkscreen/400.css";
 
 @theme inline {
   --color-bg: var(--bg);
@@ -17,25 +25,43 @@
   --color-warn: var(--warn);
   --font-sans: "Inter Variable", ui-sans-serif, system-ui, sans-serif;
   --font-serif: "Literata Variable", "Iowan Old Style", Georgia, serif;
-  --font-mono: ui-monospace, "SF Mono", Menlo, monospace;
+  --font-mono: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, monospace;
+  /* NOCTURNE's type roles */
+  --font-display: "Instrument Serif", Georgia, "Times New Roman", serif;
+  --font-ui: "Space Grotesk Variable", "Inter Variable", system-ui, sans-serif;
+  --font-pixel: "Pixelify Sans", "Space Grotesk Variable", system-ui, sans-serif;
+  --font-tiny: "Silkscreen", "Pixelify Sans", monospace;
+  --color-brass: var(--brass);
+  --color-teal: var(--teal);
+  --color-oxblood: var(--oxblood);
+  --color-ivory: var(--ivory);
 }
 
 /* ── themes ─────────────────────────────────────────────────────────────── */
+/* "Night" — NOCTURNE's Midnight Observatory palette (graphite, brass, teal, oxblood, ivory) */
+:root {
+  --brass: #dfb56f;
+  --teal: #2f7f78;
+  --oxblood: #a74051;
+  --ivory: #ede4d6;
+  --ease-out: cubic-bezier(.2, .8, .25, 1);
+  --ease-in: cubic-bezier(.5, 0, .75, .2);
+}
 :root,
 :root[data-theme="dark"] {
   color-scheme: dark;
-  --bg: #121214;
-  --surface: #1a1a1e;
-  --raised: #232329;
-  --text: #ebe7df;
-  --muted: #a39f97;
-  --faint: #6f6c66;
-  --line: #2e2e35;
-  --accent: #e8b86b;
-  --accent-ink: #1a1408;
-  --danger: #f87171;
-  --ok: #6ee7a8;
-  --warn: #fbbf24;
+  --bg: #080b10;
+  --surface: #111821;
+  --raised: #19232e;
+  --text: #f0e9e3;
+  --muted: #a9b4be;
+  --faint: #6d7884;
+  --line: #2a3542;
+  --accent: #dfb56f;
+  --accent-ink: #1a0f06;
+  --danger: #ffa4a4;
+  --ok: #9ed7b0;
+  --warn: #e0b866;
   --bubble-alpha: 14%;
   --slot-0: #fb923c; --slot-1: #60a5fa; --slot-2: #4ade80; --slot-3: #e879f9;
   --slot-4: #fbbf24; --slot-5: #2dd4bf; --slot-6: #fb7185; --slot-7: #a5b4fc;
@@ -134,6 +160,77 @@ body { font-family: var(--font-sans); -webkit-font-smoothing: antialiased; }
 
 .bubble-shout { border-width: 2px; }
 
-/* visual novel */
+/* ── visual novel: the theatre's motion vocabulary ─────────────────────────── */
 @keyframes fadein { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }
-@media (prefers-reduced-motion: reduce) { [class*="animate-"] { animation: none !important; } }
+@keyframes vn-fade { from { opacity: 0; } to { opacity: 1; } }
+@keyframes vn-kenburns { from { transform: scale(1.04) translate3d(-1%, 0, 0); } to { transform: scale(1.1) translate3d(1.2%, -1%, 0); } }
+@keyframes vn-breathe { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-0.45%); } }
+@keyframes vn-enter-left { from { opacity: 0; transform: translateX(-14%); } to { opacity: 1; transform: none; } }
+@keyframes vn-enter-right { from { opacity: 0; transform: translateX(14%); } to { opacity: 1; transform: none; } }
+@keyframes vn-hop { 0%, 100% { transform: translateY(0); } 35% { transform: translateY(-5%); } 60% { transform: translateY(0); } 78% { transform: translateY(-1.5%); } }
+@keyframes vn-shake { 0%, 100% { transform: translateX(0); } 15% { transform: translateX(-2.2%); } 30% { transform: translateX(2%); } 45% { transform: translateX(-1.6%); } 60% { transform: translateX(1.2%); } 75% { transform: translateX(-.6%); } }
+@keyframes vn-tremble { 0%, 100% { transform: translate(0, 0); } 20% { transform: translate(-.5%, .2%); } 40% { transform: translate(.5%, -.2%); } 60% { transform: translate(-.4%, .3%); } 80% { transform: translate(.4%, -.1%); } }
+@keyframes vn-bounce { 0%, 100% { transform: translateY(0); } 25% { transform: translateY(-3%); } 50% { transform: translateY(0); } 75% { transform: translateY(-2%); } }
+@keyframes vn-sink { from { transform: translateY(0); } to { transform: translateY(2.5%); } }
+@keyframes vn-screen-shake { 0%, 100% { transform: translate(0, 0); } 20% { transform: translate(-8px, 4px); } 40% { transform: translate(7px, -5px); } 60% { transform: translate(-5px, 3px); } 80% { transform: translate(4px, -2px); } }
+@keyframes vn-plaque { 0% { opacity: 0; transform: translateY(-140%); } 18% { opacity: 1; transform: translateY(6%); } 26% { transform: translateY(0); } 86% { opacity: 1; transform: translateY(0); } 100% { opacity: 0; transform: translateY(-40%); } }
+@keyframes vn-placard { 0% { opacity: 0; transform: translateY(-60px) rotate(-1.5deg); } 60% { opacity: 1; transform: translateY(6px) rotate(.6deg); } 100% { opacity: 1; transform: translateY(0) rotate(0); } }
+@keyframes vn-bob { 0%, 100% { transform: translateY(0); opacity: .9; } 50% { transform: translateY(4px); opacity: .5; } }
+@keyframes vn-sfx { 0% { opacity: 0; transform: scale(.6) rotate(-6deg); } 40% { opacity: 1; transform: scale(1.12) rotate(-3deg); } 100% { opacity: 1; transform: scale(1) rotate(-3deg); } }
+@keyframes vn-rain { from { transform: translate3d(0, -20vh, 0) rotate(12deg); } to { transform: translate3d(-12vw, 115vh, 0) rotate(12deg); } }
+@keyframes vn-snow { from { transform: translate3d(0, -10vh, 0); } to { transform: translate3d(6vw, 110vh, 0); } }
+@keyframes vn-drift { from { transform: translate3d(-30%, 0, 0); } to { transform: translate3d(30%, 0, 0); } }
+@keyframes vn-twinkle { 0%, 100% { opacity: .15; } 50% { opacity: .9; } }
+@keyframes vn-dust { 0% { transform: translate3d(0, 0, 0); opacity: 0; } 20% { opacity: .7; } 100% { transform: translate3d(4vw, -18vh, 0); opacity: 0; } }
+@keyframes vn-petal { from { transform: translate3d(0, -10vh, 0) rotate(0); } to { transform: translate3d(-18vw, 110vh, 0) rotate(540deg); } }
+@keyframes vn-flicker { 0%, 100% { opacity: .85; } 45% { opacity: 1; } 55% { opacity: .7; } }
+.vn-stage-shake { animation: vn-screen-shake .45s linear; }
+.vn-react-surprised { animation: vn-hop .55s var(--ease-out); }
+.vn-react-happy { animation: vn-hop .5s var(--ease-out); }
+.vn-react-laugh { animation: vn-bounce .7s ease-in-out; }
+.vn-react-angry { animation: vn-shake .5s linear; }
+.vn-react-afraid { animation: vn-tremble .18s linear 4; }
+.vn-react-sad { animation: vn-sink 1.2s var(--ease-out) forwards; }
+.vn-react-serious { animation: vn-fade .3s ease; }
+.vn-breathe { animation: vn-breathe 5.5s ease-in-out infinite; }
+:root[data-motion="off"] [class*="vn-"], :root[data-motion="off"] [class*="animate-"] { animation: none !important; }
+@media (prefers-reduced-motion: reduce) {
+  [class*="animate-"], [class*="vn-"] { animation: none !important; }
+}
+
+
+/* ── NOCTURNE ornaments (art from `babel theme import`; plain CSS borders if it isn't there) ── */
+.hud-bar {
+  border-style: solid; border-color: #b98a4e; border-width: 0 0 2px;
+  background: linear-gradient(180deg, #2b1a10, #1a100a);
+  border-image: url(/api/theme/files/hud-bar.webp) 0 24 fill / 0 48px / 0 round;
+  image-rendering: pixelated;
+}
+.btn-brass {
+  display: inline-flex; align-items: center; justify-content: center; gap: .45rem;
+  min-height: 40px; padding: 0 18px; font: 600 15px/1 var(--font-pixel); letter-spacing: .03em;
+  color: #24160a; background: linear-gradient(180deg, #f0c983, #c99550); border: 2px solid #8a5a2b; border-radius: 3px;
+  border-image: url(/api/theme/files/brass-idle.webp) 0 8 fill / 0 16px / 0 round;
+  image-rendering: pixelated; cursor: pointer; text-decoration: none; white-space: nowrap;
+}
+.btn-brass:hover { border-image-source: url(/api/theme/files/brass-hover.webp); color: #1a0f06; }
+.btn-brass:active { border-image-source: url(/api/theme/files/brass-pressed.webp); }
+.btn-brass:focus-visible { outline: 2px solid var(--brass); outline-offset: 3px; }
+.btn-ghost {
+  display: inline-flex; align-items: center; justify-content: center; gap: .45rem; min-height: 40px; padding: 0 16px;
+  font: 500 14px/1 var(--font-ui); color: var(--text); background: #ffffff08; border: 1px solid var(--line);
+  border-radius: 3px; transition: border-color .16s var(--ease-out), background .16s var(--ease-out); text-decoration: none;
+}
+.btn-ghost:hover { border-color: var(--brass); background: #dfb56f12; }
+.panel-glass {
+  border: 1px solid #ffffff1f; background: #0d131ccc; backdrop-filter: blur(6px);
+  border-image: url(/api/theme/files/panel-glass.webp) 16 fill / 32px / 0 round; image-rendering: pixelated;
+}
+.plaque {
+  font: 600 13px/1 var(--font-pixel); letter-spacing: .06em; color: #f3e6cf;
+  text-shadow: 0 1px 0 #000a;
+}
+.eyebrow { font: 500 12px/1.2 var(--font-mono); letter-spacing: .14em; text-transform: uppercase; color: var(--muted); }
+.display { font-family: var(--font-display); font-weight: 400; letter-spacing: -.005em; }
+.brass-rule { height: 1px; background: linear-gradient(90deg, transparent, var(--brass), transparent); opacity: .55; }
+.parchment { background: var(--ivory); color: #2a1e14; }

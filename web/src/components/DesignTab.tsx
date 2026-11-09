@@ -94,9 +94,10 @@ export function DesignTab({ novelId }: { novelId: number }) {
         <div className="min-w-56 flex-1 space-y-1">
           <p className="flex items-center gap-2 text-sm font-medium">
             {working(a) && <Spinner size={14} />}
-            {SCHEDULER_LABEL[a.scheduler.status]} {a.scheduler.detail && a.scheduler.status !== "unavailable" && <span className="font-normal text-muted">{a.scheduler.detail}</span>}
+            {a.scheduler.images ? SCHEDULER_LABEL[a.scheduler.status] : SCHEDULER_LABEL.unavailable}{" "}
+            {a.scheduler.detail && a.scheduler.images && <span className="font-normal text-muted">{a.scheduler.detail}</span>}
           </p>
-          {a.scheduler.status === "unavailable" ? (
+          {!a.scheduler.images ? (
             <p className="text-xs text-muted">
               Run <code className="rounded bg-raised px-1">babel art setup</code> once (Apple Silicon), then restart <code className="rounded bg-raised px-1">babel serve</code>. You can already write profiles; drawing starts when the models are installed.
             </p>
@@ -280,20 +281,26 @@ function LibraryPanel({ novelId }: { novelId: number }) {
   const qc = useQueryClient();
   const lib = useQuery({ queryKey: ["library", novelId], queryFn: () => api.library(novelId), refetchInterval: 20_000 });
   const redraw = useMutation({ mutationFn: api.redrawLibrary, onSuccess: () => qc.invalidateQueries({ queryKey: ["library", novelId] }) });
+  const defaults = useMutation({ mutationFn: () => api.paintDefaults(novelId), onSuccess: () => qc.invalidateQueries({ queryKey: ["library", novelId] }) });
   const items = lib.data?.items ?? [];
-  if (!items.length) return null;
   const groups = [
     { kind: "background", title: "Backgrounds" },
     { kind: "extra", title: "Faces for minor characters" },
   ] as const;
   return (
     <section className="space-y-3 rounded-xl border border-line p-4">
-      <h3 className="flex items-center gap-2 text-sm font-medium">
-        <Images size={15} /> Shared library
-      </h3>
+      <div className="flex flex-wrap items-center justify-between gap-2">
+        <h3 className="flex items-center gap-2 text-sm font-medium">
+          <Images size={15} /> Shared library
+        </h3>
+        <button className="btn-ghost !min-h-[32px] !px-3 !text-[12px]" onClick={() => defaults.mutate()} disabled={defaults.isPending} title="Street, room, pub, office, church, parlour, forest and mist for this novel's era">
+          {defaults.isPending ? <Spinner size={12} /> : <Images size={12} />} Paint the default sets
+        </button>
+      </div>
       <p className="text-xs text-faint">
-        Minor characters get a consistent face matched to their role, and places get a background. They're drawn just ahead of where you're reading, checked automatically, and shared with other novels in the same era.
+        Minor characters get a consistent face matched to their role, and places get a background (named places from how the book describes them). They're drawn just ahead of where you're reading, checked automatically, and shared with other novels in the same era. Until a set is painted, scenes use a built-in painted backdrop.
       </p>
+      {defaults.data && <p className="text-xs text-muted">{defaults.data.queued ? `Painting ${defaults.data.queued} sets for ${defaults.data.era}…` : "The default sets are already painted or on their way."}</p>}
       {groups.map((g) => {
         const list = items.filter((i) => i.kind === g.kind);
         if (!list.length) return null;

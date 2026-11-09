@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import { Link, NavLink, useNavigate, useParams } from "react-router";
 import { useMutation, useQuery, useQueryClient } from "@tanstack/react-query";
-import { ArrowLeft, BookOpen, Check, CircleAlert, Download, Globe, Search, Sparkles, Trash2, Upload, Wand2 } from "lucide-react";
+import { ArrowLeft, BookOpen, Check, Clapperboard, CircleAlert, Download, Globe, Search, Sparkles, Trash2, Upload, Wand2 } from "lucide-react";
 import { api, isActive, type ChapterRow, type NovelDetail, type TierMode } from "../lib/api";
 import { Button, Cover, ErrorNote, Field, Modal, Spinner, buttonCls, cx, inputCls } from "../components/ui";
 import { JobCard } from "../components/JobCard";
@@ -10,7 +10,7 @@ import { DesignTab } from "../components/DesignTab";
 import { GlossaryEditor } from "../components/GlossaryEditor";
 import { ReviewQueue } from "../components/ReviewQueue";
 import { CharacterGraph } from "../components/CharacterGraph";
-import { StatusChip } from "../components/StatusChip";
+import { HudBar } from "../components/Theatre";
 import { TierBar } from "../components/TierBar";
 
 const TABS = [
@@ -56,16 +56,12 @@ export function NovelPage() {
 
   return (
     <div className="min-h-dvh">
-      <header className="border-b border-line">
-        <div className="mx-auto flex h-14 max-w-5xl items-center gap-2 px-4">
-          <Link to="/" className="inline-flex items-center gap-1.5 text-sm text-muted hover:text-text">
-            <ArrowLeft size={16} /> Library
-          </Link>
-          <div className="ml-auto">
-            <StatusChip />
-          </div>
-        </div>
-      </header>
+      <HudBar />
+      <div className="mx-auto max-w-5xl px-4 pt-4">
+        <Link to="/" className="inline-flex items-center gap-1.5 font-mono text-[12px] uppercase tracking-[0.12em] text-muted hover:text-text">
+          <ArrowLeft size={14} /> Repertoire
+        </Link>
+      </div>
       <main className="mx-auto max-w-5xl px-4 pb-24 pt-8">
         <NovelHeader novel={n} />
         <TransformPanel novel={n} />
@@ -109,11 +105,14 @@ function NovelHeader({ novel: n }: { novel: NovelDetail }) {
   return (
     <section className="flex flex-col gap-6 sm:flex-row">
       <div className="w-36 shrink-0 sm:w-44">
-        <Cover novel={n} />
+        <div className="border-[3px] border-[#8a5a2b] bg-[#1a100a] p-1.5" style={{ boxShadow: "inset 0 0 0 1px #dfb56f66, 0 18px 40px #000c" }}>
+          <Cover novel={n} className="!rounded-none" />
+        </div>
       </div>
       <div className="min-w-0 flex-1">
-        <h1 className="font-serif text-3xl font-semibold leading-tight">{n.title}</h1>
-        {n.author && <div className="mt-1 text-muted">{n.author}</div>}
+        <div className="eyebrow !text-[#dfb56f]">Programme</div>
+        <h1 className="display mt-1 text-[clamp(36px,5vw,60px)] leading-[0.98]">{n.title}</h1>
+        {n.author && <div className="mt-1 font-[family-name:var(--font-display)] text-lg italic text-muted">{n.author}</div>}
         <div className="mt-3 flex flex-wrap gap-x-4 gap-y-1 text-sm text-muted">
           <span>{n.chapter_count.toLocaleString()} chapters</span>
           <span>{Math.round(n.word_count / 1000).toLocaleString()}k words</span>
@@ -133,9 +132,14 @@ function NovelHeader({ novel: n }: { novel: NovelDetail }) {
         )}
         {n.description && <p className="mt-4 line-clamp-4 max-w-2xl text-sm leading-relaxed text-muted">{n.description}</p>}
         <div className="mt-5 flex flex-wrap gap-2">
+          {n.done_count > 0 && (
+            <Link to={`/play/${n.id}`} className="btn-brass">
+              <Clapperboard size={15} /> Play as a visual novel
+            </Link>
+          )}
           {startId && (
-            <Link to={`/read/${startId}`} className={buttonCls("primary")}>
-              <BookOpen size={16} /> {n.progress ? "Continue reading" : "Start reading"}
+            <Link to={`/read/${startId}`} className="btn-ghost">
+              <BookOpen size={15} /> {n.progress ? "Continue reading" : "Read"}
             </Link>
           )}
         </div>

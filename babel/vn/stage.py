@@ -22,7 +22,7 @@ from babel.vn import scenes as sc
 REFINE_BELOW = 0.7
 
 
-RULES_VERSION = 3  # bump when the staging rules change: every chapter is re-staged
+RULES_VERSION = 8  # bump when the staging rules change: every chapter is re-staged
 
 
 def _basis(view: dict) -> str:
@@ -118,8 +118,9 @@ def backgrounds(store: Store, ak: Akashic, data: dict) -> list[int]:
     return out
 
 
-def prepare(store: Store, ak: Akashic, chapter_id: int, *, manual: bool) -> list[int]:
-    """Make sure every face and background this chapter needs is designed or queued. Returns design entity ids."""
+def prepare(store: Store, ak: Akashic, chapter_id: int, *, manual: bool, llm=None) -> list[int]:
+    """Make sure every face and background this chapter needs is designed or queued. Returns design entity ids.
+    With a text model, named places first get a description drafted from the book."""
     view, data, _ = get(store, ak, chapter_id)
     needed = [a["design_entity"] for a in actors(store, ak, view, data).values() if a["kind"] == "extra"]
     needed += backgrounds(store, ak, data)
@@ -128,6 +129,12 @@ def prepare(store: Store, ak: Akashic, chapter_id: int, *, manual: bool) -> list
         d = designs.get_design(store, eid)
         if d and d["status"] == "profiled":
             owner = lib_ak if eid in lib_ak.ents else ak
+            spec = json.loads(d["spec"]) if d.get("spec") else {}
+            if llm is not None and spec.get("name") and not spec.get("description"):
+                try:
+                    lib.describe_place(store, owner, eid, llm)
+                except Exception:
+                    pass  # the generic description is a fine fallback
             designs.queue_candidates(store, owner, eid, manual=manual)
     return needed
 
@@ -163,7 +170,8 @@ def stage_view(store: Store, ak: Akashic, chapter_id: int) -> dict:
     scenes_out = []
     for s, bg in zip(data["scenes"], bg_entities, strict=True):
         scenes_out.append({"start": s["start"], "end": s["end"], "place": s["place"]["name"], "night": s["night"],
-                           "background": _background_url(store, bg)})
+                           "background": _background_url(store, bg), "weather": s.get("weather"),
+                           "indoor": s.get("indoor", True), "category": s.get("category", "room")})
     # extras who'd look identical in the same scene get another face of their archetype
     for s in data["scenes"]:
         seen: dict[int, int] = {}
@@ -195,8 +203,12 @@ def stage_view(store: Store, ak: Akashic, chapter_id: int) -> dict:
     missing = next((x["missing"] for x in plan.readiness(store, ak, limit=10_000)["blocked"]
                     if x["chapter_id"] == chapter_id), [])
     characters = {c["id"]: c for c in view["characters"]}
+    novel = store.one("SELECT title, (SELECT COUNT(*) FROM chapters c WHERE c.novel_id=n.id) AS n FROM novels n"
+                      " WHERE n.id=?", (ak.novel_id,)) or {}
     return {
-        "chapter": {k: view[k] for k in ("id", "novel_id", "idx", "title", "prev_id", "next_id")},
+        "chapter": {**{k: view[k] for k in ("id", "novel_id", "idx", "title", "prev_id", "next_id")},
+                    "novel_title": novel.get("title"), "chapter_count": novel.get("n"),
+                    "transformed": view.get("status") == "done"},
         "ready": chapter_id in readiness["ready_ids"], "missing": missing, "refined": refined,
         "scenes": scenes_out, "blocks": blocks,
         "cast": {str(eid): {"name": (characters.get(eid) or {}).get("name") or ak.name(eid),

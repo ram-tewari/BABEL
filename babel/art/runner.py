@@ -301,7 +301,10 @@ class ArtScheduler:
         has_auto = self._auto_work_pending()
         if has_auto and (reason := self.governor.background() or self._pressure_reason()):
             self.release()  # don't sit on memory while you work (or while your apps need it)
-            self._set("paused", reason)
+            if self._waiting:  # what you asked for is waiting too: say why (e.g. memory), not the automatic reason
+                self._set("waiting", f"{self._waiting} (automatic work: {reason})")
+            else:
+                self._set("paused", reason)
             return False
         if self._check_pending(manual_only=False) or self._auto_profiles() or self._auto_candidates() \
                 or self._auto_stage() or self._auto_library() or self._draw_next(manual=False):
@@ -435,11 +438,25 @@ class ArtScheduler:
                               " AND status IN ('candidates','sheet')")["n"]
         if busy >= 2:
             return False
-        row = self.store.one("SELECT d.entity_id, e.novel_id FROM designs d JOIN entities e ON e.id=d.entity_id"
+        row = self.store.one("SELECT d.entity_id, d.spec, e.novel_id FROM designs d JOIN entities e ON e.id=d.entity_id"
                              " WHERE d.kind IN ('extra','background') AND d.status='profiled' ORDER BY d.id LIMIT 1")
         if not row:
             return False
-        designs.queue_candidates(self.store, Akashic(self.store, row["novel_id"]), row["entity_id"], manual=False)
+        ak = Akashic(self.store, row["novel_id"])
+        spec = json.loads(row["spec"]) if row["spec"] else {}
+        if spec.get("name") and not spec.get("description"):  # a named place: read how the book describes it
+            llm = self._text_model()
+            if llm is False:
+                return False
+            if llm is not None:
+                from babel.vn.library import describe_place
+
+                self._set("staging", f"reading how the book describes {spec['name']}")
+                try:
+                    describe_place(self.store, ak, row["entity_id"], llm)
+                except Exception as e:
+                    log.warning("place description failed: %s", e)
+        designs.queue_candidates(self.store, ak, row["entity_id"], manual=False)
         return True
 
     def _next_image(self, manual: bool) -> dict | None:
@@ -558,7 +575,8 @@ class ArtScheduler:
             spec = json.loads(img["spec"]) if img.get("spec") else {}
             qc = self.approver.check(img["path"], profile=json.loads(img["profile"]) if img["profile"] else None,
                                      gender=img["gender"], kind=img["kind"], emotion=img["emotion"], reference=ref,
-                                     background=spec.get("label") if img.get("design_kind") == "background" else None)
+                                     background=spec.get("label") if img.get("design_kind") == "background" else None,
+                                     era=spec.get("era"))
         except Exception as e:  # a checker failure never blocks a design
             log.warning("quality check failed: %s", e)
             self.store.x("UPDATE art_images SET qc_status='skipped', qc=? WHERE id=?",
@@ -610,7 +628,8 @@ class ArtScheduler:
             "SELECT status, COUNT(*) n FROM art_images WHERE status IN ('queued','running','failed') GROUP BY status")}
         checked = self.store.one("SELECT COUNT(*) n, SUM(qc_status='fail') bad FROM art_images"
                                  " WHERE qc_status IN ('pass','fail')")
-        return {**self.state, "worker_running": bool(self.backend and self.backend.running),
+        return {**self.state, "images": self.backend_factory is not None,
+                "worker_running": bool(self.backend and self.backend.running),
                 "queued": counts.get("queued", 0) + counts.get("running", 0), "failed": counts.get("failed", 0),
                 "checker": self.approver.model if self.approver else None,
                 "checked": checked["n"] or 0, "caught": checked["bad"] or 0}

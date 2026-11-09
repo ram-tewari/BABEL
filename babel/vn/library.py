@@ -26,6 +26,7 @@ from babel.vn.scenes import GENERIC
 
 LIBRARY_SOURCE = "__library__"
 VARIANTS = 3
+DEFAULT_SETS = ("street", "room", "tavern", "office", "church", "parlor", "forest", "mystic")
 EXTRA_EMOTIONS = ("neutral", "happy", "angry", "sad", "surprised")
 # the nearest expression an extra has, for the ones it doesn't
 EXTRA_FALLBACK = {"laugh": "happy", "afraid": "surprised", "serious": "neutral"}
@@ -123,6 +124,20 @@ def classify(name: str, note: str | None, gender: str | None, description: str =
     return best
 
 
+_F = re.compile(r"\b(she|her|hers|woman|women|lady|girl|madam|mrs|miss|mother|sister|grandmother|granny)\b", re.I)
+_M = re.compile(r"\b(he|him|his|man|men|gentleman|boy|sir|mr|father|brother|grandfather)\b", re.I)
+
+
+def infer_gender(text: str) -> str | None:
+    """From the book's words around an unnamed character ("the woman whose face was painted…")."""
+    f, m = len(_F.findall(text)), len(_M.findall(text))
+    if f >= 2 * max(1, m) or (f and not m):
+        return "f"
+    if m >= 2 * max(1, f) or (m and not f):
+        return "m"
+    return None
+
+
 def _stable(*parts) -> int:
     return int(hashlib.sha1(":".join(map(str, parts)).encode()).hexdigest()[:8], 16)
 
@@ -171,7 +186,9 @@ def assign_extra(store: Store, ak: Akashic, eid: int, era: str) -> int:
     from babel.art.profile import gather_evidence
 
     description = " ".join(x["text"] for x in gather_evidence(store, ak, eid, max_snippets=3, max_chars=1500))
-    arch = classify(e["name"], e.get("note"), e.get("gender"), description)
+    gender = e.get("gender") if e.get("gender") in ("m", "f") else infer_gender(f"{e['name']} {e.get('note') or ''} "
+                                                                                 f"{description}")
+    arch = classify(e["name"], e.get("note"), gender, description)
     variant = _stable(ak.novel_id, eid) % VARIANTS
     label, gender = ARCHETYPES[arch][0], ARCHETYPES[arch][1]
     lid = _library_entity(store, lib, f"{era_key(era)} · {arch} · {variant + 1}", "character", gender)
@@ -215,3 +232,29 @@ def ensure_named_background(store: Store, ak: Akashic, eid: int, era: str, gener
                            {"era": era, "category": generic or "street", "label": label, "name": e["name"],
                             "note": note[:200]}, None)
     return eid
+
+
+def describe_place(store: Store, ak: Akashic, eid: int, llm) -> dict:
+    """Draft a named place's look from the book (one visual sentence) for its background. Keeps the quote it
+    relied on when that quote really is in the passages; otherwise the description stands as a guess."""
+    from babel.art.profile import place_evidence, place_messages
+    from babel.scenario.ask import extract_json
+
+    d = designs.get_design(store, eid)
+    spec = json.loads(d["spec"]) if d and d.get("spec") else {}
+    if spec.get("description") or llm is None:
+        return spec
+    evidence = place_evidence(store, ak, eid)
+    setting = designs.art_settings(store, ak.novel_id).get("setting", "")
+    schema = {"type": "object", "properties": {"description": {"type": "string"}, "quote": {"type": "string"}},
+              "required": ["description", "quote"]}
+    reply = llm.chat(place_messages(ak.name(eid) or "", setting, evidence), schema=schema, max_tokens=200)
+    data = extract_json(reply.content)
+    desc = re.sub(r"\s+", " ", str(data.get("description", ""))).strip()[:300]
+    quote = str(data.get("quote", "")).strip()
+    found = next((e["chapter"] for e in evidence if quote and quote.lower()[:80] in e["text"].lower()), None)
+    spec.update(description=desc, quote=quote if found else "", quote_chapter=found, guessed=found is None)
+    store.x("UPDATE designs SET spec=? WHERE id=?", (json.dumps(spec), d["id"]))
+    store.log_usage(ak.novel_id, None, "local" if getattr(reply, "provider", "") == "ollama" else "cloud",
+                    "art-place", reply.provider, reply.model, reply.prompt_tokens, reply.completion_tokens, 0)
+    return spec

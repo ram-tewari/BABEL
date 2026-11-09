@@ -19,10 +19,12 @@ novels_app = typer.Typer(no_args_is_help=True, help="Manage novels in the librar
 glossary_app = typer.Typer(no_args_is_help=True, help="The Akashic Record as YAML (characters, factions, locations, terms).")
 db_app = typer.Typer(no_args_is_help=True, help="Database utilities.")
 art_app = typer.Typer(no_args_is_help=True, help="Character art: designs, expression sheets, visual-novel readiness.")
+theme_app = typer.Typer(no_args_is_help=True, help="The theatre's look: import optional art (e.g. from NOCTURNE).")
 app.add_typer(novels_app, name="novels")
 app.add_typer(glossary_app, name="glossary")
 app.add_typer(db_app, name="db")
 app.add_typer(art_app, name="art")
+app.add_typer(theme_app, name="theme")
 console = Console()
 
 
@@ -582,6 +584,49 @@ def art_auto(novel: str = typer.Argument(..., help="novel id or title"),
     n = _novel(store, novel)
     designs.set_art_settings(store, n["id"], auto=on)
     console.print(f"auto art {'on' if on else 'off'} for {n['title']} — runs while `babel serve` is up")
+
+
+# (published name, source path inside a NOCTURNE checkout, max width) — the Theatre of Stories kit
+THEME_FILES = [
+    ("curtain-left.webp", "art/m9-production/batch-m9b-1-babel/babel-curtain-left.png", 4000),
+    ("curtain-right.webp", "art/m9-production/batch-m9b-1-babel/babel-curtain-right.png", 4000),
+    ("valance.webp", "art/m9-production/batch-m9b-1-babel/babel-valance.png", 1020),
+    ("apron.webp", "art/m9-production/batch-m9b-1-babel/babel-apron.png", 1180),
+    ("footlights.webp", "art/m9-production/batch-m9b-1-babel/babel-footlights.png", 3540),
+    ("stage.webp", "art/m9-production/batch-m9b-1-babel/babel-stage.png", 1060),
+    ("hud-bar.webp", "assets/ui/hud-bar.webp", None),
+    ("brass-idle.webp", "assets/ui/button-brass-idle.webp", None),
+    ("brass-hover.webp", "assets/ui/button-brass-hover.webp", None),
+    ("brass-pressed.webp", "assets/ui/button-brass-pressed.webp", None),
+    ("panel-glass.webp", "assets/ui/panel-glass.webp", None),
+    ("flourish.webp", "assets/ui/corner-flourish.webp", None),
+]
+
+
+@theme_app.command("import")
+def theme_import(source: Path = typer.Argument(Path.home() / "NOCTURNE", help="a NOCTURNE checkout")) -> None:
+    """Copy the Theatre of Stories art from NOCTURNE into the library (kept out of git; the UI works without it)."""
+    from PIL import Image
+
+    s = _settings()
+    out = s.data_dir / "theme"
+    out.mkdir(parents=True, exist_ok=True)
+    done, missing = [], []
+    for name, rel, max_w in THEME_FILES:
+        src = source / rel
+        if not src.exists():
+            missing.append(rel)
+            continue
+        with Image.open(src) as im:
+            im = im.convert("RGBA")
+            if max_w and im.width > max_w:
+                im = im.resize((max_w, round(im.height * max_w / im.width)), Image.Resampling.NEAREST)
+            im.save(out / name, "WEBP", quality=90, method=6)
+        done.append(name)
+    (out / "SOURCE.txt").write_text(f"Imported from {source} (NOCTURNE review exports, owner's own art).\n")
+    console.print(f"[green]{len(done)} theatre files[/] → {out}")
+    if missing:
+        console.print(f"[yellow]not found:[/] {', '.join(missing)}")
 
 
 def main() -> None:

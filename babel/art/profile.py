@@ -39,6 +39,8 @@ STYLES = {
                "soft gradients, expressive detailed eyes, semi-realistic proportions"),
 }
 STYLE_TAGS = {"manhwa": "manhwa, webtoon, korean comic style"}
+BG_STYLES = {"manhwa": ("Korean manhwa webtoon background art, full color digital painting, clean lineart, "
+                        "cel shading with soft gradients, atmospheric lighting")}
 FRAMING = ("one person shown from the head to the waist, facing the viewer, bareheaded, mouth clearly visible, nothing in front "
            "of the face, plain light gray background, no scenery")
 NEGATIVE = ("worst quality, low quality, score_1, score_2, score_3, artist name, signature, watermark, text, "
@@ -274,11 +276,55 @@ def background_prompt(spec: dict, style: str = "manhwa") -> tuple[str, str]:
     Turbo ignores negative prompts, so "no people" has to be said in the positive prompt.
     """
     label = spec.get("label") or "a room"
-    note = _OFF_CHARACTER.sub("", spec.get("note") or "").strip(" ,.")
+    # scenery words are exactly what a background needs (the portrait filter must not touch them)
+    description = (spec.get("description") or "").strip(" ,.")
+    note = (spec.get("note") or "").strip(" ,.")
     era = (spec.get("era") or "").strip()
-    prompt = (f"masterpiece, best quality, score_7, safe, no humans, scenery, background, {STYLE_TAGS.get(style, '')}. "
-              f"Background art of {label}" + (f" ({note})" if note else "") +
-              (f", {era} period" if era else "") +
-              ". Wide establishing shot, detailed environment, empty of people, no characters, no text, no signs. "
-              f"{STYLES.get(style, style)}.")
+    # what the book says leads; the generic kind of place only fills in when there's no description
+    subject = description or (f"{label} ({note})" if note else label)
+    period = (f", in the {era} period: period-accurate architecture, furniture and lighting (gas lamps, candles, "
+              f"wood and brass), no modern technology" if era and not any(m in era.lower() for m in
+                                                                          ("modern", "contemporary", "future")) else "")
+    prompt = (f"masterpiece, best quality, score_7, safe, no humans, scenery, background, full scene, "
+              f"{STYLE_TAGS.get(style, '')}. Background art: {subject}{period}. "
+              "Wide establishing shot that fills the whole frame, detailed environment, empty of people, no "
+              f"characters, no text, no signs. {BG_STYLES.get(style, style)}.")
     return re.sub(r"(,\s*)+", ", ", prompt), "people, person, character, text, watermark, signature"
+
+
+_PLACE_WORDS = re.compile(
+    r"\b(street|road|alley|square|building|house|hall|room|walls?|windows?|doors?|roof|tower|dome|arch\w*|"
+    r"stairs?|staircase|floor|ceiling|lamps?|lanterns?|candles?|furniture|tables?|chairs?|bar\b|counter|shelves|"
+    r"pillars?|columns?|stone|brick|wooden|marble|garden|courtyard|bridge|river|harbou?r|dock|"
+    r"crowded|empty|dim|bright|dark|narrow|wide|grand|shabby|old|cozy|smoky)\b", re.I)
+
+PLACE_PROMPT = """You describe a place in a novel for a background painter.
+From the passages, write ONE vivid visual sentence (max 40 words) of what the place looks like: architecture,
+materials, light, furnishings, atmosphere. Only use what the passages say or clearly imply; if they say little,
+describe a fitting version for the setting. Never mention people. Also give the exact short quote you relied on most.
+Reply with JSON only: {"description": "...", "quote": "..."}"""
+
+
+def place_evidence(store, ak, eid: int, max_snippets: int = 10, max_chars: int = 4000) -> list[dict]:
+    """Passages that name the place together with descriptive scenery words, in book order."""
+    names = [n for n in dict.fromkeys([ak.name(eid) or ""] + list(ak.alias_text.get(eid, []))) if len(n) > 2]
+    if not names:
+        return []
+    rx = re.compile(r"\b(" + "|".join(re.escape(n) for n in sorted(names, key=len, reverse=True)) + r")\b")
+    out, total = [], 0
+    for r in store.q("SELECT idx, source_text FROM chapters WHERE novel_id=? ORDER BY idx", (ak.novel_id,)):
+        if not rx.search(r["source_text"]):
+            continue
+        for para in (x.strip() for x in r["source_text"].split("\n")):
+            if para and rx.search(para) and len(_PLACE_WORDS.findall(para)) >= 2:
+                out.append({"chapter": r["idx"] + 1, "text": para[:600]})
+                total += len(out[-1]["text"])
+                if len(out) >= max_snippets or total >= max_chars:
+                    return out
+    return out
+
+
+def place_messages(name: str, setting: str, evidence: list[dict]) -> list[dict]:
+    lines = [f"PLACE: {name}", f"SETTING: {setting or 'unknown'}", "PASSAGES:"]
+    lines += [f"[chapter {e['chapter']}] {e['text']}" for e in evidence] or ["(the book gives no description)"]
+    return [{"role": "system", "content": PLACE_PROMPT}, {"role": "user", "content": "\n".join(lines)}]

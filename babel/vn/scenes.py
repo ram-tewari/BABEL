@@ -17,27 +17,52 @@ from babel.scenario.ask import extract_json
 
 # generic places: key → (label for prompts, keywords in the narration)
 GENERIC: dict[str, tuple[str, str]] = {
-    "street": ("a city street", r"street|road|avenue|alley|lane|square|crossroads|sidewalk|pavement|boulevard"),
+    "street": ("a city street", r"street|road|avenue|alley|lane|town square|city square|market square|crossroads|sidewalk|pavement|"
+                         r"boulevard"),  # not a bare "square" (a shape)
     "room": ("a modest rented room", r"room|apartment|bedroom|flat|attic|lodging|bed\b|desk"),
     "parlor": ("an elegant drawing room in a wealthy house", r"parlou?r|drawing room|mansion|manor|villa|salon|estate"),
-    "office": ("an office", r"office|company|bureau|reception|headquarters|study"),
+    "office": ("a wood-panelled office with a desk and bookshelves", r"office|company|bureau|reception|headquarters|study"),
     "tavern": ("a crowded pub", r"pub|tavern|bar\b|inn\b|bartender|saloon"),
     "shop": ("a shop interior", r"shop|store|bakery|market|stall|boutique|pharmacy|herb"),
     "church": ("a church interior", r"church|cathedral|chapel|temple|shrine|altar|nave"),
     "carriage": ("the inside of a horse-drawn carriage", r"carriage|coach|cab\b|wagon"),
     "train": ("a train compartment", r"train|railway|compartment|steam locomotive|platform"),
     "library": ("a library with tall bookshelves", r"library|bookshelves|archive|reading room"),
-    "classroom": ("a lecture hall", r"classroom|lecture|university|school|academy|campus"),
+    "classroom": ("an old lecture hall with wooden benches and a chalkboard", r"classroom|lecture|university|school|academy|campus"),
     "hospital": ("a hospital ward", r"hospital|clinic|infirmary|ward\b"),
     "underground": ("an underground stone corridor", r"underground|basement|cellar|sewer|tunnel|vault|crypt"),
     "harbor": ("a harbor with ships at the dock", r"harbou?r|dock|pier|port\b|wharf|quay"),
-    "ship": ("the deck of a ship at sea", r"ship|deck|sail|sea\b|ocean|voyage"),
+    "ship": ("the wooden deck of a sailing ship at sea, masts and rigging", r"ship|aboard|on deck|ship's deck|sailors?|sails|mast|ocean|voyage|at sea"),  # not "deck" (of cards)
     "forest": ("a forest", r"forest|woods|trees|grove|jungle"),
     "countryside": ("open countryside", r"field|countryside|village|farm|meadow|hill|plain"),
     "palace": ("a grand palace hall", r"palace|castle|throne|court\b|great hall"),
     "mystic": ("an otherworldly misty void", r"fog|mist|gray fog|dream|void|spirit world|illusion|vision|astral"),
+    "tent": ("the dim inside of a fortune-teller's tent at a travelling circus, draped fabric and a small table",
+             r"tent|circus|carnival|fair\b|fairground|booth|troupe"),
 }
 GENERIC_DEFAULT = "room"
+# what the place plaque says (the long GENERIC labels are for the painter)
+SHORT = {"street": "A street", "room": "A rented room", "parlor": "A drawing room", "office": "An office",
+         "tavern": "A pub", "shop": "A shop", "church": "A church", "carriage": "A carriage", "train": "A train",
+         "library": "A library", "classroom": "A lecture hall", "hospital": "A hospital ward",
+         "underground": "Underground", "harbor": "The harbour", "ship": "Aboard ship", "forest": "A forest",
+         "countryside": "The countryside", "palace": "A palace hall", "mystic": "Beyond the veil",
+         "tent": "The fortune-teller's tent"}
+INDOOR = {"room", "parlor", "office", "tavern", "shop", "church", "carriage", "train", "library", "classroom",
+          "hospital", "underground", "palace", "tent"}
+_WEATHER = [("rain", re.compile(r"\b(rain\w*|drizzl\w*|downpour|storm\w*|thunder\w*|wet streets?)\b", re.I)),
+            ("snow", re.compile(r"\b(snow\w*|blizzard|sleet|frost\w*)\b", re.I)),
+            ("fog", re.compile(r"\b(fog\w*|mist\w*|haze|hazy|smog)\b", re.I))]
+
+
+def weather_of(text: str) -> str | None:
+    """The scene's weather from its narration (drawn as particles over the background)."""
+    best, n = None, 0
+    for kind, rx in _WEATHER:
+        c = len(rx.findall(text))
+        if c > n:
+            best, n = kind, c
+    return best
 _NIGHT = re.compile(r"\b(night|midnight|moonlight|moonlit|crimson moon|the moon|darkness|dark sky|nighttime|"
                     r"late at night|stars|starlight|gas lamps? (?:were )?lit)\b", re.I)
 _DAY = re.compile(r"\b(morning|noon|afternoon|sunlight|sunshine|daylight|dawn|sunrise|the sun)\b", re.I)
@@ -109,10 +134,13 @@ def locate(blocks: list[dict], ak: Akashic) -> list[dict]:
             place = {"kind": "named", "id": eid, "name": places[eid]["name"], "generic": kind}
             conf = 0.75
         else:
-            place = {"kind": "generic", "key": generic or GENERIC_DEFAULT, "name": GENERIC[generic or GENERIC_DEFAULT][0]}
+            place = {"kind": "generic", "key": generic or GENERIC_DEFAULT, "name": SHORT[generic or GENERIC_DEFAULT]}
             conf = 0.7 if hits >= 2 else 0.45
         night = len(_NIGHT.findall(text)) > len(_DAY.findall(text))
-        scenes.append({"start": start, "end": end, "place": place, "night": night, "conf": conf, "tier": "rule"})
+        kind = place.get("key") if place["kind"] == "generic" else place.get("generic")
+        scenes.append({"start": start, "end": end, "place": place, "night": night, "conf": conf, "tier": "rule",
+                       "weather": weather_of(text), "indoor": (kind or GENERIC_DEFAULT) in INDOOR,
+                       "category": kind or GENERIC_DEFAULT})
     return scenes
 
 
@@ -144,15 +172,18 @@ def apply_refine(text: str, scenes: list[dict], ak: Akashic) -> list[dict]:
     if not isinstance(got, list) or len(got) != len(scenes):
         return scenes
     for s, g in zip(scenes, got, strict=True):
-        if not isinstance(g, dict):
-            continue
+        if not isinstance(g, dict) or s.get("conf", 0) >= 0.7:
+            continue  # the model only decides the places the rules weren't sure about
         p = str(g.get("place", ""))
         if p.startswith("place:"):
             eid = ak.lookup(p[6:], kind="location")
-            if eid is not None:
-                s["place"] = {"kind": "named", "id": eid, "name": ak.name(eid), "generic": s["place"].get("generic")}
+            kind = venue_kind(p[6:]) if eid is not None else None
+            if eid is not None and kind:
+                s["place"] = {"kind": "named", "id": eid, "name": ak.name(eid), "generic": kind}
+                s["category"], s["indoor"] = kind, kind in INDOOR
         elif p.startswith("generic:") and p[8:] in GENERIC:
-            s["place"] = {"kind": "generic", "key": p[8:], "name": GENERIC[p[8:]][0]}
+            s["place"] = {"kind": "generic", "key": p[8:], "name": SHORT[p[8:]]}
+            s["category"], s["indoor"] = p[8:], p[8:] in INDOOR
         if g.get("time") in ("day", "night"):
             s["night"] = g["time"] == "night"
         s["tier"], s["conf"] = "local", 0.85

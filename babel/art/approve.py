@@ -74,19 +74,33 @@ def questions(profile: dict | None, gender: str | None, kind: str, emotion: str 
     return q, {"type": "object", "properties": props, "required": list(props)}
 
 
-def background_questions(label: str) -> tuple[list[str], dict]:
+def background_questions(label: str, era: str | None = None) -> tuple[list[str], dict]:
     yn = {"type": "string", "enum": ["yes", "no"]}
     q = ["people: how many people or characters are shown? (none / one / several)",
          f"place: does this show {label}? (yes / no / unclear)",
+         "full_scene: does the picture fill the whole frame as a place you could stand in (not an isolated object "
+         "on a blank or white background)? (yes / no)",
+         "modern: are there modern things in it — fluorescent lights, ceiling tiles, office chairs, projectors, "
+         "screens, cars, plastic, modern ships? (yes / no)",
          "text: are there any letters, words, signs, signatures or watermarks? (yes / no)",
          "coherent: is it a coherent, well-drawn scene (no warped or impossible architecture)? (yes / no)"]
     props = {"people": {"type": "string", "enum": ["none", "one", "several"]},
-             "place": {"type": "string", "enum": ["yes", "no", "unclear"]}, "text": yn, "coherent": yn}
+             "place": {"type": "string", "enum": ["yes", "no", "unclear"]}, "full_scene": yn, "modern": yn,
+             "text": yn, "coherent": yn}
     return q, {"type": "object", "properties": props, "required": list(props)}
 
 
-def score_background(answers: dict, label: str) -> dict:
+_MODERN_ERAS = ("modern", "contemporary", "present", "20", "21", "future", "sci", "cyber")
+
+
+def score_background(answers: dict, label: str, era: str | None = None) -> dict:
     issues, hard, s = [], False, 1.0
+    if answers.get("full_scene") == "no":
+        issues.append("not a full scene (an object on a blank background)")
+        s, hard = s - 0.6, True
+    if answers.get("modern") == "yes" and not any(m in (era or "").lower() for m in _MODERN_ERAS):
+        issues.append(f"modern things in a {era or 'period'} setting")
+        s, hard = s - 0.6, True
     if answers.get("people") != "none":
         issues.append("people in the background")
         s, hard = s - 0.6, True
@@ -104,9 +118,9 @@ def score_background(answers: dict, label: str) -> dict:
 
 
 def messages(image: Path | str, profile: dict | None, gender: str | None, kind: str,
-             emotion: str | None = None, background: str | None = None) -> tuple[list[dict], dict]:
+             emotion: str | None = None, background: str | None = None, era: str | None = None) -> tuple[list[dict], dict]:
     if background:
-        qs, schema = background_questions(background)
+        qs, schema = background_questions(background, era)
     else:
         qs, schema = questions(profile, gender, kind, emotion)
     lines = ["Questions about the image:"] + [f"{i}. {x}" for i, x in enumerate(qs, 1)]
@@ -201,13 +215,13 @@ class Approver:
 
     def check(self, image: Path | str, *, profile: dict | None, gender: str | None, kind: str,
               emotion: str | None = None, reference: Path | str | None = None,
-              background: str | None = None) -> dict:
+              background: str | None = None, era: str | None = None) -> dict:
         """``background`` = the place it should show, for background images (else a character check)."""
-        msgs, schema = messages(image, profile, gender, kind, emotion, background)
+        msgs, schema = messages(image, profile, gender, kind, emotion, background, era)
         reply = self.vlm.chat(msgs, schema=schema, max_tokens=400)
         answers = extract_json(reply.content)
         if background:
-            out = score_background(answers, background)
+            out = score_background(answers, background, era)
             out["model"] = self.model
             return out
         pixel = reference is not None and kind == "expression"

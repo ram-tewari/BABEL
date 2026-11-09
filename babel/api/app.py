@@ -662,6 +662,21 @@ def create_app(settings: Settings | None = None, store: Store | None = None, cas
 
     api.include_router(art_router(store, art, lambda: cascade.local or cascade.cloud, novel_or_404, entity_or_404))
 
+    @api.get("/theme")
+    def theme() -> dict:
+        """Optional theatre art imported from NOCTURNE (`babel theme import`); the UI has CSS fallbacks."""
+        folder = settings.data_dir / "theme"
+        files = sorted(p.name for p in folder.glob("*.webp")) if folder.exists() else []
+        return {"files": files, "base": "/api/theme/files/"}
+
+    @api.get("/theme/files/{name}")
+    def theme_file(name: str):
+        folder = (settings.data_dir / "theme").resolve()
+        path = (folder / name).resolve()
+        if folder not in path.parents or not path.is_file():
+            raise HTTPException(404, "no such theme file")
+        return FileResponse(path, media_type="image/webp", headers={"Cache-Control": "max-age=604800"})
+
     @api.get("/system")
     def system_status() -> dict:
         """What the machine looks like right now and how politely BABEL is behaving."""

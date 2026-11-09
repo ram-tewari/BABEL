@@ -248,7 +248,7 @@ class FakeApprover:
     def __init__(self, fail_first=0, fail_emotions=()):
         self.fail_first, self.fail_emotions, self.n = fail_first, set(fail_emotions), 0
 
-    def check(self, image, *, profile, gender, kind, emotion=None, reference=None, background=None):
+    def check(self, image, *, profile, gender, kind, emotion=None, reference=None, background=None, era=None):
         self.n += 1
         bad = self.n <= self.fail_first or emotion in self.fail_emotions
         return {"score": 0.2 if bad else 0.95, "pass": not bad, "issues": ["wearing a hat"] if bad else [],

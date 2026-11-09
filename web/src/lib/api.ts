@@ -252,6 +252,7 @@ export interface SchedulerStatus {
   status: "idle" | "waiting" | "paused" | "profiling" | "staging" | "drawing" | "checking" | "unavailable";
   detail: string | null;
   error: string | null;
+  images: boolean;
   worker_running: boolean;
   queued: number;
   failed: number;
@@ -315,11 +316,21 @@ export interface StageBlock {
 }
 
 export interface StageView {
-  chapter: { id: number; novel_id: number; idx: number; title: string; prev_id: number | null; next_id: number | null };
+  chapter: {
+    id: number;
+    novel_id: number;
+    idx: number;
+    title: string;
+    prev_id: number | null;
+    next_id: number | null;
+    novel_title: string;
+    chapter_count: number;
+    transformed: boolean;
+  };
   ready: boolean;
   missing: string[];
   refined: boolean;
-  scenes: { start: number; end: number; place: string; night: boolean; background: string | null }[];
+  scenes: { start: number; end: number; place: string; night: boolean; background: string | null; weather: string | null; indoor: boolean; category: string }[];
   blocks: StageBlock[];
   cast: Record<string, { name: string; color: string | null; side: "left" | "right"; extra: boolean; has_art: boolean }>;
   queued?: number;
@@ -423,7 +434,12 @@ export const api = {
       `/novels/${novelId}/library`,
     ),
   redrawLibrary: (entityId: number) => req<{ ok: true }>(`/library/${entityId}/redraw`, json("POST")),
+  paintDefaults: (novelId: number) => req<{ queued: number; era: string }>(`/novels/${novelId}/library/defaults`, json("POST")),
   prepareStage: (chapterId: number) => req<StageView>(`/chapters/${chapterId}/stage/prepare`, json("POST")),
+  play: (novelId: number) =>
+    req<{ title: string; author: string | null; has_cover: boolean; first: { id: number; idx: number; title: string } | null; continue: { id: number; idx: number; title: string } | null; ready: number; transformed: number; total: number }>(
+      `/novels/${novelId}/play`,
+    ),
   system: () => req<SystemStatus>("/system"),
   setSystemPrefs: (body: Partial<Pick<SystemPolicy, "background_when" | "pause_on_battery" | "idle_after_s">>) =>
     req<SystemPolicy>("/system/prefs", json("PUT", body)),

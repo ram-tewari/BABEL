@@ -204,6 +204,25 @@ def art_router(store: Store, scheduler: ArtScheduler, llm_factory: Callable[[], 
         first_ready = plan.readiness(store, Akashic(store, nid), limit=0)["ready_ids"][:1]
         return {"items": out, "first_ready_chapter": first_ready[0] if first_ready else None}
 
+    @r.post("/novels/{nid}/library/defaults")
+    def paint_defaults(nid: int) -> dict:
+        """Paint the common sets for this novel's era up front (street, room, pub, …), so scenes rarely wait."""
+        from babel.vn.library import DEFAULT_SETS, ensure_generic_background, library_novel_id
+
+        novel_or_404(nid)
+        era = designs.art_settings(store, nid).get("era") or "timeless"
+        lib_ak = Akashic(store, library_novel_id(store))
+        queued = 0
+        for key in DEFAULT_SETS:
+            eid = ensure_generic_background(store, era, key)
+            d = designs.get_design(store, eid)
+            if d and d["status"] == "profiled":
+                lib_ak.reload()
+                designs.queue_candidates(store, lib_ak, eid, manual=True)
+                queued += 1
+        scheduler.poke()
+        return {"queued": queued, "era": era}
+
     @r.post("/library/{eid}/redraw")
     def redraw_library(eid: int) -> dict:
         """Draw a shared face or background again (you didn't like it)."""
@@ -215,6 +234,19 @@ def art_router(store: Store, scheduler: ArtScheduler, llm_factory: Callable[[], 
         designs.queue_candidates(store, Akashic(store, row["novel_id"]), eid, manual=True)
         scheduler.poke()
         return {"ok": True}
+
+    @r.get("/novels/{nid}/play")
+    def play(nid: int) -> dict:
+        """Where the visual novel starts and where you left off."""
+        n = novel_or_404(nid)
+        first = store.one("SELECT id, idx, title FROM chapters WHERE novel_id=? AND status='done' ORDER BY idx LIMIT 1",
+                          (nid,))
+        prog = store.one("SELECT c.id, c.idx, c.title FROM progress p JOIN chapters c ON c.id=p.chapter_id"
+                         " WHERE p.novel_id=?", (nid,))
+        r_ = plan.readiness(store, Akashic(store, nid), limit=0)
+        return {"title": n["title"], "author": n.get("author"), "has_cover": bool(n.get("cover_path")),
+                "first": first, "continue": prog if prog and prog["id"] != (first or {}).get("id") else None,
+                "ready": r_["ready"], "transformed": r_["transformed"], "total": r_["total"]}
 
     # ── visual novel ──────────────────────────────────────────────────────
     def chapter_ak(cid: int) -> Akashic:
@@ -247,7 +279,7 @@ def art_router(store: Store, scheduler: ArtScheduler, llm_factory: Callable[[], 
                 stage.refine(store, ak, cid, llm)
             except Exception as e:  # rules are a fine fallback
                 raise HTTPException(502, f"couldn't refine the staging: {e}") from e
-        needed = stage.prepare(store, ak, cid, manual=True)
+        needed = stage.prepare(store, ak, cid, manual=True, llm=llm)
         nxt = store.one("SELECT c2.id FROM chapters c1 JOIN chapters c2 ON c2.novel_id=c1.novel_id"
                         " AND c2.idx=c1.idx+1 WHERE c1.id=? AND c2.status='done'", (cid,))
         if nxt:

@@ -147,3 +147,47 @@ def test_stage_view_and_api(store, tmp_path, sch):
         v = c.get(f"/api/chapters/{cid}/stage").json()
         assert v["scenes"][0]["background"] and all(x["has_art"] for x in v["cast"].values())
         assert c.get(lines[0]["sprite"]).headers["content-type"] == "image/png"
+
+
+def test_model_only_decides_uncertain_places(store):
+    nid = store.create_novel("t", [("c", "x", "h")])
+    ak = Akashic(store, nid)
+    scenes = [{"start": 0, "end": 2, "place": {"kind": "generic", "key": "room", "name": "a room"}, "night": True,
+               "conf": 0.7, "tier": "rule", "category": "room", "indoor": True},
+              {"start": 2, "end": 4, "place": {"kind": "generic", "key": "room", "name": "a room"}, "night": False,
+               "conf": 0.45, "tier": "rule", "category": "room", "indoor": True}]
+    out = sc.apply_refine('{"scenes": [{"place": "generic:tavern", "time": "day"}, '
+                          '{"place": "generic:tent", "time": "night"}]}', scenes, ak)
+    assert out[0]["place"]["key"] == "room" and out[0]["night"]  # confident rule kept
+    assert out[1]["place"]["key"] == "tent" and out[1]["night"] and out[1]["indoor"]
+
+
+def test_background_prompt_lets_the_book_lead():
+    from babel.art.profile import background_prompt
+    p, _ = background_prompt({"label": "a lecture hall", "era": "1850s Victorian",
+                              "description": "A three-story stone building shaded by greenery"})
+    assert "Background art: A three-story stone building" in p and "lecture hall" not in p
+    assert "eyes" not in p and "no humans" in p
+    p, _ = background_prompt({"label": "a crowded pub", "era": "1850s Victorian"})
+    assert "Background art: a crowded pub, in the 1850s Victorian period" in p and "no modern technology" in p
+
+
+def test_background_checker_rejects_cutouts_and_anachronisms():
+    from babel.art.approve import score_background
+    ok = {"people": "none", "place": "yes", "full_scene": "yes", "modern": "no", "text": "no", "coherent": "yes"}
+    assert score_background(ok, "a pub", "1850s Victorian")["pass"]
+    assert not score_background({**ok, "full_scene": "no"}, "a tent", "1850s Victorian")["pass"]
+    assert not score_background({**ok, "modern": "yes"}, "an office", "1850s Victorian")["pass"]
+    assert score_background({**ok, "modern": "yes"}, "an office", "modern-day Korean")["pass"]
+
+
+def test_a_deck_of_cards_is_not_a_ship():
+    assert sc.generic_place("She stacked the cards into a deck and shuffled the deck.")[0] != "ship"
+    assert sc.generic_place("The sailors ran across the ship's deck as the mast creaked.")[0] == "ship"
+    assert sc.generic_place("He came to the centre of the room and walked in the shape of a square.")[0] == "room"
+
+
+def test_place_plaques_are_short_and_gender_is_read_from_the_book():
+    assert lib.infer_gender("the woman whose face was painted; she smiled") == "f"
+    assert lib.infer_gender("the man tipped his hat") == "m" and lib.infer_gender("someone") is None
+    assert sc.SHORT["tent"] == "The fortune-teller's tent" and set(sc.SHORT) == set(sc.GENERIC)
