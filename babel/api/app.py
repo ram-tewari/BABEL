@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import json
+import os
 import shutil
 import tempfile
 from collections import Counter
@@ -17,6 +18,7 @@ from pydantic import BaseModel, Field
 
 from babel import __version__
 from babel.api.art_routes import art_router
+from babel.art.approve import Approver
 from babel.art.runner import ArtScheduler, SubprocessBackend
 from babel.config import Settings
 from babel.ingest import IngestError, load_book
@@ -28,6 +30,7 @@ from babel.pipeline.jobs import TIER_MODES, Worker, create_job
 from babel.scenario.cascade import Cascade
 from babel.scenario.segment import segment_text
 from babel.store.db import Store
+from babel.system import Governor, load_prefs, save_prefs
 
 WEB_DIST = [Path(__file__).resolve().parent.parent / "web_dist", Path(__file__).resolve().parents[2] / "web" / "dist"]
 
@@ -98,11 +101,38 @@ class CoverUrlBody(BaseModel):
     url: str
 
 
-def build_art_scheduler(settings: Settings, store: Store, cascade: Cascade) -> ArtScheduler:
+class PrefsBody(BaseModel):
+    background_when: str | None = None  # idle | always
+    pause_on_battery: bool | None = None
+    idle_after_s: float | None = None
+
+
+def build_governor(settings: Settings, store: Store) -> Governor:
+    return Governor(load_prefs(store, settings.policy()),
+                    ollama_url=os.getenv("OLLAMA_BASE_URL", "http://localhost:11434").rstrip("/").removesuffix("/v1"))
+
+
+def build_approver(settings: Settings) -> Approver | None:
+    """The quality checker: the best installed vision model in Ollama (or the one you named)."""
+    if settings.vision.lower() in ("off", "none", "0", "false"):
+        return None
+    from babel.art.approve import VISION_PREFERRED
+    from babel.llm.providers import LocalModel, ollama_models
+
+    base = os.getenv("OLLAMA_BASE_URL", "http://localhost:11434").rstrip("/").removesuffix("/v1")
+    installed = ollama_models(base)
+    wanted = [settings.vision] if settings.vision != "auto" else list(VISION_PREFERRED)
+    model = next((m for m in wanted if m in installed), None)
+    return Approver(LocalModel(model, base, keep_alive="2m")) if model else None
+
+
+def build_art_scheduler(settings: Settings, store: Store, cascade: Cascade, governor: Governor) -> ArtScheduler:
     python = settings.art_python_path()
     backend = (lambda: SubprocessBackend(python, settings.art_dir / "worker.log")) if python else None
     return ArtScheduler(store, art_dir=settings.art_dir, portraits_dir=settings.portraits_dir,
-                        backend_factory=backend, llm_factory=lambda: cascade.local or cascade.cloud)
+                        backend_factory=backend, llm_factory=lambda: cascade.local or cascade.cloud,
+                        approver_factory=lambda: build_approver(settings), governor=governor,
+                        ollama_url=governor.ollama_url)
 
 
 def create_app(settings: Settings | None = None, store: Store | None = None, cascade: Cascade | None = None,
@@ -110,8 +140,9 @@ def create_app(settings: Settings | None = None, store: Store | None = None, cas
     settings = settings or Settings.from_env()
     store = store or Store(settings.db_path)
     cascade = cascade or settings.build_cascade()
-    worker = Worker(store, lambda: cascade, settings.concurrency, settings.parallel_novels)
-    art = art or build_art_scheduler(settings, store, cascade)
+    governor = build_governor(settings, store)
+    worker = Worker(store, lambda: cascade, settings.concurrency, settings.parallel_novels, governor=governor)
+    art = art or build_art_scheduler(settings, store, cascade, governor)
 
     @asynccontextmanager
     async def lifespan(_app: FastAPI):
@@ -124,6 +155,7 @@ def create_app(settings: Settings | None = None, store: Store | None = None, cas
 
     app = FastAPI(title="BABEL", version=__version__, lifespan=lifespan)
     app.state.store, app.state.worker, app.state.cascade, app.state.art = store, worker, cascade, art
+    app.state.governor = governor
     api = APIRouter(prefix="/api")
 
     # ── helpers ───────────────────────────────────────────────────────────
@@ -629,6 +661,28 @@ def create_app(settings: Settings | None = None, store: Store | None = None, cas
         return JSONResponse(payload, headers={"Content-Disposition": f'attachment; filename="{_safe(n["title"])}.babel.json"'})
 
     api.include_router(art_router(store, art, lambda: cascade.local or cascade.cloud, novel_or_404, entity_or_404))
+
+    @api.get("/system")
+    def system_status() -> dict:
+        """What the machine looks like right now and how politely BABEL is behaving."""
+        from dataclasses import asdict
+
+        from babel import system
+
+        loaded = system.ollama_loaded(governor.ollama_url)
+        return {**system.status(), "policy": asdict(governor.policy), "ollama_loaded": loaded,
+                "background_ok": governor.background() is None, "background_reason": governor.background()}
+
+    @api.put("/system/prefs")
+    def system_prefs(body: PrefsBody) -> dict:
+        from dataclasses import asdict
+
+        try:
+            save_prefs(store, governor.policy, **body.model_dump(exclude_unset=True))
+        except ValueError as e:
+            raise HTTPException(422, str(e)) from e
+        art.poke()
+        return asdict(governor.policy)
     app.include_router(api)
     _mount_web(app)
     return app

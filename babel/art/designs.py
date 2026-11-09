@@ -89,7 +89,9 @@ def image_dir(art_dir: Path, novel_id: int, eid: int) -> Path:
     return p
 
 
-def queue_candidates(store: Store, ak: Akashic, eid: int, n: int = CANDIDATES) -> list[int]:
+def queue_candidates(store: Store, ak: Akashic, eid: int, n: int = CANDIDATES, *, manual: bool = True,
+                     attempt: int = 1) -> list[int]:
+    """Queue ``n`` base options. ``manual`` (you asked) runs right away; automatic work waits until you're idle."""
     d = ensure_design(store, eid)
     if not d.get("profile"):
         raise ValueError("draft or write the appearance profile first")
@@ -98,32 +100,38 @@ def queue_candidates(store: Store, ak: Akashic, eid: int, n: int = CANDIDATES) -
     ids = []
     for _ in range(n):
         ids.append(store.x(
-            "INSERT INTO art_images (design_id, kind, status, seed, model, prompt, created_at)"
-            " VALUES (?, 'candidate', 'queued', ?, ?, ?, ?)",
+            "INSERT INTO art_images (design_id, kind, status, seed, model, prompt, manual, attempt, created_at)"
+            " VALUES (?, 'candidate', 'queued', ?, ?, ?, ?, ?, ?)",
             (d["id"], random.randint(1, 2**31 - 1), BASE_MODEL, json.dumps({"prompt": prompt, "negative": negative}),
-             now())))
+             int(manual), attempt, now())))
     _update(store, d["id"], status="candidates", message=None)
     return ids
+
+
+def queue_expression(store: Store, design_id: int, emotion: str, *, manual: bool = True, attempt: int = 1) -> int:
+    return store.x("INSERT INTO art_images (design_id, kind, emotion, status, seed, model, prompt, manual, attempt,"
+                   " created_at) VALUES (?, 'expression', ?, 'queued', ?, ?, ?, ?, ?, ?)",
+                   (design_id, emotion, random.randint(1, 2**31 - 1), EDIT_MODEL,
+                    json.dumps({"prompt": expression_prompt(emotion)}), int(manual), attempt, now()))
 
 
 def approve_candidate(store: Store, image_id: int) -> dict:
     """You picked a base portrait: it becomes the neutral expression and the rest of the sheet is queued."""
     img = store.one("SELECT * FROM art_images WHERE id=?", (image_id,))
-    if img is None or img["kind"] != "candidate" or img["status"] != "done":
-        raise ValueError("only a finished candidate can be approved")
+    if img is None or img["kind"] != "candidate" or img["status"] not in ("done", "rejected") or not img["path"]:
+        raise ValueError("only a finished option can be chosen")
+    if img["status"] == "rejected":  # you overrule the quality checker
+        store.x("UPDATE art_images SET status='done' WHERE id=?", (image_id,))
     d = store.one("SELECT * FROM designs WHERE id=?", (img["design_id"],))
     with store.tx() as c:
         c.execute("UPDATE art_images SET status='rejected' WHERE design_id=? AND kind='expression'", (d["id"],))
-        c.execute("INSERT INTO art_images (design_id, kind, emotion, status, path, seed, model, prompt, created_at)"
-                  " VALUES (?, 'expression', 'neutral', 'done', ?, ?, ?, ?, ?)",
-                  (d["id"], img["path"], img["seed"], img["model"], img["prompt"], now()))
-        for emotion in EMOTIONS:
-            if emotion == "neutral":
-                continue
-            c.execute("INSERT INTO art_images (design_id, kind, emotion, status, seed, model, prompt, created_at)"
-                      " VALUES (?, 'expression', ?, 'queued', ?, ?, ?, ?)",
-                      (d["id"], emotion, random.randint(1, 2**31 - 1), EDIT_MODEL,
-                       json.dumps({"prompt": expression_prompt(emotion)}), now()))
+        c.execute("INSERT INTO art_images (design_id, kind, emotion, status, path, seed, model, prompt, manual,"
+                  " qc_status, qc_score, qc, created_at) VALUES (?, 'expression', 'neutral', 'done', ?, ?, ?, ?, 1,"
+                  " ?, ?, ?, ?)", (d["id"], img["path"], img["seed"], img["model"], img["prompt"], img.get("qc_status"),
+                                   img.get("qc_score"), img.get("qc"), now()))
+    for emotion in EMOTIONS:
+        if emotion != "neutral":
+            queue_expression(store, d["id"], emotion, manual=True)  # you're waiting for this sheet
     _update(store, d["id"], base_image_id=image_id, status="sheet", message=None)
     return store.one("SELECT * FROM designs WHERE id=?", (d["id"],))
 
@@ -134,10 +142,7 @@ def reroll(store: Store, image_id: int) -> int:
     if img is None or img["kind"] != "expression" or img["emotion"] == "neutral":
         raise ValueError("only a generated expression can be rerolled")
     store.x("UPDATE art_images SET status='rejected' WHERE id=?", (image_id,))
-    new = store.x("INSERT INTO art_images (design_id, kind, emotion, status, seed, model, prompt, created_at)"
-                  " VALUES (?, 'expression', ?, 'queued', ?, ?, ?, ?)",
-                  (img["design_id"], img["emotion"], random.randint(1, 2**31 - 1), EDIT_MODEL,
-                   json.dumps({"prompt": expression_prompt(img["emotion"])}), now()))
+    new = queue_expression(store, img["design_id"], img["emotion"], manual=True)
     _update(store, img["design_id"], status="sheet")
     return new
 
@@ -157,15 +162,24 @@ def after_image(store: Store, design_id: int) -> None:
     d = store.one("SELECT * FROM designs WHERE id=?", (design_id,))
     if d is None:
         return
-    pending = store.one("SELECT COUNT(*) n FROM art_images WHERE design_id=? AND status IN ('queued','running')",
-                        (design_id,))["n"]
+    pending = store.one("SELECT COUNT(*) n FROM art_images WHERE design_id=? AND (status IN ('queued','running')"
+                        " OR (status='done' AND qc_status='pending'))", (design_id,))["n"]
     if pending:
         return
     if d["status"] == "candidates":
         done = store.one("SELECT COUNT(*) n FROM art_images WHERE design_id=? AND kind='candidate' AND status='done'",
                          (design_id,))["n"]
+        message = None
+        if not done:  # the checker rejected everything: show the best few rather than nothing
+            best = store.q("SELECT id FROM art_images WHERE design_id=? AND kind='candidate' AND status='rejected'"
+                           " AND qc_status='fail' ORDER BY qc_score DESC LIMIT 3", (design_id,))
+            for r in best:
+                store.x("UPDATE art_images SET status='done' WHERE id=?", (r["id"],))
+            done = len(best)
+            message = ("The checker wasn't happy with any option; these are the closest. "
+                       "Adjusting the profile usually helps.") if best else None
         _update(store, design_id, status="choose" if done else "failed",
-                message=None if done else "every candidate failed — see the art log")
+                message=message if done else "every option failed — see the art log")
     elif d["status"] == "sheet":
         have = {r["emotion"] for r in store.q(
             "SELECT emotion FROM art_images WHERE design_id=? AND kind='expression' AND status='done'", (design_id,))}
@@ -176,10 +190,20 @@ def after_image(store: Store, design_id: int) -> None:
 
 # ── views ─────────────────────────────────────────────────────────────────
 def image_public(img: dict) -> dict:
+    qc = json.loads(img["qc"]) if img.get("qc") else None
+    has_file = bool(img["path"]) and img["status"] in ("done", "rejected")
     return {"id": img["id"], "kind": img["kind"], "emotion": img["emotion"], "status": img["status"],
             "seed": img["seed"], "model": img["model"], "error": img["error"], "secs": img["secs"],
-            "url": f"/api/art/images/{img['id']}" if img["status"] == "done" and img["path"] else None,
-            "thumb": f"/api/art/images/{img['id']}?thumb=1" if img["status"] == "done" and img["path"] else None}
+            "attempt": img.get("attempt") or 1, "qc_status": img.get("qc_status"), "qc_score": img.get("qc_score"),
+            "qc_issues": (qc or {}).get("issues") or [],
+            "url": f"/api/art/images/{img['id']}" if has_file else None,
+            "thumb": f"/api/art/images/{img['id']}?thumb=1" if has_file else None}
+
+
+def _rank(img: dict) -> tuple:
+    """Best first: finished and passing the checker, by score; then the rest."""
+    order = {"pass": 0, "skipped": 1, None: 1, "pending": 1, "fail": 2}
+    return (img["status"] != "done", order.get(img.get("qc_status"), 1), -(img.get("qc_score") or 0), -img["id"])
 
 
 def design_view(store: Store, ak: Akashic, eid: int) -> dict:
@@ -187,6 +211,8 @@ def design_view(store: Store, ak: Akashic, eid: int) -> dict:
     info = next((c for c in plan.characters(store, ak) if c["id"] == eid), None)
     images = store.q("SELECT * FROM art_images WHERE design_id=? AND status != 'rejected' ORDER BY id",
                      (d["id"],)) if d else []
+    checker_rejected = store.q("SELECT * FROM art_images WHERE design_id=? AND status='rejected' AND qc_status='fail'"
+                               " AND kind='candidate' ORDER BY id DESC", (d["id"],)) if d else []
     sheet = {e: None for e in EMOTIONS}
     for img in images:
         if img["kind"] == "expression":
@@ -199,6 +225,7 @@ def design_view(store: Store, ak: Akashic, eid: int) -> dict:
         "profile": json.loads(d["profile"]) if d and d.get("profile") else None,
         "profile_locked": json.loads(d["profile_locked"]) if d and d.get("profile_locked") else [],
         "base_image_id": d["base_image_id"] if d else None,
-        "candidates": [image_public(i) for i in images if i["kind"] == "candidate"],
+        "candidates": [image_public(i) for i in sorted((i for i in images if i["kind"] == "candidate"), key=_rank)],
+        "rejected": [image_public(i) for i in checker_rejected],
         "sheet": sheet,
     }

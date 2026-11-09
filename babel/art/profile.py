@@ -91,11 +91,12 @@ def gather_evidence(store: Store, ak: Akashic, eid: int, *, max_snippets: int = 
     rx = re.compile(r"\b(" + "|".join(re.escape(n) for n in sorted(names, key=len, reverse=True)) + r")\b")
     out: list[dict] = []
     total = 0
-    rows = store.q("SELECT c.idx, c.source_text FROM chapters c WHERE c.novel_id=? AND c.id IN"
-                   " (SELECT chapter_id FROM chapter_cast WHERE entity_id=?) ORDER BY c.idx", (ak.novel_id, eid))
-    if not rows:  # not counted yet: scan the start of the book
-        rows = store.q("SELECT idx, source_text FROM chapters WHERE novel_id=? ORDER BY idx LIMIT 80", (ak.novel_id,))
+    # every chapter that *mentions* them, earliest first — descriptions often come before or after
+    # the chapters where they speak (Melissa talks in ch 4, but is described in ch 16)
+    rows = store.q("SELECT idx, source_text FROM chapters WHERE novel_id=? ORDER BY idx", (ak.novel_id,))
     for r in rows:
+        if not rx.search(r["source_text"]):
+            continue
         paras = [p.strip() for p in r["source_text"].split("\n") if p.strip()]
         for i, p in enumerate(paras):
             if not rx.search(p):
@@ -110,6 +111,47 @@ def gather_evidence(store: Store, ak: Akashic, eid: int, *, max_snippets: int = 
             if len(out) >= max_snippets or total >= max_chars:
                 return out
     return out
+
+
+# what a quote must talk about to count as evidence for a field
+_FIELD_WORDS = {
+    "hair": r"hair|haired|bald|braid|ponytail|locks|bangs",
+    "eyes": r"eyes?|gaze|pupils?|irises",
+    "build": r"build|tall|short|thin|slender|slim|stout|plump|muscular|figure|height|frame|lean|skinny|broad",
+    "face": r"face|faced|features|handsome|pretty|beautiful|cheeks?|nose|jaw|chin|lips|brows?",
+    "skin": r"skin|complexion|pale|tanned|fair|dark-skinned",
+    "outfit": r"wore|wears|wearing|dressed|clothes|clothing|coat|dress|shirt|suit|robe|uniform|vest|jacket|skirt|cloak",
+    "age": r"old|young|aged?|years?|youth|teen|child|girl|boy|elder|middle-aged|thirties|twenties",
+}
+_COLORS = re.compile(r"\b(black|white|gr[ae]y|silver|brown|blond|blonde|golden|red|reddish|auburn|ginger|chestnut|"
+                     r"blue|green|hazel|amber|emerald|violet|purple|pink|dark|light|pale)\b", re.I)
+
+
+def _norm(t: str) -> str:
+    return " ".join(t.lower().replace("’", "'").replace("“", '"').replace("”", '"').split())
+
+
+def verify_citations(profile: dict, evidence: list[dict]) -> dict:
+    """Keep a citation only if the quote really is in the passages, is about that field, and (for hair/eyes)
+    agrees on colour. Anything unproven becomes a visible guess instead of a fake citation."""
+    corpus = [(e["chapter"], _norm(e["text"])) for e in evidence]
+    for f in FIELDS:
+        v = profile.get(f)
+        if not isinstance(v, dict) or not v.get("quote"):
+            continue
+        q = _norm(v["quote"]).strip(" .\"'")
+        found = next((ch for ch, text in corpus if q and q in text), None)
+        about = f not in _FIELD_WORDS or re.search(rf"\b({_FIELD_WORDS[f]})\b", q)
+        colours_ok = True
+        if f in ("hair", "eyes"):
+            want = {c.lower() for c in _COLORS.findall(v.get("value", ""))}
+            have = {c.lower() for c in _COLORS.findall(q)}
+            colours_ok = not want or bool(want & have)
+        if found is None or not about or not colours_ok:
+            v.update(guessed=True, chapter=None, quote="")
+        else:
+            v.update(guessed=False, chapter=found)
+    return profile
 
 
 def draft_messages(name: str, aliases: list[str], gender: str | None, note: str | None, setting: str,
@@ -172,17 +214,23 @@ def portrait_tags(profile: dict) -> list[str]:
             if not _OFF_CHARACTER.search(t) and not _ERA_ONLY.search(t) and (keep_hat or not _HAT.search(t))]
 
 
-def describe(profile: dict) -> str:
+def portrait_values(profile: dict) -> dict[str, str]:
+    """What the portrait should actually show, field by field (hats and setting words removed) —
+    used both to build the prompt and by the quality checker, so they always agree."""
     keep_hat = wears_hat(profile)
-    parts = []
+    out = {}
     for f in FIELDS:
         v = profile.get(f, {}).get("value", "")
         if f in ("outfit", "accessories") and not keep_hat:
             v = ", ".join(x.strip() for x in re.split(r",|\band\b|\bwith\b", v) if x.strip() and not _HAT.search(x))
         v = _OFF_CHARACTER.sub("", v).strip(" ,") if f != "age" else v
         if v:
-            parts.append(f"{FIELD_LABELS[f].split(' /')[0].lower()}: {v}")
-    return "; ".join(parts)
+            out[f] = v
+    return out
+
+
+def describe(profile: dict) -> str:
+    return "; ".join(f"{FIELD_LABELS[f].split(' /')[0].lower()}: {v}" for f, v in portrait_values(profile).items())
 
 
 def base_prompt(profile: dict, gender: str | None, art: dict) -> tuple[str, str]:

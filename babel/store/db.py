@@ -183,6 +183,11 @@ class Store:
     _ADDED_COLUMNS: list[tuple[str, str, str]] = [
         ("novels", "art", "TEXT"),             # JSON {"style": …, "setting": …, "auto": bool}
         ("entities", "art_tier", "TEXT"),      # user override: main | supporting | minor | extra
+        ("art_images", "manual", "INTEGER NOT NULL DEFAULT 0"),  # you asked for it → runs now, not when idle
+        ("art_images", "attempt", "INTEGER NOT NULL DEFAULT 1"),  # redraws by the quality checker
+        ("art_images", "qc_status", "TEXT"),   # pending | pass | fail | skipped
+        ("art_images", "qc_score", "REAL"),
+        ("art_images", "qc", "TEXT"),          # JSON: answers, issues, model
     ]
 
     def __init__(self, path: Path | str):

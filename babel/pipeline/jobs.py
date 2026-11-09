@@ -11,12 +11,14 @@ from __future__ import annotations
 
 import logging
 import threading
+import time
 from collections.abc import Callable
 from concurrent.futures import FIRST_COMPLETED, Future, ThreadPoolExecutor, wait
 
 from babel.memory.akashic import Akashic
 from babel.scenario.cascade import Cascade, TransformFailed
 from babel.store.db import Store, now
+from babel.system import Governor
 
 log = logging.getLogger(__name__)
 
@@ -51,8 +53,13 @@ def job_targets(store: Store, job: dict, *, all_in_range: bool = False) -> list[
 
 
 def run_job(store: Store, cascade: Cascade, job_id: int, concurrency: int = 2,
-            on_chapter: Callable[[dict, str], None] | None = None) -> dict:
-    """Run a job to completion (or until paused/cancelled). Returns the final job row."""
+            on_chapter: Callable[[dict, str], None] | None = None,
+            gate: Callable[[], str | None] | None = None, gate_poll: float = 5.0) -> dict:
+    """Run a job to completion (or until paused/cancelled). Returns the final job row.
+
+    ``gate`` is asked before each chapter starts: None means go; a string is the reason to wait
+    (e.g. not enough free memory for the model), shown as the job's message until it clears.
+    """
     job = store.one("SELECT * FROM jobs WHERE id=?", (job_id,))
     if job is None:
         raise ValueError(f"no job {job_id}")
@@ -94,8 +101,15 @@ def run_job(store: Store, cascade: Cascade, job_id: int, concurrency: int = 2,
                 if pending and job["force"]:
                     store.x("UPDATE jobs SET first_idx=? WHERE id=?", (pending[0]["idx"], job_id))
                 pending.clear()
+            blocked = None
             while pending and len(running) < concurrency:
+                if gate is not None and (blocked := gate()):
+                    break
                 running.add(pool.submit(work, pending.pop(0)))
+            if blocked and not running:
+                store.x("UPDATE jobs SET message=? WHERE id=?", (blocked, job_id))
+                time.sleep(gate_poll)
+                continue
             if not running:
                 break
             finished, running = wait(running, return_when=FIRST_COMPLETED)
@@ -122,14 +136,21 @@ def run_job(store: Store, cascade: Cascade, job_id: int, concurrency: int = 2,
 
 
 class Worker:
-    """Runs queued jobs on background threads — up to ``parallel_novels`` novels at once."""
+    """Runs queued jobs on background threads — up to ``parallel_novels`` novels at once.
+
+    With a ``governor`` it is careful with memory: each job uses the best local model that fits
+    right now (e.g. the 30B model when there's room, the 8B one while your apps need the memory),
+    waits rather than load a model that doesn't fit, and unloads the text model as soon as the
+    last job finishes.
+    """
 
     def __init__(self, store: Store, cascade_factory: Callable[[], Cascade], concurrency: int = 2,
-                 parallel_novels: int = 2):
+                 parallel_novels: int = 2, governor: Governor | None = None):
         self.store = store
         self.cascade_factory = cascade_factory
         self.concurrency = concurrency
         self.parallel_novels = max(1, parallel_novels)
+        self.governor = governor
         self._wake = threading.Event()
         self._stop = threading.Event()
         self._active: dict[int, threading.Thread] = {}
@@ -147,16 +168,49 @@ class Worker:
         self._stop.set()
         self._wake.set()
 
+    def _choose_model(self, cascade: Cascade, job_id: int) -> Callable[[], str | None] | None:
+        local, g = cascade.local, self.governor
+        if g is None or local is None or not hasattr(local, "preferred"):
+            return None
+        job = self.store.one("SELECT tiers FROM jobs WHERE id=?", (job_id,)) or {}
+        if job.get("tiers") in ("rules", "cloud"):
+            return None
+        from babel.llm.providers import PREFERRED_LOCAL, ollama_models
+
+        installed = set(ollama_models(local.base_url))
+        options = [local.preferred] + [m for m in PREFERRED_LOCAL if m in installed and m != local.preferred
+                                       and PREFERRED_LOCAL.index(m) > PREFERRED_LOCAL.index(local.preferred)
+                                       ] if local.preferred in PREFERRED_LOCAL else [local.preferred]
+        choice = g.pick_ollama_model(options)
+        if choice and choice != local.model:
+            local.model = choice
+        if choice and choice != local.preferred:
+            self.store.x("UPDATE jobs SET message=? WHERE id=?",
+                         (f"using {choice}: not enough free memory for {local.preferred} right now", job_id))
+        return lambda: g.ollama_model(local.model)
+
     def _run(self, job_id: int) -> None:
+        cascade = self.cascade_factory()
         try:
-            run_job(self.store, self.cascade_factory(), job_id, self.concurrency)
+            run_job(self.store, cascade, job_id, self.concurrency, gate=self._choose_model(cascade, job_id))
         except Exception as e:
             log.exception("job %s crashed", job_id)
             self.store.x("UPDATE jobs SET status='failed', message=?, finished_at=? WHERE id=?",
                          (f"crashed: {e}", now(), job_id))
         finally:
             self._active.pop(job_id, None)
+            self._release_if_idle(cascade)
             self._wake.set()
+
+    def _release_if_idle(self, cascade: Cascade) -> None:
+        """No more transform work: give the text model's memory back right away."""
+        if self.governor is None or cascade.local is None or self._active:
+            return
+        if self.store.one("SELECT 1 FROM jobs WHERE status IN ('queued','running') LIMIT 1"):
+            return
+        from babel.system import ollama_unload
+
+        ollama_unload(cascade.local.base_url, [cascade.local.model])
 
     def _loop(self) -> None:
         while not self._stop.is_set():

@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { useMutation, useQuery, useQueryClient } from "@tanstack/react-query";
-import { Check, ExternalLink, Lock, Paintbrush, Palette, RefreshCw, RotateCcw, Wand2 } from "lucide-react";
+import { Check, ExternalLink, Lock, Paintbrush, Palette, RefreshCw, RotateCcw, ShieldCheck, TriangleAlert, Wand2 } from "lucide-react";
 import { api, type ArtImage, type ArtTier, type DesignStatus, type DesignView, type Profile } from "../lib/api";
 import { Button, ErrorNote, Modal, Spinner, cx, inputCls } from "./ui";
 
@@ -22,7 +22,7 @@ export const TIER_HELP: Record<ArtTier, string> = {
 };
 
 const busy = (d?: DesignView) =>
-  !!d && (d.status === "candidates" || d.status === "sheet" || d.candidates.some((c) => c.status === "queued" || c.status === "running"));
+  !!d && (d.status === "candidates" || d.status === "sheet" || d.candidates.some((c) => c.status === "queued" || c.status === "running" || c.qc_status === "pending"));
 
 export function useDesign(entityId: number) {
   return useQuery({
@@ -50,6 +50,7 @@ export function DesignEditor({ entityId, novelId }: { entityId: number; novelId:
   const reset = useMutation({ mutationFn: () => api.resetDesign(entityId), onSuccess: set });
   const tier = useMutation({ mutationFn: (t: ArtTier | null) => api.setArtTier(entityId, t), onSuccess: set });
   const [picked, setPicked] = useState<number | null>(null);
+  const [showRejected, setShowRejected] = useState(false);
 
   if (q.isLoading || !d) return <Spinner />;
   const err = draft.error ?? save.error ?? draw.error ?? approve.error ?? reroll.error ?? reset.error ?? tier.error ?? q.error;
@@ -108,21 +109,32 @@ export function DesignEditor({ entityId, novelId }: { entityId: number; novelId:
           </div>
         </div>
         {candidates.length === 0 ? (
-          <p className="text-sm text-muted">Options are drawn from the profile. Pick the one that matches how you imagine them; every expression is made from it.</p>
+          <p className="text-sm text-muted">Options are drawn from the profile and checked automatically: ones with a hat, something over the mouth, the wrong hair or a distorted face are hidden and redrawn, and the best come first. Pick the one that matches how you imagine them; every expression is made from it.</p>
         ) : (
           <div className="grid grid-cols-2 gap-2 sm:grid-cols-3 lg:grid-cols-6">
-            {candidates
-              .slice()
-              .reverse()
-              .map((c) => (
-                <Tile
-                  key={c.id}
-                  img={c}
-                  selected={picked === c.id || (picked === null && d.base_image_id === c.id)}
-                  badge={d.base_image_id === c.id ? "chosen" : undefined}
-                  onClick={() => c.status === "done" && setPicked(c.id)}
-                />
-              ))}
+            {candidates.map((c) => (
+              <Tile
+                key={c.id}
+                img={c}
+                selected={picked === c.id || (picked === null && d.base_image_id === c.id)}
+                badge={d.base_image_id === c.id ? "chosen" : undefined}
+                onClick={() => c.status === "done" && setPicked(c.id)}
+              />
+            ))}
+          </div>
+        )}
+        {d.rejected.length > 0 && (
+          <div className="space-y-2">
+            <button className="text-xs text-muted underline decoration-line underline-offset-2 hover:text-text" onClick={() => setShowRejected(!showRejected)}>
+              {showRejected ? "Hide" : "Show"} {d.rejected.length} option{d.rejected.length === 1 ? "" : "s"} the quality check hid
+            </button>
+            {showRejected && (
+              <div className="grid grid-cols-3 gap-2 opacity-80 sm:grid-cols-4 lg:grid-cols-8">
+                {d.rejected.map((c) => (
+                  <Tile key={c.id} img={c} selected={picked === c.id} onClick={() => setPicked(c.id)} />
+                ))}
+              </div>
+            )}
           </div>
         )}
       </section>
@@ -156,8 +168,30 @@ export function DesignEditor({ entityId, novelId }: { entityId: number; novelId:
   );
 }
 
+function QcMark({ img }: { img: ArtImage }) {
+  if (img.qc_status === "pending")
+    return (
+      <span className="absolute bottom-1 left-1 rounded bg-black/60 px-1 text-[10px] text-white" title="Being checked">
+        checking…
+      </span>
+    );
+  if (img.qc_status === "pass")
+    return (
+      <span className="absolute bottom-1 left-1 rounded-full bg-ok p-0.5 text-white" title={`Quality check passed (${Math.round((img.qc_score ?? 1) * 100)}%)`}>
+        <ShieldCheck size={11} />
+      </span>
+    );
+  if (img.qc_status === "fail")
+    return (
+      <span className="absolute bottom-1 left-1 flex items-center gap-0.5 rounded bg-warn px-1 text-[10px] font-medium text-black" title={img.qc_issues.join("; ")}>
+        <TriangleAlert size={10} /> {img.kind === "expression" ? "needs a look" : img.qc_issues[0]}
+      </span>
+    );
+  return null;
+}
+
 function Tile({ img, label, selected, badge, onClick, onReroll }: { img: ArtImage | null; label?: string; selected?: boolean; badge?: string; onClick?: () => void; onReroll?: () => void }) {
-  const done = img?.status === "done" && img.thumb;
+  const done = (img?.status === "done" || img?.status === "rejected") && img.thumb;
   return (
     <div className={cx("group relative overflow-hidden rounded-lg border bg-bg", selected ? "border-accent ring-2 ring-accent/40" : "border-line")}>
       <button type="button" onClick={onClick} disabled={!onClick || !done} className="block aspect-[832/1216] w-full" aria-label={label ? `${label} expression` : `Option ${img?.id ?? ""}`}>
@@ -173,6 +207,12 @@ function Tile({ img, label, selected, badge, onClick, onReroll }: { img: ArtImag
       </button>
       {label && <span className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/70 to-transparent px-1.5 pb-1 pt-4 text-center text-[11px] capitalize text-white">{label}</span>}
       {badge && <span className="absolute left-1 top-1 rounded bg-accent px-1.5 text-[10px] font-medium text-accent-ink">{badge}</span>}
+      {done && !label && <QcMark img={img!} />}
+      {done && label && img!.qc_status === "fail" && (
+        <span className="absolute left-1 top-1 flex items-center gap-0.5 rounded bg-warn px-1 text-[10px] font-medium text-black" title={img!.qc_issues.join("; ")}>
+          <TriangleAlert size={10} /> check
+        </span>
+      )}
       <div className="absolute right-1 top-1 flex gap-1 opacity-0 transition-opacity group-hover:opacity-100 focus-within:opacity-100">
         {done && (
           <a href={img!.url!} target="_blank" rel="noreferrer" className="rounded bg-black/60 p-1 text-white" aria-label="Open full size">

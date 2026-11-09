@@ -211,6 +211,10 @@ export interface ArtImage {
   secs: number | null;
   url: string | null;
   thumb: string | null;
+  attempt: number;
+  qc_status: "pending" | "pass" | "fail" | "skipped" | null;
+  qc_score: number | null;
+  qc_issues: string[];
 }
 
 export interface DesignView {
@@ -226,6 +230,7 @@ export interface DesignView {
   profile_locked: string[];
   base_image_id: number | null;
   candidates: ArtImage[];
+  rejected: ArtImage[];
   sheet: Record<string, ArtImage | null>;
 }
 
@@ -244,12 +249,34 @@ export interface ArtCharacter {
 }
 
 export interface SchedulerStatus {
-  status: "idle" | "waiting" | "profiling" | "drawing" | "unavailable";
+  status: "idle" | "waiting" | "paused" | "profiling" | "drawing" | "checking" | "unavailable";
   detail: string | null;
   error: string | null;
   worker_running: boolean;
   queued: number;
   failed: number;
+  checker: string | null;
+  checked: number;
+  caught: number;
+}
+
+export interface SystemPolicy {
+  headroom_gb: number;
+  idle_after_s: number;
+  background_when: "idle" | "always";
+  pause_on_battery: boolean;
+}
+
+export interface SystemStatus {
+  available_gb: number | null;
+  total_gb: number | null;
+  pressure: number | null;
+  on_battery: boolean | null;
+  idle_seconds: number | null;
+  policy: SystemPolicy;
+  ollama_loaded: Record<string, number>;
+  background_ok: boolean;
+  background_reason: string | null;
 }
 
 export interface NovelArt {
@@ -367,6 +394,9 @@ export const api = {
     `/api/novels/${novelId}/export/${kind}${qs({ first, last })}`,
   glossaryUrl: (novelId: number) => `/api/novels/${novelId}/glossary.yaml`,
   artMeta: () => req<ArtMeta>("/art/status"),
+  system: () => req<SystemStatus>("/system"),
+  setSystemPrefs: (body: Partial<Pick<SystemPolicy, "background_when" | "pause_on_battery" | "idle_after_s">>) =>
+    req<SystemPolicy>("/system/prefs", json("PUT", body)),
   novelArt: (novelId: number) => req<NovelArt>(`/novels/${novelId}/art`),
   setNovelArt: (novelId: number, body: Partial<NovelArt["settings"]>) => req<NovelArt["settings"]>(`/novels/${novelId}/art`, json("PUT", body)),
   design: (entityId: number) => req<DesignView>(`/entities/${entityId}/design`),

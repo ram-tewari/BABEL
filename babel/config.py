@@ -36,6 +36,13 @@ class Settings:
     # character art: "auto" uses the art environment (.venv-art with mflux) if it exists; "off" disables
     art: str = "auto"
     art_python: Path | None = None
+    # quality checker: a vision model in Ollama ("auto" = best installed of qwen3-vl:8b-instruct, …; "off")
+    vision: str = "auto"
+    # being polite to the computer: automatic art work only while you're away / on mains power
+    background: str = "idle"  # idle | always
+    idle_minutes: float = 3.0
+    pause_on_battery: bool = True
+    headroom_gb: float = 2.0
 
     @property
     def art_dir(self) -> Path:
@@ -83,7 +90,18 @@ class Settings:
             port=int(e("BABEL_PORT", "8000")),
             art=e("BABEL_ART", "auto"),
             art_python=Path(e("BABEL_ART_PYTHON")) if e("BABEL_ART_PYTHON") else None,
+            vision=e("BABEL_VISION_MODEL", "auto"),
+            background=e("BABEL_BACKGROUND", "idle"),
+            idle_minutes=float(e("BABEL_IDLE_MINUTES", "3")),
+            pause_on_battery=e("BABEL_PAUSE_ON_BATTERY", "1").lower() not in ("0", "false", "no", "off"),
+            headroom_gb=float(e("BABEL_HEADROOM_GB", "2")),
         )
+
+    def policy(self):
+        from babel.system import Policy
+
+        return Policy(headroom_gb=self.headroom_gb, idle_after_s=self.idle_minutes * 60,
+                      background_when=self.background, pause_on_battery=self.pause_on_battery)
 
     def build_cascade(self):
         from babel.llm.providers import build_cloud, build_local

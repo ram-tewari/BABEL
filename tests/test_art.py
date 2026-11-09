@@ -31,15 +31,21 @@ class FakeBackend:
     def __init__(self):
         self.calls: list[dict] = []
         self.running = False
+        self.loaded: set[str] = set()
 
     def call(self, req: dict) -> dict:
         self.running = True
+        if req["op"] == "unload":
+            self.loaded.discard(req.get("model"))
+            return {"ok": True}
         self.calls.append(req)
+        self.loaded.add(req["model"])
         Image.new("RGB", (req["width"] // 8, req["height"] // 8), (req["seed"] % 255, 90, 120)).save(req["out"])
         return {"ok": True, "secs": 0.01}
 
     def close(self) -> None:
         self.running = False
+        self.loaded = set()
 
 
 class StubLLM:
@@ -230,3 +236,210 @@ def test_art_api(novel, scheduler, tmp_path):
         assert c.put(f"/api/entities/{novel.ids['Dunn']}/design/tier", json={"tier": "main"}).json()["tier"] == "main"
         assert c.put(f"/api/novels/{novel.id}/art", json={"auto": True}).json()["auto"] is True
         assert c.get("/api/art/status").json()["emotions"][0] == "neutral"
+
+
+# ── step 3: the quality checker and politeness ───────────────────────────────
+
+class FakeApprover:
+    """Fails the images whose ids are in ``bad`` (or the first ``fail_first`` checks)."""
+
+    model = "fake-vl"
+
+    def __init__(self, fail_first=0, fail_emotions=()):
+        self.fail_first, self.fail_emotions, self.n = fail_first, set(fail_emotions), 0
+
+    def check(self, image, *, profile, gender, kind, emotion=None, reference=None):
+        self.n += 1
+        bad = self.n <= self.fail_first or emotion in self.fail_emotions
+        return {"score": 0.2 if bad else 0.95, "pass": not bad, "issues": ["wearing a hat"] if bad else [],
+                "answers": {}, "model": self.model}
+
+
+def checked_scheduler(store, tmp_path, approver, governor=None):
+    backend = FakeBackend()
+    sch = ArtScheduler(store, art_dir=tmp_path / "art", portraits_dir=tmp_path / "portraits",
+                       backend_factory=lambda: backend, llm_factory=StubLLM, approver_factory=lambda: approver,
+                       governor=governor)
+    sch.fake = backend
+    return sch
+
+
+def test_checker_scoring_rules():
+    from babel.art.approve import questions, score
+    prof = parse_profile(json.dumps({"hair": {"value": "black hair", "guessed": False},
+                                     "outfit": {"value": "brown coat, felt hat", "guessed": False}}))
+    qs, schema = questions(prof, "m", "candidate", None)
+    assert "attr_hair" in schema["properties"] and "expression" not in schema["properties"]
+    clothes = next(q for q in qs if q.startswith("attr_outfit"))
+    assert "“brown coat”" in clothes and "hat" not in clothes  # checks what the prompt asked for
+    ok = {"people": "one", "gender": "male", "attr_hair": "yes", "headwear": "no", "over_mouth": "no",
+          "scenery": "no", "text": "no", "face_ok": "yes", "hands_ok": "unclear"}
+    assert score(ok, profile=prof, gender="m", kind="candidate", emotion=None)["pass"]
+    hat = score({**ok, "headwear": "yes"}, profile=prof, gender="m", kind="candidate", emotion=None)
+    assert not hat["pass"] and "wearing a hat" in hat["issues"]
+    prof["marks"] = {"value": "never without his felt hat", "guessed": False, "chapter": None, "quote": ""}
+    assert score({**ok, "headwear": "yes"}, profile=prof, gender="m", kind="candidate", emotion=None)["pass"]
+    assert not score({**ok, "over_mouth": "yes"}, profile=prof, gender="m", kind="candidate", emotion=None)["pass"]
+    assert not score({**ok, "gender": "female"}, profile=prof, gender="m", kind="candidate", emotion=None)["pass"]
+    _, schema = questions(prof, "m", "expression", "angry")
+    assert "expression" in schema["properties"]
+    assert not score({**ok, "expression": "no"}, profile=prof, gender="m", kind="expression", emotion="angry")["pass"]
+    assert not score({**ok, "expression": "yes"}, profile=prof, gender="m", kind="expression", emotion="angry",
+                     drift=0.2)["pass"]  # the edit changed the whole picture
+
+
+def test_checker_hides_and_replaces_bad_options(novel, tmp_path):
+    sch = checked_scheduler(novel.store, tmp_path, FakeApprover(fail_first=2))
+    eid = novel.ids["Klein"]
+    draft_profile(novel.store, novel.ak, eid, StubLLM())
+    designs.queue_candidates(novel.store, novel.ak, eid)
+    drain(sch)
+    v = designs.design_view(novel.store, novel.ak, eid)
+    assert v["status"] == "choose" and len(v["candidates"]) == 6  # two bad ones replaced
+    assert len(v["rejected"]) == 2 and v["rejected"][0]["qc_issues"] == ["wearing a hat"]
+    assert all(c["qc_status"] == "pass" for c in v["candidates"])
+    assert len(sch.fake.calls) == 8
+
+
+def test_checker_redraws_failing_expressions_then_keeps_the_best(novel, tmp_path):
+    sch = checked_scheduler(novel.store, tmp_path, FakeApprover(fail_emotions={"afraid"}))
+    eid = novel.ids["Klein"]
+    draft_profile(novel.store, novel.ak, eid, StubLLM())
+    designs.queue_candidates(novel.store, novel.ak, eid)
+    drain(sch)
+    designs.approve_candidate(novel.store, designs.design_view(novel.store, novel.ak, eid)["candidates"][0]["id"])
+    drain(sch)
+    v = designs.design_view(novel.store, novel.ak, eid)
+    assert v["status"] == "approved"
+    afraid = v["sheet"]["afraid"]
+    assert afraid["attempt"] == 3 and afraid["qc_status"] == "fail"  # out of attempts: kept, flagged
+    assert sum(1 for c in sch.fake.calls if c.get("op") == "edit") == len(EMOTIONS) - 1 + 2
+
+
+def test_automatic_work_waits_while_you_work_but_your_clicks_dont(novel, tmp_path):
+    from babel.system import Governor, Policy
+    idle = {"s": 5.0}
+    g = Governor(Policy(), probes={"available_gb": lambda: 30.0, "idle_seconds": lambda: idle["s"],
+                                   "on_battery": lambda: False, "pressure_level": lambda: 1,
+                                   "ollama_loaded": lambda: {}, "ollama_size_gb": lambda m: None})
+    sch = checked_scheduler(novel.store, tmp_path, None, governor=g)
+    designs.set_art_settings(novel.store, novel.id, auto=True)
+    assert sch.step() is False and sch.state["status"] == "paused" and "using the computer" in sch.state["detail"]
+    # you ask for Melissa's options yourself: that runs even while you're active
+    designs.save_profile(novel.store, novel.ids["Melissa"], {"hair": {"value": "red hair", "guessed": False}}, user=True)
+    designs.queue_candidates(novel.store, novel.ak, novel.ids["Melissa"], manual=True)
+    assert sch.step() is True and len(sch.fake.calls) == 1
+    idle["s"] = 999.0  # you walk away: the automatic work starts
+    drain(sch)
+    assert designs.design_view(novel.store, novel.ak, novel.ids["Klein"])["status"] == "choose"
+
+
+def test_waits_for_memory_and_frees_what_it_holds(novel, tmp_path):
+    from babel.system import Governor, Policy
+    avail = {"gb": 4.0}
+    g = Governor(Policy(), probes={"available_gb": lambda: avail["gb"], "idle_seconds": lambda: 999.0,
+                                   "on_battery": lambda: False, "pressure_level": lambda: 1,
+                                   "ollama_loaded": lambda: {}, "ollama_size_gb": lambda m: None})
+    sch = checked_scheduler(novel.store, tmp_path, None, governor=g)
+    eid = novel.ids["Klein"]
+    designs.save_profile(novel.store, eid, {"hair": {"value": "black hair", "guessed": False}}, user=True)
+    designs.queue_candidates(novel.store, novel.ak, eid)
+    assert sch.step() is False and sch.state["status"] == "waiting" and "memory" in sch.state["detail"]
+    avail["gb"] = 20.0
+    assert sch.step() is True
+
+
+def test_critical_pressure_releases_everything(novel, tmp_path):
+    from babel.system import Governor, Policy
+    level = {"v": 1}
+    g = Governor(Policy(), probes={"available_gb": lambda: 30.0, "idle_seconds": lambda: 999.0,
+                                   "on_battery": lambda: False, "pressure_level": lambda: level["v"],
+                                   "ollama_loaded": lambda: {}, "ollama_size_gb": lambda m: None})
+    sch = checked_scheduler(novel.store, tmp_path, None, governor=g)
+    eid = novel.ids["Klein"]
+    designs.save_profile(novel.store, eid, {"hair": {"value": "black hair", "guessed": False}}, user=True)
+    designs.queue_candidates(novel.store, novel.ak, eid)
+    assert sch.step() is True and sch.fake.running
+    level["v"] = 4
+    assert sch.step() is False and not sch.fake.running and "critical" in sch.state["detail"]
+
+
+def test_citations_must_be_real_and_about_the_field():
+    from babel.art.profile import verify_citations
+    ev = [{"chapter": 16, "text": "It had reddish black hair, bright brown eyes, and a delicate, pretty face."},
+          {"chapter": 4, "text": "making her face thin and slightly pale, her skin remained lustrous"}]
+    prof = parse_profile(json.dumps({
+        "hair": {"value": "light brown", "chapter": 4, "quote": "making her face thin and slightly pale", "guessed": False},
+        "eyes": {"value": "bright brown", "chapter": 16, "quote": "bright brown eyes", "guessed": False},
+        "face": {"value": "delicate", "chapter": 3, "quote": "a delicate, pretty face", "guessed": False},
+        "build": {"value": "slim", "chapter": 2, "quote": "she was very tall and slim", "guessed": False}}))
+    v = verify_citations(prof, ev)
+    assert v["hair"]["guessed"] and v["hair"]["quote"] == ""  # quote isn't about hair: no fake citation
+    assert not v["eyes"]["guessed"] and v["eyes"]["chapter"] == 16
+    assert not v["face"]["guessed"] and v["face"]["chapter"] == 16  # chapter corrected to where the quote is
+    assert v["build"]["guessed"]  # not in the passages at all
+    prof2 = parse_profile(json.dumps({"hair": {"value": "blond", "chapter": 16, "quote": "reddish black hair"}}))
+    assert verify_citations(prof2, ev)["hair"]["guessed"]  # colours disagree
+
+
+def test_evidence_comes_from_any_chapter_that_mentions_them(store):
+    nid = store.create_novel("t", [("c1", '"Hi," Mira said.', "a"), ("c2", "Tobin waved.", "b"),
+                                   ("c3", "Mira came in. Mira had silver hair and green eyes.", "c")])
+    ak = Akashic(store, nid)
+    eid = ak.create("Mira", chapter_idx=0)
+    ak.reload()
+    ev = gather_evidence(store, ak, eid)
+    assert ev and ev[0]["chapter"] == 3 and "silver hair" in ev[0]["text"]
+
+
+def test_memory_pressure_pauses_automatic_work_but_not_yours(novel, tmp_path):
+    from babel.system import Governor, Policy
+    level = {"v": 1}
+    g = Governor(Policy(), probes={"available_gb": lambda: 30.0, "idle_seconds": lambda: 999.0,
+                                   "on_battery": lambda: False, "pressure_level": lambda: level["v"],
+                                   "ollama_loaded": lambda: {}, "ollama_size_gb": lambda m: None})
+    sch = checked_scheduler(novel.store, tmp_path, None, governor=g)
+    designs.set_art_settings(novel.store, novel.id, auto=True)
+    for _ in range(12):  # automatic work starts: profiles, then options (the image model is now loaded)
+        sch.step()
+    assert "anima-turbo" in sch.fake.loaded
+    level["v"] = 2  # the Mac gets short of memory
+    designs.save_profile(novel.store, novel.ids["Dunn"], {"hair": {"value": "dark hair", "guessed": False}}, user=True)
+    designs.queue_candidates(novel.store, novel.ak, novel.ids["Dunn"], 1, manual=True)
+    assert sch.step() is True  # what you asked for still runs (with what's loaded)
+    assert sch.step() is False and sch.state["status"] == "paused" and "pressure" in sch.state["detail"]
+    assert not sch.fake.running  # …and the automatic work let go of its memory
+    level["v"] = 1  # pressure eases: automatic work still waits a few minutes before trying again
+    assert sch.step() is False and "resumes in about" in sch.state["detail"]
+
+
+def test_one_image_model_at_a_time(novel, tmp_path):
+    sch = checked_scheduler(novel.store, tmp_path, None)
+    eid = novel.ids["Klein"]
+    draft_profile(novel.store, novel.ak, eid, StubLLM())
+    designs.queue_candidates(novel.store, novel.ak, eid, 1)
+    drain(sch)
+    assert sch.fake.loaded == {"anima-turbo"}
+    designs.approve_candidate(novel.store, designs.design_view(novel.store, novel.ak, eid)["candidates"][0]["id"])
+    sch.step()
+    assert sch.fake.loaded == {"flux2-klein-4b"}  # Anima was unloaded before FLUX.2 loaded
+
+
+def test_a_crashed_draw_is_retried_once(novel, tmp_path):
+    sch = checked_scheduler(novel.store, tmp_path, None)
+    real = sch.fake.call
+    crashes = {"n": 1}
+
+    def flaky(req):
+        if req["op"] == "generate" and crashes["n"]:
+            crashes["n"] -= 1
+            raise RuntimeError("image worker exited")
+        return real(req)
+
+    sch.fake.call = flaky
+    eid = novel.ids["Klein"]
+    designs.save_profile(novel.store, eid, {"hair": {"value": "black hair", "guessed": False}}, user=True)
+    designs.queue_candidates(novel.store, novel.ak, eid, 2)
+    drain(sch)
+    v = designs.design_view(novel.store, novel.ak, eid)
+    assert v["status"] == "choose" and [c["status"] for c in v["candidates"]] == ["done", "done"]

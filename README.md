@@ -53,7 +53,7 @@ pip install -e .
 npm --prefix web ci && npm --prefix web run build
 
 # optional but recommended: the free local tier
-ollama pull qwen3:30b-a3b       # best + fastest with 32 GB+ RAM; use qwen3:8b on smaller machines
+ollama pull qwen3:30b-a3b       # best + fastest with 32 GB+ RAM (also pull qwen3:8b: used while memory is short)
 
 cp .env.example .env            # optional: add a cloud key for the hardest lines
 babel serve                     # → http://127.0.0.1:8000
@@ -103,13 +103,24 @@ babel serve              # then: novel → Design tab → "Design automatically 
   - A chapter is ready as a visual novel once everyone important who speaks in it has a design.
   - Minor and unnamed characters (the extras library is coming) never hold a chapter back.
   - The approved face also becomes the character's chat avatar.
-- **One machine.** Drawing pauses while chapters are being transformed. The text model is unloaded before drawing, and the image process exits when idle, so the text and image models never compete for memory.
+- **Automatic quality check.** A small vision model (`ollama pull qwen3-vl:4b-instruct`, 3.3 GB) checks every image with fixed multiple-choice questions:
+  - hair, eyes, gender and clothes against the profile;
+  - a hat, something over the mouth, scenery, text or a distorted face;
+  - for expressions, whether the face shows the target expression.
+
+  A pixel check against the approved base confirms that an expression edit is still the same picture. Failing options are hidden and redrawn, failing expressions are redrawn up to three times, and options are ranked best-first. You can still reveal hidden options and pick one. On 55 images judged by hand it caught 17 of 17 bad images and confirmed 19 of 19 expressions, at about 2 s per check.
+- **Your computer comes first.** BABEL runs big models on the machine you work on, so:
+  - **Memory:** a model loads only when there's room for it plus headroom. Under memory pressure, automatic work pauses, frees its memory, and waits five minutes before trying again.
+  - **Smaller text model when needed:** transforms use the 30B text model when it fits and the 8B one while your apps need the memory.
+  - **Unloading:** the text model unloads when transforms finish, the image worker holds one model at a time and exits after 2 idle minutes, and the vision model unloads after 2 minutes. BABEL never unloads Ollama models it didn't load itself.
+  - **When automatic work runs:** automatic drawing only runs while you're away (no keyboard or mouse input for 3 minutes) and plugged in. Anything you click runs right away. Change this under Design → Your computer.
+  - **CPU priority:** the image worker runs at low priority, so your apps get the CPU first.
 - **Measured on an M5 Max (36 GB):**
   - an option takes about 8 s and an expression about 45 s, so a finished character takes roughly 10 minutes;
   - the image models are about 22 GB on disk;
   - Anima is licensed for non-commercial use only, and FLUX.2 Klein 4B under Apache 2.0.
 
-`babel art status <novel>` shows the queue and which chapters are ready. `BABEL_ART=off` disables character art.
+`babel art status <novel>` shows the queue and which chapters are ready. `BABEL_ART=off` disables character art. `BABEL_VISION_MODEL=off` disables the quality check.
 
 ## CLI
 
@@ -165,7 +176,8 @@ babel/
   pipeline/    resumable jobs, several novels at once
   store/       SQLite: chapters + decision documents, overrides, entities, aliases, usage ledger, reads
   meta/        Open Library / Google Books / RoyalRoad / NovelUpdates
-  art/         appearance profiles · design queue + readiness · art scheduler · image worker (runs in .venv-art)
+  art/         appearance profiles · design queue + readiness · art scheduler · image worker (.venv-art) · quality checker
+  system.py    memory / idle / battery probes and the "your computer comes first" policy
   export/      EPUB, HTML · api/ FastAPI (+ serves the web UI) · evals/ gold chapters + runner
 web/           React 19 · Vite · Tailwind 4 · TanStack Query
 ```

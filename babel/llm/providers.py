@@ -63,9 +63,12 @@ class LocalModel:
     """A model served by Ollama (native /api/chat, structured outputs)."""
 
     def __init__(self, model: str, base_url: str = "http://localhost:11434", timeout: float = 300.0,
-                 transport: httpx.BaseTransport | None = None, num_ctx: int = 8192):
+                 transport: httpx.BaseTransport | None = None, num_ctx: int = 8192, keep_alive: str | None = None):
         self.name = "ollama"
         self.model = model
+        self.preferred = model  # the model to use when memory allows (``model`` may fall back to a smaller one)
+        # how long Ollama keeps the model in memory after the last request (BABEL also unloads it explicitly)
+        self.keep_alive = keep_alive or os.getenv("BABEL_KEEP_ALIVE", "5m")
         self.base_url = base_url.rstrip("/").removesuffix("/v1")
         self.num_ctx = num_ctx
         self._http = httpx.Client(timeout=timeout, transport=transport)
@@ -83,7 +86,7 @@ class LocalModel:
             "stream": False,
             "format": schema or "json",
             "think": False,
-            "keep_alive": "30m",
+            "keep_alive": self.keep_alive,
             "options": {"temperature": temperature, "num_predict": max_tokens, "num_ctx": self.num_ctx},
         }
         with self._lock:

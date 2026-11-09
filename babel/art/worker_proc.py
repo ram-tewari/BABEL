@@ -9,8 +9,9 @@ Requests:  {"id": 1, "op": "generate", "model": "anima-turbo", "prompt": "...", 
             "seed": 11, "width": 832, "height": 1216, "out": "/path.png"}
            {"id": 2, "op": "edit", "model": "flux2-klein-4b", "prompt": "...", "image": "/base.png",
             "seed": 7, "width": 832, "height": 1216, "out": "/path.png"}
-           {"id": 3, "op": "ping"}
-Replies:   {"id": 1, "ok": true, "secs": 8.1}  |  {"id": 1, "ok": false, "error": "..."}
+           {"id": 3, "op": "unload", "model": "anima-turbo"}     (or no "model": unload everything)
+           {"id": 4, "op": "ping"}
+Replies:   {"id": 1, "ok": true, "secs": 8.1, "loaded": [...]}  |  {"id": 1, "ok": false, "error": "...", "loaded": [...]}
 """
 
 from __future__ import annotations
@@ -43,10 +44,28 @@ def _load(name: str):
     return model
 
 
+def _unload(name: str | None) -> None:
+    """Free one model (or all) without exiting — when memory is tight, keep only what the next job needs."""
+    import gc
+
+    for n in [name] if name else list(_models):
+        _models.pop(n, None)
+    gc.collect()
+    try:
+        import mlx.core as mx
+
+        mx.clear_cache()
+    except Exception:
+        pass
+
+
 def handle(req: dict) -> dict:
     op = req.get("op")
     if op == "ping":
-        return {"ok": True, "loaded": sorted(_models)}
+        return {"ok": True}
+    if op == "unload":
+        _unload(req.get("model"))
+        return {"ok": True}
     t = time.time()
     model = _load(req["model"])
     if op == "generate":
@@ -75,6 +94,7 @@ def main() -> None:
         except Exception as e:  # report and keep serving
             rep = {"ok": False, "error": f"{type(e).__name__}: {e}", "trace": traceback.format_exc()[-1500:]}
         rep["id"] = req.get("id")
+        rep["loaded"] = sorted(_models)
         out.write(json.dumps(rep) + "\n")
         out.flush()
 

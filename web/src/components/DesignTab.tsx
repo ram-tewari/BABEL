@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { useMutation, useQuery, useQueryClient } from "@tanstack/react-query";
-import { AlertTriangle, BookOpen, Palette, Sparkles } from "lucide-react";
+import { AlertTriangle, BookOpen, Cpu, Palette, ShieldCheck, Sparkles } from "lucide-react";
 import { api, type ArtCharacter, type Entity, type NovelArt } from "../lib/api";
 import { Avatar, Empty, ErrorNote, Modal, ProgressBar, Spinner, cx, inputCls } from "./ui";
 import { useCast } from "./CastEditor";
@@ -8,13 +8,15 @@ import { DesignEditor, STATUS_LABEL } from "./DesignEditor";
 
 const SCHEDULER_LABEL: Record<NovelArt["scheduler"]["status"], string> = {
   idle: "Idle",
-  waiting: "Waiting for the text pass to finish",
+  waiting: "Waiting",
+  paused: "Paused",
   profiling: "Reading the book for",
   drawing: "Drawing",
+  checking: "Checking",
   unavailable: "Image models not installed",
 };
 
-const working = (a?: NovelArt) => !!a && (a.scheduler.queued > 0 || a.scheduler.status === "profiling" || a.scheduler.status === "drawing");
+const working = (a?: NovelArt) => !!a && (a.scheduler.queued > 0 || ["profiling", "drawing", "checking"].includes(a.scheduler.status));
 
 export function DesignTab({ novelId }: { novelId: number }) {
   const qc = useQueryClient();
@@ -96,6 +98,15 @@ export function DesignTab({ novelId }: { novelId: number }) {
               {a.scheduler.queued} image{a.scheduler.queued === 1 ? "" : "s"} queued · {a.designed}/{a.needed} characters designed · drawing pauses while chapters are being transformed
             </p>
           )}
+          {a.scheduler.checker ? (
+            <p className="flex items-center gap-1 text-xs text-muted">
+              <ShieldCheck size={12} /> Quality check by {a.scheduler.checker}: {a.scheduler.checked} images checked, {a.scheduler.caught} caught and redrawn
+            </p>
+          ) : (
+            <p className="text-xs text-faint">
+              No quality checker: <code className="rounded bg-raised px-1">ollama pull qwen3-vl:4b-instruct</code> to check every image automatically.
+            </p>
+          )}
           {a.scheduler.error && (
             <p className="flex items-center gap-1 text-xs text-danger">
               <AlertTriangle size={12} /> {a.scheduler.error}
@@ -140,6 +151,8 @@ export function DesignTab({ novelId }: { novelId: number }) {
           </label>
         </div>
       </section>
+
+      <ComputerPanel />
 
       {a.needed === 0 && a.characters.length === 0 ? (
         <Empty icon={<Palette size={28} />} title="No characters to design yet">
@@ -191,6 +204,64 @@ function CharacterList({ title, items, byId, onOpen, highlight, empty }: { title
           ))}
         </ul>
       )}
+    </section>
+  );
+}
+
+function Switch({ on, onChange, label }: { on: boolean; onChange: (v: boolean) => void; label: string }) {
+  return (
+    <button role="switch" aria-checked={on} aria-label={label} onClick={() => onChange(!on)} className={cx("relative h-6 w-11 shrink-0 rounded-full transition-colors", on ? "bg-accent" : "bg-raised")}>
+      <span className={cx("absolute top-0.5 h-5 w-5 rounded-full bg-surface shadow transition-all", on ? "left-[22px]" : "left-0.5")} />
+    </button>
+  );
+}
+
+const PRESSURE = { 1: "normal", 2: "under pressure", 4: "critical" } as Record<number, string>;
+
+/** How BABEL shares your computer: free memory, and when automatic work may run. */
+function ComputerPanel() {
+  const qc = useQueryClient();
+  const sys = useQuery({ queryKey: ["system"], queryFn: api.system, refetchInterval: 15_000 });
+  const prefs = useMutation({ mutationFn: api.setSystemPrefs, onSuccess: () => qc.invalidateQueries({ queryKey: ["system"] }) });
+  const s = sys.data;
+  if (!s) return null;
+  const loaded = Object.entries(s.ollama_loaded);
+  const mins = Math.round(s.policy.idle_after_s / 60);
+  return (
+    <section className="space-y-3 rounded-xl border border-line p-4">
+      <div className="flex flex-wrap items-baseline justify-between gap-2">
+        <h3 className="flex items-center gap-2 text-sm font-medium">
+          <Cpu size={15} /> Your computer
+        </h3>
+        <span className="text-xs text-muted">
+          {s.available_gb !== null && `${Math.round(s.available_gb)} GB free`}
+          {s.total_gb !== null && ` of ${Math.round(s.total_gb)} GB`}
+          {s.pressure !== null && ` · memory ${PRESSURE[s.pressure] ?? s.pressure}`}
+          {s.on_battery !== null && ` · ${s.on_battery ? "on battery" : "plugged in"}`}
+          {loaded.length > 0 && ` · loaded: ${loaded.map(([m, gb]) => `${m} (${gb.toFixed(1)} GB)`).join(", ")}`}
+        </span>
+      </div>
+      <p className="text-xs text-faint">
+        BABEL only loads a model when there's room for it, releases models soon after use, uses a smaller text model while your apps need the memory, and frees everything if memory gets critical. What you click runs right away; the switches below are for automatic work.
+      </p>
+      <div className="grid gap-3 sm:grid-cols-2">
+        <label className="flex items-center justify-between gap-3 text-sm">
+          <span>
+            Only while I'm away
+            <span className="block text-xs text-faint">Automatic drawing waits until there's been no keyboard or mouse input for {mins} min.</span>
+          </span>
+          <Switch on={s.policy.background_when === "idle"} label="Only while I'm away" onChange={(v) => prefs.mutate({ background_when: v ? "idle" : "always" })} />
+        </label>
+        <label className="flex items-center justify-between gap-3 text-sm">
+          <span>
+            Pause on battery
+            <span className="block text-xs text-faint">Automatic drawing waits until you're plugged in.</span>
+          </span>
+          <Switch on={s.policy.pause_on_battery} label="Pause on battery" onChange={(v) => prefs.mutate({ pause_on_battery: v })} />
+        </label>
+      </div>
+      {!s.background_ok && s.background_reason && <p className="text-xs text-muted">Right now: {s.background_reason}.</p>}
+      <ErrorNote error={prefs.error} />
     </section>
   );
 }
