@@ -263,3 +263,22 @@ def load(design: dict | None) -> dict | None:
     if not design or not design.get("profile"):
         return None
     return json.loads(design["profile"])
+
+
+BG_W, BG_H = 1344, 768
+
+
+def background_prompt(spec: dict, style: str = "manhwa") -> tuple[str, str]:
+    """A wide, people-free background for a place (Anima: tags + natural language).
+
+    Turbo ignores negative prompts, so "no people" has to be said in the positive prompt.
+    """
+    label = spec.get("label") or "a room"
+    note = _OFF_CHARACTER.sub("", spec.get("note") or "").strip(" ,.")
+    era = (spec.get("era") or "").strip()
+    prompt = (f"masterpiece, best quality, score_7, safe, no humans, scenery, background, {STYLE_TAGS.get(style, '')}. "
+              f"Background art of {label}" + (f" ({note})" if note else "") +
+              (f", {era} period" if era else "") +
+              ". Wide establishing shot, detailed environment, empty of people, no characters, no text, no signs. "
+              f"{STYLES.get(style, style)}.")
+    return re.sub(r"(,\s*)+", ", ", prompt), "people, person, character, text, watermark, signature"

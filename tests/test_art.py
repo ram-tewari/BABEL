@@ -248,7 +248,7 @@ class FakeApprover:
     def __init__(self, fail_first=0, fail_emotions=()):
         self.fail_first, self.fail_emotions, self.n = fail_first, set(fail_emotions), 0
 
-    def check(self, image, *, profile, gender, kind, emotion=None, reference=None):
+    def check(self, image, *, profile, gender, kind, emotion=None, reference=None, background=None):
         self.n += 1
         bad = self.n <= self.fail_first or emotion in self.fail_emotions
         return {"score": 0.2 if bad else 0.95, "pass": not bad, "issues": ["wearing a hat"] if bad else [],
@@ -406,10 +406,15 @@ def test_memory_pressure_pauses_automatic_work_but_not_yours(novel, tmp_path):
     level["v"] = 2  # the Mac gets short of memory
     designs.save_profile(novel.store, novel.ids["Dunn"], {"hair": {"value": "dark hair", "guessed": False}}, user=True)
     designs.queue_candidates(novel.store, novel.ak, novel.ids["Dunn"], 1, manual=True)
-    assert sch.step() is True  # what you asked for still runs (with what's loaded)
-    assert sch.step() is False and sch.state["status"] == "paused" and "pressure" in sch.state["detail"]
+    # every image briefly needs several GB more, so even what you asked for waits (and says why)
+    assert sch.step() is False and "pressure" in (sch.state["detail"] or "")
     assert not sch.fake.running  # …and the automatic work let go of its memory
-    level["v"] = 1  # pressure eases: automatic work still waits a few minutes before trying again
+    level["v"] = 1  # pressure eases: what you asked for runs now…
+    assert sch.step() is True
+    for _ in range(3):  # (its quality check, if any)
+        if not sch.step():
+            break
+    # …while automatic work waits a few minutes before trying again
     assert sch.step() is False and "resumes in about" in sch.state["detail"]
 
 
@@ -443,3 +448,22 @@ def test_a_crashed_draw_is_retried_once(novel, tmp_path):
     drain(sch)
     v = designs.design_view(novel.store, novel.ak, eid)
     assert v["status"] == "choose" and [c["status"] for c in v["candidates"]] == ["done", "done"]
+
+
+def test_under_pressure_checks_wait_for_drawing_to_finish(novel, tmp_path):
+    """Short of memory: drawing doesn't keep the checker loaded, and checks wait until drawing is done
+    (pressure starts while drawing is under way, so the queued drawing finishes first)."""
+    from babel.system import Governor, Policy
+    level = {"v": 1}
+    g = Governor(Policy(), probes={"available_gb": lambda: 30.0, "idle_seconds": lambda: 999.0,
+                                   "on_battery": lambda: False, "pressure_level": lambda: level["v"],
+                                   "ollama_loaded": lambda: {"fake-vl": 4.0}, "ollama_size_gb": lambda m: None})
+    approver = FakeApprover()
+    sch = checked_scheduler(novel.store, tmp_path, approver, governor=g)
+    eid = novel.ids["Klein"]
+    designs.save_profile(novel.store, eid, {"hair": {"value": "black hair", "guessed": False}}, user=True)
+    designs.queue_candidates(novel.store, novel.ak, eid, 1, manual=True)
+    assert sch.step() and approver.n == 0  # drew it (memory was fine)
+    level["v"] = 2  # now memory gets short: the check runs only after releasing the image model
+    sch.step()
+    assert not sch.fake.running

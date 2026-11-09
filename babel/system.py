@@ -236,3 +236,20 @@ def save_prefs(store, policy: Policy, **changes) -> Policy:
     store.x("INSERT OR REPLACE INTO meta (key, value) VALUES ('prefs', ?)",
             (json.dumps({k: getattr(policy, k) for k in PREF_KEYS}),))
     return policy
+
+
+def fitting_model(llm, governor: Governor):
+    """``llm`` if its model is loaded or fits right now; else the same client on a smaller installed model that
+    fits (e.g. qwen3:8b while your apps need the memory); else None — the caller falls back to rules."""
+    model = getattr(llm, "model", None)
+    if llm is None or model is None or governor.ollama_model(model) is None:
+        return llm
+    if not hasattr(llm, "preferred"):
+        return None
+    from babel.llm.providers import PREFERRED_LOCAL, LocalModel, ollama_models
+
+    installed = set(ollama_models(llm.base_url))
+    start = PREFERRED_LOCAL.index(llm.preferred) + 1 if llm.preferred in PREFERRED_LOCAL else len(PREFERRED_LOCAL)
+    smaller = [m for m in PREFERRED_LOCAL[start:] if m in installed]
+    pick = governor.pick_ollama_model(smaller) if smaller else None
+    return LocalModel(pick, llm.base_url, keep_alive=llm.keep_alive) if pick else None

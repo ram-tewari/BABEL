@@ -133,3 +133,7 @@ body { font-family: var(--font-sans); -webkit-font-smoothing: antialiased; }
 }
 
 .bubble-shout { border-width: 2px; }
+
+/* visual novel */
+@keyframes fadein { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }
+@media (prefers-reduced-motion: reduce) { [class*="animate-"] { animation: none !important; } }

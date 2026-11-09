@@ -74,9 +74,41 @@ def questions(profile: dict | None, gender: str | None, kind: str, emotion: str 
     return q, {"type": "object", "properties": props, "required": list(props)}
 
 
+def background_questions(label: str) -> tuple[list[str], dict]:
+    yn = {"type": "string", "enum": ["yes", "no"]}
+    q = ["people: how many people or characters are shown? (none / one / several)",
+         f"place: does this show {label}? (yes / no / unclear)",
+         "text: are there any letters, words, signs, signatures or watermarks? (yes / no)",
+         "coherent: is it a coherent, well-drawn scene (no warped or impossible architecture)? (yes / no)"]
+    props = {"people": {"type": "string", "enum": ["none", "one", "several"]},
+             "place": {"type": "string", "enum": ["yes", "no", "unclear"]}, "text": yn, "coherent": yn}
+    return q, {"type": "object", "properties": props, "required": list(props)}
+
+
+def score_background(answers: dict, label: str) -> dict:
+    issues, hard, s = [], False, 1.0
+    if answers.get("people") != "none":
+        issues.append("people in the background")
+        s, hard = s - 0.6, True
+    if answers.get("place") == "no":
+        issues.append(f"doesn't look like {label}")
+        s, hard = s - 0.6, True
+    if answers.get("text") == "yes":
+        issues.append("text or signs")
+        s -= 0.3
+    if answers.get("coherent") == "no":
+        issues.append("warped scene")
+        s, hard = s - 0.5, True
+    s = max(0.0, round(s, 3))
+    return {"score": s, "pass": s >= PASS_SCORE and not hard, "issues": issues, "answers": answers}
+
+
 def messages(image: Path | str, profile: dict | None, gender: str | None, kind: str,
-             emotion: str | None = None) -> tuple[list[dict], dict]:
-    qs, schema = questions(profile, gender, kind, emotion)
+             emotion: str | None = None, background: str | None = None) -> tuple[list[dict], dict]:
+    if background:
+        qs, schema = background_questions(background)
+    else:
+        qs, schema = questions(profile, gender, kind, emotion)
     lines = ["Questions about the image:"] + [f"{i}. {x}" for i, x in enumerate(qs, 1)]
     lines.append('Reply as JSON with one key per question name, e.g. {"people": "one", ...}.')
     return [{"role": "system", "content": SYSTEM},
@@ -168,10 +200,16 @@ class Approver:
         return getattr(self.vlm, "model", "?")
 
     def check(self, image: Path | str, *, profile: dict | None, gender: str | None, kind: str,
-              emotion: str | None = None, reference: Path | str | None = None) -> dict:
-        msgs, schema = messages(image, profile, gender, kind, emotion)
+              emotion: str | None = None, reference: Path | str | None = None,
+              background: str | None = None) -> dict:
+        """``background`` = the place it should show, for background images (else a character check)."""
+        msgs, schema = messages(image, profile, gender, kind, emotion, background)
         reply = self.vlm.chat(msgs, schema=schema, max_tokens=400)
         answers = extract_json(reply.content)
+        if background:
+            out = score_background(answers, background)
+            out["model"] = self.model
+            return out
         pixel = reference is not None and kind == "expression"
         out = score(answers, profile=profile, gender=gender, kind=kind, emotion=emotion,
                     outfit_drift=outfit_drift(reference, image) if pixel else None,

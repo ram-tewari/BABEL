@@ -249,7 +249,7 @@ export interface ArtCharacter {
 }
 
 export interface SchedulerStatus {
-  status: "idle" | "waiting" | "paused" | "profiling" | "drawing" | "checking" | "unavailable";
+  status: "idle" | "waiting" | "paused" | "profiling" | "staging" | "drawing" | "checking" | "unavailable";
   detail: string | null;
   error: string | null;
   worker_running: boolean;
@@ -300,6 +300,29 @@ export interface NovelArt {
 export interface ArtMeta extends SchedulerStatus {
   emotions: string[];
   fields: { key: string; label: string }[];
+}
+
+export interface StageBlock {
+  type: BlockType;
+  text: string;
+  speaker: string | null;
+  character_id: number | null;
+  tone: Tone | null;
+  para: number;
+  scene: number;
+  emotion?: string;
+  sprite?: string | null;
+}
+
+export interface StageView {
+  chapter: { id: number; novel_id: number; idx: number; title: string; prev_id: number | null; next_id: number | null };
+  ready: boolean;
+  missing: string[];
+  refined: boolean;
+  scenes: { start: number; end: number; place: string; night: boolean; background: string | null }[];
+  blocks: StageBlock[];
+  cast: Record<string, { name: string; color: string | null; side: "left" | "right"; extra: boolean; has_art: boolean }>;
+  queued?: number;
 }
 
 export class ApiError extends Error {
@@ -394,6 +417,13 @@ export const api = {
     `/api/novels/${novelId}/export/${kind}${qs({ first, last })}`,
   glossaryUrl: (novelId: number) => `/api/novels/${novelId}/glossary.yaml`,
   artMeta: () => req<ArtMeta>("/art/status"),
+  stage: (chapterId: number) => req<StageView>(`/chapters/${chapterId}/stage`),
+  library: (novelId: number) =>
+    req<{ items: { entity_id: number; kind: "extra" | "background"; label: string; status: DesignStatus; thumb: string | null; users: string[] }[]; first_ready_chapter: number | null }>(
+      `/novels/${novelId}/library`,
+    ),
+  redrawLibrary: (entityId: number) => req<{ ok: true }>(`/library/${entityId}/redraw`, json("POST")),
+  prepareStage: (chapterId: number) => req<StageView>(`/chapters/${chapterId}/stage/prepare`, json("POST")),
   system: () => req<SystemStatus>("/system"),
   setSystemPrefs: (body: Partial<Pick<SystemPolicy, "background_when" | "pause_on_battery" | "idle_after_s">>) =>
     req<SystemPolicy>("/system/prefs", json("PUT", body)),

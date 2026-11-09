@@ -21,6 +21,9 @@ from babel.models import BlockType, Decision, Segment, SegmentKind
 
 LETTERS = "ABCDEFGH"
 OTHER = "someone else (give the name)"
+# what a model sometimes writes instead of a name — never a character
+_PLACEHOLDER = re.compile(r"^(someone( else)?|somebody|unknown|unnamed|anonymous|narrator|nobody|n/?a|none|"
+                          r"the speaker|speaker|other|another person|a voice|voice|\?+)\b", re.I)
 
 TYPE_OPTIONS = [
     ("inner thought", BlockType.THOUGHT),
@@ -243,7 +246,7 @@ def parse_answers(text: str, batch: Batch) -> list[Answer]:
         if q.kind == "speaker":
             if opt == OTHER:
                 name = str(a.get("name") or "").strip()
-                if name and len(name) <= 60:
+                if name and len(name) <= 60 and not _PLACEHOLDER.match(name):
                     out.append(Answer(q.seg, "speaker", name, other=True))
             else:
                 out.append(Answer(q.seg, "speaker", opt))

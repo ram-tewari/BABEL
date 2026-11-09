@@ -30,7 +30,8 @@ _TITLES = {
     "captain", "professor", "teacher", "father", "mother", "little", "big",
 }
 PRONOUNS = {"he", "she", "they", "i", "we", "you", "him", "her", "it", "me", "someone", "somebody", "us", "them"}
-UNKNOWN = {"?", "unknown", "narrator", "none", "null", "n/a", "unknown speaker", "nobody"}
+UNKNOWN = {"?", "unknown", "narrator", "none", "null", "n/a", "unknown speaker", "nobody", "someone", "someone else",
+           "somebody", "someone else (give the name)", "speaker", "the speaker", "a voice", "voice", "anonymous"}
 
 
 def tokens(name: str) -> list[str]:

@@ -1,7 +1,7 @@
 import { useCallback, useEffect, useLayoutEffect, useMemo, useRef, useState } from "react";
 import { Link, useNavigate, useParams } from "react-router";
 import { useMutation, useQueries, useQuery, useQueryClient } from "@tanstack/react-query";
-import { ArrowLeft, BookOpen, FileText, Library, ListOrdered, MessagesSquare, Moon, Pencil, RefreshCw, Sparkles, Type, User } from "lucide-react";
+import { ArrowLeft, BookOpen, Clapperboard, FileText, Library, ListOrdered, MessagesSquare, Moon, Pencil, RefreshCw, Sparkles, Type, User } from "lucide-react";
 import { api, isActive, type Block, type ChapterView, type Entity, type TierMode } from "../lib/api";
 import { setPrefs, usePrefs, WIDTHS, type Prefs } from "../lib/prefs";
 import { ErrorNote, Field, IconButton, Modal, Spinner, buttonCls, cx } from "../components/ui";
@@ -230,6 +230,9 @@ export function Reader() {
           <button className="min-w-0 flex-1 truncate px-2 text-center text-sm font-medium" onClick={() => setCmdOpen(true)} title="Jump to… (Ctrl+K)">
             {currentView?.title}
           </button>
+          <IconButton label="Read as a visual novel" onClick={() => navigate(`/vn/${current}`)}>
+            <Clapperboard size={18} />
+          </IconButton>
           <IconButton label={prefs.view === "scenario" ? "Show original text" : "Show scenario"} onClick={() => setPrefs({ view: prefs.view === "scenario" ? "original" : "scenario" })}>
             {prefs.view === "scenario" ? <FileText size={18} /> : <MessagesSquare size={18} />}
           </IconButton>

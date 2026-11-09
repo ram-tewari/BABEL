@@ -205,3 +205,10 @@ def test_repeated_sound_words():
     assert repeated_sound("Ka! Ka! Ka!") and repeated_sound("Dum, dum, dum…")
     assert not repeated_sound("No! No! No!") and not repeated_sound("Run.")
     assert looks_like_sfx("Woof!")
+
+
+def test_placeholder_answers_are_never_characters():
+    from babel.memory.akashic import valid_label
+    from babel.scenario.ask import _PLACEHOLDER
+    assert not valid_label("someone else") and not valid_label("Someone") and valid_label("Old Harrow")
+    assert _PLACEHOLDER.match("someone else") and _PLACEHOLDER.match("Unknown") and not _PLACEHOLDER.match("Somerset")

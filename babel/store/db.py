@@ -159,6 +159,13 @@ CREATE TABLE IF NOT EXISTS art_images (            -- every generated image; sta
 );
 CREATE INDEX IF NOT EXISTS idx_art_design ON art_images(design_id, kind);
 CREATE INDEX IF NOT EXISTS idx_art_status ON art_images(status);
+CREATE TABLE IF NOT EXISTS stage (                 -- visual-novel staging per chapter: emotions, scenes, places
+  chapter_id INTEGER PRIMARY KEY REFERENCES chapters(id) ON DELETE CASCADE,
+  basis TEXT NOT NULL,                         -- what it was computed from (re-staged when the chapter changes)
+  data TEXT NOT NULL,                          -- JSON {"emotions": {seg: [emotion, conf, tier]}, "scenes": [...]}
+  refined INTEGER NOT NULL DEFAULT 0,          -- 1 once the text model has looked at the uncertain parts
+  updated_at TEXT NOT NULL
+);
 CREATE TABLE IF NOT EXISTS reads (
   novel_id INTEGER NOT NULL REFERENCES novels(id) ON DELETE CASCADE,
   chapter_id INTEGER NOT NULL REFERENCES chapters(id) ON DELETE CASCADE,
@@ -188,6 +195,10 @@ class Store:
         ("art_images", "qc_status", "TEXT"),   # pending | pass | fail | skipped
         ("art_images", "qc_score", "REAL"),
         ("art_images", "qc", "TEXT"),          # JSON: answers, issues, model
+        ("designs", "kind", "TEXT NOT NULL DEFAULT 'character'"),  # character | extra | background
+        ("designs", "auto_pick", "INTEGER NOT NULL DEFAULT 0"),    # the checker picks the best option itself
+        ("designs", "spec", "TEXT"),           # JSON for library items: era, archetype/category, variant
+        ("entities", "extra_id", "INTEGER"),   # minor characters: which extras-library face they use
     ]
 
     def __init__(self, path: Path | str):
@@ -274,7 +285,8 @@ class Store:
         return len(new)
 
     def list_novels(self, novel_id: int | None = None) -> list[dict]:
-        where = "WHERE n.id=?" if novel_id is not None else ""
+        # the shared extras/backgrounds library is stored as a hidden novel
+        where = "WHERE n.id=?" if novel_id is not None else "WHERE COALESCE(n.source_name, '') != '__library__'"
         rows = self.q(
             f"""SELECT n.*,
                  (SELECT COUNT(*) FROM chapters c WHERE c.novel_id=n.id) AS chapter_count,

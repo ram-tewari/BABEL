@@ -1,8 +1,9 @@
 import { useEffect, useState } from "react";
 import { useMutation, useQuery, useQueryClient } from "@tanstack/react-query";
-import { AlertTriangle, BookOpen, Cpu, Palette, ShieldCheck, Sparkles } from "lucide-react";
+import { Link } from "react-router";
+import { AlertTriangle, BookOpen, Clapperboard, Cpu, Images, Palette, RefreshCw, ShieldCheck, Sparkles } from "lucide-react";
 import { api, type ArtCharacter, type Entity, type NovelArt } from "../lib/api";
-import { Avatar, Empty, ErrorNote, Modal, ProgressBar, Spinner, cx, inputCls } from "./ui";
+import { Avatar, Empty, ErrorNote, Modal, ProgressBar, Spinner, buttonCls, cx, inputCls } from "./ui";
 import { useCast } from "./CastEditor";
 import { DesignEditor, STATUS_LABEL } from "./DesignEditor";
 
@@ -11,12 +12,13 @@ const SCHEDULER_LABEL: Record<NovelArt["scheduler"]["status"], string> = {
   waiting: "Waiting",
   paused: "Paused",
   profiling: "Reading the book for",
+  staging: "Preparing",
   drawing: "Drawing",
   checking: "Checking",
   unavailable: "Image models not installed",
 };
 
-const working = (a?: NovelArt) => !!a && (a.scheduler.queued > 0 || ["profiling", "drawing", "checking"].includes(a.scheduler.status));
+const working = (a?: NovelArt) => !!a && (a.scheduler.queued > 0 || ["profiling", "staging", "drawing", "checking"].includes(a.scheduler.status));
 
 export function DesignTab({ novelId }: { novelId: number }) {
   const qc = useQueryClient();
@@ -54,6 +56,11 @@ export function DesignTab({ novelId }: { novelId: number }) {
           </span>
         </div>
         <ProgressBar value={r.ready} max={Math.max(1, r.transformed)} tone="ok" label="Chapters ready as a visual novel" />
+        {r.ready_ids.length > 0 && (
+          <Link to={`/vn/${r.ready_ids[0]}`} className={buttonCls("primary", "sm")}>
+            <Clapperboard size={14} /> Read as a visual novel
+          </Link>
+        )}
         <p className="text-xs text-faint">
           A chapter is ready once every main and supporting character who speaks in it has a finished design. Minor characters and extras come from the shared library and never hold a chapter back. Until then, chapters read in chat mode.
         </p>
@@ -153,6 +160,8 @@ export function DesignTab({ novelId }: { novelId: number }) {
       </section>
 
       <ComputerPanel />
+
+      <LibraryPanel novelId={novelId} />
 
       {a.needed === 0 && a.characters.length === 0 ? (
         <Empty icon={<Palette size={28} />} title="No characters to design yet">
@@ -262,6 +271,53 @@ function ComputerPanel() {
       </div>
       {!s.background_ok && s.background_reason && <p className="text-xs text-muted">Right now: {s.background_reason}.</p>}
       <ErrorNote error={prefs.error} />
+    </section>
+  );
+}
+
+/** The shared faces (for minor characters) and backgrounds this novel uses — drawn and picked automatically. */
+function LibraryPanel({ novelId }: { novelId: number }) {
+  const qc = useQueryClient();
+  const lib = useQuery({ queryKey: ["library", novelId], queryFn: () => api.library(novelId), refetchInterval: 20_000 });
+  const redraw = useMutation({ mutationFn: api.redrawLibrary, onSuccess: () => qc.invalidateQueries({ queryKey: ["library", novelId] }) });
+  const items = lib.data?.items ?? [];
+  if (!items.length) return null;
+  const groups = [
+    { kind: "background", title: "Backgrounds" },
+    { kind: "extra", title: "Faces for minor characters" },
+  ] as const;
+  return (
+    <section className="space-y-3 rounded-xl border border-line p-4">
+      <h3 className="flex items-center gap-2 text-sm font-medium">
+        <Images size={15} /> Shared library
+      </h3>
+      <p className="text-xs text-faint">
+        Minor characters get a consistent face matched to their role, and places get a background. They're drawn just ahead of where you're reading, checked automatically, and shared with other novels in the same era.
+      </p>
+      {groups.map((g) => {
+        const list = items.filter((i) => i.kind === g.kind);
+        if (!list.length) return null;
+        return (
+          <div key={g.kind} className="space-y-1.5">
+            <p className="text-xs text-muted">{g.title}</p>
+            <div className="flex flex-wrap gap-2">
+              {list.map((it) => (
+                <figure key={it.entity_id} className="group relative w-28 overflow-hidden rounded-lg border border-line bg-bg" title={it.users.length ? `Used for: ${it.users.join(", ")}` : it.label}>
+                  <div className={cx("flex items-center justify-center bg-raised", g.kind === "background" ? "aspect-[1344/768]" : "aspect-[832/1216]")}>
+                    {it.thumb ? <img src={it.thumb} alt="" loading="lazy" className="h-full w-full object-cover" /> : it.status === "candidates" || it.status === "sheet" ? <Spinner size={14} /> : <span className="text-[10px] text-faint">queued</span>}
+                  </div>
+                  <figcaption className="truncate px-1.5 py-1 text-[11px] capitalize text-muted">{it.label}</figcaption>
+                  {it.thumb && (
+                    <button className="absolute right-1 top-1 rounded bg-black/60 p-1 text-white opacity-0 transition-opacity group-hover:opacity-100" onClick={() => redraw.mutate(it.entity_id)} aria-label={`Redraw ${it.label}`} title="Draw again">
+                      <RefreshCw size={11} />
+                    </button>
+                  )}
+                </figure>
+              ))}
+            </div>
+          </div>
+        );
+      })}
     </section>
   );
 }

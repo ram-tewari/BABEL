@@ -53,10 +53,16 @@ log = logging.getLogger("babel.art")
 WORKER_SCRIPT = Path(__file__).with_name("worker_proc.py")
 LOOKAHEAD = 4  # designs waiting for your pick before the scheduler stops drafting new options
 IDLE_STOP_SECS = 120
-MODEL_GB = {"anima-turbo": 6.0, "flux2-klein-4b": 12.0}  # peak memory of each image model in the worker
+# measured on an M5 Max (MLX cache capped at 2 GB, Anima with tiled decoding): the peak while drawing one image,
+# and what the worker keeps holding between images
+MODEL_PEAK_GB = {"anima-turbo": 12.0, "flux2-klein-4b": 12.0}
+MODEL_HELD_GB = {"anima-turbo": 6.0, "flux2-klein-4b": 4.5}
+DRAW_MARGIN_GB = 3.0  # on top of the governor's headroom: free memory stays clear of macOS compressing
 MAX_CANDIDATE_DRAWS = 12  # per design: the checker may redraw failing options until this many were drawn
 MAX_EXPRESSION_ATTEMPTS = 3
+MAX_LIBRARY_DRAWS = 6  # extras/backgrounds: give up (and use the closest) after this many options
 PRESSURE_COOLDOWN_S = 300  # after a memory-pressure pause, automatic work waits this long
+STAGE_AHEAD = 8  # chapters after your reading position that are prepared automatically
 
 
 class ArtError(RuntimeError):
@@ -298,7 +304,7 @@ class ArtScheduler:
             self._set("paused", reason)
             return False
         if self._check_pending(manual_only=False) or self._auto_profiles() or self._auto_candidates() \
-                or self._draw_next(manual=False):
+                or self._auto_stage() or self._auto_library() or self._draw_next(manual=False):
             return True
         if self._waiting:  # keep showing why we're waiting (memory, …)
             self._set("waiting", self._waiting)
@@ -318,6 +324,21 @@ class ArtScheduler:
             return f"memory was short recently — automatic work resumes in about {mins} min"
         return None
 
+    def _text_model(self):
+        """The text model for profile/staging work: frees our image memory first, falls back to a smaller model
+        if the usual one doesn't fit, and returns False (after saying why) if nothing fits yet."""
+        from babel.system import fitting_model
+
+        llm = self.llm_factory()
+        if llm is None:
+            return None
+        self.release(vision=False)  # text work doesn't need the image models
+        fit = fitting_model(llm, self.governor)
+        if fit is None:
+            self._set("waiting", self.governor.ollama_model(getattr(llm, "model", None)))
+            return False
+        return fit
+
     def _auto_novels(self) -> list[int]:
         return [r["id"] for r in self.store.q("SELECT id, art FROM novels")
                 if r["art"] and json.loads(r["art"]).get("auto")]
@@ -326,9 +347,16 @@ class ArtScheduler:
         if self.store.one("SELECT 1 FROM art_images WHERE (status='queued' AND manual=0)"
                           " OR (status='done' AND qc_status='pending') LIMIT 1"):
             return True
+        if self.store.one("SELECT 1 FROM designs WHERE kind IN ('extra','background') AND status='profiled' LIMIT 1"):
+            return True
         for nid in self._auto_novels():
             q = plan.queue(self.store, Akashic(self.store, nid))
             if any(c["status"] in ("new", "profiled") for c in q[:LOOKAHEAD * 2]):
+                return True
+            pos = self._reading_idx(nid)
+            if self.store.one("SELECT 1 FROM chapters c LEFT JOIN stage s ON s.chapter_id=c.id WHERE c.novel_id=?"
+                              " AND c.status='done' AND c.idx>=? AND c.idx<? AND (s.refined IS NULL OR s.refined=0)"
+                              " LIMIT 1", (nid, pos, pos + STAGE_AHEAD)):
                 return True
         return False
 
@@ -338,14 +366,10 @@ class ArtScheduler:
             todo = [c for c in plan.queue(self.store, ak)[:LOOKAHEAD * 2] if c["status"] == "new"]
             if not todo:
                 continue
-            llm = self.llm_factory()
-            if llm is not None and (reason := self.governor.ollama_model(getattr(llm, "model", None))):
-                self.release(vision=False)  # the text model needs the room more than idle image models
-                if (reason := self.governor.ollama_model(getattr(llm, "model", None))):
-                    self._set("waiting", reason)
-                    return False
+            llm = self._text_model()
+            if llm is False:
+                return False
             c = todo[0]
-            self.release(vision=False)  # profiles need the text model, not the image models
             self._set("profiling", c["name"])
             try:
                 draft_profile(self.store, ak, c["id"], llm)
@@ -369,6 +393,55 @@ class ArtScheduler:
                 return True
         return False
 
+    def _reading_idx(self, nid: int) -> int:
+        row = self.store.one("SELECT c.idx FROM progress p JOIN chapters c ON c.id=p.chapter_id WHERE p.novel_id=?",
+                             (nid,))
+        return row["idx"] if row else 0
+
+    def _auto_stage(self) -> bool:
+        """Get the next chapters after your reading position ready: expressions, places, faces, backgrounds."""
+        from babel.vn import stage
+
+        for nid in self._auto_novels():
+            pos = self._reading_idx(nid)
+            rows = self.store.q("SELECT c.id FROM chapters c LEFT JOIN stage s ON s.chapter_id=c.id"
+                                " WHERE c.novel_id=? AND c.status='done' AND c.idx>=? AND c.idx<?"
+                                " AND (s.refined IS NULL OR s.refined=0) ORDER BY c.idx LIMIT 1",
+                                (nid, pos, pos + STAGE_AHEAD))
+            if not rows:
+                continue
+            ak = Akashic(self.store, nid)
+            cid = rows[0]["id"]
+            llm = self._text_model()
+            if llm is False:
+                return False
+            if llm is not None:
+                self._set("staging", f"chapter {self.store.one('SELECT idx FROM chapters WHERE id=?', (cid,))['idx'] + 1}")
+                try:
+                    stage.refine(self.store, ak, cid, llm)
+                except Exception as e:
+                    log.warning("staging failed: %s", e)
+                    self.store.x("UPDATE stage SET refined=1 WHERE chapter_id=?", (cid,))  # rules are fine
+            else:
+                stage.get(self.store, ak, cid)
+                self.store.x("UPDATE stage SET refined=1 WHERE chapter_id=?", (cid,))
+            stage.prepare(self.store, ak, cid, manual=False)
+            return True
+        return False
+
+    def _auto_library(self) -> bool:
+        """Draw library faces/backgrounds that upcoming chapters need, a couple of designs at a time."""
+        busy = self.store.one("SELECT COUNT(*) n FROM designs WHERE kind IN ('extra','background')"
+                              " AND status IN ('candidates','sheet')")["n"]
+        if busy >= 2:
+            return False
+        row = self.store.one("SELECT d.entity_id, e.novel_id FROM designs d JOIN entities e ON e.id=d.entity_id"
+                             " WHERE d.kind IN ('extra','background') AND d.status='profiled' ORDER BY d.id LIMIT 1")
+        if not row:
+            return False
+        designs.queue_candidates(self.store, Akashic(self.store, row["novel_id"]), row["entity_id"], manual=False)
+        return True
+
     def _next_image(self, manual: bool) -> dict | None:
         # expressions first (they finish a character and unblock chapters), then by first appearance
         rows = self.store.q(
@@ -382,11 +455,12 @@ class ArtScheduler:
         """Make sure ``model`` can be loaded in the image worker; returns a reason if it can't yet."""
         assert self.backend is not None
         if model in self.backend.loaded:
-            return None
+            # already loaded, but every image has a short peak above what's held: check that too
+            return self.governor.memory(MODEL_PEAK_GB.get(model, 14.0) - MODEL_HELD_GB.get(model, 5.0) + DRAW_MARGIN_GB)
         # one image model at a time: switching costs a few seconds and happens rarely (work is batched)
         for other in list(self.backend.loaded):
             self.backend.call({"op": "unload", "model": other})
-        need = MODEL_GB.get(model, 8.0)
+        need = MODEL_PEAK_GB.get(model, 14.0) + DRAW_MARGIN_GB
         if self.governor.memory(need) is None:
             return None
         # still short: free the other models we use ourselves, then look again
@@ -406,6 +480,8 @@ class ArtScheduler:
             return False
         if self.backend is None:
             self.backend = self.backend_factory()
+        if self.governor.pressure() and self._approver is not None:
+            ollama_unload(self.ollama_url, [self._approver.model])  # short of memory: one model at a time
         if reason := self._make_room(img["model"]):
             self._set("waiting", reason)
             return False
@@ -422,7 +498,8 @@ class ArtScheduler:
         try:
             if img["kind"] == "candidate":
                 req = {"op": "generate", "model": img["model"], "prompt": p["prompt"], "negative": p.get("negative"),
-                       "seed": img["seed"], "width": designs.BASE_W, "height": designs.BASE_H, "out": str(out)}
+                       "seed": img["seed"], "width": p.get("width", designs.BASE_W),
+                       "height": p.get("height", designs.BASE_H), "out": str(out)}
             else:
                 d = self.store.one("SELECT base_image_id FROM designs WHERE id=?", (img["design_id"],))
                 base = self.store.one("SELECT path FROM art_images WHERE id=?", (d["base_image_id"],))
@@ -450,13 +527,19 @@ class ArtScheduler:
         if not self.approver:
             return False
         rows = self.store.q(
-            "SELECT i.*, d.entity_id, d.profile, d.base_image_id, e.gender FROM art_images i"
+            "SELECT i.*, d.entity_id, d.profile, d.base_image_id, d.kind AS design_kind, d.spec, e.gender"
+            " FROM art_images i"
             " JOIN designs d ON d.id=i.design_id JOIN entities e ON e.id=d.entity_id"
             " WHERE i.status='done' AND i.qc_status='pending'" + (" AND i.manual=1" if manual_only else "") +
             " ORDER BY i.id LIMIT 1")
         if not rows:
             return False
         img = rows[0]
+        if self.governor.pressure():
+            # short of memory: finish drawing first, then check with the image model released
+            if self.store.one("SELECT 1 FROM art_images WHERE status='queued' LIMIT 1"):
+                return False
+            self.release(vision=False)
         if reason := self.governor.ollama_model(self.approver.model):
             # make room by letting go of an idle image model rather than skipping the check
             if self.backend is not None and self.backend.loaded:
@@ -472,8 +555,10 @@ class ArtScheduler:
         if img["kind"] == "expression" and img["emotion"] != "neutral" and img["base_image_id"]:
             ref = (self.store.one("SELECT path FROM art_images WHERE id=?", (img["base_image_id"],)) or {}).get("path")
         try:
+            spec = json.loads(img["spec"]) if img.get("spec") else {}
             qc = self.approver.check(img["path"], profile=json.loads(img["profile"]) if img["profile"] else None,
-                                     gender=img["gender"], kind=img["kind"], emotion=img["emotion"], reference=ref)
+                                     gender=img["gender"], kind=img["kind"], emotion=img["emotion"], reference=ref,
+                                     background=spec.get("label") if img.get("design_kind") == "background" else None)
         except Exception as e:  # a checker failure never blocks a design
             log.warning("quality check failed: %s", e)
             self.store.x("UPDATE art_images SET qc_status='skipped', qc=? WHERE id=?",
@@ -494,6 +579,14 @@ class ArtScheduler:
             self.store.x("UPDATE art_images SET status='rejected' WHERE id=?", (img["id"],))
             drawn = self.store.one("SELECT COUNT(*) n FROM art_images WHERE design_id=? AND kind='candidate'",
                                    (img["design_id"],))["n"]
+            d = self.store.one("SELECT auto_pick FROM designs WHERE id=?", (img["design_id"],))
+            if d and d["auto_pick"]:
+                # library items need one good option, not six: stop as soon as one passed, and give up sooner
+                passed = self.store.one("SELECT 1 FROM art_images WHERE design_id=? AND kind='candidate'"
+                                        " AND status IN ('done','queued','running') AND qc_status IS NOT 'fail'"
+                                        " LIMIT 1", (img["design_id"],))
+                if passed or drawn >= MAX_LIBRARY_DRAWS:
+                    return
             if drawn < MAX_CANDIDATE_DRAWS:
                 e = self.store.one("SELECT novel_id FROM entities WHERE id=?", (img["entity_id"],))
                 designs.queue_candidates(self.store, Akashic(self.store, e["novel_id"]), img["entity_id"], 1,

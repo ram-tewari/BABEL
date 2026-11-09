@@ -85,7 +85,7 @@ Reasoning models (Qwen3, R1-style) are asked to answer directly (`reasoning_effo
   - Settings: metadata search via Open Library or Google Books (RoyalRoad and NovelUpdates are tried but usually block bots), cover upload, append new chapters of an ongoing novel, delete.
 - Transform jobs show tier choice and a cost estimate, run several novels in parallel, and can be paused, resumed or stopped. Restarts resume where they left off.
 
-## Character art (visual novel, in progress)
+## Visual novel
 
 BABEL can design every main and supporting character in manhwa style, locally, and draw a sheet of eight expressions for each one: neutral, happy, laugh, angry, sad, surprised, afraid and serious. The reader will pick an expression for each line from its tone. Apple Silicon only for now.
 
@@ -119,6 +119,21 @@ babel serve              # then: novel → Design tab → "Design automatically 
   - an option takes about 8 s and an expression about 45 s, so a finished character takes roughly 10 minutes;
   - the image models are about 22 GB on disk;
   - Anima is licensed for non-commercial use only, and FLUX.2 Klein 4B under Apache 2.0.
+
+**Reading it.** Press the clapperboard in the reader, or **Read as a visual novel** in the Design tab.
+- **The stage:** each chapter plays as scenes. Each has a background and the speakers' sprites, and every line uses an expression chosen from its tone.
+- **The dialogue box:** narration, inner thoughts, action beats, system windows and sound effects each get their own style.
+- **Controls:** click, Space or → advances; ← goes back; A auto-plays; Esc returns to chat mode.
+
+How it's prepared:
+- **An expression for every line.** Rules read the detected tone and the surrounding words ("he smiled", "she trembled", "What?!"). The text model answers one batched multiple-choice question per chapter for the lines without a clear cue.
+- **Scenes and places.** Chapters split at scene breaks and at clear moves ("walked into the pub"). A place is a named venue from the glossary ("Ironcross Street", "Evernight Cathedral"; never a bare city or country) or one of about 20 generic kinds (street, room, pub, church, carriage…), with night shown as lighting.
+- **The shared library.**
+  - Minor and unnamed characters get a consistent face matched to their role (about 20 archetypes such as guard, constable, maid, shopkeeper, bartender, coachman and noble, three faces each, five expressions), and two extras never share a face in one scene.
+  - Places get wide, people-free backgrounds.
+  - Library items are drawn on demand, checked, picked by score, and shared between novels in the same era. Manage them under Design → Shared library.
+- **Sprites** are cut out of the portraits' plain backdrop. No extra model is needed.
+- **Preparation runs ahead of you.** The 8 chapters after your reading position are prepared automatically, only while you're away. Opening a chapter prepares it right away, using the text model only if it (or the smaller one) fits in memory.
 
 `babel art status <novel>` shows the queue and which chapters are ready. `BABEL_ART=off` disables character art. `BABEL_VISION_MODEL=off` disables the quality check.
 
@@ -177,6 +192,7 @@ babel/
   store/       SQLite: chapters + decision documents, overrides, entities, aliases, usage ledger, reads
   meta/        Open Library / Google Books / RoyalRoad / NovelUpdates
   art/         appearance profiles · design queue + readiness · art scheduler · image worker (.venv-art) · quality checker
+  vn/          emotion per line · scenes & places · shared extras/background library · staging
   system.py    memory / idle / battery probes and the "your computer comes first" policy
   export/      EPUB, HTML · api/ FastAPI (+ serves the web UI) · evals/ gold chapters + runner
 web/           React 19 · Vite · Tailwind 4 · TanStack Query

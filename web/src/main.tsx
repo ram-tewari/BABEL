@@ -8,6 +8,7 @@ import { Library } from "./pages/Library";
 import { NovelPage } from "./pages/Novel";
 import { Reader } from "./pages/Reader";
 import { NotFound } from "./pages/NotFound";
+import { VisualNovel } from "./pages/VisualNovel";
 
 const queryClient = new QueryClient({
   defaultOptions: { queries: { staleTime: 10_000, refetchOnWindowFocus: false, retry: 1 } },
@@ -22,6 +23,7 @@ createRoot(document.getElementById("root")!).render(
           <Route path="/novel/:id" element={<NovelPage />} />
           <Route path="/novel/:id/:tab" element={<NovelPage />} />
           <Route path="/read/:chapterId" element={<Reader />} />
+          <Route path="/vn/:chapterId" element={<VisualNovel />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </BrowserRouter>

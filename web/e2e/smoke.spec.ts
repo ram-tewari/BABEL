@@ -38,6 +38,16 @@ test("import → transform → read → correct → review", async ({ page }) =>
   await expect(page.getByRole("option", { name: /Tobin/ })).toBeVisible();
   await page.keyboard.press("Escape");
 
+  // visual novel: works without image models (silhouettes, gradient backgrounds) and steps line by line
+  await page.getByRole("button", { name: "Read as a visual novel" }).click();
+  await expect(page).toHaveURL(/\/vn\/\d+/);
+  await expect(page.getByRole("button", { name: /Auto-play/ })).toBeVisible();
+  await page.keyboard.press("ArrowRight");
+  await page.keyboard.press("ArrowRight");
+  await expect(page.getByRole("button", { name: "Previous line" })).toBeEnabled();
+  await page.keyboard.press("Escape");
+  await expect(page).toHaveURL(/\/read\/\d+/);
+
   // the correction shows up in the review tab's log
   await page.goto(page.url().replace(/\/read\/\d+/, "/"));
   await page.getByRole("link", { name: /sample chapter/i }).click();
