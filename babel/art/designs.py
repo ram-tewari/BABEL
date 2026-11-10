@@ -29,6 +29,7 @@ from babel.memory.akashic import Akashic
 from babel.store.db import Store, now
 
 BASE_W, BASE_H = 832, 1216
+FULL_W, FULL_H = 1024, 1536  # portraits are drawn full-body at this size, then framed to BASE (sprite.frame_sprite)
 CANDIDATES = 6
 DEFAULT_ART = {"style": "manhwa", "setting": "", "era": "", "auto": False}
 BASE_MODEL = "anima-turbo"
@@ -121,14 +122,15 @@ def queue_candidates(store: Store, ak: Akashic, eid: int, n: int | None = None, 
             raise ValueError("draft or write the appearance profile first")
         art = {"era": spec["era"]} if kind == "extra" else art_settings(store, ak.novel_id)
         prompt, negative = base_prompt(json.loads(d["profile"]), ak.gender(eid), art)
-        w, h = BASE_W, BASE_H
+        w, h = FULL_W, FULL_H
     ids = []
     for _ in range(n if n is not None else KIND_CANDIDATES.get(kind, CANDIDATES)):
         ids.append(store.x(
             "INSERT INTO art_images (design_id, kind, status, seed, model, prompt, manual, attempt, created_at)"
             " VALUES (?, 'candidate', 'queued', ?, ?, ?, ?, ?, ?)",
             (d["id"], random.randint(1, 2**31 - 1), BASE_MODEL,
-             json.dumps({"prompt": prompt, "negative": negative, "width": w, "height": h}), int(manual), attempt,
+             json.dumps({"prompt": prompt, "negative": negative, "width": w, "height": h,
+                         **({"frame": "sprite"} if kind != "background" else {})}), int(manual), attempt,
              now())))
     _update(store, d["id"], status="candidates", message=None)
     return ids
@@ -165,8 +167,13 @@ def approve_candidate(store: Store, image_id: int) -> dict:
 
 
 def best_candidate(store: Store, design_id: int) -> dict | None:
+    """The checker's pick: passing first, then drawn for the current prompt (after a restyle the old look is
+    still an option, and its score came from an older, laxer check), then by score, newest first."""
     return store.one("SELECT * FROM art_images WHERE design_id=? AND kind='candidate' AND status='done'"
-                     " ORDER BY (qc_status='fail'), COALESCE(qc_score, 0.5) DESC, id LIMIT 1", (design_id,))
+                     " ORDER BY (qc_status='fail'),"
+                     " (prompt IS NOT (SELECT prompt FROM art_images WHERE design_id=? AND kind='candidate'"
+                     "                 ORDER BY id DESC LIMIT 1)),"
+                     " COALESCE(qc_score, 0.5) DESC, id DESC LIMIT 1", (design_id, design_id))
 
 
 def reroll(store: Store, image_id: int) -> int:

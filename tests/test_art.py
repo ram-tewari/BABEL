@@ -119,8 +119,8 @@ def test_gather_evidence_and_prompt(novel):
     assert profile["hair"]["value"] == "short black hair" and profile["hair"]["chapter"] == 1
     assert profile["accessories"]["value"] == "" and profile["tags"][:1] == ["black hair"]
     prompt, negative = base_prompt(profile, "m", {"style": "manhwa", "setting": "Victorian city with gas lamps"})
-    assert "1boy" in prompt and "short black hair" in prompt and "manhwa" in prompt
-    assert "mouth clearly visible" in prompt and "watermark" in negative
+    assert "1boy" in prompt and "short black hair" in prompt and "manhwa" in prompt and "full body" in prompt
+    assert "bareheaded" in prompt and "watermark" in negative
     assert "Victorian" not in prompt and "gas lamp" not in prompt  # the setting is never drawn
     prompt, _ = base_prompt(profile, "m", {"setting": "Victorian city with gas lamps", "era": "1880s Victorian"})
     assert "Clothing in 1880s Victorian style" in prompt and "gas lamp" not in prompt  # …but shapes the clothes
@@ -134,7 +134,7 @@ def test_portrait_prompt_keeps_only_the_character():
         "tags": ["black hair", "felt hat", "gas lamp city", "occult symbolism", "1880s fashion", "pocket watch"]}))
     assert portrait_tags(p) == ["black hair", "pocket watch"]
     prompt, negative = base_prompt(p, "m", {})
-    person = prompt.split("Half-body illustration of")[1].split("Korean")[0]
+    person = prompt.split("character sprite of")[1].split("A polished official")[0]
     assert "hat" not in person and "pocket watch" in prompt and "headwear" in negative
     assert "1880s" not in prompt.split(".")[0]  # era words aren't tags (but may describe the clothes)
     p["marks"] = {"value": "always wears a battered top hat", "guessed": False, "chapter": None, "quote": ""}
@@ -498,6 +498,65 @@ def test_restyle_keeps_the_old_look_on_stage_until_a_new_one_is_chosen(novel, sc
     assert set(new) == {"neutral"} and new["neutral"] != old["neutral"]  # the new look takes over
 
 
+def test_library_restyle_picks_the_new_look_over_the_old_one(novel, scheduler):
+    """The kept old option ties (or beats) the new ones on score; the checker must still pick the new style."""
+    store, eid = novel.store, novel.ids["Klein"]
+    draft_profile(store, novel.ak, eid, StubLLM())
+    designs.queue_candidates(store, novel.ak, eid)
+    drain(scheduler)
+    old = designs.design_view(store, novel.ak, eid)["candidates"][0]["id"]
+    designs.approve_candidate(store, old)
+    drain(scheduler)
+    d = designs.get_design(store, eid)
+    store.x("UPDATE designs SET auto_pick=1 WHERE id=?", (d["id"],))
+    store.x("UPDATE art_images SET qc_score=1.0 WHERE id=?", (old,))
+    store.x("UPDATE designs SET profile=json_set(profile, '$.outfit.value', 'a long grey coat') WHERE id=?", (d["id"],))
+    assert designs.restyle(store, novel.ak, eid)
+    store.x("UPDATE art_images SET manual=1 WHERE design_id=? AND status='queued'", (d["id"],))
+    drain(scheduler)
+    store.x("UPDATE art_images SET qc_score=0.85 WHERE design_id=? AND kind='candidate' AND id<>?", (d["id"], old))
+    best = designs.best_candidate(store, d["id"])
+    assert best["id"] != old and best["id"] > old
+
+
 def test_house_style_is_anime():
     prompt, _ = base_prompt({"hair": {"value": "black"}, "tags": ["black hair"]}, "m", {"style": "manhwa"})
     assert "anime" in prompt and "semi-realistic" not in prompt
+
+
+def _figure(path, top: int, size=(1024, 1536)):
+    """A plain grey backdrop with a dark 'person' (head + body) whose head starts at ``top``."""
+    from PIL import ImageDraw
+
+    im = Image.new("RGB", size, (205, 205, 210))
+    d = ImageDraw.Draw(im)
+    d.ellipse((440, top, 580, top + 170), fill=(40, 30, 30))
+    d.rectangle((380, top + 160, 640, 1480), fill=(120, 80, 40))
+    im.save(path)
+
+
+def test_portraits_are_framed_thighs_up_with_air_above_the_head(tmp_path):
+    from babel.art.approve import MIN_HEADROOM, headroom
+    from babel.art.sprite import frame_sprite
+
+    ok, cut = tmp_path / "ok.png", tmp_path / "cut.png"
+    _figure(ok, top=60)
+    _figure(cut, top=0)  # the render cropped the head
+    frame_sprite(ok)
+    frame_sprite(cut)
+    assert Image.open(ok).size == (832, 1216)
+    assert 0.04 < headroom(ok) < 0.08  # the same air above every character
+    assert headroom(cut) < MIN_HEADROOM  # not padded: the checker sees the cut
+
+
+def test_checker_fails_cut_heads_and_eye_colour_drift():
+    from babel.art.approve import score
+
+    good = {"people": "one", "gender": "male", "attr_eyes": "yes", "headwear": "no", "over_mouth": "no",
+            "scenery": "no", "text": "no", "face_ok": "yes", "hands_ok": "unclear", "expression": "yes"}
+    prof = {"eyes": {"value": "brown"}}
+    assert score(good, profile=prof, gender="m", kind="candidate", emotion=None, top_space=0.05)["pass"]
+    r = score(good, profile=prof, gender="m", kind="candidate", emotion=None, top_space=0.0)
+    assert not r["pass"] and "cut off" in r["issues"][0]
+    drift = {**good, "attr_eyes": "no"}
+    assert not score(drift, profile=prof, gender="m", kind="expression", emotion="happy", top_space=0.05)["pass"]

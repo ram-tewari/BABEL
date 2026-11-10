@@ -38,16 +38,20 @@ EMOTIONS: dict[str, str] = {
 # "semi-realistic webtoon" wording came out as flat vector posters; this reads as anime every seed.)
 STYLE_VERSION = 2
 STYLES = {
-    "manhwa": ("A polished modern manhwa and anime character illustration, like a popular webtoon's cover art: "
-               "attractive stylised anime face, large detailed eyes with highlights, soft cel shading with rim light, "
-               "glossy hair strands, clean thin lineart, vibrant colours"),
+    # "official full-body character design art": cover-art / big-eyes wording pulled the camera onto the face
+    "manhwa": ("A polished official full-body character design for a modern anime, manhwa style: attractive "
+               "stylised anime face, detailed eyes with highlights, soft cel shading with rim light, glossy hair, "
+               "clean thin lineart, vibrant colours"),
 }
 # no "manhwa" tag: on Anima it pulls toward semi-realism (measured); the sentence below carries the look
 STYLE_TAGS = {"manhwa": "anime coloring, official art, newest"}
 BG_STYLES = {"manhwa": ("Highly detailed anime background art, like a still from a modern anime film: painterly "
                         "lighting, rich colour, atmospheric depth, soft volumetric light, crisp detail")}
-FRAMING = ("one person shown from the head to the waist, facing the viewer, bareheaded, mouth clearly visible, nothing in front "
-           "of the face, plain light gray background, no scenery")
+# A visual-novel sprite: thighs up, whole head in frame with air above it. ("upper body" + "head to the waist"
+# came out as tight head-and-shoulders with the hair cut by the top edge — unusable as a cut-out on stage.)
+FRAMING = ("one person standing, the whole figure from the top of the head to the feet inside the picture with "
+           "empty space above the head, facing the viewer, bareheaded, "
+           "nothing in front of the face, plain light gray background, no scenery")
 NEGATIVE = ("worst quality, low quality, score_1, score_2, score_3, artist name, signature, watermark, text, "
             "speech bubble, blurry, jpeg artifacts, chromatic aberration, extra fingers, deformed hands, "
             "multiple people, cropped head, hat, headwear, object in mouth, pipe in mouth, cigarette, lantern, lamp, "
@@ -59,7 +63,8 @@ _OFF_CHARACTER = re.compile(
     r"\b(city|town|street|lamp|lamps|lantern|building|architecture|background|scenery|landscape|setting|"
     r"steampunk|atmosphere|mood|symbolism|occult|aesthetic|vibe|theme|world)\b", re.I)
 _ERA_ONLY = re.compile(r"\b(era|century|fashion|\d{3,4}s)\b", re.I)  # fine in clothing text, not as a tag
-_HAT = re.compile(r"\b(hat|top hat|bowler|cap|bonnet|hood|helmet|headwear)\b", re.I)
+# "hooded" too: Daly's "black-hooded robe" tag slipped through and every option came back hooded
+_HAT = re.compile(r"\b(hats?|top hat|bowler|caps?|bonnets?|hood(?:ed|s)?|helmets?|headwear)\b", re.I)
 
 _APPEARANCE = re.compile(
     r"\b(hair|hairline|eyes?|face|faced|features|tall|short|slender|thin|plump|stout|build|muscular|complexion|"
@@ -240,6 +245,9 @@ def describe(profile: dict) -> str:
     return "; ".join(f"{FIELD_LABELS[f].split(' /')[0].lower()}: {v}" for f, v in portrait_values(profile).items())
 
 
+_VAGUE_OUTFIT = re.compile(r"\b(everyday|ordinary|plain|simple|casual|common|normal)\b|^\s*clothes\s*$", re.I)
+
+
 def base_prompt(profile: dict, gender: str | None, art: dict) -> tuple[str, str]:
     """Prompt for a base portrait (Anima: tags + natural language).
 
@@ -254,9 +262,18 @@ def base_prompt(profile: dict, gender: str | None, art: dict) -> tuple[str, str]
     who = {"m": "a man", "f": "a woman"}.get(gender or "", "a person")
     era = (art.get("era") or "").strip()
     clothes = f" Clothing in {era} style." if era else ""
-    prompt = (f"masterpiece, best quality, score_7, safe, {gender_tag(gender)}, solo, upper body, looking at viewer, "
-              f"{tags}, {STYLE_TAGS.get(style, '')}, simple background, grey background. "
-              f"Half-body illustration of {who}, from the head down to the waist — {describe(profile)}.{clothes} "
+    # name what's below the waist too: thin profiles ("a plain face with a short beard") otherwise come out as
+    # face close-ups every time (measured on the shared extras), however loudly "full body" is asked for
+    legs = {"f": "long skirt, boots"}.get(gender or "", "trousers, leather shoes")
+    outfit = profile.get("outfit", {}).get("value", "") if isinstance(profile.get("outfit"), dict) else ""
+    if _VAGUE_OUTFIT.search(outfit) or len(outfit) < 12:
+        # "everyday clothes" gives the model nothing to draw below the chin: it made giant heads on legs
+        legs = {"f": "high-collared blouse, shawl, long skirt, boots"}.get(
+            gender or "", "white shirt, waistcoat, long coat, trousers, leather shoes")
+    prompt = (f"masterpiece, best quality, score_7, safe, {gender_tag(gender)}, solo, full body, standing, {legs}, "
+              f"looking at viewer, {tags}, {STYLE_TAGS.get(style, '')}, simple background, grey background. "
+              f"Full-body visual novel character sprite of {who}, standing, from head to toe, wearing {legs} — "
+              f"{describe(profile)}.{clothes} "
               f"{STYLES.get(style, style)}. {FRAMING}.")
     return re.sub(r"(,\s*)+", ", ", prompt), NEGATIVE_KEEP_HAT if wears_hat(profile) else NEGATIVE
 

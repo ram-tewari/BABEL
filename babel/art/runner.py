@@ -60,7 +60,7 @@ MODEL_HELD_GB = {"anima-turbo": 6.0, "flux2-klein-4b": 4.5}
 DRAW_MARGIN_GB = 3.0  # on top of the governor's headroom: free memory stays clear of macOS compressing
 MAX_CANDIDATE_DRAWS = 12  # per design: the checker may redraw failing options until this many were drawn
 MAX_EXPRESSION_ATTEMPTS = 3
-MAX_LIBRARY_DRAWS = 6  # extras/backgrounds: give up (and use the closest) after this many options
+MAX_LIBRARY_DRAWS = 9  # extras/backgrounds: give up (and use the closest) after this many options
 PRESSURE_COOLDOWN_S = 300  # after a memory-pressure pause, automatic work waits this long
 STAGE_AHEAD = 8  # chapters after your reading position that are prepared automatically
 
@@ -523,6 +523,10 @@ class ArtScheduler:
                 req = {"op": "edit", "model": img["model"], "prompt": p["prompt"], "image": base["path"],
                        "seed": img["seed"], "width": designs.BASE_W, "height": designs.BASE_H, "out": str(out)}
             rep = self.backend.call(req)
+            if img["kind"] == "candidate" and p.get("frame") == "sprite" and out.exists():
+                from babel.art.sprite import frame_sprite
+
+                frame_sprite(out)
             make_thumb(out)
             self.store.x("UPDATE art_images SET status='done', path=?, secs=?, error=NULL, qc_status=? WHERE id=?",
                          (str(out), rep.get("secs"), "pending" if self.approver else "skipped", img["id"]))
@@ -595,14 +599,15 @@ class ArtScheduler:
         """A failed check: hide a bad option and replace it; redraw a bad expression a few times."""
         if img["kind"] == "candidate":
             self.store.x("UPDATE art_images SET status='rejected' WHERE id=?", (img["id"],))
-            drawn = self.store.one("SELECT COUNT(*) n FROM art_images WHERE design_id=? AND kind='candidate'",
-                                   (img["design_id"],))["n"]
+            # options drawn *for this prompt*: a restyle or a profile edit starts a fresh budget
+            drawn = self.store.one("SELECT COUNT(*) n FROM art_images WHERE design_id=? AND kind='candidate'"
+                                   " AND prompt=?", (img["design_id"], img["prompt"]))["n"]
             d = self.store.one("SELECT auto_pick FROM designs WHERE id=?", (img["design_id"],))
             if d and d["auto_pick"]:
                 # library items need one good option, not six: stop as soon as one passed, and give up sooner
                 passed = self.store.one("SELECT 1 FROM art_images WHERE design_id=? AND kind='candidate'"
                                         " AND status IN ('done','queued','running') AND qc_status IS NOT 'fail'"
-                                        " LIMIT 1", (img["design_id"],))
+                                        " AND prompt=? LIMIT 1", (img["design_id"], img["prompt"]))
                 if passed or drawn >= MAX_LIBRARY_DRAWS:
                     return
             if drawn < MAX_CANDIDATE_DRAWS:

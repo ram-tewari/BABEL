@@ -129,8 +129,48 @@ def messages(image: Path | str, profile: dict | None, gender: str | None, kind: 
             {"role": "user", "content": "\n".join(lines), "images": [_img_b64(image)]}], schema
 
 
+# Headroom: a sprite needs air above the head. Measured as the first row (from the top) where the figure starts —
+# more than 2% of the row differs from the plain backdrop — as a fraction of the height.
+MIN_HEADROOM = 0.02
+
+
+MAX_HEAD_WIDTH = 0.45  # framed sprites measured 0.11-0.39; face close-ups 0.5-0.97
+
+
+def _figure_mask(image: Path | str):
+    from PIL import Image, ImageChops
+
+    from babel.art.sprite import _backdrop_color
+
+    with Image.open(image) as src:
+        im = src.convert("RGB")
+    im.thumbnail((208, 304))
+    return ImageChops.difference(im, Image.new("RGB", im.size, _backdrop_color(im))).convert("L").point(
+        lambda v: 255 if v > 28 else 0)
+
+
+def head_width(image: Path | str) -> float:
+    """How much of the width the figure fills just below the top of the head (0..1)."""
+    mask = _figure_mask(image)
+    w, h = mask.size
+    top = headroom(image)
+    # the crown of the hair can be narrow even in a close-up, so also measure at face level
+    return max(mask.crop((0, y, w, y + 1)).histogram()[255] / w
+               for y in (min(h - 1, int(h * (top + 0.08))), min(h - 1, int(h * (top + 0.15)))))
+
+
+def headroom(image: Path | str) -> float:
+    diff = _figure_mask(image)
+    w, h = diff.size
+    for y in range(h):
+        if diff.crop((0, y, w, y + 1)).histogram()[255] > 0.02 * w:
+            return y / h
+    return 1.0
+
+
 def score(answers: dict, *, profile: dict | None, gender: str | None, kind: str, emotion: str | None,
-          outfit_drift: float | None = None, drift: float | None = None) -> dict:
+          outfit_drift: float | None = None, drift: float | None = None, top_space: float | None = None,
+          head: float | None = None) -> dict:
     """Turn the model's answers into a score in [0, 1], a verdict and human-readable issues."""
     issues: list[str] = []
     hard = False
@@ -150,7 +190,14 @@ def score(answers: dict, *, profile: dict | None, gender: str | None, kind: str,
     values = portrait_values(profile or {})
     for key, label in ATTRS:
         if answers.get(f"attr_{key}") == "no":
-            bad(f"{label.lower()} doesn't match “{values.get(key, '')}”", 0.35 if key in ("hair", "eyes") else 0.15)
+            # an expression edit that changed the eye colour is a different character (seen: brown → blue)
+            drifted = kind == "expression" and key == "eyes"
+            bad(f"{label.lower()} doesn't match “{values.get(key, '')}”", 0.35 if key in ("hair", "eyes") else 0.15,
+                drifted)
+    if top_space is not None and top_space < MIN_HEADROOM:
+        bad("the head is cut off by the top of the picture", 0.6, True)
+    elif head is not None and kind == "candidate" and head > MAX_HEAD_WIDTH:
+        bad("a face close-up, not a full figure", 0.6, True)
     # disqualifying for a talking-character sprite: hats hide the hair, objects hide the mouth
     if answers.get("headwear") == "yes" and not wears_hat(profile or {}):
         bad("wearing a hat", 0.4, True)
@@ -227,7 +274,8 @@ class Approver:
         pixel = reference is not None and kind == "expression"
         out = score(answers, profile=profile, gender=gender, kind=kind, emotion=emotion,
                     outfit_drift=outfit_drift(reference, image) if pixel else None,
-                    drift=picture_drift(reference, image) if pixel else None)
+                    drift=picture_drift(reference, image) if pixel else None, top_space=headroom(image),
+                    head=head_width(image))
         out["model"] = self.model
         return out
 

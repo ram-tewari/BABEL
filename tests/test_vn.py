@@ -107,7 +107,7 @@ def test_library_items_are_drawn_checked_and_picked_automatically(store, sch):
     assert all(fv["sheet"][e] for e in lib.EXTRA_EMOTIONS)
     assert bv["status"] == "approved" and bv["base_image_id"] and bv["sheet"] == {}
     sizes = {(c["width"], c["height"]) for c in sch.fake.calls if c["op"] == "generate"}
-    assert (1344, 768) in sizes and (832, 1216) in sizes  # backgrounds are wide, people are tall
+    assert (1344, 768) in sizes and (1024, 1536) in sizes  # backgrounds are wide, people are drawn full-body
 
 
 def test_stage_view_and_api(store, tmp_path, sch):
